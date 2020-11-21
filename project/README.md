@@ -14,7 +14,8 @@ see this link for more information: https://github.com/SocialComplexityLab/socia
 
 - The idea is that you can create much more complex, fun and interactive analysis (and visualizations) on line. So the website is a way for you to present your work in a way that everyone can understand it ... including dynamic visualizations, interactive analysis, etc, etc ... that would not work on a piece of paper. (Also, it'll hopefully be something cool you can show your friends <-- sorry, I know I'm a nerd). 
 
-2. to-do-list
+2. timeline
 
-(a) 
+11.22 sunday - motivation and basic statistics
+
 
