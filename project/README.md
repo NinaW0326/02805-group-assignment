@@ -19,9 +19,20 @@ file description:
       iii. 获取subgraph 子网络（因为有标注的霍格沃兹学院的人在整个网络中的占比不大，不适合用整张网络进行分析）    
       iv. 进行简单的可视化（不同颜色代表不同学院）    
       v. 进行简单的社区检索并可视化（未分析）    
-      
-    
+
+(c) 使用louvain和infomap算法分别进行社区检测。通过infomap的结果拥有较大的子社区，使用louvain进一步对于这个子社区进行检测（based on modularity方法的局限性以及ns中提到的解决方法）;其实这步我预想的是通过infomap再算一次，但是infomap并不会再给子社区进行划分（应该还是modularity的问题）。目前不知道如何解决。  
+(d) 全图的社区检测以及可视化（for fun）：可以看到结点需要筛选。以及可以进去看看社区节点，看看是什么样的子社区。  
+
+3. **fandom_page_clean**  
+(a) 读取从fandom下载的网页，进行   
+* 掐头去尾的工作（避免notes and reference后面的链接对link产生影响）
+* 去除所有的html格式，保存为txt,为后续nlp分析做准备
+(b) nodes_edges_new.json记录了新的网络节点和链接
+
+
+
 （接下来：1.研究community detection的其他算法，进行尝试。2.对其他两个属性做类似操作。
 key point: 社区检测算法的原理？好像是通过网络结构进行的划分，那么这样的划分其实对于学院的分类并不是很科学，是否有更好的分类方法。node2vec等网络embedding方法。
 ）
+
 
