@@ -1,0 +1,8 @@
+1. Clean the node, including classroom, portrait, chair, commitee, law, which are not regarded as the character we need.
+Approximately 440 modes are removed, but has probability that some invalid nodes are still conclude.
+
+For tmr:
+
+1. Double check the node.
+2. Finish tf_idf
+3. Have a look at other two community detection 
