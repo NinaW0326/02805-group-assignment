@@ -1,0 +1,610 @@
+<div class="mw-parser-output"><table class="notice metadata" id="spoiler" style="text-align: center; background: beige; margin: 1em 05%; padding: 0 1em; border: #a00 1px solid;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/0/0c/Hand_pointing_right_transparent.png/revision/latest?cb=20181112005815" class="image"><img alt="Hand pointing right transparent.png" src="https://static.wikia.nocookie.net/harrypotter/images/0/0c/Hand_pointing_right_transparent.png/revision/latest/scale-to-width-down/150?cb=20181112005815" decoding="async" width="150" height="75" data-image-name="Hand pointing right transparent.png" data-image-key="Hand_pointing_right_transparent.png" /></a>
+</td>
+<td><b>Warning!</b>
+<p>At least some content in this article is derived from information featured in <i><a href="/wiki/Harry_Potter:_Puzzles_%26_Spells" title="Harry Potter: Puzzles &amp; Spells">Harry Potter: Puzzles &amp; Spells</a></i>, <i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i>, and <i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i>.<br />As such, spoilers will be present within the article.
+</p>
+</td></tr></tbody></table>
+<div style="position:absolute; z-index:100; right:20px; top:10px; height:10px; width:300px;"></div>
+<div style="position:absolute; z-index:100; right:10px; top:10px;" class="metadata" id="administrator"><a href="/wiki/Harry_Potter_Wiki:Featured_articles" title="Harry Potter Wiki:Featured articles"><img alt="GSnitch.JPG" src="https://static.wikia.nocookie.net/harrypotter/images/8/82/GSnitch.JPG/revision/latest/scale-to-width-down/30?cb=20120226221029" decoding="async" width="30" height="28" data-image-name="GSnitch.JPG" data-image-key="GSnitch.JPG" /></a></div>
+<figure class="thumb tright show-info-icon" style="width: 253px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/f/fd/DH1_The_Malfoy_Family.png/revision/latest?cb=20200929193628" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/f/fd/DH1_The_Malfoy_Family.png/revision/latest/scale-to-width-down/251?cb=20200929193628" decoding="async" width="251" height="167" class="thumbimage" data-image-name="DH1 The Malfoy Family.png" data-image-key="DH1_The_Malfoy_Family.png" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:DH1_The_Malfoy_Family.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">The ancient and highly prejudiced pure-blood <a href="/wiki/Malfoy_family" title="Malfoy family">Malfoy family</a></p> 		 	</figcaption> </figure>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Pottermore">"<i>The term 'pure-blood' refers to a family or individual without Muggle (non-magic) blood. The concept is generally associated with Salazar Slytherin, one of the four founders of Hogwarts School of Witchcraft and Wizardry, whose aversion to teaching anybody of Muggle parentage eventually led to a breach with his three fellow founders, and his resignation from the school.</i>"</span></dd>
+<dd>&#8212;Where the term 'pure-blood' originated from<sup class="noprint"><a href="/wiki/Pottermore" title="Pottermore">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Pure-blood</b> is the term for <a href="/wiki/Wizardkind" title="Wizardkind">wizarding</a> families who claim to have no <a href="/wiki/Non-magic_people" title="Non-magic people">Muggles</a> or <a href="/wiki/Muggle-born" title="Muggle-born">Muggle-borns</a> in their family tree; however, when traced back far enough, nearly every family tree had some non-magical ancestors.<sup id="cite_ref-FAQ_1-0" class="reference"><a href="#cite_note-FAQ-1">&#91;1&#93;</a></sup><sup id="cite_ref-malfoy_2-0" class="reference"><a href="#cite_note-malfoy-2">&#91;2&#93;</a></sup><sup id="cite_ref-TBB_3-0" class="reference"><a href="#cite_note-TBB-3">&#91;3&#93;</a></sup> Most wizards and witches consider an individual to be a pure-blood if his or her parents and grandparents were not Muggles or Muggle-born.<sup id="cite_ref-harry_4-0" class="reference"><a href="#cite_note-harry-4">&#91;4&#93;</a></sup>
+</p><p>By <a href="/wiki/1995" title="1995">1995</a>, the number of pure-blood families were declining. Most pure-blood families were related by then in an effort, by some, to retain their status by marrying only other pure-blood families, but it had eventually led to <a href="http://en.wikipedia.org/wiki/Inbreeding" class="extiw" title="wikipedia:Inbreeding">inbreeding</a>. While some families, such as the <a href="/wiki/Malfoy_family" title="Malfoy family">Malfoys</a>, had allowed for marrying half-bloods, others such as the <a href="/wiki/House_of_Gaunt" title="House of Gaunt">Gaunts</a>, <a href="/wiki/Lestrange_family" title="Lestrange family">Lestranges</a>, and <a href="/wiki/House_of_Black" title="House of Black">Blacks</a>, required their family to only marry pure-blood individuals, or those with no Muggle or Muggle-born ancestors.<sup id="cite_ref-malfoy_2-1" class="reference"><a href="#cite_note-malfoy-2">&#91;2&#93;</a></sup><sup id="cite_ref-FAQ_1-1" class="reference"><a href="#cite_note-FAQ-1">&#91;1&#93;</a></sup> This refusal of marrying Muggles or Muggle-borns had led to difficulty in propagating their families.<sup id="cite_ref-FAQ_1-2" class="reference"><a href="#cite_note-FAQ-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Maintaining_.22purity.22"><span class="tocnumber">2</span> <span class="toctext">Maintaining "purity"</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Attitude"><span class="tocnumber">3</span> <span class="toctext">Attitude</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Known_pure-blood_families"><span class="tocnumber">4</span> <span class="toctext">Known pure-blood families</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Possible_pure-bloods"><span class="tocnumber">4.1</span> <span class="toctext">Possible pure-bloods</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Behind_the_scenes"><span class="tocnumber">6</span> <span class="toctext">Behind the scenes</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Author.27s_comments"><span class="tocnumber">6.1</span> <span class="toctext">Author's comments</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Appearances"><span class="tocnumber">7</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Notes_and_references"><span class="tocnumber">8</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Pure-blood?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Overview">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Pure-blood?action=edit&amp;section=1" title="Edit section: Overview"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Order of the Phoenix">"<i>The pure-blood families are all interrelated. If you’re only going to let your sons and daughters marry pure-bloods, your choice is very limited; there are hardly any of us left.</i>"</span></dd>
+<dd>&#8212;<a href="/wiki/Sirius_Black" title="Sirius Black">Sirius Black</a>'s overview of blood purity<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">[src]</a></sup></dd>
+<dd></dd></dl></div><p>Pure-blood individuals are people who have no <a href="/wiki/Non-magic_people" title="Non-magic people">Muggles</a> or Muggle-borns as parents or grandparents.<sup id="cite_ref-harry_4-1" class="reference"><a href="#cite_note-harry-4">&#91;4&#93;</a></sup> Traditionalist pure-bloods like to keep the generations "pure" by breeding with other pure-bloods and are generally the ones who use the term '<a href="/wiki/Mudblood" title="Mudblood">Mudblood</a>', a term considered derogatory by the wizarding world. Families of pure-blood status often avoid marrying their heirs off to Muggle-Borns and <a href="/wiki/Half-Blood" class="mw-redirect" title="Half-Blood">Half-Bloods</a>, believing that the next generation could lose their capability to perform magic. Mudblood means Muggle-born, suggesting they have dirty blood and thus have no right to be a witch/wizard. Pure-bloods who do not share these prejudices are considered "blood traitors" by the ones that do.
+</p><p>In the <a href="/wiki/1930s" title="1930s">1930s</a>, a wizard, commonly believed to be <a href="/wiki/Cantankerus_Nott" title="Cantankerus Nott">Cantankerus Nott</a>, wrote the <i><a href="/wiki/Pure-Blood_Directory" title="Pure-Blood Directory">Pure-Blood Directory</a></i> featuring <a href="/wiki/Sacred_Twenty-Eight" title="Sacred Twenty-Eight">twenty-eight families</a> he believed to be truly pure-blooded, though many objected to this designation.<sup id="cite_ref-pureblood_5-0" class="reference"><a href="#cite_note-pureblood-5">&#91;5&#93;</a></sup>
+</p>
+<h2><span id="Maintaining_&quot;purity&quot;"></span><span class="mw-headline" id="Maintaining_.22purity.22">Maintaining "purity"</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Pure-blood?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Maintaining &quot;purity&quot;">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Pure-blood?action=edit&amp;section=2" title="Edit section: Maintaining &quot;purity&quot;"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="quote">
+<dl><dd><span title="Source:&#160;The Tales of Beedle the Bard (real)">"<i>So-called pure-blood families maintain their alleged purity by disowning, banishing, or lying about Muggles or Muggle-borns on their family trees. Then they attempt to foist their hypocrisy upon the rest of us by asking us to ban works dealing with the truths they deny. There is not a witch or wizard in existence whose blood has not mingled with that of Muggles...</i>"</span></dd>
+<dd>&#8212;Pure-blood wizards are not so pure<sup class="noprint"><a href="/wiki/The_Tales_of_Beedle_the_Bard_(real)" title="The Tales of Beedle the Bard (real)">[src]</a></sup></dd>
+<dd></dd></dl></div><figure class="thumb tleft show-info-icon" style="width: 247px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/d/de/Blackfamilytreeootp5.jpg/revision/latest?cb=20090626131137" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="245" height="138" class="thumbimage lazyload" data-image-name="Blackfamilytreeootp5.jpg" data-image-key="Blackfamilytreeootp5.jpg" data-src="https://static.wikia.nocookie.net/harrypotter/images/d/de/Blackfamilytreeootp5.jpg/revision/latest/scale-to-width-down/245?cb=20090626131137" /></a> 	<noscript><a href="https://static.wikia.nocookie.net/harrypotter/images/d/de/Blackfamilytreeootp5.jpg/revision/latest?cb=20090626131137" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/d/de/Blackfamilytreeootp5.jpg/revision/latest/scale-to-width-down/245?cb=20090626131137" decoding="async" width="245" height="138" class="thumbimage" data-image-name="Blackfamilytreeootp5.jpg" data-image-key="Blackfamilytreeootp5.jpg" data-src="https://static.wikia.nocookie.net/harrypotter/images/d/de/Blackfamilytreeootp5.jpg/revision/latest/scale-to-width-down/245?cb=20090626131137" /></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Blackfamilytreeootp5.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption"><a href="/wiki/Black_Family_Tapestry" title="Black Family Tapestry">Black Family Tapestry</a></p> 		 	</figcaption> </figure>
+<p>Some pure-blood families can trace their pure-blood status through many generations of magical ancestors and deny ever having any Muggles within the family, such as the <a href="/wiki/House_of_Black" title="House of Black">House of Black</a>, the motto of which is "Toujours pur", meaning "Always (or Still) Pure".<sup id="cite_ref-JKRtree_6-0" class="reference"><a href="#cite_note-JKRtree-6">&#91;6&#93;</a></sup><sup id="cite_ref-HOB_7-0" class="reference"><a href="#cite_note-HOB-7">&#91;7&#93;</a></sup> However, the truth is that if they ever did exist in the past, true pure-blood wizards and witches do not exist today. They merely erase <a href="/wiki/Squib" title="Squib">Squibs</a>, <a href="/wiki/Muggle-borns" class="mw-redirect" title="Muggle-borns">Muggle-borns</a>, and <a href="/wiki/Non-magic_people" title="Non-magic people">Muggles</a> from their family trees.<sup id="cite_ref-FAQ_1-3" class="reference"><a href="#cite_note-FAQ-1">&#91;1&#93;</a></sup>
+</p><p>Half-bloods who consider <a href="/wiki/Blood_status" title="Blood status">blood purity</a> very important also hide their Muggle ancestry, clinging to the magical heritage they do have.<sup id="cite_ref-HBP12_8-0" class="reference"><a href="#cite_note-HBP12-8">&#91;8&#93;</a></sup> Many <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a> are believed to have done this, and their leader himself took on the name <a href="/wiki/Tom_Riddle" title="Tom Riddle">Lord Voldemort</a> out of a desire to not keep the name of his "<i>filthy Muggle father</i>".<sup id="cite_ref-CS_9-0" class="reference"><a href="#cite_note-CS-9">&#91;9&#93;</a></sup> It is likely that Voldemort told his followers he was a pure-blood, or that most of the Death Eaters knew better than to question Riddle's blood status, given the reaction of <a href="/wiki/Bellatrix_Lestrange" title="Bellatrix Lestrange">Bellatrix Lestrange</a> to Harry's "accusation" that he was in fact a <a href="/wiki/Half-blood" title="Half-blood">half-blood</a>.<sup id="cite_ref-OTP_10-0" class="reference"><a href="#cite_note-OTP-10">&#91;10&#93;</a></sup>
+</p><p>Many pure-blood families, such as the Blacks and <a href="/wiki/House_of_Gaunt" title="House of Gaunt">Gaunts</a>, practise marrying cousins in order to maintain their pure-blood status, and disown any members who marry someone who is not a pure-blood.<sup id="cite_ref-Disown_11-0" class="reference"><a href="#cite_note-Disown-11">&#91;11&#93;</a></sup> This practice has been known to cause problems as families often become inbred because of this; for example, the Gaunts showed signs of violent tendencies, mental instability, and being enfeebled.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup><sup id="cite_ref-malfoy_2-2" class="reference"><a href="#cite_note-malfoy-2">&#91;2&#93;</a></sup> The number of pure-bloods has diminished over time because of said <a href="/wiki/Inbreeding" title="Inbreeding">inbreeding</a>.<sup id="cite_ref-FAQ_1-4" class="reference"><a href="#cite_note-FAQ-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Attitude">Attitude</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Pure-blood?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Attitude">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Pure-blood?action=edit&amp;section=3" title="Edit section: Attitude"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Philosopher&#39;s Stone">"<i>I really don't think they should let the other sort in, do you? They’re just not the same, they've never been brought up to know our ways. Some of them have never even heard of <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts</a> until they get the letter, imagine. I think they should keep it in the old wizarding families.</i>"</span></dd>
+<dd>&#8212;<a href="/wiki/Draco_Malfoy" title="Draco Malfoy">Draco Malfoy</a>'s prejudice concerning Muggle-borns<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone" title="Harry Potter and the Philosopher&#39;s Stone">[src]</a></sup></dd>
+<dd></dd></dl></div><figure class="thumb tright show-info-icon" style="width: 152px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/8/8d/SalazarSlytherin.png/revision/latest?cb=20131117024104" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="150" height="239" class="thumbimage lazyload" data-image-name="SalazarSlytherin.png" data-image-key="SalazarSlytherin.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/8/8d/SalazarSlytherin.png/revision/latest/scale-to-width-down/150?cb=20131117024104" /></a> 	<noscript><a href="https://static.wikia.nocookie.net/harrypotter/images/8/8d/SalazarSlytherin.png/revision/latest?cb=20131117024104" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/8/8d/SalazarSlytherin.png/revision/latest/scale-to-width-down/150?cb=20131117024104" decoding="async" width="150" height="239" class="thumbimage" data-image-name="SalazarSlytherin.png" data-image-key="SalazarSlytherin.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/8/8d/SalazarSlytherin.png/revision/latest/scale-to-width-down/150?cb=20131117024104" /></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:SalazarSlytherin.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption"><a href="/wiki/Salazar_Slytherin" title="Salazar Slytherin">Salazar Slytherin</a>, an infamous pure-blood supremacist</p> 		 	</figcaption> </figure>
+<p>Some pure-bloods regard themselves as superior to those witches and wizards who are born to <a href="/wiki/Non-magic_people" title="Non-magic people">Muggles</a> and <a href="/wiki/Half-blood" title="Half-blood">half-bloods</a>. They believe that Muggles are little more than animals and that <a href="/wiki/Muggle-borns" class="mw-redirect" title="Muggle-borns">Muggle-borns</a>, whom they derisively call '<a href="/wiki/Mudblood" title="Mudblood">Mudbloods</a>', are second-class citizens, inferior and unworthy of being allowed to practise <a href="/wiki/Magic" title="Magic">magic</a>. Many also discriminate against <a href="/wiki/Half-breeds" class="mw-redirect" title="Half-breeds">half-breeds,</a> <a href="/wiki/Giant" title="Giant">giants</a>, <a href="/wiki/Werewolf" title="Werewolf">werewolves</a> and <a href="/wiki/Creature" title="Creature">magical creatures</a>.
+</p><p>Salazar Slytherin believed that only pure-bloods should be allowed to attend <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> and educated in magic; this was the cause of his conflict with the other Founders and his leaving the school. However, he left behind the <a href="/wiki/Chamber_of_Secrets" title="Chamber of Secrets">Chamber of Secrets</a> in the hope that one day his heir would open the Chamber and release the basilisk within to target Muggle-born students. <a href="/wiki/Tom_Riddle" title="Tom Riddle">Tom Riddle</a> was this heir, and the <a href="/wiki/Basilisk" title="Basilisk">basilisk</a> petrified several Muggle-born students in <a href="/wiki/1943" title="1943">1943</a> and the <a href="/wiki/1992%E2%80%931993_school_year" title="1992–1993 school year">1992–1993 school year</a> and managed to kill one student, <a href="/wiki/Myrtle_Warren" title="Myrtle Warren">Myrtle Warren</a>, in 1943.<sup id="cite_ref-CS_9-1" class="reference"><a href="#cite_note-CS-9">&#91;9&#93;</a></sup>
+</p>
+<figure class="thumb tleft show-info-icon" style="width: 253px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/9/9f/Weasley_family.png/revision/latest?cb=20200417054614" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="251" height="146" class="thumbimage lazyload" data-image-name="Weasley family.png" data-image-key="Weasley_family.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/9/9f/Weasley_family.png/revision/latest/scale-to-width-down/251?cb=20200417054614" /></a> 	<noscript><a href="https://static.wikia.nocookie.net/harrypotter/images/9/9f/Weasley_family.png/revision/latest?cb=20200417054614" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/9/9f/Weasley_family.png/revision/latest/scale-to-width-down/251?cb=20200417054614" decoding="async" width="251" height="146" class="thumbimage" data-image-name="Weasley family.png" data-image-key="Weasley_family.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/9/9f/Weasley_family.png/revision/latest/scale-to-width-down/251?cb=20200417054614" /></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Weasley_family.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Members of the pure-blood <a href="/wiki/Weasley_family" title="Weasley family">Weasley family</a>: for sympathising with Muggles and being friendly with Muggle-borns, this pure-blood family is labelled as 'blood traitors'</p> 		 	</figcaption> </figure>
+<p>Riddle, later known as Lord Voldemort, continued his persecution of those who were not pure-bloods (ironically being a half-blood himself) with his followers, the <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a>. They strove to place pure-bloods in control of the wizarding world and to rid it of Muggle-borns. When Voldemort succeeded in taking over the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">Ministry of Magic</a> during the height of the <a href="/wiki/Second_Wizarding_War" title="Second Wizarding War">Second Wizarding War</a>, his followers created the <a href="/wiki/Muggle-Born_Registration_Commission" title="Muggle-Born Registration Commission">Muggle-Born Registration Commission</a> in order to weed Muggle-borns out of the population and send them to <a href="/wiki/Azkaban" title="Azkaban">Azkaban</a> for allegedly stealing magic. Pure-bloods were also blatantly favoured within the Ministry and, to a lesser extent, Hogwarts School of Witchcraft and Wizardry, although half-blood was sufficient to avoid prosecution.<sup id="cite_ref-DH_13-0" class="reference"><a href="#cite_note-DH-13">&#91;13&#93;</a></sup>
+</p><p>However, there are pure-bloods who do not have these beliefs, and instead treat all magical people and Muggles as equals. These pure-blood folk are often labelled "<a href="/wiki/Blood_traitor" title="Blood traitor">blood traitors</a>" by the more fanatical pure-bloods.<sup id="cite_ref-CS_9-2" class="reference"><a href="#cite_note-CS-9">&#91;9&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Known_pure-blood_families">Known pure-blood families</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Pure-blood?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Known pure-blood families">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Pure-blood?action=edit&amp;section=4" title="Edit section: Known pure-blood families"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable" border="1">
+<tbody><tr>
+<th>Pure-blood family
+</th>
+<th>Current status
+</th>
+<th>Known pure-blood members
+</th></tr>
+<tr>
+<td><a href="/wiki/Abbott_family" title="Abbott family">Abbott</a>
+<p><sup id="cite_ref-pureblood_5-1" class="reference"><a href="#cite_note-pureblood-5">&#91;5&#93;</a></sup>
+</p>
+</td>
+<td>Pure-blood in the 1930s<sup id="cite_ref-pureblood_5-2" class="reference"><a href="#cite_note-pureblood-5">&#91;5&#93;</a></sup><br /> Extant at least in female line
+</td>
+<td><a href="/wiki/Abbott" title="Abbott">Abbott</a>, <a href="/wiki/Giffard_Abbott" title="Giffard Abbott">Gifford Abbott</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Avery_family" title="Avery family">Avery</a>
+<p><sup id="cite_ref-pureblood_5-3" class="reference"><a href="#cite_note-pureblood-5">&#91;5&#93;</a></sup>
+</p>
+</td>
+<td>Unknown, possibly extinct
+</td>
+<td><a href="/wiki/Avery_I" title="Avery I">Avery Snr</a>, <a href="/wiki/Avery_II" title="Avery II">Avery Jnr</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/House_of_Black" title="House of Black">Black</a>
+<p><sup id="cite_ref-pureblood_5-4" class="reference"><a href="#cite_note-pureblood-5">&#91;5&#93;</a></sup>
+</p><figure class="thumb tleft show-info-icon" style="width: 152px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/1/1e/Toujours_Pur.jpg/revision/latest?cb=20180306014425" class="image"><img alt="Toujours Pur.jpg" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="150" height="216" class="thumbimage lazyload" data-image-name="Toujours Pur.jpg" data-image-key="Toujours_Pur.jpg" data-src="https://static.wikia.nocookie.net/harrypotter/images/1/1e/Toujours_Pur.jpg/revision/latest/scale-to-width-down/150?cb=20180306014425" /></a> 	<noscript><a href="https://static.wikia.nocookie.net/harrypotter/images/1/1e/Toujours_Pur.jpg/revision/latest?cb=20180306014425" class="image"><img alt="Toujours Pur.jpg" src="https://static.wikia.nocookie.net/harrypotter/images/1/1e/Toujours_Pur.jpg/revision/latest/scale-to-width-down/150?cb=20180306014425" decoding="async" width="150" height="216" class="thumbimage" data-image-name="Toujours Pur.jpg" data-image-key="Toujours_Pur.jpg" data-src="https://static.wikia.nocookie.net/harrypotter/images/1/1e/Toujours_Pur.jpg/revision/latest/scale-to-width-down/150?cb=20180306014425" /></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Toujours_Pur.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 	</figcaption> </figure>
+<p class="mw-empty-elt"></p>
+</td>
+<td>Extant only in female line
+</td>
+<td><a href="/wiki/Alexia_Walkin_Black" title="Alexia Walkin Black">Alexia Walkin Black</a>,
+<p><sup id="cite_ref-HOB_7-1" class="reference"><a href="#cite_note-HOB-7">&#91;7&#93;</a></sup> <a href="/wiki/Alphard_Black" title="Alphard Black">Alphard Black</a>,<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup> <a href="/wiki/Andromeda_Tonks" title="Andromeda Tonks">Andromeda Tonks née Black</a>,<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup> <a href="/wiki/Arcturus_Black_I" title="Arcturus Black I">Arcturus Black I</a><sup id="cite_ref-HOB_7-2" class="reference"><a href="#cite_note-HOB-7">&#91;7&#93;</a></sup> <a href="/wiki/Arcturus_Black_II" title="Arcturus Black II">Arcturus Black II</a>,<sup id="cite_ref-HOB_7-3" class="reference"><a href="#cite_note-HOB-7">&#91;7&#93;</a></sup>, <a href="/wiki/Arcturus_Black_III" title="Arcturus Black III">Arcturus Black III</a>,<sup id="cite_ref-HOB_7-4" class="reference"><a href="#cite_note-HOB-7">&#91;7&#93;</a></sup> <a href="/wiki/Bellatrix_Lestrange" title="Bellatrix Lestrange">Bellatrix Lestrange</a> née Black,<sup id="cite_ref-HOB_7-5" class="reference"><a href="#cite_note-HOB-7">&#91;7&#93;</a></sup> <a href="/wiki/Belvina_Black" title="Belvina Black">Belvina Burke née Black</a>,<sup id="cite_ref-HOB_7-6" class="reference"><a href="#cite_note-HOB-7">&#91;7&#93;</a></sup> <a href="/wiki/Callidora_Black" title="Callidora Black">Callidora Longbottom née Black</a>,<sup id="cite_ref-HOB_7-7" class="reference"><a href="#cite_note-HOB-7">&#91;7&#93;</a></sup> <a href="/wiki/Cassiopeia_Black" title="Cassiopeia Black">Cassiopeia Black</a>,<sup id="cite_ref-HOB_7-8" class="reference"><a href="#cite_note-HOB-7">&#91;7&#93;</a></sup> <a href="/wiki/Cedrella_Black" title="Cedrella Black">Cedrella Weasley née Black</a><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup> <a href="/wiki/Charis_Black" title="Charis Black">Charis Crouch née Black</a>,<sup id="cite_ref-HOB_7-9" class="reference"><a href="#cite_note-HOB-7">&#91;7&#93;</a></sup> <a href="/wiki/Cygnus_Black_I" title="Cygnus Black I">Cygnus Black I</a><sup id="cite_ref-HOB_7-10" class="reference"><a href="#cite_note-HOB-7">&#91;7&#93;</a></sup>, <a href="/wiki/Cygnus_Black_II" title="Cygnus Black II">Cygnus Black II</a>,<sup id="cite_ref-HOB_7-11" class="reference"><a href="#cite_note-HOB-7">&#91;7&#93;</a></sup> <a href="/wiki/Cygnus_Black_III" title="Cygnus Black III">Cygnus Black III</a>,<sup id="cite_ref-HOB_7-12" class="reference"><a href="#cite_note-HOB-7">&#91;7&#93;</a></sup> <a href="/wiki/Dorea_Black" title="Dorea Black">Dorea Potter née Black</a>,<sup id="cite_ref-HOB_7-13" class="reference"><a href="#cite_note-HOB-7">&#91;7&#93;</a></sup> <a href="/wiki/Druella_Black" title="Druella Black">Druella Black</a> née Rosier,<sup id="cite_ref-HOB_7-14" class="reference"><a href="#cite_note-HOB-7">&#91;7&#93;</a></sup> <a href="/wiki/Eduardus_Limette_Black" title="Eduardus Limette Black">Eduardus Limette Black</a>,<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup> <a href="/wiki/Ella_Max" title="Ella Max">Ella Black née Max</a>,<sup id="cite_ref-HOB_7-15" class="reference"><a href="#cite_note-HOB-7">&#91;7&#93;</a></sup> <a href="/wiki/Elladora_Black" title="Elladora Black">Elladora Black</a>,<sup id="cite_ref-HOB_7-16" class="reference"><a href="#cite_note-HOB-7">&#91;7&#93;</a></sup> <a href="/wiki/Hesper_Gamp" title="Hesper Gamp">Hesper Black née Gamp</a>,<sup id="cite_ref-HOB_7-17" class="reference"><a href="#cite_note-HOB-7">&#91;7&#93;</a></sup> <a href="/wiki/Hesper_Black" title="Hesper Black">Hesper Black</a>,<sup id="cite_ref-HOB_7-18" class="reference"><a href="#cite_note-HOB-7">&#91;7&#93;</a></sup> <a href="/wiki/Iola_Black" title="Iola Black">Iola Hitchens née Black</a>,<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup> <a href="/wiki/Irma_Crabbe" title="Irma Crabbe">Irma Black née Crabbe</a><sup id="cite_ref-HOB_7-19" class="reference"><a href="#cite_note-HOB-7">&#91;7&#93;</a></sup> <a href="/wiki/Lucretia_Black" title="Lucretia Black">Lucretia Prewett née Black</a>,<sup id="cite_ref-HOB_7-20" class="reference"><a href="#cite_note-HOB-7">&#91;7&#93;</a></sup> <a href="/wiki/Lycoris_Black" title="Lycoris Black">Lycoris Black</a>,<sup id="cite_ref-HOB_7-21" class="reference"><a href="#cite_note-HOB-7">&#91;7&#93;</a></sup> <a href="/wiki/Lysandra_Yaxley" title="Lysandra Yaxley">Lysandra Black née Yaxley</a>,<sup id="cite_ref-HOB_7-22" class="reference"><a href="#cite_note-HOB-7">&#91;7&#93;</a></sup> <a href="/wiki/Misapinoa_Black" title="Misapinoa Black">Misapinoa Blishwick née Black</a>,<sup id="cite_ref-HOB_7-23" class="reference"><a href="#cite_note-HOB-7">&#91;7&#93;</a></sup> <a href="/wiki/Narcissa_Malfoy" title="Narcissa Malfoy">Narcissa Malfoy</a> née Black,<sup id="cite_ref-HOB_7-24" class="reference"><a href="#cite_note-HOB-7">&#91;7&#93;</a></sup>, <a href="/wiki/Orion_Black" title="Orion Black">Orion Black</a><sup id="cite_ref-JKRtree_6-1" class="reference"><a href="#cite_note-JKRtree-6">&#91;6&#93;</a></sup>, <a href="/wiki/Phineas_Nigellus_Black" title="Phineas Nigellus Black">Phineas Nigellus Black</a>,<sup id="cite_ref-HOB_7-25" class="reference"><a href="#cite_note-HOB-7">&#91;7&#93;</a></sup> <a href="/wiki/Phineas_Black" title="Phineas Black">Phineas Black</a>,<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup> <a href="/wiki/Pollux_Black" title="Pollux Black">Pollux Black</a>,<sup id="cite_ref-HOB_7-26" class="reference"><a href="#cite_note-HOB-7">&#91;7&#93;</a></sup> <a href="/wiki/Phoebe_Black" title="Phoebe Black">Phoebe Black</a>,<sup id="cite_ref-HOB_7-27" class="reference"><a href="#cite_note-HOB-7">&#91;7&#93;</a></sup> <a href="/wiki/Regulus_Black_I" title="Regulus Black I">Regulus Black I</a>,<sup id="cite_ref-HOB_7-28" class="reference"><a href="#cite_note-HOB-7">&#91;7&#93;</a></sup> <a href="/wiki/Regulus_Black" title="Regulus Black">Regulus Arcturus Black</a>,<sup id="cite_ref-HOB_7-29" class="reference"><a href="#cite_note-HOB-7">&#91;7&#93;</a></sup> <a href="/wiki/Sirius_Black_I" title="Sirius Black I">Sirius Black I</a>,<sup id="cite_ref-HOB_7-30" class="reference"><a href="#cite_note-HOB-7">&#91;7&#93;</a></sup> <a href="/wiki/Sirius_Black_II" title="Sirius Black II">Sirius Black II</a>,<sup id="cite_ref-HOB_7-31" class="reference"><a href="#cite_note-HOB-7">&#91;7&#93;</a></sup> <a href="/wiki/Sirius_Black_III" class="mw-redirect" title="Sirius Black III">Sirius Black III</a>,<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup> <a href="/wiki/Ursula_Flint" title="Ursula Flint">Ursula Black née Flint</a>,<sup id="cite_ref-HOB_7-32" class="reference"><a href="#cite_note-HOB-7">&#91;7&#93;</a></sup> <a href="/wiki/Violetta_Bulstrode" title="Violetta Bulstrode">Violetta Black née Bulstrode</a>,<sup id="cite_ref-HOB_7-33" class="reference"><a href="#cite_note-HOB-7">&#91;7&#93;</a></sup> <a href="/wiki/Walburga_Black" title="Walburga Black">Walburga Black</a><sup id="cite_ref-HOB_7-34" class="reference"><a href="#cite_note-HOB-7">&#91;7&#93;</a></sup>
+</p>
+</td></tr>
+<tr>
+<td><a href="/wiki/Blishwick_family" title="Blishwick family">Blishwick</a> (likely)<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup>
+</td>
+<td rowspan="2">Unknown, possibly extinct
+</td>
+<td><a href="/wiki/Jimbo_Blishwick" title="Jimbo Blishwick">Jimbo Blishwick</a>,
+<p><sup id="cite_ref-HOB_7-35" class="reference"><a href="#cite_note-HOB-7">&#91;7&#93;</a></sup> <a href="/wiki/Misapinoa_Black" title="Misapinoa Black">Misapinoa Blishswick née Black</a><sup id="cite_ref-HOB_7-36" class="reference"><a href="#cite_note-HOB-7">&#91;7&#93;</a></sup>
+</p>
+</td></tr>
+<tr>
+<td><a href="/wiki/Brown_family" title="Brown family">Brown</a><sup id="cite_ref-HPM_22-0" class="reference"><a href="#cite_note-HPM-22">&#91;22&#93;</a></sup>
+</td>
+<td><a href="/wiki/Lavender_Brown" title="Lavender Brown">Lavender Brown</a>
+<p><sup id="cite_ref-HPMimage_23-0" class="reference"><a href="#cite_note-HPMimage-23">&#91;23&#93;</a></sup>
+</p>
+</td></tr>
+<tr>
+<td><a href="/wiki/Bulstrode_family" title="Bulstrode family">Bulstrode</a>
+<p><sup id="cite_ref-pureblood_5-5" class="reference"><a href="#cite_note-pureblood-5">&#91;5&#93;</a></sup>
+</p>
+</td>
+<td>Extant, but likely no longer pure-blood<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup>
+</td>
+<td><a href="/wiki/Violetta_Bulstrode" title="Violetta Bulstrode">Violetta Black née Bulstrode</a>
+<p><sup id="cite_ref-HOB_7-37" class="reference"><a href="#cite_note-HOB-7">&#91;7&#93;</a></sup>
+</p>
+</td></tr>
+<tr>
+<td><a href="/wiki/Burke_family" title="Burke family">Burke</a>
+<p><sup id="cite_ref-pureblood_5-6" class="reference"><a href="#cite_note-pureblood-5">&#91;5&#93;</a></sup>
+</p>
+</td>
+<td rowspan="2">Unknown, possibly extant in female line
+</td>
+<td><a href="/wiki/Belvina_Black" title="Belvina Black">Belvina Burke née Black</a>,
+<p><sup id="cite_ref-HOB_7-38" class="reference"><a href="#cite_note-HOB-7">&#91;7&#93;</a></sup> <a href="/wiki/Caractacus_Burke" title="Caractacus Burke">Caractacus Burke</a>, <a href="/wiki/Elizabeth_Burke" title="Elizabeth Burke">Elizabeth Burke</a>, <a href="/wiki/Herbert_Burke" title="Herbert Burke">Herbert Burke</a><sup id="cite_ref-HOB_7-39" class="reference"><a href="#cite_note-HOB-7">&#91;7&#93;</a></sup>
+</p>
+</td></tr>
+<tr>
+<td><a href="/wiki/Carrow_family" title="Carrow family">Carrow</a>
+<p><sup id="cite_ref-pureblood_5-7" class="reference"><a href="#cite_note-pureblood-5">&#91;5&#93;</a></sup>
+</p>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Crabbe_family" title="Crabbe family">Crabbe</a>
+<p><sup id="cite_ref-HOB_7-40" class="reference"><a href="#cite_note-HOB-7">&#91;7&#93;</a></sup>
+</p>
+</td>
+<td>Possibly extinct in male line,<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup> Extant in female line<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup>
+</td>
+<td><a href="/wiki/Irma_Crabbe" title="Irma Crabbe">Irma Black née Crabbe</a>,
+<p><sup id="cite_ref-HOB_7-41" class="reference"><a href="#cite_note-HOB-7">&#91;7&#93;</a></sup> <a href="/wiki/Vincent_Crabbe" title="Vincent Crabbe">Vincent Crabbe</a><sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup>
+</p>
+</td></tr>
+<tr>
+<td><a href="/wiki/Crouch_family" title="Crouch family">Crouch</a>
+<p><sup id="cite_ref-pureblood_5-8" class="reference"><a href="#cite_note-pureblood-5">&#91;5&#93;</a></sup>
+</p>
+</td>
+<td>Extinct<sup id="cite_ref-GOF36_28-0" class="reference"><a href="#cite_note-GOF36-28">&#91;28&#93;</a></sup>
+</td>
+<td><a href="/wiki/Bartemius_Crouch_Senior" title="Bartemius Crouch Senior">Bartemius Crouch Snr</a>, <a href="/wiki/Bartemius_Crouch_Junior" title="Bartemius Crouch Junior">Bartemius Crouch Jnr</a>, <a href="/wiki/Caspar_Crouch" title="Caspar Crouch">Caspar Crouch</a>,<sup id="cite_ref-HOB_7-42" class="reference"><a href="#cite_note-HOB-7">&#91;7&#93;</a></sup> <a href="/wiki/Caspar_Crouch%27s_son" title="Caspar Crouch&#39;s son">Caspar Crouch's son</a>,<sup id="cite_ref-JKRtree_6-2" class="reference"><a href="#cite_note-JKRtree-6">&#91;6&#93;</a></sup> <a href="/wiki/Caspar_Crouch%27s_daughters" title="Caspar Crouch&#39;s daughters">Caspar Crouch's daughters</a>,<sup id="cite_ref-JKRtree_6-3" class="reference"><a href="#cite_note-JKRtree-6">&#91;6&#93;</a></sup> <a href="/wiki/Charis_Black" title="Charis Black">Charis Crouch née Black</a><sup id="cite_ref-HOB_7-43" class="reference"><a href="#cite_note-HOB-7">&#91;7&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Fawley_family" title="Fawley family">Fawley</a>
+<p><sup id="cite_ref-pureblood_5-9" class="reference"><a href="#cite_note-pureblood-5">&#91;5&#93;</a></sup>
+</p>
+</td>
+<td>Unknown, possibly extant
+</td>
+<td><a href="/wiki/Hector_Fawley" title="Hector Fawley">Hector Fawley</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Flint_family" title="Flint family">Flint</a>
+<p><sup id="cite_ref-pureblood_5-10" class="reference"><a href="#cite_note-pureblood-5">&#91;5&#93;</a></sup>
+</p>
+</td>
+<td>Extant
+</td>
+<td><a href="/wiki/Marcus_Flint" title="Marcus Flint">Marcus Flint</a>, <a href="/wiki/Ursula_Flint" title="Ursula Flint">Ursula Black née Flint</a><sup id="cite_ref-HOB_7-44" class="reference"><a href="#cite_note-HOB-7">&#91;7&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Gamp_family" title="Gamp family">Gamp</a>
+<p><sup id="cite_ref-HOB_7-45" class="reference"><a href="#cite_note-HOB-7">&#91;7&#93;</a></sup>
+</p>
+</td>
+<td>Unknown
+</td>
+<td><a href="/wiki/Hesper_Gamp" title="Hesper Gamp">Hesper Black née Gamp</a>
+<p><sup id="cite_ref-HOB_7-46" class="reference"><a href="#cite_note-HOB-7">&#91;7&#93;</a></sup>, <a href="/wiki/Ulick_Gamp" title="Ulick Gamp">Ulick Gamp</a>
+</p>
+</td></tr>
+<tr>
+<td><a href="/wiki/House_of_Gaunt" title="House of Gaunt">Gaunt</a>
+<p><sup id="cite_ref-pureblood_5-11" class="reference"><a href="#cite_note-pureblood-5">&#91;5&#93;</a></sup>
+</p>
+</td>
+<td>Extant only in female line but no longer pure-blood<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;29&#93;</a></sup>
+</td>
+<td><a href="/wiki/Corvinus_Gaunt" title="Corvinus Gaunt">Corvinus Gaunt</a>,
+<p><sup id="cite_ref-gaunt_30-0" class="reference"><a href="#cite_note-gaunt-30">&#91;30&#93;</a></sup> <a href="/wiki/Gormlaith_Gaunt" title="Gormlaith Gaunt">Gormlaith Gaunt</a>,<sup id="cite_ref-ilvermorny_31-0" class="reference"><a href="#cite_note-ilvermorny-31">&#91;31&#93;</a></sup> <a href="/wiki/Marvolo_Gaunt" title="Marvolo Gaunt">Marvolo Gaunt</a>,<sup id="cite_ref-gaunt_30-1" class="reference"><a href="#cite_note-gaunt-30">&#91;30&#93;</a></sup> <a href="/wiki/Merope_Riddle" title="Merope Riddle">Merope Riddle née Gaunt</a>,<sup id="cite_ref-gaunt_30-2" class="reference"><a href="#cite_note-gaunt-30">&#91;30&#93;</a></sup> <a href="/wiki/Morfin_Gaunt" title="Morfin Gaunt">Morfin Gaunt</a>,<sup id="cite_ref-gaunt_30-3" class="reference"><a href="#cite_note-gaunt-30">&#91;30&#93;</a></sup> <a href="/wiki/Rionach_Sayre" title="Rionach Sayre">Rionach Sayre</a> née Gaunt<sup id="cite_ref-ilvermorny_31-1" class="reference"><a href="#cite_note-ilvermorny-31">&#91;31&#93;</a></sup>
+</p>
+</td></tr>
+<tr>
+<td><a href="/wiki/Goyle_family" title="Goyle family">Goyle</a>
+</td>
+<td rowspan="4">Unknown, possibly extinct
+</td>
+<td><a href="/wiki/Gregory_Goyle" title="Gregory Goyle">Gregory Goyle</a>, <a href="/wiki/Goyle" title="Goyle">Mr Goyle</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Greengrass_family" title="Greengrass family">Greengrass</a>
+</td>
+<td><a href="/wiki/Astoria_Malfoy" title="Astoria Malfoy">Astoria Malfoy</a> née Greengrass, <a href="/wiki/Daphne_Greengrass" title="Daphne Greengrass">Daphne Greengrass</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Kama_family" title="Kama family">Kama</a>
+</td>
+<td><a href="/wiki/Laurena_Kama" title="Laurena Kama">Laurena Kama</a>, <a href="/wiki/Mustafa_Kama" title="Mustafa Kama">Mustafa Kama</a>, <a href="/wiki/Yusuf_Kama" title="Yusuf Kama">Yusuf Kama</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Lestrange_family" title="Lestrange family">Lestrange</a>
+<p class="mw-empty-elt"></p><figure class="thumb tleft show-info-icon" style="width: 170px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/2/20/LestrangeCoatOfArms.png/revision/latest?cb=20130215013209" class="image"><img alt="LestrangeCoatOfArms.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="168" height="198" class="thumbimage lazyload" data-image-name="LestrangeCoatOfArms.png" data-image-key="LestrangeCoatOfArms.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/2/20/LestrangeCoatOfArms.png/revision/latest/scale-to-width-down/168?cb=20130215013209" /></a> 	<noscript><a href="https://static.wikia.nocookie.net/harrypotter/images/2/20/LestrangeCoatOfArms.png/revision/latest?cb=20130215013209" class="image"><img alt="LestrangeCoatOfArms.png" src="https://static.wikia.nocookie.net/harrypotter/images/2/20/LestrangeCoatOfArms.png/revision/latest/scale-to-width-down/168?cb=20130215013209" decoding="async" width="168" height="198" class="thumbimage" data-image-name="LestrangeCoatOfArms.png" data-image-key="LestrangeCoatOfArms.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/2/20/LestrangeCoatOfArms.png/revision/latest/scale-to-width-down/168?cb=20130215013209" /></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:LestrangeCoatOfArms.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 	</figcaption> </figure>
+<p class="mw-empty-elt"></p>
+</td>
+<td><a href="/wiki/Bellatrix_Lestrange" title="Bellatrix Lestrange">Bellatrix Lestrange</a> née Black, <a href="/wiki/Corvus_Lestrange_(I)" title="Corvus Lestrange (I)">Corvus Lestrange (I)</a>, <a href="/wiki/Corvus_Lestrange_(II)" title="Corvus Lestrange (II)">Corvus Lestrange (II)</a>, <a href="/wiki/Corvus_Lestrange_(III)" title="Corvus Lestrange (III)">Corvus Lestrange (III)</a>, <a href="/wiki/Corvus_Lestrange_(IV)" title="Corvus Lestrange (IV)">Corvus Lestrange (IV)</a>, <a href="/wiki/Eglantine_Lestrange" title="Eglantine Lestrange">Eglantine Lestrange</a>, <a href="/wiki/F._Lestrange" title="F. Lestrange">F. Lestrange</a>, <a href="/wiki/Lestrange" title="Lestrange">Lestrange</a>, <a href="/wiki/Leta_Lestrange" title="Leta Lestrange">Leta Lestrange</a>, <a href="/wiki/Rabastan_Lestrange" title="Rabastan Lestrange">Rabastan Lestrange</a>, <a href="/wiki/Radolphus_Lestrange" title="Radolphus Lestrange">Radolphus Lestrange</a>, <a href="/wiki/R._Lestrange" title="R. Lestrange">R. Lestrange</a>, <a href="/wiki/Rodolphus_Lestrange" title="Rodolphus Lestrange">Rodolphus Lestrange</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Longbottom_family" title="Longbottom family">Longbottom</a>
+</td>
+<td>Extant, but no longer all pure-blood
+</td>
+<td><a href="/wiki/Algie_Longbottom" title="Algie Longbottom">Algie Longbottom</a>, <a href="/wiki/Alice_Longbottom" title="Alice Longbottom">Alice Longbottom</a>, <a href="/wiki/Augusta_Longbottom" title="Augusta Longbottom">Augusta Longbottom</a>, <a href="/wiki/Callidora_Black" title="Callidora Black">Callidora Longbottom née Black</a>, <a href="/wiki/Enid_Longbottom" title="Enid Longbottom">Enid Longbottom</a>, <a href="/wiki/Frank_Longbottom" title="Frank Longbottom">Frank Longbottom</a>, <a href="/wiki/Harfang_Longbottom" title="Harfang Longbottom">Harfang Longbottom</a>, <a href="/wiki/Harfang_Longbottom%27s_son" title="Harfang Longbottom&#39;s son">Harfang Longbottom's son</a>, <a href="/wiki/Harfang_Longbottom%27s_daughter" title="Harfang Longbottom&#39;s daughter">Harfang Longbottom's daughter</a>, <a href="/wiki/Neville_Longbottom" title="Neville Longbottom">Neville Longbottom</a>, <a href="/wiki/Neville_Longbottom%27s_grandfather" class="mw-redirect" title="Neville Longbottom&#39;s grandfather">Neville Longbottom's grandfather</a><sup id="cite_ref-32" class="reference"><a href="#cite_note-32">&#91;32&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/MacDougal_family" title="MacDougal family">MacDougal</a>
+</td>
+<td colspan="1" rowspan="3">Extant
+</td>
+<td><a href="/wiki/Isobel_MacDougal" title="Isobel MacDougal">Isobel MacDougal</a>, <a href="/wiki/Morag_MacDougal" title="Morag MacDougal">Morag MacDougal</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Macmillan_family" title="Macmillan family">Macmillan</a>
+</td>
+<td>
+<p><a href="/wiki/Ernest_Macmillan" title="Ernest Macmillan">Ernie Macmillan</a>, <a href="/wiki/Melania_Macmillan" title="Melania Macmillan">Melania Black née Macmillan</a>
+</p>
+</td></tr>
+<tr>
+<td><a href="/wiki/Malfoy_family" title="Malfoy family">Malfoy</a>
+<p class="mw-empty-elt"></p><figure class="thumb tleft show-info-icon" style="width: 170px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/a/a5/Malfoy_family_crest2.jpg/revision/latest?cb=20110711145927" class="image"><img alt="Malfoy family crest2.jpg" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="168" height="156" class="thumbimage lazyload" data-image-name="Malfoy family crest2.jpg" data-image-key="Malfoy_family_crest2.jpg" data-src="https://static.wikia.nocookie.net/harrypotter/images/a/a5/Malfoy_family_crest2.jpg/revision/latest/scale-to-width-down/168?cb=20110711145927" /></a> 	<noscript><a href="https://static.wikia.nocookie.net/harrypotter/images/a/a5/Malfoy_family_crest2.jpg/revision/latest?cb=20110711145927" class="image"><img alt="Malfoy family crest2.jpg" src="https://static.wikia.nocookie.net/harrypotter/images/a/a5/Malfoy_family_crest2.jpg/revision/latest/scale-to-width-down/168?cb=20110711145927" decoding="async" width="168" height="156" class="thumbimage" data-image-name="Malfoy family crest2.jpg" data-image-key="Malfoy_family_crest2.jpg" data-src="https://static.wikia.nocookie.net/harrypotter/images/a/a5/Malfoy_family_crest2.jpg/revision/latest/scale-to-width-down/168?cb=20110711145927" /></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Malfoy_family_crest2.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 	</figcaption> </figure>
+<p class="mw-empty-elt"></p>
+</td>
+<td><a href="/wiki/Abraxas_Malfoy" title="Abraxas Malfoy">Abraxas Malfoy</a>, <a href="/wiki/Armand_Malfoy" title="Armand Malfoy">Armand Malfoy</a>, <a href="/wiki/Astoria_Malfoy" title="Astoria Malfoy">Astoria Malfoy</a> née Greengrass, <a href="/wiki/Brutus_Malfoy" title="Brutus Malfoy">Brutus Malfoy</a>, <a href="/wiki/Draco_Malfoy" title="Draco Malfoy">Draco Lucius Malfoy</a>, <a href="/wiki/Lucius_Malfoy_I" title="Lucius Malfoy I">Lucius Malfoy I</a>, <a href="/wiki/Lucius_Malfoy" title="Lucius Malfoy">Lucius Malfoy</a> II, <a href="/wiki/Narcissa_Malfoy" title="Narcissa Malfoy">Narcissa Malfoy</a> née Black, <a href="/wiki/Nicholas_Malfoy" title="Nicholas Malfoy">Nicholas Malfoy</a>, <a href="/wiki/Septimus_Malfoy" title="Septimus Malfoy">Septimus Malfoy</a>, <a href="/wiki/Scorpius_Malfoy" title="Scorpius Malfoy">Scorpius Hyperion Malfoy</a>
+</td></tr>
+<tr>
+<td>Max
+</td>
+<td>Unknown
+</td>
+<td><a href="/wiki/Ella_Max" title="Ella Max">Ella Black née Max</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Moody_family" title="Moody family">Moody</a>
+</td>
+<td>Most likely extinct
+</td>
+<td><a href="/wiki/Alastor_Moody" title="Alastor Moody">Alastor Moody</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Nott_family" title="Nott family">Nott</a>
+</td>
+<td>Extant
+</td>
+<td><a href="/wiki/Cantankerus_Nott" title="Cantankerus Nott">Cantankerus Nott</a>, <a href="/wiki/Theodore_Nott" title="Theodore Nott">Theodore Nott</a><sup id="cite_ref-rowling_33-0" class="reference"><a href="#cite_note-rowling-33">&#91;33&#93;</a></sup><sup id="cite_ref-blood_34-0" class="reference"><a href="#cite_note-blood-34">&#91;34&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Ollivander_family" title="Ollivander family">Ollivander</a>
+</td>
+<td>Extant, but no longer pure-blood
+</td>
+<td><a href="/wiki/Gervaise_Ollivander" title="Gervaise Ollivander">Gervaise Ollivander</a>, <a href="/wiki/Gerbold_Ollivander" title="Gerbold Ollivander">Gerbold Ollivander</a>, <a href="/wiki/Geraint_Ollivander" title="Geraint Ollivander">Geraint Ollivander</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Parkinson_family" title="Parkinson family">Parkinson</a>
+</td>
+<td>Most likely extant
+</td>
+<td><a href="/wiki/Pansy_Parkinson" title="Pansy Parkinson">Pansy Parkinson</a>, <a href="/wiki/Perseus_Parkinson" title="Perseus Parkinson">Perseus Parkinson</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Peverell_family" title="Peverell family">Peverell</a>
+<p><sup id="cite_ref-35" class="reference"><a href="#cite_note-35">&#91;35&#93;</a></sup>
+</p>
+</td>
+<td>Extant only in female line
+</td>
+<td><a href="/wiki/Antioch_Peverell" title="Antioch Peverell">Antioch Peverell</a>, <a href="/wiki/Cadmus_Peverell" title="Cadmus Peverell">Cadmus Peverell</a>, <a href="/wiki/Ignotus_Peverell" title="Ignotus Peverell">Ignotus Peverell</a>, <a href="/wiki/Ignotus_Peverell%27s_son" title="Ignotus Peverell&#39;s son">Ignotus Peverell's son</a>, <a href="/wiki/Iolanthe_Peverell" title="Iolanthe Peverell">Iolanthe Potter née Peverell</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Potter_family" title="Potter family">Potter</a>
+</td>
+<td>Extant, but no longer pure-blood<sup id="cite_ref-harry_4-2" class="reference"><a href="#cite_note-harry-4">&#91;4&#93;</a></sup><sup id="cite_ref-36" class="reference"><a href="#cite_note-36">&#91;36&#93;</a></sup>
+</td>
+<td><a href="/wiki/Abraham_Potter" title="Abraham Potter">Abraham Potter</a>, <a href="/wiki/Charlus_Potter" title="Charlus Potter">Charlus Potter</a>, <a href="/wiki/Dorea_Black" title="Dorea Black">Dorea Potter née Black</a>, <a href="/wiki/Euphemia_Potter" title="Euphemia Potter">Euphemia Potter</a>, <a href="/wiki/Fleamont_Potter" title="Fleamont Potter">Fleamont Potter</a>, <a href="/wiki/Ginevra_Weasley" title="Ginevra Weasley">Ginevra Molly Potter née Weasley</a>, <a href="/wiki/Hardwin_Potter" title="Hardwin Potter">Hardwin Potter</a>, <a href="/wiki/Henry_Potter" title="Henry Potter">Henry Potter</a>, <a href="/wiki/Iolanthe_Peverell" title="Iolanthe Peverell">Iolanthe Potter née Peverell</a>, <a href="/wiki/James_Potter_I" title="James Potter I">James Potter I</a>, <a href="/wiki/Charlus_Potter%27s_son" title="Charlus Potter&#39;s son">Mr Potter</a>, <a href="/wiki/Henry_Potter%27s_mother" title="Henry Potter&#39;s mother">Mrs Potter née Fleamont</a>, <a href="/wiki/Ralston_Potter" title="Ralston Potter">Ralston Potter</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Prewett_family" title="Prewett family">Prewett</a>
+</td>
+<td>Extant only in female line
+</td>
+<td><a href="/wiki/Fabian_Prewett" title="Fabian Prewett">Fabian Prewett</a>, <a href="/wiki/Gideon_Prewett" title="Gideon Prewett">Gideon Prewett</a>, <a href="/wiki/Ignatius_Prewett" title="Ignatius Prewett">Ignatius Prewett</a>, <a href="/wiki/Lucretia_Black" title="Lucretia Black">Lucretia Prewett née Black</a>, <a href="/wiki/Molly_Weasley" title="Molly Weasley">Molly Weasley née Prewett</a>, <a href="/wiki/Molly_Weasley%27s_father" title="Molly Weasley&#39;s father">Mr Prewett</a>, <a href="/wiki/Molly_Weasley%27s_mother" title="Molly Weasley&#39;s mother">Mrs Prewett</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Prince_family" title="Prince family">Prince</a>
+</td>
+<td>Most likely extinct<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">&#91;37&#93;</a></sup>
+</td>
+<td><a href="/wiki/Eileen_Prince" title="Eileen Prince">Eileen Snape née Prince</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Rosier_family" title="Rosier family">Rosier</a>
+</td>
+<td>Extant (at least in female line)
+</td>
+<td><a href="/wiki/Druella_Black" title="Druella Black">Druella Black</a> née Rosier, <a href="/wiki/Evan_Rosier" title="Evan Rosier">Evan Rosier</a>, <a href="/wiki/Felix_Rosier" title="Felix Rosier">Felix Rosier</a>, <a href="/wiki/Minette_Lestrange" title="Minette Lestrange">Minette Lestrange</a> née Rosier, <a href="/wiki/Rosier" title="Rosier">Mr Rosier</a>, <a href="/wiki/Vinda_Rosier" title="Vinda Rosier">Vinda Rosier</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Rowle_family" title="Rowle family">Rowle</a>
+</td>
+<td>Unknown, possibly extinct
+</td>
+<td><a href="/wiki/Damocles_Rowle" title="Damocles Rowle">Damocles Rowle</a>, <a href="/wiki/Euphemia_Rowle" title="Euphemia Rowle">Euphemia Rowle</a>, <a href="/wiki/Thorfinn_Rowle" title="Thorfinn Rowle">Thorfinn Rowle</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Sayre_family" title="Sayre family">Sayre</a>
+</td>
+<td>Possibly extant but no longer pure-blood
+</td>
+<td><a href="/wiki/Rionach_Sayre" title="Rionach Sayre">Rionach Sayre</a> née Gaunt, <a href="/wiki/Isolt_Sayre" title="Isolt Sayre">Isolt Sayre</a>, <a href="/wiki/William_Sayre" title="William Sayre">William Sayre</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Selwyn_family" title="Selwyn family">Selwyn</a>
+</td>
+<td>Unknown
+</td>
+<td><a href="/wiki/Selwyn" title="Selwyn">Selwyn</a>, <a href="/wiki/Dolores_Umbridge" title="Dolores Umbridge">Dolores Jane Umbridge</a> (claimed<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">&#91;38&#93;</a></sup>)
+</td></tr>
+<tr>
+<td><a href="/wiki/Shacklebolt_family" title="Shacklebolt family">Shacklebolt</a>
+</td>
+<td>Extant
+</td>
+<td><a href="/wiki/Kingsley_Shacklebolt" title="Kingsley Shacklebolt">Kingsley Shacklebolt</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Shafiq_family" title="Shafiq family">Shafiq</a>
+</td>
+<td>Extant in the early <a href="/wiki/1930s" title="1930s">1930s</a>
+</td>
+<td><a href="/wiki/Shafiq_(1920s)" title="Shafiq (1920s)">Shafiq (1920s)</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Slughorn_family" title="Slughorn family">Slughorn</a>
+</td>
+<td>Extant
+</td>
+<td><a href="/wiki/Horace_Slughorn" title="Horace Slughorn">Horace Eugene Flaccus Slughorn</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Slytherin_family" title="Slytherin family">Slytherin</a>
+</td>
+<td colspan="1">Extant only in female line<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">&#91;39&#93;</a></sup>
+</td>
+<td><a href="/wiki/Salazar_Slytherin" title="Salazar Slytherin">Salazar Slytherin</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Travers_family" title="Travers family">Travers</a>
+</td>
+<td rowspan="4">Unknown
+</td>
+<td><a href="/wiki/Travers" title="Travers">Travers</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Tremblay_family" title="Tremblay family">Tremblay</a>
+</td>
+<td><a href="/wiki/Bernard_Tremblay" title="Bernard Tremblay">Bernard Tremblay</a>, <a href="/wiki/Clarisse_Lestrange" title="Clarisse Lestrange">Clarisse Tremblay</a>, <a href="/wiki/Falco_Tremblay" title="Falco Tremblay">Falco Tremblay</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Tripe" title="Tripe">Tripe</a>
+</td>
+<td><a href="/wiki/Magenta_Tripe" title="Magenta Tripe">Magenta Black née Tripe</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Urquart_family" title="Urquart family">Urquart</a>
+</td>
+<td><a href="/wiki/Elphinstone_Urquart" title="Elphinstone Urquart">Elphinstone Urquart</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Weasley_family" title="Weasley family">Weasley</a>
+</td>
+<td>Extant, but no longer all pure-blood
+</td>
+<td><a href="/wiki/Arthur_Weasley" title="Arthur Weasley">Arthur Weasley</a>, <a href="/wiki/Arthur_Weasley%27s_brothers" title="Arthur Weasley&#39;s brothers">Arthur Weasley's brothers</a>, <a href="/wiki/Bilius" title="Bilius">Bilius</a>,<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">&#91;40&#93;</a></sup> <a href="/wiki/Cedrella_Black" title="Cedrella Black">Cedrella Weasley née Black</a>, <a href="/wiki/Charles_Weasley" title="Charles Weasley">Charles Weasley</a>, <a href="/wiki/Fred_Weasley" title="Fred Weasley">Fred Weasley</a> I, <a href="/wiki/George_Weasley" title="George Weasley">George Weasley</a>, <a href="/wiki/Ginevra_Weasley" title="Ginevra Weasley">Ginerva Molly Potter née Weasley</a>, <a href="/wiki/Molly_Weasley" title="Molly Weasley">Molly Weasley née Prewett</a>, <a href="/wiki/Percy_Weasley" title="Percy Weasley">Percy Ignatius Weasley</a>, <a href="/wiki/Ronald_Weasley" title="Ronald Weasley">Ronald Bilius Weasley</a>, <a href="/wiki/Septimus_Weasley" title="Septimus Weasley">Septimus Weasley</a>, <a href="/wiki/William_Weasley" title="William Weasley">William Arthur Weasley</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Yaxley_family" title="Yaxley family">Yaxley</a>
+</td>
+<td>Extant (at least in female line)<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">&#91;41&#93;</a></sup>
+</td>
+<td><a href="/wiki/Corban_Yaxley" title="Corban Yaxley">Corban Yaxley</a>, <a href="/wiki/Lysandra_Yaxley" title="Lysandra Yaxley">Lysandra Black née Yaxley</a>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Possible_pure-bloods">Possible pure-bloods</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Pure-blood?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Possible pure-bloods">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Pure-blood?action=edit&amp;section=5" title="Edit section: Possible pure-bloods"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Due to their affiliation to <a href="/wiki/Slytherin" title="Slytherin">Slytherin</a> and <a href="/wiki/Tom_Riddle" title="Tom Riddle">Lord Voldemort</a>, many wizards and witches may be considered pure-bloods. Others have openly express their prejudice toward <a href="/wiki/Half-blood" title="Half-blood">Half-bloods</a> and <a href="/wiki/Muggle-born" title="Muggle-born">Muggle-borns</a>, which is another reason to believe they are pure-blood <a href="/wiki/Pure-blood_supremacy" title="Pure-blood supremacy">supremacist</a>. Some even become <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a>.
+</p>
+<table class="wikitable" border="1">
+<tbody><tr>
+<th>Possible pure-blood family
+</th>
+<th>Current status
+</th>
+<th>Known pure-blood members
+</th></tr>
+<tr>
+<td><a href="/wiki/Bletchley_family" title="Bletchley family">Bletchley</a>
+</td>
+<td>Unknown, most likely extant
+</td>
+<td><a href="/wiki/Bletchley" title="Bletchley">Bletchley</a>, <a href="/wiki/Kevin_Bletchley" title="Kevin Bletchley">Kevin Bletchley</a>, <a href="/wiki/Miles_Bletchley" title="Miles Bletchley">Miles Bletchley</a><sup id="cite_ref-42" class="reference"><a href="#cite_note-42">&#91;42&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Dumbledore_family" title="Dumbledore family">Dumbledore</a>
+</td>
+<td>Possibly extant but no longer pure-blood
+</td>
+<td><a href="/wiki/Percival_Dumbledore" title="Percival Dumbledore">Percival Dumbledore</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Fudge_family" title="Fudge family">Fudge</a>
+</td>
+<td>Extant
+</td>
+<td><a href="/wiki/Cornelius_Fudge" title="Cornelius Fudge">Cornelius Fudge</a>, <a href="/wiki/Rufus_Fudge" title="Rufus Fudge">Rufus Fudge</a>
+</td></tr>
+<tr>
+<td>Gibbon
+</td>
+<td>Unknown, most likely extinct
+</td>
+<td><a href="/wiki/Gibbon" title="Gibbon">Gibbon</a>
+</td></tr>
+<tr>
+<td>Gryffindor
+</td>
+<td>Unknown; May be under different surname
+</td>
+<td><a href="/wiki/Godric_Gryffindor" title="Godric Gryffindor">Godric Gryffindor</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Higgs_family" title="Higgs family">Higgs</a>
+</td>
+<td>Most likely extant
+</td>
+<td><a href="/wiki/Bertie_Higgs" title="Bertie Higgs">Bertie Higgs</a>, <a href="/wiki/Terence_Higgs" title="Terence Higgs">Terence Higgs</a>
+</td></tr>
+<tr>
+<td>Lowe
+</td>
+<td>Unknown, possibly extinct
+</td>
+<td><a href="/wiki/Sinistra_Lowe" title="Sinistra Lowe">Sinistra Lowe</a>
+</td></tr>
+<tr>
+<td>Macnair
+</td>
+<td>Unknown
+</td>
+<td><a href="/wiki/Walden_Macnair" title="Walden Macnair">Walden Macnair</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Montague_family" title="Montague family">Montague</a>
+</td>
+<td>Most likely extant
+</td>
+<td><a href="/wiki/Graham_Montague" title="Graham Montague">Graham Montague</a>, <a href="/wiki/Graham_Montague%27s_mother" title="Graham Montague&#39;s mother">Mr and Mrs Montague</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Mulciber_family" title="Mulciber family">Mulciber</a>
+</td>
+<td>Unknown
+</td>
+<td><a href="/wiki/Mulciber_(Riddle-era)" class="mw-redirect" title="Mulciber (Riddle-era)">Mulciber Snr</a>, <a href="/wiki/Mulciber_(Marauder-era)" class="mw-redirect" title="Mulciber (Marauder-era)">Mulciber Jnr</a><sup id="cite_ref-43" class="reference"><a href="#cite_note-43">&#91;43&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Orpington_family" title="Orpington family">Orpington</a>
+</td>
+<td>Most likely extant
+</td>
+<td><a href="/wiki/Evangeline_Orpington" title="Evangeline Orpington">Evangeline Orpington</a>, <a href="/wiki/Nerys_Orpington" title="Nerys Orpington">Nerys Orpington</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Pyrites_family" title="Pyrites family">Pyrites</a>
+</td>
+<td>Unknown
+</td>
+<td><a href="/wiki/Pyrites" title="Pyrites">Pyrites</a>,<sup id="cite_ref-44" class="reference"><a href="#cite_note-44">&#91;44&#93;</a></sup> <a href="/wiki/Argo_Pyrites" title="Argo Pyrites">Argo Pyrites</a>
+</td></tr>
+<tr>
+<td>Perks
+</td>
+<td>Unknown, most likely extant
+</td>
+<td><a href="/wiki/Sally-Anne_Perks" title="Sally-Anne Perks">Sally-Anne Perks</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Runcorn_family" title="Runcorn family">Runcorn</a>
+</td>
+<td>Probably extant
+</td>
+<td><a href="/wiki/Albert_Runcorn" title="Albert Runcorn">Albert Runcorn</a>,<sup id="cite_ref-DH13_45-0" class="reference"><a href="#cite_note-DH13-45">&#91;45&#93;</a></sup> <a href="/wiki/Runcorn" title="Runcorn">Runcorn</a>
+</td></tr>
+<tr>
+<td>Wilkes
+</td>
+<td>Possibly extinct
+</td>
+<td><a href="/wiki/Wilkes" title="Wilkes">Wilkes</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Zabini_family" title="Zabini family">Zabini</a>
+</td>
+<td>Extant
+</td>
+<td><a href="/wiki/Blaise_Zabini" title="Blaise Zabini">Blaise Zabini</a>
+<p><sup id="cite_ref-HBP7_46-0" class="reference"><a href="#cite_note-HBP7-46">&#91;46&#93;</a></sup>
+</p>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Pure-blood?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: See also">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Pure-blood?action=edit&amp;section=6" title="Edit section: See also"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Blood_status" title="Blood status">Blood purity</a></li>
+<li><a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a></li></ul>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Pure-blood?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Pure-blood?action=edit&amp;section=7" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>On <a href="/wiki/J._K._Rowling" title="J. K. Rowling">J. K. Rowling</a>'s draft list of students in <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a>'s class, the following students were mentioned as pure-bloods:<sup id="cite_ref-HPM_22-1" class="reference"><a href="#cite_note-HPM-22">&#91;22&#93;</a></sup>
+<ul><li><a href="/wiki/Lavender_Brown" title="Lavender Brown">Lavender Brown</a></li>
+<li><a href="/wiki/Stephen_Cornfoot" title="Stephen Cornfoot">Stephen Cornfoot</a></li>
+<li><a href="/wiki/Isobel_MacDougal" title="Isobel MacDougal">Isobel MacDougal</a> <span class="template-c">(Possibly a precursor to Morag McDougal)</span></li>
+<li><a href="/wiki/Morag_MacDougal" title="Morag MacDougal">Morag MacDougal</a></li></ul></li>
+<li>Coincidentally, <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a>, <a href="/wiki/Hermione_Granger" title="Hermione Granger">Hermione Granger</a>, and <a href="/wiki/Ronald_Weasley" title="Ronald Weasley">Ron Weasley</a> are all the three types of <a href="/wiki/Wizardkind" title="Wizardkind">wizards</a>; Harry being a <a href="/wiki/Half-blood" title="Half-blood">half-blood</a>, Hermione being <a href="/wiki/Muggle-born" title="Muggle-born">Muggle-born</a>, and Ron being a pure-blood.</li>
+<li>Many characters mention throughout the series that blood purity doesn't matter, often using Hermione Granger in comparison to Ron Weasley and Neville Longbottom as an example. Ron had long struggled with living in the shadows of how much better students his older brothers were, and often would not try if he felt the situation was out of his control. or too difficult, preferring to goof off or play with Chocolate Frog cards (though he did ultimately emerge as a capable student and wizard in his own right). Similarly, despite Neville's pure-blood heritage, he was not initially an extremely talented wizard and also suffered from a lack of confidence, two things which made him a target for ridicule and difficulty, particularly from Professor Snape (but like Ron in his later life he better grasped his full potential). However, Hermione, by contrast, is a supremely gifted witch despite her Muggle-born status and, unlike Ron and Neville, performed very well right from the beginning.
+<ul><li>Likewise, Vincent Crabbe and Gregory Goyle were both often thuggishly stupid and gave poor academic performances in spite of their Pure-Blood status, and Harry's mother Lily was one of her teachers', Horace Slughorn's, all-time favourite students, performing exceptionally well in his and other classes.</li></ul></li>
+<li>The <a target="_blank" rel="noreferrer noopener" class="external text" href="http://harrypotter.scholastic.com/glossary/"><i>Harry Potter</i> Glossary</a> at <a href="/wiki/Scholastic" title="Scholastic">Scholastic</a>'s official website lists the term "Trueblood" as "Someone born to pure magical parents." This term, however, is not known to have appeared in any official <i>Harry Potter</i> media. The nuance with "pureblood" may be that while the child of a half-blood and a pureblood counts as a pureblood, a trueblood can only be the child of two purebloods. That is however unconfirmed.</li>
+<li>The concept of pure-blood is also similar to the real-life situation of nearly all European royal families being related, especially the British and (now extinct) German monarchies. Royals were only allowed to marry another member of the aristocracy, so most of the families were interrelated through marriage. Similarly, the issue of in-breeding is something that ravaged many real life European royal lines.
+<ul><li>Likewise, the concept of blood purity, and how if one goes back far enough it is clear there is no such thing, is strongly analogous to real life racial purity attitudes such as those held by White Supremacists and the Nazis (the latter of whom J.K. Rowling explicitly compared to the Death Eaters, as seen below), but also how it is theorised all human being's ancestry can be traced back to Africa (and specifically Ethiopia), thus precluding the idea that "wholly white" lineages could have ever existed.</li></ul></li></ul>
+<h3><span id="Author's_comments"></span><span class="mw-headline" id="Author.27s_comments">Author's comments</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Pure-blood?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Author&#039;s comments">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Pure-blood?action=edit&amp;section=8" title="Edit section: Author&#039;s comments"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>On the subject of <a href="/wiki/Blood_status" title="Blood status">blood purity</a>, <a href="/wiki/J._K._Rowling" title="J. K. Rowling">J. K. Rowling</a> has said the following:
+</p>
+<blockquote><p><i>The expressions 'pure-blood', 'half-blood', and 'Muggle-born' have been coined by people to whom these distinctions matter, and express their originators’ prejudice. As far as somebody like Lucius Malfoy is concerned, for instance, a Muggle-born is as ‘bad’ as a Muggle. Therefore Harry would be considered only ‘half’ wizard, because of his maternal grandparents. If you think this is far-fetched, look at some of the real charts the Nazis used to show what constituted 'Aryan' or 'Jewish' blood...the Nazis used precisely the same warped logic as the Death Eaters. A single Jewish grandparent 'polluted' the blood, according to their propaganda.</i><sup id="cite_ref-harry_4-3" class="reference"><a href="#cite_note-harry-4">&#91;4&#93;</a></sup></p></blockquote>
+<p>This statement indicates that all of a wizard or witch's grandparents must have magical heritage — i.e. that he or she cannot have a single <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> or <a href="/wiki/Muggle-born" title="Muggle-born">Muggle-born</a> grandparent — in order for him or her to be considered pure-blood. The detailed and lengthy family trees maintained by pure-blood families such as the <a href="/wiki/House_of_Black" title="House of Black">House of Black</a> maintained a record of all the pure-bloods born and married into the family (as well documenting those who were blasted off to maintain the family's sense of purity).<sup id="cite_ref-OTP_10-1" class="reference"><a href="#cite_note-OTP-10">&#91;10&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Pure-blood?veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Pure-blood?action=edit&amp;section=9" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone" title="Harry Potter and the Philosopher&#39;s Stone">Harry Potter and the Philosopher's Stone</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(film)" title="Harry Potter and the Philosopher&#39;s Stone (film)">Harry Potter and the Philosopher's Stone (film)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(video_game)" title="Harry Potter and the Philosopher&#39;s Stone (video game)">Harry Potter and the Philosopher's Stone (video game)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets" title="Harry Potter and the Chamber of Secrets">Harry Potter and the Chamber of Secrets</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(film)" title="Harry Potter and the Chamber of Secrets (film)">Harry Potter and the Chamber of Secrets (film)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(video_game)" title="Harry Potter and the Chamber of Secrets (video game)">Harry Potter and the Chamber of Secrets (video game)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban" title="Harry Potter and the Prisoner of Azkaban">Harry Potter and the Prisoner of Azkaban</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(film)" title="Harry Potter and the Prisoner of Azkaban (film)">Harry Potter and the Prisoner of Azkaban (film)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(video_game)" title="Harry Potter and the Prisoner of Azkaban (video game)">Harry Potter and the Prisoner of Azkaban (video game)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire" title="Harry Potter and the Goblet of Fire">Harry Potter and the Goblet of Fire</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire_(film)" title="Harry Potter and the Goblet of Fire (film)">Harry Potter and the Goblet of Fire (film)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire_(video_game)" title="Harry Potter and the Goblet of Fire (video game)">Harry Potter and the Goblet of Fire (video game)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">Harry Potter and the Order of the Phoenix</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(film)" title="Harry Potter and the Order of the Phoenix (film)">Harry Potter and the Order of the Phoenix (film)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(video_game)" title="Harry Potter and the Order of the Phoenix (video game)">Harry Potter and the Order of the Phoenix (video game)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">Harry Potter and the Half-Blood Prince</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince_(film)" title="Harry Potter and the Half-Blood Prince (film)">Harry Potter and the Half-Blood Prince (film)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince_(video_game)" title="Harry Potter and the Half-Blood Prince (video game)">Harry Potter and the Half-Blood Prince (video game)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">Harry Potter and the Deathly Hallows</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1" title="Harry Potter and the Deathly Hallows: Part 1">Harry Potter and the Deathly Hallows: Part 1</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1_(video_game)" title="Harry Potter and the Deathly Hallows: Part 1 (video game)">Harry Potter and the Deathly Hallows: Part 1 (video game)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_2" title="Harry Potter and the Deathly Hallows: Part 2">Harry Potter and the Deathly Hallows: Part 2</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_2_(video_game)" title="Harry Potter and the Deathly Hallows: Part 2 (video game)">Harry Potter and the Deathly Hallows: Part 2 (video game)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Cursed_Child" title="Harry Potter and the Cursed Child">Harry Potter and the Cursed Child</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Cursed_Child_(play)" title="Harry Potter and the Cursed Child (play)">Harry Potter and the Cursed Child (play)</a></i></li>
+<li><i><a href="/wiki/Fantastic_Beasts:_The_Crimes_of_Grindelwald_-_The_Original_Screenplay" title="Fantastic Beasts: The Crimes of Grindelwald - The Original Screenplay">Fantastic Beasts: The Crimes of Grindelwald - The Original Screenplay</a></i></li>
+<li><i><a href="/wiki/Fantastic_Beasts:_The_Crimes_of_Grindelwald" title="Fantastic Beasts: The Crimes of Grindelwald">Fantastic Beasts: The Crimes of Grindelwald</a></i></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter:_Building_the_Magical_World" title="LEGO Harry Potter: Building the Magical World">LEGO Harry Potter: Building the Magical World</a></i></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter:_Characters_of_the_Magical_World" title="LEGO Harry Potter: Characters of the Magical World">LEGO Harry Potter: Characters of the Magical World</a></i></li>
+<li><i><a href="/wiki/LEGO_Dimensions" title="LEGO Dimensions">LEGO Dimensions</a></i></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter:_Years_1-4" title="LEGO Harry Potter: Years 1-4">LEGO Harry Potter: Years 1-4</a></i></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter:_Years_5-7" title="LEGO Harry Potter: Years 5-7">LEGO Harry Potter: Years 5-7</a></i></li>
+<li><a href="/wiki/J._K._Rowling%27s_official_site" title="J. K. Rowling&#39;s official site">J. K. Rowling's official site</a> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i></li>
+<li><i><a href="/wiki/Wizarding_World_(website)" title="Wizarding World (website)">Wizarding World</a></i></li>
+<li><i><a href="/wiki/Harry_Potter:_The_Character_Vault" title="Harry Potter: The Character Vault">Harry Potter: The Character Vault</a></i></li>
+<li><i><a href="/wiki/Harry_Potter:_The_Creature_Vault" title="Harry Potter: The Creature Vault">Harry Potter: The Creature Vault</a></i></li>
+<li><i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i></li>
+<li><i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i></li>
+<li><i><a href="/wiki/Harry_Potter:_Puzzles_%26_Spells" title="Harry Potter: Puzzles &amp; Spells">Harry Potter: Puzzles &amp; Spells</a></i></li>
+<li><a href="/wiki/Harry_Potter:_The_Wand_Collection" title="Harry Potter: The Wand Collection">Harry Potter: The Wand Collection</a></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Pure-blood?veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Pure-blood?action=edit&amp;section=10" title="Edit section: Notes and references

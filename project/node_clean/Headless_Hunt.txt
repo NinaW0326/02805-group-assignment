@@ -1,0 +1,106 @@
+<div class="mw-parser-output"><table class="notice metadata" id="spoiler" style="text-align: center; background: beige; margin: 1em 05%; padding: 0 1em; border: #a00 1px solid;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/8/8c/Hogwarts_Mystery.jpeg/revision/latest?cb=20180504083359" class="image"><img alt="Hogwarts Mystery.jpeg" src="https://static.wikia.nocookie.net/harrypotter/images/8/8c/Hogwarts_Mystery.jpeg/revision/latest/scale-to-width-down/175?cb=20180504083359" decoding="async" width="175" height="77" data-image-name="Hogwarts Mystery.jpeg" data-image-key="Hogwarts_Mystery.jpeg" /></a>
+</td>
+<td><b>Warning!</b>
+<p>At least some content in this article is derived from information featured in <i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i>. Spoilers will be present within the article.
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-organisation pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/4/49/Headless_Hunt_Crest.png/revision/latest?cb=20130710195952" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/4/49/Headless_Hunt_Crest.png/revision/latest/scale-to-width-down/344?cb=20130710195952" srcset="https://static.wikia.nocookie.net/harrypotter/images/4/49/Headless_Hunt_Crest.png/revision/latest/scale-to-width-down/344?cb=20130710195952 1x, https://static.wikia.nocookie.net/harrypotter/images/4/49/Headless_Hunt_Crest.png/revision/latest/scale-to-width-down/688?cb=20130710195952 2x" class="pi-image-thumbnail" alt="" width="270" height="280"
+		     data-image-key="Headless_Hunt_Crest.png" data-image-name="Headless Hunt Crest.png"/>
+		
+	</a>
+	
+</figure>
+
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Headless Hunt</h2>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Organisation information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="founded">
+	
+		<h3 class="pi-data-label pi-secondary-font">Founded</h3>
+	
+	<div class="pi-data-value pi-font">Before <a href="/wiki/1988" title="1988">1988</a><sup id="cite_ref-HM_1-0" class="reference"><a href="#cite_note-HM-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="leader">
+	
+		<h3 class="pi-data-label pi-secondary-font">Leader(s)</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Patrick_Delaney-Podmore" title="Patrick Delaney-Podmore">Sir Patrick Delaney-Podmore</a><sup id="cite_ref-COS8_2-0" class="reference"><a href="#cite_note-COS8-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="members">
+	
+		<h3 class="pi-data-label pi-secondary-font">Known Members</h3>
+	
+	<div class="pi-data-value pi-font">A dozen <a href="/wiki/Ghost" title="Ghost">ghosts</a><sup id="cite_ref-COS8_2-1" class="reference"><a href="#cite_note-COS8-2">&#91;2&#93;</a></sup> and <a href="/wiki/Ghost_horse" title="Ghost horse">ghost horses</a><sup id="cite_ref-POAF_3-0" class="reference"><a href="#cite_note-POAF-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="intentions">
+	
+		<h3 class="pi-data-label pi-secondary-font">Intentions</h3>
+	
+	<div class="pi-data-value pi-font">Recreation<sup id="cite_ref-COS8_2-2" class="reference"><a href="#cite_note-COS8-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="affiliation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Affiliation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a><sup id="cite_ref-COS8_2-3" class="reference"><a href="#cite_note-COS8-2">&#91;2&#93;</a></sup><sup id="cite_ref-DH31_4-0" class="reference"><a href="#cite_note-DH31-4">&#91;4&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="enemies">
+	
+		<h3 class="pi-data-label pi-secondary-font">Enemies</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a><sup id="cite_ref-DH31_4-1" class="reference"><a href="#cite_note-DH31-4">&#91;4&#93;</a></sup></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Organisation_infobox" title="Template:Organisation infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Chamber of Secrets">"<i>We can only accept huntsmen whose heads have parted company with their bodies. You will appreciate that it would be impossible otherwise for members to participate in hunt activities such as Horseback Head-Juggling and Head Polo. It is with the greatest regret, therefore, that I must inform you that you do not fulfil our requirements. With very best wishes,</i>"</span></dd>
+<dd>&#8212;<a href="/wiki/Patrick_Delaney-Podmore" title="Patrick Delaney-Podmore">Sir Patrick Delaney-Podmore</a><sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets" title="Harry Potter and the Chamber of Secrets">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p>The <b>Headless Hunt</b> is an organisation of decapitated <a href="/wiki/Ghost" title="Ghost">ghosts</a> that play headless games. The organisation is headed by <a href="/wiki/Patrick_Delaney-Podmore" title="Patrick Delaney-Podmore">Sir Patrick Delaney-Podmore</a>. The organisation only accepts those whose heads have been completely severed from their bodies.<sup id="cite_ref-COS8_2-4" class="reference"><a href="#cite_note-COS8-2">&#91;2&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Activities"><span class="tocnumber">1</span> <span class="toctext">Activities</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Behind_the_scenes"><span class="tocnumber">3</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Appearances"><span class="tocnumber">4</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Notes_and_references"><span class="tocnumber">5</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Activities">Activities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Headless_Hunt?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Activities">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Headless_Hunt?action=edit&amp;section=1" title="Edit section: Activities"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Headless Hunt participate in head-intensive events such as <a href="/wiki/Horseback_Head-Juggling" title="Horseback Head-Juggling">Horseback Head-Juggling</a>, <a href="/wiki/Headless_Bowling" title="Headless Bowling">Headless Bowling</a>, and <a href="/wiki/Head_Polo" title="Head Polo">Head Polo</a>. The <a href="/wiki/Gryffindor" title="Gryffindor">Gryffindor</a> ghost, <a href="/wiki/Nicholas_de_Mimsy-Porpington" title="Nicholas de Mimsy-Porpington">Nearly Headless Nick</a> is annually denied admission to the Headless Hunt despite only a half inch of skin holding his head to his neck.<sup id="cite_ref-COS8_2-5" class="reference"><a href="#cite_note-COS8-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Headless_Hunt?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: History">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Headless_Hunt?action=edit&amp;section=2" title="Edit section: History"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Headless Hunt attended <a href="/wiki/Nicholas_de_Mimsy-Porpington" title="Nicholas de Mimsy-Porpington">Nicholas de Mimsy-Porpington</a>'s five-hundredth <a href="/wiki/Deathday_Party" title="Deathday Party">Deathday Party</a>. Sir Patrick Delaney-Podmore, the leader of the&#160;Headless Hunt managed to offend Sir Nicholas by pointing out that he was not properly decapitated, but the other guests found him quite amusing. This left Sir Nicholas humiliated and embarrassed for the remainder of his party.<sup id="cite_ref-COS8_2-6" class="reference"><a href="#cite_note-COS8-2">&#91;2&#93;</a></sup>
+</p><p>The Headless Hunt also made an appearance in <a href="/wiki/1998" title="1998">1998</a> when they flew by <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a>, just as he escaped the <a href="/wiki/Room_of_Requirement" title="Room of Requirement">Room of Requirement</a> with <a href="/wiki/Rowena_Ravenclaw%27s_Diadem" class="mw-redirect" title="Rowena Ravenclaw&#39;s Diadem">Rowena Ravenclaw's Diadem</a> during the <a href="/wiki/Battle_of_Hogwarts" title="Battle of Hogwarts">Battle of Hogwarts</a>. How they assisted is not known as ghosts have little physical influence on the solid world.<sup id="cite_ref-DH31_4-2" class="reference"><a href="#cite_note-DH31-4">&#91;4&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Headless_Hunt?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Headless_Hunt?action=edit&amp;section=3" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>In the PC-video game adaptation of <a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(video_game)" title="Harry Potter and the Chamber of Secrets (video game)"><i>Harry Potter and the Chamber of Secrets</i></a>, a portrait of the Headless Hunt can be seen during the <a href="/wiki/Skurge_Charm" title="Skurge Charm">Skurge</a>-challenge, as well as a crest bearing the words "<i>Acephalus Equitatus</i>" — "Headless Cavalry" in <a href="/wiki/Latin" title="Latin">Latin</a>.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Headless_Hunt?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Headless_Hunt?action=edit&amp;section=4" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(film)" title="Harry Potter and the Philosopher&#39;s Stone (film)">Harry Potter and the Philosopher's Stone (film)</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets" title="Harry Potter and the Chamber of Secrets">Harry Potter and the Chamber of Secrets</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(video_game)" title="Harry Potter and the Chamber of Secrets (video game)">Harry Potter and the Chamber of Secrets (video game)</a></i> <small>(Appears in portrait(s))</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(film)" title="Harry Potter and the Prisoner of Azkaban (film)">Harry Potter and the Prisoner of Azkaban (film)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">Harry Potter and the Deathly Hallows</a></i></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i></li>
+<li><i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i> <small>(Mentioned only)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Headless_Hunt?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Headless_Hunt?action=edit&amp;section=5" title="Edit section: Notes and references

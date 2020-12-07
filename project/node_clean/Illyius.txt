@@ -1,0 +1,126 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/6/64/Illyius.png/revision/latest?cb=20121121183214" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/6/64/Illyius.png/revision/latest/scale-to-width-down/179?cb=20121121183214" srcset="https://static.wikia.nocookie.net/harrypotter/images/6/64/Illyius.png/revision/latest/scale-to-width-down/179?cb=20121121183214 1x, https://static.wikia.nocookie.net/harrypotter/images/6/64/Illyius.png/revision/latest/scale-to-width-down/358?cb=20121121183214 2x" class="pi-image-thumbnail" alt="" width="179" height="286"
+		     data-image-key="Illyius.png" data-image-name="Illyius.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Illyius</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="marital">
+	
+		<h3 class="pi-data-label pi-secondary-font">Marital status</h3>
+	
+	<div class="pi-data-value pi-font">Married<sup id="cite_ref-WBoS_1-0" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-WBoS_1-1" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male<sup id="cite_ref-WBoS_1-2" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Blond<sup id="cite_ref-WBoS_1-3" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Light<sup id="cite_ref-WBoS_1-4" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Eliana" title="Eliana">Eliana</a> (wife)<sup id="cite_ref-WBoS_1-5" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Magical characteristics</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="patronus">
+	
+		<h3 class="pi-data-label pi-secondary-font">Patronus</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Mouse" title="Mouse">Mouse</a><sup id="cite_ref-WBoS_1-6" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Mountain_village" title="Mountain village">Mountain village</a><sup id="cite_ref-WBoS_1-7" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+<b>Illyius</b> was a young orphan <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> who, according to an ancient story, single-handedly saved <a href="/wiki/Illyius%27_village" class="mw-redirect" title="Illyius&#39; village">his village</a> from a <a href="/wiki/Dark_Wizard" title="Dark Wizard">Dark wizard</a> and his army of <a href="/wiki/Dementor" title="Dementor">Dementors</a> with his <a href="/wiki/Mouse" title="Mouse">mouse</a> <a href="/wiki/Patronus_Charm" title="Patronus Charm">Patronus</a>.<sup id="cite_ref-WBoS_1-8" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Personality_and_traits"><span class="tocnumber">2</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Magical_abilities_and_skills"><span class="tocnumber">3</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Appearances"><span class="tocnumber">4</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Notes_and_references"><span class="tocnumber">5</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Illyius?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Illyius?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>According to legend, Illyius was a shy, penniless orphan who lived a very long time ago in a <a href="/wiki/Wizardkind" title="Wizardkind">wizarding</a> village in the mountains. The hamlet was surrounded by a thick forest, where a <a href="/wiki/Dark_Wizard" title="Dark Wizard">Dark wizard</a>, <a href="/wiki/Raczidian" title="Raczidian">Raczidian</a>, resided in a black castle guarded by <a href="/wiki/Dementor" title="Dementor">Dementors</a>. For many years, a sort of truce existed between Raczidian and the people of the village, with Raczidian leaving the villagers alone, and the villagers staying out of the part of the forest where his fortress was located.<sup id="cite_ref-WBoS_1-9" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup>
+</p><p>However, realising the danger that Raczidian's Dementors posed, the villagers duly taught the <a href="/wiki/Patronus_Charm" title="Patronus Charm">Patronus Charm</a> to every generation. While not everyone was able to master the spell, there were always just enough Patronuses to ensure that, in the event Raczidian ordered an attack, the village would be protected.<sup id="cite_ref-WBoS_1-10" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup>
+</p><p>Thus, when Illyius reached the age of 17, the village elders showed him and the village's other young witches and wizards how to cast the Patronus Charm. Illyius was able to produce a full corporeal Patronus, but to his humiliation, it took the form of a <a href="/wiki/Mouse" title="Mouse">mouse</a>. Having never seen such a puny, feeble-looking Patronus before, everyone laughed at Illyius, and the village elders instructed him never to use the spell again.<sup id="cite_ref-WBoS_1-11" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup>
+</p><p>A short time thereafter, Raczidian took notice of <a href="/wiki/Eliana" title="Eliana">Eliana</a>, a beautiful young girl who lived in the village (who Illyius had never spoken to due to his shyness), while she was out picking berries in the forest. Deciding that she would make an ideal wife, Raczidian sent a demand to her parents, but they refused to consent to the marriage. Raczidian then threatened to send his Dementors to destroy the village unless they delivered Eliana to him.<sup id="cite_ref-WBoS_1-12" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup>
+</p><p>The village elders had a meeting and agreed to put up a fight. Eliana was sent to Illyius's tiny shack, and Illyius was ordered to sit out the battle and keep her company, as his Patronus was thought to be too weak to be of any use.<sup id="cite_ref-WBoS_1-13" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup>
+</p><p>At first, the villagers managed to hold back the torrent of Dementors that attacked the village with their Patronuses (which included <a href="/wiki/Bear" title="Bear">bears</a>, <a href="/wiki/Wolf" title="Wolf">wolves</a>, and wild boars), but gradually the sheer number of foes began to overwhelm them. The Patronuses grew faint, and the spellcasters collapsed, or fled for their lives.<sup id="cite_ref-WBoS_1-14" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup>
+</p><p>Eliana begged Illyius to do something. So he cast the Patronus Charm, and despite its diminutive size, the mouse shone with a brilliant light, bringing the Dementors to a halt as it nimbly moved through the ranks of fleeing villagers. Enraged, Raczidian decided to enter the fray himself, and tried to summon a Patronus to ward off Illyius's mouse. However, he failed to remember that only the pure of heart can produce a Patronus, and thus for the first time in history, it was revealed what happens when a competent but unworthy wizard or witch attempts the spell. <a href="/wiki/Maggot" title="Maggot">Maggots</a> shot out of Raczidian's <a href="/wiki/Wand" title="Wand">wand</a> and quickly devoured him as they engulfed his entire body.<sup id="cite_ref-WBoS_1-15" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup>
+</p><p>The villagers hailed Illyius as a hero. He married Eliana and had a long happy life and from that day the most esteemed Patronus in the village was the swift nimble mouse.<sup id="cite_ref-WBoS_1-16" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Illyius?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Personality and traits">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Illyius?action=edit&amp;section=2" title="Edit section: Personality and traits"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Illyius was noted for his extreme shyness. He often found himself tongue-tied and unable to speak to others. However, he also seemed to have been very resourceful, as he was able to survive on his own without his parents. He also had advanced magical abilities, as he was able to produce a full corporeal <a href="/wiki/Patronus_Charm" title="Patronus Charm">Patronus</a> when others could not. Given the strength of his Patronus charm, he likely had much happiness inside him despite his difficult live as an orphan. He was also remarkably courageous despite his shyness, and fought against and defeated an entire army of Dementors himself, saving his entire village.<sup id="cite_ref-WBoS_1-17" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup>&#160;
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Illyius?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Illyius?action=edit&amp;section=3" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tright show-info-icon" style="width: 119px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/f/fd/IllyiusMousePatronus.png/revision/latest?cb=20121128192238" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/f/fd/IllyiusMousePatronus.png/revision/latest/scale-to-width-down/117?cb=20121128192238" decoding="async" width="117" height="69" class="thumbimage" data-image-name="IllyiusMousePatronus.png" data-image-key="IllyiusMousePatronus.png" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:IllyiusMousePatronus.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">His mouse Patronus</p> 		 	</figcaption> </figure>
+<ul><li><b><a href="/wiki/Charm" title="Charm">Charms</a></b>: He was capable of producing an incredibly strong corporeal <a href="/wiki/Patronus_Charm" title="Patronus Charm">Patronus</a> in the form of a <a href="/wiki/Mouse" title="Mouse">mouse</a>. His Patronus, despite its small size, was powerful enough to banish an entire army of <a href="/wiki/Dementor" title="Dementor">Dementors</a>, shining so brightly, he amazed with fellow wizarding neighbours with his exceptional skill.<sup id="cite_ref-WBoS_1-18" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup>&#160;</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Illyius?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Illyius?action=edit&amp;section=4" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Wonderbook:_Book_of_Spells" title="Wonderbook: Book of Spells">Wonderbook: Book of Spells</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> <small>(Mentioned only)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Illyius?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Illyius?action=edit&amp;section=5" title="Edit section: Notes and references

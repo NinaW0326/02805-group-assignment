@@ -1,0 +1,102 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/d/d2/HarveyRidgebit.png/revision/latest?cb=20130318124410" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/d/d2/HarveyRidgebit.png/revision/latest/scale-to-width-down/321?cb=20130318124410" srcset="https://static.wikia.nocookie.net/harrypotter/images/d/d2/HarveyRidgebit.png/revision/latest/scale-to-width-down/321?cb=20130318124410 1x, https://static.wikia.nocookie.net/harrypotter/images/d/d2/HarveyRidgebit.png/revision/latest/scale-to-width-down/642?cb=20130318124410 2x" class="pi-image-thumbnail" alt="" width="270" height="294"
+		     data-image-key="HarveyRidgebit.png" data-image-name="HarveyRidgebit.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Harvey Ridgebit</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/1881" class="mw-redirect" title="1881">1881</a><sup id="cite_ref-JKRS_1-0" class="reference"><a href="#cite_note-JKRS-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/1973" title="1973">1973</a> (aged 91-92)<sup id="cite_ref-JKRS_1-1" class="reference"><a href="#cite_note-JKRS-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-JKRS_1-2" class="reference"><a href="#cite_note-JKRS-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male<sup id="cite_ref-JKRS_1-3" class="reference"><a href="#cite_note-JKRS-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Black<sup id="cite_ref-JKRS_1-4" class="reference"><a href="#cite_note-JKRS-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Green<sup id="cite_ref-JKRS_1-5" class="reference"><a href="#cite_note-JKRS-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White<sup id="cite_ref-JKRS_1-6" class="reference"><a href="#cite_note-JKRS-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Dragonologist" title="Dragonologist">Dragonologist</a><sup id="cite_ref-JKRS_1-7" class="reference"><a href="#cite_note-JKRS-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Romanian_Dragon_Sanctuary" title="Romanian Dragon Sanctuary">Romanian Dragon Sanctuary</a><sup id="cite_ref-JKRS_1-8" class="reference"><a href="#cite_note-JKRS-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Harvey Ridgebit</b> (<a href="/wiki/1881" class="mw-redirect" title="1881">1881</a> – <a href="/wiki/1973" title="1973">1973</a>) was a <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> and the first <a href="/wiki/Dragonologist" title="Dragonologist">dragonologist</a> to catch a <a href="/wiki/Peruvian_Vipertooth" title="Peruvian Vipertooth">Peruvian Vipertooth</a>. He also established the world's largest <a href="/wiki/Romanian_Dragon_Sanctuary" title="Romanian Dragon Sanctuary">dragon sanctuary</a> in <a href="/wiki/Romania" title="Romania">Romania</a>, where <a href="/wiki/Charles_Weasley" title="Charles Weasley">Charlie Weasley</a> worked and where <a href="/wiki/Rubeus_Hagrid" title="Rubeus Hagrid">Rubeus Hagrid</a>'s dragon, <a href="/wiki/Norberta" title="Norberta">Norberta</a> (a.k.a. Norbert) was eventually sent to live.<sup id="cite_ref-JKRS_1-9" class="reference"><a href="#cite_note-JKRS-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Harvey_Ridgebit?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Harvey_Ridgebit?action=edit&amp;section=1" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The name "Harvey" comes from the Breton given name Haerviu, which meant "battle worthy", from haer, "battle" and viu, "worthy". This was the name of a 6th-century Breton hermit, who is the patron saint of the blind. It was introduced to England by settlers from Brittany after the Norman conquest. During the later Middle Ages it became rare, but it was revived in the 19th century.
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Harvey_Ridgebit?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Harvey_Ridgebit?action=edit&amp;section=2" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/J._K._Rowling%27s_official_site" title="J. K. Rowling&#39;s official site">J. K. Rowling's official site</a> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Harvey_Ridgebit?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Harvey_Ridgebit?action=edit&amp;section=3" title="Edit section: Notes and references

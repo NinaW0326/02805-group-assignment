@@ -1,0 +1,113 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/c/c1/Heinrich_Eberstadt.png/revision/latest?cb=20161118201554" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/c/c1/Heinrich_Eberstadt.png/revision/latest/scale-to-width-down/350?cb=20161118201554" srcset="https://static.wikia.nocookie.net/harrypotter/images/c/c1/Heinrich_Eberstadt.png/revision/latest/scale-to-width-down/350?cb=20161118201554 1x, https://static.wikia.nocookie.net/harrypotter/images/c/c1/Heinrich_Eberstadt.png/revision/latest/scale-to-width-down/699?cb=20161118201554 2x" class="pi-image-thumbnail" alt="" width="270" height="254"
+		     data-image-key="Heinrich_Eberstadt.png" data-image-name="Heinrich Eberstadt.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Heinrich Eberstadt</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Switzerland" title="Switzerland">Switzerland</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font">Human</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Brown</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Brown</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Fair</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Delegate of the <a href="/wiki/International_Confederation_of_Wizards" title="International Confederation of Wizards">International Confederation of Wizards</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/International_Confederation_of_Wizards" title="International Confederation of Wizards">International Confederation of Wizards</a></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Fantastic Beasts and Where to Find Them (film)">"<i>Our American friends have permitted a breach of the Statue of Secrecy that threatens to expose us all.</i>"</span></dd>
+<dd>&#8212;Heinrich Eberstadt addressing the Pentagram meeting<sup class="noprint"><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(film)" title="Fantastic Beasts and Where to Find Them (film)">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Heinrich Eberstadt</b> was a <a href="/wiki/Switzerland" title="Switzerland">Swiss</a> <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> who was a delegate to the <a href="/wiki/International_Confederation_of_Wizards" title="International Confederation of Wizards">International Confederation of Wizards</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Behind_the_scenes"><span class="tocnumber">2</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Appearances"><span class="tocnumber">3</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Notes_and_references"><span class="tocnumber">4</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Heinrich_Eberstadt?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Heinrich_Eberstadt?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>He participated in an emergency meeting alongside fellow members of the Confederation in <a href="/wiki/New_York" title="New York">New York</a> in <a href="/wiki/1926" title="1926">1926</a> to discuss the potential exposure of the wizarding world.
+</p><p><a href="/wiki/President_of_the_Magical_Congress_of_the_United_States_of_America" title="President of the Magical Congress of the United States of America">President of the Magical Congress of the United States of America</a>, <a href="/wiki/Seraphina_Picquery" title="Seraphina Picquery">Seraphina Picquery</a>, rebuked his criticisms, noting that she would not be lectured by the man who let <a href="/wiki/Gellert_Grindelwald" title="Gellert Grindelwald">Gellert Grindelwald</a> slip through his fingers.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Heinrich_Eberstadt?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Heinrich_Eberstadt?action=edit&amp;section=2" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Heinrich Eberstadt is portrayed by <a href="/wiki/Martin_Oelbermann" title="Martin Oelbermann">Martin Oelbermann</a> in the <a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(film)" title="Fantastic Beasts and Where to Find Them (film)">film</a> inspired by <i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(companion_book)" title="Fantastic Beasts and Where to Find Them (companion book)">Fantastic Beasts and Where to Find Them</a></i>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Heinrich_Eberstadt?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Heinrich_Eberstadt?action=edit&amp;section=3" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(film)" title="Fantastic Beasts and Where to Find Them (film)">Fantastic Beasts and Where to Find Them (film)</a></i></li>
+<li><i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them:_The_Original_Screenplay" title="Fantastic Beasts and Where to Find Them: The Original Screenplay">Fantastic Beasts and Where to Find Them: The Original Screenplay</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Heinrich_Eberstadt?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Heinrich_Eberstadt?action=edit&amp;section=4" title="Edit section: Notes and references

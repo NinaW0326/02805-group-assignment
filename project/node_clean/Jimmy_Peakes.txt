@@ -1,0 +1,155 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-gryffindor pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/8/8d/Jimmy_Peakes.png/revision/latest?cb=20110522183232" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/8/8d/Jimmy_Peakes.png/revision/latest/scale-to-width-down/213?cb=20110522183232" srcset="https://static.wikia.nocookie.net/harrypotter/images/8/8d/Jimmy_Peakes.png/revision/latest/scale-to-width-down/213?cb=20110522183232 1x, https://static.wikia.nocookie.net/harrypotter/images/8/8d/Jimmy_Peakes.png/revision/latest/scale-to-width-down/426?cb=20110522183232 2x" class="pi-image-thumbnail" alt="" width="213" height="311"
+		     data-image-key="Jimmy_Peakes.png" data-image-name="Jimmy Peakes.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Jimmy Peakes</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">between <a href="/wiki/1_September" title="1 September">1 September</a> <a href="/wiki/1982" title="1982">1982</a> and <a href="/wiki/31_August" title="31 August">31 August</a> <a href="/wiki/1983" title="1983">1983</a><br/><a href="/wiki/Great_Britain" title="Great Britain">Great Britain</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Pure-blood" title="Pure-blood">Pure-blood</a> or <a href="/wiki/Half-blood" title="Half-blood">Half-blood</a><sup id="cite_ref-blood_1-0" class="reference"><a href="#cite_note-blood-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a> or <a href="/wiki/Ireland" title="Ireland">Irish</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="title">
+	
+		<h3 class="pi-data-label pi-secondary-font">Title(s)</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Beater" title="Beater">Beater</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Glanmore_Peakes" title="Glanmore Peakes">Glanmore Peakes</a> (possible relative)</li><li><a href="/wiki/Sean_Peakes" title="Sean Peakes">Sean Peakes</a> (possible relative)</li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="house">
+	
+		<h3 class="pi-data-label pi-secondary-font">House</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Gryffindor" title="Gryffindor">Gryffindor</a><sup id="cite_ref-HBP11_3-0" class="reference"><a href="#cite_note-HBP11-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Peakes_family" title="Peakes family">Peakes family</a></li><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a><ul><li><a href="/wiki/Gryffindor" title="Gryffindor">Gryffindor</a></li><li><a href="/wiki/Gryffindor_Quidditch_team" title="Gryffindor Quidditch team">Gryffindor Quidditch team</a></li></ul></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Half-Blood Prince">"<i>You shut up and leave her alone!</i>"</span></dd>
+<dd>&#8212;Peakes standing up to <a href="/wiki/Ronald_Weasley" title="Ronald Weasley">Ron Weasley</a><sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Jimmy Peakes</b> (c. <a href="/wiki/1983" title="1983">1983</a>) was a <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> and student of <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> chosen by <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> to be one of the new <a href="/wiki/Beater" title="Beater">Beaters</a> for the <a href="/wiki/1996%E2%80%931997_school_year" title="1996–1997 school year">1996-1997</a> <a href="/wiki/Gryffindor_Quidditch_team" title="Gryffindor Quidditch team">Gryffindor Quidditch team</a>. Together with <a href="/wiki/Ritchie_Coote" title="Ritchie Coote">Ritchie Coote</a> he replaced <a href="/wiki/Jack_Sloper" title="Jack Sloper">Jack Sloper</a> and <a href="/wiki/Andrew_Kirke" title="Andrew Kirke">Andrew Kirke</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Hogwarts_years"><span class="tocnumber">1.1</span> <span class="toctext">Hogwarts years</span></a>
+<ul>
+<li class="toclevel-3 tocsection-3"><a href="#Early_years"><span class="tocnumber">1.1.1</span> <span class="toctext">Early years</span></a></li>
+<li class="toclevel-3 tocsection-4"><a href="#Third_year"><span class="tocnumber">1.1.2</span> <span class="toctext">Third year</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#Fourth_year"><span class="tocnumber">1.1.3</span> <span class="toctext">Fourth year</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Battle_of_Hogwarts"><span class="tocnumber">1.1.4</span> <span class="toctext">Battle of Hogwarts</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Physical_description"><span class="tocnumber">2</span> <span class="toctext">Physical description</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Appearances"><span class="tocnumber">3</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Notes_and_references"><span class="tocnumber">4</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Jimmy_Peakes?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Jimmy_Peakes?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Hogwarts_years">Hogwarts years</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Jimmy_Peakes?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Hogwarts years">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Jimmy_Peakes?action=edit&amp;section=2" title="Edit section: Hogwarts years"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Early_years">Early years</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Jimmy_Peakes?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Early years">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Jimmy_Peakes?action=edit&amp;section=3" title="Edit section: Early years"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Jimmy started his education at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> in <a href="/wiki/1994" title="1994">1994</a>. Upon his arrival at Hogwarts Jimmy was sorted into <a href="/wiki/Gryffindor" title="Gryffindor">Gryffindor House</a>, a house renowned for bravery. He was three years below the famous <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a>.
+</p>
+<h4><span class="mw-headline" id="Third_year">Third year</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Jimmy_Peakes?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Third year">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Jimmy_Peakes?action=edit&amp;section=4" title="Edit section: Third year"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Half-Blood Prince">"<i>Jimmy Peakes, a short but broad-chested third-year boy who had managed to raise a lump the size of an egg on the back of Harry's head with a ferociously hit Bludger...</i>"</span></dd>
+<dd>&#8212;Harry Potter's assessment of the new Gryffindor Beaters<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">[src]</a></sup></dd>
+<dd></dd></dl></div><p>In the <a href="/wiki/1996%E2%80%931997_school_year" title="1996–1997 school year">1996–1997 school year</a> Jimmy tried out and became the new Beater for Gryffindor in the <a href="/wiki/1996%E2%80%931997_school_year" title="1996–1997 school year">1996-1997 Quidditch season</a> replacing <a href="/wiki/Fred_Weasley" title="Fred Weasley">Fred</a> and <a href="/wiki/George_Weasley" title="George Weasley">George Weasley</a> with <a href="/wiki/Ritchie_Coote" title="Ritchie Coote">Ritchie Coote</a>. Neither of them gave the team the same charisma, but were almost as good in game. During tryouts Jimmy caused Harry to receive a swelling on his head the size of an egg after hitting him with a Bludger.<sup id="cite_ref-HBP11_3-1" class="reference"><a href="#cite_note-HBP11-3">&#91;3&#93;</a></sup>
+</p><p>During the Gryffindor vs. Hufflepuff match it was mentioned by <a href="/wiki/Hermione_Granger" title="Hermione Granger">Hermione Granger</a> that he and <a href="/wiki/Ritchie_Coote" title="Ritchie Coote">Ritchie Coote</a> apparently caught Harry after he was knocked out by a Bludger to the head that <a href="/wiki/Cormac_McLaggen" title="Cormac McLaggen">Cormac McLaggen</a> accidentally hit to him.<sup id="cite_ref-HBP20_4-0" class="reference"><a href="#cite_note-HBP20-4">&#91;4&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="Fourth_year">Fourth year</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Jimmy_Peakes?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Fourth year">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Jimmy_Peakes?action=edit&amp;section=5" title="Edit section: Fourth year"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>After the death of former <a href="/wiki/Headmaster" title="Headmaster">Headmaster</a> Dumbledore, Snape took to the position of Head. The school was corrupt and being ran by <a href="/wiki/Tom_Riddle" title="Tom Riddle">Lord Voldemort</a> indirectly with puppet teachers and <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a> <a href="/wiki/Amycus_Carrow" title="Amycus Carrow">Amycus Carrow</a> and <a href="/wiki/Alecto_Carrow" title="Alecto Carrow">Alecto Carrow</a> being employed this year. Attendance to Hogwarts was compulsory for all <a href="/wiki/Pure-blood" title="Pure-blood">Pure-blood</a> and <a href="/wiki/Half-blood" title="Half-blood">Half-blood</a> students.
+</p>
+<h4><span class="mw-headline" id="Battle_of_Hogwarts">Battle of Hogwarts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Jimmy_Peakes?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Battle of Hogwarts">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Jimmy_Peakes?action=edit&amp;section=6" title="Edit section: Battle of Hogwarts"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Deathly Hallows">"<i>Absolutely not, Creevey, go! And you, Peakes!</i>"</span></dd>
+<dd>&#8212;McGonagall ordering Peakes to leave<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">[src]</a></sup></dd>
+<dd></dd></dl></div><figure class="thumb tleft show-info-icon" style="width: 252px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/d/db/Battle6.jpg/revision/latest?cb=20110423233429" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/d/db/Battle6.jpg/revision/latest/scale-to-width-down/250?cb=20110423233429" decoding="async" width="250" height="105" class="thumbimage" data-image-name="Battle6.jpg" data-image-key="Battle6.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Battle6.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Students fleeing Hogwarts castle as it falls under attack</p> 		 	</figcaption> </figure>
+<p>When Hogwarts fell under attack from <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a> in <a href="/wiki/1998" title="1998">1998</a>, Peakes was one of the students, along with <a href="/wiki/Colin_Creevey" title="Colin Creevey">Colin Creevey</a> that had to be forcibly pushed out of the <a href="/wiki/Great_Hall" title="Great Hall">Great Hall</a> by <a href="/wiki/Minerva_McGonagall" title="Minerva McGonagall">Minerva McGonagall</a> as he wanted to stay and fight in the <a href="/wiki/Battle_of_Hogwarts" title="Battle of Hogwarts">Battle of Hogwarts</a>, but was too young.<sup id="cite_ref-DH30_5-0" class="reference"><a href="#cite_note-DH30-5">&#91;5&#93;</a></sup> It is unknown whether or not Peakes sneaked back into the castle to fight but his friend who was also made to leave, Colin, did sneak back into the castle to fight and was subsequently killed.
+</p>
+<h2><span class="mw-headline" id="Physical_description">Physical description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Jimmy_Peakes?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Physical description">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Jimmy_Peakes?action=edit&amp;section=7" title="Edit section: Physical description"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Jimmy was described to be short but broad-chested. Peakes did not have the "old brilliance" of <a href="/wiki/Fred_Weasley" title="Fred Weasley">Fred</a> and <a href="/wiki/George_Weasley" title="George Weasley">George Weasley</a> (whom he and fellow new Beater Ritchie Coote replaced), but during the tryouts, he was strong enough to hit a <a href="/wiki/Bludger" title="Bludger">Bludger</a> hard enough to cause a lump about the size of an egg on Harry's head.<sup id="cite_ref-HBP11_3-2" class="reference"><a href="#cite_note-HBP11-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Jimmy_Peakes?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Jimmy_Peakes?action=edit&amp;section=8" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">Harry Potter and the Half-Blood Prince</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince_(film)" title="Harry Potter and the Half-Blood Prince (film)">Harry Potter and the Half-Blood Prince (film)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">Harry Potter and the Deathly Hallows</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Jimmy_Peakes?veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Jimmy_Peakes?action=edit&amp;section=9" title="Edit section: Notes and references

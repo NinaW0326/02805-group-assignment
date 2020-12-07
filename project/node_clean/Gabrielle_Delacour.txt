@@ -1,0 +1,194 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-beauxbatons pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/d/d0/Gabrielle_Delacour.jpg/revision/latest?cb=20100720153724" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/d/d0/Gabrielle_Delacour.jpg/revision/latest/scale-to-width-down/350?cb=20100720153724" srcset="https://static.wikia.nocookie.net/harrypotter/images/d/d0/Gabrielle_Delacour.jpg/revision/latest/scale-to-width-down/350?cb=20100720153724 1x, https://static.wikia.nocookie.net/harrypotter/images/d/d0/Gabrielle_Delacour.jpg/revision/latest/scale-to-width-down/700?cb=20100720153724 2x" class="pi-image-thumbnail" alt="" width="270" height="383"
+		     data-image-key="Gabrielle_Delacour.jpg" data-image-name="Gabrielle Delacour.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Gabrielle Delacour</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">between <a href="/wiki/31_July" title="31 July">31 July</a> <a href="/wiki/1985" title="1985">1985</a> and <a href="/wiki/30_July" title="30 July">30 July</a> <a href="/wiki/1986" title="1986">1986</a><sup id="cite_ref-DOB_1-0" class="reference"><a href="#cite_note-DOB-1">&#91;1&#93;</a></sup><p><a href="/wiki/France" title="France">France</a></p></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Half-Veela" title="Half-Veela">Quarter-Veela</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/France" title="France">French</a><sup id="cite_ref-GOF26_2-0" class="reference"><a href="#cite_note-GOF26-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a> (<a href="/wiki/Veela" title="Veela">Veela</a> ancestry)<sup id="cite_ref-GOF26_2-1" class="reference"><a href="#cite_note-GOF26-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female<sup id="cite_ref-GOF26_2-2" class="reference"><a href="#cite_note-GOF26-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Silvery-blonde<sup id="cite_ref-hair_3-0" class="reference"><a href="#cite_note-hair-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Dark blue (most likely)<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Delacour_sisters%27_father" title="Delacour sisters&#039; father">Monsieur Delacour</a> (father)<sup id="cite_ref-DH6_5-0" class="reference"><a href="#cite_note-DH6-5">&#91;5&#93;</a></sup></li><li><a href="/wiki/Apolline_Delacour" title="Apolline Delacour">Apolline Delacour</a> (mother)<sup id="cite_ref-DH6_5-1" class="reference"><a href="#cite_note-DH6-5">&#91;5&#93;</a></sup></li><li><a href="/wiki/Fleur_Delacour" title="Fleur Delacour">Fleur Delacour</a> (sister)<sup id="cite_ref-GOF26_2-3" class="reference"><a href="#cite_note-GOF26-2">&#91;2&#93;</a></sup></li><li><a href="/wiki/Delacour_sisters%27_cousins" title="Delacour sisters&#039; cousins">Cousins</a></li><li><a href="/wiki/William_Weasley" title="William Weasley">Bill Weasley</a> (brother-in-law)</li><li><a href="/wiki/Victoire_Weasley" title="Victoire Weasley">Victoire Weasley</a> (niece)</li><li><a href="/wiki/Dominique_Weasley" title="Dominique Weasley">Dominique Weasley</a> (niece)</li><li><a href="/wiki/Louis_Weasley" title="Louis Weasley">Louis Weasley</a> (nephew)</li><li><a href="/wiki/Apolline_Delacour%27s_mother" title="Apolline Delacour&#039;s mother">Maternal grandmother</a></li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Magical characteristics</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="boggart">
+	
+		<h3 class="pi-data-label pi-secondary-font">Boggart</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Tom_Riddle" title="Tom Riddle">Lord Voldemort</a><sup id="cite_ref-LEGOY1_6-0" class="reference"><a href="#cite_note-LEGOY1-6">&#91;6&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Delacour_family" title="Delacour family">Delacour family</a></li><li><a href="/wiki/Beauxbatons_Academy_of_Magic" title="Beauxbatons Academy of Magic">Beauxbatons Academy of Magic</a></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Goblet of Fire">"<i>There was also a girl who looked no older than eight, whose clouds of silvery hair made Harry feel sure that she was Fleur Delacour's sister.</i>"</span></dd>
+<dd>&#8212;Physical description of Gabrielle<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire" title="Harry Potter and the Goblet of Fire">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Gabrielle Delacour</b> was a <a href="/wiki/Half-Veela" title="Half-Veela">quarter-Veela</a> <a href="/wiki/France" title="France">French</a> <a href="/wiki/Wizardkind" title="Wizardkind">witch</a>, the daughter of <a href="/wiki/Delacour_sisters%27_father" title="Delacour sisters&#39; father">Monsieur Delacour</a> and <a href="/wiki/Apolline_Delacour" title="Apolline Delacour">Apolline Delacour</a>. She had one older sister, <a href="/wiki/Fleur_Delacour" title="Fleur Delacour">Fleur</a>. Through Fleur, Gabrielle was related to the <a href="/wiki/Weasley_family" title="Weasley family">Weasley family</a>. She was saved in the Second Task of the <a href="/wiki/Triwizard_Tournament" title="Triwizard Tournament">Triwizard Tournament</a> by <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a>, whom her sister became good friends with.<sup id="cite_ref-GOF26_2-4" class="reference"><a href="#cite_note-GOF26-2">&#91;2&#93;</a></sup> Through Fleur, she was the aunt of <a href="/wiki/Victoire_Weasley" title="Victoire Weasley">Victoire</a>, <a href="/wiki/Dominique_Weasley" title="Dominique Weasley">Dominique</a> and <a href="/wiki/Louis_Weasley" title="Louis Weasley">Louis Weasley</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_life"><span class="tocnumber">1.1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#The_Triwizard_Tournament"><span class="tocnumber">1.2</span> <span class="toctext">The Triwizard Tournament</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Fleur.27s_wedding"><span class="tocnumber">1.3</span> <span class="toctext">Fleur's wedding</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Physical_appearance"><span class="tocnumber">2</span> <span class="toctext">Physical appearance</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Personality_and_traits"><span class="tocnumber">3</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Etymology"><span class="tocnumber">4</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Behind_the_scenes"><span class="tocnumber">5</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Appearances"><span class="tocnumber">6</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Notes_and_references"><span class="tocnumber">7</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gabrielle_Delacour?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gabrielle_Delacour?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gabrielle_Delacour?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Early life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gabrielle_Delacour?action=edit&amp;section=2" title="Edit section: Early life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Gabrielle was born between <a href="/wiki/31_July" title="31 July">31 July</a> <a href="/wiki/1985" title="1985">1985</a> and <a href="/wiki/30_July" title="30 July">30 July</a> <a href="/wiki/1986" title="1986">1986</a><sup id="cite_ref-DOB_1-1" class="reference"><a href="#cite_note-DOB-1">&#91;1&#93;</a></sup> to a <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a>, <a href="/wiki/Delacour_sisters%27_father" title="Delacour sisters&#39; father">Monsieur Delacour</a>, and a <a href="/wiki/Half-Veela" title="Half-Veela">half-Veela</a> witch, <a href="/wiki/Apolline_Delacour" title="Apolline Delacour">Apolline Delacour</a>, in <a href="/wiki/France" title="France">France</a>. Her <a href="/wiki/Apolline_Delacour%27s_mother" title="Apolline Delacour&#39;s mother">grandmother</a> was a full <a href="/wiki/Veela" title="Veela">Veela</a>, who married a wizard and whose hair is the core of her older sister Fleur's wand. She and her sister <a href="/wiki/Fleur_Delacour" title="Fleur Delacour">Fleur</a> were one-quarter <a href="/wiki/Veela" title="Veela">Veela</a> through their mother's side of the family.
+</p>
+<h3><span class="mw-headline" id="The_Triwizard_Tournament">The Triwizard Tournament</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gabrielle_Delacour?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: The Triwizard Tournament">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gabrielle_Delacour?action=edit&amp;section=3" title="Edit section: The Triwizard Tournament"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Goblet of Fire">"<i>On the other side of the room, Fleur was jabbering away in French to her mother. Fleur's little sister, Gabrielle, was holding her mother's hand... She waved at Harry, who waved back, grinning.</i>"</span></dd>
+<dd>&#8212;Gabrielle and her mother visit Fleur before the start of the third task<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire" title="Harry Potter and the Goblet of Fire">[src]</a></sup></dd>
+<dd></dd></dl></div><figure class="thumb tleft show-info-icon" style="width: 247px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/2/24/GOF_Gabrielle_Ron_second_task.gif/revision/latest?cb=20140804173802" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/2/24/GOF_Gabrielle_Ron_second_task.gif/revision/latest/scale-to-width-down/245?cb=20140804173802" decoding="async" width="245" height="120" class="thumbimage" data-image-name="GOF Gabrielle Ron second task.gif" data-image-key="GOF_Gabrielle_Ron_second_task.gif" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:GOF_Gabrielle_Ron_second_task.gif" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Gabrielle in the Black Lake</p> 		 	</figcaption> </figure>
+<p>On <a href="/wiki/31_October" title="31 October">31 October</a> <a href="/wiki/1994" title="1994">1994</a>, Gabrielle's older sister, Fleur was chosen as <a href="/wiki/Beauxbatons_Academy_of_Magic" title="Beauxbatons Academy of Magic">Beauxbatons Academy of Magic</a>'s champion in the <a href="/wiki/Triwizard_Tournament" title="Triwizard Tournament">Triwizard Tournament</a>, which was understandably considered to be a great honour.<sup id="cite_ref-GOF16_7-0" class="reference"><a href="#cite_note-GOF16-7">&#91;7&#93;</a></sup> Because eight-year-old Gabrielle was treasured by Fleur above anything else she was taken into the <a href="/wiki/Great_Lake" title="Great Lake">Black Lake</a>, under the influence of a <a href="/wiki/Bewitched_sleep" title="Bewitched sleep">magical spell</a> during the Second Task. Fleur failed to reach her due to a <a href="/wiki/Grindylow" title="Grindylow">grindylow</a> attack and the negative effects of being underwater. <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a>, the fourth champion of the tournament, had already found the hostages and held off a hoard of <a href="/wiki/Merpeople" title="Merpeople">Merpeople</a>. Harry then brought Gabrielle to the surface of the lake, along with his own hostage and best friend <a href="/wiki/Ronald_Weasley" title="Ronald Weasley">Ron Weasley</a>.<sup id="cite_ref-GOF26_2-5" class="reference"><a href="#cite_note-GOF26-2">&#91;2&#93;</a></sup>
+</p>
+<figure class="thumb tright show-info-icon" style="width: 247px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/6/6f/Fleur_Delacour_and_Gabrielle_Delacour_talking_to_Ronald_Weasley.jpg/revision/latest?cb=20180117000740" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/6/6f/Fleur_Delacour_and_Gabrielle_Delacour_talking_to_Ronald_Weasley.jpg/revision/latest/scale-to-width-down/245?cb=20180117000740" decoding="async" width="245" height="102" class="thumbimage" data-image-name="Fleur Delacour and Gabrielle Delacour talking to Ronald Weasley.jpg" data-image-key="Fleur_Delacour_and_Gabrielle_Delacour_talking_to_Ronald_Weasley.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Fleur_Delacour_and_Gabrielle_Delacour_talking_to_Ronald_Weasley.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Fleur and Gabrielle saying goodbye to Ron Weasley after the third task</p> 		 	</figcaption> </figure>
+<p>From that time on, both Fleur and Gabrielle treated Harry and Ron with a great deal of kindness. Gabrielle waved at Harry on the day of the Third Task, when visiting her sister along with her parents,<sup id="cite_ref-GOF31_8-0" class="reference"><a href="#cite_note-GOF31-8">&#91;8&#93;</a></sup> and returned to France with her family after the tournament ended.<sup id="cite_ref-GOF37_9-0" class="reference"><a href="#cite_note-GOF37-9">&#91;9&#93;</a></sup>
+</p>
+<h3><span id="Fleur's_wedding"></span><span class="mw-headline" id="Fleur.27s_wedding">Fleur's wedding</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gabrielle_Delacour?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Fleur&#039;s wedding">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gabrielle_Delacour?action=edit&amp;section=4" title="Edit section: Fleur&#039;s wedding"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Deathly Hallows">"<i>Gabrielle was Fleur in miniature; eleven years old, with waist-length hair of pure, silvery blonde, she gave Mrs Weasley a dazzling smile and hugged her, then threw Harry a glowing look, batting her eyelashes</i>"</span></dd>
+<dd>&#8212;Gabrielle flirting with Harry Potter<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">[src]</a></sup></dd>
+<dd></dd></dl></div><figure class="thumb tleft show-info-icon" style="width: 252px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/2/2c/Delacour_weasley.jpg/revision/latest?cb=20170813142421" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/2/2c/Delacour_weasley.jpg/revision/latest/scale-to-width-down/250?cb=20170813142421" decoding="async" width="250" height="111" class="thumbimage" data-image-name="Delacour weasley.jpg" data-image-key="Delacour_weasley.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Delacour_weasley.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Gabrielle and her parents at her sister's wedding</p> 		 	</figcaption> </figure>
+<p>Gabrielle was chosen as a bridesmaid for her older sister's <a href="/wiki/Wedding_of_William_Weasley_and_Fleur_Delacour" title="Wedding of William Weasley and Fleur Delacour">wedding</a> to <a href="/wiki/William_Weasley" title="William Weasley">Bill Weasley</a> at the <a href="/wiki/The_Burrow" title="The Burrow">Burrow</a> in the summer of <a href="/wiki/1997" title="1997">1997</a>, when she was eleven years old.<sup id="cite_ref-DH6_5-2" class="reference"><a href="#cite_note-DH6-5">&#91;5&#93;</a></sup> When the <a href="/wiki/Delacour_family" title="Delacour family">Delacours</a> first arrived Gabrielle shot a "glowing look" at Harry and batted her eyelashes, possibly indicating that she had a crush on her former saviour. <a href="/wiki/Ginevra_Weasley" title="Ginevra Weasley">Ginny Weasley</a>, Fleur's other bridesmaid, cleared her throat loudly at this, as she was evidently still somewhat possessive of Harry. Gabrielle then assisted Fleur with wedding preparations, speaking rapidly in French as she went. She participated in the ceremony wearing a golden dress and looking "even prettier than <a href="/wiki/Veela" title="Veela">usual</a>".<sup id="cite_ref-DH8_10-0" class="reference"><a href="#cite_note-DH8-10">&#91;10&#93;</a></sup>
+</p><p>Gabrielle became the sister-in-law of <a href="/wiki/William_Weasley" title="William Weasley">Bill Weasley</a> and the aunt of <a href="/wiki/Victoire_Weasley" title="Victoire Weasley">Victoire Weasley</a>, <a href="/wiki/Dominique_Weasley" title="Dominique Weasley">Dominique Weasley</a>, and <a href="/wiki/Louis_Weasley" title="Louis Weasley">Louis Weasley</a>.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> She also became a relative by marriage of the famous <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a>, through his marriage to <a href="/wiki/Ginevra_Weasley" title="Ginevra Weasley">Ginny Weasley</a>.
+</p>
+<h2><span class="mw-headline" id="Physical_appearance">Physical appearance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gabrielle_Delacour?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Physical appearance">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gabrielle_Delacour?action=edit&amp;section=5" title="Edit section: Physical appearance"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Gabrielle was described as being her older sister, <a href="/wiki/Fleur_Delacour" title="Fleur Delacour">Fleur</a>, in miniature, and therefore breathtakingly beautiful: she had waist-length, silvery-blonde hair, and a smile described as "dazzling".<sup id="cite_ref-GOF26_2-6" class="reference"><a href="#cite_note-GOF26-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gabrielle_Delacour?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Personality and traits">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gabrielle_Delacour?action=edit&amp;section=6" title="Edit section: Personality and traits"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Much like her family, Gabrielle appeared to be a gracious and pleasant girl, as she was immensely grateful towards Harry Potter for having honourably saved her in the Second Task of the <a href="/wiki/Triwizard_Tournament" title="Triwizard Tournament">Triwizard Tournament</a>.<sup id="cite_ref-GOF26_2-7" class="reference"><a href="#cite_note-GOF26-2">&#91;2&#93;</a></sup> She may have even developed a crush on Harry afterwards, as at the <a href="/wiki/Wedding_of_William_Weasley_and_Fleur_Delacour" title="Wedding of William Weasley and Fleur Delacour">wedding</a> of her sister and brother-in-law, she was noted to have given Harry a "glowing look" and batted her eyelashes, but she might have just been very appreciative of him instead.<sup id="cite_ref-DH8_10-1" class="reference"><a href="#cite_note-DH8-10">&#91;10&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gabrielle_Delacour?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gabrielle_Delacour?action=edit&amp;section=7" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="http://en.wikipedia.org/wiki/Gabrielle" class="extiw" title="wikipedia:Gabrielle">Gabrielle</a> is the French feminine form of the Hebrew name <i>Gabriel</i>, meaning "man of god".<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup> In the bible, Gabriel is the name of a prominent angel.</li>
+<li>"Delacour" is formed by the three French words "de", "la" and "cour" which directly translates to "of the court".</li></ul>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gabrielle_Delacour?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gabrielle_Delacour?action=edit&amp;section=8" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tright show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/e/e8/Gabrielle.png/revision/latest?cb=20150408154841" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="180" height="215" class="thumbimage lazyload" data-image-name="Gabrielle.png" data-image-key="Gabrielle.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/e/e8/Gabrielle.png/revision/latest/scale-to-width-down/180?cb=20150408154841" /></a> 	<noscript><a href="https://static.wikia.nocookie.net/harrypotter/images/e/e8/Gabrielle.png/revision/latest?cb=20150408154841" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/e/e8/Gabrielle.png/revision/latest/scale-to-width-down/180?cb=20150408154841" decoding="async" width="180" height="215" class="thumbimage" data-image-name="Gabrielle.png" data-image-key="Gabrielle.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/e/e8/Gabrielle.png/revision/latest/scale-to-width-down/180?cb=20150408154841" /></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Gabrielle.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Gabrielle in <i><a href="/wiki/LEGO_Harry_Potter:_Years_1-4" title="LEGO Harry Potter: Years 1-4">LEGO Harry Potter: Years 1-4</a></i></p> 		 	</figcaption> </figure>
+<ul><li>In the <a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire_(film)" title="Harry Potter and the Goblet of Fire (film)">film adaptation</a> of <i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire" title="Harry Potter and the Goblet of Fire">Harry Potter and the Goblet of Fire</a></i>, Gabrielle, at 8 years old, is already attending <a href="/wiki/Beauxbatons_Academy_of_Magic" title="Beauxbatons Academy of Magic">Beauxbatons Academy of Magic</a> based on her attire. This means that she is 11 years-old at the <a href="/wiki/Wedding_of_William_Weasley_and_Fleur_Delacour" title="Wedding of William Weasley and Fleur Delacour">Wedding of William Weasley and Fleur Delacour</a>, but looks much older. Alternately, it is possible Gabrielle is older in the films than in the books, in the same way that <a href="/wiki/Romilda_Vane" title="Romilda Vane">Romilda Vane</a> is two years older in film continuity.</li>
+<li>Gabrielle is portrayed by <a href="/wiki/Great_Britain" title="Great Britain">British</a> actress <a href="/wiki/Angelica_Mandy" title="Angelica Mandy">Angelica Mandy</a> in <i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire_(film)" title="Harry Potter and the Goblet of Fire (film)">Harry Potter and the Goblet of Fire (film)</a></i> and the <i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1" title="Harry Potter and the Deathly Hallows: Part 1">Harry Potter and the Deathly Hallows: Part 1</a></i>.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup></li>
+<li>In the film adaptation of <i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire" title="Harry Potter and the Goblet of Fire">Harry Potter and the Goblet of Fire</a></i>, she says goodbye to <a href="/wiki/Ronald_Weasley" title="Ronald Weasley">Ron</a> and gives him a kiss on the cheek. In the novel, she does not say goodbye to Ron.</li>
+<li>In the <a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire_(film)" title="Harry Potter and the Goblet of Fire (film)">film adaptation</a>, she is seen doing back flips down the aisle. We later see her sitting next to her sister looking at the cup.</li>
+<li>In <i><a href="/wiki/LEGO_Harry_Potter:_Years_1-4" title="LEGO Harry Potter: Years 1-4">LEGO Harry Potter: Years 1-4</a></i>, it is confirmed that Gabrielle already has a wand at age eight and that she can perform <a href="/wiki/Magic" title="Magic">magic</a> of the level of a <a href="/wiki/Fourth_year" title="Fourth year">fourth year</a> Hogwarts student. This seems to support the theory that Beauxbatons students start at a younger age than Hogwarts students. However, her ability to work quite advanced magic in such game might be just down to game-play reasons, as her <a href="/wiki/Spell" title="Spell">spell</a>-casting abilities are no different from any accomplished wizard character in the game.<sup id="cite_ref-LEGOY1_6-1" class="reference"><a href="#cite_note-LEGOY1-6">&#91;6&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gabrielle_Delacour?veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gabrielle_Delacour?action=edit&amp;section=9" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" class="lazyload" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 22 images related to <i><b><a href="/wiki/Category:Images_of_Gabrielle_Delacour" title="Category:Images of Gabrielle Delacour">Gabrielle Delacour</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire" title="Harry Potter and the Goblet of Fire">Harry Potter and the Goblet of Fire</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire_(film)" title="Harry Potter and the Goblet of Fire (film)">Harry Potter and the Goblet of Fire (film)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">Harry Potter and the Order of the Phoenix</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">Harry Potter and the Half-Blood Prince</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">Harry Potter and the Deathly Hallows</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1" title="Harry Potter and the Deathly Hallows: Part 1">Harry Potter and the Deathly Hallows: Part 1</a></i></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i></li>
+<li><i><a href="/wiki/Wizarding_World_(website)" title="Wizarding World (website)">Wizarding World</a></i></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter:_Years_1-4" title="LEGO Harry Potter: Years 1-4">LEGO Harry Potter: Years 1-4</a></i></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter" title="LEGO Harry Potter">LEGO Harry Potter</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_for_Kinect" title="Harry Potter for Kinect">Harry Potter for Kinect</a></i></li>
+<li><i><a href="/wiki/Harry_Potter:_The_Character_Vault" title="Harry Potter: The Character Vault">Harry Potter: The Character Vault</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gabrielle_Delacour?veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gabrielle_Delacour?action=edit&amp;section=10" title="Edit section: Notes and references

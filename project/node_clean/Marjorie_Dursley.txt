@@ -1,0 +1,224 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-muggle pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/7/7e/Marjorie_dursley_promo.jpg/revision/latest?cb=20141106101744" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/7/7e/Marjorie_dursley_promo.jpg/revision/latest/scale-to-width-down/350?cb=20141106101744" srcset="https://static.wikia.nocookie.net/harrypotter/images/7/7e/Marjorie_dursley_promo.jpg/revision/latest/scale-to-width-down/350?cb=20141106101744 1x, https://static.wikia.nocookie.net/harrypotter/images/7/7e/Marjorie_dursley_promo.jpg/revision/latest/scale-to-width-down/700?cb=20141106101744 2x" class="pi-image-thumbnail" alt="" width="270" height="366"
+		     data-image-key="Marjorie_dursley_promo.jpg" data-image-name="Marjorie dursley promo.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Marjorie Eileen Dursley</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">Before <a href="/wiki/1954" title="1954">1954</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a><sup id="cite_ref-PoA2_1-0" class="reference"><a href="#cite_note-PoA2-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="marital">
+	
+		<h3 class="pi-data-label pi-secondary-font">Marital status</h3>
+	
+	<div class="pi-data-value pi-font">Single<sup id="cite_ref-PM_2-0" class="reference"><a href="#cite_note-PM-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/England" title="England">English</a><sup id="cite_ref-PoA2_1-1" class="reference"><a href="#cite_note-PoA2-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="alias">
+	
+		<h3 class="pi-data-label pi-secondary-font">Also known as</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>Auntie Marge (by <a href="/wiki/Dudley_Dursley" title="Dudley Dursley">Dudley Dursley</a>)<sup id="cite_ref-PoA2_1-2" class="reference"><a href="#cite_note-PoA2-1">&#91;1&#93;</a></sup></li><li>Aunt Marge (by <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a>)<sup id="cite_ref-PoA2_1-3" class="reference"><a href="#cite_note-PoA2-1">&#91;1&#93;</a></sup></li><li>Marge (by <a href="/wiki/Dursley_family" title="Dursley family">family</a>)<sup id="cite_ref-PoA2_1-4" class="reference"><a href="#cite_note-PoA2-1">&#91;1&#93;</a></sup></li><li>Margie (by <a href="/wiki/Vernon_Dursley" title="Vernon Dursley">Vernon Dursley</a>)<sup id="cite_ref-PoA2_1-5" class="reference"><a href="#cite_note-PoA2-1">&#91;1&#93;</a></sup></li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font">Human<sup id="cite_ref-PM_2-1" class="reference"><a href="#cite_note-PM-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female<sup id="cite_ref-PM_2-2" class="reference"><a href="#cite_note-PM-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Grey<sup id="cite_ref-PM_2-3" class="reference"><a href="#cite_note-PM-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Light<sup id="cite_ref-PM_2-4" class="reference"><a href="#cite_note-PM-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>Mr Dursley (father)</li><li><a href="/wiki/Vernon_Dursley%27s_mother" class="mw-redirect" title="Vernon Dursley&#039;s mother">Mrs Dursley</a> (mother)</li><li><a href="/wiki/Vernon_Dursley" title="Vernon Dursley">Vernon Dursley</a> (brother)<sup id="cite_ref-PoA2_1-6" class="reference"><a href="#cite_note-PoA2-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/Petunia_Dursley" title="Petunia Dursley">Petunia Dursley</a> (sister-in-law) †<sup id="cite_ref-PoA2_1-7" class="reference"><a href="#cite_note-PoA2-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/Dudley_Dursley" title="Dudley Dursley">Dudley Dursley</a> (nephew)<sup id="cite_ref-PoA2_1-8" class="reference"><a href="#cite_note-PoA2-1">&#91;1&#93;</a></sup></li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Dog breeder<sup id="cite_ref-PoA2_1-9" class="reference"><a href="#cite_note-PoA2-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Dursley_family" title="Dursley family">Dursley family</a><sup id="cite_ref-PoA2_1-10" class="reference"><a href="#cite_note-PoA2-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Prisoner of Azkaban">"<i>I still don't like your tone, boy. If you can speak of your beatings in that casual way, they clearly aren't hitting you hard enough. <a href="/wiki/Petunia_Dursley" title="Petunia Dursley">Petunia</a>, I'd write to them if I were you. Make it clear that you approve the use of extreme force in this boy's case.</i>"</span></dd>
+<dd>&#8212;Marge's cruelty towards Harry Potter<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban" title="Harry Potter and the Prisoner of Azkaban">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Marjorie Eileen</b><sup id="cite_ref-PM_2-5" class="reference"><a href="#cite_note-PM-2">&#91;2&#93;</a></sup> <b>"Marge" Dursley</b> was an <a href="/wiki/England" title="England">English</a> <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a>, who was <a href="/wiki/Vernon_Dursley" title="Vernon Dursley">Vernon Dursley</a>'s elder sister,<sup id="cite_ref-PM_2-6" class="reference"><a href="#cite_note-PM-2">&#91;2&#93;</a></sup> sister-in-law to <a href="/wiki/Petunia_Dursley" title="Petunia Dursley">Petunia Dursley</a>, and the aunt of <a href="/wiki/Dudley_Dursley" title="Dudley Dursley">Dudley Dursley</a>. She had a career in breeding <a href="http://en.wikipedia.org/wiki/Bulldog" class="extiw" title="wikipedia:Bulldog">bulldogs</a>, of which she owned <a href="/wiki/Marjorie_Dursley%27s_unknown_eleven_bulldogs" title="Marjorie Dursley&#39;s unknown eleven bulldogs">twelve</a>. <a href="/wiki/Ripper" title="Ripper">Ripper</a>, a particularly ferocious bulldog, was her favourite.<sup id="cite_ref-PoA2_1-11" class="reference"><a href="#cite_note-PoA2-1">&#91;1&#93;</a></sup>
+</p><p>Marge was a spoiled, unpleasant and arrogant woman, whose wealth appeared to be great, as she gave her nephew Dudley expensive gifts. In <a href="/wiki/1993" title="1993">1993</a>, she visited her brother Vernon for a week. She enraged <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> when she spoke ill of his parents. This caused Harry's magical abilities to unintentionally erupt, which resulted in her body inflating.<sup id="cite_ref-PoA2_1-12" class="reference"><a href="#cite_note-PoA2-1">&#91;1&#93;</a></sup> Her memory of this incident was later purged by the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">Ministry of Magic</a>.<sup id="cite_ref-POA3_3-0" class="reference"><a href="#cite_note-POA3-3">&#91;3&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_life"><span class="tocnumber">1.1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Adult_life"><span class="tocnumber">1.2</span> <span class="toctext">Adult life</span></a>
+<ul>
+<li class="toclevel-3 tocsection-4"><a href="#Early_visits_to_Privet_Drive"><span class="tocnumber">1.2.1</span> <span class="toctext">Early visits to Privet Drive</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#On_holiday_at_the_Isle_of_Wight"><span class="tocnumber">1.2.2</span> <span class="toctext">On holiday at the Isle of Wight</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Week_at_Privet_Drive"><span class="tocnumber">1.2.3</span> <span class="toctext">Week at Privet Drive</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Physical_appearance"><span class="tocnumber">2</span> <span class="toctext">Physical appearance</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Personality_and_traits"><span class="tocnumber">3</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Etymology"><span class="tocnumber">4</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Behind_the_scenes"><span class="tocnumber">5</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Appearances"><span class="tocnumber">6</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Notes_and_references"><span class="tocnumber">7</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Marjorie_Dursley?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Marjorie_Dursley?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Marjorie_Dursley?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Early life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Marjorie_Dursley?action=edit&amp;section=2" title="Edit section: Early life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Marjorie Dursley was born somewhere in <a href="/wiki/Great_Britain" title="Great Britain">Great Britain</a> to the <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> <a href="/wiki/Dursley_family" title="Dursley family">Dursley family</a> in the <a href="/wiki/1940s" title="1940s">1940s</a> or <a href="/wiki/1950s" title="1950s">50s</a>.
+</p>
+<h3><span class="mw-headline" id="Adult_life">Adult life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Marjorie_Dursley?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Adult life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Marjorie_Dursley?action=edit&amp;section=3" title="Edit section: Adult life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Marjorie went on to live in the country, in a house with a large <a href="/wiki/British_terms" title="British terms">garden</a> where she bred <a href="/wiki/Marjorie_Dursley%27s_unknown_eleven_bulldogs" title="Marjorie Dursley&#39;s unknown eleven bulldogs">bulldogs</a>.<sup id="cite_ref-PoA2_1-13" class="reference"><a href="#cite_note-PoA2-1">&#91;1&#93;</a></sup> She seemed to have a large amount of money, because she frequently bought her nephew, Dudley, expensive presents<sup id="cite_ref-PoA2_1-14" class="reference"><a href="#cite_note-PoA2-1">&#91;1&#93;</a></sup> and was noted to be on holiday sometimes.<sup id="cite_ref-PS3_4-0" class="reference"><a href="#cite_note-PS3-4">&#91;4&#93;</a></sup> She did not usually have time to cook. At some point in her life, she would live next to <a href="/wiki/Fubster" title="Fubster">Fubster</a>, a retired military colonel. She fell in <a href="/wiki/Love" title="Love">love</a> with Fubster but her attraction was unrequited,<sup id="cite_ref-PM_2-7" class="reference"><a href="#cite_note-PM-2">&#91;2&#93;</a></sup> though the two still kept enough of a relationship for him to look after her dogs when she was away.
+</p>
+<h4><span class="mw-headline" id="Early_visits_to_Privet_Drive">Early visits to Privet Drive</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Marjorie_Dursley?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Early visits to Privet Drive">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Marjorie_Dursley?action=edit&amp;section=4" title="Edit section: Early visits to Privet Drive"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In June <a href="/wiki/1985" title="1985">1985</a>, Marjorie went to <a href="/wiki/Privet_Drive" title="Privet Drive">Privet Drive</a> to attend Dudley's <a href="/wiki/Dudley_Dursley%27s_fifth_birthday_party" class="mw-redirect" title="Dudley Dursley&#39;s fifth birthday party">fifth birthday party</a>. She whacked Harry Potter, then four years old, around the shins with her walking stick to stop him from beating Dudley at <a href="/wiki/Musical_statues" title="Musical statues">musical statues</a>.<sup id="cite_ref-PoA2_1-15" class="reference"><a href="#cite_note-PoA2-1">&#91;1&#93;</a></sup>
+</p><p>Between 1985 and <a href="/wiki/1990" title="1990">1990</a>, Marjorie spent <a href="/wiki/Christmas" title="Christmas">Christmas</a> at <a href="/wiki/Privet_Drive" title="Privet Drive">Privet Drive</a>. She brought a computerised robot for Dudley and a box of dog biscuits for Harry.<sup id="cite_ref-PoA2_1-16" class="reference"><a href="#cite_note-PoA2-1">&#91;1&#93;</a></sup>
+</p><p>Marge was present again at Dudley's <a href="/wiki/Dudley_Dursley%27s_tenth_birthday" title="Dudley Dursley&#39;s tenth birthday">tenth birthday party</a>, when Harry was nine. Harry accidentally stepped on Ripper's paw, which caused the dog to chase Harry out into the garden and up a tree. Marge refused to call the dog off until past midnight, much to the Dursleys' delight.<sup id="cite_ref-PoA2_1-17" class="reference"><a href="#cite_note-PoA2-1">&#91;1&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="On_holiday_at_the_Isle_of_Wight">On holiday at the Isle of Wight</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Marjorie_Dursley?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: On holiday at the Isle of Wight">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Marjorie_Dursley?action=edit&amp;section=5" title="Edit section: On holiday at the Isle of Wight"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Philosopher&#39;s Stone">"<i>Marge's ill. Ate a funny whelk...</i>"</span></dd>
+<dd>&#8212;Marge's postcard to Vernon<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone" title="Harry Potter and the Philosopher&#39;s Stone">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p>In June <a href="/wiki/1991" title="1991">1991</a>, Marjorie travelled to the <a href="/wiki/Isle_of_Wight" title="Isle of Wight">Isle of Wight</a>. Unable to attend <a href="/wiki/Dudley_Dursley%27s_eleventh_birthday" title="Dudley Dursley&#39;s eleventh birthday">Dudley's eleventh birthday</a>, she sent him a present.<sup id="cite_ref-PS2_5-0" class="reference"><a href="#cite_note-PS2-5">&#91;5&#93;</a></sup> Whilst there, she fell ill after eating a "funny <a href="/wiki/Whelk" title="Whelk">whelk</a>" and wrote to the Dursleys to inform them about it.<sup id="cite_ref-PS3_4-1" class="reference"><a href="#cite_note-PS3-4">&#91;4&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="Week_at_Privet_Drive">Week at Privet Drive</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Marjorie_Dursley?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Week at Privet Drive">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Marjorie_Dursley?action=edit&amp;section=6" title="Edit section: Week at Privet Drive"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Prisoner of Azkaban">"<i>Bad blood will out. Now, I'm saying nothing against your family, Petunia, but your sister was a bad egg. They turn up in the best families. Then she ran off with a wastrel and here's the result right in front of us.</i>"</span></dd>
+<dd>&#8212;Aunt Marge cruelly mocking the Potters<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban" title="Harry Potter and the Prisoner of Azkaban">[src]</a></sup></dd>
+<dd></dd></dl></div><figure class="thumb tleft show-info-icon" style="width: 236px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/9/98/Marge_bribe.jpg/revision/latest?cb=20090720221814" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/9/98/Marge_bribe.jpg/revision/latest/scale-to-width-down/234?cb=20090720221814" decoding="async" width="234" height="153" class="thumbimage" data-image-name="Marge bribe.jpg" data-image-key="Marge_bribe.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Marge_bribe.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Marge gives Dudley a present</p> 		 	</figcaption> </figure>
+<p>During the summer of 1993, she stayed at the Dursleys' house for a week. Ignorant about Harry's "<a href="/wiki/Wizarding_world" title="Wizarding world">abnormality</a>," Marge was told that Harry attended <a href="/wiki/St_Brutus%27_Secure_Centre_for_Incurably_Criminal_Boys" class="mw-redirect" title="St Brutus&#39; Secure Centre for Incurably Criminal Boys">St Brutus' Secure Centre for Incurably Criminal Boys</a>.<sup id="cite_ref-PoA2_1-18" class="reference"><a href="#cite_note-PoA2-1">&#91;1&#93;</a></sup> She cruelly belittled Harry for the entire week that she was there – something that he took in stride. When she asked if the cane was used at St Brutus', she commented that she did not believe in not hitting people who deserved it. When she asked how often Harry was beaten and he casually replied "all the time." she insisted that the school was clearly not hitting him hard enough. She felt this way because Harry appeared too nonchalant in conveying the extent of his purported beatings.<sup id="cite_ref-PoA2_1-19" class="reference"><a href="#cite_note-PoA2-1">&#91;1&#93;</a></sup>
+</p>
+<figure class="thumb tright show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/8/8d/Majorie-Dursley.png/revision/latest?cb=20161213235152" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/8/8d/Majorie-Dursley.png/revision/latest/scale-to-width-down/180?cb=20161213235152" decoding="async" width="180" height="163" class="thumbimage" data-image-name="Majorie-Dursley.png" data-image-key="Majorie-Dursley.png" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Majorie-Dursley.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Marge's inflation</p> 		 	</figcaption> </figure>
+<p>She also delighted in comparing Harry to Dudley, and remarked about what made Harry such an unsatisfactory person. When Marge insulted <a href="/wiki/Lily_J._Potter" title="Lily J. Potter">his mother</a> and <a href="/wiki/James_Potter_I" title="James Potter I">his father</a>, Harry accidentally <a href="/wiki/Underage_magic" title="Underage magic">lost control of his magic</a> and <a href="/wiki/Inflation_of_Marjorie_Dursley" title="Inflation of Marjorie Dursley">blew her up</a> like a balloon with an <a href="/wiki/Inflating_Charm" class="mw-redirect" title="Inflating Charm">Inflating Charm</a>. This caused her to float upwards towards the ceiling, forcing her brother, Vernon, to try and pull her down, only to be lifted up himself.<sup id="cite_ref-PoA2_1-20" class="reference"><a href="#cite_note-PoA2-1">&#91;1&#93;</a></sup> Later, however, she was successfully punctured and her memory was modified by the <a href="/wiki/Accidental_Magic_Reversal_Squad" title="Accidental Magic Reversal Squad">Accidental Magic Reversal Squad</a> from the Ministry of Magic, so she would have no recollection of the event.<sup id="cite_ref-POA3_3-1" class="reference"><a href="#cite_note-POA3-3">&#91;3&#93;</a></sup>
+</p><p>After this, the Dursleys never invited Marge to stay again while Harry was in residence and he never saw her again.<sup id="cite_ref-PM_2-8" class="reference"><a href="#cite_note-PM-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Physical_appearance">Physical appearance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Marjorie_Dursley?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Physical appearance">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Marjorie_Dursley?action=edit&amp;section=7" title="Edit section: Physical appearance"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Marge was described as resembling her brother: large, beefy, purple-faced, and even had a moustache, though not as bushy as his.<sup id="cite_ref-PoA2_1-21" class="reference"><a href="#cite_note-PoA2-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Marjorie_Dursley?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Personality and traits">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Marjorie_Dursley?action=edit&amp;section=8" title="Edit section: Personality and traits"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Prisoner of Azkaban">"<i>I won't have this namby-pamby, wishy-washy nonsense about not hitting people who deserve it. A good thrashing is what's needed in ninety-nine cases out of a hundred. Have you been beaten often?</i>"</span></dd>
+<dd>&#8212;Aunt Marge antagonising Harry Potter<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban" title="Harry Potter and the Prisoner of Azkaban">[src]</a></sup></dd>
+<dd></dd></dl></div><figure class="thumb tleft show-info-icon" style="width: 231px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/1/19/Aunt_marge_hp.jpg/revision/latest?cb=20070511042315" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/1/19/Aunt_marge_hp.jpg/revision/latest/scale-to-width-down/229?cb=20070511042315" decoding="async" width="229" height="158" class="thumbimage" data-image-name="Aunt marge hp.jpg" data-image-key="Aunt_marge_hp.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Aunt_marge_hp.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Marge, looking down at Harry</p> 		 	</figcaption> </figure>
+<p>Marge was an arrogant, spiteful, ignorant, abusive, selfish, cruel and vicious bully who seemed to brazenly take delight in making the lives of anyone she disliked miserable, given her spiteful, abusive treatment of Harry. In some respects she was even more horrible than her brother; although Vernon was likewise a bully to Harry, at the same time he preferred to avoid spending time with him whenever he could help it, which Harry was happy to comply with, while Marge seemed to want Harry under her watch at all times just so she could belittle him by spewing out suggestions about how he could improve himself. She ate and drank excessively and was, overall, a powerfully dominant woman who made even Vernon look weak and powerless.<sup id="cite_ref-PoA2_1-22" class="reference"><a href="#cite_note-PoA2-1">&#91;1&#93;</a></sup>
+</p><p>Despite her fondness of bullying Harry and deeply unpleasant nature, she appeared to be on good terms with her like-minded brother, nephew, and sister-in-law, as shown when she assured Petunia that she "wasn't saying anything against her family" while calling Lily a "bad egg." However, it's implied that the Dursleys in return only tolerated Marge because she was Vernon's sister. Petunia, in particular, disliked Ripper making a mess in the house. Dudley only put up her kisses because he got paid for them. Even Vernon would make attempts to defuse Marge's attacks on Harry, by changing the subject or sending Harry out of the room, as he knew what Harry was capable of if he was pushed too far. When she visited, she always brought expensive gifts for Dudley (who only put up with her because he was well-paid for it), such as a computerised robot, and less satisfactory "gifts" for Harry such as a box of dog biscuits. It was unknown if Marge knew Harry's parents, but she constantly called them gross names (such as "good-for-nothing scrounger") and implied their uselessness to society (although technically, James Potter <i>was</i> unemployed, this was only because he was rich enough to not have to work).<sup id="cite_ref-PoA2_1-23" class="reference"><a href="#cite_note-PoA2-1">&#91;1&#93;</a></sup> Marge also had no knowledge of Harry's magical heritage, which the rest of the Dursleys intended to keep secret.
+</p><p>While she was not a blood relative of Harry's, he grew accustomed to calling her Aunt Marge. She was generally very cruel to him and once allowed Ripper to chase him up a tree and refused to call him off until past midnight. She heavily favoured her nephew Dudley and even went as far as whacking a young Harry in the shins to stop him from beating Dudley at musical statues and also suggested that Harry be put into an orphanage instead of "being a burden" on the Dursleys. She finally pushed Harry too far when she insulted his dead parents to his face, showing that she was so unpleasant she could not even show respect for his loss at such a young age, much like her brother.
+</p><p>Much of Marge's reprehensible behaviour, however, was the result of having been shunned by Colonel Fubster, whom she was in love with, though it should be noted, that she was already a horrible enough person for Fubster to not wish to marry her on those grounds.<sup id="cite_ref-PM_2-9" class="reference"><a href="#cite_note-PM-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Marjorie_Dursley?veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Marjorie_Dursley?action=edit&amp;section=9" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i>Marjorie</i> is a variant of <i>Margaret</i>.
+</p><p>The name "<i>Margaret</i>" is derived from Latin <i>Margarita</i>, which was from Greek μαργαριτης (margarites) meaning "pearl", probably a borrowing from Sanskrit. Saint Margaret, the patron of expectant mothers, was martyred at Antioch in the 4th century. Later legends told of her escape from a dragon, with which she was often depicted in mediaeval art. The saint was popular during the Middle Ages, and her name has been widely used in the Christian world.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> <i>"Eileen"</i> is from Celtic, English and Irish roots and has a long-standing history in each culture. In Irish it is known as a variation of "<i>Helen</i>". It became a more popular name in the 19th century. It is rumoured to have roots in Latin, American, French and Greek cultures, however such claims are not backed up with much evidence. Another variation of this name is Eileene which is most commonly used in Ireland.
+</p><p>Other versions of <i>Eileen</i>; "<i>Aileen"</i> (Scottish), "<i>Eibhlin"</i> (the original source for the name), "<i>Eila"</i> (Celtic variant of both "<i>Eileen"</i> and "<i>Aileen"</i>), "<i>Eireen"</i> (Norwegian variant of "<i>Irene</i>" or "<i>Eileen</i>"), "<i>Eleanor</i>" (a similarly-rooted name to "<i>Eileen</i>" in Irish).
+</p><p><a href="http://en.wikipedia.org/wiki/Dursley" class="extiw" title="wikipedia:Dursley">Dursley</a> is a town in Gloucestershire, England. J. K. Rowling has commented that she visited the place as a child, and hated it, which likely affected her choice of surname for the awful family, remarking "<i>I don't imagine I'm very popular in Dursley</i>".<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> The town is known for its Victorian history in coal mining. Rowling chose the name because it sounded "dull and forbidding".
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Marjorie_Dursley?veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Marjorie_Dursley?action=edit&amp;section=10" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tright show-info-icon" style="width: 152px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/3/39/Marge_Dursley_LEGO.jpg/revision/latest?cb=20110108153625" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="150" height="186" class="thumbimage lazyload" data-image-name="Marge Dursley LEGO.jpg" data-image-key="Marge_Dursley_LEGO.jpg" data-src="https://static.wikia.nocookie.net/harrypotter/images/3/39/Marge_Dursley_LEGO.jpg/revision/latest/scale-to-width-down/150?cb=20110108153625" /></a> 	<noscript><a href="https://static.wikia.nocookie.net/harrypotter/images/3/39/Marge_Dursley_LEGO.jpg/revision/latest?cb=20110108153625" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/3/39/Marge_Dursley_LEGO.jpg/revision/latest/scale-to-width-down/150?cb=20110108153625" decoding="async" width="150" height="186" class="thumbimage" data-image-name="Marge Dursley LEGO.jpg" data-image-key="Marge_Dursley_LEGO.jpg" data-src="https://static.wikia.nocookie.net/harrypotter/images/3/39/Marge_Dursley_LEGO.jpg/revision/latest/scale-to-width-down/150?cb=20110108153625" /></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Marge_Dursley_LEGO.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Marge in <i><a href="/wiki/LEGO_Harry_Potter:_Years_1-4" title="LEGO Harry Potter: Years 1-4">LEGO Harry Potter: Years 1-4</a></i></p> 		 	</figcaption> </figure>
+<figure class="thumb tright show-info-icon" style="width: 247px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/2/2a/Prisoner-of-azkaban-marge.jpg/revision/latest?cb=20180523044314" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="245" height="118" class="thumbimage lazyload" data-image-name="Prisoner-of-azkaban-marge.jpg" data-image-key="Prisoner-of-azkaban-marge.jpg" data-src="https://static.wikia.nocookie.net/harrypotter/images/2/2a/Prisoner-of-azkaban-marge.jpg/revision/latest/scale-to-width-down/245?cb=20180523044314" /></a> 	<noscript><a href="https://static.wikia.nocookie.net/harrypotter/images/2/2a/Prisoner-of-azkaban-marge.jpg/revision/latest?cb=20180523044314" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/2/2a/Prisoner-of-azkaban-marge.jpg/revision/latest/scale-to-width-down/245?cb=20180523044314" decoding="async" width="245" height="118" class="thumbimage" data-image-name="Prisoner-of-azkaban-marge.jpg" data-image-key="Prisoner-of-azkaban-marge.jpg" data-src="https://static.wikia.nocookie.net/harrypotter/images/2/2a/Prisoner-of-azkaban-marge.jpg/revision/latest/scale-to-width-down/245?cb=20180523044314" /></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Prisoner-of-azkaban-marge.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Aunt Marge floating up into the sky in <i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(film)" title="Harry Potter and the Prisoner of Azkaban (film)">Harry Potter and the Prisoner of Azkaban (film)</a></i></p> 		 	</figcaption> </figure>
+<ul><li>Aunt Marge was played by <a href="/wiki/Pam_Ferris" title="Pam Ferris">Pam Ferris</a> in the <a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(film)" title="Harry Potter and the Prisoner of Azkaban (film)">film adaptation</a> of <i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban" title="Harry Potter and the Prisoner of Azkaban">Harry Potter and the Prisoner of Azkaban</a></i>, who also portrayed the cruel headmistress Miss Agatha Trunchbull in Matilda (1996) and Mrs White in the Third Series of Cluedo.
+<ul><li>Aunt Marge has been often compared by fans to Matilda's Miss Agatha Trunchbull not only due to the two being played by Pam Ferris but also to similar characteristics; both Trunchbull and Marge are hostile to the titular characters/protagonists (Matilda and Harry respectively), who in turn use magical powers to teach the antagonists painful lessons and to make them end their cruel acts and leave for good.</li></ul></li>
+<li>In the <a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(film)" title="Harry Potter and the Prisoner of Azkaban (film)">film adaptation</a> of <i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban" title="Harry Potter and the Prisoner of Azkaban">Harry Potter and the Prisoner of Azkaban</a></i>, Marge could still speak while inflated, begging Vernon to help her and even screaming as she was floating. Harry also caused Marge to float outside along Privet Drive, while in the novel, she floated to the ceiling inside the house.</li>
+<li>Marge's personality was based on <a href="/wiki/J._K._Rowling" title="J. K. Rowling">J. K. Rowling</a>'s grandmother, Frieda Volant.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup></li>
+<li>In <i><a href="/wiki/LEGO_Harry_Potter:_Years_1-4" title="LEGO Harry Potter: Years 1-4">LEGO Harry Potter: Years 1-4</a></i>, Marge began to talk about Harry's parents when she found a picture of them.</li>
+<li>In the film, while Marge is considered to still be overweight, she is still noticeably slimmer compared to her brother, while in the book she was around the same size if not slightly larger. A more accurate way to describe her is thick in the film.</li>
+<li>In the film, Petunia was seen slowly waving goodbye to Marge as she floated away.</li>
+<li>In the book, Aunt Marge's tyranny to Harry lasted all week. In the film, all the incidents happened in the same day.</li>
+<li><a href="/wiki/Eileen_Prince" title="Eileen Prince">Eileen Prince</a>, the mother of <a href="/wiki/Severus_Snape" title="Severus Snape">Severus Snape</a>, happened to share her first name with the middle name of Marjorie Dursley. Whether this was intentionally done by Rowling to provide an insight into a possible similarity in character, was unknown.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Marjorie_Dursley?veaction=edit&amp;section=11" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Marjorie_Dursley?action=edit&amp;section=11" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" class="lazyload" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 27 images related to <i><b><a href="/wiki/Category:Images_of_Marjorie_Dursley" title="Category:Images of Marjorie Dursley">Marjorie Dursley</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone" title="Harry Potter and the Philosopher&#39;s Stone">Harry Potter and the Philosopher's Stone</a></i> <small>(First mentioned)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(film)" title="Harry Potter and the Philosopher&#39;s Stone (film)">Harry Potter and the Philosopher's Stone (film)</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban" title="Harry Potter and the Prisoner of Azkaban">Harry Potter and the Prisoner of Azkaban</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(film)" title="Harry Potter and the Prisoner of Azkaban (film)">Harry Potter and the Prisoner of Azkaban (film)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(video_game)" title="Harry Potter and the Prisoner of Azkaban (video game)">Harry Potter and the Prisoner of Azkaban (video game)</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">Harry Potter and the Order of the Phoenix</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter:_Years_1-4" title="LEGO Harry Potter: Years 1-4">LEGO Harry Potter: Years 1-4</a></i></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i></li>
+<li><i><a href="/wiki/Wizarding_World_(website)" title="Wizarding World (website)">Wizarding World</a></i></li>
+<li><i><a href="/wiki/Harry_Potter:_The_Character_Vault" title="Harry Potter: The Character Vault">Harry Potter: The Character Vault</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Marjorie_Dursley?veaction=edit&amp;section=12" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Marjorie_Dursley?action=edit&amp;section=12" title="Edit section: Notes and references

@@ -1,0 +1,84 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-mom pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/e/ef/Mdme._Miraforum.png/revision/latest?cb=20151128190720" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/e/ef/Mdme._Miraforum.png/revision/latest/scale-to-width-down/350?cb=20151128190720" srcset="https://static.wikia.nocookie.net/harrypotter/images/e/ef/Mdme._Miraforum.png/revision/latest/scale-to-width-down/350?cb=20151128190720 1x, https://static.wikia.nocookie.net/harrypotter/images/e/ef/Mdme._Miraforum.png/revision/latest/scale-to-width-down/700?cb=20151128190720 2x" class="pi-image-thumbnail" alt="" width="270" height="74"
+		     data-image-key="Mdme._Miraforum.png" data-image-name="Mdme. Miraforum.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Madame Miraforum</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Pure-blood" title="Pure-blood">Pure-blood</a> or <a href="/wiki/Half-blood" title="Half-blood">Half-blood</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Miraforum_(American_witch)" title="Miraforum (American witch)">Miraforum</a> (possibly)</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Quill_Control_%26_Rune_Translation" title="Quill Control &amp; Rune Translation">Quill Control & Rune Translation</a>, <a href="/wiki/Minister_for_Magic_and_Support_Staff" title="Minister for Magic and Support Staff">Minister for Magic Support Staff</a> at the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">Ministry of Magic</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">Ministry of Magic</a></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Madame Miraforum</b> was a <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">Ministry of Magic</a> employee, who worked at <a href="/wiki/Quill_Control_%26_Rune_Translation" title="Quill Control &amp; Rune Translation">Quill Control &amp; Rune Translation</a><sup id="cite_ref-Twitter_2-0" class="reference"><a href="#cite_note-Twitter-2">&#91;2&#93;</a></sup> for the <a href="/wiki/Minister_for_Magic_and_Support_Staff" title="Minister for Magic and Support Staff">Minister for Magic's Support Staff</a>.<sup id="cite_ref-SupportStaff_3-0" class="reference"><a href="#cite_note-SupportStaff-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Miraforum_(British_witch)?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Miraforum_(British_witch)?action=edit&amp;section=1" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Madame Miraforum is named after <a href="/wiki/Miraphora_Mina" title="Miraphora Mina">Miraphora Mina</a>, one of the graphic artists that produced many of the paper props seen in the <a href="/wiki/Harry_Potter_(film_series)" title="Harry Potter (film series)"><i>Harry Potter</i> films</a>.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Miraforum_(British_witch)?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Miraforum_(British_witch)?action=edit&amp;section=2" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1" title="Harry Potter and the Deathly Hallows: Part 1">Harry Potter and the Deathly Hallows: Part 1</a></i> <small>(Mentioned only)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Miraforum_(British_witch)?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Miraforum_(British_witch)?action=edit&amp;section=3" title="Edit section: Notes and references

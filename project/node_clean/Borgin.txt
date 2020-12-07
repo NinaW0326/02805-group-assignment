@@ -1,0 +1,194 @@
+<div class="mw-parser-output"><table class="notice metadata" id="spoiler" style="text-align: center; background: beige; margin: 1em 05%; padding: 0 1em; border: #a00 1px solid;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/e/ea/Wizards_Unite_logo.jpg/revision/latest?cb=20181114170049" class="image"><img alt="Wizards Unite logo.jpg" src="https://static.wikia.nocookie.net/harrypotter/images/e/ea/Wizards_Unite_logo.jpg/revision/latest/scale-to-width-down/175?cb=20181114170049" decoding="async" width="175" height="98" data-image-name="Wizards Unite logo.jpg" data-image-key="Wizards_Unite_logo.jpg" /></a>
+</td>
+<td><b>Warning!</b>
+<p>At least some content in this article is derived from information featured in <i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i>. As such, spoilers will be present within the article.
+</p><p>For gameplay-specific information, please see the relevant article on <a href="https://harrypotterwizardsunite.fandom.com/wiki/Borgin" class="extiw" title="w:c:harrypotterwizardsunite:Borgin">the Harry Potter: Wizards Unite Wiki!</a>
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-dark-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/3/39/Babcos.PNG/revision/latest?cb=20180613192035" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/3/39/Babcos.PNG/revision/latest/scale-to-width-down/350?cb=20180613192035" srcset="https://static.wikia.nocookie.net/harrypotter/images/3/39/Babcos.PNG/revision/latest/scale-to-width-down/350?cb=20180613192035 1x, https://static.wikia.nocookie.net/harrypotter/images/3/39/Babcos.PNG/revision/latest/scale-to-width-down/700?cb=20180613192035 2x" class="pi-image-thumbnail" alt="" width="270" height="230"
+		     data-image-key="Babcos.PNG" data-image-name="Babcos.PNG"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Borgin</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">Between Pre-<a href="/wiki/1846" class="mw-redirect" title="1846">1846</a> and <a href="/wiki/1975" title="1975">1975</a><sup id="cite_ref-born_1-0" class="reference"><a href="#cite_note-born-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Pure-blood" title="Pure-blood">Pure-blood</a> or <a href="/wiki/Half-blood" title="Half-blood">Half-blood</a> (most likely)<sup id="cite_ref-blood_2-0" class="reference"><a href="#cite_note-blood-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a><sup id="cite_ref-COS4_3-0" class="reference"><a href="#cite_note-COS4-3">&#91;3&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-COS4_3-1" class="reference"><a href="#cite_note-COS4-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male<sup id="cite_ref-COS4_3-2" class="reference"><a href="#cite_note-COS4-3">&#91;3&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Shopkeeper<sup id="cite_ref-COS4_3-3" class="reference"><a href="#cite_note-COS4-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Borgin_and_Burkes" title="Borgin and Burkes">Borgin and Burkes</a><sup id="cite_ref-COS4_3-4" class="reference"><a href="#cite_note-COS4-3">&#91;3&#93;</a></sup></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Chamber of Secrets">"<i>Mr Malfoy, what a pleasure to see you again. Delighted — and young Master Malfoy, too — charmed. How may I be of assistance? I must show you, just in today, and very reasonably priced —</i>"</span></dd>
+<dd>&#8212;Borgin greeting Lucius and Draco Malfoy in his shop<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets" title="Harry Potter and the Chamber of Secrets">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Mr Borgin</b> was a <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> and the co-owner of <a href="/wiki/Borgin_and_Burkes" title="Borgin and Burkes">Borgin and Burkes</a>, a shop in <a href="/wiki/Knockturn_Alley" title="Knockturn Alley">Knockturn Alley</a> which bought and sold objects of <a href="/wiki/Dark_Arts" title="Dark Arts">dark magic</a> and other dangerous magical artefacts.<sup id="cite_ref-COS4_3-5" class="reference"><a href="#cite_note-COS4-3">&#91;3&#93;</a></sup> Borgin seemed to operate the shop mostly by himself, and it is unknown what happened to his co-owner <a href="/wiki/Caractacus_Burke" title="Caractacus Burke">Caractacus Burke</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_life"><span class="tocnumber">1.1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#1990s"><span class="tocnumber">1.2</span> <span class="toctext">1990s</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Physical_appearance"><span class="tocnumber">2</span> <span class="toctext">Physical appearance</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Personality_and_traits"><span class="tocnumber">3</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Magical_abilities_and_skills"><span class="tocnumber">4</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Relationships"><span class="tocnumber">5</span> <span class="toctext">Relationships</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Malfoy_family"><span class="tocnumber">5.1</span> <span class="toctext">Malfoy family</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Muggle-borns"><span class="tocnumber">5.2</span> <span class="toctext">Muggle-borns</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Behind_the_scenes"><span class="tocnumber">6</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Appearances"><span class="tocnumber">7</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Notes_and_references"><span class="tocnumber">8</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Borgin?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Borgin?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Borgin?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Early life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Borgin?action=edit&amp;section=2" title="Edit section: Early life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Borgin and Burkes was established in <a href="/wiki/1863" class="mw-redirect" title="1863">1863</a>,<sup id="cite_ref-HBPF_4-0" class="reference"><a href="#cite_note-HBPF-4">&#91;4&#93;</a></sup> but it is unknown whether Borgin was one of the founders of the shop, and, if not, when he started working there. From the <a href="/wiki/1920s" title="1920s">1920s</a> to the <a href="/wiki/1940s" title="1940s">1940s</a>, <a href="/wiki/Caractacus_Burke" title="Caractacus Burke">Caractacus Burke</a> seemed to have been the one who handled business at the shop, as he bought <a href="/wiki/Salazar_Slytherin%27s_Locket" class="mw-redirect" title="Salazar Slytherin&#39;s Locket">Slytherin's locket</a> from <a href="/wiki/Merope_Riddle" title="Merope Riddle">Merope Gaunt</a> and was <a href="/wiki/Tom_Riddle" title="Tom Riddle">Tom Riddle</a> 's employer until the latter left to pursue his own schemes c. <a href="/wiki/1947" title="1947">1947</a>.<sup id="cite_ref-HBP13_5-0" class="reference"><a href="#cite_note-HBP13-5">&#91;5&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="1990s">1990s</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Borgin?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: 1990s">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Borgin?action=edit&amp;section=3" title="Edit section: 1990s"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Borgin trying to sell goods to the Malfoys"><b>Draco Malfoy</b>: "<i>Can I have that?</i>"</span></dd>
+<dd><b>Borgin</b>: "<i>Ah, the <a href="/wiki/Hand_of_Glory" title="Hand of Glory">Hand of Glory</a>! Insert a <a href="/wiki/Candle" title="Candle">candle</a> and it gives light only to the holder! Best friend of thieves and plunderers! Your son has fine taste, sir.</i>"</dd>
+<dd><b>Lucius Malfoy</b>: "<i>I hope my son will amount to more than a thief or a plunderer, Borgin.</i>"</dd>
+<dd><b>Borgin</b>: "<i>No offence, sir, no offence meant —</i>"</dd>
+<dd>&#8212; Borgin trying to sell goods to the Malfoys<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets" title="Harry Potter and the Chamber of Secrets">[src]</a></sup></dd></dl>
+</div><figure class="thumb tleft show-info-icon" style="width: 232px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/4/45/BorginwithHandsClasped.JPG/revision/latest?cb=20180613191716" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/4/45/BorginwithHandsClasped.JPG/revision/latest/scale-to-width-down/230?cb=20180613191716" decoding="async" width="230" height="140" class="thumbimage" data-image-name="BorginwithHandsClasped.JPG" data-image-key="BorginwithHandsClasped.JPG" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:BorginwithHandsClasped.JPG" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Borgin greeting the Malfoys</p> 		 	</figcaption> </figure>
+<p>In <a href="/wiki/1992" title="1992">1992</a>, Lucius Malfoy came to Borgin and Burkes to sell him several dark objects and <a href="/wiki/Poison" title="Poison">poisons</a>, fearing that the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">Ministry of Magic</a> would soon be investigating his <a href="/wiki/Malfoy_Manor" title="Malfoy Manor">mansion</a>. Borgin seemed displeased that Malfoy did not want to buy anything, but tried to convince Malfoy's son <a href="/wiki/Draco_Malfoy" title="Draco Malfoy">Draco</a> to buy the <a href="/wiki/Hand_of_Glory" title="Hand of Glory">Hand of Glory</a>. Once the Malfoys left, Borgin showed signs of disliking and resenting Malfoy, thinking that the objects Malfoy had brought him was only a small piece of what Malfoy was hiding in his mansion.<sup id="cite_ref-COS4_3-6" class="reference"><a href="#cite_note-COS4-3">&#91;3&#93;</a></sup>
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Half-Blood Prince"><b>Borgin</b>: "<i>Well, without seeing it, I must say it will be a very difficult job, perhaps impossible. I couldn’t guarantee anything.</i>"</span></dd>
+<dd><b>Draco Malfoy</b>: "<i>No? Perhaps this will make you more confident. Tell anyone, and there will be retribution. You know Fenrir Greyback? He’s a family friend. He’ll be dropping in from time to time to make sure you’re giving the problem your full attention.</i>"</dd>
+<dd><b>Borgin</b>: "<i>There will be no need for...</i>"</dd>
+<dd>&#8212; Draco Malfoy threatening Borgin<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">[src]</a></sup></dd></dl>
+</div>
+<p>In <a href="/wiki/1996" title="1996">1996</a>, Draco Malfoy came to Borgin to reserve the <a href="/wiki/Vanishing_Cabinet" title="Vanishing Cabinet">Vanishing Cabinet</a>, which he planned to use to smuggle <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a> into <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts</a>. He also asked for instructions on how to repair the other Vanishing Cabinet, located in Hogwarts. Borgin was not sure how this would be possible without having the cabinet with him, but became much more cooperative when Draco showed him his <a href="/wiki/Dark_Mark" title="Dark Mark">Dark Mark</a> and threatened to send <a href="/wiki/Fenrir_Greyback" title="Fenrir Greyback">Fenrir Greyback</a> on regular checks if he would not succeed.<sup id="cite_ref-HBP6_6-0" class="reference"><a href="#cite_note-HBP6-6">&#91;6&#93;</a></sup> He also sold the <a href="/wiki/Opal_Necklace" title="Opal Necklace">Opal Necklace</a> and Hand of Glory to Draco, the former being used in a failed attempt to assassinate <a href="/wiki/Albus_Dumbledore" title="Albus Dumbledore">Albus Dumbledore</a>, and the latter being used in combination with <a href="/wiki/Peruvian_Instant_Darkness_Powder" title="Peruvian Instant Darkness Powder">Peruvian Instant Darkness Powder</a>.
+</p><p><a href="/wiki/Hermione_Granger" title="Hermione Granger">Hermione Granger</a> tried to trick Borgin into telling her what Draco had been doing inside the shop, but Borgin easily saw through it and threw her out of the shop.<sup id="cite_ref-HBP6_6-1" class="reference"><a href="#cite_note-HBP6-6">&#91;6&#93;</a></sup>
+</p><p>It is not known what happened to him after this, but it is possible that he was arrested and sent to <a href="/wiki/Azkaban" title="Azkaban">Azkaban</a> for the part he played in the safe transport of convicted Death Eaters into Hogwarts School, which lead to the demise of the revered Headmaster at the wand of Severus Snape.
+</p>
+<h2><span class="mw-headline" id="Physical_appearance">Physical appearance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Borgin?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Physical appearance">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Borgin?action=edit&amp;section=4" title="Edit section: Physical appearance"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Chamber of Secrets">"<i>A stooping man had appeared behind the counter, smoothing his greasy hair back from his face.</i>"</span></dd>
+<dd>&#8212;Borgin comes to greet <a href="/wiki/Lucius_Malfoy" title="Lucius Malfoy">Lucius Malfoy</a> and <a href="/wiki/Draco_Malfoy" title="Draco Malfoy">his son</a><sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets" title="Harry Potter and the Chamber of Secrets">[src]</a></sup></dd>
+<dd></dd></dl></div><figure class="thumb tright show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/8/86/Borgin_PS2.png/revision/latest?cb=20150223124247" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/8/86/Borgin_PS2.png/revision/latest/scale-to-width-down/180?cb=20150223124247" decoding="async" width="180" height="191" class="thumbimage" data-image-name="Borgin PS2.png" data-image-key="Borgin_PS2.png" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Borgin_PS2.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Mr Borgin in his shop</p> 		 	</figcaption> </figure>
+<p>Borgin was a stooping man with oily hair. He would put on a pair of <a href="/wiki/Spectacles" class="mw-redirect" title="Spectacles">pince-nez</a> when reading was required.<sup id="cite_ref-COS4_3-7" class="reference"><a href="#cite_note-COS4-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Borgin?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Personality and traits">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Borgin?action=edit&amp;section=5" title="Edit section: Personality and traits"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Chamber of Secrets">"<i>Good day yourself, Mister Malfoy, and if the stories are true, you haven’t sold me half of what’s hidden in your manor...</i>"</span></dd>
+<dd>&#8212;Borgin's greedy personality<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets" title="Harry Potter and the Chamber of Secrets">[src]</a></sup></dd>
+<dd></dd></dl></div><p>Borgin was described as having a voice as oily as his hair. In the presence of important and intimidating customers, he would bow deep and flatter them. Only upon departure would he drop his oily manner and express and disdain with dark muttering. He was also very greedy and money-minded, as he was jubilant when <a href="/wiki/Lucius_Malfoy" title="Lucius Malfoy">Lucius Malfoy</a> entered his shop, only to be disappointed that the man was selling instead of buying,<sup id="cite_ref-COS4_3-8" class="reference"><a href="#cite_note-COS4-3">&#91;3&#93;</a></sup> with Borgin even swiping a coin back without Lucius or his son's noticing.<sup id="cite_ref-COSF_7-0" class="reference"><a href="#cite_note-COSF-7">&#91;7&#93;</a></sup>
+</p><p>Borgin could be intimidated easily by customers with powerful influence, as <a href="/wiki/Draco_Malfoy" title="Draco Malfoy">Draco Malfoy</a> threatened him with the <a href="/wiki/Dark_Mark" title="Dark Mark">Dark Mark</a> on his forearm and <a href="/wiki/Fenrir_Greyback" title="Fenrir Greyback">Fenrir Greyback</a>, both of which led Borgin to cower to Draco's whims. However, when dealing with obviously less influential people, such as <a href="/wiki/Hermione_Granger" title="Hermione Granger">Hermione Granger</a>, Borgin could be very cold and insolent, as he booted her out of his shop after she made a poor attempt to coax information from him.<sup id="cite_ref-HBP6_6-2" class="reference"><a href="#cite_note-HBP6-6">&#91;6&#93;</a></sup>
+</p><p>Borgin appeared to be a <a href="/wiki/Pure-blood_supremacy" title="Pure-blood supremacy">pure-blood supremacist</a>, as he stated to Lucius that blood purity was as significant to him as ever (this incidentally suggests that he was a <a href="/wiki/Pure-blood" title="Pure-blood">pure-blood</a> wizard, or at least a <a href="/wiki/Half-blood" title="Half-blood">half-blood</a> clinging onto his wizard heritage). It is, of course, possible that Borgin was simply playing up his loyalty to pure-blood supremacy to endear himself to Malfoy and thus get a better deal out of him.<sup id="cite_ref-COS4_3-9" class="reference"><a href="#cite_note-COS4-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Borgin?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Borgin?action=edit&amp;section=6" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Dark_Arts" title="Dark Arts">Dark Arts</a></b>: Borgin, being the proprietor of a shop devoted to dark magic, was highly knowledgeable of dark magical artefacts and cursed objects, such as the <a href="/wiki/Hand_of_Glory" title="Hand of Glory">Hand of Glory</a> and the <a href="/wiki/Opal_Necklace" title="Opal Necklace">Opal Necklace</a>. His superior knowledge in this field heavily implied he was a highly competent <a href="/wiki/Dark_Wizard" title="Dark Wizard">Dark Wizard</a> as well.</li>
+<li><b><a href="/wiki/Magic" title="Magic">Magical</a> repair</b>: Borgin was very well-versed in repairing magical artefacts that cannot be simply be done with the <a href="/wiki/Mending_Charm" title="Mending Charm">Mending Charm</a>, as with the instructions he gave to Draco, the young wizard managed to repair the Vanishing Cabinet, though it took about a full school year to do so, meaning he was certainly knowledgeable in this magical craft.<sup id="cite_ref-HBP6_6-3" class="reference"><a href="#cite_note-HBP6-6">&#91;6&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Relationships">Relationships</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Borgin?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Relationships">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Borgin?action=edit&amp;section=7" title="Edit section: Relationships"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Malfoy_family">Malfoy family</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Borgin?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Malfoy family">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Borgin?action=edit&amp;section=8" title="Edit section: Malfoy family"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Chamber of Secrets"><b>Borgin</b>: "<i>It’s the same all over. Wizard blood is counting for less everywhere —</i>"</span></dd>
+<dd><b>Lucius Malfoy</b>: "<i>Not with me.</i>"</dd>
+<dd><b>Borgin</b>: "<i>No, sir, nor with me, sir.</i>"</dd>
+<dd>&#8212; Borgin being sycophantic towards Lucius Malfoy<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets" title="Harry Potter and the Chamber of Secrets">[src]</a></sup></dd></dl>
+</div><p>As the <a href="/wiki/Malfoy_family" title="Malfoy family">Malfoy family</a> was full of wealthy <a href="/wiki/Dark_Wizard" title="Dark Wizard">dark wizards</a>, they carried many dealings with Borgin. In their presence, the shop owner would put on his sycophantic personality and flatter them at every situation possible. However, behind their backs, Borgin rather resented the patriarch <a href="/wiki/Lucius_Malfoy" title="Lucius Malfoy">Lucius Malfoy</a> due to his haughtiness.<sup id="cite_ref-COS4_3-10" class="reference"><a href="#cite_note-COS4-3">&#91;3&#93;</a></sup>
+</p><p>When Lucius' son <a href="/wiki/Draco_Malfoy" title="Draco Malfoy">Draco Malfoy</a> came to him for repairing the Vanishing Cabinet, the young wizard intimidated Borgin into unquestioned cooperation, all the while Borgin could barely hide his resentment, and even less his fear.<sup id="cite_ref-HBP6_6-4" class="reference"><a href="#cite_note-HBP6-6">&#91;6&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Muggle-borns">Muggle-borns</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Borgin?veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Edit section: Muggle-borns">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Borgin?action=edit&amp;section=9" title="Edit section: Muggle-borns"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Borgin appeared to be a <a href="/wiki/Pure-blood_supremacy" title="Pure-blood supremacy">pure-blood supremacist</a>,<sup id="cite_ref-COS4_3-11" class="reference"><a href="#cite_note-COS4-3">&#91;3&#93;</a></sup> and as such, appeared to disdain <a href="/wiki/Muggle-born" title="Muggle-born">muggle-borns</a>. He was cold and insolent towards <a href="/wiki/Hermione_Granger" title="Hermione Granger">Hermione Granger</a> when she visited his shop, though her poor attempt to coax information out of him was also quite insulting in return,<sup id="cite_ref-HBP6_6-5" class="reference"><a href="#cite_note-HBP6-6">&#91;6&#93;</a></sup> which is most likely the reason why he booted her out.
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Borgin?veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Borgin?action=edit&amp;section=10" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Mr Borgin was portrayed by <a href="/wiki/Edward_Tudor-Pole" title="Edward Tudor-Pole">Edward Tudor-Pole</a> in the the <a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(film)" title="Harry Potter and the Chamber of Secrets (film)">film adaptation</a> of <i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets" title="Harry Potter and the Chamber of Secrets">Harry Potter and the Chamber of Secrets</a></i>, but his scenes were cut. They were now included in the extended version.</li>
+<li>One of the deleted scenes shows Harry being noticed by Borgin. When he asks what Harry's doing in his shop, Harry quickly makes something up and then runs away.</li>
+<li>In the <a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(video_game)" title="Harry Potter and the Chamber of Secrets (video game)">video game adaptation</a> of <i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets" title="Harry Potter and the Chamber of Secrets">Harry Potter and the Chamber of Secrets</a></i>, Borgin owns the <a href="/wiki/Wand-Lighting_Charm" title="Wand-Lighting Charm">Lumos</a> <a href="/wiki/Lumos_spellbook" title="Lumos spellbook">spellbook</a>.</li>
+<li>If Borgin truly founded the shop with Caractacus Burke in 1863, he would be at least 146 during 1992. While wizards have been known to live this long, it is unknown if he is was this ancient or if he became Burke's business partner well after the shop was already established and eventually put his name first, possibly after Burke's death. However he could also be a descendant of the original Borgin.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Borgin?veaction=edit&amp;section=11" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Borgin?action=edit&amp;section=11" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" class="lazyload" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 15 images related to <i><b><a href="/wiki/Category:Images_of_Borgin" title="Category:Images of Borgin">Borgin</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<figure class="thumb tright show-info-icon" style="width: 122px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/5/57/Registry_brilliant_Borgin_and_Burkes_sticker05.png/revision/latest?cb=20201019155831" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="120" height="347" class="thumbimage lazyload" data-image-name="Registry brilliant Borgin and Burkes sticker05.png" data-image-key="Registry_brilliant_Borgin_and_Burkes_sticker05.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/5/57/Registry_brilliant_Borgin_and_Burkes_sticker05.png/revision/latest/scale-to-width-down/120?cb=20201019155831" /></a> 	<noscript><a href="https://static.wikia.nocookie.net/harrypotter/images/5/57/Registry_brilliant_Borgin_and_Burkes_sticker05.png/revision/latest?cb=20201019155831" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/5/57/Registry_brilliant_Borgin_and_Burkes_sticker05.png/revision/latest/scale-to-width-down/120?cb=20201019155831" decoding="async" width="120" height="347" class="thumbimage" data-image-name="Registry brilliant Borgin and Burkes sticker05.png" data-image-key="Registry_brilliant_Borgin_and_Burkes_sticker05.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/5/57/Registry_brilliant_Borgin_and_Burkes_sticker05.png/revision/latest/scale-to-width-down/120?cb=20201019155831" /></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Registry_brilliant_Borgin_and_Burkes_sticker05.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Mr Borgin as he appears in <i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i></p> 		 	</figcaption> </figure>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets" title="Harry Potter and the Chamber of Secrets">Harry Potter and the Chamber of Secrets</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(film)" title="Harry Potter and the Chamber of Secrets (film)">Harry Potter and the Chamber of Secrets (film)</a></i> <span class="template-c">(Deleted scenes)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(video_game)" title="Harry Potter and the Chamber of Secrets (video game)">Harry Potter and the Chamber of Secrets (video game)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">Harry Potter and the Half-Blood Prince</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince_(film)" title="Harry Potter and the Half-Blood Prince (film)">Harry Potter and the Half-Blood Prince (film)</a></i> <span class="template-c">(Mentioned on sign)</span> <span class="template-c">(Possible appearance)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">Harry Potter and the Deathly Hallows</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter:_Years_1-4" title="LEGO Harry Potter: Years 1-4">LEGO Harry Potter: Years 1-4</a></i> <span class="template-c">(Mentioned on sign)</span></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter:_Years_5-7" title="LEGO Harry Potter: Years 5-7">LEGO Harry Potter: Years 5-7</a></i> <span class="template-c">(Cutscene only)</span></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Borgin?veaction=edit&amp;section=12" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Borgin?action=edit&amp;section=12" title="Edit section: Notes and references

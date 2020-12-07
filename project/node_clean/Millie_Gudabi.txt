@@ -1,0 +1,108 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/5/52/Millie_Gudabi.png/revision/latest?cb=20130321014930" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/5/52/Millie_Gudabi.png/revision/latest/scale-to-width-down/350?cb=20130321014930" srcset="https://static.wikia.nocookie.net/harrypotter/images/5/52/Millie_Gudabi.png/revision/latest/scale-to-width-down/350?cb=20130321014930 1x, https://static.wikia.nocookie.net/harrypotter/images/5/52/Millie_Gudabi.png/revision/latest/scale-to-width-down/699?cb=20130321014930 2x" class="pi-image-thumbnail" alt="" width="270" height="347"
+		     data-image-key="Millie_Gudabi.png" data-image-name="Millie Gudabi.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Millie Gudabi</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">Before <a href="/wiki/1977" title="1977">1977</a>, <a href="/wiki/Australia" title="Australia">Australia</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Australia" title="Australia">Australian</a><sup id="cite_ref-QWC_1-0" class="reference"><a href="#cite_note-QWC-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="title">
+	
+		<h3 class="pi-data-label pi-secondary-font">Title(s)</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Keeper" title="Keeper">Keeper</a> (formerly)<sup id="cite_ref-QWC_1-1" class="reference"><a href="#cite_note-QWC-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-QWC_1-2" class="reference"><a href="#cite_note-QWC-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female<sup id="cite_ref-QWC_1-3" class="reference"><a href="#cite_note-QWC-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Blonde<sup id="cite_ref-QWC_1-4" class="reference"><a href="#cite_note-QWC-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Green<sup id="cite_ref-QWC_1-5" class="reference"><a href="#cite_note-QWC-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White<sup id="cite_ref-QWC_1-6" class="reference"><a href="#cite_note-QWC-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Quidditch" title="Quidditch">Quidditch</a> Commentator<sup id="cite_ref-QWC_1-7" class="reference"><a href="#cite_note-QWC-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/Keeper" title="Keeper">Keeper</a> for the <a href="/wiki/Thundelarra_Thunderers" title="Thundelarra Thunderers">Thundelarra Thunderers</a> (formerly)<sup id="cite_ref-QWC_1-8" class="reference"><a href="#cite_note-QWC-1">&#91;1&#93;</a></sup></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Thundelarra_Thunderers" title="Thundelarra Thunderers">Thundelarra Thunderers</a> (formerly)<sup id="cite_ref-QWC_1-9" class="reference"><a href="#cite_note-QWC-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+<b>Millie Gudabi</b><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> was an <a href="/wiki/Australia" title="Australia">Australian</a> <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> and&#160;<a href="/wiki/Quidditch" title="Quidditch">Quidditch</a> commentator during the <a href="/wiki/Quidditch_World_Cup" title="Quidditch World Cup">Quidditch World Cup</a> matches.
+</p>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Millie_Gudabi?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Millie_Gudabi?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>She was a former <a href="/wiki/Keeper" title="Keeper">Keeper</a>&#160;of Australian Quidditch team <a href="/wiki/Thundelarra_Thunderers" title="Thundelarra Thunderers">Thundelarra Thunderers</a>, as she once said while commentating a match with <a href="/wiki/Ludovic_Bagman" title="Ludovic Bagman">Ludo Bagman</a>.<sup id="cite_ref-QWC_1-10" class="reference"><a href="#cite_note-QWC-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Millie_Gudabi?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Millie_Gudabi?action=edit&amp;section=2" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter:_Quidditch_World_Cup" title="Harry Potter: Quidditch World Cup">Harry Potter: Quidditch World Cup</a></i> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Millie_Gudabi?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Millie_Gudabi?action=edit&amp;section=3" title="Edit section: Notes and references

@@ -1,0 +1,139 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-ilvermorny pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/0/04/William_the_Pukwudgie.png/revision/latest?cb=20170927204129" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/0/04/William_the_Pukwudgie.png/revision/latest/scale-to-width-down/350?cb=20170927204129" srcset="https://static.wikia.nocookie.net/harrypotter/images/0/04/William_the_Pukwudgie.png/revision/latest/scale-to-width-down/350?cb=20170927204129 1x, https://static.wikia.nocookie.net/harrypotter/images/0/04/William_the_Pukwudgie.png/revision/latest/scale-to-width-down/700?cb=20170927204129 2x" class="pi-image-thumbnail" alt="" width="270" height="276"
+		     data-image-key="William_the_Pukwudgie.png" data-image-name="William the Pukwudgie.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">William</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/17th_century" title="17th century">17th century</a> or earlier<sup id="cite_ref-WW_1-0" class="reference"><a href="#cite_note-WW-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Pukwudgie" title="Pukwudgie">Pukwudgie</a><sup id="cite_ref-WW_1-1" class="reference"><a href="#cite_note-WW-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male<sup id="cite_ref-WW_1-2" class="reference"><a href="#cite_note-WW-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Brown<sup id="cite_ref-WW_1-3" class="reference"><a href="#cite_note-WW-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Brown<sup id="cite_ref-WW_1-4" class="reference"><a href="#cite_note-WW-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Grey<sup id="cite_ref-WW_1-5" class="reference"><a href="#cite_note-WW-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font">Unnamed Pukwudgies<sup id="cite_ref-WW_1-6" class="reference"><a href="#cite_note-WW-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Caretaker at <a href="/wiki/Ilvermorny_School_of_Witchcraft_and_Wizardry" title="Ilvermorny School of Witchcraft and Wizardry">Ilvermorny School of Witchcraft and Wizardry</a><sup id="cite_ref-WW_1-7" class="reference"><a href="#cite_note-WW-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Isolt_Sayre" title="Isolt Sayre">Isolt Sayre</a><sup id="cite_ref-WW_1-8" class="reference"><a href="#cite_note-WW-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/Ilvermorny_School_of_Witchcraft_and_Wizardry" title="Ilvermorny School of Witchcraft and Wizardry">Ilvermorny School of Witchcraft and Wizardry</a><sup id="cite_ref-WW_1-9" class="reference"><a href="#cite_note-WW-1">&#91;1&#93;</a></sup></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Pottermore">"<i>There is one particularly aged creature who answers to the name of ‘William’. He laughs at the idea that he is the original William who saved Isolt and James’s lives, rightly pointing out that the first William would be over 300 years old had he survived.</i>"</span></dd>
+<dd>&#8212;The myth surrounding William the Pukwudgie<sup class="noprint"><a href="/wiki/Pottermore" title="Pottermore">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>William</b> was the given name of the <a href="/wiki/Pukwudgie" title="Pukwudgie">Pukwudgie</a> who was befriended by <a href="/wiki/Ilvermorny_School_of_Witchcraft_and_Wizardry" title="Ilvermorny School of Witchcraft and Wizardry">Ilvermorny</a> founder <a href="/wiki/Isolt_Sayre" title="Isolt Sayre">Isolt Sayre</a> during her first weeks in North America.<sup id="cite_ref-WW_1-10" class="reference"><a href="#cite_note-WW-1">&#91;1&#93;</a></sup> One of the four <a href="/wiki/Pukwudgie_(House)" title="Pukwudgie (House)">Ilvermorny houses</a> was named in honour of him. There was a myth that William never left IIvermorny, which would mean he lived for hundreds of years.<sup id="cite_ref-WW_1-11" class="reference"><a href="#cite_note-WW-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Legacy"><span class="tocnumber">1.1</span> <span class="toctext">Legacy</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Magical_abilities_and_skills"><span class="tocnumber">2</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Appearances"><span class="tocnumber">3</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Notes_and_references"><span class="tocnumber">4</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/William_(Pukwudgie)?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/William_(Pukwudgie)?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>When <a href="/wiki/Isolt_Sayre" title="Isolt Sayre">Isolt Sayre</a> went into the woods by <a href="/wiki/Mount_Greylock" title="Mount Greylock">Mount Greylock</a> in <a href="/wiki/1620" class="mw-redirect" title="1620">1620</a>, she found a Pukwudgie about to be killed by a <a href="/wiki/Hidebehind" title="Hidebehind">Hidebehind</a>. The Pukwudgie appeared to be "young and inexperienced" when Isolt saved him by casting a spell with her wand which scared the Hidebehind away. Isolt took the Pukwudgie to her shelter where she helped him recover. The Pukwudgie felt indebted to Isolt for having saved his life, but he was not happy about since he considered being indebted to a young, inexperienced girl humiliating. However, he would not leave Isolt until he had the chance to return the favour and begrudgingly followed her around.<sup id="cite_ref-WW_1-12" class="reference"><a href="#cite_note-WW-1">&#91;1&#93;</a></sup>
+</p><p>In due time, however, the Pukwudgie came to value Isolt. Their friendship was very unique and he shared with her knowledge of the woods. Since William would not reveal his real name per the traditions of his race, Isolt called him "William" in honour of her <a href="/wiki/William_Sayre" title="William Sayre">late father</a>.
+</p><p>William took Isolt to meet creatures he was friends with or knew of including <a href="/wiki/Hodag" title="Hodag">Hodags</a>, <a href="/wiki/Snallygaster" title="Snallygaster">Snallygasters</a>, and <a href="/wiki/Wampus_cat" title="Wampus cat">Wampus</a> kittens. When Isolt went to a nearby creek, they met a <a href="/wiki/Horned_Serpent" title="Horned Serpent">Horned Serpent</a>. William was terrified of the creature, however, he was astonished when he saw the Horned Serpent not only liked Isolt, but found it alarming when Isolt claimed the serpent was speaking to her. Isolt eventually stopped mentioning this when she saw that it troubled William.<sup id="cite_ref-WW_1-13" class="reference"><a href="#cite_note-WW-1">&#91;1&#93;</a></sup>
+</p><p>One day, while he and Isolt were in the woods looking for blackberries, he heard a gruesome noise nearby. He told Isolt to stay where she was while he went to stop it. Isolt followed him anyway and found the same Hidebehind which hurt William had killed two parents leaving their children, <a href="/wiki/Chadwick_Boot" title="Chadwick Boot">Chadwick</a> and <a href="/wiki/Webster_Boot" title="Webster Boot">Webster Boot</a> hurt and orphaned. After working together to destroy the hidebehind, Isolt asked William to help carry the children to her shelter so she could help them, but William believed they couldn't be saved and wanted to leave them. He then told her that Pukwudgies don't help humans as it is against their beliefs and he only helps her because she saved him first. Isolt then told William that by helping her, she would consider his debt to her fulfilled. William then agreed to carry Chadwick to the shelter. When they got back to their hideout, Isolt was very upset with William and told him to leave, and William glared at her and <a href="/wiki/Apparition" title="Apparition">Apparated</a>.<sup id="cite_ref-WW_1-14" class="reference"><a href="#cite_note-WW-1">&#91;1&#93;</a></sup>
+</p><p>Several years later, Isolt shouted William's name when her aunt <a href="/wiki/Gormlaith_Gaunt" title="Gormlaith Gaunt">Gormlaith Gaunt</a> broke into <a href="/wiki/Ilvermorny_School_of_Witchcraft_and_Wizardry" title="Ilvermorny School of Witchcraft and Wizardry">Ilvermorny</a> and was about to murder her husband <a href="/wiki/James_Steward" title="James Steward">James Steward</a>. Even though she meant her father, the Pukwudgie believed she meant him and Apparated behind Gormlaith and pierced her in the heart with a <a href="/wiki/Pukwudgie_arrow" title="Pukwudgie arrow">poisoned arrow.</a> This action killed Gormlaith and saved the family.<sup id="cite_ref-WW_1-15" class="reference"><a href="#cite_note-WW-1">&#91;1&#93;</a></sup>
+</p><p>Isolt thanked William, not telling him that she really meant her father. However, William was upset that he was never called once since she told him to leave. Despite being unhappy with her at first, he was confused when James shook his hand. He was touched when he told him they had named an <a href="/wiki/Pukwudgie_(House)" title="Pukwudgie (House)">Ilvermorny house</a> after him, in honour of the stories Isolt told him about William.<sup id="cite_ref-WW_1-16" class="reference"><a href="#cite_note-WW-1">&#91;1&#93;</a></sup>
+</p><p>William then moved with his family to Ilvermorny and they helped them repair the school, while moaning about "having" to do so. He felt that <a href="/wiki/Wizardkind" title="Wizardkind">wizards</a> were too naive to look after themselves and agreed to stay as the school caretaker in return for payment in gold.<sup id="cite_ref-WW_1-17" class="reference"><a href="#cite_note-WW-1">&#91;1&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Legacy">Legacy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/William_(Pukwudgie)?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Legacy">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/William_(Pukwudgie)?action=edit&amp;section=2" title="Edit section: Legacy"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Pukwudgies still remain at Ilvermorny to this day. They work while complaining about it, despite having never been required to arrive at the start of every school year to work. Pukwudgie House still remains one of the four houses. When a student is selected to be in the house, a carving of the Pukwudgie will raise its arrow into the air.<sup id="cite_ref-WW_1-18" class="reference"><a href="#cite_note-WW-1">&#91;1&#93;</a></sup>
+</p><p>No one knows for sure how long Pukwudgies can live, so no one knows when William died, if at all. However, there still remains an old Pukwudgie called William at Ilvermorny who is protective of the <a href="/wiki/Ilvermorny_statues" title="Ilvermorny statues">marble statue</a> of Isolt. He places <a href="/wiki/Mayflower_(flower)" title="Mayflower (flower)">mayflowers</a> on her grave every year on the day she died. He becomes unhappy if anyone mentions it. He also claims that he couldn't be the same Pukwudgie, as he would be over three hundred years old, but some people still believe him to be the same William that was Isolt's companion.<sup id="cite_ref-WW_1-19" class="reference"><a href="#cite_note-WW-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/William_(Pukwudgie)?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/William_(Pukwudgie)?action=edit&amp;section=3" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Pukwudgie_magic" title="Pukwudgie magic">Pukwudgie magic</a></b>: Being a <a href="/wiki/Pukwudgie" title="Pukwudgie">Pukwudgie</a>, William possessed his own unique brand of <a href="/wiki/Magic" title="Magic">magic</a>, along with the rest of his species.<sup id="cite_ref-WW_1-20" class="reference"><a href="#cite_note-WW-1">&#91;1&#93;</a></sup></li>
+<li><b><a href="/wiki/Apparition" title="Apparition">Apparition</a></b>: William was capable of apparating successfully at will, like other magical <a href="/wiki/Creature" title="Creature">creatures</a>.<sup id="cite_ref-WW_1-21" class="reference"><a href="#cite_note-WW-1">&#91;1&#93;</a></sup></li>
+<li><b>Combat</b>: As a Pukwudgie, William was very skilled in combat, in particular archery, as he was able to shoot <a href="/wiki/Gormlaith_Gaunt" title="Gormlaith Gaunt">Gormlaith Gaunt</a> with a <a href="/wiki/Pukwudgie_arrow" title="Pukwudgie arrow">poisoned arrow</a> and kill her, saving Ilvermorny from her rath.<sup id="cite_ref-WW_1-22" class="reference"><a href="#cite_note-WW-1">&#91;1&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/William_(Pukwudgie)?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/William_(Pukwudgie)?action=edit&amp;section=4" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Wizarding_World_(website)" title="Wizarding World (website)">Wizarding World</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/William_(Pukwudgie)?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/William_(Pukwudgie)?action=edit&amp;section=5" title="Edit section: Notes and references

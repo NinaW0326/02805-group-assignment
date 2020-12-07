@@ -1,0 +1,180 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-ilvermorny pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/2/28/JamesSteward.png/revision/latest?cb=20160628153517" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/2/28/JamesSteward.png/revision/latest/scale-to-width-down/350?cb=20160628153517" srcset="https://static.wikia.nocookie.net/harrypotter/images/2/28/JamesSteward.png/revision/latest/scale-to-width-down/350?cb=20160628153517 1x, https://static.wikia.nocookie.net/harrypotter/images/2/28/JamesSteward.png/revision/latest/scale-to-width-down/699?cb=20160628153517 2x" class="pi-image-thumbnail" alt="" width="270" height="381"
+		     data-image-key="JamesSteward.png" data-image-name="JamesSteward.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">James Steward</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/England" title="England">England</a>, <a href="/wiki/Great_Britain" title="Great Britain">Great Britain</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="marital">
+	
+		<h3 class="pi-data-label pi-secondary-font">Marital status</h3>
+	
+	<div class="pi-data-value pi-font">Married</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/England" title="England">English</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="title">
+	
+		<h3 class="pi-data-label pi-secondary-font">Title(s)</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>Founder</li><li><a href="/wiki/Headmaster" title="Headmaster">Headmaster</a></li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Dark</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Martha_Steward" title="Martha Steward">Martha Steward</a> (mother)</li><li><a href="/wiki/Chadwick_Boot" title="Chadwick Boot">Chadwick Boot</a> (adoptive son)</li><li><a href="/wiki/Webster_Boot" title="Webster Boot">Webster Boot</a> (adoptive son)</li><li><a href="/wiki/Martha_Steward_II" title="Martha Steward II">Martha Steward II</a> (daughter)</li><li><a href="/wiki/Rionach_Steward" title="Rionach Steward">Rionach Steward</a> (daughter)</li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>Stonemason</li><li>Founder and co-<a href="/wiki/Headmaster" title="Headmaster">Headmaster</a> of <a href="/wiki/Ilvermorny_School_of_Witchcraft_and_Wizardry" title="Ilvermorny School of Witchcraft and Wizardry">Ilvermorny School of Witchcraft and Wizardry</a></li><li><a href="/wiki/Wandmaker" title="Wandmaker">Wandmaker</a></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Ilvermorny_School_of_Witchcraft_and_Wizardry" title="Ilvermorny School of Witchcraft and Wizardry">Ilvermorny School of Witchcraft and Wizardry</a><ul><li><a href="/wiki/Pukwudgie" title="Pukwudgie">Pukwudgie</a></li></ul></li><li><a href="/wiki/Steward_family" title="Steward family">Steward family</a></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Pottermore">"<i>Isolt and James both lived to be over 100. They had seen the cottage of Ilvermorny become a granite castle, and they died in the knowledge that their school was now so famous that magical families all over North America were clamouring to educate their children there. </i>"</span></dd>
+<dd>&#8212;James' and Isolt's life, death, and legacy<sup class="noprint"><a href="/wiki/Pottermore" title="Pottermore">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>James Steward</b> was an <a href="/wiki/England" title="England">English</a> <a href="/wiki/Muggle" class="mw-redirect" title="Muggle">No-Maj</a> stonemason. He was one of the original members of the <a href="/wiki/Plymouth_settlement" title="Plymouth settlement">Plymouth settlement</a>, in the <a href="/wiki/United_States_of_America" title="United States of America">New World</a>. James was the son of <a href="/wiki/Martha_Steward" title="Martha Steward">Martha Steward</a>. He became romantically involved with a <a href="/wiki/Wizardkind" title="Wizardkind">witch</a>, <a href="/wiki/Isolt_Sayre" title="Isolt Sayre">Isolt Sayre</a> whom he eventually married and had four children with her, <a href="/wiki/Chadwick_Boot" title="Chadwick Boot">Chadwick</a> and <a href="/wiki/Webster_Boot" title="Webster Boot">Webster Boot</a>, who they adopted after the deaths of their biological parents, and two biological daughters  <a href="/wiki/Martha_Steward_II" title="Martha Steward II">Martha</a> and <a href="/wiki/Rionach_Steward" title="Rionach Steward">Rionach</a>. He later became one of the four founders of <a href="/wiki/Ilvermorny_School_of_Witchcraft_and_Wizardry" title="Ilvermorny School of Witchcraft and Wizardry">Ilvermorny School of Witchcraft and Wizardry</a>.<sup id="cite_ref-Pottermore_1-0" class="reference"><a href="#cite_note-Pottermore-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_life"><span class="tocnumber">1.1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Contributing_to_Ilvermorny_School"><span class="tocnumber">1.2</span> <span class="toctext">Contributing to Ilvermorny School</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#1634"><span class="tocnumber">1.3</span> <span class="toctext">1634</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Later_life"><span class="tocnumber">1.4</span> <span class="toctext">Later life</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Personality_and_traits"><span class="tocnumber">2</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Abilities_and_skills"><span class="tocnumber">3</span> <span class="toctext">Abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Behind_the_scenes"><span class="tocnumber">4</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Appearances"><span class="tocnumber">5</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Notes_and_references"><span class="tocnumber">6</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/James_Steward?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/James_Steward?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/James_Steward?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Early life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/James_Steward?action=edit&amp;section=2" title="Edit section: Early life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>James was born in <a href="/wiki/England" title="England">England</a> to <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> <a href="/wiki/Martha_Steward" title="Martha Steward">Martha Steward</a> and an unnamed Muggle father. He had travelled to the New World with the <a href="/wiki/Plymouth_settlement" title="Plymouth settlement">Plymouth settlement</a> where he befriended a family which included two young boys, <a href="/wiki/Chadwick_Boot" title="Chadwick Boot">Chadwick</a> and <a href="/wiki/Webster_Boot" title="Webster Boot">Webster Boot</a>.
+</p><p>One day, the family went exploring and was attacked by a <a href="/wiki/Hidebehind" title="Hidebehind">Hidebehind</a>. When the family didn't return to the settlement, James went in search of them only to find the boys' parents dead. While he was digging them a grave, he met <a href="/wiki/Isolt_Sayre" title="Isolt Sayre">Isolt Sayre</a> who had returned to bury the parents after saving their children. However, the family were wizards, and when James picked up a broken wand and gave it a wave, it rebelled and threw James across the clearing where he hit a tree and was knocked out cold.
+</p>
+<figure class="thumb tleft show-info-icon" style="width: 252px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/8/8e/Ilvermorny_is_built.png/revision/latest?cb=20160628152905" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/8/8e/Ilvermorny_is_built.png/revision/latest/scale-to-width-down/250?cb=20160628152905" decoding="async" width="250" height="105" class="thumbimage" data-image-name="Ilvermorny is built.png" data-image-key="Ilvermorny_is_built.png" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Ilvermorny_is_built.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Isolt nursed him back to health in a small shack</p> 		 	</figcaption> </figure>
+<p>Isolt took James to a small shelter and nursed him back to health. When he woke, he discovered Isolt was a <a href="/wiki/Wizardkind" title="Wizardkind">witch</a>. James was scared at first but while he recovered he often talked to Isolt and formed a bond with Chadwick and Webster. He helped build a stone house upon <a href="/wiki/Mount_Greylock" title="Mount Greylock">Mount Greylock</a> and the group christened it Ilvermorny. Isolt had planned to <a href="/wiki/Memory_Charm" title="Memory Charm">Obliviate</a> James and erase his memory, but by the time Ilvermorny was built, James and Isolt had fallen in love and decided to get married instead.
+</p><p>James and Isolt adopted Chadwick and Webster and raised them with magical traditions. Isolt told the boys stories she had heard about <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts</a>, and both boys wished to attend. Fearful of revealing her history with <a href="/wiki/Gormlaith_Gaunt" title="Gormlaith Gaunt">Gormlaith Gaunt</a>, Isolt would not allow this nor explain why, but assured them that when they turned eleven, they would be given their own <a href="/wiki/Wand" title="Wand">wands</a>. Shortly before Chadwick turned eleven, Isolt had a dream in which the <a href="/wiki/Horned_Serpent" title="Horned Serpent">Horned Serpent</a> gave her a shard of its horn, which turned into reality when she awoke and visited the creature. She gave this horn fragment to James, who used his skills in woodworking to enclose the core within a wand he carved from <a href="/wiki/Prickly_ash" title="Prickly ash">prickly ash</a>. Upon waking on his eleventh birthday, Chadwick was presented with this new <a href="/wiki/Chadwick_Boot%27s_wand" title="Chadwick Boot&#39;s wand">wand</a>, which was said to be of "exceptional power."
+</p>
+<h3><span class="mw-headline" id="Contributing_to_Ilvermorny_School">Contributing to Ilvermorny School</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/James_Steward?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Contributing to Ilvermorny School">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/James_Steward?action=edit&amp;section=3" title="Edit section: Contributing to Ilvermorny School"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>When they came up with the idea of making Ilvermorny into a school, James got to choose to name a house. He went with <a href="/wiki/Pukwudgie_(House)" title="Pukwudgie (House)">Pukwudgie</a>, in honour of a <a href="/wiki/Pukwudgie" title="Pukwudgie">creature</a> which had befriended his wife before he met her. She had told him stories about her friend which made him laugh.
+</p><p>By the time Webster turned eleven, Ilvermorny's reputation grew. The school now taught two other families who shared their knowledge of magic. James and Isolt also made them wands, but with different cores. Isolt and James learned to use a variety of other cores, including <a href="/wiki/Wampus_cat_hair" title="Wampus cat hair">Wampus cat hair</a>, <a href="/wiki/Snallygaster_heartstring" title="Snallygaster heartstring">Snallygaster heartstring</a>, and <a href="/wiki/Jackalope_antler" title="Jackalope antler">Jackalope antler</a>.
+</p>
+<h3><span class="mw-headline" id="1634">1634</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/James_Steward?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: 1634">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/James_Steward?action=edit&amp;section=4" title="Edit section: 1634"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>By <a href="/wiki/1634" class="mw-redirect" title="1634">1634</a>, the school was flourishing and Isolt had given birth to her and James' twin daughters, <a href="/wiki/Martha_Steward_II" title="Martha Steward II">Martha</a> and <a href="/wiki/Rionach_Steward" title="Rionach Steward">Rionach</a>. Martha was a <a href="/wiki/Squib" title="Squib">Squib</a>, but was loved very much by her family.
+</p><p>However, one day, Isolt's aunt <a href="/wiki/Gormlaith_Gaunt" title="Gormlaith Gaunt">Gormlaith Gaunt</a> found them. Isolt had fled Ireland to escape her wicked ways. Gormlaith returned to make her pay. She cast a spell over Ilvermorny which kept her and James in a deep sleep. Chadwick and Webster went to stop Gormlaith but James and Isolt were eventually woken by the cries of their daughters. They were eventually saved by <a href="/wiki/William_(Pukwudgie)" title="William (Pukwudgie)">William the Pukwudgie</a> Isolt had befriended many years earlier.
+</p>
+<h3><span class="mw-headline" id="Later_life">Later life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/James_Steward?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Later life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/James_Steward?action=edit&amp;section=5" title="Edit section: Later life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>James and Isolt became <a href="/wiki/Headmaster" title="Headmaster">Headmaster</a> and <a href="/wiki/Headmaster" title="Headmaster">Headmistress</a> of Ilvermorny and both lived to be over 100. A <a href="/wiki/Ilvermorny_statues" title="Ilvermorny statues">marble statue</a> of James was made and flanks the front doors of Ilvermorny along with his wife's.<sup id="cite_ref-Pottermore_1-1" class="reference"><a href="#cite_note-Pottermore-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/James_Steward?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Personality and traits">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/James_Steward?action=edit&amp;section=6" title="Edit section: Personality and traits"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Though much remains unknown, James Steward was known to be a loving father to his four children, biological and adopted, and was known to have been somewhat intimidated by Isolt's revelation to him that she was a witch. However, James quickly overcame this and fell deeply in love with Isolt, seeing her for the kind and loving woman that she was. He was a highly supportive husband, as he indulged and encouraged his wife's passion for teaching, leaving a lasting legacy alongside her.
+</p><p>He was an open-minded and caring man who encouraged his wife's drive to teach and educate their children and other students in the ways of magic, and used his skills in construction to help build their school with her, proving himself a supportive husband and eager to help others.
+</p><p>James was also a man eager to explore and learn more, hence why he became the first known No-Maj wandmaker, as he evidently discovered a method for a non-wizard to construct such powerful magical devices without catastrophe. He was known to be a wise and fair Headmaster alongside his wife and is immortalised in marble at the entrance to his school.
+</p><p>James was an extremely intelligent man and a skilled wandmaker, despite him not being a wizard.
+</p>
+<h2><span class="mw-headline" id="Abilities_and_skills">Abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/James_Steward?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/James_Steward?action=edit&amp;section=7" title="Edit section: Abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Wandmaker" title="Wandmaker">Wandmaker</a>: </b>James has the great distinction of being the first and only known <a href="/wiki/Muggle" class="mw-redirect" title="Muggle">No-Maj</a> to have crafted <a href="/wiki/Wand" title="Wand">wands</a>. He and Isolt made wands for their family and for the people they taught. The wands he created were known to be quite powerful. He and Isolt were the first to discover the properties of several <a href="/wiki/Wand_core" title="Wand core">wand cores</a> unique to <a href="/wiki/North_America" title="North America">North America</a>.</li>
+<li><b>Craftsman</b>: James was known to be a highly skilled craftsman, who specialised in stone masonry. He built the foundations of what would eventually become his and his wife's school, <a href="/wiki/Ilvermorny_School_of_Witchcraft_and_Wizardry" title="Ilvermorny School of Witchcraft and Wizardry">Ilvermorny</a>.</li></ul>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/James_Steward?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/James_Steward?action=edit&amp;section=8" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>James Steward is the only known <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> known to have helped to found a wizarding school, as well as to have been a <a href="/wiki/Headmaster" title="Headmaster">headmaster</a> of a wizarding school. He is also the first and so far only <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> known to have made <a href="/wiki/Wand" title="Wand">wands</a>.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/James_Steward?veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/James_Steward?action=edit&amp;section=9" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 4 images related to <i><b><a href="/wiki/Category:Images_of_James_Steward" title="Category:Images of James Steward">James Steward</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<ul><li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Wizarding_World_(website)" title="Wizarding World (website)">Wizarding World</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/James_Steward?veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/James_Steward?action=edit&amp;section=10" title="Edit section: Notes and references

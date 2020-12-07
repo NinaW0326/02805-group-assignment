@@ -1,0 +1,118 @@
+<div class="mw-parser-output"><table class="notice metadata" cellpadding="3px" style="text-align: center; background: snow; border: #a00 1px solid; margin: 1em 10% 1em 10%;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/1/16/Mirror_of_Erised.jpeg/revision/latest?cb=20090713064057" class="image"><img alt="Mirror of Erised.jpeg" src="https://static.wikia.nocookie.net/harrypotter/images/1/16/Mirror_of_Erised.jpeg/revision/latest/scale-to-width-down/80?cb=20090713064057" decoding="async" width="80" height="67" data-image-name="Mirror of Erised.jpeg" data-image-key="Mirror_of_Erised.jpeg" /></a>
+</td>
+<td><i><b>"Is this all real? Or has this been happening inside my head?"</b></i>
+<p>The topic of this article is of a real-life subject that has been mentioned "<a href="/wiki/Harry_Potter_Wiki:Policy#.22In-universe.22_point_of_view" title="Harry Potter Wiki:Policy">in-universe</a>" in a <a href="/wiki/Harry_Potter_Wiki:Canon" title="Harry Potter Wiki:Canon">canon</a> source. The <a href="/wiki/Harry_Potter_Wiki:About" title="Harry Potter Wiki:About">Harry Potter Wiki</a> is written from the perspective that all information presented in canon is true (e.g., <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts</a> really exists), and, as such, details contained in this article may differ from real world facts.
+</p>
+</td></tr></tbody></table>
+<table class="notice metadata" id="spoiler" style="text-align: center; background: beige; margin: 1em 05%; padding: 0 1em; border: #a00 1px solid;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/8/8c/Hogwarts_Mystery.jpeg/revision/latest?cb=20180504083359" class="image"><img alt="Hogwarts Mystery.jpeg" src="https://static.wikia.nocookie.net/harrypotter/images/8/8c/Hogwarts_Mystery.jpeg/revision/latest/scale-to-width-down/175?cb=20180504083359" decoding="async" width="175" height="77" data-image-name="Hogwarts Mystery.jpeg" data-image-key="Hogwarts_Mystery.jpeg" /></a>
+</td>
+<td><b>Warning!</b>
+<p>At least some content in this article is derived from information featured in <i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i>. Spoilers will be present within the article.
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-creature pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/6/66/Badger.jpg/revision/latest?cb=20090715193450" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/6/66/Badger.jpg/revision/latest/scale-to-width-down/158?cb=20090715193450" srcset="https://static.wikia.nocookie.net/harrypotter/images/6/66/Badger.jpg/revision/latest/scale-to-width-down/158?cb=20090715193450 1x, https://static.wikia.nocookie.net/harrypotter/images/6/66/Badger.jpg/revision/latest/scale-to-width-down/316?cb=20090715193450 2x" class="pi-image-thumbnail" alt="" width="158" height="228"
+		     data-image-key="Badger.jpg" data-image-name="Badger.jpg"/>
+		
+	</a>
+	
+</figure>
+
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Badger</h2>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Species information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Brown with a white stripe</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="mortality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Mortality</h3>
+	
+	<div class="pi-data-value pi-font">Mortal</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="distinction">
+	
+		<h3 class="pi-data-label pi-secondary-font">Distinction</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>White stripe that runs down its snout</li><li>Omnivorous</li><li>Skilled at defending itself against larger animals<sup id="cite_ref-PM_1-0" class="reference"><a href="#cite_note-PM-1">&#91;1&#93;</a></sup></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="affiliation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Affiliation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Hufflepuff" title="Hufflepuff">Hufflepuff</a><sup id="cite_ref-PM_1-1" class="reference"><a href="#cite_note-PM-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="status">
+	
+		<h3 class="pi-data-label pi-secondary-font">Status</h3>
+	
+	<div class="pi-data-value pi-font">Extant</div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Creature_infobox" title="Template:Creature infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Pottermore">"<i>...an animal that is often underestimated, because it lives quietly until attacked, but which, when provoked, can fight off animals much larger than itself, including <a href="/wiki/Wolf" title="Wolf">wolves</a>.</i>"</span></dd>
+<dd>&#8212;Hufflepuff <a href="/wiki/Prefect" title="Prefect">Prefect</a> <a href="/wiki/Gabriel_Truman" title="Gabriel Truman">Gabriel Truman</a> on his house mascot.<sup class="noprint"><a href="/wiki/Pottermore" title="Pottermore">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p>A <b>badger</b> is a omnivorous mammal of the <a href="http://en.wikipedia.org/wiki/Mustelidae" class="extiw" title="wikipedia:Mustelidae">Mustelidae</a> family, distinguishable by the white stripe that runs down its snout.<sup id="cite_ref-wiki_2-0" class="reference"><a href="#cite_note-wiki-2">&#91;2&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Badgers_in_the_wizarding_world"><span class="tocnumber">1</span> <span class="toctext">Badgers in the wizarding world</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Behind_the_scenes"><span class="tocnumber">2</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Appearances"><span class="tocnumber">3</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Notes_and_references"><span class="tocnumber">4</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Badgers_in_the_wizarding_world">Badgers in the wizarding world</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Badger?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Badgers in the wizarding world">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Badger?action=edit&amp;section=1" title="Edit section: Badgers in the wizarding world"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>It is the mascot of <a href="/wiki/Hufflepuff" title="Hufflepuff">Hufflepuff</a> <a href="/wiki/Hogwarts_Houses" title="Hogwarts Houses">House</a> at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a>. Like the house it represents, the badger is often underestimated and deemed non-threatening because it is not generally aggressive unless provoked, at which point it can and will viciously fight off threats even larger than itself.<sup id="cite_ref-PM_1-2" class="reference"><a href="#cite_note-PM-1">&#91;1&#93;</a></sup> This symbolism was perhaps showcased best in the <a href="/wiki/Battle_of_Hogwarts" title="Battle of Hogwarts">Battle of Hogwarts</a>, where many Hufflepuffs stayed to fight and defend their school, with only <a href="/wiki/Gryffindor" title="Gryffindor">Gryffindor</a> outnumbering them.<sup id="cite_ref-DH31_3-0" class="reference"><a href="#cite_note-DH31-3">&#91;3&#93;</a></sup>
+</p><p><a href="/wiki/Uric_the_Oddball" title="Uric the Oddball">Uric the Oddball</a> once turned up for a presentation before the <a href="/wiki/Wizards%27_Council" title="Wizards&#39; Council">Wizards' Council</a> wearing nothing but a toupee that turned out to be a <a href="/wiki/Death" title="Death">dead</a> badger, after listening to a <a href="/wiki/Fwooper" title="Fwooper">Fwooper</a>'s song continuously for three months.<sup id="cite_ref-FBR_4-0" class="reference"><a href="#cite_note-FBR-4">&#91;4&#93;</a></sup>
+</p><p>There is a <a href="/wiki/Spell" title="Spell">spell</a> that can <a href="/wiki/Transfiguration" title="Transfiguration">transfigure</a> <a href="/wiki/Cauldron_to_badger_spell" title="Cauldron to badger spell">a cauldron into a badger</a>.<sup id="cite_ref-OOTPG_5-0" class="reference"><a href="#cite_note-OOTPG-5">&#91;5&#93;</a></sup> One could turn a <a href="/wiki/Badgering" title="Badgering">human into a bager</a>.<sup id="cite_ref-COS11_6-0" class="reference"><a href="#cite_note-COS11-6">&#91;6&#93;</a></sup><sup id="cite_ref-TCG_7-0" class="reference"><a href="#cite_note-TCG-7">&#91;7&#93;</a></sup>
+</p><p>It is a known corporeal form of the <a href="/wiki/Patronus_Charm" title="Patronus Charm">Patronus Charm</a>.<sup id="cite_ref-patronus_8-0" class="reference"><a href="#cite_note-patronus-8">&#91;8&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Badger?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Badger?action=edit&amp;section=2" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In <i><a href="/wiki/LEGO_Harry_Potter:_Years_1-4" title="LEGO Harry Potter: Years 1-4">LEGO Harry Potter: Years 1-4</a></i> a badger is sitting in <a href="/wiki/Rubeus_Hagrid" title="Rubeus Hagrid">Rubeus Hagrid</a>'s <a href="/wiki/Rubeus_Hagrid%27s_cabin" class="mw-redirect" title="Rubeus Hagrid&#39;s cabin">hut</a> and reading the <a href="/wiki/Daily_Prophet" title="Daily Prophet">Daily Prophet</a> when the <a href="/wiki/Committee_for_the_Disposal_of_Dangerous_Creatures" title="Committee for the Disposal of Dangerous Creatures">Committee for the Disposal of Dangerous Creatures</a> arrives.<sup id="cite_ref-LEGOY1_9-0" class="reference"><a href="#cite_note-LEGOY1-9">&#91;9&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Badger?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Badger?action=edit&amp;section=3" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(film)" title="Harry Potter and the Philosopher&#39;s Stone (film)">Harry Potter and the Philosopher's Stone (film)</a></i> <span class="template-c">(Hufflepuff sign)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(video_game)" title="Harry Potter and the Philosopher&#39;s Stone (video game)">Harry Potter and the Philosopher's Stone (video game)</a></i> <span class="template-c">(Hufflepuff sign)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(film)" title="Harry Potter and the Chamber of Secrets (film)">Harry Potter and the Chamber of Secrets (film)</a></i> <span class="template-c">(Hufflepuff sign)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(video_game)" title="Harry Potter and the Chamber of Secrets (video game)">Harry Potter and the Chamber of Secrets (video game)</a></i> <span class="template-c">(Hufflepuff sign)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(video_game)" title="Harry Potter and the Prisoner of Azkaban (video game)">Harry Potter and the Prisoner of Azkaban (video game)</a></i> <span class="template-c">(Statue)</span>, <span class="template-c">(Hufflepuff sign)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire_(film)" title="Harry Potter and the Goblet of Fire (film)">Harry Potter and the Goblet of Fire (film)</a></i> <span class="template-c">(Hufflepuff sign)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire_(video_game)" title="Harry Potter and the Goblet of Fire (video game)">Harry Potter and the Goblet of Fire (video game)</a></i> <span class="template-c">(Hufflepuff sign)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(film)" title="Harry Potter and the Order of the Phoenix (film)">Harry Potter and the Order of the Phoenix (film)</a></i> <span class="template-c">(Hufflepuff sign)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(video_game)" title="Harry Potter and the Order of the Phoenix (video game)">Harry Potter and the Order of the Phoenix (video game)</a></i> <span class="template-c">(Hufflepuff sign)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">Harry Potter and the Half-Blood Prince</a></i> <span class="template-c">(Engraving on cup)</span> <small>(Appears in flashback(s))</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince_(film)" title="Harry Potter and the Half-Blood Prince (film)">Harry Potter and the Half-Blood Prince (film)</a></i> <span class="template-c">(Hufflepuff sign)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince_(video_game)" title="Harry Potter and the Half-Blood Prince (video game)">Harry Potter and the Half-Blood Prince (video game)</a></i> <span class="template-c">(Hufflepuff sign)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_2" title="Harry Potter and the Deathly Hallows: Part 2">Harry Potter and the Deathly Hallows: Part 2</a></i> <span class="template-c">(Hufflepuff sign)</span></li>
+<li><i><a href="/wiki/Harry_Potter:_A_Pop-Up_Book" title="Harry Potter: A Pop-Up Book">Harry Potter: A Pop-Up Book</a></i> <span class="template-c">(Hogwarts crest)</span></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter:_Years_1-4" title="LEGO Harry Potter: Years 1-4">LEGO Harry Potter: Years 1-4</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_Trading_Card_Game" title="Harry Potter Trading Card Game">Harry Potter Trading Card Game</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> <span class="template-c">(Appears as a <a href="/wiki/Patronus_Charm" title="Patronus Charm">Patronus</a>)</span></li>
+<li><i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i> <span class="template-c">(Hufflepuff sign)</span></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Badger?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Badger?action=edit&amp;section=4" title="Edit section: Notes and references

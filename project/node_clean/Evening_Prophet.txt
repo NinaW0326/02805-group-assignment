@@ -1,0 +1,64 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-iu-periodical pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/d/d3/The_Evening_Prophet.gif/revision/latest?cb=20090609074125" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/d/d3/The_Evening_Prophet.gif/revision/latest/scale-to-width-down/350?cb=20090609074125" srcset="https://static.wikia.nocookie.net/harrypotter/images/d/d3/The_Evening_Prophet.gif/revision/latest/scale-to-width-down/350?cb=20090609074125 1x, https://static.wikia.nocookie.net/harrypotter/images/d/d3/The_Evening_Prophet.gif/revision/latest/scale-to-width-down/700?cb=20090609074125 2x" class="pi-image-thumbnail" alt="" width="270" height="115"
+		     data-image-key="The_Evening_Prophet.gif" data-image-name="The Evening Prophet.gif"/>
+		
+	</a>
+	
+</figure>
+
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name"><i>The Evening Prophet</i></h2>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Periodical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="format">
+	
+		<h3 class="pi-data-label pi-secondary-font">Format</h3>
+	
+	<div class="pi-data-value pi-font">Newspaper<sup id="cite_ref-PM_1-0" class="reference"><a href="#cite_note-PM-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="frequency">
+	
+		<h3 class="pi-data-label pi-secondary-font">Frequency</h3>
+	
+	<div class="pi-data-value pi-font">Evenings, as needed<sup id="cite_ref-PM_1-1" class="reference"><a href="#cite_note-PM-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="focus">
+	
+		<h3 class="pi-data-label pi-secondary-font">Focus</h3>
+	
+	<div class="pi-data-value pi-font">Publishes events considered too important to wait for the regular edition<sup id="cite_ref-PM_1-2" class="reference"><a href="#cite_note-PM-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="subscribers">
+	
+		<h3 class="pi-data-label pi-secondary-font">Known subscribers</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Wizardkind" title="Wizardkind">Wizards</a> and witches<sup id="cite_ref-PM_1-3" class="reference"><a href="#cite_note-PM-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Periodical_infobox" title="Template:Periodical infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+The <i><b>Evening Prophet</b></i> was the name of the evening edition of the <a href="/wiki/Daily_Prophet" title="Daily Prophet">Daily Prophet</a>. Unlike the main <i>Prophet</i>, the <i>Evening Prophet</i> was only published when a particularly noteworthy event happened, in which case it is "rushed out".<sup id="cite_ref-PM_1-4" class="reference"><a href="#cite_note-PM-1">&#91;1&#93;</a></sup>
+</p><p>The only known times that this has happened are the illegal flight of a <a href="/wiki/Flying_Ford_Anglia" title="Flying Ford Anglia">Flying Ford Anglia</a> by <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> and <a href="/wiki/Ronald_Weasley" title="Ronald Weasley">Ronald Weasley</a> across <a href="/wiki/Great_Britain" title="Great Britain">Great Britain</a> (<i>Flying Ford Anglia Mystifies Muggles</i>),<sup id="cite_ref-COS5_2-0" class="reference"><a href="#cite_note-COS5-2">&#91;2&#93;</a></sup> and a search on <a href="/wiki/Malfoy_Manor" title="Malfoy Manor">Malfoy Manor</a> by the <a href="/wiki/Office_for_the_Detection_and_Confiscation_of_Counterfeit_Defensive_Spells_and_Protective_Objects" title="Office for the Detection and Confiscation of Counterfeit Defensive Spells and Protective Objects">Office for the Detection and Confiscation of Counterfeit Defensive Spells and Protective Objects</a>.<sup id="cite_ref-HBP11_3-0" class="reference"><a href="#cite_note-HBP11-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Known_excerpts">Known excerpts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Evening_Prophet?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Known excerpts">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Evening_Prophet?action=edit&amp;section=1" title="Edit section: Known excerpts"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A known excerpt from the <i>Evening Prophet</i> was an article concerning <a href="/wiki/Arthur_Weasley" title="Arthur Weasley">Arthur Weasley</a>'s second search of Malfoy Manor. The text was the following:
+</p><p><i>"This second search of the Death Eater's residence does not seem to have yielded any results. Arthur Weasley of the Office for the Detection and Confiscation of Counterfeit Defensive Spells and Protective Objects said that his team had been acting upon a confidential tip-off"</i><sup id="cite_ref-HBP11_3-1" class="reference"><a href="#cite_note-HBP11-3">&#91;3&#93;</a></sup>
+</p><p>This "confidential tip-off" was from <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a>, who told Arthur Weasley at <a href="/wiki/King%27s_Cross" class="mw-redirect" title="King&#39;s Cross">King's Cross</a> about <a href="/wiki/Draco_Malfoy" title="Draco Malfoy">Draco Malfoy</a> and the thing that he was trying to get <a href="/wiki/Borgin" title="Borgin">Borgin</a> to fix when Harry, Ronald Weasley, and <a href="/wiki/Hermione_Granger" title="Hermione Granger">Hermione Granger</a> eavesdropped on Malfoy in <a href="/wiki/Borgin_and_Burkes" title="Borgin and Burkes">Borgin and Burkes</a>.<sup id="cite_ref-HBP11_3-2" class="reference"><a href="#cite_note-HBP11-3">&#91;3&#93;</a></sup> This object turned out to be a <a href="/wiki/Vanishing_Cabinet" title="Vanishing Cabinet">Vanishing Cabinet</a>. The one in Borgin and Burkes had a twin in <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> and Malfoy was mending the two so that he could help the Death Eaters get into Hogwarts despite all the protective enchantments around it.<sup id="cite_ref-HBP27_4-0" class="reference"><a href="#cite_note-HBP27-4">&#91;4&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Evening_Prophet?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Evening_Prophet?action=edit&amp;section=2" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets" title="Harry Potter and the Chamber of Secrets">Harry Potter and the Chamber of Secrets</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(film)" title="Harry Potter and the Chamber of Secrets (film)">Harry Potter and the Chamber of Secrets (film)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(video_game)" title="Harry Potter and the Chamber of Secrets (video game)">Harry Potter and the Chamber of Secrets (video game)</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">Harry Potter and the Half-Blood Prince</a></i></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i></li>
+<li><i><a href="/wiki/Wizarding_World_(website)" title="Wizarding World (website)">Wizarding World</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Evening_Prophet?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Evening_Prophet?action=edit&amp;section=3" title="Edit section: Notes and references

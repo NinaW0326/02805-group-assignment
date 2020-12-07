@@ -1,0 +1,153 @@
+<div class="mw-parser-output"><table class="notice metadata" id="spoiler" style="text-align: center; background: beige; margin: 1em 05%; padding: 0 1em; border: #a00 1px solid;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/0/0c/Hand_pointing_right_transparent.png/revision/latest?cb=20181112005815" class="image"><img alt="Hand pointing right transparent.png" src="https://static.wikia.nocookie.net/harrypotter/images/0/0c/Hand_pointing_right_transparent.png/revision/latest/scale-to-width-down/150?cb=20181112005815" decoding="async" width="150" height="75" data-image-name="Hand pointing right transparent.png" data-image-key="Hand_pointing_right_transparent.png" /></a>
+</td>
+<td><b>Warning!</b>
+<p>At least some content in this article is derived from information featured in <i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i>&#32; and <i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i>.<br />As such, spoilers will be present within the article.
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-hogwarts-staff pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/7/76/QuentinTrimblePortrait.png/revision/latest?cb=20151022023432" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/7/76/QuentinTrimblePortrait.png/revision/latest/scale-to-width-down/350?cb=20151022023432" srcset="https://static.wikia.nocookie.net/harrypotter/images/7/76/QuentinTrimblePortrait.png/revision/latest/scale-to-width-down/350?cb=20151022023432 1x, https://static.wikia.nocookie.net/harrypotter/images/7/76/QuentinTrimblePortrait.png/revision/latest/scale-to-width-down/699?cb=20151022023432 2x" class="pi-image-thumbnail" alt="" width="270" height="353"
+		     data-image-key="QuentinTrimblePortrait.png" data-image-name="QuentinTrimblePortrait.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Quentin Trimble</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font">In or before <a href="/wiki/1986" title="1986">1986</a><sup id="cite_ref-DOD_1-0" class="reference"><a href="#cite_note-DOD-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a> or <a href="/wiki/Ireland" title="Ireland">Irish</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="title">
+	
+		<h3 class="pi-data-label pi-secondary-font">Title(s)</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Professor" title="Professor">Professor</a></li><li><a href="/wiki/Headmaster" title="Headmaster">Headmaster</a><sup id="cite_ref-WWHP_3-0" class="reference"><a href="#cite_note-WWHP-3">&#91;3&#93;</a></sup></li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Grey (formerly brown)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Brown</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Light</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>Author</li><li><a href="/wiki/Professor" title="Professor">Professor</a></li><li><a href="/wiki/Headmaster" title="Headmaster">Headmaster</a></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Professor<sup id="cite_ref-WWHP_3-1" class="reference"><a href="#cite_note-WWHP-3">&#91;3&#93;</a></sup> Quentin Trimble</b><sup id="cite_ref-PS_4-0" class="reference"><a href="#cite_note-PS-4">&#91;4&#93;</a></sup> was a <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> who once occupied the post of <a href="/wiki/Headmaster" title="Headmaster">Headmaster</a> of <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a>.<sup id="cite_ref-WWHP_3-2" class="reference"><a href="#cite_note-WWHP-3">&#91;3&#93;</a></sup> He authored the <a href="/wiki/List_of_books" class="mw-redirect" title="List of books">textbook</a> <i><a href="/wiki/The_Dark_Forces:_A_Guide_to_Self-Protection" title="The Dark Forces: A Guide to Self-Protection">The Dark Forces: A Guide to Self-Protection</a></i>, a required reading for any student enrolled in <a href="/wiki/Defence_Against_the_Dark_Arts" title="Defence Against the Dark Arts">Defence Against the Dark Arts</a> <a href="/wiki/Hogwarts_subjects" title="Hogwarts subjects">class</a>.<sup id="cite_ref-HPLE_5-0" class="reference"><a href="#cite_note-HPLE-5">&#91;5&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Lifetime"><span class="tocnumber">1.1</span> <span class="toctext">Lifetime</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Post-mortem"><span class="tocnumber">1.2</span> <span class="toctext">Post-mortem</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Magical_abilities_and_skills"><span class="tocnumber">2</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Etymology"><span class="tocnumber">3</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Behind_the_scenes"><span class="tocnumber">4</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Appearances"><span class="tocnumber">5</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Notes_and_references"><span class="tocnumber">6</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Quentin_Trimble?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Quentin_Trimble?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Lifetime">Lifetime</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Quentin_Trimble?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Lifetime">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Quentin_Trimble?action=edit&amp;section=2" title="Edit section: Lifetime"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Quentin attended <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> in his youth, and was later appointed to the position of <a href="/wiki/Headmaster" title="Headmaster">Headmaster</a> of the school.<sup id="cite_ref-WWHP_3-3" class="reference"><a href="#cite_note-WWHP-3">&#91;3&#93;</a></sup> Sometime throughout his adulthood, Quentin (or, as he was known after his appointment as Headmaster, Professor Trimble) authored the book <i><a href="/wiki/The_Dark_Forces:_A_Guide_to_Self-Protection" title="The Dark Forces: A Guide to Self-Protection">The Dark Forces: A Guide to Self-Protection</a></i>, a required reading for any <a href="/wiki/Defence_Against_the_Dark_Arts" title="Defence Against the Dark Arts">Defence Against the Dark Arts</a> student.<sup id="cite_ref-PS_4-1" class="reference"><a href="#cite_note-PS-4">&#91;4&#93;</a></sup><sup id="cite_ref-HPLE_5-1" class="reference"><a href="#cite_note-HPLE-5">&#91;5&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Post-mortem">Post-mortem</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Quentin_Trimble?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Post-mortem">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Quentin_Trimble?action=edit&amp;section=3" title="Edit section: Post-mortem"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="thumb tleft show-info-icon" style="width: 177px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/c/ca/Professor_Quentin_Trimble.jpg/revision/latest?cb=20100627211242" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/c/ca/Professor_Quentin_Trimble.jpg/revision/latest/scale-to-width-down/175?cb=20100627211242" decoding="async" width="175" height="215" class="thumbimage" data-image-name="Professor Quentin Trimble.jpg" data-image-key="Professor_Quentin_Trimble.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Professor_Quentin_Trimble.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Professor Trimble's portrait in the <a href="/wiki/Headmaster%27s_office" class="mw-redirect" title="Headmaster&#39;s office">Headmaster's office</a></p> 		 	</figcaption> </figure>
+<p>Trimble was no longer the Headteacher when <a href="/wiki/Armando_Dippet" title="Armando Dippet">Armando Dippet</a> took over in the early <a href="/wiki/20th_century" title="20th century">20th century</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> In or prior to the end of the school term in <a href="/wiki/1986" title="1986">1986</a>, Professor Trimble passed away, and a <a href="/wiki/Portrait" title="Portrait">portrait</a> was hung of him at the <a href="/wiki/Headmaster%27s_office" class="mw-redirect" title="Headmaster&#39;s office">Headmaster's office</a> in <a href="/wiki/Hogwarts_Castle" title="Hogwarts Castle">Hogwarts Castle</a> so that he could offer advice and solace to future <a href="/wiki/Headmaster" title="Headmaster">Headmasters</a> of the school.<sup id="cite_ref-WWHP_3-4" class="reference"><a href="#cite_note-WWHP-3">&#91;3&#93;</a></sup> Unfortunately, whoever painted his name misspelled it, a mistake that was never fixed.<sup id="cite_ref-HPLE_5-2" class="reference"><a href="#cite_note-HPLE-5">&#91;5&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Quentin_Trimble?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Quentin_Trimble?action=edit&amp;section=4" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Defence_Against_the_Dark_Arts" title="Defence Against the Dark Arts">Defence Against the Dark Arts</a></b>: Trimble was very knowledgeable in how to defend oneself from the <a href="/wiki/Dark_Arts" title="Dark Arts">Dark Arts</a>, as he authored <i><a href="/wiki/The_Dark_Forces:_A_Guide_to_Self-Protection" title="The Dark Forces: A Guide to Self-Protection">The Dark Forces: A Guide to Self-Protection</a></i>, an authoritative text in the subject. He had very good knowledge of defensive spells and <a href="/wiki/Dark_charm" title="Dark charm">Dark charms</a> and how to perform them, and was highly knowledgeable of various dark <a href="/wiki/Creature" title="Creature">creatures</a>, meaning he had likely experienced them himself.</li></ul>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Quentin_Trimble?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Quentin_Trimble?action=edit&amp;section=5" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>"Trimble" is most likely a derivation of "tremble", meaning "to shake" - fitting considering his career as an author of books against the <a href="/wiki/Dark_Arts" title="Dark Arts">dark forces</a>. As the shaky <a href="/wiki/Quirinus_Quirrell" title="Quirinus Quirrell">Professor Quirrell</a> was the <a href="/wiki/Defence_Against_the_Dark_Arts" title="Defence Against the Dark Arts">Defence Against the Dark Arts</a> teacher in the year that <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> purchased Trimble’s book, it is likely to be a reference to that.</li></ul>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Quentin_Trimble?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Quentin_Trimble?action=edit&amp;section=6" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Professor Trimble's name is considered to be misspelled "Quintin Trimble" on his <a href="/wiki/Portrait" title="Portrait">portrait</a> in the <a href="/wiki/Harry_Potter_(film_series)" title="Harry Potter (film series)">films</a>.<sup id="cite_ref-HPLE_5-3" class="reference"><a href="#cite_note-HPLE-5">&#91;5&#93;</a></sup> But the truth is that Quintin is a variant of spelling. It may be a hint to the fact that he also was the 15th Hogwarts headmaster (15th is 'quindecim' in Latin).</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Quentin_Trimble?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Quentin_Trimble?action=edit&amp;section=7" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 3 images related to <i><b><a href="/wiki/Category:Images_of_Quentin_Trimble" title="Category:Images of Quentin Trimble">Quentin Trimble</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone" title="Harry Potter and the Philosopher&#39;s Stone">Harry Potter and the Philosopher's Stone</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(film)" title="Harry Potter and the Prisoner of Azkaban (film)">Harry Potter and the Prisoner of Azkaban (film)</a></i> <span class="template-c">(Mentioned on Disc 2)</span></li>
+<li><i><a href="/wiki/Harry_Potter:_The_Exhibition" title="Harry Potter: The Exhibition">Harry Potter: The Exhibition</a></i> <small>(Appears in portrait(s))</small></li>
+<li><i><a href="/wiki/Harry_Potter_Limited_Edition" title="Harry Potter Limited Edition">Harry Potter Limited Edition</a></i> <small>(Appears in portrait(s))</small></li>
+<li><i><a href="/wiki/The_Making_of_Harry_Potter" title="The Making of Harry Potter">The Making of Harry Potter</a></i> <small>(Appears in portrait(s))</small></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> <small>(Mentioned only)</small> <span class="template-c">(On the Pottermore Insider)</span></li>
+<li><i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i> <small>(Appears in portrait(s))</small></li>
+<li><i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i> <small>(Mentioned only)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Quentin_Trimble?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Quentin_Trimble?action=edit&amp;section=8" title="Edit section: Notes and references

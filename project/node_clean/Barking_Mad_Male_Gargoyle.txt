@@ -1,0 +1,92 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-object pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/1/17/Barking_Mad_Male_Gargoyle.png/revision/latest?cb=20130818181914" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/1/17/Barking_Mad_Male_Gargoyle.png/revision/latest/scale-to-width-down/250?cb=20130818181914" srcset="https://static.wikia.nocookie.net/harrypotter/images/1/17/Barking_Mad_Male_Gargoyle.png/revision/latest/scale-to-width-down/250?cb=20130818181914 1x, https://static.wikia.nocookie.net/harrypotter/images/1/17/Barking_Mad_Male_Gargoyle.png/revision/latest/scale-to-width-down/500?cb=20130818181914 2x" class="pi-image-thumbnail" alt="" width="250" height="296"
+		     data-image-key="Barking_Mad_Male_Gargoyle.png" data-image-name="Barking Mad Male Gargoyle.png"/>
+		
+	</a>
+	
+</figure>
+
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Barking Mad Male Gargoyle</h2>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Object information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="usage">
+	
+		<h3 class="pi-data-label pi-secondary-font">Usage</h3>
+	
+	<div class="pi-data-value pi-font">Speaking, architecture<sup id="cite_ref-OOTPG_1-0" class="reference"><a href="#cite_note-OOTPG-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="owners">
+	
+		<h3 class="pi-data-label pi-secondary-font">Owners</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a><sup id="cite_ref-OOTPG_1-1" class="reference"><a href="#cite_note-OOTPG-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Object_infobox" title="Template:Object infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Order of the Phoenix (video game)"><b>Harry</b>: "<i>Excuse me, can you talk?</i>"</span></dd>
+<dd><b>Gargoyle</b>: "<i>No!</i>"</dd>
+<dd><b>Ron</b>: "<i>But you just did.</i>"</dd>
+<dd><b>Gargoyle</b>: "<i>No I didn't.</i>"</dd>
+<dd><b>Ron</b>: "<i>Then who did?</i>"</dd>
+<dd><b>Gargoyle</b>: "<i>She did. That one there. The one with the bushy hair!</i>"</dd>
+<dd><b>Hermione</b>: "<i>My hair is not bushy! Ron, is my hair bushy?</i>"</dd>
+<dd><b>Ron</b>: "<i>No - well - only a bit.</i>"</dd>
+<dd><b>Hermione</b>: "<i>It's been windy, and I've been busy.</i>"</dd>
+<dd>&#8212; Finding one of the five talking gargoyles<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(video_game)" title="Harry Potter and the Order of the Phoenix (video game)">[src]</a></sup></dd></dl>
+</div>
+<p><br />
+The <b>Barking Mad Male Gargoyle</b> was one of the talking <a href="/wiki/Gargoyle" title="Gargoyle">gargoyles</a> in <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a>.<sup id="cite_ref-OOTPG_1-2" class="reference"><a href="#cite_note-OOTPG-1">&#91;1&#93;</a></sup> 
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Behind_the_scenes"><span class="tocnumber">2</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Appearances"><span class="tocnumber">3</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Notes_and_references"><span class="tocnumber">4</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Barking_Mad_Male_Gargoyle?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: History">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Barking_Mad_Male_Gargoyle?action=edit&amp;section=1" title="Edit section: History"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>It was located on a <a href="/wiki/Fourth-floor_balcony" title="Fourth-floor balcony">balcony</a> on the fourth floor of the <a href="/wiki/Hogwarts_Castle" title="Hogwarts Castle">Hogwarts Castle</a>. It would randomly spout nonsense, or repeatedly insist that it could not speak.<sup id="cite_ref-OOTPG_1-3" class="reference"><a href="#cite_note-OOTPG-1">&#91;1&#93;</a></sup>
+</p><p>During the <a href="/wiki/1995%E2%80%931996_school_year" title="1995–1996 school year">1995–1996 school year</a>, <a href="/wiki/Cuthbert_Binns" title="Cuthbert Binns">Professor Binns</a> assigned his <a href="/wiki/Fifth_year" title="Fifth year">Fifth year</a> students the task of listing five talking gargoyles as a homework assignment. <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> located the gargoyles as a favour to <a href="/wiki/Dean_Thomas" title="Dean Thomas">Dean Thomas</a> so that he could attend the first meeting of <a href="/wiki/Dumbledore%27s_Army" title="Dumbledore&#39;s Army">Dumbledore's Army</a> in the <a href="/wiki/Room_of_Requirement" title="Room of Requirement">Room of Requirement</a>.<sup id="cite_ref-OOTPG_1-4" class="reference"><a href="#cite_note-OOTPG-1">&#91;1&#93;</a></sup>
+</p><p>Like the others, casting the <a href="/wiki/Fire-Making_Spell" title="Fire-Making Spell">Fire-Making Spell</a> on the gargoyle would cause it to breathe <a href="/wiki/Fire" title="Fire">fire</a>.<sup id="cite_ref-OOTPG_1-5" class="reference"><a href="#cite_note-OOTPG-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Barking_Mad_Male_Gargoyle?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Barking_Mad_Male_Gargoyle?action=edit&amp;section=2" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>The gargoyle was voiced by <a href="/wiki/Jonathan_Kydd" title="Jonathan Kydd">Jonathan Kydd</a> in the <a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(video_game)" title="Harry Potter and the Order of the Phoenix (video game)">video game adaptation</a> of <i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">Harry Potter and the Order of the Phoenix</a></i>.</li>
+<li>On the Norwegian dubbed version of the game, this Gargoyle was voiced by voice actor Yngvar Numme, who had the voice of the 1994's Lion King as the warthog Pumba, which was the cause of much amusement among Norwegian Harry Potter fans, seeing as the gargoyle resembled the character.</li>
+<li>The gargoyle's name was identified during the game's credits.</li>
+<li>Other conversations with the gargoyle:</li></ul>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Order of the Phoenix (video game)">"<i>Rabbits, rabbits, rabbits, rabbits.</i>"</span></dd>
+<dd>&#8212;Conversation 1<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(video_game)" title="Harry Potter and the Order of the Phoenix (video game)">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Order of the Phoenix (video game)">"<i>You must be confusing me with someone else. I can't talk, not me. I haven't said a word my whole life.</i>"</span></dd>
+<dd>&#8212;Conversation 2<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(video_game)" title="Harry Potter and the Order of the Phoenix (video game)">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Order of the Phoenix (video game)">"<i>Sorry, there's no one here.</i>"</span></dd>
+<dd>&#8212;Conversation 3<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(video_game)" title="Harry Potter and the Order of the Phoenix (video game)">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Order of the Phoenix (video game)">"<i>You must be imagining things. I can't hear anyone talking.</i>"</span></dd>
+<dd>&#8212;Conversation 4<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(video_game)" title="Harry Potter and the Order of the Phoenix (video game)">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Order of the Phoenix (video game)">"<i>Shhh, listen. Can you hear that? See, there's no one talking here. There's no one here at all.</i>"</span></dd>
+<dd>&#8212;Conversation 5<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(video_game)" title="Harry Potter and the Order of the Phoenix (video game)">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Barking_Mad_Male_Gargoyle?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Barking_Mad_Male_Gargoyle?action=edit&amp;section=3" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(video_game)" title="Harry Potter and the Order of the Phoenix (video game)">Harry Potter and the Order of the Phoenix (video game)</a></i> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Barking_Mad_Male_Gargoyle?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Barking_Mad_Male_Gargoyle?action=edit&amp;section=4" title="Edit section: Notes and references

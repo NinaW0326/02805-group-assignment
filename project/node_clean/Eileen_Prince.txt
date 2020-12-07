@@ -1,0 +1,156 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default"><section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Eileen Snape (née Prince)</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">c. <a href="/wiki/1930" title="1930">1930</a><sup id="cite_ref-birthyear_1-0" class="reference"><a href="#cite_note-birthyear-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Pure-blood" title="Pure-blood">Pure-blood</a><sup id="cite_ref-blood_2-0" class="reference"><a href="#cite_note-blood-2">&#91;2&#93;</a></sup> <span class="template-c">(possibly)</span></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="marital">
+	
+		<h3 class="pi-data-label pi-secondary-font">Marital status</h3>
+	
+	<div class="pi-data-value pi-font">Married</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a> or <a href="/wiki/Ireland" title="Ireland">Irish</a><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="title">
+	
+		<h3 class="pi-data-label pi-secondary-font">Title(s)</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>Captain of the <a href="/wiki/Hogwarts_Gobstones_Team" title="Hogwarts Gobstones Team">Hogwarts Gobstones Team</a><sup id="cite_ref-HP25_4-0" class="reference"><a href="#cite_note-HP25-4">&#91;4&#93;</a></sup></li><li>President of the <a href="/wiki/Hogwarts_Gobstone_Club" title="Hogwarts Gobstone Club">Hogwarts Gobstone Club</a><sup id="cite_ref-PM_5-0" class="reference"><a href="#cite_note-PM-5">&#91;5&#93;</a></sup></li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-OP26_6-0" class="reference"><a href="#cite_note-OP26-6">&#91;6&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female<sup id="cite_ref-OP26_6-1" class="reference"><a href="#cite_note-OP26-6">&#91;6&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Pale</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Tobias_Snape" title="Tobias Snape">Tobias Snape</a> (husband)</li><li><a href="/wiki/Severus_Snape" title="Severus Snape">Severus Snape</a> (son) †</li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="house">
+	
+		<h3 class="pi-data-label pi-secondary-font">House</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Slytherin" title="Slytherin">Slytherin</a><sup id="cite_ref-house_7-0" class="reference"><a href="#cite_note-house-7">&#91;7&#93;</a></sup> <span class="template-c">(possibly)</span></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Prince_family" title="Prince family">Prince family</a></li><li><a href="/wiki/Snape_family" title="Snape family">Snape family</a></li><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Half-Blood Prince"><b>Hermione Granger</b>: "<i> </i>[...]<i> there was a tiny announcement about Eileen Prince marrying a Muggle called Tobias Snape and then later an announcement saying that she'd given birth to a —</i>"</span></dd>
+<dd><b>Harry Potter</b>: "<i>— murderer.</i>"</dd>
+<dd>&#8212; Hermione revealing Severus Snape's parentage<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">[src]</a></sup></dd></dl>
+</div>
+<p><b>Eileen Snape</b> (née <b>Prince</b>) (born c. <a href="/wiki/1930" title="1930">1930</a>) was a <a href="/wiki/Great_Britain" title="Great Britain">British</a> <a href="/wiki/Wizardkind" title="Wizardkind">witch</a>, wife to the <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> <a href="/wiki/Tobias_Snape" title="Tobias Snape">Tobias Snape</a> and mother to <a href="/wiki/Severus_Snape" title="Severus Snape">Severus Snape</a>.<sup id="cite_ref-HP30_8-0" class="reference"><a href="#cite_note-HP30-8">&#91;8&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_life"><span class="tocnumber">1.1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Adulthood"><span class="tocnumber">1.2</span> <span class="toctext">Adulthood</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Physical_appearance"><span class="tocnumber">2</span> <span class="toctext">Physical appearance</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Etymology"><span class="tocnumber">3</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Behind_the_scenes"><span class="tocnumber">4</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Appearances"><span class="tocnumber">5</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Notes_and_references"><span class="tocnumber">6</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Eileen_Prince?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Eileen_Prince?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Eileen_Prince?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Early life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Eileen_Prince?action=edit&amp;section=2" title="Edit section: Early life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Eileen was born into the <a href="/wiki/Wizarding_world" title="Wizarding world">wizarding</a> <a href="/wiki/Prince_family" title="Prince family">Prince family</a><sup id="cite_ref-HP30_8-1" class="reference"><a href="#cite_note-HP30-8">&#91;8&#93;</a></sup> in <a href="/wiki/Great_Britain" title="Great Britain">Great Britain</a>, likely around 1930.<sup id="cite_ref-birthyear_1-1" class="reference"><a href="#cite_note-birthyear-1">&#91;1&#93;</a></sup>
+</p><p>She likely began attending <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> around 1941.<sup id="cite_ref-birthyear_1-2" class="reference"><a href="#cite_note-birthyear-1">&#91;1&#93;</a></sup> Presumably, she was <a href="/wiki/Sorting_ceremony" title="Sorting ceremony">Sorted</a> into <a href="/wiki/Slytherin" title="Slytherin">Slytherin</a>.<sup id="cite_ref-house_7-1" class="reference"><a href="#cite_note-house-7">&#91;7&#93;</a></sup> While at school, Eileen was captain of the <a href="/wiki/Hogwarts_Gobstones_Team" title="Hogwarts Gobstones Team">school Gobstones team</a> during her fifth year.<sup id="cite_ref-HP25_4-1" class="reference"><a href="#cite_note-HP25-4">&#91;4&#93;</a></sup> She was concurrently the President of the <a href="/wiki/Hogwarts_Gobstone_Club" title="Hogwarts Gobstone Club">Hogwarts Gobstone Club</a>.<sup id="cite_ref-PM_5-1" class="reference"><a href="#cite_note-PM-5">&#91;5&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Adulthood">Adulthood</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Eileen_Prince?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Adulthood">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Eileen_Prince?action=edit&amp;section=3" title="Edit section: Adulthood"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>After graduating, Eileen met the <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> <a href="/wiki/Tobias_Snape" title="Tobias Snape">Tobias Snape</a> and married him.<sup id="cite_ref-HP30_8-2" class="reference"><a href="#cite_note-HP30-8">&#91;8&#93;</a></sup> They moved into a terraced house in <a href="/wiki/Cokeworth" title="Cokeworth">Cokeworth</a> on a street called <a href="/wiki/Spinner%27s_End" title="Spinner&#39;s End">Spinner's End</a>. It was close to the mill and near a nasty-smelling, polluted river.<sup id="cite_ref-DH33_9-0" class="reference"><a href="#cite_note-DH33-9">&#91;9&#93;</a></sup>
+</p><p>On <a href="/wiki/9_January" title="9 January">9 January</a>, <a href="/wiki/1960" title="1960">1960</a>, she gave birth to a son, <a href="/wiki/Severus_Snape" title="Severus Snape">Severus Snape</a>.<sup id="cite_ref-HP30_8-3" class="reference"><a href="#cite_note-HP30-8">&#91;8&#93;</a></sup> Severus' childhood was plagued by the tumultuous, explosive atmosphere in the home, with his parents often fighting.<sup id="cite_ref-OP26_6-2" class="reference"><a href="#cite_note-OP26-6">&#91;6&#93;</a></sup> Tobias would shout at Eileen and may have been physically abusive as well.
+</p><p>The couple either neglected Severus, were too poor to care for him well, or both. His clothes were mismatched and did not fit properly. When he began his first year of school at Hogwarts, he changed into his uniform quickly after getting onto the <a href="/wiki/Hogwarts_Express" title="Hogwarts Express">Hogwarts Express</a>, apparently glad to be rid of his Muggle clothes. Despite this, Severus was already talented with magic before he received his <a href="/wiki/Hogwarts_acceptance_letter" title="Hogwarts acceptance letter">Hogwarts letter</a> in <a href="/wiki/1971" title="1971">1971</a>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p><p>On <a href="/wiki/1_September" title="1 September">1 September</a>, <a href="/wiki/1971" title="1971">1971</a>, Eileen accompanied Severus to <a href="/wiki/Platform_Nine-and-Three-Quarters" class="mw-redirect" title="Platform Nine-and-Three-Quarters">Platform Nine-and-Three-Quarters</a> at <a href="/wiki/King%27s_Cross_Station" title="King&#39;s Cross Station">King's Cross Station</a> and watched him leave on the <a href="/wiki/Hogwarts_Express" title="Hogwarts Express">Hogwarts Express</a>.<sup id="cite_ref-DH33_9-1" class="reference"><a href="#cite_note-DH33-9">&#91;9&#93;</a></sup> Whatever Eileen's thoughts on the matter were, Severus was exhilarated to leave for Hogwarts.<sup id="cite_ref-DH33_9-2" class="reference"><a href="#cite_note-DH33-9">&#91;9&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Physical_appearance">Physical appearance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Eileen_Prince?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Physical appearance">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Eileen_Prince?action=edit&amp;section=4" title="Edit section: Physical appearance"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>At age fifteen, Eileen was skinny and unattractive, looking simultaneously cross and sullen. She had heavy brows and a long, pallid face.<sup id="cite_ref-HP25_4-2" class="reference"><a href="#cite_note-HP25-4">&#91;4&#93;</a></sup> By 1971, not much had changed: Eileen was thin, hunched, sour-faced and sallow.<sup id="cite_ref-DH33_9-3" class="reference"><a href="#cite_note-DH33-9">&#91;9&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Eileen_Prince?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Eileen_Prince?action=edit&amp;section=5" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i>"Eileen"</i> is from Celtic, English and Irish roots and has a long-standing history in each culture. In Irish, it is known as a variation of "<i>Helen</i>". It became a more popular name in the 19th century. It is rumoured to have roots in Latin, American, French and Greek cultures, however, such claims are not backed up with much evidence. Another variation of this name is Eileene which is most commonly used in Ireland.
+</p><p>Other versions of <i>Eileen</i>; "<i>Aileen"</i> (Scottish), "<i>Eibhlin"</i> (the original source for the name), "<i>Eila"</i> (Celtic variant of both "<i>Eileen"</i> and "<i>Aileen"</i>), "<i>Eireen"</i> (Norwegian variant of "<i>Irene</i>" or "<i>Eileen</i>"), "<i>Eleanor</i>" (a similarly-rooted name to "<i>Eileen</i>" in Irish).
+</p><p>Eileen's maiden name was <i><a href="/wiki/Prince_family" title="Prince family">Prince</a>. <a href="http://en.wikipedia.org/wiki/Prince" class="extiw" title="wikipedia:Prince">Prince</a></i> is a general term for a monarch or a member of a monarch's family, and is a hereditary title of some European royalty, likely alluding to the aristocratic status of pure-blood families in the <a href="/wiki/Wizarding_world" title="Wizarding world">wizarding world</a>. The word is derived from the Latin <i><a href="http://en.wikipedia.org/wiki/Princeps" class="extiw" title="wikipedia:Princeps">princeps</a></i>, meaning "a prime", which was one of the titles of the Roman Emperor, in which case it was generally translated as "First Citizen". <i><a href="http://en.wikipedia.org/wiki/The_Prince" class="extiw" title="wikipedia:The Prince">The Prince</a></i> is also the title of a famous political treatise by Niccolò Machiavelli; an interesting point considering that the adjective derived from the author's surname, <i>Machiavellian</i>, is defined as "attempting to achieve goals by cunning, scheming and unscrupulous methods", which may allude to the ideal traits of <a href="/wiki/Slytherin" title="Slytherin">Slytherin</a> house.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Eileen_Prince?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Eileen_Prince?action=edit&amp;section=6" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Eileen's decision to marry Tobias may have resulted in her being disowned by her family — similar to <a href="/wiki/Andromeda_Tonks" title="Andromeda Tonks">Andromeda Tonks</a>, who was disowned by her family after she married <a href="/wiki/Ted_Tonks" class="mw-redirect" title="Ted Tonks">a Muggle-born man</a>.</li>
+<li>Despite his upbringing, Severus was already talented with magic before he received his <a href="/wiki/Hogwarts_acceptance_letter" title="Hogwarts acceptance letter">Hogwarts letter</a> in <a href="/wiki/1971" title="1971">1971</a>.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup> It is possible that Eileen taught him these spells or that he taught himself from books she owned.</li>
+<li>It is unknown what happened to Eileen after her son began Hogwarts. By <a href="/wiki/1996" title="1996">1996</a>, Severus had taken over the house at Spinner's End.<sup id="cite_ref-HP2_13-0" class="reference"><a href="#cite_note-HP2-13">&#91;13&#93;</a></sup> She might have died, or perhaps she had moved out of her marital home at some point in the twenty-four years since. At Hogwarts, her son Severus used her surname and his blood status to make his nickname of "the Half-Blood Prince".</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Eileen_Prince?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Eileen_Prince?action=edit&amp;section=7" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">Harry Potter and the Order of the Phoenix</a></i> <small>(First appearance)</small> <small>(Appears in flashback(s))</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">Harry Potter and the Half-Blood Prince</a></i> <small>(First identified as Eileen Prince)</small> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">Harry Potter and the Deathly Hallows</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Wizarding_World_(website)" title="Wizarding World (website)">Wizarding World</a></i> <small>(Mentioned only)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Eileen_Prince?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Eileen_Prince?action=edit&amp;section=8" title="Edit section: Notes and references

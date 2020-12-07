@@ -1,0 +1,86 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/4/43/Ignatius_Prewett.jpg/revision/latest?cb=20090830161314" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/4/43/Ignatius_Prewett.jpg/revision/latest/scale-to-width-down/350?cb=20090830161314" srcset="https://static.wikia.nocookie.net/harrypotter/images/4/43/Ignatius_Prewett.jpg/revision/latest/scale-to-width-down/350?cb=20090830161314 1x, https://static.wikia.nocookie.net/harrypotter/images/4/43/Ignatius_Prewett.jpg/revision/latest/scale-to-width-down/700?cb=20090830161314 2x" class="pi-image-thumbnail" alt="" width="270" height="65"
+		     data-image-key="Ignatius_Prewett.jpg" data-image-name="Ignatius Prewett.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Ignatius Prewett</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Pure-blood" title="Pure-blood">Pure-blood</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="marital">
+	
+		<h3 class="pi-data-label pi-secondary-font">Marital status</h3>
+	
+	<div class="pi-data-value pi-font">Married</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Muriel%27s_mother" title="Muriel&#039;s mother">Possible grandmother</a></li><li><a href="/wiki/Molly_Weasley%27s_father" title="Molly Weasley&#039;s father">Mr Prewett</a> (brother)</li><li><a href="/wiki/Muriel" title="Muriel">Muriel</a> (possible aunt)</li><li><a href="/wiki/Lucretia_Black" title="Lucretia Black">Lucretia Black</a> (wife) †</li><li><a href="/wiki/Molly_Weasley%27s_mother" title="Molly Weasley&#039;s mother">Mrs Prewett</a> (sister-in-law)</li><li><a href="/wiki/Molly_Weasley" title="Molly Weasley">Molly Weasley</a> (niece)</li><li><a href="/wiki/Arthur_Weasley" title="Arthur Weasley">Arthur Weasley</a> (nephew-in-law)</li><li><a href="/wiki/Gideon_Prewett" title="Gideon Prewett">Gideon Prewett</a> (nephew) †</li><li><a href="/wiki/Fabian_Prewett" title="Fabian Prewett">Fabian Prewett</a> (nephew) †</li><li><a href="/wiki/Arcturus_Black_III" title="Arcturus Black III">Arcturus Black III</a> (father-in-law) †</li><li><a href="/wiki/Melania_Macmillan" title="Melania Macmillan">Melania Macmillan</a> (mother-in-law)</li><li><a href="/wiki/Orion_Black" title="Orion Black">Orion Black</a> (brother-in-law) †</li><li><a href="/wiki/Sirius_Black" title="Sirius Black">Sirius Black</a> (nephew) †</li><li><a href="/wiki/Regulus_Black" title="Regulus Black">Regulus Black</a> (nephew) †</li><li><a href="/wiki/Weasley_family" title="Weasley family">Weasley children</a> (grandnephews and grandniece)</li><li><a href="/wiki/Weasley_family" title="Weasley family">twelve great-grandnieces and grandnephews</a></li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Prewett_family" title="Prewett family">Prewett family</a></li><li><a href="/wiki/Weasley_family" title="Weasley family">Weasley family</a></li><li><a href="/wiki/House_of_Black" title="House of Black">House of Black</a></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Ignatius Prewett</b> was a <a href="/wiki/Pure-blood" title="Pure-blood">pure-blood</a> <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> who married <a href="/wiki/Lucretia_Black" title="Lucretia Black">Lucretia Black</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> He was an uncle by blood of <a href="/wiki/Fabian_Prewett" title="Fabian Prewett">Fabian</a> and <a href="/wiki/Gideon_Prewett" title="Gideon Prewett">Gideon Prewett</a>, as well as their sister <a href="/wiki/Molly_Weasley" title="Molly Weasley">Molly</a>,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> and an uncle by <a href="/wiki/Marriage" title="Marriage">marriage</a> of <a href="/wiki/Sirius_Black" title="Sirius Black">Sirius</a> and <a href="/wiki/Regulus_Black" title="Regulus Black">Regulus Black</a>. Ignatius and his wife Lucretia did not have any children of their own.&#160;
+</p><p>Given that Molly gave her third son <a href="/wiki/Percy_Weasley" title="Percy Weasley">Percy</a> the middle name "Ignatius", presumably in honour of her uncle, it is likely that she and Ignatius were close.
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Ignatius_Prewett?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Ignatius_Prewett?action=edit&amp;section=1" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i>Ignatius</i> is a Roman name altered from its original Etruscan to resemble the Latin <i>ignis</i>, "<a href="/wiki/Fire" title="Fire">fire</a>". It was the name of several saints, including the founder of the Jesuits.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup></li>
+<li>Given that <a href="/wiki/Lucretia_Black" title="Lucretia Black">Lucretia Black</a> from the <a href="/wiki/House_of_Black" title="House of Black">Black Family</a> was not disowned and burnt off the Black Family Tree, implies that her marriage to&#160;Ignatius Prewett was a "respectable" pureblood marriage.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Ignatius_Prewett?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Ignatius_Prewett?action=edit&amp;section=2" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(film)" title="Harry Potter and the Order of the Phoenix (film)">Harry Potter and the Order of the Phoenix (film)</a></i> <span class="template-c">(Appears on Black family tapestry)</span></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Ignatius_Prewett?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Ignatius_Prewett?action=edit&amp;section=3" title="Edit section: Notes and references

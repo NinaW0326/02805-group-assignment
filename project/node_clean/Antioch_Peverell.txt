@@ -1,0 +1,180 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/4/4d/Antioch_sketch.jpg/revision/latest?cb=20110119192655" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/4/4d/Antioch_sketch.jpg/revision/latest/scale-to-width-down/313?cb=20110119192655" srcset="https://static.wikia.nocookie.net/harrypotter/images/4/4d/Antioch_sketch.jpg/revision/latest/scale-to-width-down/313?cb=20110119192655 1x, https://static.wikia.nocookie.net/harrypotter/images/4/4d/Antioch_sketch.jpg/revision/latest/scale-to-width-down/626?cb=20110119192655 2x" class="pi-image-thumbnail" alt="" width="270" height="431"
+		     data-image-key="Antioch_sketch.jpg" data-image-name="Antioch sketch.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Antioch Peverell</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">Prior to <a href="/wiki/12_July" title="12 July">12 July</a>, <a href="/wiki/1214" class="mw-redirect" title="1214">1214</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font">Prior to <a href="/wiki/19_May" title="19 May">19 May</a>, <a href="/wiki/1292" class="mw-redirect" title="1292">1292</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup><br/><a href="/wiki/Antioch_Peverell%27s_lodging_place" title="Antioch Peverell&#039;s lodging place">Wizarding inn</a>, <a href="/wiki/England" title="England">England</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Pure-blood" title="Pure-blood">Pure-blood</a><sup id="cite_ref-blood_3-0" class="reference"><a href="#cite_note-blood-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="marital">
+	
+		<h3 class="pi-data-label pi-secondary-font">Marital status</h3>
+	
+	<div class="pi-data-value pi-font">Single</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Dark</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Cadmus_Peverell" title="Cadmus Peverell">Cadmus Peverell</a> (brother) †</li><li><a href="/wiki/Ignotus_Peverell" title="Ignotus Peverell">Ignotus Peverell</a> (brother) †</li><li><a href="/wiki/Ignotus_Peverell%27s_son" title="Ignotus Peverell&#039;s son">Ignotus's son</a> (nephew) †</li><li><a href="/wiki/Peverell_family" title="Peverell family">Peverell family</a></li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Magical characteristics</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="wand">
+	
+		<h3 class="pi-data-label pi-secondary-font">Wand</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Antioch_Peverell%27s_first_wand" title="Antioch Peverell&#039;s first wand">Unknown length, wood, and core</a> <span class="template-c">(formerly)</span></li><li><a href="/wiki/Elder_Wand" title="Elder Wand">Elder, Thestral tail hair core</a></li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Peverell_family" title="Peverell family">Peverell family</a></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;The Tales of Beedle the Bard">"<i>So the oldest brother, who was a combative man, asked for a wand more powerful than any in existence: a wand that must always win duels for its owner, a wand worthy of a wizard who had conquered Death!</i>"</span></dd>
+<dd>&#8212;<i><a href="/wiki/The_Tale_of_the_Three_Brothers" title="The Tale of the Three Brothers">The Tale of the Three Brothers</a></i> by <a href="/wiki/Beedle_the_Bard" title="Beedle the Bard">Beedle the Bard</a><sup class="noprint"><a href="/wiki/The_Tales_of_Beedle_the_Bard" title="The Tales of Beedle the Bard">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Antioch Peverell</b> (fl. <a href="/wiki/1214" class="mw-redirect" title="1214">1214</a>) was a <a href="/wiki/Pure-blood" title="Pure-blood">pure-blood</a><sup id="cite_ref-blood_3-1" class="reference"><a href="#cite_note-blood-3">&#91;3&#93;</a></sup> <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a>, the eldest of the <a href="/wiki/Peverell_family" title="Peverell family">Peverell brothers</a>. Antioch, like his brothers, was skilled in the <a href="/wiki/Magic" title="Magic">magical</a> arts, but personally was described as being a "combative man". Antioch and his brothers were the inspiration for the <i><a href="/wiki/The_Tale_of_the_Three_Brothers" title="The Tale of the Three Brothers">The Tale of the Three Brothers</a></i> and thus the original masters of the <a href="/wiki/Deathly_Hallows" title="Deathly Hallows">Deathly Hallows</a>. Antioch was said to have possessed the <a href="/wiki/Elder_Wand" title="Elder Wand">Elder Wand</a>, though beyond Dumbledore's theory that he had crafted it himself and the story saying he had been murdered in his sleep for it, the exact circumstances of this are unknown.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Meeting_Death"><span class="tocnumber">1.1</span> <span class="toctext">Meeting Death</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Ownership_of_the_Elder_Wand_and_Death"><span class="tocnumber">1.2</span> <span class="toctext">Ownership of the Elder Wand and Death</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Post-mortem"><span class="tocnumber">1.3</span> <span class="toctext">Post-mortem</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Personality_and_traits"><span class="tocnumber">2</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Magical_abilities_and_skills"><span class="tocnumber">3</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Etymology"><span class="tocnumber">4</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Behind_the_scenes"><span class="tocnumber">5</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Appearances"><span class="tocnumber">6</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Notes_and_references"><span class="tocnumber">7</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Antioch_Peverell?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Antioch_Peverell?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Meeting_Death">Meeting Death</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Antioch_Peverell?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Meeting Death">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Antioch_Peverell?action=edit&amp;section=2" title="Edit section: Meeting Death"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="thumb tleft show-info-icon" style="width: 247px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/a/a4/The_Tale_of_the_Three_Brothers_-_Death_produces_a_wand.gif/revision/latest?cb=20140311030944" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/a/a4/The_Tale_of_the_Three_Brothers_-_Death_produces_a_wand.gif/revision/latest/scale-to-width-down/245?cb=20140311030944" decoding="async" width="245" height="111" class="thumbimage" data-image-name="The Tale of the Three Brothers - Death produces a wand.gif" data-image-key="The_Tale_of_the_Three_Brothers_-_Death_produces_a_wand.gif" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:The_Tale_of_the_Three_Brothers_-_Death_produces_a_wand.gif" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Death creates the <a href="/wiki/Elder_Wand" title="Elder Wand">Elder Wand</a> for Antioch</p> 		 	</figcaption> </figure>
+<p>In the <i><a href="/wiki/The_Tale_of_the_Three_Brothers" title="The Tale of the Three Brothers">The Tale of the Three Brothers</a></i>, the Peverell brothers are described as having received the Hallows from <a href="/wiki/Death_(The_Tale_of_the_Three_Brothers)" title="Death (The Tale of the Three Brothers)">Death</a> himself, after using their magical talents to cross a treacherous river that would have assuredly killed them otherwise, and Antioch, for his prize, asked for "a wand more powerful than any other in existence: a wand that must always win duels for its owner, a wand worthy of a wizard who had conquered <a href="/wiki/Death" title="Death">Death</a>!" and so <a href="/wiki/Death_(The_Tale_of_the_Three_Brothers)" title="Death (The Tale of the Three Brothers)">Death</a> crossed to an elder tree on the banks of the river, made a wand from a branch, and gave it to Antioch.<sup id="cite_ref-DH21_5-0" class="reference"><a href="#cite_note-DH21-5">&#91;5&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Ownership_of_the_Elder_Wand_and_Death">Ownership of the Elder Wand and Death</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Antioch_Peverell?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Ownership of the Elder Wand and Death">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Antioch_Peverell?action=edit&amp;section=3" title="Edit section: Ownership of the Elder Wand and Death"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="thumb tright show-info-icon" style="width: 247px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/d/d6/Antioch_Peverell%27s_Death.gif/revision/latest?cb=20140311031124" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="245" height="111" class="thumbimage lazyload" data-image-name="Antioch Peverell&#39;s Death.gif" data-image-key="Antioch_Peverell&#39;s_Death.gif" data-src="https://static.wikia.nocookie.net/harrypotter/images/d/d6/Antioch_Peverell%27s_Death.gif/revision/latest/scale-to-width-down/245?cb=20140311031124" /></a> 	<noscript><a href="https://static.wikia.nocookie.net/harrypotter/images/d/d6/Antioch_Peverell%27s_Death.gif/revision/latest?cb=20140311031124" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/d/d6/Antioch_Peverell%27s_Death.gif/revision/latest/scale-to-width-down/245?cb=20140311031124" decoding="async" width="245" height="111" class="thumbimage" data-image-name="Antioch Peverell&#39;s Death.gif" data-image-key="Antioch_Peverell&#39;s_Death.gif" data-src="https://static.wikia.nocookie.net/harrypotter/images/d/d6/Antioch_Peverell%27s_Death.gif/revision/latest/scale-to-width-down/245?cb=20140311031124" /></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Antioch_Peverell%27s_Death.gif" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Antioch's last moments</p> 		 	</figcaption> </figure> 
+<p>Later, the three brothers separated. Antioch travelled towards a distant village, and met a <a href="/wiki/Antioch_Peverell%27s_enemy" title="Antioch Peverell&#39;s enemy">wizard</a> with whom he had a quarrel. With the <a href="/wiki/Elder_Wand" title="Elder Wand">Elder Wand</a> as his weapon, Antioch easily won the <a href="/wiki/Duelling" title="Duelling">duel</a> that followed and killed his opponent. Leaving his enemy dead, Antioch lodged in an inn to celebrate, where he drunkenly boasted loudly of the powerful <a href="/wiki/Wand" title="Wand">wand</a> he had snatched "<i>from <a href="/wiki/Death" title="Death">Death</a> himself</i>", and of how it made him invincible. That night, as he slept, <a href="/wiki/Antioch_Peverell%27s_killer" title="Antioch Peverell&#39;s killer">another wizard</a> crept upon him, stole the wand, and slit his throat to make sure Antioch was unable to come after the thief afterwards.<sup id="cite_ref-DH21_5-1" class="reference"><a href="#cite_note-DH21-5">&#91;5&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Post-mortem">Post-mortem</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Antioch_Peverell?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Post-mortem">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Antioch_Peverell?action=edit&amp;section=4" title="Edit section: Post-mortem"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Following his death, Antioch was laid to rest in the churchyard by the <a href="/wiki/St_Jerome%27s_Church" title="St Jerome&#39;s Church">Parish Church of St. Clementine</a>, in <a href="/wiki/Godric%27s_Hollow" title="Godric&#39;s Hollow">Godric's Hollow</a>, along with his brothers <a href="/wiki/Cadmus_Peverell" title="Cadmus Peverell">Cadmus</a> and <a href="/wiki/Ignotus_Peverell" title="Ignotus Peverell">Ignotus</a>.<sup id="cite_ref-Pottermore_6-0" class="reference"><a href="#cite_note-Pottermore-6">&#91;6&#93;</a></sup>
+</p><p>Antioch was a distant relative of both <a href="/wiki/Tom_Riddle" title="Tom Riddle">Tom Marvolo Riddle</a> and <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a>, as each was descended from one of his brothers, <a href="/wiki/Cadmus_Peverell" title="Cadmus Peverell">Cadmus Peverell</a> and <a href="/wiki/Ignotus_Peverell" title="Ignotus Peverell">Ignotus Peverell</a> respectively.<sup id="cite_ref-DH22_7-0" class="reference"><a href="#cite_note-DH22-7">&#91;7&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Antioch_Peverell?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Personality and traits">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Antioch_Peverell?action=edit&amp;section=5" title="Edit section: Personality and traits"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tleft show-info-icon" style="width: 252px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/7/74/Antioch_bar.jpg/revision/latest?cb=20110118143802" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="250" height="106" class="thumbimage lazyload" data-image-name="Antioch bar.jpg" data-image-key="Antioch_bar.jpg" data-src="https://static.wikia.nocookie.net/harrypotter/images/7/74/Antioch_bar.jpg/revision/latest/scale-to-width-down/250?cb=20110118143802" /></a> 	<noscript><a href="https://static.wikia.nocookie.net/harrypotter/images/7/74/Antioch_bar.jpg/revision/latest?cb=20110118143802" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/7/74/Antioch_bar.jpg/revision/latest/scale-to-width-down/250?cb=20110118143802" decoding="async" width="250" height="106" class="thumbimage" data-image-name="Antioch bar.jpg" data-image-key="Antioch_bar.jpg" data-src="https://static.wikia.nocookie.net/harrypotter/images/7/74/Antioch_bar.jpg/revision/latest/scale-to-width-down/250?cb=20110118143802" /></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Antioch_bar.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Antioch brags of his ownership of the Elder Wand</p> 		 	</figcaption> </figure>
+<p>According to <i>The Tale of the Three Brothers</i>, Antioch was a man who desired beyond everything to be an all powerful wizard. Although he was already very powerful, he was not satisfied and immediately took his chance to gain <a href="/wiki/Elder_Wand" title="Elder Wand">a wand</a> from <a href="/wiki/Death_(The_Tale_of_the_Three_Brothers)" title="Death (The Tale of the Three Brothers)">Death</a> that would make him unbeatable. 
+</p><p>Antioch's desire for such power made him blind to Death's true intentions, however, and he later proved to be very self-indulgent and weak-willed when he boasted about how powerful his new wand was to the public. Antioch was very irresponsible and unwise in this manner, consuming a dangerous amount of <a href="/wiki/Alcohol" title="Alcohol">alcohol</a> then leaving his wand and himself unprotected on the night of his murder. Antioch's recklessness and egotism caused him to be the first of the <a href="/wiki/Peverell_brothers" title="Peverell brothers">Peverell brothers</a> to fall into Death's cunning hands.
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Antioch_Peverell?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Antioch_Peverell?action=edit&amp;section=6" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Transfiguration" title="Transfiguration">Transfiguration</a></b>: Antioch and his brothers were capable of using <a href="/wiki/Conjuration" title="Conjuration">Conjuration</a>, a highly advanced form of magic to create a bridge stable enough to walk across (in the tale).</li>
+<li><b><a href="/wiki/Duelling" title="Duelling">Duelling</a></b>: Antioch was very skilled in <a href="/wiki/Martial_magic" title="Martial magic">martial magic</a> and was capable of killing an <a href="/wiki/Antioch_Peverell%27s_enemy" title="Antioch Peverell&#39;s enemy">opponent</a> in a duel and coming out of the battle unscathed, though this was mostly due to his wielding of the Elder Wand (according to the tale).</li>
+<li><b>Mastery of the <a href="/wiki/Elder_Wand" title="Elder Wand">Elder Wand</a></b>: Antioch was the first wizard to own and tame the Elder Wand, the most powerful wand ever made. However, at least in Beedle's tale, he was portrayed as a person unworthy of possessing such a wand. <a href="/wiki/Albus_Dumbledore" title="Albus Dumbledore">Albus Dumbledore</a> and <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> were qualified to own the Elder Wand because they would never use it for seeking power or murder. Antioch had done both (according to the tale).</li>
+<li><b><a href="/wiki/Wandmaker" title="Wandmaker">Wandmaking</a></b> (possibly): No one knows for certain how Antioch came to posses the Elder Wand. Although <i><a href="/wiki/The_Tales_of_Beedle_the_Bard" title="The Tales of Beedle the Bard">The Tales of Beedle the Bard </a></i> claim that the wand was given to Antioch by <a href="/wiki/Death_(The_Tale_of_the_Three_Brothers)" title="Death (The Tale of the Three Brothers)">Death</a>, however others, such as <a href="/wiki/Albus_Dumbledore" title="Albus Dumbledore">Albus Dumbledore</a>, theorised that Antioch created the wand himself.</li></ul>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Antioch_Peverell?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Antioch_Peverell?action=edit&amp;section=7" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>His name may be a reference to the city of <a href="http://en.wikipedia.org/wiki/Antioch" class="extiw" title="wikipedia:Antioch">Antioch</a>, a chief centre of early Christianity.</li>
+<li>"Antiochos" was, among other things, the name of several kings of the Hellenic Seleucid Empire.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup></li>
+<li>The name "Antiochus" may refer to a number of figures in Greek mythology.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Antioch_Peverell?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Antioch_Peverell?action=edit&amp;section=8" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tleft show-info-icon" style="width: 227px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/1/1e/Antioch_concept.jpg/revision/latest?cb=20110118200434" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="225" height="160" class="thumbimage lazyload" data-image-name="Antioch concept.jpg" data-image-key="Antioch_concept.jpg" data-src="https://static.wikia.nocookie.net/harrypotter/images/1/1e/Antioch_concept.jpg/revision/latest/scale-to-width-down/225?cb=20110118200434" /></a> 	<noscript><a href="https://static.wikia.nocookie.net/harrypotter/images/1/1e/Antioch_concept.jpg/revision/latest?cb=20110118200434" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/1/1e/Antioch_concept.jpg/revision/latest/scale-to-width-down/225?cb=20110118200434" decoding="async" width="225" height="160" class="thumbimage" data-image-name="Antioch concept.jpg" data-image-key="Antioch_concept.jpg" data-src="https://static.wikia.nocookie.net/harrypotter/images/1/1e/Antioch_concept.jpg/revision/latest/scale-to-width-down/225?cb=20110118200434" /></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Antioch_concept.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Concept art of Antioch</p> 		 	</figcaption> </figure>
+<ul><li><a href="/wiki/Albus_Dumbledore" title="Albus Dumbledore">Albus Dumbledore</a> believed it was more likely that the <a href="/wiki/Deathly_Hallows" title="Deathly Hallows">Deathly Hallows</a> were invented by the <a href="/wiki/Peverell_brothers" title="Peverell brothers">Peverell brothers</a> themselves, which would make Antioch the creator of the <a href="/wiki/Elder_Wand" title="Elder Wand">Elder Wand</a>. Whether the account of his death from <i><a href="/wiki/The_Tales_of_Beedle_the_Bard" title="The Tales of Beedle the Bard">The Tales of Beedle the Bard </a></i> is accurate is unknown. Given that there are no mean for Beedle to know of what really happened, it is assumed that it was simply fictionalised by Beedle.</li>
+<li>In the novel and film his killer slits his throat, but in the console versions of the video game, the thief kills him with the <a href="/wiki/Killing_Curse" title="Killing Curse">Killing Curse</a>. In <i><a href="/wiki/LEGO_Harry_Potter:_Years_5-7" title="LEGO Harry Potter: Years 5-7">LEGO Harry Potter: Years 5-7</a></i> however, he was snatched by <a href="/wiki/Death" title="Death">Death</a> along with his brothers.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Antioch_Peverell?veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Antioch_Peverell?action=edit&amp;section=9" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" class="lazyload" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 18 images related to <i><b><a href="/wiki/Category:Images_of_Antioch_Peverell" title="Category:Images of Antioch Peverell">Antioch Peverell</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">Harry Potter and the Deathly Hallows</a></i> <small>(First mentioned)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1" title="Harry Potter and the Deathly Hallows: Part 1">Harry Potter and the Deathly Hallows: Part 1</a></i> <small>(First appearance)</small> <small>(Appears in flashback(s))</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1_(video_game)" title="Harry Potter and the Deathly Hallows: Part 1 (video game)">Harry Potter and the Deathly Hallows: Part 1 (video game)</a></i> <small>(Appears in flashback(s))</small></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter:_Years_5-7" title="LEGO Harry Potter: Years 5-7">LEGO Harry Potter: Years 5-7</a></i></li>
+<li><i><a href="/wiki/The_Tales_of_Beedle_the_Bard_(real)" title="The Tales of Beedle the Bard (real)">The Tales of Beedle the Bard (real)</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Antioch_Peverell?veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Antioch_Peverell?action=edit&amp;section=10" title="Edit section: Notes and references

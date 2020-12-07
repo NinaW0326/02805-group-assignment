@@ -1,0 +1,133 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-centaur pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/8/86/08.jpg/revision/latest?cb=20100712171001" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/8/86/08.jpg/revision/latest/scale-to-width-down/203?cb=20100712171001" srcset="https://static.wikia.nocookie.net/harrypotter/images/8/86/08.jpg/revision/latest/scale-to-width-down/203?cb=20100712171001 1x, https://static.wikia.nocookie.net/harrypotter/images/8/86/08.jpg/revision/latest/scale-to-width-down/406?cb=20100712171001 2x" class="pi-image-thumbnail" alt="" width="203" height="270"
+		     data-image-key="08.jpg" data-image-name="08.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Bane</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Centaur" title="Centaur">Centaur</a><sup id="cite_ref-PS15_1-0" class="reference"><a href="#cite_note-PS15-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male<sup id="cite_ref-PS15_1-1" class="reference"><a href="#cite_note-PS15-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Black<sup id="cite_ref-desc_2-0" class="reference"><a href="#cite_note-desc-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Forbidden_Forest_Centaur_colony" title="Forbidden Forest Centaur colony">Forbidden Forest Centaur colony</a><sup id="cite_ref-PS15_1-2" class="reference"><a href="#cite_note-PS15-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a><sup id="cite_ref-DH36_3-0" class="reference"><a href="#cite_note-DH36-3">&#91;3&#93;</a></sup></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Philosopher&#39;s Stone">"<i>Firenze! What are you doing? You have a human on your back! Have you no shame? Are you a common mule?</i>"</span></dd>
+<dd>&#8212;Bane's hostility towards <a href="/wiki/Human" title="Human">humans</a><sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone" title="Harry Potter and the Philosopher&#39;s Stone">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Bane</b> was a <a href="/wiki/Centaur" title="Centaur">centaur</a> living as part of the <a href="/wiki/Forbidden_Forest_Centaur_colony" title="Forbidden Forest Centaur colony">Forbidden Forest Centaur colony</a>.<sup id="cite_ref-PS15_1-3" class="reference"><a href="#cite_note-PS15-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#1992"><span class="tocnumber">1.1</span> <span class="toctext">1992</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#1995-1996_School_Year"><span class="tocnumber">1.2</span> <span class="toctext">1995-1996 School Year</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Battle_of_Hogwarts"><span class="tocnumber">1.3</span> <span class="toctext">Battle of Hogwarts</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Physical_description"><span class="tocnumber">2</span> <span class="toctext">Physical description</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Magical_abilities_and_skills"><span class="tocnumber">3</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Etymology"><span class="tocnumber">4</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Behind_the_scenes"><span class="tocnumber">5</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Appearances"><span class="tocnumber">6</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Notes_and_references"><span class="tocnumber">7</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Bane?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Bane?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="1992">1992</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Bane?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: 1992">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Bane?action=edit&amp;section=2" title="Edit section: 1992"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Philosopher&#39;s Stone">"<i>For the best! What is that to do with us? Centaurs are concerned with what has been foretold! It is not our business to run around like donkeys after stray humans in our forest!</i>"</span></dd>
+<dd>&#8212;Bane's anger at Firenze for helping Harry Potter<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone" title="Harry Potter and the Philosopher&#39;s Stone">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p>Late in May of <a href="/wiki/1992" title="1992">1992</a>, Bane and <a href="/wiki/Firenze" title="Firenze">Firenze</a> foretold <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a>'s future by reading the stars; “Remember, Firenze, we are sworn not to set ourselves against the heavens. Have you not read what is to come in the movement of the planets?”. He also chastised <a href="/wiki/Firenze" title="Firenze">Firenze</a>, questioning if he was a common mule as he carried Harry Potter on his back.<sup id="cite_ref-PS15_1-4" class="reference"><a href="#cite_note-PS15-1">&#91;1&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="1995-1996_School_Year">1995-1996 School Year</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Bane?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: 1995-1996 School Year">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Bane?action=edit&amp;section=3" title="Edit section: 1995-1996 School Year"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Order of the Phoenix"><b>Dolores Umbridge</b>: "<i>By the laws laid down by the <a href="/wiki/Department_for_the_Regulation_and_Control_of_Magical_Creatures" title="Department for the Regulation and Control of Magical Creatures">Department for the Regulation and Control of Magical Creatures</a>, any attack by half-breeds such as yourselves on a human —</i>"</span></dd>
+<dd><b>Bane</b>: "<i>What did you call us?</i>"</dd>
+<dd>&#8212; Bane to <a href="/wiki/Dolores_Umbridge" title="Dolores Umbridge">Dolores Umbridge</a><sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">[src]</a></sup></dd></dl>
+</div>
+<p class="mw-empty-elt"></p><figure class="thumb tleft show-info-icon" style="width: 202px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/3/3c/Centaurs_Take_Dolores_OotP.png/revision/latest?cb=20170106070600" class="image"><img alt="Centaurs Take Dolores OotP.png" src="https://static.wikia.nocookie.net/harrypotter/images/3/3c/Centaurs_Take_Dolores_OotP.png/revision/latest/scale-to-width-down/200?cb=20170106070600" decoding="async" width="200" height="83" class="thumbimage" data-image-name="Centaurs Take Dolores OotP.png" data-image-key="Centaurs_Take_Dolores_OotP.png" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Centaurs_Take_Dolores_OotP.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 	</figcaption> </figure><p>
+Bane was included in the centaur mobs that forced Harry, <a href="/wiki/Hermione_Granger" title="Hermione Granger">Hermione Granger</a> and <a href="/wiki/Rubeus_Hagrid" title="Rubeus Hagrid">Rubeus Hagrid</a> out of the <a href="/wiki/Forbidden_Forest" title="Forbidden Forest">Forbidden Forest</a> after they visited <a href="/wiki/Grawp" title="Grawp">Grawp</a>.<sup id="cite_ref-OOTP30_4-0" class="reference"><a href="#cite_note-OOTP30-4">&#91;4&#93;</a></sup> he was also present when the <a href="/wiki/Skirmish_in_the_Forbidden_Forest" title="Skirmish in the Forbidden Forest">centaurs attacked Dolores Umbridge</a>, after <a href="/wiki/Dolores_Umbridge" title="Dolores Umbridge">Umbridge</a> called them "filthy <a href="/wiki/Half-breed" title="Half-breed">half-breeds</a>". He shouted at Umbridge's insults at them and shot an arrow above her head as a mocking threat, then lifted her from behind and helped drag her off into the midst of the forest.<sup id="cite_ref-OOTP33_5-0" class="reference"><a href="#cite_note-OOTP33-5">&#91;5&#93;</a></sup>
+</p><p class="mw-empty-elt"></p>
+<h3><span class="mw-headline" id="Battle_of_Hogwarts">Battle of Hogwarts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Bane?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Battle of Hogwarts">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Bane?action=edit&amp;section=4" title="Edit section: Battle of Hogwarts"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Deathly Hallows">"<i>The centaurs Bane, Ronan and Magorian burst into the Hall with a great clatter of hooves, as behind Harry the door that led to the kitchens was blasted off its hinges.</i>"</span></dd>
+<dd>&#8212;Bane and the other Centaurs finally joining the battle in the <a href="/wiki/Great_Hall" title="Great Hall">Great Hall</a><sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<figure class="thumb tright show-info-icon" style="width: 156px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/3/3d/Bane2.jpg/revision/latest?cb=20121209174141" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/3/3d/Bane2.jpg/revision/latest/scale-to-width-down/154?cb=20121209174141" decoding="async" width="154" height="227" class="thumbimage" data-image-name="Bane2.jpg" data-image-key="Bane2.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Bane2.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Bane</p> 		 	</figcaption> </figure>
+<p>During the <a href="/wiki/Battle_of_Hogwarts" title="Battle of Hogwarts">Battle of Hogwarts</a>, Bane and the other centaurs did not join the battle. When it looked like Harry had sacrificed himself, Hagrid called him a coward. This shamed him and the other centaurs so much that they decided to join the battle, breaking through the Death Eater ranks into the Hall.<sup id="cite_ref-DH36_3-1" class="reference"><a href="#cite_note-DH36-3">&#91;3&#93;</a></sup>
+</p><p>In <a href="/wiki/2020" title="2020">2020</a>, Bane spoke with Harry Potter in the Forbidden Forest while Harry and others are searching for his lost son <a href="/wiki/Albus_Potter" title="Albus Potter">Albus</a>. According to Bane, after the Battle of Hogwarts, the land they were currently trespassing on was deemed centaur land. Bane warned Harry that he has seen a black cloud over his son, foreboding a threat that could endanger them all.<sup id="cite_ref-CC_6-0" class="reference"><a href="#cite_note-CC-6">&#91;6&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Physical_description">Physical description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Bane?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Physical description">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Bane?action=edit&amp;section=5" title="Edit section: Physical description"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Bane was physically described as being <i>black haired and black bodied</i> and <i>wild looking</i>, with a black beard.<sup id="cite_ref-desc_2-1" class="reference"><a href="#cite_note-desc-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Bane?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Bane?action=edit&amp;section=6" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Philosopher&#39;s Stone">"<i>Remember, Firenze, we are sworn not to set ourselves against the heavens. Have we not read what is to come in the movements of the planets?</i>"</span></dd>
+<dd>&#8212;Bane's attitude towards Divination<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone" title="Harry Potter and the Philosopher&#39;s Stone">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<ul><li><b><a href="/wiki/Divination" title="Divination">Divination</a></b>: Like many centaurs, Bane possessed the ability to read the stars, planets, and other celestial bodies in order to predict the future.<sup id="cite_ref-PS15_1-5" class="reference"><a href="#cite_note-PS15-1">&#91;1&#93;</a></sup></li>
+<li><b>Archery</b>: Bane was seen to be very skilled at aiming his arrow at Dolores Umbridge so that it simply "grazed her mousy brown hair" to frighten her after she claimed that the Forest belonged to the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">Ministry of Magic</a>.<sup id="cite_ref-OOTP33_5-1" class="reference"><a href="#cite_note-OOTP33-5">&#91;5&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Bane?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Bane?action=edit&amp;section=7" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>A "bane" is something that (1) is a constant source of unhappiness or worry; (2) can cause injury or death or (3) a poison. The word comes from the old English bana.</li></ul>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Bane?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Bane?action=edit&amp;section=8" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>The centaur Bane is voiced and portrayed by the British actor <a href="/wiki/Jason_Piper" title="Jason Piper">Jason Piper</a> in the <a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(film)" title="Harry Potter and the Order of the Phoenix (film)">film adaptation</a> of <i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">Harry Potter and the Order of the Phoenix</a></i>.</li>
+<li>In the <a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(film)" title="Harry Potter and the Order of the Phoenix (film)">film adaptation</a> of <i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">Harry Potter and the Order of the Phoenix</a></i>, Bane was never addressed by name, but there was only one of the Centaurs who had a black coat.</li>
+<li>In the book, Bane solely carried Umbridge off into the forest during the <a href="/wiki/Skirmish_in_the_Forbidden_Forest" title="Skirmish in the Forbidden Forest">Skirmish in the Forbidden Forest</a>, but in the film she was carried off by two Centaurs, neither of which seemed to be Bane.</li>
+<li>The book <i><a href="/wiki/Harry_Potter:_The_Creature_Vault" title="Harry Potter: The Creature Vault">Harry Potter: The Creature Vault</a></i> incorrectly claims that Bane was the one who told Harry Potter about the properties of unicorn blood, although it was Firenze in both the book and film.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Bane?veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Bane?action=edit&amp;section=9" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone" title="Harry Potter and the Philosopher&#39;s Stone">Harry Potter and the Philosopher's Stone</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">Harry Potter and the Order of the Phoenix</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(film)" title="Harry Potter and the Order of the Phoenix (film)">Harry Potter and the Order of the Phoenix (film)</a></i> <span class="template-c">(Not by name)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">Harry Potter and the Deathly Hallows</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Cursed_Child" title="Harry Potter and the Cursed Child">Harry Potter and the Cursed Child</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Cursed_Child_(play)" title="Harry Potter and the Cursed Child (play)">Harry Potter and the Cursed Child (play)</a></i></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter:_Years_5-7" title="LEGO Harry Potter: Years 5-7">LEGO Harry Potter: Years 5-7</a></i> <span class="template-c">(Appears as a generic <a href="/wiki/Centaur" title="Centaur">Centaur</a>)</span></li>
+<li><i><a href="/wiki/Harry_Potter:_The_Creature_Vault" title="Harry Potter: The Creature Vault">Harry Potter: The Creature Vault</a></i> <span class="template-c">(Appears in concept artwork)</span></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Bane?veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Bane?action=edit&amp;section=10" title="Edit section: Notes and references

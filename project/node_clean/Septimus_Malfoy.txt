@@ -1,0 +1,107 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-mom pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/7/7f/SeptimusMalfoy.png/revision/latest?cb=20170730195441" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/7/7f/SeptimusMalfoy.png/revision/latest/scale-to-width-down/350?cb=20170730195441" srcset="https://static.wikia.nocookie.net/harrypotter/images/7/7f/SeptimusMalfoy.png/revision/latest/scale-to-width-down/350?cb=20170730195441 1x, https://static.wikia.nocookie.net/harrypotter/images/7/7f/SeptimusMalfoy.png/revision/latest/scale-to-width-down/699?cb=20170730195441 2x" class="pi-image-thumbnail" alt="" width="270" height="219"
+		     data-image-key="SeptimusMalfoy.png" data-image-name="SeptimusMalfoy.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Septimus Malfoy</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">before or between 1772 and 1781<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Pure-blood" title="Pure-blood">Pure-blood</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Armand_Malfoy" title="Armand Malfoy">Armand Malfoy</a> (ancestor) †</li><li><a href="/wiki/Nicholas_Malfoy" title="Nicholas Malfoy">Nicholas Malfoy</a> (ancestor) †</li><li><a href="/wiki/Lucius_Malfoy_I" title="Lucius Malfoy I">Lucius Malfoy I</a> (ancestor) †</li><li><a href="/wiki/Brutus_Malfoy" title="Brutus Malfoy">Brutus Malfoy</a> (ancestor) †</li><li><a href="/wiki/Abraxas_Malfoy" title="Abraxas Malfoy">Abraxas Malfoy</a> (descendant) †</li><li><a href="/wiki/Lucius_Malfoy" title="Lucius Malfoy">Lucius Malfoy</a> (descendant)</li><li><a href="/wiki/Draco_Malfoy" title="Draco Malfoy">Draco Malfoy</a> (descendant)</li><li><a href="/wiki/Scorpius_Malfoy" title="Scorpius Malfoy">Scorpius Malfoy</a> (descendant)</li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Advisor_to_the_Minister_for_Magic" title="Advisor to the Minister for Magic">Advisor to the Minister</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Malfoy_family" title="Malfoy family">Malfoy family</a></li><li><a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">Ministry of Magic</a></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Septimus Malfoy</b> was a <a href="/wiki/Pure-blood" title="Pure-blood">pure-blood</a> <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> who lived during the late <a href="/wiki/18th_century" title="18th century">18th century</a>. He was influential in the <a href="/wiki/Ministry_of_Magic" title="Ministry of Magic">Ministry of Magic</a>, and many claimed that when he served as an <a href="/wiki/Advisor_to_the_Minister_for_Magic" title="Advisor to the Minister for Magic">advisor</a> the <a href="/wiki/Minister_for_Magic" title="Minister for Magic">Minister for Magic</a> <a href="/wiki/Unctuous_Osbert" title="Unctuous Osbert">Unctuous Osbert</a> was little more than his puppet.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Etymology"><span class="tocnumber">1</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Behind_the_scenes"><span class="tocnumber">2</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Appearances"><span class="tocnumber">3</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Notes_and_references"><span class="tocnumber">4</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Septimus_Malfoy?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Septimus_Malfoy?action=edit&amp;section=1" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Septimus is a <a href="/wiki/Latin" title="Latin">Latin</a>&#160;word for "seventh." This naming may be an attempt to draw reference to the powerful <a href="/wiki/Magic" title="Magic">magical</a> properties of the number <a href="/wiki/Seven" title="Seven">seven</a>.
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Septimus_Malfoy?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Septimus_Malfoy?action=edit&amp;section=2" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>In <a href="/wiki/1992" title="1992">1992</a>, <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a>, speaking about <a href="/wiki/Draco_Malfoy" title="Draco Malfoy">Draco Malfoy</a>, said, <i>"Look at his family... The whole lot of them have been in Slytherin, he's always boasting about it"</i>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> This indicates that Septimus was most likely a <a href="/wiki/Slytherin" title="Slytherin">Slytherin</a> if he attended <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a>, though it cannot be confirmed.</li>
+<li>In <a href="/wiki/1997" title="1997">1997</a> a <a href="/wiki/Unidentified_portrait_in_Malfoy_Manor_(II)" title="Unidentified portrait in Malfoy Manor (II)">portrait</a> was hung in <a href="/wiki/Malfoy_Manor" title="Malfoy Manor">Malfoy Manor</a> showing a wizard; Septimus may be that wizard.</li>
+<li>Oddly, Septimus is a <a href="/wiki/Septimus_Weasley" title="Septimus Weasley">name</a> that also appears on the <a href="/wiki/Weasley_family" title="Weasley family">Weasley family</a> tree, an almost rival family of the <a href="/wiki/Malfoy_family" title="Malfoy family">Malfoys</a> in later years.</li>
+<li>The relationship between Septimus and Unctuous Osbert is similar to that of his descendent <a href="/wiki/Lucius_Malfoy" title="Lucius Malfoy">Lucius Malfoy</a> and <a href="/wiki/Cornelius_Fudge" title="Cornelius Fudge">Cornelius Fudge</a>.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Septimus_Malfoy?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Septimus_Malfoy?action=edit&amp;section=3" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Wizarding_World_(website)" title="Wizarding World (website)">Wizarding World</a></i> <small>(Mentioned only)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Septimus_Malfoy?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Septimus_Malfoy?action=edit&amp;section=4" title="Edit section: Notes and references

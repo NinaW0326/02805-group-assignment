@@ -1,0 +1,115 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/5/5d/PMFT_Josefina_Calderon.png/revision/latest?cb=20180424190647" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/5/5d/PMFT_Josefina_Calderon.png/revision/latest/scale-to-width-down/350?cb=20180424190647" srcset="https://static.wikia.nocookie.net/harrypotter/images/5/5d/PMFT_Josefina_Calderon.png/revision/latest/scale-to-width-down/350?cb=20180424190647 1x, https://static.wikia.nocookie.net/harrypotter/images/5/5d/PMFT_Josefina_Calderon.png/revision/latest/scale-to-width-down/700?cb=20180424190647 2x" class="pi-image-thumbnail" alt="" width="270" height="340"
+		     data-image-key="PMFT_Josefina_Calderon.png" data-image-name="PMFT Josefina Calderon.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Josefina Calderon</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">Year unknown, <a href="/wiki/Mexico" title="Mexico">New Spain</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="marital">
+	
+		<h3 class="pi-data-label pi-secondary-font">Marital status</h3>
+	
+	<div class="pi-data-value pi-font">Married<sup id="cite_ref-Pottermore_1-0" class="reference"><a href="#cite_note-Pottermore-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Mexico" title="Mexico">Mexican</a><sup id="cite_ref-Pottermore_1-1" class="reference"><a href="#cite_note-Pottermore-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-Pottermore_1-2" class="reference"><a href="#cite_note-Pottermore-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female<sup id="cite_ref-Pottermore_1-3" class="reference"><a href="#cite_note-Pottermore-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Chadwick_Boot" title="Chadwick Boot">Chadwick Boot</a> (husband)<sup id="cite_ref-Pottermore_1-4" class="reference"><a href="#cite_note-Pottermore-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/Webster_Boot" title="Webster Boot">Webster Boot</a> (brother-in-law)<sup id="cite_ref-Pottermore_1-5" class="reference"><a href="#cite_note-Pottermore-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/Isolt_Sayre" title="Isolt Sayre">Isolt Sayre</a> (adoptive mother-in-law)<sup id="cite_ref-Pottermore_1-6" class="reference"><a href="#cite_note-Pottermore-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/James_Steward" title="James Steward">James Steward</a> (adoptive father-in-law)<sup id="cite_ref-Pottermore_1-7" class="reference"><a href="#cite_note-Pottermore-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/Calderon_family" title="Calderon family">Calderon family</a><sup id="cite_ref-Pottermore_1-8" class="reference"><a href="#cite_note-Pottermore-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/Calderon-Boot_family" title="Calderon-Boot family">Calderon-Boot family</a><sup id="cite_ref-Pottermore_1-9" class="reference"><a href="#cite_note-Pottermore-1">&#91;1&#93;</a></sup></li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Healer" title="Healer">Healer</a><sup id="cite_ref-Pottermore_1-10" class="reference"><a href="#cite_note-Pottermore-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Calderon-Boot_family" title="Calderon-Boot family">Calderon-Boot family</a><sup id="cite_ref-Pottermore_1-11" class="reference"><a href="#cite_note-Pottermore-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+<b>Josefina Calderon</b>&#160;was a <a href="/wiki/17th_century" title="17th century">17th-century</a> <a href="/wiki/Mexico" title="Mexico">Mexican</a> <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> and <a href="/wiki/Healer" title="Healer">Healer</a> who became the wife of <a href="/wiki/Chadwick_Boot" title="Chadwick Boot">Chadwick Boot</a>, one of the founders of <a href="/wiki/Ilvermorny_School_of_Witchcraft_and_Wizardry" title="Ilvermorny School of Witchcraft and Wizardry">Ilvermorny School of Witchcraft and Wizardry</a>.<sup id="cite_ref-Pottermore_1-12" class="reference"><a href="#cite_note-Pottermore-1">&#91;1&#93;</a></sup>
+</p><p>The couple established the <a href="/wiki/Calderon-Boot_family" title="Calderon-Boot family">Calderon-Boot family</a>, which remains one of America's most prominent wizarding families today.<sup id="cite_ref-Pottermore_1-13" class="reference"><a href="#cite_note-Pottermore-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Magical_abilities_and_skills"><span class="tocnumber">1</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Etymology"><span class="tocnumber">2</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Behind_the_scenes"><span class="tocnumber">3</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Appearances"><span class="tocnumber">4</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Notes_and_references"><span class="tocnumber">5</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Josefina_Calderon?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Josefina_Calderon?action=edit&amp;section=1" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Healing_magic" title="Healing magic">Healing magic</a></b>: As a professional <a href="/wiki/Healer" title="Healer">Healer</a>, Calderon would have been very accomplished with medical <a href="/wiki/Magic" title="Magic">magic</a>, such as with <a href="/wiki/Healing_spell" title="Healing spell">healing spells</a>, <a href="/wiki/Potion" title="Potion">potions</a> and other magical remedies.<sup id="cite_ref-Pottermore_1-14" class="reference"><a href="#cite_note-Pottermore-1">&#91;1&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Josefina_Calderon?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Josefina_Calderon?action=edit&amp;section=2" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Josefina is a Spanish name meaning "made bigger by god".
+</p><p>While Calderón is a real surname, it was probably picked because of its similarity with "caldero", meaning "<a href="/wiki/Cauldron" title="Cauldron">cauldron</a>".
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Josefina_Calderon?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Josefina_Calderon?action=edit&amp;section=3" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Josefina was not featured on the <a href="/wiki/Sayre_family" title="Sayre family">Sayre family</a> tree on  <i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i>, but was however on the <a href="/wiki/House_of_Gaunt" title="House of Gaunt">Gaunt family</a> tree.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Josefina_Calderon?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Josefina_Calderon?action=edit&amp;section=4" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> <small>(First mentioned)</small></li>
+<li><i><a href="/wiki/Wizarding_World_(website)" title="Wizarding World (website)">Wizarding World</a></i> <small>(Mentioned only)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Josefina_Calderon?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Josefina_Calderon?action=edit&amp;section=5" title="Edit section: Notes and references

@@ -1,0 +1,100 @@
+<div class="mw-parser-output"><table class="notice metadata" id="spoiler" style="text-align: center; background: beige; margin: 1em 05%; padding: 0 1em; border: #a00 1px solid;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/8/8c/Hogwarts_Mystery.jpeg/revision/latest?cb=20180504083359" class="image"><img alt="Hogwarts Mystery.jpeg" src="https://static.wikia.nocookie.net/harrypotter/images/8/8c/Hogwarts_Mystery.jpeg/revision/latest/scale-to-width-down/175?cb=20180504083359" decoding="async" width="175" height="77" data-image-name="Hogwarts Mystery.jpeg" data-image-key="Hogwarts_Mystery.jpeg" /></a>
+</td>
+<td><b>Warning!</b>
+<p>At least some content in this article is derived from information featured in <i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i>. Spoilers will be present within the article.
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-organisation pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/c/ce/HM_y3ch2_Merula%27s_gang.jpeg/revision/latest?cb=20180725223320" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/c/ce/HM_y3ch2_Merula%27s_gang.jpeg/revision/latest/scale-to-width-down/350?cb=20180725223320" srcset="https://static.wikia.nocookie.net/harrypotter/images/c/ce/HM_y3ch2_Merula%27s_gang.jpeg/revision/latest/scale-to-width-down/350?cb=20180725223320 1x, https://static.wikia.nocookie.net/harrypotter/images/c/ce/HM_y3ch2_Merula%27s_gang.jpeg/revision/latest/scale-to-width-down/700?cb=20180725223320 2x" class="pi-image-thumbnail" alt="" width="270" height="125"
+		     data-image-key="HM_y3ch2_Merula%27s_gang.jpeg" data-image-name="HM y3ch2 Merula&#039;s gang.jpeg"/>
+		
+	</a>
+	
+</figure>
+
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Merula Snyde&#39;s gang</h2>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Organisation information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="founder">
+	
+		<h3 class="pi-data-label pi-secondary-font">Founder(s)</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Merula_Snyde" title="Merula Snyde">Merula Snyde</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="founded">
+	
+		<h3 class="pi-data-label pi-secondary-font">Founded</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/1984" title="1984">1984</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="leader">
+	
+		<h3 class="pi-data-label pi-secondary-font">Leader(s)</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Merula_Snyde" title="Merula Snyde">Merula Snyde</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="members">
+	
+		<h3 class="pi-data-label pi-secondary-font">Known Members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Barnaby_Lee" title="Barnaby Lee">Barnaby Lee</a><sup id="cite_ref-y3ch2_1-0" class="reference"><a href="#cite_note-y3ch2-1">&#91;1&#93;</a></sup> (formerly<sup id="cite_ref-y3ch8_2-0" class="reference"><a href="#cite_note-y3ch8-2">&#91;2&#93;</a></sup>)</li><li><a href="/wiki/Ismelda_Murk" title="Ismelda Murk">Ismelda Murk</a><sup id="cite_ref-y3ch2_1-1" class="reference"><a href="#cite_note-y3ch2-1">&#91;1&#93;</a></sup></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="intentions">
+	
+		<h3 class="pi-data-label pi-secondary-font">Intentions</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>To locate the remaining <a href="/wiki/Cursed_Vaults" title="Cursed Vaults">Cursed Vaults</a></li><li>Bully <a href="/wiki/Muggle-born" title="Muggle-born">Muggle-borns</a> and <a href="/wiki/Blood_traitor" title="Blood traitor">Blood traitors</a></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="affiliation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Affiliation</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a><ul><li><a href="/wiki/Slytherin" title="Slytherin">Slytherin</a></li></ul></li><li><a href="/wiki/Merula_Snyde" title="Merula Snyde">Merula Snyde</a></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="enemies">
+	
+		<h3 class="pi-data-label pi-secondary-font">Enemies</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Muggle-born" title="Muggle-born">Muggle-borns</a></li><li><a href="/wiki/Blood_traitor" title="Blood traitor">Blood traitors</a></li><li><a href="/wiki/Jacob%27s_sibling" title="Jacob&#039;s sibling">Jacob's sibling</a></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Organisation_infobox" title="Template:Organisation infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Merula Snyde's gang</b> was founded by <a href="/wiki/Merula_Snyde" title="Merula Snyde">Merula Snyde</a> in <a href="/wiki/1984" title="1984">1984</a> to assist her in seeking out clues to the location of the <a href="/wiki/Cursed_Vaults" title="Cursed Vaults">Cursed Vaults</a>, as well as to possibly bully <a href="/wiki/Muggle-born" title="Muggle-born">Muggle-borns</a> and <a href="/wiki/Blood_traitor" title="Blood traitor">Blood traitors</a>. This gang was overall very inefficient in carrying out its intended purpose.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Known_members"><span class="tocnumber">1</span> <span class="toctext">Known members</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Appearances"><span class="tocnumber">3</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Notes_and_references"><span class="tocnumber">4</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Known_members">Known members</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Merula_Snyde%27s_gang?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Known members">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Merula_Snyde%27s_gang?action=edit&amp;section=1" title="Edit section: Known members"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Merula_Snyde" title="Merula Snyde">Merula Snyde</a> (Founder/Leader)</li>
+<li><a href="/wiki/Barnaby_Lee" title="Barnaby Lee">Barnaby Lee</a><sup id="cite_ref-y3ch2_1-2" class="reference"><a href="#cite_note-y3ch2-1">&#91;1&#93;</a></sup> (formerly<sup id="cite_ref-y3ch8_2-1" class="reference"><a href="#cite_note-y3ch8-2">&#91;2&#93;</a></sup>)</li>
+<li><a href="/wiki/Ismelda_Murk" title="Ismelda Murk">Ismelda Murk</a><sup id="cite_ref-y3ch2_1-3" class="reference"><a href="#cite_note-y3ch2-1">&#91;1&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Merula_Snyde%27s_gang?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: History">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Merula_Snyde%27s_gang?action=edit&amp;section=2" title="Edit section: History"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Jacob%27s_sibling" title="Jacob&#39;s sibling">Jacob's sibling</a> first encountered Merula Snyde's gang during the <a href="/wiki/Wideye_Potion" title="Wideye Potion">Wideye Potion</a> lesson in the <a href="/wiki/1986%E2%80%931987_school_year" title="1986–1987 school year">1986–1987 school year</a>. Merula sarcastically welcomed back Jacob's sibling, while stating her new associates, <a href="/wiki/Ismelda_Murk" title="Ismelda Murk">Ismelda Murk</a> and <a href="/wiki/Barnaby_Lee" title="Barnaby Lee">Barnaby Lee</a>, would assist her in opening the remaining <a href="/wiki/Cursed_Vaults" title="Cursed Vaults">Cursed Vaults</a>.
+</p><p>After the class, they discussed what could possibly be in the next vaults, to which Merula rudely stated that it could be something that can bring back <a href="/wiki/Jacob_(Hogwarts_student)" title="Jacob (Hogwarts student)">Jacob</a>. Regardless of Jacob's sibling's reponse, Merula's gang left, with the exception of Barnaby, staying back to threaten Jacob's sibling with "vanishing every bone" in their body should they continue to interfere with Merula's plans. Jacob's sibling attempted to reason with Barnaby by pointing out that Merula was terrible to everyone around her and she was most likely lying to Barnaby in order to manipulate him. Barnaby pondered on Jacob's sibling statement for a moment, before rebuffing them and leaving the class.<sup id="cite_ref-y3ch2_1-4" class="reference"><a href="#cite_note-y3ch2-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Merula_Snyde%27s_gang?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Merula_Snyde%27s_gang?action=edit&amp;section=3" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Merula_Snyde%27s_gang?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Merula_Snyde%27s_gang?action=edit&amp;section=4" title="Edit section: Notes and references

@@ -1,0 +1,136 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/6/6c/Cliodne.jpg/revision/latest?cb=20090622231942" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/6/6c/Cliodne.jpg/revision/latest/scale-to-width-down/350?cb=20090622231942" srcset="https://static.wikia.nocookie.net/harrypotter/images/6/6c/Cliodne.jpg/revision/latest/scale-to-width-down/350?cb=20090622231942 1x, https://static.wikia.nocookie.net/harrypotter/images/6/6c/Cliodne.jpg/revision/latest/scale-to-width-down/700?cb=20090622231942 2x" class="pi-image-thumbnail" alt="" width="270" height="376"
+		     data-image-key="Cliodne.jpg" data-image-name="Cliodne.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Cliodna</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Middle_Ages" title="Middle Ages">Middle Ages</a>, <a href="/wiki/Ireland" title="Ireland">Ireland</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Middle_Ages" title="Middle Ages">Middle Ages</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Ireland" title="Ireland">Irish</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="alias">
+	
+		<h3 class="pi-data-label pi-secondary-font">Also known as</h3>
+	
+	<div class="pi-data-value pi-font">Cliodne</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Green</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Magical characteristics</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="animagus">
+	
+		<h3 class="pi-data-label pi-secondary-font">Animagus</h3>
+	
+	<div class="pi-data-value pi-font">Sea <a href="/wiki/Bird" title="Bird">Bird</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Druid" title="Druid">Druidess</a></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Cliodna</b>, also known as <b>Cliodne</b>, was a famous <a href="/wiki/Middle_Ages" title="Middle Ages">medieval</a> <a href="/wiki/Ireland" title="Ireland">Irish</a> <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> and <a href="/wiki/Druid" title="Druid">druidess</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Magical_abilities_and_skills"><span class="tocnumber">2</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Behind_the_scenes"><span class="tocnumber">3</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Appearances"><span class="tocnumber">4</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Notes_and_references"><span class="tocnumber">5</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Cliodna?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Cliodna?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>An <a href="/wiki/Animagus" title="Animagus">Animagus</a> with the ability to turn into a sea <a href="/wiki/Bird" title="Bird">bird</a>, she was aided by <a href="/wiki/Cliodna%27s_birds" title="Cliodna&#39;s birds">three magical birds</a> that <a href="/wiki/Healing_magic" title="Healing magic">cured</a> the sick by singing them to sleep. It was also said that she could turn into a wave. She also discovered the properties of <a href="/wiki/Moondew" title="Moondew">Moondew</a>. Cliodne appeared on a <a href="/wiki/Chocolate_Frog_Card" title="Chocolate Frog Card">Chocolate Frog Card</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p><p>In September of <a href="/wiki/1991" title="1991">1991</a>, <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> picked up a Chocolate Frog Card with a picture of Cliodna, who was scratching her nose.<sup id="cite_ref-PS6_4-0" class="reference"><a href="#cite_note-PS6-4">&#91;4&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Cliodna?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Cliodna?action=edit&amp;section=2" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Potion" title="Potion">Potions</a></b>: Cliodna was highly proficient with potions, as she discovered a new ingredient, <a href="/wiki/Moondew" title="Moondew">Moondew</a> and its properties in potion-making. Furthermore, she would have needed to have brewed the <a href="/wiki/Animagus_potion" title="Animagus potion">Animagus potion</a> in order for her to gain the ability to fully transform, a potion known for being highly difficult, complex and time-consuming, showing her very impressive talent in the art of potion-making.</li>
+<li><b><a href="/wiki/Transfiguration" title="Transfiguration">Transfiguration</a></b>: She was also a mistress of <a href="/wiki/Transfiguration" title="Transfiguration">transfiguration</a>, being able to turn herself into a sea <a href="/wiki/Bird" title="Bird">bird</a> at will. Given how <a href="/wiki/Human_Transfiguration" title="Human Transfiguration">Human Transfiguration</a> is an incredibly complex and even dangerous branch of transfiguration, this was a remarkable <a href="/wiki/Magic" title="Magic">magical</a> feat.</li></ul>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Cliodna?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Cliodna?action=edit&amp;section=3" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>In Irish mythology, <a href="http://en.wikipedia.org/wiki/Cliodna" class="extiw" title="wikipedia:Cliodna">Cliodna</a> was a goddess of <a href="/wiki/Love" title="Love">love</a> and beauty, said to have three brightly coloured birds whose song healed the sick. She left Tir Tairngire to be with her mortal lover, Ciabhán, but drowned as she slept in Glandore harbour in County Cork.</li>
+<li>She was also rumoured to be the "Queen of the <a href="/wiki/Banshee" title="Banshee">Banshees</a>".</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Cliodna?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Cliodna?action=edit&amp;section=4" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 5 images related to <i><b><a href="/wiki/Category:Images_of_Cliodne" title="Category:Images of Cliodne">Cliodna</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone" title="Harry Potter and the Philosopher&#39;s Stone">Harry Potter and the Philosopher's Stone</a></i> <small>(Mentioned only)</small> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(video_game)" title="Harry Potter and the Philosopher&#39;s Stone (video game)">Harry Potter and the Philosopher's Stone (video game)</a></i> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(video_game)" title="Harry Potter and the Chamber of Secrets (video game)">Harry Potter and the Chamber of Secrets (video game)</a></i> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(video_game)" title="Harry Potter and the Prisoner of Azkaban (video game)">Harry Potter and the Prisoner of Azkaban (video game)</a></i> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince_(video_game)" title="Harry Potter and the Half-Blood Prince (video game)">Harry Potter and the Half-Blood Prince (video game)</a></i> <small>(Mentioned only)</small> <span class="template-c">(Nintendo DS version only)</span></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Cliodna?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Cliodna?action=edit&amp;section=5" title="Edit section: Notes and references

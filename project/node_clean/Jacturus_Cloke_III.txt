@@ -1,0 +1,111 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/5/5e/Jacturus_Cloke_-_FBC.png/revision/latest?cb=20170521023316" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/5/5e/Jacturus_Cloke_-_FBC.png/revision/latest/scale-to-width-down/350?cb=20170521023316" srcset="https://static.wikia.nocookie.net/harrypotter/images/5/5e/Jacturus_Cloke_-_FBC.png/revision/latest/scale-to-width-down/350?cb=20170521023316 1x, https://static.wikia.nocookie.net/harrypotter/images/5/5e/Jacturus_Cloke_-_FBC.png/revision/latest/scale-to-width-down/700?cb=20170521023316 2x" class="pi-image-thumbnail" alt="" width="270" height="362"
+		     data-image-key="Jacturus_Cloke_-_FBC.png" data-image-name="Jacturus Cloke - FBC.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Jacturus Cloke III</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Grey</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Blue</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Pale</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Horatio_Cloke" title="Horatio Cloke">Horatio Cloke</a> (ancestor) †</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Cloke_family" title="Cloke family">Cloke family</a></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Jacturus Cloke III</b> was a <a href="/wiki/Great_Britain" title="Great Britain">British</a>&#160;<a href="/wiki/Wizardkind" title="Wizardkind">wizard</a>, and&#160;the last surviving member of the old wizarding <a href="/wiki/Cloke_family" title="Cloke family">Cloke family</a>.<sup id="cite_ref-FBC9-1_1-0" class="reference"><a href="#cite_note-FBC9-1-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Magical_abilities_and_skills"><span class="tocnumber">2</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Appearances"><span class="tocnumber">3</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Notes_and_references"><span class="tocnumber">4</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Jacturus_Cloke_III?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Jacturus_Cloke_III?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>He lived in the <a href="/wiki/Cloke_Mansion" title="Cloke Mansion">Cloke Mansion</a> near <a href="/wiki/Upper_Flagley" title="Upper Flagley">Upper Flagley</a> along with the <a href="/wiki/Ghost" title="Ghost">ghost</a> of his ancestor <a href="/wiki/Horatio_Cloke" title="Horatio Cloke">Horatio Cloke</a>.<sup id="cite_ref-FBC9-1_1-1" class="reference"><a href="#cite_note-FBC9-1-1">&#91;1&#93;</a></sup>
+</p><p>He attacked <a href="/wiki/Megan_Scott" title="Megan Scott">Megan Scott</a> and <a href="/wiki/Incarcerous_Spell" title="Incarcerous Spell">tied her up</a> when she was wandering in a nearby graveyard, but was driven off by a protective <a href="/wiki/Unicorn" title="Unicorn">unicorn</a>. He had to be <a href="/wiki/Stunning_Spell" title="Stunning Spell">Stupified</a> by <a href="/wiki/Mathilda_Grimblehawk" title="Mathilda Grimblehawk">Mathilda Grimblehawk</a> when she and <a href="/wiki/Mathilda_Grimblehawk%27s_partner" title="Mathilda Grimblehawk&#39;s partner">her partner</a> came to investigate.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> He later revealed that he was trying to gather valuable <a href="/wiki/Unicorn_hair" title="Unicorn hair">unicorn hair</a>, <a href="/wiki/Unicorn_horn" title="Unicorn horn">horn</a>, and <a href="/wiki/Unicorn_blood" title="Unicorn blood">blood</a> to restore the lost family fortune.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Jacturus_Cloke_III?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Jacturus_Cloke_III?action=edit&amp;section=2" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Transfiguration" title="Transfiguration">Transfiguration</a></b>: Cloke was capable of performing <a href="/wiki/Conjuration" title="Conjuration">conjuration</a>, a highly advanced and difficult branch of transfiguration. He effectively conjured ropes with the <a href="/wiki/Incarcerous_Spell" title="Incarcerous Spell">Incarcerous Spell</a> to bind <a href="/wiki/Megan_Scott" title="Megan Scott">Megan Scott</a> in an <a href="/wiki/Upper_Flagley" title="Upper Flagley">Upper Flagley</a> graveyard.<sup id="cite_ref-FBC9-1_1-2" class="reference"><a href="#cite_note-FBC9-1-1">&#91;1&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Jacturus_Cloke_III?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Jacturus_Cloke_III?action=edit&amp;section=3" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Fantastic_Beasts:_Cases_from_the_Wizarding_World" title="Fantastic Beasts: Cases from the Wizarding World">Fantastic Beasts: Cases from the Wizarding World</a></i> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Jacturus_Cloke_III?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Jacturus_Cloke_III?action=edit&amp;section=4" title="Edit section: Notes and references

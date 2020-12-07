@@ -1,0 +1,128 @@
+<div class="mw-parser-output"><table class="notice metadata" cellpadding="3px" style="text-align: center; background: snow; border: #a00 1px solid; margin: 1em 10% 1em 10%;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/1/16/Mirror_of_Erised.jpeg/revision/latest?cb=20090713064057" class="image"><img alt="Mirror of Erised.jpeg" src="https://static.wikia.nocookie.net/harrypotter/images/1/16/Mirror_of_Erised.jpeg/revision/latest/scale-to-width-down/80?cb=20090713064057" decoding="async" width="80" height="67" data-image-name="Mirror of Erised.jpeg" data-image-key="Mirror_of_Erised.jpeg" /></a>
+</td>
+<td><i><b>"Is this all real? Or has this been happening inside my head?"</b></i>
+<p>The topic of this article is of a real-life subject that has been mentioned "<a href="/wiki/Harry_Potter_Wiki:Policy#.22In-universe.22_point_of_view" title="Harry Potter Wiki:Policy">in-universe</a>" in a <a href="/wiki/Harry_Potter_Wiki:Canon" title="Harry Potter Wiki:Canon">canon</a> source. The <a href="/wiki/Harry_Potter_Wiki:About" title="Harry Potter Wiki:About">Harry Potter Wiki</a> is written from the perspective that all information presented in canon is true (e.g., <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts</a> really exists), and, as such, details contained in this article may differ from real world facts.
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-portrait pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/3/3f/Boleyn.JPG/revision/latest?cb=20090715145207" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/3/3f/Boleyn.JPG/revision/latest/scale-to-width-down/164?cb=20090715145207" srcset="https://static.wikia.nocookie.net/harrypotter/images/3/3f/Boleyn.JPG/revision/latest/scale-to-width-down/164?cb=20090715145207 1x, https://static.wikia.nocookie.net/harrypotter/images/3/3f/Boleyn.JPG/revision/latest/scale-to-width-down/328?cb=20090715145207 2x" class="pi-image-thumbnail" alt="" width="164" height="238"
+		     data-image-key="Boleyn.JPG" data-image-name="Boleyn.JPG"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Anne Boleyn</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">Norfolk or Hever, <a href="/wiki/1501" class="mw-redirect" title="1501">1501</a>/<a href="/wiki/1507" class="mw-redirect" title="1507">1507</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font">London, <a href="/wiki/19_May" title="19 May">19 May</a> <a href="/wiki/1536" class="mw-redirect" title="1536">1536</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Squib" title="Squib">Squib</a> (possibly)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="marital">
+	
+		<h3 class="pi-data-label pi-secondary-font">Marital status</h3>
+	
+	<div class="pi-data-value pi-font">Married (28th May 1533 - 17th May 1536)<br/>Single (marriage annulled as of 17th May 1536)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="title">
+	
+		<h3 class="pi-data-label pi-secondary-font">Title(s)</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>Queen consort of England</li><li>Marquess of Pembroke</li><li>Lady Anne Boleyn</li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Dark</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Dark</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Pale</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Henry_VIII" title="Henry VIII">King Henry VIII</a> (husband)</li><li><a href="/wiki/Elizabeth_I" title="Elizabeth I">Queen Elizabeth I</a> (daughter)</li><li><a href="/wiki/Mary_I" title="Mary I">Queen Mary I</a> (stepdaughter)</li><li><a href="/wiki/Henry_VII" title="Henry VII">King Henry VII</a> (father-in-law)</li><li><a href="/wiki/William_I" title="William I">William I</a> (ancestor)</li><li><a href="/wiki/House_of_Tudor" title="House of Tudor">House of Tudor</a></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Anne Boleyn</b> (c. <a href="/wiki/1501" class="mw-redirect" title="1501">1501</a> – <a href="/wiki/19_May" title="19 May">19 May</a> <a href="/wiki/1536" class="mw-redirect" title="1536">1536</a>) was <a href="/wiki/Queen" title="Queen">Queen</a> consort of <a href="/wiki/England" title="England">England</a> between <a href="/wiki/1533" class="mw-redirect" title="1533">1533</a> and <a href="/wiki/1536" class="mw-redirect" title="1536">1536</a>, as the second wife of the notorious <a href="/wiki/Henry_VIII" title="Henry VIII">King Henry VIII</a>, and mother to <a href="/wiki/Elizabeth_I" title="Elizabeth I">Queen Elizabeth I</a> of England.<sup id="cite_ref-wikipedia_1-0" class="reference"><a href="#cite_note-wikipedia-1">&#91;1&#93;</a></sup>
+</p><p>Boleyn was accused by <a href="/wiki/Non-magic_people" title="Non-magic people">Muggles</a> of being a <a href="/wiki/Wizardkind" title="Wizardkind">witch</a>.<sup id="cite_ref-wombat_2-0" class="reference"><a href="#cite_note-wombat-2">&#91;2&#93;</a></sup> There may have been a popular <a href="/wiki/Wizarding_world" title="Wizarding world">wizarding</a> theory that she was instead a <a href="/wiki/Squib" title="Squib">Squib</a>.<sup id="cite_ref-wombat_2-1" class="reference"><a href="#cite_note-wombat-2">&#91;2&#93;</a></sup> However, Anne's true blood status is unknown.
+</p><p>If Boleyn was indeed a Squib, it suggests her siblings could be magical. Notable direct descendants of Anne's sister Mary are Queen Elizabeth II and Diana, Princess of Wales. This could imply that they have magical blood along with descendants including Prince William, Duke of Cambridge and Prince Harry, Duke of Sussex.
+</p><p>A portrait of a woman resembling Anne hung in the <a href="/wiki/Grand_Staircase" title="Grand Staircase">Grand Staircase</a>, near the second-floor landing, at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a>.<sup id="cite_ref-PSF_3-0" class="reference"><a href="#cite_note-PSF-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Anne_Boleyn?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Anne_Boleyn?action=edit&amp;section=1" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(film)" title="Harry Potter and the Philosopher&#39;s Stone (film)">Harry Potter and the Philosopher's Stone (film)</a></i> <small>(Appears in portrait(s))</small></li>
+<li><a href="/wiki/J._K._Rowling%27s_official_site" title="J. K. Rowling&#39;s official site">J. K. Rowling's official site</a> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Harry_Potter_Limited_Edition" title="Harry Potter Limited Edition">Harry Potter Limited Edition</a></i> <small>(Appears in portrait(s))</small></li>
+<li><i><a href="/wiki/Harry_Potter:_The_Exhibition" title="Harry Potter: The Exhibition">Harry Potter: The Exhibition</a></i> <small>(Appears in portrait(s))</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Anne_Boleyn?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Anne_Boleyn?action=edit&amp;section=2" title="Edit section: Notes and references

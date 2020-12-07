@@ -1,0 +1,132 @@
+<div class="mw-parser-output"><table class="notice metadata" cellpadding="3px" style="text-align: center; background: snow; border: #a00 1px solid; margin: 1em 10% 1em 10%;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/1/11/Hermione_Granger_%28HBP_promo%29_5.jpg/revision/latest?cb=20090817203540" class="image"><img alt="Hermione Granger (HBP promo) 5.jpg" src="https://static.wikia.nocookie.net/harrypotter/images/1/11/Hermione_Granger_%28HBP_promo%29_5.jpg/revision/latest/scale-to-width-down/60?cb=20090817203540" decoding="async" width="60" height="80" data-image-name="Hermione Granger (HBP promo) 5.jpg" data-image-key="Hermione_Granger_(HBP_promo)_5.jpg" /></a>
+</td>
+<td><i><b>"Are you a wizard or not?"</b></i>
+<p>The title of this article is conjectural.  Although it is based on <a href="/wiki/Canon" title="Canon">canonical information</a>, the actual name is a conjecture and may be supplanted at any time by additional information released from canonical sources.  If this occurs, please move this page to the appropriate title.
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/9/99/Mrs_Flume.jpg/revision/latest?cb=20171231170009" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/9/99/Mrs_Flume.jpg/revision/latest/scale-to-width-down/350?cb=20171231170009" srcset="https://static.wikia.nocookie.net/harrypotter/images/9/99/Mrs_Flume.jpg/revision/latest/scale-to-width-down/350?cb=20171231170009 1x, https://static.wikia.nocookie.net/harrypotter/images/9/99/Mrs_Flume.jpg/revision/latest/scale-to-width-down/700?cb=20171231170009 2x" class="pi-image-thumbnail" alt="" width="270" height="360"
+		     data-image-key="Mrs_Flume.jpg" data-image-name="Mrs Flume.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Mrs Flume</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">Before <a href="/wiki/1976" title="1976">1976</a> (most likely)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="marital">
+	
+		<h3 class="pi-data-label pi-secondary-font">Marital status</h3>
+	
+	<div class="pi-data-value pi-font">Married</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Ambrosius_Flume" title="Ambrosius Flume">Ambrosius Flume</a> (husband)</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Co-owner of Honeydukes</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Honeydukes" title="Honeydukes">Honeydukes</a></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Mrs Flume</b> was a <a href="/wiki/Great_Britain" title="Great Britain">British</a> <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> and the co-owner of <a href="/wiki/Honeydukes" title="Honeydukes">Honeydukes</a> alongside her husband <a href="/wiki/Ambrosius_Flume" title="Ambrosius Flume">Ambrosius Flume</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_life"><span class="tocnumber">1.1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Honeydukes"><span class="tocnumber">1.2</span> <span class="toctext">Honeydukes</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Battle_of_Hogwarts"><span class="tocnumber">1.3</span> <span class="toctext">Battle of Hogwarts</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Appearances"><span class="tocnumber">2</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Notes_and_references"><span class="tocnumber">3</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Ambrosius_Flume%27s_wife?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Ambrosius_Flume%27s_wife?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Ambrosius_Flume%27s_wife?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Early life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Ambrosius_Flume%27s_wife?action=edit&amp;section=2" title="Edit section: Early life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Mrs Flume was born a witch and possibly attended <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> as her husband did. At some point in her life, Mrs Flume married <a href="/wiki/Ambrosius_Flume" title="Ambrosius Flume">Ambrosius Flume</a>.<sup id="cite_ref-HBP4_1-0" class="reference"><a href="#cite_note-HBP4-1">&#91;1&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Honeydukes">Honeydukes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Ambrosius_Flume%27s_wife?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Honeydukes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Ambrosius_Flume%27s_wife?action=edit&amp;section=3" title="Edit section: Honeydukes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>By <a href="/wiki/1993" title="1993">1993</a>, the couple lived in a flat above <a href="/wiki/Honeydukes" title="Honeydukes">Honeydukes Sweetshop</a> and ran together said shop. In <a href="/wiki/1993" title="1993">1993</a>, during one of the <a href="/wiki/Hogsmeade_weekend_trips" title="Hogsmeade weekend trips">weekend trips</a> to <a href="/wiki/Hogsmeade" title="Hogsmeade">Hogsmeade</a>, Mrs Flume asked <a href="/wiki/Ambrosius_Flume" title="Ambrosius Flume">her husband</a> to get some <a href="/wiki/Jelly_Slug" title="Jelly Slug">Jelly Slugs</a>, as the shop was filled with <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts</a> students.<sup id="cite_ref-PA10_2-0" class="reference"><a href="#cite_note-PA10-2">&#91;2&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Battle_of_Hogwarts">Battle of Hogwarts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Ambrosius_Flume%27s_wife?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Battle of Hogwarts">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Ambrosius_Flume%27s_wife?action=edit&amp;section=4" title="Edit section: Battle of Hogwarts"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>It is possible that Mrs Flume participated in the <a href="/wiki/Battle_of_Hogwarts" title="Battle of Hogwarts">Battle of Hogwarts</a> alongside her husband and other residents of <a href="/wiki/Hogsmeade" title="Hogsmeade">Hogsmeade</a> village, although this is unconfirmed.
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Ambrosius_Flume%27s_wife?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Ambrosius_Flume%27s_wife?action=edit&amp;section=5" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban" title="Harry Potter and the Prisoner of Azkaban">Harry Potter and the Prisoner of Azkaban</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(film)" title="Harry Potter and the Prisoner of Azkaban (film)">Harry Potter and the Prisoner of Azkaban (film)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">Harry Potter and the Half-Blood Prince</a></i></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter:_Years_1-4" title="LEGO Harry Potter: Years 1-4">LEGO Harry Potter: Years 1-4</a></i> <span class="template-c">(Mentioned only in DS version)</span></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Ambrosius_Flume%27s_wife?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Ambrosius_Flume%27s_wife?action=edit&amp;section=6" title="Edit section: Notes and references

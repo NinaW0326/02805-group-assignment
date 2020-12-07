@@ -1,0 +1,95 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/6/6c/Eliana.png/revision/latest?cb=20121121183600" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/6/6c/Eliana.png/revision/latest/scale-to-width-down/140?cb=20121121183600" srcset="https://static.wikia.nocookie.net/harrypotter/images/6/6c/Eliana.png/revision/latest/scale-to-width-down/140?cb=20121121183600 1x, https://static.wikia.nocookie.net/harrypotter/images/6/6c/Eliana.png/revision/latest/scale-to-width-down/280?cb=20121121183600 2x" class="pi-image-thumbnail" alt="" width="140" height="242"
+		     data-image-key="Eliana.png" data-image-name="Eliana.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Eliana</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="marital">
+	
+		<h3 class="pi-data-label pi-secondary-font">Marital status</h3>
+	
+	<div class="pi-data-value pi-font">Married<sup id="cite_ref-WBoS_1-0" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-WBoS_1-1" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female<sup id="cite_ref-WBoS_1-2" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Dark brown<sup id="cite_ref-WBoS_1-3" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White<sup id="cite_ref-WBoS_1-4" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Eliana%27s_parents" title="Eliana&#039;s parents">Parents</a><sup id="cite_ref-WBoS_1-5" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/Illyius" title="Illyius">Illyius</a> (husband)<sup id="cite_ref-WBoS_1-6" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup></li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Mountain_village" title="Mountain village">Mountain village</a><sup id="cite_ref-WBoS_1-7" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+<b>Eliana</b> was a young <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> who featured in the ancient story of <a href="/wiki/Illyius" title="Illyius">Illyius</a>.<sup id="cite_ref-WBoS_1-8" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Eliana?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Eliana?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>According to legend, Eliana was a young, beautiful <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> who long ago lived in <a href="/wiki/Wizardkind" title="Wizardkind">wizarding</a> <a href="/wiki/Illyius%27_village" class="mw-redirect" title="Illyius&#39; village">village in the mountains</a>. In the dense forest that surrounded the hamlet, there resided a <a href="/wiki/Dark_Wizard" title="Dark Wizard">Dark wizard</a>, <a href="/wiki/Raczidian" title="Raczidian">Raczidian</a>. The villagers and Raczidian managed to co-exist peacefully for many years; he left them alone, and, in return, they stayed away from the part of the woods where his fortess resided.<sup id="cite_ref-WBoS_1-9" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup>
+</p><p>One day, however, Eliana caught the special attention of Raczdian while she was out gathering <a href="/wiki/Berry" title="Berry">berries</a> in the forest. Taken by her, he decided she would make him the perfect wife, and he thus sent a missive to her <a href="/wiki/Eliana%27s_parents" title="Eliana&#39;s parents">parents</a> demanding her hand in marriage. They refused. Raczidian then threatened to send his Dementors to destroy the village unless they delivered Eliana to him.<sup id="cite_ref-WBoS_1-10" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup>
+</p><p>The village elders conferred with each other and agreed to resist. Eliana was sent to the shack of <a href="/wiki/Illyius" title="Illyius">Illyius</a>, a shy, poor orphan who had been ordered to sit out the battle and keep Eliana company because his <a href="/wiki/Mouse" title="Mouse">mouse</a> <a href="/wiki/Patronus_Charm" title="Patronus Charm">Patronus</a> was perceived as being too feeble to be of any assistance in the battle.<sup id="cite_ref-WBoS_1-11" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup>
+</p><p>At first, the villagers were able to stave off the hoard of Dementors with the collective force of their Patronuses, but gradually the sheer number of foes began to overwhelm them. Eliana begged Illyius to do something. He cast the Patronus Charm, and despite its size, the mouse shone brilliantly, bringing the Dementors to a halt. Raczidian then decided to enter the fray himself. He attempted to summon a Patronus to ward off Illyius's mouse, but because he was not pure of heart, <a href="/wiki/Maggot" title="Maggot">maggots</a> shot from his <a href="/wiki/Raczidian%27s_wand" title="Raczidian&#39;s wand">wand</a> instead and devoured him.<sup id="cite_ref-WBoS_1-12" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup>
+</p><p>Eliana went on to marry Illyius, who was hailed as a hero, and lived a long, happy life.<sup id="cite_ref-WBoS_1-13" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Eliana?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Eliana?action=edit&amp;section=2" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Wonderbook:_Book_of_Spells" title="Wonderbook: Book of Spells">Wonderbook: Book of Spells</a></i> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Eliana?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Eliana?action=edit&amp;section=3" title="Edit section: Notes and references

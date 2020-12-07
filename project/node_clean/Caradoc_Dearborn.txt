@@ -1,0 +1,92 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-phoenix pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/3/3c/CaradocDearbornPM.png/revision/latest?cb=20170616192217" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/3/3c/CaradocDearbornPM.png/revision/latest/scale-to-width-down/313?cb=20170616192217" srcset="https://static.wikia.nocookie.net/harrypotter/images/3/3c/CaradocDearbornPM.png/revision/latest/scale-to-width-down/313?cb=20170616192217 1x, https://static.wikia.nocookie.net/harrypotter/images/3/3c/CaradocDearbornPM.png/revision/latest/scale-to-width-down/626?cb=20170616192217 2x" class="pi-image-thumbnail" alt="" width="270" height="309"
+		     data-image-key="CaradocDearbornPM.png" data-image-name="CaradocDearbornPM.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Caradoc Dearborn</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a><sup id="cite_ref-OOTP9_1-0" class="reference"><a href="#cite_note-OOTP9-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-OOTP9_1-1" class="reference"><a href="#cite_note-OOTP9-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male<sup id="cite_ref-OOTP9_1-2" class="reference"><a href="#cite_note-OOTP9-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>Dearborn family</li><li><a href="/wiki/Order_of_the_Phoenix" title="Order of the Phoenix">Order of the Phoenix</a><sup id="cite_ref-OOTP9_1-3" class="reference"><a href="#cite_note-OOTP9-1">&#91;1&#93;</a></sup></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Order of the Phoenix">"<i>Caradoc Dearborn, disappeared six months after the photograph, we didn't ever find his body...</i>"</span></dd>
+<dd>&#8212;Caradoc's disappearance<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Caradoc Dearborn</b> was a <a href="/wiki/Great_Britain" title="Great Britain">British</a> <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> and member of the original <a href="/wiki/Order_of_the_Phoenix" title="Order of the Phoenix">Order of the Phoenix</a>. He fought in the <a href="/wiki/First_Wizarding_War" title="First Wizarding War">First Wizarding War</a> and was presumably murdered by <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a> before the end of the war. His body was never found.<sup id="cite_ref-OOTP9_1-4" class="reference"><a href="#cite_note-OOTP9-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Magical_abilities_and_skills"><span class="tocnumber">2</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Etymology"><span class="tocnumber">3</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Appearances"><span class="tocnumber">4</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Notes_and_references"><span class="tocnumber">5</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Caradoc_Dearborn?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Caradoc_Dearborn?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>During the <a href="/wiki/First_Wizarding_War" title="First Wizarding War">First Wizarding War</a>, Caradoc became a member of the <a href="/wiki/Order_of_the_Phoenix" title="Order of the Phoenix">Order of the Phoenix</a>, an organisation led and founded by <a href="/wiki/Albus_Dumbledore" title="Albus Dumbledore">Albus Dumbledore</a>, in order to oppose the <a href="/wiki/Tom_Riddle" title="Tom Riddle">Dark Lord Voldemort</a> and his <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a>.<sup id="cite_ref-OOTP9_1-5" class="reference"><a href="#cite_note-OOTP9-1">&#91;1&#93;</a></sup>
+</p><p>During the height of the conflict, Caradoc vanished and was never heard from afterwards. According to <a href="/wiki/Alastor_Moody" title="Alastor Moody">Alastor Moody</a>, he disappeared six months after the photograph of the original Order was taken. His body was never found and he was presumed dead.<sup id="cite_ref-OOTP9_1-6" class="reference"><a href="#cite_note-OOTP9-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Caradoc_Dearborn?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Caradoc_Dearborn?action=edit&amp;section=2" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Magic" title="Magic">Magical</a> skills</b>: To be a member of the <a href="/wiki/Order_of_the_Phoenix" title="Order of the Phoenix">Order of the Phoenix</a>, it is highly likely that Caradoc was a talented wizard and most likely used his magical ability in a number of battles against the <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a> before his untimely death.<sup id="cite_ref-OOTP9_1-7" class="reference"><a href="#cite_note-OOTP9-1">&#91;1&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Caradoc_Dearborn?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Caradoc_Dearborn?action=edit&amp;section=3" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="http://en.wikipedia.org/wiki/Caradoc" class="extiw" title="wikipedia:Caradoc">Caradoc</a>, sometimes known as <i>Caradog</i>, was one of the Knights of the Round Table in Arthurian legend. He was also a semi-legendary ancestor of the mediaeval kings of the Welsh <a href="http://en.wikipedia.org/wiki/Kingdom_of_Gwent" class="extiw" title="wikipedia:Kingdom of Gwent">Kingdom of Gwent</a>. <i>Caractacus</i> is the Latinized form of Caradoc.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Caradoc_Dearborn?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Caradoc_Dearborn?action=edit&amp;section=4" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 2 images related to <i><b><a href="/wiki/Category:Images_of_Caradoc_Dearborn" title="Category:Images of Caradoc Dearborn">Caradoc Dearborn</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">Harry Potter and the Order of the Phoenix</a></i> <small>(First mentioned)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(film)" title="Harry Potter and the Order of the Phoenix (film)">Harry Potter and the Order of the Phoenix (film)</a></i> <span class="template-c">(Possible appearance in <a href="/wiki/Order_of_the_Phoenix" title="Order of the Phoenix">Order of the Phoenix</a> photograph)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1_(video_game)" title="Harry Potter and the Deathly Hallows: Part 1 (video game)">Harry Potter and the Deathly Hallows: Part 1 (video game)</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Caradoc_Dearborn?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Caradoc_Dearborn?action=edit&amp;section=5" title="Edit section: Notes and references

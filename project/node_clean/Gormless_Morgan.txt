@@ -1,0 +1,80 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/c/c5/GormlessMorgan.png/revision/latest?cb=20121121191839" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/c/c5/GormlessMorgan.png/revision/latest/scale-to-width-down/342?cb=20121121191839" srcset="https://static.wikia.nocookie.net/harrypotter/images/c/c5/GormlessMorgan.png/revision/latest/scale-to-width-down/342?cb=20121121191839 1x, https://static.wikia.nocookie.net/harrypotter/images/c/c5/GormlessMorgan.png/revision/latest/scale-to-width-down/685?cb=20121121191839 2x" class="pi-image-thumbnail" alt="" width="270" height="394"
+		     data-image-key="GormlessMorgan.png" data-image-name="GormlessMorgan.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Gormless Morgan</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="alias">
+	
+		<h3 class="pi-data-label pi-secondary-font">Also known as</h3>
+	
+	<div class="pi-data-value pi-font">Morg<sup id="cite_ref-WBS_1-0" class="reference"><a href="#cite_note-WBS-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-WBS_1-1" class="reference"><a href="#cite_note-WBS-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male<sup id="cite_ref-WBS_1-2" class="reference"><a href="#cite_note-WBS-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Magic" title="Magic">Magical</a> <a href="/wiki/Creature" title="Creature">creature</a> hunter<sup id="cite_ref-WBS_1-3" class="reference"><a href="#cite_note-WBS-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+<b>Gormless Morgan</b> is the primary character of <a href="/wiki/Miranda_Goshawk" title="Miranda Goshawk">Miranda Goshawk</a>'s poem "<i><a href="/wiki/The_Rhyme_of_Gormless_Morgan" title="The Rhyme of Gormless Morgan">The Rhyme of Gormless Morgan</a></i>". As with all of the characters in these poems, he is based on a real <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a>, with his name changed to protect his identity. Morgan was a <a href="/wiki/Magic" title="Magic">magical</a> <a href="/wiki/Creature" title="Creature">creature</a> hunter who was hired to capture the <a href="/wiki/Gorgon" title="Gorgon">Gorgon</a>, but failed due to his inability to come up with a decent plan, despite <a href="/wiki/Gormless_Morgan%27s_friends" title="Gormless Morgan&#39;s friends">his friends</a>' advice.<sup id="cite_ref-WBS_1-4" class="reference"><a href="#cite_note-WBS-1">&#91;1&#93;</a></sup>
+</p><p>According to Goshawk's "Afterword", the traits Morgan lacked were cunning and shrewdness.<sup id="cite_ref-WBS_1-5" class="reference"><a href="#cite_note-WBS-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Behind_the_scenes"><span class="tocnumber">2</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Appearances"><span class="tocnumber">3</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Notes_and_references"><span class="tocnumber">4</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gormless_Morgan?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gormless_Morgan?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The wizard Gormless Morgan was based on was a magical creature hunter of some form. At a young age, <a href="/wiki/Gormless_Morgan%27s_boss" title="Gormless Morgan&#39;s boss">his boss</a> gave him the task of capturing the <a href="/wiki/Gorgon" title="Gorgon">Gorgon</a>, who had <a href="/wiki/Petrification" title="Petrification">turned</a> a number of men who had ventured into her domain into stone statues.<sup id="cite_ref-WBS_1-6" class="reference"><a href="#cite_note-WBS-1">&#91;1&#93;</a></sup>
+</p><p>Though both his boss and his friends advised that Morgan take a while and think up a good plan to tackle the Gorgon so that he would not be petrified himself, Morgan ignored their advice. He thought that sneaking up behind her and trapping her in a truss would be a good enough plan.<sup id="cite_ref-WBS_1-7" class="reference"><a href="#cite_note-WBS-1">&#91;1&#93;</a></sup>
+</p><p>When he went to enact his plan, however, he found that the Gorgon owned a mirror, which she used for the express purpose of guarding against anyone that may try to sneak up behind her. When their eyes met in the mirror, Morgan was immediately Petrified, thus failing in his task. It is unknown if Morgan was ever able to be rescued from his fate and given an antidote such as a <a href="/wiki/Mandrake_Restorative_Draught" title="Mandrake Restorative Draught">Mandrake Restorative Draught</a>.<sup id="cite_ref-WBS_1-8" class="reference"><a href="#cite_note-WBS-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gormless_Morgan?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gormless_Morgan?action=edit&amp;section=2" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Given that Morgan apparently had the job of catching magical creatures, it is possible he worked for the <a href="/wiki/Committee_for_the_Disposal_of_Dangerous_Creatures" title="Committee for the Disposal of Dangerous Creatures">Committee for the Disposal of Dangerous Creatures</a>, or, in the case that he was not a <a href="/wiki/Great_Britain" title="Great Britain">British</a> wizard, whatever the equivalent in his home country's government was.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gormless_Morgan?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gormless_Morgan?action=edit&amp;section=3" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Wonderbook:_Book_of_Spells" title="Wonderbook: Book of Spells">Wonderbook: Book of Spells</a></i> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gormless_Morgan?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gormless_Morgan?action=edit&amp;section=4" title="Edit section: Notes and references

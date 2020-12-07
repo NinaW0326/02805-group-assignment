@@ -1,0 +1,197 @@
+<div class="mw-parser-output"><table class="notice metadata" id="spoiler" style="text-align: center; background: beige; margin: 1em 05%; padding: 0 1em; border: #a00 1px solid;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/8/8c/Hogwarts_Mystery.jpeg/revision/latest?cb=20180504083359" class="image"><img alt="Hogwarts Mystery.jpeg" src="https://static.wikia.nocookie.net/harrypotter/images/8/8c/Hogwarts_Mystery.jpeg/revision/latest/scale-to-width-down/175?cb=20180504083359" decoding="async" width="175" height="77" data-image-name="Hogwarts Mystery.jpeg" data-image-key="Hogwarts_Mystery.jpeg" /></a>
+</td>
+<td><b>Warning!</b>
+<p>At least some content in this article is derived from information featured in <i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i>. Spoilers will be present within the article.
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-hogwarts-staff pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/b/b3/Elizabeth_Burke_full.jpg/revision/latest?cb=20120621215549" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/b/b3/Elizabeth_Burke_full.jpg/revision/latest/scale-to-width-down/319?cb=20120621215549" srcset="https://static.wikia.nocookie.net/harrypotter/images/b/b3/Elizabeth_Burke_full.jpg/revision/latest/scale-to-width-down/319?cb=20120621215549 1x, https://static.wikia.nocookie.net/harrypotter/images/b/b3/Elizabeth_Burke_full.jpg/revision/latest/scale-to-width-down/637?cb=20120621215549 2x" class="pi-image-thumbnail" alt="" width="270" height="423"
+		     data-image-key="Elizabeth_Burke_full.jpg" data-image-name="Elizabeth Burke full.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Elizabeth Burke</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font">Before <a href="/wiki/1925" title="1925">1925</a><sup id="cite_ref-DOD_1-0" class="reference"><a href="#cite_note-DOD-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Pure-blood" title="Pure-blood">Pure-blood</a> or <a href="/wiki/Half-blood" title="Half-blood">Half-blood</a><sup id="cite_ref-PM_2-0" class="reference"><a href="#cite_note-PM-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a> or <a href="/wiki/Ireland" title="Ireland">Irish</a><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="title">
+	
+		<h3 class="pi-data-label pi-secondary-font">Title(s)</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Professor" title="Professor">Professor</a></li><li><a href="/wiki/Headmaster" title="Headmaster">Headmistress</a><sup id="cite_ref-Kinect_4-0" class="reference"><a href="#cite_note-Kinect-4">&#91;4&#93;</a></sup></li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Red</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Brown</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Caractacus_Burke" title="Caractacus Burke">Caractacus Burke</a> (possibly)</li><li><a href="/wiki/Herbert_Burke" title="Herbert Burke">Herbert Burke</a> (possibly)</li><li><a href="/wiki/Malfoy_family" title="Malfoy family">Malfoy family</a> (possibly)<sup id="cite_ref-MM_5-0" class="reference"><a href="#cite_note-MM-5">&#91;5&#93;</a></sup></li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Headmaster" title="Headmaster">Headmistress</a> of <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts</a> (before <a href="/wiki/1943" title="1943">1943</a>)<sup id="cite_ref-DOD_1-1" class="reference"><a href="#cite_note-DOD-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="house">
+	
+		<h3 class="pi-data-label pi-secondary-font">House</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Slytherin" title="Slytherin">Slytherin</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a><ul><li><a href="/wiki/Slytherin" title="Slytherin">Slytherin</a></li></ul></li><li><a href="/wiki/Burke_family" title="Burke family">Burke family</a></li><li><a href="/wiki/Malfoy_family" title="Malfoy family">Malfoy family</a></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Order of the Phoenix (video game)">"<i>Seen and not heard; that's what children should be.</i>"</span></dd>
+<dd>&#8212;Elizabeth Burke's portrait<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(video_game)" title="Harry Potter and the Order of the Phoenix (video game)">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Professor</b><sup id="cite_ref-Kinect_4-1" class="reference"><a href="#cite_note-Kinect-4">&#91;4&#93;</a></sup><b> Elizabeth Burke</b><sup id="cite_ref-OP_GBA_6-0" class="reference"><a href="#cite_note-OP_GBA-6">&#91;6&#93;</a></sup> (d. before <a href="/wiki/1925" title="1925">1925</a><sup id="cite_ref-DOD_1-2" class="reference"><a href="#cite_note-DOD-1">&#91;1&#93;</a></sup>) was a <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> and <a href="/wiki/Headmaster" title="Headmaster">headmistress</a> of <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> prior to <a href="/wiki/1925" title="1925">1925</a>.<sup id="cite_ref-DOD_1-3" class="reference"><a href="#cite_note-DOD-1">&#91;1&#93;</a></sup> She had several portraits hung in the <a href="/wiki/Hogwarts_Castle" title="Hogwarts Castle">castle</a>. She held and encouraged <a href="/wiki/Pure-blood_supremacy" title="Pure-blood supremacy">pure-blood supremacy</a>, telling <a href="/wiki/Slytherin" title="Slytherin">Slytherin</a> students to be "<i>nasty to <a href="/wiki/Mudblood" title="Mudblood">Mudbloods</a></i>."<sup id="cite_ref-OP.2Fg_7-0" class="reference"><a href="#cite_note-OP.2Fg-7">&#91;7&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_life"><span class="tocnumber">1.1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#1991.E2.80.931992_and_1992.E2.80.931993_school_years"><span class="tocnumber">1.2</span> <span class="toctext">1991–1992 and 1992–1993 school years</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#1995.E2.80.931996_school_year"><span class="tocnumber">1.3</span> <span class="toctext">1995–1996 school year</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#1996.E2.80.931997_school_year"><span class="tocnumber">1.4</span> <span class="toctext">1996–1997 school year</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#1997"><span class="tocnumber">1.5</span> <span class="toctext">1997</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Behind_the_scenes"><span class="tocnumber">2</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Etymology"><span class="tocnumber">3</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Appearances"><span class="tocnumber">4</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Notes_and_references"><span class="tocnumber">5</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Elizabeth_Burke?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Elizabeth_Burke?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Elizabeth_Burke?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Early life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Elizabeth_Burke?action=edit&amp;section=2" title="Edit section: Early life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="thumb tleft show-info-icon" style="width: 152px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/5/54/Elizabeth_Burke_PS_film.jpg/revision/latest?cb=20090704031352" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/5/54/Elizabeth_Burke_PS_film.jpg/revision/latest/scale-to-width-down/150?cb=20090704031352" decoding="async" width="150" height="307" class="thumbimage" data-image-name="Elizabeth Burke PS film.jpg" data-image-key="Elizabeth_Burke_PS_film.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Elizabeth_Burke_PS_film.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Elizabeth's portrait hung at the <a href="/wiki/Grand_Staircase" title="Grand Staircase">Grand Staircase</a></p> 		 	</figcaption> </figure>
+<figure class="thumb tright show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/0/0c/Elizabeth_Burke.jpg/revision/latest?cb=20081005144733" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/0/0c/Elizabeth_Burke.jpg/revision/latest/scale-to-width-down/180?cb=20081005144733" decoding="async" width="180" height="188" class="thumbimage" data-image-name="Elizabeth Burke.jpg" data-image-key="Elizabeth_Burke.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Elizabeth_Burke.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Burke</p> 		 	</figcaption> </figure>
+<p>Elizabeth attended <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> in her youth and was <a href="/wiki/Sorting_ceremony" title="Sorting ceremony">sorted</a> into <a href="/wiki/Slytherin" title="Slytherin">Slytherin</a>. She was appointed <a href="/wiki/Headmaster" title="Headmaster">Headmistress</a> of Hogwarts School at an unknown point.<sup id="cite_ref-Kinect_4-2" class="reference"><a href="#cite_note-Kinect-4">&#91;4&#93;</a></sup> Burke had a portrait painted of herself when she was thirty-five years old.<sup id="cite_ref-LE_8-0" class="reference"><a href="#cite_note-LE-8">&#91;8&#93;</a></sup>
+</p>
+<h3><span id="1991–1992_and_1992–1993_school_years"></span><span class="mw-headline" id="1991.E2.80.931992_and_1992.E2.80.931993_school_years"><a href="/wiki/1991%E2%80%931992_school_year" title="1991–1992 school year">1991–1992</a> and <a href="/wiki/1992%E2%80%931993_school_year" title="1992–1993 school year">1992–1993 school years</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Elizabeth_Burke?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: 1991–1992 and 1992–1993 school years">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Elizabeth_Burke?action=edit&amp;section=3" title="Edit section: 1991–1992 and 1992–1993 school years"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>By <a href="/wiki/1991" title="1991">1991</a>, Elizabeth's portrait was hung at the <a href="/wiki/Grand_Staircase" title="Grand Staircase">Grand Staircase</a>, above the stairs between the archway to the <a href="/wiki/Entrance_Hall" title="Entrance Hall">Entrance Hall</a> and the doorway to the first-floor.<sup id="cite_ref-PSF_9-0" class="reference"><a href="#cite_note-PSF-9">&#91;9&#93;</a></sup>
+</p><p>During the next school year, Elizabeth's portrait was maintained at the same place at the Grand Staircase.<sup id="cite_ref-COSF_10-0" class="reference"><a href="#cite_note-COSF-10">&#91;10&#93;</a></sup>
+</p>
+<h3><span id="1995–1996_school_year"></span><span class="mw-headline" id="1995.E2.80.931996_school_year"><a href="/wiki/1995%E2%80%931996_school_year" title="1995–1996 school year">1995–1996 school year</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Elizabeth_Burke?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: 1995–1996 school year">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Elizabeth_Burke?action=edit&amp;section=4" title="Edit section: 1995–1996 school year"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>By <a href="/wiki/1995" title="1995">1995</a> her portrait was no longer hung by the first-floor landing of the <a href="/wiki/Grand_Staircase" title="Grand Staircase">Grand Staircase</a>, but two floors below, at the <a href="/wiki/Entrance_Dungeon" title="Entrance Dungeon">Entrance Dungeon</a>. During this school year, she hid a secret passage to the <a href="/wiki/Dungeons" title="Dungeons">Main Dungeons</a>. In order to gain passage, one had to give her the password "<i>Slytherins are Supreme</i>", which only she and the <a href="/wiki/Slytherin" title="Slytherin">Slytherin</a> students knew about.<sup id="cite_ref-OP.2Fg_7-1" class="reference"><a href="#cite_note-OP.2Fg-7">&#91;7&#93;</a></sup> There was another portrait of her, hung near the entrance to the <a href="/wiki/Potions_Classroom" title="Potions Classroom">Potions Classroom</a>, hiding a passage to the seventh-floor corridor. Its password was "<i>Facta, non verba</i>".<sup id="cite_ref-OP_GBA_6-1" class="reference"><a href="#cite_note-OP_GBA-6">&#91;6&#93;</a></sup>
+</p>
+<h3><span id="1996–1997_school_year"></span><span class="mw-headline" id="1996.E2.80.931997_school_year"><a href="/wiki/1996%E2%80%931997_school_year" title="1996–1997 school year">1996–1997 school year</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Elizabeth_Burke?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: 1996–1997 school year">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Elizabeth_Burke?action=edit&amp;section=5" title="Edit section: 1996–1997 school year"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>By the next school year, her portraits no longer hid any secret passageway, nor did they stay on the same walls.<sup id="cite_ref-HBPG_11-0" class="reference"><a href="#cite_note-HBPG-11">&#91;11&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="1997">1997</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Elizabeth_Burke?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: 1997">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Elizabeth_Burke?action=edit&amp;section=6" title="Edit section: 1997"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>One of her portraits was hung in <a href="/wiki/Malfoy_Manor" title="Malfoy Manor">Malfoy Manor</a>.<sup id="cite_ref-DHG1_12-0" class="reference"><a href="#cite_note-DHG1-12">&#91;12&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Elizabeth_Burke?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Elizabeth_Burke?action=edit&amp;section=7" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Elizabeth died sometime prior to <a href="/wiki/1991" title="1991">1991</a>, as the portraits hung at <a href="/wiki/Hogwarts_Castle" title="Hogwarts Castle">Hogwarts</a> depict deceased individuals. Her clothing seems to indicate that she lived during the sixteenth or seventeenth century.</li>
+<li>Elizabeth Burke's portrait bears a resemblance to a <a target="_blank" rel="noreferrer noopener" class="external text" href="http://upload.wikimedia.org/wikipedia/commons/0/06/Elizabeth_Talbot%2C_Countess_of_Shrewsbury_from_NPG.jpg">1592 portrait of Bess of Hardwick, Countess of Shrewsbury</a> by <a href="http://en.wikipedia.org/wiki/Rowland_Lockey" class="extiw" title="wikipedia:Rowland Lockey">Rowland Lockey</a>.</li>
+<li>It is possible she may be related to <a href="/wiki/Caractacus_Burke" title="Caractacus Burke">Caractacus Burke</a>, co-founder of <a href="/wiki/Borgin_and_Burkes" title="Borgin and Burkes">Borgin and Burkes</a>.</li>
+<li>The start screen for <i><a href="/wiki/Harry_Potter_for_Kinect" title="Harry Potter for Kinect">Harry Potter for Kinect</a></i> is the only time Burke's portrait is seen in the Headmaster's Office.</li></ul>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Elizabeth_Burke?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Elizabeth_Burke?action=edit&amp;section=8" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>"Elizabeth" is from <i>Ελισαβετ</i> (<i>Elisabet</i>), the Greek form of the Hebrew name אֱלִישֶׁבַע (<i>Elisheva</i>) meaning "my <a href="/wiki/God" title="God">God</a> is an oath" or perhaps "my God is abundance". It has been very popular in England since the reign of Queen <a href="/wiki/Elizabeth_I" title="Elizabeth I">Elizabeth I</a> in the 16th century. Famous modern bearers include the British queen <a href="/wiki/Elizabeth_II" title="Elizabeth II">Elizabeth II</a> (1926-).</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Elizabeth_Burke?veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Elizabeth_Burke?action=edit&amp;section=9" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(film)" title="Harry Potter and the Philosopher&#39;s Stone (film)">Harry Potter and the Philosopher's Stone (film)</a></i> <small>(Appears in portrait(s))</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(film)" title="Harry Potter and the Chamber of Secrets (film)">Harry Potter and the Chamber of Secrets (film)</a></i> <small>(Appears in portrait(s))</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(film)" title="Harry Potter and the Prisoner of Azkaban (film)">Harry Potter and the Prisoner of Azkaban (film)</a></i> <small>(Appears in portrait(s))</small><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(video_game)" title="Harry Potter and the Prisoner of Azkaban (video game)">Harry Potter and the Prisoner of Azkaban (video game)</a></i> <small>(Appears in portrait(s))</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(video_game)" title="Harry Potter and the Order of the Phoenix (video game)">Harry Potter and the Order of the Phoenix (video game)</a></i> <small>(Appears in portrait(s))</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1_(video_game)" title="Harry Potter and the Deathly Hallows: Part 1 (video game)">Harry Potter and the Deathly Hallows: Part 1 (video game)</a></i> <small>(Appears in portrait(s))</small></li>
+<li><i><a href="/wiki/Harry_Potter_for_Kinect" title="Harry Potter for Kinect">Harry Potter for Kinect</a></i> <small>(Appears in portrait(s))</small></li>
+<li><a href="/wiki/The_Wizarding_World_of_Harry_Potter" title="The Wizarding World of Harry Potter">The Wizarding World of Harry Potter</a> <small>(Appears in portrait(s))</small></li>
+<li><i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i> <small>(Appears in portrait(s))</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Elizabeth_Burke?veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Elizabeth_Burke?action=edit&amp;section=10" title="Edit section: Notes and references

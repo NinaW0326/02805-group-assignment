@@ -1,0 +1,46 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-individual pi-layout-default"><section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Jasichus</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Calid" title="Calid">Calid</a> (son)</div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Jasichus</b> was a <a href="/wiki/Persia" title="Persia">Persian</a> man and the father of the <a href="/wiki/Alchemy" title="Alchemy">alchemist</a> <a href="/wiki/Calid" title="Calid">Calid</a>.<sup id="cite_ref-HPVA_1-0" class="reference"><a href="#cite_note-HPVA-1">&#91;1&#93;</a></sup> His son's alchemical advice was referenced in a block of text featured on the back cover of the book <i><a href="/wiki/The_Decline_of_Pagan_Magic" title="The Decline of Pagan Magic">The Decline of Pagan Magic</a></i> by <a href="/wiki/Bathilda_Bagshot" title="Bathilda Bagshot">Bathilda Bagshot</a>.<sup id="cite_ref-HPVA_1-1" class="reference"><a href="#cite_note-HPVA-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Jasichus?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Jasichus?action=edit&amp;section=1" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>This character is referenced in a block of text on the back cover of a prop book featured in <i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1" title="Harry Potter and the Deathly Hallows: Part 1">Harry Potter and the Deathly Hallows: Part 1</a></i>. The text in question was taken from an <a href="/wiki/1889" class="mw-redirect" title="1889">1889</a> English translation of the <a href="/wiki/French" title="French">French</a> book <i>Le livre des figures hiéroglyphiques</i> (<i>The Book of Hieroglyphic Figures</i>), which was first published in <a href="/wiki/1612" class="mw-redirect" title="1612">1612</a>, and has been attributed to <a href="/wiki/Nicolas_Flamel" title="Nicolas Flamel">Nicolas Flamel</a> (c. <a href="/wiki/1330" class="mw-redirect" title="1330">1330</a> – <a href="/wiki/1418" class="mw-redirect" title="1418">1418</a>).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup><sup id="cite_ref-wiki1_3-0" class="reference"><a href="#cite_note-wiki1-3">&#91;3&#93;</a></sup></li>
+<li><a href="http://en.wikipedia.org/wiki/Calid" class="extiw" title="wikipedia:Calid">Calid</a> is a legendary figure to whom <a href="/wiki/Alchemy" title="Alchemy">alchemical</a> writings have been attributed.<sup id="cite_ref-wiki2_4-0" class="reference"><a href="#cite_note-wiki2-4">&#91;4&#93;</a></sup> He has been associated with an actual historical figure, Khalid ibn Yazid (died <a href="/wiki/First_millennium_A.D." title="First millennium A.D.">708 A.D.</a>), an <a href="http://en.wikipedia.org/wiki/Umayyad_Caliphate" class="extiw" title="wikipedia:Umayyad Caliphate">Umayyad</a> <a href="/wiki/Prince" title="Prince">prince</a> who took an interest in alchemy and helped to translate the existing body of alchemical literature into <a href="http://en.wikipedia.org/wiki/Arabic" class="extiw" title="wikipedia:Arabic">Arabic</a>.<sup id="cite_ref-wiki2_4-1" class="reference"><a href="#cite_note-wiki2-4">&#91;4&#93;</a></sup> Khalid's father, <a href="http://en.wikipedia.org/wiki/Yazid" class="extiw" title="wikipedia:Yazid">Yazid I</a> (<a href="/wiki/First_millennium_A.D." title="First millennium A.D.">647 A.D.</a> – <a href="/wiki/First_millennium_A.D." title="First millennium A.D.">683 A.D.</a>), was the second <a href="http://en.wikipedia.org/wiki/Caliph" class="extiw" title="wikipedia:Caliph">Caliph</a> of the Umayyad Caliphate,<sup id="cite_ref-wiki3_5-0" class="reference"><a href="#cite_note-wiki3-5">&#91;5&#93;</a></sup> and may be to whom the name "Jasichus" refers.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Jasichus?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Jasichus?action=edit&amp;section=2" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1" title="Harry Potter and the Deathly Hallows: Part 1">Harry Potter and the Deathly Hallows: Part 1</a></i> <span class="template-c">(Name appears on book cover)</span></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Jasichus?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Jasichus?action=edit&amp;section=3" title="Edit section: Notes and references

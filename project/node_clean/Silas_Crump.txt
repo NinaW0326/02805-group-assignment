@@ -1,0 +1,105 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/c/cc/SilasCrump.png/revision/latest?cb=20161230015945" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/c/cc/SilasCrump.png/revision/latest/scale-to-width-down/347?cb=20161230015945" srcset="https://static.wikia.nocookie.net/harrypotter/images/c/cc/SilasCrump.png/revision/latest/scale-to-width-down/347?cb=20161230015945 1x, https://static.wikia.nocookie.net/harrypotter/images/c/cc/SilasCrump.png/revision/latest/scale-to-width-down/694?cb=20161230015945 2x" class="pi-image-thumbnail" alt="" width="270" height="389"
+		     data-image-key="SilasCrump.png" data-image-name="SilasCrump.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Silas Crump</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Werewolf" title="Werewolf">Werewolf</a> <span class="template-c">(formerly <a href="/wiki/Human" title="Human">Human</a>)</span></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Light brown</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Grey</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Petty criminal</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="house">
+	
+		<h3 class="pi-data-label pi-secondary-font">House</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Slytherin" title="Slytherin">Slytherin</a> (possibly)</div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Fantastic Beasts: Cases from the Wizarding World"><b>Mathilda Grimblehawk</b>: "<i>We're with the Ministry of Magic, Mr Crump. We suspect you're planning some kind of mischief.</i>"</span></dd>
+<dd><b>Silas Crump</b>: "<i>Who, me? Silas 'Saintly' Crump? Never done mischief in my whole life! </i>[…]<i> Entrepreneurial, that's me. Self-sufficient! I'm a shining example to the wizarding community.</i>"</dd>
+<dd>&#8212; <a href="/wiki/Mathilda_Grimblehawk" title="Mathilda Grimblehawk">Mathilda Grimblehawk</a> and <a href="/wiki/Mathilda_Grimblehawk%27s_partner" title="Mathilda Grimblehawk&#39;s partner">her partner</a> confront Silas Crump at the <a href="/wiki/Leaky_Cauldron" title="Leaky Cauldron">Leaky Cauldron</a><sup class="noprint"><a href="/wiki/Fantastic_Beasts:_Cases_from_the_Wizarding_World" title="Fantastic Beasts: Cases from the Wizarding World">[src]</a></sup></dd></dl>
+</div>
+<p><b>Silas Crump</b> was a <a href="/wiki/Great_Britain" title="Great Britain">British</a>&#160;<a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> and petty criminal. 
+</p>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Silas_Crump?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Silas_Crump?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>During his career as a criminal, he had been evading capture by Officer <a href="/wiki/Cerberus_Langarm" title="Cerberus Langarm">Cerberus Langarm</a> from the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">British Ministry of Magic</a>'s <a href="/wiki/Department_of_Magical_Law_Enforcement" title="Department of Magical Law Enforcement">Department of Magical Law Enforcement</a>. This was due to the fact that he had never been caught red-handed.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p><p>Crump may have been in <a href="/wiki/Slytherin" title="Slytherin">Slytherin House</a> at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> as there was a Slytherin scarf in his rented room at the <a href="/wiki/Leaky_Cauldron" title="Leaky Cauldron">Leaky Cauldron</a>. His cunning and highly resourceful personality would also seem to support this. There was also a <a href="/wiki/Chudley_Cannons" title="Chudley Cannons">Chudley Cannons</a> flag in his room, so he was most&#160;likely a supporter of them.
+</p><p>He owned a <a class="new" title="Silas Crump&#39;s locked belt (page does not exist)" rel="nofollow" data-uncrawlable-url="L3dpa2kvU2lsYXNfQ3J1bXAlMjdzX2xvY2tlZF9iZWx0P2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">locked belt</a> which was found in the <a href="/wiki/London_sewers" title="London sewers">London sewers</a>. He would use this to restrain himself during the full <a href="/wiki/Moon" title="Moon">moon</a> as he was an unregistered <a href="/wiki/Werewolf" title="Werewolf">Werewolf</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Silas_Crump?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Silas_Crump?action=edit&amp;section=2" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 4 images related to <i><b><a href="/wiki/Category:Images_of_Silas_Crump" title="Category:Images of Silas Crump">Silas Crump</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<ul><li><i><a href="/wiki/Fantastic_Beasts:_Cases_from_the_Wizarding_World" title="Fantastic Beasts: Cases from the Wizarding World">Fantastic Beasts: Cases from the Wizarding World</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> <small>(Mentioned only)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Silas_Crump?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Silas_Crump?action=edit&amp;section=3" title="Edit section: Notes and references

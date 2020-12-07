@@ -1,0 +1,100 @@
+<div class="mw-parser-output"><table class="notice metadata" cellpadding="3px" style="text-align: center; background: snow; border: #a00 1px solid; margin: 1em 10% 1em 10%;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/3/3e/Notable-magical-names-of-our-time.png/revision/latest?cb=20120204225452" class="image"><img alt="Notable-magical-names-of-our-time.png" src="https://static.wikia.nocookie.net/harrypotter/images/3/3e/Notable-magical-names-of-our-time.png/revision/latest/scale-to-width-down/130?cb=20120204225452" decoding="async" width="130" height="130" data-image-name="Notable-magical-names-of-our-time.png" data-image-key="Notable-magical-names-of-our-time.png" /></a>
+</td>
+<td><b>"He wasn't in <i>Great Wizards of the Twentieth Century</i>, or <i>Notable Magical Names of Our Time</i> [...]"</b>
+<p>The subject of this article does not meet our <a href="/wiki/Harry_Potter_Wiki:Notability_guidelines" title="Harry Potter Wiki:Notability guidelines">notability standards</a>. Although it is based on <a href="/wiki/Canon" title="Canon">canonical</a>/valid information, it was suggested it does not merit its own article and, as such, is to be either deleted or merged with similar articles.
+</p><p>If you disagree with either of these actions, please explain why at <a href="/wiki/Category_talk:Non-notable_articles" title="Category talk:Non-notable articles">Category&#160;talk:Non-notable&#160;articles</a> or improve the page and remove this tag.
+</p><p><small>Remember to check <a href="/wiki/Special:WhatLinksHere/:Two_Unidentified_Ministry_Guards" title="Special:WhatLinksHere/:Two Unidentified Ministry Guards">what links here</a> and <a target="_blank" rel="noreferrer noopener" class="external text" href="https://harrypotter.fandom.com/wiki/Two_Unidentified_Ministry_Guards?action=history">the page history</a> before deleting.</small>
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-mom pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/5/5f/22730203-1D48-4C11-AD75-BDEA7A065D9F.jpeg/revision/latest?cb=20180604111721" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/5/5f/22730203-1D48-4C11-AD75-BDEA7A065D9F.jpeg/revision/latest/scale-to-width-down/350?cb=20180604111721" srcset="https://static.wikia.nocookie.net/harrypotter/images/5/5f/22730203-1D48-4C11-AD75-BDEA7A065D9F.jpeg/revision/latest/scale-to-width-down/350?cb=20180604111721 1x, https://static.wikia.nocookie.net/harrypotter/images/5/5f/22730203-1D48-4C11-AD75-BDEA7A065D9F.jpeg/revision/latest/scale-to-width-down/700?cb=20180604111721 2x" class="pi-image-thumbnail" alt="" width="270" height="309"
+		     data-image-key="22730203-1D48-4C11-AD75-BDEA7A065D9F.jpeg" data-image-name="22730203-1D48-4C11-AD75-BDEA7A065D9F.jpeg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Ministry Guards</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Pure-blood" title="Pure-blood">Pure-blood</a> or <a href="/wiki/Half-blood" title="Half-blood">Half-blood</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="title">
+	
+		<h3 class="pi-data-label pi-secondary-font">Title(s)</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Ministry_Police" title="Ministry Police">Ministry Guards</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Humans</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Males</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">British Ministry of Magic</a><ul><li><a href="/wiki/Ministry_Police" title="Ministry Police">Ministry Police</a></li><li><a href="/wiki/Muggle-Born_Registration_Commission" title="Muggle-Born Registration Commission">Muggle-Born Registration Commission</a></li></ul></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>These Ministry Guards</b>&#160;were <a href="/wiki/Great_Britain" title="Great Britain">British</a> <a href="/wiki/Wizardkind" title="Wizardkind">wizards</a>&#160;who guarded the <a href="/wiki/Muggle-Born_Registration_Commission" title="Muggle-Born Registration Commission">Muggle-Born Registration Commission</a> alongside <a href="/wiki/Corban_Yaxley" title="Corban Yaxley">Corban Yaxley</a> and others in <a href="/wiki/1997" title="1997">1997</a>.
+</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Two_Unidentified_Ministry_Guards?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: History">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Two_Unidentified_Ministry_Guards?action=edit&amp;section=1" title="Edit section: History"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In <a href="/wiki/1997" title="1997">1997</a>, these two Ministry Guard were stationed to guard the <a href="/wiki/Muggle-Born_Registration_Commission_courtroom" title="Muggle-Born Registration Commission courtroom">Muggle-Born Registration Commission courtroom</a> during the trial of <a href="/wiki/Mary_Cattermole" title="Mary Cattermole">Mary Cattermole</a>, overlooked by both <a href="/wiki/Dolores_Umbridge" title="Dolores Umbridge">Dolores Umbridge</a> and <a href="/wiki/Corban_Yaxley" title="Corban Yaxley">Corban Yaxley</a>. However, <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a>, <a href="/wiki/Ronald_Weasley" title="Ronald Weasley">Ronald Weasley</a> and <a href="/wiki/Hermione_Granger" title="Hermione Granger">Hermione Granger</a>, both disguised using <a href="/wiki/Polyjuice_Potion" title="Polyjuice Potion">Polyjuice Potion</a> as <a href="/wiki/Albert_Runcorn" title="Albert Runcorn">Albert Runcorn</a>, <a href="/wiki/Reginald_Cattermole" title="Reginald Cattermole">Reginald Cattermole</a> and <a href="/wiki/Mafalda_Hopkirk" title="Mafalda Hopkirk">Mafalda Hopkirk</a> respectively, hijacked and stopped the corrupt trial, and <a href="/wiki/Stunning_Spell" title="Stunning Spell">stunned</a> these guards, along with Umbridge and Yaxley with offensive <a href="/wiki/Duelling" title="Duelling">duelling</a> <a href="/wiki/Spell" title="Spell">spells</a>, and rescued Mary Cattermole from being given a false and wrongful sentence by Umbridge.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Two_Unidentified_Ministry_Guards?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Two_Unidentified_Ministry_Guards?action=edit&amp;section=2" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1" title="Harry Potter and the Deathly Hallows: Part 1">Harry Potter and the Deathly Hallows: Part 1</a></i> <small>(Possible appearance)</small></li>
+<li><i><a href="/wiki/Lego_Harry_Potter:_Years_5-7" class="mw-redirect" title="Lego Harry Potter: Years 5-7">Lego Harry Potter: Years 5-7</a></i> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Two_Unidentified_Ministry_Guards?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Two_Unidentified_Ministry_Guards?action=edit&amp;section=3" title="Edit section: Notes and references

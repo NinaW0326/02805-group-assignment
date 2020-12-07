@@ -1,0 +1,110 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-mom pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/8/83/Ernest_Hawkworth_-_FB-C.png/revision/latest?cb=20170306190230" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/8/83/Ernest_Hawkworth_-_FB-C.png/revision/latest/scale-to-width-down/350?cb=20170306190230" srcset="https://static.wikia.nocookie.net/harrypotter/images/8/83/Ernest_Hawkworth_-_FB-C.png/revision/latest/scale-to-width-down/350?cb=20170306190230 1x, https://static.wikia.nocookie.net/harrypotter/images/8/83/Ernest_Hawkworth_-_FB-C.png/revision/latest/scale-to-width-down/700?cb=20170306190230 2x" class="pi-image-thumbnail" alt="" width="270" height="331"
+		     data-image-key="Ernest_Hawkworth_-_FB-C.png" data-image-name="Ernest Hawkworth - FB-C.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Ernest Hawkworth</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="alias">
+	
+		<h3 class="pi-data-label pi-secondary-font">Also known as</h3>
+	
+	<div class="pi-data-value pi-font">The Drip</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Grey</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Brown</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a class="new" title="Errol Hawkworth (page does not exist)" rel="nofollow" data-uncrawlable-url="L3dpa2kvRXJyb2xfSGF3a3dvcnRoP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">Errol  Hawkworth</a> (father)</li><li><a class="new" title="Emmett Hawkworth (page does not exist)" rel="nofollow" data-uncrawlable-url="L3dpa2kvRW1tZXR0X0hhd2t3b3J0aD9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=">Emmett Hawkworth</a> (grandfather)</li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Member of the <a href="/wiki/Wizengamot" title="Wizengamot">Wizengamot</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">British Ministry of Magic</a><ul><li><a href="/wiki/Wizengamot" title="Wizengamot">Wizengamot</a></li></ul></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Ernest Hawkworth</b> was a <a href="/wiki/Great_Britain" title="Great Britain">British</a> <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> who worked for the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">British Ministry of Magic</a> as a member of the <a href="/wiki/Wizengamot" title="Wizengamot">Wizengamot</a>. He was involved with the trial of <a href="/wiki/Lydia_Scarlett" title="Lydia Scarlett">Lydia Scarlett</a>, whom he knew from decades ago.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Ernest_Hawkworth?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Ernest_Hawkworth?action=edit&amp;section=1" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Fantastic_Beasts:_Cases_from_the_Wizarding_World" title="Fantastic Beasts: Cases from the Wizarding World">Fantastic Beasts: Cases from the Wizarding World</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Ernest_Hawkworth?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Ernest_Hawkworth?action=edit&amp;section=2" title="Edit section: Notes and references

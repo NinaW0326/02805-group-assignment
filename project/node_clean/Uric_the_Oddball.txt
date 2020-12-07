@@ -1,0 +1,169 @@
+<div class="mw-parser-output"><table class="notice metadata" id="spoiler" style="text-align: center; background: beige; margin: 1em 05%; padding: 0 1em; border: #a00 1px solid;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/8/8c/Hogwarts_Mystery.jpeg/revision/latest?cb=20180504083359" class="image"><img alt="Hogwarts Mystery.jpeg" src="https://static.wikia.nocookie.net/harrypotter/images/8/8c/Hogwarts_Mystery.jpeg/revision/latest/scale-to-width-down/175?cb=20180504083359" decoding="async" width="175" height="77" data-image-name="Hogwarts Mystery.jpeg" data-image-key="Hogwarts_Mystery.jpeg" /></a>
+</td>
+<td><b>Warning!</b>
+<p>At least some content in this article is derived from information featured in <i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i>. Spoilers will be present within the article.
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-ravenclaw pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/e/e8/Uric_the_Oddball.png/revision/latest?cb=20110907140001" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/e/e8/Uric_the_Oddball.png/revision/latest/scale-to-width-down/350?cb=20110907140001" srcset="https://static.wikia.nocookie.net/harrypotter/images/e/e8/Uric_the_Oddball.png/revision/latest/scale-to-width-down/350?cb=20110907140001 1x, https://static.wikia.nocookie.net/harrypotter/images/e/e8/Uric_the_Oddball.png/revision/latest/scale-to-width-down/700?cb=20110907140001 2x" class="pi-image-thumbnail" alt="" width="270" height="379"
+		     data-image-key="Uric_the_Oddball.png" data-image-name="Uric the Oddball.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Uric the Oddball</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/First_millennium_A.D." title="First millennium A.D.">982</a> or later<sup id="cite_ref-birthdate_1-0" class="reference"><a href="#cite_note-birthdate-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Middle_Ages" title="Middle Ages">Middle Ages</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a> or <a href="/wiki/Ireland" title="Ireland">Irish</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">White</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Blue</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="house">
+	
+		<h3 class="pi-data-label pi-secondary-font">House</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Ravenclaw" title="Ravenclaw">Ravenclaw</a><sup id="cite_ref-pottermore_3-0" class="reference"><a href="#cite_note-pottermore-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a><ul><li><a href="/wiki/Ravenclaw" title="Ravenclaw">Ravenclaw</a></li></ul></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Chocolate Frog Cards">"<i>Uric was a strange wizard who lived in ancient times. Among other things, he was famous for wearing a jellyfish as a hat. No one knows if he meant to become the weirdest wizard of the ages or if it just came naturally.</i>"</span></dd>
+<dd>&#8212;<a href="/wiki/Chocolate_Frog_Card" title="Chocolate Frog Card">Chocolate Frog Card</a><sup class="noprint"><a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Uric the Oddball</b> was a <a href="/wiki/Middle_Ages" title="Middle Ages">medieval</a> <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a>, who became famous for his eccentric behaviour, such as wearing a <a href="/wiki/Jellyfish" title="Jellyfish">jellyfish</a> as a hat, and sleeping in a room with fifty pet <a href="/wiki/Augurey" title="Augurey">Augureys</a>. He is considered to be one of the most unconventional and weirdest wizards in history, and, as such, is often the punchline of <a href="/wiki/Wizarding_world" title="Wizarding world">wizarding</a> jokes.<sup id="cite_ref-pottermore_3-1" class="reference"><a href="#cite_note-pottermore-3">&#91;3&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_life"><span class="tocnumber">1.1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Adulthood"><span class="tocnumber">1.2</span> <span class="toctext">Adulthood</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Death_and_post-mortem"><span class="tocnumber">1.3</span> <span class="toctext">Death and post-mortem</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Appearances"><span class="tocnumber">2</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Notes_and_references"><span class="tocnumber">3</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Uric_the_Oddball?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Uric_the_Oddball?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Uric_the_Oddball?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Early life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Uric_the_Oddball?action=edit&amp;section=2" title="Edit section: Early life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Pottermore">"<i>Well, I did say we </i>[Ravenclaws]<i> produce eccentrics. In fact, we are also the house that gave the wizarding world Uric the Oddball, who used a jellyfish for a hat. He's the punchline of a lot of wizarding jokes.</i>"</span></dd>
+<dd>&#8212;<a href="/wiki/Robert_Hilliard" title="Robert Hilliard">Robert Hilliard</a>.<sup class="noprint"><a href="/wiki/Pottermore" title="Pottermore">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p>Uric was born in the Middle Ages, no earlier than <a href="/wiki/First_millennium_A.D." title="First millennium A.D.">982</a>,<sup id="cite_ref-birthdate_1-1" class="reference"><a href="#cite_note-birthdate-1">&#91;1&#93;</a></sup> somewhere in the <a href="/wiki/Great_Britain" title="Great Britain">British Isles</a>. In his youth, Uric attended <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a>, where he was <a href="/wiki/Sorting_ceremony" title="Sorting ceremony">Sorted</a> into <a href="/wiki/Ravenclaw" title="Ravenclaw">Ravenclaw</a>.<sup id="cite_ref-pottermore_3-2" class="reference"><a href="#cite_note-pottermore-3">&#91;3&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Adulthood">Adulthood</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Uric_the_Oddball?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Adulthood">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Uric_the_Oddball?action=edit&amp;section=3" title="Edit section: Adulthood"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="thumb tleft show-info-icon" style="width: 202px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/5/58/OddballUSAcard.png/revision/latest?cb=20110907151411" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/5/58/OddballUSAcard.png/revision/latest/scale-to-width-down/200?cb=20110907151411" decoding="async" width="200" height="280" class="thumbimage" data-image-name="OddballUSAcard.png" data-image-key="OddballUSAcard.png" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:OddballUSAcard.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Uric the Oddball in his trademark jellyfish hat</p> 		 	</figcaption> </figure>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Fantastic Beasts and Where to Find Them (real)">"<i>Uric the Oddball is known to have slept in a room containing no fewer than fifty pet Augureys. During one particularly wet winter, Uric became convinced by the moaning of his Augureys that he had died and was now a ghost. His subsequent attempts to walk through the walls of his house resulted in what his biographer Radolphus Pittiman describes as a "concussion of ten days' duration."</i>"</span></dd>
+<dd>&#8212;<a href="/wiki/Newton_Scamander" title="Newton Scamander">Newton Scamander</a>, <i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them" title="Fantastic Beasts and Where to Find Them">Fantastic Beasts and Where to Find Them</a></i>.<sup class="noprint"><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(real)" class="mw-redirect" title="Fantastic Beasts and Where to Find Them (real)">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p>At some point, Uric became famous for wearing a <a href="/wiki/Jellyfish" title="Jellyfish">jellyfish</a> for a hat. This, among other things, is still what Uric is best remembered for.<sup id="cite_ref-PSg_4-0" class="reference"><a href="#cite_note-PSg-4">&#91;4&#93;</a></sup>
+</p><p>Uric was known to have slept in a room with fifty pet <a href="/wiki/Augurey" title="Augurey">Augureys</a>. The Augurey's distinctive low and throbbing cry was once believed to foretell death, although the bird actually cries at the approach of <a href="/wiki/Water" title="Water">rain</a>. On a particularly rainy winter, the moaning of his <a href="/wiki/Augurey" title="Augurey">Augureys</a> convinced Uric that he was <a href="/wiki/Death" title="Death">dead</a>, and had returned as a <a href="/wiki/Ghost" title="Ghost">ghost</a>. He constantly attempted to walk through the walls of his house, which resulted in a ten-day long concussion.<sup id="cite_ref-FB_5-0" class="reference"><a href="#cite_note-FB-5">&#91;5&#93;</a></sup>
+</p><p>At one time, Uric the Oddball attempted to prove that the song of the <a href="/wiki/Fwooper" title="Fwooper">Fwooper</a> was actually beneficial to one's health. After listening to it for three months without a break, he presented his findings to the <a href="/wiki/Wizards%27_Council" title="Wizards&#39; Council">Wizards' Council</a>. The Council was left unconvinced, as Uric arrived at the meeting wearing nothing but a toupee that, on closer inspection, proved to be a dead <a href="/wiki/Badger" title="Badger">badger</a>.<sup id="cite_ref-FB_5-1" class="reference"><a href="#cite_note-FB-5">&#91;5&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Death_and_post-mortem">Death and post-mortem</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Uric_the_Oddball?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Death and post-mortem">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Uric_the_Oddball?action=edit&amp;section=4" title="Edit section: Death and post-mortem"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Philosopher&#39;s Stone">"<i>Easily the most boring class was History of Magic, which was the only one taught by a ghost. Professor Binns </i>[…]<i> droned on and on while they scribbled down names and dates, and got Emeric the Evil and Uric the Oddball mixed up.</i>"</span></dd>
+<dd>&#8212;Description.<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone" title="Harry Potter and the Philosopher&#39;s Stone">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p>Uric died sometime in the Middle Ages. In honour of his eccentricity, a small biography of him was recorded on a <a href="/wiki/Chocolate_Frog_Card" title="Chocolate Frog Card">Chocolate Frog Card</a>.<sup id="cite_ref-PSg_4-1" class="reference"><a href="#cite_note-PSg-4">&#91;4&#93;</a></sup> At some point, <a href="/wiki/Radolphus_Pittiman" title="Radolphus Pittiman">Radolphus Pittiman</a> studied Uric's life, and became his biographer.<sup id="cite_ref-FB_5-2" class="reference"><a href="#cite_note-FB-5">&#91;5&#93;</a></sup>
+</p><p>In the <a href="/wiki/1989%E2%80%931990_school_year" title="1989–1990 school year">1989–1990 school year</a>, Uric the Oddball was the subject of a Sixth-Year History of Magic lecture, and one of the very few delivered by Binns to evoke any interest from the students; <a href="/wiki/Charles_Weasley" title="Charles Weasley">Charles Weasley</a> thought he seemed like a laugh and wanted to meet him, <a href="/wiki/Andre_Egwu" title="Andre Egwu">Andre Egwu</a> respected his dodgy but creative fashion sense, <a href="/wiki/Ben_Copper" title="Ben Copper">Ben Copper</a> respected his courage to be whatever he wanted to be, and <a href="/wiki/Tulip_Karasu" title="Tulip Karasu">Tulip Karasu</a>, herself often considered eccentric and chaotic, called him an artist ahead of his times.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p><p>In the <a href="/wiki/1991-1992_school_year" class="mw-redirect" title="1991-1992 school year">1991-1992 school year</a>, students of <a href="/wiki/History_of_Magic" title="History of Magic">History of Magic</a> at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> would scribble down names and dates, and mix up Uric the Oddball with <a href="/wiki/Emeric_the_Evil" title="Emeric the Evil">Emeric the Evil</a>, while <a href="/wiki/Cuthbert_Binns" title="Cuthbert Binns">Professor Binns</a> droned on.<sup id="cite_ref-PS8_7-0" class="reference"><a href="#cite_note-PS8-7">&#91;7&#93;</a></sup>
+</p><p>On <a href="/wiki/1_September" title="1 September">1 September</a>, <a href="/wiki/1991" title="1991">1991</a>, <a href="/wiki/Prefect" title="Prefect">Prefect</a> <a href="/wiki/Robert_Hilliard" title="Robert Hilliard">Robert Hilliard</a> welcomed the <a href="/wiki/Ravenclaw" title="Ravenclaw">Ravenclaw</a> <a href="/wiki/First_year" title="First year">first years</a> to <a href="/wiki/Ravenclaw_Tower" title="Ravenclaw Tower">Ravenclaw Tower</a> with a short speech in which he mentioned eccentric Uric the Oddball as one of the many notable Hogwarts students who had been <a href="/wiki/Sorting_ceremony" title="Sorting ceremony">Sorted</a>, like them, into Ravenclaw.<sup id="cite_ref-pottermore_3-3" class="reference"><a href="#cite_note-pottermore-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Uric_the_Oddball?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Uric_the_Oddball?action=edit&amp;section=5" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 9 images related to <i><b><a href="/wiki/Category:Images_of_Uric_the_Oddball" title="Category:Images of Uric the Oddball">Uric the Oddball</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone" title="Harry Potter and the Philosopher&#39;s Stone">Harry Potter and the Philosopher's Stone</a></i> <small>(First mentioned)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(video_game)" title="Harry Potter and the Philosopher&#39;s Stone (video game)">Harry Potter and the Philosopher's Stone (video game)</a></i> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(video_game)" title="Harry Potter and the Chamber of Secrets (video game)">Harry Potter and the Chamber of Secrets (video game)</a></i> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li>
+<li><i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(companion_book)" title="Fantastic Beasts and Where to Find Them (companion book)">Fantastic Beasts and Where to Find Them</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Wizard_of_the_Month" title="Wizard of the Month">Wizard of the Month</a></i></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i> <small>(Mentioned only)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Uric_the_Oddball?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Uric_the_Oddball?action=edit&amp;section=6" title="Edit section: Notes and references

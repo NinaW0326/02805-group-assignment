@@ -1,0 +1,75 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/1/1b/PodricBatworthy2.jpg/revision/latest?cb=20141127220054" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/1/1b/PodricBatworthy2.jpg/revision/latest/scale-to-width-down/277?cb=20141127220054" srcset="https://static.wikia.nocookie.net/harrypotter/images/1/1b/PodricBatworthy2.jpg/revision/latest/scale-to-width-down/277?cb=20141127220054 1x, https://static.wikia.nocookie.net/harrypotter/images/1/1b/PodricBatworthy2.jpg/revision/latest/scale-to-width-down/554?cb=20141127220054 2x" class="pi-image-thumbnail" alt="" width="270" height="487"
+		     data-image-key="PodricBatworthy2.jpg" data-image-name="PodricBatworthy2.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Podric Batworthy</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font">After <a href="/wiki/1401" class="mw-redirect" title="1401">1401</a><sup id="cite_ref-pottermore-ordermerlin_1-0" class="reference"><a href="#cite_note-pottermore-ordermerlin-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="title">
+	
+		<h3 class="pi-data-label pi-secondary-font">Title(s)</h3>
+	
+	<div class="pi-data-value pi-font">Grand Sorcerer</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Podric_Batworthy_XXIII" title="Podric Batworthy XXIII">Podric Batworthy XXIII</a> (descendant)</div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Podric Batworthy</b>, <span class="template-c"><a href="/wiki/Order_of_Merlin" title="Order of Merlin">O.M. (First Class)</a></span>, <span class="template-c">(<a href="/wiki/Grand_Sorcerer" title="Grand Sorcerer">Grand Sorc.</a>)</span>, was a <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> whose <a href="/wiki/Portrait" title="Portrait">portrait</a> hung at <a href="/wiki/Hogwarts_Castle" title="Hogwarts Castle">Hogwarts Castle</a> in the <a href="/wiki/1990s" title="1990s">1990s</a>.<sup id="cite_ref-HPLE_2-0" class="reference"><a href="#cite_note-HPLE-2">&#91;2&#93;</a></sup> Batworthy lived in or after the <a href="/wiki/15th_century" title="15th century">15th century</a>, seeing as that was when the <a href="/wiki/Wizengamot" title="Wizengamot">Wizengamot</a> created the <a href="/wiki/Order_of_Merlin" title="Order of Merlin">Order of Merlin</a> award.<sup id="cite_ref-pottermore-ordermerlin_1-1" class="reference"><a href="#cite_note-pottermore-ordermerlin-1">&#91;1&#93;</a></sup>
+</p><p>Podric Batworthy is, in all likelihood, an ancestor of <a href="/wiki/Podric_Batworthy_XXIII" title="Podric Batworthy XXIII">Podric Batworthy XXIII</a>, who ran <a href="/wiki/Beard_Trimming" title="Beard Trimming">Beard Trimming</a> in <a href="/wiki/Diagon_Alley" title="Diagon Alley">Diagon Alley</a> in the <a href="/wiki/1990s" title="1990s">1990s</a>.
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Podric_Batworthy?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Podric_Batworthy?action=edit&amp;section=1" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>The portrait of Podric Batworthy appears to be based on <a target="_blank" rel="noreferrer noopener" class="external text" href="https://commons.wikimedia.org/wiki/File:Charles_Dickens_by_Daniel_Maclise.jpg">an 1839 portrait of Charles Dickens by Daniel Maclise</a>.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Podric_Batworthy?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Podric_Batworthy?action=edit&amp;section=2" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Harry_Potter_films" class="mw-redirect" title="Harry Potter films"><i>Harry Potter</i> films</a> <small>(Appears in portrait(s))</small></li>
+<li><i><a href="/wiki/Harry_Potter_Limited_Edition" title="Harry Potter Limited Edition">Harry Potter Limited Edition</a></i> <small>(Appears in portrait(s))</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Podric_Batworthy?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Podric_Batworthy?action=edit&amp;section=3" title="Edit section: Notes and references

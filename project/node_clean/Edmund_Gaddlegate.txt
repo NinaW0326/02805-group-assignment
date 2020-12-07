@@ -1,0 +1,97 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-muggle pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/d/d7/EdmundGaddlegate.png/revision/latest?cb=20121118160358" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/d/d7/EdmundGaddlegate.png/revision/latest/scale-to-width-down/119?cb=20121118160358" srcset="https://static.wikia.nocookie.net/harrypotter/images/d/d7/EdmundGaddlegate.png/revision/latest/scale-to-width-down/119?cb=20121118160358 1x, https://static.wikia.nocookie.net/harrypotter/images/d/d7/EdmundGaddlegate.png/revision/latest/scale-to-width-down/238?cb=20121118160358 2x" class="pi-image-thumbnail" alt="" width="119" height="226"
+		     data-image-key="EdmundGaddlegate.png" data-image-name="EdmundGaddlegate.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Edmund Gaddlegate</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/15th_century" title="15th century">15th century</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font">English</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Brown</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Edmund_Gaddlegate%27s_mother" title="Edmund Gaddlegate&#039;s mother">Mrs Gaddlegate</a> (mother)</div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+<b>Edmund Gaddlegate</b> was a <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> boy who lived in the village of <a href="/wiki/Poppleton" title="Poppleton">Poppleton</a>, <a href="/wiki/England" title="England">England</a> in the late <a href="/wiki/15th_century" title="15th century">15th century</a>.
+</p>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Edmund_Gaddlegate?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Edmund_Gaddlegate?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In <a href="/wiki/1484" class="mw-redirect" title="1484">1484</a>, the <a href="/wiki/Earl_of_Paunchley" title="Earl of Paunchley">Earl of Paunchley</a>, the tyrannical noble who lorded over the village of <a href="/wiki/Poppleton" title="Poppleton">Poppleton</a>, <a href="/wiki/England" title="England">England</a>, decided to hold a <a href="/wiki/Jousting_tournament" title="Jousting tournament">Jousting tournament</a> on the grounds of his castle.<sup id="cite_ref-WBoS_1-0" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup>
+</p><p>An hour before the competition was set to begin, Edmund was ordered by the Earl to hang banners and pennants, and accidentally fell out of a tree in the process and broke one of his legs. Edmund's <a href="/wiki/Edmund_Gaddlegate%27s_mother" title="Edmund Gaddlegate&#39;s mother">mother</a> put him to bed, then sent word to the Earl that her son would be unable to watch the match, which he had mandated all residents of Poppleton attend.<sup id="cite_ref-WBoS_1-1" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup>
+</p><p>The Earl responded by dispatching four of his henchmen to bring Edmund and his mother to the castle. Edmund's mother was told by the Earl that as punishment, Edmund would be tied to a <a href="/wiki/Horse" title="Horse">horse</a> and forced to joust against him, as well as all of the <a href="/wiki/Knight" title="Knight">knights</a> who had gathered to compete. However, when the knights learned that the Earl expected them to joust against a boy with a broken leg, they left in disgust, refusing to partake in the Tournament. The Earl, furious, thus announced that he alone would joust against Edmund.<sup id="cite_ref-WBoS_1-2" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup>
+</p><p>As the Earl charged at Edmund, a <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> in the crowd, <a href="/wiki/Hannah_Cockleford" title="Hannah Cockleford">Hannah Cockleford</a>, cast a <a href="/wiki/Shield_Charm" title="Shield Charm">Shield Charm</a> between them. Slamming into the spell, the Earl was knocked back, and his horse landed on top of him. Though he survived, for the rest of his life, the Earl believed he was a <a href="/wiki/Donkey" title="Donkey">donkey</a> named Hairy Cyril.<sup id="cite_ref-WBoS_1-3" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Edmund_Gaddlegate?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Edmund_Gaddlegate?action=edit&amp;section=2" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Wonderbook:_Book_of_Spells" title="Wonderbook: Book of Spells">Wonderbook: Book of Spells</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Edmund_Gaddlegate?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Edmund_Gaddlegate?action=edit&amp;section=3" title="Edit section: Notes and references

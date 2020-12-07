@@ -1,0 +1,149 @@
+<div class="mw-parser-output"><table class="notice metadata" id="spoiler" style="text-align: center; background: beige; margin: 1em 05%; padding: 0 1em; border: #a00 1px solid;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/0/0c/Hand_pointing_right_transparent.png/revision/latest?cb=20181112005815" class="image"><img alt="Hand pointing right transparent.png" src="https://static.wikia.nocookie.net/harrypotter/images/0/0c/Hand_pointing_right_transparent.png/revision/latest/scale-to-width-down/150?cb=20181112005815" decoding="async" width="150" height="75" data-image-name="Hand pointing right transparent.png" data-image-key="Hand_pointing_right_transparent.png" /></a>
+</td>
+<td><b>Warning!</b>
+<p>At least some content in this article is derived from information featured in <i><a href="/wiki/Harry_Potter:_Puzzles_%26_Spells" title="Harry Potter: Puzzles &amp; Spells">Harry Potter: Puzzles &amp; Spells</a></i>&#32; and <i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i>.<br />As such, spoilers will be present within the article.
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-creature pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/b/ba/Mountain_Troll.png/revision/latest?cb=20161129174923" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/b/ba/Mountain_Troll.png/revision/latest/scale-to-width-down/350?cb=20161129174923" srcset="https://static.wikia.nocookie.net/harrypotter/images/b/ba/Mountain_Troll.png/revision/latest/scale-to-width-down/350?cb=20161129174923 1x, https://static.wikia.nocookie.net/harrypotter/images/b/ba/Mountain_Troll.png/revision/latest/scale-to-width-down/700?cb=20161129174923 2x" class="pi-image-thumbnail" alt="" width="270" height="270"
+		     data-image-key="Mountain_Troll.png" data-image-name="Mountain Troll.png"/>
+		
+	</a>
+	
+</figure>
+
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Mountain troll</h2>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Species information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Pale grey</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>None (bald)</li><li><a href="/wiki/Troll_whisker" title="Troll whisker">Whiskers</a></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="related">
+	
+		<h3 class="pi-data-label pi-secondary-font">Related to</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/River_troll" title="River troll">River trolls</a></li><li><a href="/wiki/Forest_troll" title="Forest troll">Forest trolls</a></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="native">
+	
+		<h3 class="pi-data-label pi-secondary-font">Native to</h3>
+	
+	<div class="pi-data-value pi-font">Mountainous countryside</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="alias">
+	
+		<h3 class="pi-data-label pi-secondary-font">Alternative names</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Troll" title="Troll">Troll</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="height">
+	
+		<h3 class="pi-data-label pi-secondary-font">Height of average adult</h3>
+	
+	<div class="pi-data-value pi-font">12 feet</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="distinction">
+	
+		<h3 class="pi-data-label pi-secondary-font">Distinction</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>Giant Club</li><li>Small head on large body</li><li><a href="/wiki/Superhuman_strength" title="Superhuman strength">Great strength</a></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="class">
+	
+		<h3 class="pi-data-label pi-secondary-font"><a href="/wiki/Department_for_the_Regulation_and_Control_of_Magical_Creatures#Ministry_Classification_of_Magical_Creatures" title="Department for the Regulation and Control of Magical Creatures">Ministry of Magic Classification</a></h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Beast" title="Beast">Beast</a> <br/> XXXX</li><li><a href="/wiki/Being" title="Being">Being</a> (formerly)</li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="status">
+	
+		<h3 class="pi-data-label pi-secondary-font">Status</h3>
+	
+	<div class="pi-data-value pi-font">Extant</div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Creature_infobox" title="Template:Creature infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Philosopher&#39;s Stone">"<i>There are some things you can't share without ending up liking each other, and knocking out a twelve-foot mountain troll is one of them.</i>"</span></dd>
+<dd>&#8212;How facing a mountain troll made the <a href="/wiki/Trio" title="Trio">trio</a> friends<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone" title="Harry Potter and the Philosopher&#39;s Stone">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p>The <b>mountain troll</b> (<i>Troglodytarum alpinum</i>)<sup id="cite_ref-PSdeluxe_1-0" class="reference"><a href="#cite_note-PSdeluxe-1">&#91;1&#93;</a></sup> is a breed of <a href="/wiki/Troll" title="Troll">troll</a>. 
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Uses"><span class="tocnumber">3</span> <span class="toctext">Uses</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Known_Mountain_Trolls"><span class="tocnumber">4</span> <span class="toctext">Known Mountain Trolls</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Appearances"><span class="tocnumber">5</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Notes_and_references"><span class="tocnumber">6</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Description">Description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mountain_troll?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Description">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mountain_troll?action=edit&amp;section=1" title="Edit section: Description"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tleft show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/f/f7/Baby_Troll_WU.png/revision/latest?cb=20201105083506" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/f/f7/Baby_Troll_WU.png/revision/latest/scale-to-width-down/180?cb=20201105083506" decoding="async" width="180" height="180" class="thumbimage" data-image-name="Baby Troll WU.png" data-image-key="Baby_Troll_WU.png" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Baby_Troll_WU.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Baby Troll</p> 		 	</figcaption> </figure><p>They are the largest breed, weighing over a tonne,<sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></sup> and the most vicious kind of their species. They are often bald <a href="/wiki/Beast" title="Beast">beasts</a> with thick, dark grey skin. They sometimes use <a href="/wiki/Graphorn" title="Graphorn">Graphorns</a> as mounts, which results in them being scared due to Graphorns heavily disliking such travel.<sup id="cite_ref-FBR_3-0" class="reference"><a href="#cite_note-FBR-3">&#91;3&#93;</a></sup>
+</p><h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mountain_troll?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: History">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mountain_troll?action=edit&amp;section=2" title="Edit section: History"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tright show-info-icon" style="width: 252px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/f/f8/Mountain_Troll.gif/revision/latest?cb=20140406132355" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/f/f8/Mountain_Troll.gif/revision/latest/scale-to-width-down/250?cb=20140406132355" decoding="async" width="250" height="106" class="thumbimage" data-image-name="Mountain Troll.gif" data-image-key="Mountain_Troll.gif" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Mountain_Troll.gif" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Quirrell's mountain troll holding its club</p> 		 	</figcaption> </figure>
+<figure class="thumb tright show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/9/97/MountainTrollWU.png/revision/latest?cb=20200718192455" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="180" height="234" class="thumbimage lazyload" data-image-name="MountainTrollWU.png" data-image-key="MountainTrollWU.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/9/97/MountainTrollWU.png/revision/latest/scale-to-width-down/180?cb=20200718192455" /></a> 	<noscript><a href="https://static.wikia.nocookie.net/harrypotter/images/9/97/MountainTrollWU.png/revision/latest?cb=20200718192455" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/9/97/MountainTrollWU.png/revision/latest/scale-to-width-down/180?cb=20200718192455" decoding="async" width="180" height="234" class="thumbimage" data-image-name="MountainTrollWU.png" data-image-key="MountainTrollWU.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/9/97/MountainTrollWU.png/revision/latest/scale-to-width-down/180?cb=20200718192455" /></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:MountainTrollWU.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">An adult Mountain troll</p> 		 	</figcaption> </figure>
+<p>A band of mountain trolls were wreaking havoc in <a href="/wiki/Liechtenstein" title="Liechtenstein">Liechtenstein</a>, which led to <a href="/wiki/Pierre_Bonaccord" title="Pierre Bonaccord">Pierre Bonaccord</a>'s position as <a href="/wiki/Supreme_Mugwump" title="Supreme Mugwump">Supreme Mugwump</a> of the <a href="/wiki/International_Confederation_of_Wizards" title="International Confederation of Wizards">International Confederation of Wizards</a> being challenged by the local wizarding community, as he tried to ban troll-hunting and grant them rights at the time.
+</p><p><a href="/wiki/Quirinus_Quirrell%27s_first_mountain_troll" title="Quirinus Quirrell&#39;s first mountain troll">A male mountain troll</a> was used as a diversion so that <a href="/wiki/Professor" title="Professor">Professor</a> <a href="/wiki/Quirinus_Quirrell" title="Quirinus Quirrell">Quirinus Quirrell</a> could attempt to get past <a href="/wiki/Fluffy" title="Fluffy">Fluffy</a> to capture the <a href="/wiki/Philosopher%27s_Stone" title="Philosopher&#39;s Stone">Philosopher's Stone</a> for his master, <a href="/wiki/Tom_Riddle" title="Tom Riddle">Lord Voldemort</a>.<sup id="cite_ref-PS10_4-0" class="reference"><a href="#cite_note-PS10-4">&#91;4&#93;</a></sup>
+</p><p>Late in August <a href="/wiki/2020" title="2020">2020</a>, Mountain trolls rode <a href="/wiki/Graphorn" title="Graphorn">graphorns</a> through <a href="/wiki/Hungary" title="Hungary">Hungary</a>.<sup id="cite_ref-CC_5-0" class="reference"><a href="#cite_note-CC-5">&#91;5&#93;</a></sup>.
+</p>
+<h2><span class="mw-headline" id="Uses">Uses</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mountain_troll?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Uses">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mountain_troll?action=edit&amp;section=3" title="Edit section: Uses"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Troll_whisker" title="Troll whisker">Troll whiskers</a> can sometimes be used as wand cores.<sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup></sup>
+</p>
+<h2><span class="mw-headline" id="Known_Mountain_Trolls">Known Mountain Trolls</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mountain_troll?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Known Mountain Trolls">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mountain_troll?action=edit&amp;section=4" title="Edit section: Known Mountain Trolls"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Quirinus_Quirrell%27s_first_mountain_troll" title="Quirinus Quirrell&#39;s first mountain troll">Quirinus Quirrell's first mountain troll</a></li>
+<li><a href="/wiki/Quirinus_Quirrell%27s_second_mountain_troll" title="Quirinus Quirrell&#39;s second mountain troll">Quirinus Quirrell's second mountain troll</a></li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mountain_troll?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mountain_troll?action=edit&amp;section=5" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tright show-info-icon" style="width: 208px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/3/34/MountainTroll_WB_F2_TrollConceptIllustration_Illust_080615_Port.jpg/revision/latest?cb=20161226152011" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="206" height="220" class="thumbimage lazyload" data-image-name="MountainTroll WB F2 TrollConceptIllustration Illust 080615 Port.jpg" data-image-key="MountainTroll_WB_F2_TrollConceptIllustration_Illust_080615_Port.jpg" data-src="https://static.wikia.nocookie.net/harrypotter/images/3/34/MountainTroll_WB_F2_TrollConceptIllustration_Illust_080615_Port.jpg/revision/latest/scale-to-width-down/206?cb=20161226152011" /></a> 	<noscript><a href="https://static.wikia.nocookie.net/harrypotter/images/3/34/MountainTroll_WB_F2_TrollConceptIllustration_Illust_080615_Port.jpg/revision/latest?cb=20161226152011" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/3/34/MountainTroll_WB_F2_TrollConceptIllustration_Illust_080615_Port.jpg/revision/latest/scale-to-width-down/206?cb=20161226152011" decoding="async" width="206" height="220" class="thumbimage" data-image-name="MountainTroll WB F2 TrollConceptIllustration Illust 080615 Port.jpg" data-image-key="MountainTroll_WB_F2_TrollConceptIllustration_Illust_080615_Port.jpg" data-src="https://static.wikia.nocookie.net/harrypotter/images/3/34/MountainTroll_WB_F2_TrollConceptIllustration_Illust_080615_Port.jpg/revision/latest/scale-to-width-down/206?cb=20161226152011" /></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:MountainTroll_WB_F2_TrollConceptIllustration_Illust_080615_Port.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Mountain troll concept art</p> 		 	</figcaption> </figure>
+<figure class="thumb tright show-info-icon" style="width: 222px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/f/fc/Lego-harry-potter-years-1-4-troll.jpg/revision/latest?cb=20110226005123" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="220" height="124" class="thumbimage lazyload" data-image-name="Lego-harry-potter-years-1-4-troll.jpg" data-image-key="Lego-harry-potter-years-1-4-troll.jpg" data-src="https://static.wikia.nocookie.net/harrypotter/images/f/fc/Lego-harry-potter-years-1-4-troll.jpg/revision/latest/scale-to-width-down/220?cb=20110226005123" /></a> 	<noscript><a href="https://static.wikia.nocookie.net/harrypotter/images/f/fc/Lego-harry-potter-years-1-4-troll.jpg/revision/latest?cb=20110226005123" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/f/fc/Lego-harry-potter-years-1-4-troll.jpg/revision/latest/scale-to-width-down/220?cb=20110226005123" decoding="async" width="220" height="124" class="thumbimage" data-image-name="Lego-harry-potter-years-1-4-troll.jpg" data-image-key="Lego-harry-potter-years-1-4-troll.jpg" data-src="https://static.wikia.nocookie.net/harrypotter/images/f/fc/Lego-harry-potter-years-1-4-troll.jpg/revision/latest/scale-to-width-down/220?cb=20110226005123" /></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Lego-harry-potter-years-1-4-troll.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">A Mountain Troll in <i><a href="/wiki/LEGO_Harry_Potter:_Years_1-4" title="LEGO Harry Potter: Years 1-4">LEGO Harry Potter: Years 1-4</a></i></p> 		 	</figcaption> </figure>
+<figure class="thumb tright show-info-icon" style="width: 222px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/8/82/Troll1-0.jpg/revision/latest?cb=20160109180856" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="220" height="265" class="thumbimage lazyload" data-image-name="Troll1-0.jpg" data-image-key="Troll1-0.jpg" data-src="https://static.wikia.nocookie.net/harrypotter/images/8/82/Troll1-0.jpg/revision/latest/scale-to-width-down/220?cb=20160109180856" /></a> 	<noscript><a href="https://static.wikia.nocookie.net/harrypotter/images/8/82/Troll1-0.jpg/revision/latest?cb=20160109180856" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/8/82/Troll1-0.jpg/revision/latest/scale-to-width-down/220?cb=20160109180856" decoding="async" width="220" height="265" class="thumbimage" data-image-name="Troll1-0.jpg" data-image-key="Troll1-0.jpg" data-src="https://static.wikia.nocookie.net/harrypotter/images/8/82/Troll1-0.jpg/revision/latest/scale-to-width-down/220?cb=20160109180856" /></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Troll1-0.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">The large Lego figurine of a mountain troll</p> 		 	</figcaption> </figure>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone" title="Harry Potter and the Philosopher&#39;s Stone">Harry Potter and the Philosopher's Stone</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(film)" title="Harry Potter and the Philosopher&#39;s Stone (film)">Harry Potter and the Philosopher's Stone (film)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(video_game)" title="Harry Potter and the Philosopher&#39;s Stone (video game)">Harry Potter and the Philosopher's Stone (video game)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(video_game)" title="Harry Potter and the Prisoner of Azkaban (video game)">Harry Potter and the Prisoner of Azkaban (video game)</a></i> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(video_game)" title="Harry Potter and the Order of the Phoenix (video game)">Harry Potter and the Order of the Phoenix (video game)</a></i> <span class="template-c">(<a href="/wiki/Exploding_Snap" title="Exploding Snap">Exploding Snap</a> <a href="/wiki/Famous_Witches_and_Wizards_Cards" title="Famous Witches and Wizards Cards">Famous Wizards Card</a>)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_2_(video_game)" title="Harry Potter and the Deathly Hallows: Part 2 (video game)">Harry Potter and the Deathly Hallows: Part 2 (video game)</a></i> <span class="template-c">(Appears in <a href="/wiki/Memory" title="Memory">Memory</a>)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Cursed_Child" title="Harry Potter and the Cursed Child">Harry Potter and the Cursed Child</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Cursed_Child_(play)" title="Harry Potter and the Cursed Child (play)">Harry Potter and the Cursed Child (play)</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(companion_book)" title="Fantastic Beasts and Where to Find Them (companion book)">Fantastic Beasts and Where to Find Them</a></i></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter:_Building_the_Magical_World" title="LEGO Harry Potter: Building the Magical World">LEGO Harry Potter: Building the Magical World</a></i></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter:_Years_1-4" title="LEGO Harry Potter: Years 1-4">LEGO Harry Potter: Years 1-4</a></i></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter" title="LEGO Harry Potter">LEGO Harry Potter</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_Trading_Card_Game" title="Harry Potter Trading Card Game">Harry Potter Trading Card Game</a></i></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_for_Kinect" title="Harry Potter for Kinect">Harry Potter for Kinect</a></i></li>
+<li><i><a href="/wiki/Harry_Potter:_The_Creature_Vault" title="Harry Potter: The Creature Vault">Harry Potter: The Creature Vault</a></i></li>
+<li><i><a href="/wiki/Fantastic_Beasts:_Cases_from_the_Wizarding_World" title="Fantastic Beasts: Cases from the Wizarding World">Fantastic Beasts: Cases from the Wizarding World</a></i></li>
+<li><i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i></li>
+<li><i><a href="/wiki/Harry_Potter:_Puzzles_%26_Spells" title="Harry Potter: Puzzles &amp; Spells">Harry Potter: Puzzles &amp; Spells</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mountain_troll?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mountain_troll?action=edit&amp;section=6" title="Edit section: Notes and references

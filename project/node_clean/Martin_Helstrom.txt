@@ -1,0 +1,83 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/f/f2/Nordic.JPG/revision/latest?cb=20110602194442" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/f/f2/Nordic.JPG/revision/latest/scale-to-width-down/341?cb=20110602194442" srcset="https://static.wikia.nocookie.net/harrypotter/images/f/f2/Nordic.JPG/revision/latest/scale-to-width-down/341?cb=20110602194442 1x, https://static.wikia.nocookie.net/harrypotter/images/f/f2/Nordic.JPG/revision/latest/scale-to-width-down/682?cb=20110602194442 2x" class="pi-image-thumbnail" alt="" width="270" height="139"
+		     data-image-key="Nordic.JPG" data-image-name="Nordic.JPG"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Martin "Tiny" Helstrom</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="alias">
+	
+		<h3 class="pi-data-label pi-secondary-font">Also known as</h3>
+	
+	<div class="pi-data-value pi-font">Tiny</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="title">
+	
+		<h3 class="pi-data-label pi-secondary-font">Title(s)</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Keeper" title="Keeper">Keeper</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Keeper" title="Keeper">Keeper</a> for the <a href="/wiki/Nordic_National_Quidditch_team" title="Nordic National Quidditch team">Nordic National Quidditch team</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Nordic_National_Quidditch_team" title="Nordic National Quidditch team">Nordic National Quidditch team</a></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Martin "Tiny" Helstrom</b> was Nordic <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> who played as <a href="/wiki/Keeper" title="Keeper">Keeper</a> on the <a href="/wiki/Nordic_National_Quidditch_team" title="Nordic National Quidditch team">Nordic National Quidditch team</a> during the four-hundred and twenty-second <a href="/wiki/Quidditch_World_Cup" title="Quidditch World Cup">Quidditch World Cup</a>, in <a href="/wiki/1994" title="1994">1994</a>.
+</p><p>During the <a href="/wiki/1996%E2%80%931997_school_year" title="1996–1997 school year">1996–1997 school year</a>, Helstrom's <a href="/wiki/Chocolate_Frog_Card" title="Chocolate Frog Card">Chocolate Frog Card</a> was able to be won by beating <a href="/wiki/Ronald_Weasley" title="Ronald Weasley">Ronald Weasley</a> at a <a href="/wiki/Duelling" title="Duelling">duelling</a> challenge.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Martin_Helstrom?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Martin_Helstrom?action=edit&amp;section=1" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>The name "Martin" comes from the Roman name Martinus, which was derived from Martis, the genitive case of the name of the Roman god MARS. Saint Martin of Tours was a 4th-century bishop who is the patron saint of France. According to legend, he came across a cold beggar in the middle of winter so he ripped his cloak in two and gave half of it to the beggar. He was a favourite saint during the Middle Ages, and his name has become common throughout the Christian world.</li>
+<li>Helstrøm is a Danish surname, possibly indicating that Martin is Danish. It is also a surname of the Norwegian chef Eyvind Hellstrøm.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Martin_Helstrom?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Martin_Helstrom?action=edit&amp;section=2" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter:_Quidditch_World_Cup" title="Harry Potter: Quidditch World Cup">Harry Potter: Quidditch World Cup</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince_(video_game)" title="Harry Potter and the Half-Blood Prince (video game)">Harry Potter and the Half-Blood Prince (video game)</a></i> <span class="template-c">(NDS edition)</span> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Martin_Helstrom?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Martin_Helstrom?action=edit&amp;section=3" title="Edit section: Notes and references

@@ -1,0 +1,112 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Brutus_Malfoy.png/revision/latest?cb=20190218232821" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Brutus_Malfoy.png/revision/latest/scale-to-width-down/350?cb=20190218232821" srcset="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Brutus_Malfoy.png/revision/latest/scale-to-width-down/350?cb=20190218232821 1x, https://static.wikia.nocookie.net/harrypotter/images/b/bc/Brutus_Malfoy.png/revision/latest/scale-to-width-down/699?cb=20190218232821 2x" class="pi-image-thumbnail" alt="" width="270" height="313"
+		     data-image-key="Brutus_Malfoy.png" data-image-name="Brutus Malfoy.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Brutus Malfoy</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Pure-blood" title="Pure-blood">Pure-blood</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Armand_Malfoy" title="Armand Malfoy">Armand Malfoy</a> (ancestor) †</li><li><a href="/wiki/Nicholas_Malfoy" title="Nicholas Malfoy">Nicholas Malfoy</a> (ancestor) †</li><li><a href="/wiki/Lucius_Malfoy_I" title="Lucius Malfoy I">Lucius Malfoy I</a> (ancestor) †</li><li><a href="/wiki/Septimus_Malfoy" title="Septimus Malfoy">Septimus Malfoy</a> (descendant) †</li><li><a href="/wiki/Abraxas_Malfoy" title="Abraxas Malfoy">Abraxas Malfoy</a> (descendant) †</li><li><a href="/wiki/Lucius_Malfoy" title="Lucius Malfoy">Lucius Malfoy</a> (descendant)</li><li><a href="/wiki/Draco_Malfoy" title="Draco Malfoy">Draco Malfoy</a> (descendant)</li><li><a href="/wiki/Scorpius_Malfoy" title="Scorpius Malfoy">Scorpius Malfoy</a> (descendant)</li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Editor of <i><a href="/wiki/Warlock_at_War" title="Warlock at War">Warlock at War</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Malfoy_family" title="Malfoy family">Malfoy family</a></li><li><i><a href="/wiki/Warlock_at_War" title="Warlock at War">Warlock at War</a></i></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;The Tales of Beedle the Bard (real)">"<i>Nothing is a surer sign of weak <a href="/wiki/Magic" title="Magic">magic</a> than a weakness for <a href="/wiki/Muggle" class="mw-redirect" title="Muggle">non-magical company</a></i>"</span></dd>
+<dd>&#8212;Brutus Malfoy, in the <a href="/wiki/1675" class="mw-redirect" title="1675">1675</a> periodical <i><a href="/wiki/Warlock_at_War" title="Warlock at War">Warlock at War</a></i><sup class="noprint"><a href="/wiki/The_Tales_of_Beedle_the_Bard_(real)" title="The Tales of Beedle the Bard (real)">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Brutus Malfoy</b> (fl. <a href="/wiki/1675" class="mw-redirect" title="1675">1675</a>) was a <a href="/wiki/Great_Britain" title="Great Britain">British</a> <a href="/wiki/Pure-blood" title="Pure-blood">pure-blood</a> <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> who lived during the <a href="/wiki/17th_century" title="17th century">17th century</a>. He edited the anti-<a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> periodical <i><a href="/wiki/Warlock_at_War" title="Warlock at War">Warlock at War</a></i>, and advocated the notion that <a href="/wiki/Blood_traitor" title="Blood traitor">witches and wizards who associated with Muggles</a> lacked magical talent, writing in <a href="/wiki/1675" class="mw-redirect" title="1675">1675</a>, "<i>Nothing is a surer sign of weak magic than a weakness for non-magical company.</i>"
+</p><p>In Brutus Malfoy's lifetime, persecution of <a href="/wiki/Wizardkind" title="Wizardkind">wizards</a> and witches by <a href="/wiki/Non-magic_people" title="Non-magic people">Muggles</a> was at its height. Under these circumstances, anti-<a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> sentiments were widespread in the <a href="/wiki/Wizarding_world" title="Wizarding world">wizarding community</a>. Brutus himself perpetuated the prejudice that <a href="/wiki/Wizardkind" title="Wizardkind">wizards and witches</a> who associated with <a href="/wiki/Non-magic_people" title="Non-magic people">Muggles</a> lacked intelligence and <a href="/wiki/Magic" title="Magic">magical</a> ability.
+</p><p>Brutus's descendants include later members of the <a href="/wiki/Malfoy_family" title="Malfoy family">Malfoy family</a> such as <a href="/wiki/Abraxas_Malfoy" title="Abraxas Malfoy">Abraxas</a>, <a href="/wiki/Lucius_Malfoy" title="Lucius Malfoy">Lucius</a>, <a href="/wiki/Draco_Malfoy" title="Draco Malfoy">Draco</a> and <a href="/wiki/Scorpius_Malfoy" title="Scorpius Malfoy">Scorpius Malfoy</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Etymology"><span class="tocnumber">1</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Behind_the_scenes"><span class="tocnumber">2</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Appearances"><span class="tocnumber">3</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Notes_and_references"><span class="tocnumber">4</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Brutus_Malfoy?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Brutus_Malfoy?action=edit&amp;section=1" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The name "Brutus" is a Roman cognomen meaning "heavy" in Latin. Famous bearers include Lucius Junius Brutus, the traditional founder of the Roman Republic, and Marcus Junius Brutus, the statesman who conspired to assassinate Julius Caesar.
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Brutus_Malfoy?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Brutus_Malfoy?action=edit&amp;section=2" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>In <a href="/wiki/1992" title="1992">1992</a>, <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a>, speaking about <a href="/wiki/Draco_Malfoy" title="Draco Malfoy">Draco Malfoy</a>, said, <i>"Look at his family... The whole lot of them have been in Slytherin, he's always boasting about it"</i>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> This indicates that Brutus was most likely a <a href="/wiki/Slytherin" title="Slytherin">Slytherin</a> if he attended <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a>, though it cannot be confirmed.</li>
+<li>In <a href="/wiki/1997" title="1997">1997</a> a <a href="/wiki/Unidentified_portrait_in_Malfoy_Manor_(II)" title="Unidentified portrait in Malfoy Manor (II)">portrait</a> was hung in <a href="/wiki/Malfoy_Manor" title="Malfoy Manor">Malfoy Manor</a> showing a wizard; Brutus may be that wizard.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Brutus_Malfoy?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Brutus_Malfoy?action=edit&amp;section=3" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/The_Tales_of_Beedle_the_Bard_(real)" title="The Tales of Beedle the Bard (real)">The Tales of Beedle the Bard</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Brutus_Malfoy?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Brutus_Malfoy?action=edit&amp;section=4" title="Edit section: Notes and references

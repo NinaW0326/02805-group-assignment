@@ -1,0 +1,312 @@
+<div class="mw-parser-output"><table class="notice metadata" id="spoiler" style="text-align: center; background: beige; margin: 1em 05%; padding: 0 1em; border: #a00 1px solid;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/0/0c/Hand_pointing_right_transparent.png/revision/latest?cb=20181112005815" class="image"><img alt="Hand pointing right transparent.png" src="https://static.wikia.nocookie.net/harrypotter/images/0/0c/Hand_pointing_right_transparent.png/revision/latest/scale-to-width-down/150?cb=20181112005815" decoding="async" width="150" height="75" data-image-name="Hand pointing right transparent.png" data-image-key="Hand_pointing_right_transparent.png" /></a>
+</td>
+<td><b>Warning!</b>
+<p>At least some content in this article is derived from information featured in <i><a href="/wiki/Harry_Potter:_Puzzles_%26_Spells" title="Harry Potter: Puzzles &amp; Spells">Harry Potter: Puzzles &amp; Spells</a></i>, <i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i>, and <i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i>.<br />As such, spoilers will be present within the article.
+</p>
+</td></tr></tbody></table>
+<table class="messagebox protected" align="center" style="border: 1px solid #8888aa; padding: 0; font-size:9pt; width:auto; font-size:0.9em;">
+<tbody><tr>
+<td style="width:40px"><div class="center"><div class="floatnone"><a href="https://static.wikia.nocookie.net/harrypotter/images/c/c1/Padlock.png/revision/latest?cb=20061203163418" class="image"><img alt="Padlock.png" src="https://static.wikia.nocookie.net/harrypotter/images/c/c1/Padlock.png/revision/latest/scale-to-width-down/30?cb=20061203163418" decoding="async" width="30" height="30" data-image-name="Padlock.png" data-image-key="Padlock.png" /></a></div></div>
+</td>
+<td align="left"><b>Editing of this article by newly registered users is currently <a href="/wiki/Harry_Potter_Wiki:Protected_page" title="Harry Potter Wiki:Protected page">disabled</a>.</b><br />Such users may <a href="https://harrypotter.fandom.com/wiki/Talk:Squib" class="extiw" title="en:Talk:Squib">discuss changes</a>, or <a href="/wiki/Harry_Potter_Wiki_talk:Protected_page" title="Harry Potter Wiki talk:Protected page">request unprotection</a>.
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-creature pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/8/82/Figg.jpg/revision/latest?cb=20080102062404" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/8/82/Figg.jpg/revision/latest/scale-to-width-down/340?cb=20080102062404" srcset="https://static.wikia.nocookie.net/harrypotter/images/8/82/Figg.jpg/revision/latest/scale-to-width-down/340?cb=20080102062404 1x, https://static.wikia.nocookie.net/harrypotter/images/8/82/Figg.jpg/revision/latest/scale-to-width-down/680?cb=20080102062404 2x" class="pi-image-thumbnail" alt="" width="270" height="289"
+		     data-image-key="Figg.jpg" data-image-name="Figg.jpg"/>
+		
+	</a>
+	
+</figure>
+
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Squib</h2>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Species information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Varies</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Varies</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Varies</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="related">
+	
+		<h3 class="pi-data-label pi-secondary-font">Related to</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Wizardkind" title="Wizardkind">Wizardkind</a></li><li><a href="/wiki/Non-magic_people" title="Non-magic people">Muggles</a></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="height">
+	
+		<h3 class="pi-data-label pi-secondary-font">Height of average adult</h3>
+	
+	<div class="pi-data-value pi-font">Varies</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="mortality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Mortality</h3>
+	
+	<div class="pi-data-value pi-font">Mortal</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="distinction">
+	
+		<h3 class="pi-data-label pi-secondary-font">Distinction</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Wizardkind" title="Wizardkind">Wizarding</a> parentage but cannot use <a href="/wiki/Magic" title="Magic">magic</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="affiliation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Affiliation</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Wizardkind" title="Wizardkind">Wizardkind</a></li><li><a href="/wiki/Non-magic_people" title="Non-magic people">Muggles</a></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="class">
+	
+		<h3 class="pi-data-label pi-secondary-font"><a href="/wiki/Department_for_the_Regulation_and_Control_of_Magical_Creatures#Ministry_Classification_of_Magical_Creatures" title="Department for the Regulation and Control of Magical Creatures">Ministry of Magic Classification</a></h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Being" title="Being">Being</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="status">
+	
+		<h3 class="pi-data-label pi-secondary-font">Status</h3>
+	
+	<div class="pi-data-value pi-font">Extant</div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Creature_infobox" title="Template:Creature infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Chamber of Secrets">"<i>A Squib is someone who was born into a wizarding family but hasn’t got any magic powers. Kind of the opposite of Muggle-born wizards, but Squibs are quite unusual.</i>"</span></dd>
+<dd>&#8212;Basic description of a Squib<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets" title="Harry Potter and the Chamber of Secrets">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p>A <b>Squib</b>, also known as a <b>wizard-born</b>,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> is a non-magical person who is born to at least one <a href="/wiki/Wizardkind" title="Wizardkind">magical</a> parent.<sup id="cite_ref-squib_2-0" class="reference"><a href="#cite_note-squib-2">&#91;2&#93;</a></sup> Squibs are, in essence, "wizard-born Muggles". They are rare and are looked upon with a degree of disdain by some witches and wizards, particularly <a href="/wiki/Pure-blood" title="Pure-blood">pure-bloods</a>. <a href="/wiki/Muggle-born" title="Muggle-born">Muggle-born</a> witches and wizards are descended from Squibs who married Muggles: the <a href="/wiki/Magic" title="Magic">magical</a> ability unexpectedly resurfaces after many generations later.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Different_from_Muggles"><span class="tocnumber">3</span> <span class="toctext">Different from Muggles</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Attitude_toward_Squibs"><span class="tocnumber">4</span> <span class="toctext">Attitude toward Squibs</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Known_Squibs"><span class="tocnumber">5</span> <span class="toctext">Known Squibs</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Believed_Squibs"><span class="tocnumber">6</span> <span class="toctext">Believed Squibs</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#See_also"><span class="tocnumber">6.1</span> <span class="toctext">See also</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Behind_the_scenes"><span class="tocnumber">7</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Appearances"><span class="tocnumber">8</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Notes_and_references"><span class="tocnumber">9</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Squib?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Overview">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Squib?action=edit&amp;section=1" title="Edit section: Overview"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A Squib is a <a href="/wiki/Human" title="Human">human</a> who is born with at least one magical parent, but does not inherit magic from said parent. A wizard or witch child would typically show signs of magical abilities at seven years old; any such child who does not is leaning on being a Squib (though they are possibly <a href="/wiki/Late-bloomer" title="Late-bloomer">late-bloomers</a>).
+</p><p>Squibs are rare, even just one being born into a family. This is why the case of <a href="/wiki/Thaddeus_Thurkell" title="Thaddeus Thurkell">Thaddeus Thurkell</a>'s seven Squib <a href="/wiki/Thurkell_brothers" title="Thurkell brothers">sons</a> is particularly noteworthy.<sup id="cite_ref-COSG_4-0" class="reference"><a href="#cite_note-COSG-4">&#91;4&#93;</a></sup>
+</p><p>Squibs are incapable of practising magic in any way, as <a href="/wiki/Argus_Filch" title="Argus Filch">Argus Filch</a> found out when he attempted to use the supplementary course <a href="/wiki/Kwikspell" title="Kwikspell">Kwikspell</a>, which was designed to improve inadequate wizarding skills, to no effect as he had no magical skills to improve upon.<sup id="cite_ref-COS_5-0" class="reference"><a href="#cite_note-COS-5">&#91;5&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Squib?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: History">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Squib?action=edit&amp;section=2" title="Edit section: History"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In the 1600s, <a href="/wiki/Isolt_Sayre" title="Isolt Sayre">Isolt Sayre</a>, the famous founder of <a href="/wiki/Ilvermorny_School_of_Witchcraft_and_Wizardry" title="Ilvermorny School of Witchcraft and Wizardry">Ilvermorny School of Witchcraft and Wizardry</a>, gave birth to a daughter whom she named <a href="/wiki/Martha_Steward_II" title="Martha Steward II">Martha</a>. Martha was named after her paternal grandmother and while her twin sister <a href="/wiki/Rionach_Steward" title="Rionach Steward">Rionach</a> was magical, Martha was not. Martha was the only one in the family to be born a Squib, and because of that she considered her upbringing at Ilvermorny to be painful. Martha went on to marry and lived as a <a href="/wiki/No-Maj" class="mw-redirect" title="No-Maj">No-Maj</a>.<sup id="cite_ref-Ilvermorny_6-0" class="reference"><a href="#cite_note-Ilvermorny-6">&#91;6&#93;</a></sup>
+</p><p>In <a href="/wiki/1858" class="mw-redirect" title="1858">1858</a> <a href="/wiki/Angus_Buchanan" title="Angus Buchanan">Angus Buchanan</a> never received a <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts</a> acceptance letter, but got as far as the <a href="/wiki/Sorting_Hat" title="Sorting Hat">Sorting Hat</a>, before he was exposed as a Squib. In sheer desperation, he threw himself ahead of a girl whose name had been called and placed the Hat upon his head. The horror of the moment when the Hat announced kindly that the boy beneath it was a good-hearted chap, but no wizard, would never be forgotten by those who witnessed it. Angus took off the hat and left the hall with tears streaming down his face. This had never happened before and it has never happened since. Angus being a Squib caused him to become estranged from his family.<sup id="cite_ref-rugby_7-0" class="reference"><a href="#cite_note-rugby-7">&#91;7&#93;</a></sup>
+</p><p>In <a href="/wiki/1900" title="1900">1900</a>, Angus wrote an inspirational book, titled <i><a href="/wiki/My_Life_as_a_Squib" title="My Life as a Squib">My Life as a Squib</a>. </i>His book helped break the taboos of Squib culture in wizarding society. Angus ended up becoming a star in the Muggle sport of Scottish rugby, and his sporting talents became so well known that wizarding kind fell in love with his inspirational story, not to mention developing an odd interest in rugby.<sup id="cite_ref-rugby_7-1" class="reference"><a href="#cite_note-rugby-7">&#91;7&#93;</a></sup>
+</p><p>While <a href="/wiki/Eugenia_Jenkins" title="Eugenia Jenkins">Eugenia Jenkins</a> was <a href="/wiki/Minister_for_Magic" title="Minister for Magic">Minister for Magic</a> from <a href="/wiki/1968" title="1968">1968</a> to <a href="/wiki/1975" title="1975">1975</a>, <a href="/wiki/Squib_Rights_marches" title="Squib Rights marches">Squib Rights marches</a> began to surface. However, these marches attracted <a href="/wiki/Pure-blood" title="Pure-blood">pure-blood</a> riots.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Different_from_Muggles">Different from Muggles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Squib?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Different from Muggles">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Squib?action=edit&amp;section=3" title="Edit section: Different from Muggles"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In addition to being born into magical rather than <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> families, Squibs are different from Muggles by their knowledge of the <a href="/wiki/Wizarding_world" title="Wizarding world">wizarding world</a>. They are able to see things that are hidden from the Muggles: certain magical objects and creatures that can help them. <a href="/wiki/Argus_Filch" title="Argus Filch">Argus Filch</a>, as well as <a href="/wiki/Arabella_Figg" title="Arabella Figg">Arabella Figg</a>, have formed wizarding-like relationships with <a href="/wiki/Cat" title="Cat">cats</a> that, in the case of the latter, have been cross-bred with <a href="/wiki/Kneazle" title="Kneazle">Kneazles</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p><p>Squibs should also be contrasted with the Muggle relatives of witches and wizards. Muggle parents, siblings, spouses etc. are simply Muggles who happen to know about the magical world.
+</p><p>Despite the differences between Squibs and Muggles they usually have a stronger affinity with each other than with wizards. For obvious reasons, Squibs usually lead Muggle lifestyles, and are known to be sent to Muggle schools. Some voluntarily choose to cut themselves off from the wizarding world altogether. <a href="/wiki/Isolt_Sayre" title="Isolt Sayre">Isolt Sayre</a>’s Squib daughter <a href="/wiki/Martha_Steward_II" title="Martha Steward II">Martha</a> chose to distance herself from magic entirely. Others live as allies to wizardkind and others, living somewhere in the middle, choose to work with wizards but are not very neighbourly to them.
+</p>
+<h2><span class="mw-headline" id="Attitude_toward_Squibs">Attitude toward Squibs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Squib?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Attitude toward Squibs">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Squib?action=edit&amp;section=4" title="Edit section: Attitude toward Squibs"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Half-Blood Prince">"<i>You disgusting little Squib, you filthy little <a href="/wiki/Blood_traitor" title="Blood traitor">blood traitor</a>!</i>"</span></dd>
+<dd>&#8212; <a href="/wiki/Marvolo_Gaunt" title="Marvolo Gaunt">Marvolo Gaunt</a> to his <a href="/wiki/Merope_Riddle" title="Merope Riddle">daughter</a>, whom he believed to be a Squib.<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">[src]</a></sup></dd>
+<dd></dd></dl></div><figure class="thumb tleft show-info-icon" style="width: 178px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/c/c9/Filch-GOF.jpg/revision/latest?cb=20100418170019" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/c/c9/Filch-GOF.jpg/revision/latest/scale-to-width-down/176?cb=20100418170019" decoding="async" width="176" height="218" class="thumbimage" data-image-name="Filch-GOF.jpg" data-image-key="Filch-GOF.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Filch-GOF.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption"><a href="/wiki/Argus_Filch" title="Argus Filch">Argus Filch</a></p> 		 	</figcaption> </figure>
+<p>The <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">Ministry of Magic</a> does not keep records of Squib births,<sup id="cite_ref-OTP_10-0" class="reference"><a href="#cite_note-OTP-10">&#91;10&#93;</a></sup> a sign of wizard society's general disregard for them. They can, however, check if a person is a Squib using their parents' names, as demonstrated in <a href="/wiki/1995" title="1995">1995</a> during the disciplinary hearing of <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a>. The common practice with Squibs is to send them off to <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> schools as children and encourage them to integrate with the Muggle community, which is much kinder than letting them live in the magical world where they will always be treated as second-class citizens.<sup id="cite_ref-DH_11-0" class="reference"><a href="#cite_note-DH-11">&#91;11&#93;</a></sup> Some, however, choose to remain in the wizarding world regardless. Some <a href="/wiki/Pure-blood" title="Pure-blood">pure-blood</a> families, such as the <a href="/wiki/House_of_Black" title="House of Black">Blacks</a>, disown any Squib members and remove them from their family trees, as they removed <a href="/wiki/Marius_Black" title="Marius Black">Marius Black</a>.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup> Even <a href="/wiki/Orford_Umbridge" title="Orford Umbridge">Orford Umbridge</a>, an unenthusiastic wizard who was tolerant enough to marry a Muggle woman, would come to despise his <a href="/wiki/Dolores_Umbridge%27s_brother" title="Dolores Umbridge&#39;s brother">son</a> for being a Squib. <a href="/wiki/John_Buchanan" title="John Buchanan">John Buchanan</a>, proud of his wizarding ancestry, came to loathe his <a href="/wiki/Angus_Buchanan" title="Angus Buchanan">son</a> for being a squib and violently disowned him, even forbidding his other ten children from seeing him again.
+</p><p>Even families that are tolerant of Muggles and <a href="/wiki/Muggle-born" title="Muggle-born">Muggle-borns</a> seem to regard Squibs poorly. Also, many wizarding families are anxious to see early signs of magical ability and are upset by the prospect that a member might be a Squib. <a href="/wiki/Neville_Longbottom" title="Neville Longbottom">Neville Longbottom</a> was thought to be a Squib by his relatives because of this, though he proved to be magical. Similarly, <a href="/wiki/Merope_Riddle" title="Merope Riddle">Merope Gaunt</a> was called a Squib by her father <a href="/wiki/Marvolo_Gaunt" title="Marvolo Gaunt">Marvolo</a> as a slur, due to her poor magical abilities, inhibited by her fear of her father and <a href="/wiki/Morfin_Gaunt" title="Morfin Gaunt">brother</a>.<sup id="cite_ref-HBP_13-0" class="reference"><a href="#cite_note-HBP-13">&#91;13&#93;</a></sup> Some magical families would often blame any Muggle parents for a Squib's birth, as <a href="/wiki/Orford_Umbridge" title="Orford Umbridge">Orford Umbridge</a> and his <a href="/wiki/Dolores_Umbridge" title="Dolores Umbridge">witch daughter</a> would blame his Muggle wife, <a href="/wiki/Ellen_Cracknell" title="Ellen Cracknell">Ellen Cracknell</a>, for being the fault of the <a href="/wiki/Dolores_Umbridge%27s_brother" title="Dolores Umbridge&#39;s brother">son</a> being born a Squib. However, the wizarding world did set up at least one organisation to support Squibs, called <a href="/wiki/Society_for_the_Support_of_Squibs" title="Society for the Support of Squibs">Society for the Support of Squibs</a>. <a href="/wiki/Karl_Jenkins" title="Karl Jenkins">Karl Jenkins</a> rudely called <a href="/wiki/Albus_Potter" title="Albus Potter">Albus Potter</a> "Slytherin Squib" due to his demonstration of poor magical skills in his first year at Hogwarts.<sup id="cite_ref-CC.7CB.7C1.7C4_14-0" class="reference"><a href="#cite_note-CC.7CB.7C1.7C4-14">&#91;14&#93;</a></sup>
+</p><p>It is unclear as to <a href="/wiki/Tom_Riddle" title="Tom Riddle">Lord Voldemort</a>'s attitude towards Squibs. He had personally noted throughout his life that he aims to purge <a href="/wiki/Muggle-born" title="Muggle-born">Muggle-born</a> wizards and witches for "stealing" magic. However, as <a href="/wiki/Argus_Filch" title="Argus Filch">Argus Filch</a> was allowed to remain in Hogwarts, it is likely they were not prosecuted as blood traitors.
+</p><p>Because of their low statuses in the magical community, any Squibs who chose to remain in the Wizarding world may develop a bitter personality towards witches and wizards. Argus Filch, in particular, was rather unpleasant with most students and would be rather harsh on them; <a href="/wiki/Ronald_Weasley" title="Ronald Weasley">Ron Weasley</a> believed that Filch's Squib status may be the cause of this attitude.<sup id="cite_ref-COS_5-1" class="reference"><a href="#cite_note-COS-5">&#91;5&#93;</a></sup> <a href="/wiki/Martha_Steward_II" title="Martha Steward II">Martha Steward II</a> found it very painful in living among magical folks that she eventually severed ties with the community to assimilate into Muggle society.<sup id="cite_ref-Ilvermorny_6-1" class="reference"><a href="#cite_note-Ilvermorny-6">&#91;6&#93;</a></sup>
+</p><p>Squibs, at times, tried to fight for their rights, as they <a href="/wiki/Squib_Rights_marches" title="Squib Rights marches">marched</a> for equality in around <a href="/wiki/1968" title="1968">1968</a> or <a href="/wiki/1969" title="1969">1969</a>. However, <a href="/wiki/Pure-blood" title="Pure-blood">pure-blood</a> extremists would absolutely refuse to give anything respectful towards Squibs, and even launched an attack against the marchers that led to riots.<sup id="cite_ref-JKRS_15-0" class="reference"><a href="#cite_note-JKRS-15">&#91;15&#93;</a></sup> Even in the <a href="/wiki/1990s" title="1990s">1990s</a>, the Ministry refused to keep track of Squib births, showing a disregard for Squibs' attempt to earn their rights.<sup id="cite_ref-OTP_10-1" class="reference"><a href="#cite_note-OTP-10">&#91;10&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Known_Squibs">Known Squibs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Squib?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Known Squibs">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Squib?action=edit&amp;section=5" title="Edit section: Known Squibs"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable" border="1" width="100%">
+
+<tbody><tr>
+<th scope="col">Squib(s)
+</th>
+<th scope="col">Notes
+</th></tr>
+<tr>
+<td><a href="/wiki/Angus_Buchanan" title="Angus Buchanan">Angus Buchanan</a>
+</td>
+<td>Angus was a Scottish Squib born to the pure-blood Buchanan family. He became famous in both the wizarding and Muggle worlds. Later in his life, he published My Life as a Squib, a groundbreaking worldwide bestseller that brought the plight of Squibs to the wizarding world's attention.
+</td></tr>
+<tr>
+<td><a href="/wiki/Arabella_Figg" title="Arabella Figg">Arabella Figg</a>
+</td>
+<td>A dealer of cross-bred <a href="/wiki/Cat" title="Cat">cats</a> and <a href="/wiki/Kneazle" title="Kneazle">kneazles</a> and a member of the <a href="/wiki/Order_of_the_Phoenix" title="Order of the Phoenix">Order of the Phoenix</a>.<sup id="cite_ref-OTP_10-2" class="reference"><a href="#cite_note-OTP-10">&#91;10&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Argus_Filch" title="Argus Filch">Argus Filch</a>
+</td>
+<td>The caretaker of <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a>.<sup id="cite_ref-COS_5-2" class="reference"><a href="#cite_note-COS-5">&#91;5&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Marius_Black" title="Marius Black">Marius Black</a>
+</td>
+<td>Was the third child of <a href="/wiki/Cygnus_Black_II" title="Cygnus Black II">Cygnus Black II</a> and <a href="/wiki/Violetta_Bulstrode" title="Violetta Bulstrode">Violetta Bulstrode</a>. Marius was disowned and removed from the Black family tree tapestry.
+</td></tr>
+<tr>
+<td><a href="/wiki/Thurkell_brothers" title="Thurkell brothers">Thurkell brothers</a>
+</td>
+<td>Were the seven sons of Thaddeus Thurkell. As they all turned out to be Squibs, this made their father so angry that he <a href="/wiki/Human_to_hedgehog_spell" title="Human to hedgehog spell">transfigured</a> them into <a href="/wiki/Hedgehog" title="Hedgehog">hedgehogs</a>.<sup id="cite_ref-COSG_4-1" class="reference"><a href="#cite_note-COSG-4">&#91;4&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Dolores_Umbridge%27s_brother" title="Dolores Umbridge&#39;s brother">Dolores Umbridge's brother</a>
+</td>
+<td>Son of wizard <a href="/wiki/Orford_Umbridge" title="Orford Umbridge">Orford Umbridge</a> and Muggle <a href="/wiki/Ellen_Cracknell" title="Ellen Cracknell">Ellen Cracknell</a>. His parents separated and he would return to the Muggle world with his mother.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Gilderoy_Lockhart%27s_sisters" title="Gilderoy Lockhart&#39;s sisters">Gilderoy Lockhart's sisters</a>
+</td>
+<td>The two older sisters of <a href="/wiki/Gilderoy_Lockhart" title="Gilderoy Lockhart">Gilderoy Lockhart</a>.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Martha_Steward_II" title="Martha Steward II">Martha Steward II</a>
+</td>
+<td>She was the elder twin daughter of <a href="/wiki/Isolt_Sayre" title="Isolt Sayre">Isolt Sayre</a> and <a href="/wiki/James_Steward" title="James Steward">James Steward</a>, who were the founders of <a href="/wiki/Ilvermorny_School_of_Witchcraft_and_Wizardry" title="Ilvermorny School of Witchcraft and Wizardry">Ilvermorny School of Witchcraft and Wizardry</a>.<sup id="cite_ref-Ilvermorny_6-2" class="reference"><a href="#cite_note-Ilvermorny-6">&#91;6&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Constance_Pickering%27s_brother" class="mw-redirect" title="Constance Pickering&#39;s brother">Constance Pickering's brother</a>
+</td>
+<td>The brother of <a href="/wiki/Constance_Pickering" title="Constance Pickering">Constance Pickering</a> was a Squib to whom the <a href="/wiki/Pickering_family" title="Pickering family">family</a> <a href="/wiki/Crup" title="Crup">Crup</a> acted aggressively towards due to this.<sup id="cite_ref-WU_18-0" class="reference"><a href="#cite_note-WU-18">&#91;18&#93;</a></sup>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Believed_Squibs">Believed Squibs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Squib?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Believed Squibs">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Squib?action=edit&amp;section=6" title="Edit section: Believed Squibs"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable" border="1" width="100%">
+
+<tbody><tr>
+<th scope="col">Person(s)
+</th>
+<th scope="col">Notes
+</th></tr>
+<tr>
+<td><a href="/wiki/Neville_Longbottom" title="Neville Longbottom">Neville Longbottom</a>
+</td>
+<td>Discovered to not be a Squib when his <a href="/wiki/Algie_Longbottom" title="Algie Longbottom">Uncle Algie</a> 'accidentally' dropped him out of a window and he bounced down the road.<sup id="cite_ref-PS_19-0" class="reference"><a href="#cite_note-PS-19">&#91;19&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Ariana_Dumbledore" title="Ariana Dumbledore">Ariana Dumbledore</a>
+</td>
+<td>Unable to control her magic after being traumatised by an attack by <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> boys and kept hidden by <a href="/wiki/Dumbledore_family" title="Dumbledore family">her family</a>. Neighbours believed <a href="/wiki/Kendra_Dumbledore" title="Kendra Dumbledore">Kendra Dumbledore</a> to be ashamed of her daughter and spread rumours that Ariana was locked in the cellar due to her being a Squib when in fact it was her powers that had gone awry.<sup id="cite_ref-DH_11-1" class="reference"><a href="#cite_note-DH-11">&#91;11&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Molly_Weasley%27s_second_cousin" title="Molly Weasley&#39;s second cousin">Molly Weasley's Unnamed second cousin</a>
+</td>
+<td>Assumed to be a Squib due to working as an accountant in the Muggle world.<sup id="cite_ref-PS_19-1" class="reference"><a href="#cite_note-PS-19">&#91;19&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Merope_Riddle" title="Merope Riddle">Merope Riddle</a>
+</td>
+<td>Believed to be a squib because of her magical abilities was severely dampened in fear of her father and brother. Called a squib by her abusive <a href="/wiki/Marvolo_Gaunt" title="Marvolo Gaunt">father</a> more as a slur than actually being one.<sup id="cite_ref-HBP_13-1" class="reference"><a href="#cite_note-HBP-13">&#91;13&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Kelly_Brown" title="Kelly Brown">Kelly Brown</a>
+</td>
+<td>Suspected, among <a href="/wiki/Wizarding_world" title="Wizarding world">wizarding circles</a>, of actually being a talented Squib smuggled into the <a href="/wiki/Scottish_rugby_team" title="Scottish rugby team">Scottish rugby team</a> by the <a href="/wiki/Wizarding_Supporters_of_Scottish_Rugby_Union" title="Wizarding Supporters of Scottish Rugby Union">WSSRU</a>, in violation of the <a href="/wiki/International_Statute_of_Wizarding_Secrecy" title="International Statute of Wizarding Secrecy">International Statute of Wizarding Secrecy</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Jim_Hamilton" title="Jim Hamilton">Jim Hamilton</a>
+</td>
+<td>Suspected, among wizarding circles, of actually being a talented Squib smuggled into the Scottish rugby team by the WSSRU, in violation of the International Statute of Wizarding Secrecy.
+</td></tr>
+<tr>
+<td><a href="/wiki/Stuart_Hogg" title="Stuart Hogg">Stuart Hogg</a>
+</td>
+<td>Suspected, among wizarding circles, of actually being a talented Squib smuggled into the Scottish rugby team by the WSSRU, in violation of the International Statute of Wizarding Secrecy. He was, in fact, a <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a>.<sup id="cite_ref-wizard_20-0" class="reference"><a href="#cite_note-wizard-20">&#91;20&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Credence_Barebone" title="Credence Barebone">Credence Barebone</a>
+</td>
+<td>Believed to have been a Squib by <a href="/wiki/Gellert_Grindelwald" title="Gellert Grindelwald">Gellert Grindelwald</a>, but turned out to have actually been an <a href="/wiki/Obscurial" title="Obscurial">Obscurial</a> (a wizard with suppressed magical abilities).<sup id="cite_ref-FBS_21-0" class="reference"><a href="#cite_note-FBS-21">&#91;21&#93;</a></sup>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Squib?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: See also">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Squib?action=edit&amp;section=7" title="Edit section: See also"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Blood_status" title="Blood status">Blood status</a></li>
+<li><a href="/wiki/Magic_genes" title="Magic genes">Magic genes</a></li></ul>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Squib?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Squib?action=edit&amp;section=8" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>The term likely comes from the English expression "a <a target="_blank" rel="noreferrer noopener" class="external text" href="http://www.cjvlang.com/Hpotter/mistranslations/squib.html">damp squib</a>" (dud firecracker), an expected delight that disappoints.</li>
+<li>The word squib also refers to an incomplete or insufficient discharge of a firearm.</li>
+<li>The word could also be a pun on "skip", referring to the fact that the person was "skipped" by magic. In fact, at least one book series (Terry Goodkind's <i><a href="http://en.wikipedia.org/wiki/The_Sword_of_Truth" class="extiw" title="wikipedia:The Sword of Truth"> The Sword of Truth</a></i>) used the word in a meaning analogous to Squib in several books.</li>
+<li>The <i><a href="https://starwars.fandom.com/wiki/Star_Wars" class="extiw" title="starwars:Star Wars">Star Wars</a></i> series also uses the term <i><a href="https://starwars.fandom.com/wiki/Squib" class="extiw" title="starwars:Squib">Squib</a></i> as the name of an <a href="https://starwars.fandom.com/wiki/Alien" class="extiw" title="starwars:Alien">alien species</a>.</li>
+<li>Two Squibs (both are minor characters) seen in the series are <a href="/wiki/Arabella_Figg" title="Arabella Figg">Arabella Figg</a> and <a href="/wiki/Argus_Filch" title="Argus Filch">Argus Filch</a>. Both seem to love <a href="/wiki/Cat" title="Cat">cats</a> and have the same initials.</li>
+<li>It is unknown what the term would be for the non-magical offspring of a Squib and a Muggle.</li>
+<li><a href="/wiki/Mafalda" title="Mafalda">Mafalda</a>, a deleted character, was set to be the child of a possible Squib and a Muggle. However since the character was cut this information has yet to be confirmed.<sup id="cite_ref-mafalda_22-0" class="reference"><a href="#cite_note-mafalda-22">&#91;22&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Squib?veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Squib?action=edit&amp;section=9" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone" title="Harry Potter and the Philosopher&#39;s Stone">Harry Potter and the Philosopher's Stone</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(film)" title="Harry Potter and the Philosopher&#39;s Stone (film)">Harry Potter and the Philosopher's Stone (film)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(video_game)" title="Harry Potter and the Philosopher&#39;s Stone (video game)">Harry Potter and the Philosopher's Stone (video game)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets" title="Harry Potter and the Chamber of Secrets">Harry Potter and the Chamber of Secrets</a></i> <small>(First identified as Squib)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(film)" title="Harry Potter and the Chamber of Secrets (film)">Harry Potter and the Chamber of Secrets (film)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(video_game)" title="Harry Potter and the Chamber of Secrets (video game)">Harry Potter and the Chamber of Secrets (video game)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban" title="Harry Potter and the Prisoner of Azkaban">Harry Potter and the Prisoner of Azkaban</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(film)" title="Harry Potter and the Prisoner of Azkaban (film)">Harry Potter and the Prisoner of Azkaban (film)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(video_game)" title="Harry Potter and the Prisoner of Azkaban (video game)">Harry Potter and the Prisoner of Azkaban (video game)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire" title="Harry Potter and the Goblet of Fire">Harry Potter and the Goblet of Fire</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire_(film)" title="Harry Potter and the Goblet of Fire (film)">Harry Potter and the Goblet of Fire (film)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire_(video_game)" title="Harry Potter and the Goblet of Fire (video game)">Harry Potter and the Goblet of Fire (video game)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">Harry Potter and the Order of the Phoenix</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(film)" title="Harry Potter and the Order of the Phoenix (film)">Harry Potter and the Order of the Phoenix (film)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(video_game)" title="Harry Potter and the Order of the Phoenix (video game)">Harry Potter and the Order of the Phoenix (video game)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">Harry Potter and the Half-Blood Prince</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince_(film)" title="Harry Potter and the Half-Blood Prince (film)">Harry Potter and the Half-Blood Prince (film)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince_(video_game)" title="Harry Potter and the Half-Blood Prince (video game)">Harry Potter and the Half-Blood Prince (video game)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">Harry Potter and the Deathly Hallows</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1" title="Harry Potter and the Deathly Hallows: Part 1">Harry Potter and the Deathly Hallows: Part 1</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1_(video_game)" title="Harry Potter and the Deathly Hallows: Part 1 (video game)">Harry Potter and the Deathly Hallows: Part 1 (video game)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_2" title="Harry Potter and the Deathly Hallows: Part 2">Harry Potter and the Deathly Hallows: Part 2</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_2_(video_game)" title="Harry Potter and the Deathly Hallows: Part 2 (video game)">Harry Potter and the Deathly Hallows: Part 2 (video game)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Cursed_Child" title="Harry Potter and the Cursed Child">Harry Potter and the Cursed Child</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Cursed_Child_(play)" title="Harry Potter and the Cursed Child (play)">Harry Potter and the Cursed Child (play)</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them:_The_Original_Screenplay" title="Fantastic Beasts and Where to Find Them: The Original Screenplay">Fantastic Beasts and Where to Find Them: The Original Screenplay</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(film)" title="Fantastic Beasts and Where to Find Them (film)">Fantastic Beasts and Where to Find Them (film)</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i></li>
+<li><i><a href="/wiki/Wizarding_World_(website)" title="Wizarding World (website)">Wizarding World</a></i></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter:_Building_the_Magical_World" title="LEGO Harry Potter: Building the Magical World">LEGO Harry Potter: Building the Magical World</a></i></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter:_Characters_of_the_Magical_World" title="LEGO Harry Potter: Characters of the Magical World">LEGO Harry Potter: Characters of the Magical World</a></i></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter:_Years_1-4" title="LEGO Harry Potter: Years 1-4">LEGO Harry Potter: Years 1-4</a></i></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter:_Years_5-7" title="LEGO Harry Potter: Years 5-7">LEGO Harry Potter: Years 5-7</a></i></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter" title="LEGO Harry Potter">LEGO Harry Potter</a></i></li>
+<li><a href="/wiki/J._K._Rowling%27s_official_site" title="J. K. Rowling&#39;s official site">J. K. Rowling's official site</a> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Harry_Potter_Trading_Card_Game" title="Harry Potter Trading Card Game">Harry Potter Trading Card Game</a></i></li>
+<li><i><a href="/wiki/Harry_Potter:_The_Character_Vault" title="Harry Potter: The Character Vault">Harry Potter: The Character Vault</a></i></li>
+<li><i><a href="/wiki/Fantastic_Beasts:_Cases_from_the_Wizarding_World" title="Fantastic Beasts: Cases from the Wizarding World">Fantastic Beasts: Cases from the Wizarding World</a></i></li>
+<li><i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i></li>
+<li><i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i></li>
+<li><i><a href="/wiki/Harry_Potter:_Puzzles_%26_Spells" title="Harry Potter: Puzzles &amp; Spells">Harry Potter: Puzzles &amp; Spells</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Squib?veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Squib?action=edit&amp;section=10" title="Edit section: Notes and references

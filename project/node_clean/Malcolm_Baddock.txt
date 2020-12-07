@@ -1,0 +1,117 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-slytherin pi-layout-default"><section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Malcolm Baddock</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">between <a href="/wiki/1_September" title="1 September">1 September</a> <a href="/wiki/1982" title="1982">1982</a> and <a href="/wiki/31_August" title="31 August">31 August</a> <a href="/wiki/1983" title="1983">1983</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a> or <a href="/wiki/Ireland" title="Ireland">Irish</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-GOF12_2-0" class="reference"><a href="#cite_note-GOF12-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male<sup id="cite_ref-GOF12_2-1" class="reference"><a href="#cite_note-GOF12-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="house">
+	
+		<h3 class="pi-data-label pi-secondary-font">House</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Slytherin" title="Slytherin">Slytherin</a><sup id="cite_ref-GOF12_2-2" class="reference"><a href="#cite_note-GOF12-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a><sup id="cite_ref-GOF12_2-3" class="reference"><a href="#cite_note-GOF12-2">&#91;2&#93;</a></sup><ul><li><a href="/wiki/Slytherin" title="Slytherin">Slytherin</a><sup id="cite_ref-GOF12_2-4" class="reference"><a href="#cite_note-GOF12-2">&#91;2&#93;</a></sup></li></ul></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Malcolm Baddock</b> (born c. <a href="/wiki/1982" title="1982">1982</a>-<a href="/wiki/1983" title="1983">1983</a>) was a <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> and <a href="/wiki/Slytherin" title="Slytherin">Slytherin</a> student at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> three years below <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a>. His arrival at the Slytherin table immediately after being <a href="/wiki/Sorting_ceremony" title="Sorting ceremony">Sorted</a> in <a href="/wiki/1994" title="1994">1994</a> was met with applause from <a href="/wiki/Draco_Malfoy" title="Draco Malfoy">Draco Malfoy</a>, but <a href="/wiki/Fred_Weasley" title="Fred Weasley">Fred</a> and <a href="/wiki/George_Weasley" title="George Weasley">George Weasley</a> hissed at him, and Harry privately wondered if Malcolm was aware of Slytherin House's sinister reputation.<sup id="cite_ref-GOF12_2-5" class="reference"><a href="#cite_note-GOF12-2">&#91;2&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Etymology"><span class="tocnumber">1</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Behind_the_scenes"><span class="tocnumber">2</span> <span class="toctext">Behind the scenes</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Translations"><span class="tocnumber">2.1</span> <span class="toctext">Translations</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Appearances"><span class="tocnumber">3</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Notes_and_references"><span class="tocnumber">4</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Malcolm_Baddock?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Malcolm_Baddock?action=edit&amp;section=1" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Malcolm means "disciple of St Columba," a sixth century Irish saint who established a convent on the island of Iona. This was the name of four kings of <a href="/wiki/Scotland" title="Scotland">Scotland</a> starting in the 10th century, including Malcolm III, who became king after killing Macbeth, the usurper who had murdered his father.
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Malcolm_Baddock?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Malcolm_Baddock?action=edit&amp;section=2" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Translations">Translations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Malcolm_Baddock?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Translations">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Malcolm_Baddock?action=edit&amp;section=3" title="Edit section: Translations"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Afrikaans: <i>Malcolm Basana</i></li>
+<li>Bulgarian: <i>Малкълм Бадук</i></li>
+<li>Chinese (PRC): <i>马尔科姆·巴多克</i></li>
+<li>Chinese (Taiwan): <i>馬康·巴達克</i></li>
+<li>Danish: <i>Malcolm Slemmer</i> (<i>Slem</i> "bad")</li>
+<li>Dutch: <i>Melchior Beulsvreugd</i></li>
+<li>Hebrew: <i>מלקולם בדוק</i></li>
+<li>Japanese: <i>マルコム・バドック</i></li>
+<li>Lithuanian: <i>Malkolmas Blogulis</i></li>
+<li>Norwegian: <i>Hugo Balleram</i></li>
+<li>Portuguese: <i>Malcom Baddock</i></li>
+<li>Serbian: <i>Малколм Бaдок <span class="template-c">(Malkolm Badok)</span></i></li></ul>
+<p>The following languages are the same as the original:
+</p>
+<table>
+<tbody><tr>
+<td>
+<ul><li>Croatian</li>
+<li>Faroese</li></ul>
+</td>
+<td>
+<ul><li>French</li>
+<li>German</li></ul>
+</td>
+<td>
+<ul><li>Polish</li>
+<li>Spanish</li></ul>
+</td>
+<td>
+<ul><li>Swedish</li></ul>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Malcolm_Baddock?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Malcolm_Baddock?action=edit&amp;section=4" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire" title="Harry Potter and the Goblet of Fire">Harry Potter and the Goblet of Fire</a></i> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Malcolm_Baddock?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Malcolm_Baddock?action=edit&amp;section=5" title="Edit section: Notes and references

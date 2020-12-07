@@ -1,0 +1,105 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-quidditch-player pi-layout-default"><section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Goodwin Kneen</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="marital">
+	
+		<h3 class="pi-data-label pi-secondary-font">Marital status</h3>
+	
+	<div class="pi-data-value pi-font">Married</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/England" title="England">English</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Gunhilda_Kneen" title="Gunhilda Kneen">Gunhilda Kneen</a> (wife)</li><li><a href="/wiki/Olaf" title="Olaf">Olaf</a> (cousin)</li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Quidditch" title="Quidditch">Quidditch</a> player</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Kneen_family" title="Kneen family">Kneen family</a></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Quidditch Through the Ages (real)">"<i>Gunhilda was a bit angry I got back so late. I had to duck a couple of nasty jinxes but I've got my fingers back now.</i>"</span></dd>
+<dd>&#8212;Goodwin Kneen on <a href="/wiki/Goodwin_Kneen%27s_letter_to_Olaf" title="Goodwin Kneen&#39;s letter to Olaf">his letter</a> to his cousin <a href="/wiki/Olaf" title="Olaf">Olaf</a><sup class="noprint"><a href="/wiki/Quidditch_Through_the_Ages_(real)" title="Quidditch Through the Ages (real)">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Goodwin Kneen</b> (fl. <a href="/wiki/12th_century" title="12th century">12th century</a>) was an <a href="/wiki/England" title="England">English</a> <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> who lived in <a href="/wiki/Yorkshire" title="Yorkshire">Yorkshire</a>, <a href="/wiki/England" title="England">England</a>, in the <a href="/wiki/12th_century" title="12th century">twelfth century</a>. A <i>Kwidditch</i> player (a forerunner to the modern game of <a href="/wiki/Quidditch" title="Quidditch">Quidditch</a>), <a href="/wiki/Goodwin_Kneen%27s_letter_to_Olaf" title="Goodwin Kneen&#39;s letter to Olaf">a letter</a> he once wrote to his <a href="/wiki/Norway" title="Norway">Norwegian</a> cousin <a href="/wiki/Olaf" title="Olaf">Olaf</a> demonstrates the spread of the sport throughout <a href="/wiki/Great_Britain" title="Great Britain">Great Britain</a>.<sup id="cite_ref-QA3_1-0" class="reference"><a href="#cite_note-QA3-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Etymology"><span class="tocnumber">2</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Appearances"><span class="tocnumber">3</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Notes_and_references"><span class="tocnumber">4</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Goodwin_Kneen?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Goodwin_Kneen?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Quidditch Through the Ages (real)">"<i>We enjoyed a spirited game of Kwidditch last Saturday night, though poor Gunhilda was not up to playing Catcher, and we had to use Radulf the blacksmith instead. The team from Ilkley played well though was no match for us, for we had been practising hard all month and scored forty-two times. Radulf got a Blooder in the head because old Ugga wasn't quick enough with his club. The new scoring barrels worked well. Three at each end on stilts, Oona from the inn gave us them. She let us have free mead all night because we won as well.</i>"</span></dd>
+<dd>&#8212;Kneen's description of <i>Kwidditch</i>.<sup class="noprint"><a href="/wiki/Quidditch_Through_the_Ages_(real)" title="Quidditch Through the Ages (real)">[src]</a></sup></dd>
+<dd></dd></dl></div><p>Kneen lived with <a href="/wiki/Gunhilda_Kneen" title="Gunhilda Kneen">Gunhilda</a> in <a href="/wiki/Yorkshire" title="Yorkshire">Yorkshire</a> some time around the mid-<a href="/wiki/12th_century" title="12th century">twelfth century</a>. He also had a cousin in <a href="/wiki/Norway" title="Norway">Norway</a>, <a href="/wiki/Olaf" title="Olaf">Olaf</a>, which seemed to be an occasional correspondent of his.<sup id="cite_ref-QA3_1-1" class="reference"><a href="#cite_note-QA3-1">&#91;1&#93;</a></sup>
+</p><p>Kneen played "<i><a href="/wiki/Quidditch" title="Quidditch">Kwidditch</a></i>" along with his wife <a href="/wiki/Gunhilda_Kneen" title="Gunhilda Kneen">Gunhilda</a> (who played "<a href="/wiki/Chaser" title="Chaser">Catcher</a>"), <a href="/wiki/Ugga" title="Ugga">Ugga</a> (who played <a href="/wiki/Beater" title="Beater">Beater</a>) and <a href="/wiki/Radulf" title="Radulf">Radulf</a> (a reserve "<a href="/wiki/Chaser" title="Chaser">Catcher</a>").<sup id="cite_ref-QA3_1-2" class="reference"><a href="#cite_note-QA3-1">&#91;1&#93;</a></sup>
+</p><p>On a match against a team from <a href="/wiki/Ilkley" title="Ilkley">Ilkley</a>, on a Saturday night, Kneen's team scored forty-two times and won. This match was crucial for the introduction of <a href="/wiki/Goalpost" title="Goalpost">goal posts</a> in modern <a href="/wiki/Quidditch" title="Quidditch">Quidditch</a>, as they introduced "new scoring barrels", three on each end of the pitch on stilts, given to them by <a href="/wiki/Oona" title="Oona">Oona</a>, a innkeeper.<sup id="cite_ref-QA3_1-3" class="reference"><a href="#cite_note-QA3-1">&#91;1&#93;</a></sup> Following the match, <a href="/wiki/Oona" title="Oona">Oona</a> offered the team free <a href="/wiki/Mead" title="Mead">mead</a> all night. Gunhilda was not pleased with the late hour of his return home, and he had to "<i>duck a couple of nasty <a href="/wiki/Jinx" title="Jinx">jinxes</a></i>", ending up with his fingers temporarily <a href="/wiki/Finger-removing_jinx" title="Finger-removing jinx">jinxed</a> off.<sup id="cite_ref-QA3_1-4" class="reference"><a href="#cite_note-QA3-1">&#91;1&#93;</a></sup>
+</p><p>Later that same week, Kneen wrote <a href="/wiki/Goodwin_Kneen%27s_letter_to_Olaf" title="Goodwin Kneen&#39;s letter to Olaf">a letter</a> by <a href="/wiki/Goodwin_Kneen%27s_owls" title="Goodwin Kneen&#39;s owls">owl</a> to his cousin <a href="/wiki/Olaf" title="Olaf">Olaf</a>, relaying the match. This eight-hundred-year old letter is preserved in the <a href="/wiki/Norwegian_Ministry_of_Magic" title="Norwegian Ministry of Magic">Norwegian Ministry of Magic</a> archives as an important artefact about the evolution of the game.<sup id="cite_ref-QA3_1-5" class="reference"><a href="#cite_note-QA3-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Goodwin_Kneen?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Goodwin_Kneen?action=edit&amp;section=2" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The name "Goodwin" means "friend of god", derived from Old English god combined with wine "friend". This was the name of the powerful 11th-century Earl of Wessex, the father of King Harold II of England.
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Goodwin_Kneen?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Goodwin_Kneen?action=edit&amp;section=3" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Quidditch_Through_the_Ages_(real)" title="Quidditch Through the Ages (real)">Quidditch Through the Ages</a></i> <small>(First mentioned)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Goodwin_Kneen?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Goodwin_Kneen?action=edit&amp;section=4" title="Edit section: Notes and references

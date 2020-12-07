@@ -1,0 +1,111 @@
+<div class="mw-parser-output"><table class="notice metadata" id="spoiler" style="text-align: center; background: beige; margin: 1em 05%; padding: 0 1em; border: #a00 1px solid;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/4/4f/Harry_Potter_-_Magic_Awakened_title.jpg/revision/latest?cb=20191031005324" class="image"><img alt="Harry Potter - Magic Awakened title.jpg" src="https://static.wikia.nocookie.net/harrypotter/images/4/4f/Harry_Potter_-_Magic_Awakened_title.jpg/revision/latest/scale-to-width-down/175?cb=20191031005324" decoding="async" width="175" height="99" data-image-name="Harry Potter - Magic Awakened title.jpg" data-image-key="Harry_Potter_-_Magic_Awakened_title.jpg" /></a>
+</td>
+<td><b>Warning!</b>
+<p>At least some content in this article is derived from information featured in <i><a href="/wiki/Harry_Potter:_Magic_Awakened" title="Harry Potter: Magic Awakened">Harry Potter: Magic Awakened</a></i>. As such, spoilers will be present within the article.
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-squib pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/6/63/Reggie_Page_-_MA.jpeg/revision/latest?cb=20200807185459" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/6/63/Reggie_Page_-_MA.jpeg/revision/latest/scale-to-width-down/350?cb=20200807185459" srcset="https://static.wikia.nocookie.net/harrypotter/images/6/63/Reggie_Page_-_MA.jpeg/revision/latest/scale-to-width-down/350?cb=20200807185459 1x, https://static.wikia.nocookie.net/harrypotter/images/6/63/Reggie_Page_-_MA.jpeg/revision/latest/scale-to-width-down/700?cb=20200807185459 2x" class="pi-image-thumbnail" alt="" width="270" height="267"
+		     data-image-key="DanielPage%27sBrother.jpeg" data-image-name="DanielPage&#039;sBrother.jpeg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Reggie Page</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Squib" title="Squib">Squib</a><sup id="cite_ref-MA_1-0" class="reference"><a href="#cite_note-MA-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a> or <a href="/wiki/Ireland" title="Ireland">Irish</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-MA_1-1" class="reference"><a href="#cite_note-MA-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male<sup id="cite_ref-MA_1-2" class="reference"><a href="#cite_note-MA-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Dark<sup id="cite_ref-MA_1-3" class="reference"><a href="#cite_note-MA-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White<sup id="cite_ref-MA_1-4" class="reference"><a href="#cite_note-MA-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Page_siblings%27_father" title="Page siblings&#039; father">Mr Page</a> (father) <br/></li><li><a href="/wiki/Page_siblings%27_mother" title="Page siblings&#039; mother">Mother</a> <br/></li><li><a href="/wiki/Daniel_Page%27s_sister" title="Daniel Page&#039;s sister">Sister</a></li><li><a href="/wiki/Daniel_Page" title="Daniel Page">Daniel Page</a> (brother) <br/></li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Page_family" title="Page family">Page family</a><sup id="cite_ref-MA_1-5" class="reference"><a href="#cite_note-MA-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Reggie Page</b> was a <a href="/wiki/Squib" title="Squib">Squib</a> born to a <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> <a href="/wiki/Page_siblings%27_father" title="Page siblings&#39; father">father</a> and <a href="/wiki/Page_siblings%27_mother" title="Page siblings&#39; mother">a witch</a>. He had a <a href="/wiki/Daniel_Page%27s_sister" title="Daniel Page&#39;s sister">sister</a> and one brother who was a wizard, <a href="/wiki/Daniel_Page" title="Daniel Page">Daniel Page</a>.<sup id="cite_ref-MA_1-6" class="reference"><a href="#cite_note-MA-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Reggie_Page?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Reggie_Page?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tright show-info-icon" style="width: 222px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/d/de/The_Bloody_Pages.png/revision/latest?cb=20200604125037" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/d/de/The_Bloody_Pages.png/revision/latest/scale-to-width-down/220?cb=20200604125037" decoding="async" width="220" height="101" class="thumbimage" data-image-name="The Bloody Pages.png" data-image-key="The_Bloody_Pages.png" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:The_Bloody_Pages.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">A Muggle newspaper reporting the arrests in the Page family</p> 		 	</figcaption> </figure>
+<p>Born and raised somewhere in the <a href="/wiki/Great_Britain" title="Great Britain">British Isles</a>, Reggie was the elder son of a <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> father and a <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> mother. He had a <a href="/wiki/Daniel_Page%27s_sister" title="Daniel Page&#39;s sister">sister</a> and a younger brother, <a href="/wiki/Daniel_Page" title="Daniel Page">Daniel Page</a>. Unlike Daniel, he wasn't born with any magical abilities. He attended a Muggle primary school.<sup id="cite_ref-MA_1-7" class="reference"><a href="#cite_note-MA-1">&#91;1&#93;</a></sup>
+</p><p>Their father was involved in illicit activities and in due time, he joined in. At some point, they were eventually caught by the Muggle <a href="/wiki/Police" title="Police">police</a> and arrested. The mother tried to intervene using magic so they could escape, scaring the police and violating the <a href="/wiki/International_Statute_of_Wizarding_Secrecy" title="International Statute of Wizarding Secrecy">International Statute of Wizarding Secrecy</a>.<sup id="cite_ref-MA_1-8" class="reference"><a href="#cite_note-MA-1">&#91;1&#93;</a></sup>
+</p><p>While they were tried and sentenced to a Muggle prison, her violation of the Statute of Secrecy led to her being sentenced to <a href="/wiki/Azkaban" title="Azkaban">Azkaban</a>. The family's arrest was covered by a Muggle newspaper, dubbing them "The Bloody Pages".<sup id="cite_ref-MA_1-9" class="reference"><a href="#cite_note-MA-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Reggie_Page?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Reggie_Page?action=edit&amp;section=2" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter:_Magic_Awakened" title="Harry Potter: Magic Awakened">Harry Potter: Magic Awakened</a></i> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Reggie_Page?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Reggie_Page?action=edit&amp;section=3" title="Edit section: Notes and references

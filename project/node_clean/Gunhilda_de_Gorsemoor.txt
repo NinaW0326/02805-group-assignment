@@ -1,0 +1,156 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/a/a6/Gunhilda_of_Gorsemoor.jpg/revision/latest?cb=20090623151348" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/a/a6/Gunhilda_of_Gorsemoor.jpg/revision/latest/scale-to-width-down/233?cb=20090623151348" srcset="https://static.wikia.nocookie.net/harrypotter/images/a/a6/Gunhilda_of_Gorsemoor.jpg/revision/latest/scale-to-width-down/233?cb=20090623151348 1x, https://static.wikia.nocookie.net/harrypotter/images/a/a6/Gunhilda_of_Gorsemoor.jpg/revision/latest/scale-to-width-down/466?cb=20090623151348 2x" class="pi-image-thumbnail" alt="" width="233" height="297"
+		     data-image-key="Gunhilda_of_Gorsemoor.jpg" data-image-name="Gunhilda of Gorsemoor.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Gunhilda de Gorsemoor</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/1556" class="mw-redirect" title="1556">1556</a><sup id="cite_ref-COSG_1-0" class="reference"><a href="#cite_note-COSG-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/1639" class="mw-redirect" title="1639">1639</a> (aged 82-83)<sup id="cite_ref-COSG_1-1" class="reference"><a href="#cite_note-COSG-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="alias">
+	
+		<h3 class="pi-data-label pi-secondary-font">Also known as</h3>
+	
+	<div class="pi-data-value pi-font">The One-Eyed Witch</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>Red (formerly)</li><li>Grey (formerly)</li><li>Bald</li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Green<sup id="cite_ref-COSG_1-2" class="reference"><a href="#cite_note-COSG-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White<sup id="cite_ref-COSG_1-3" class="reference"><a href="#cite_note-COSG-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Healer" title="Healer">Healer</a><sup id="cite_ref-COSG_1-4" class="reference"><a href="#cite_note-COSG-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Gunhilda de Gorsemoor</b> (<a href="/wiki/1556" class="mw-redirect" title="1556">1556</a> – <a href="/wiki/1639" class="mw-redirect" title="1639">1639</a>) was a one-eyed, hump-backed <a href="/wiki/Great_Britain" title="Great Britain">British</a> <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> and <a href="/wiki/Healer" title="Healer">Healer</a> who discovered a <a href="/wiki/Dragon_pox_cure" title="Dragon pox cure">cure</a> for <a href="/wiki/Dragon_Pox" title="Dragon Pox">Dragon Pox</a>.<sup id="cite_ref-COSG_1-5" class="reference"><a href="#cite_note-COSG-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_life"><span class="tocnumber">1.1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#As_a_Healer"><span class="tocnumber">1.2</span> <span class="toctext">As a Healer</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Death_and_legacy"><span class="tocnumber">1.3</span> <span class="toctext">Death and legacy</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Magical_abilities_and_skills"><span class="tocnumber">2</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Behind_the_scenes"><span class="tocnumber">3</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Etymology"><span class="tocnumber">4</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Appearances"><span class="tocnumber">6</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Notes_and_references"><span class="tocnumber">7</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gunhilda_de_Gorsemoor?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gunhilda_de_Gorsemoor?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gunhilda_de_Gorsemoor?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Early life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gunhilda_de_Gorsemoor?action=edit&amp;section=2" title="Edit section: Early life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Not much is known about Gunhilda de Gorsemoor's early life. She was born in <a href="/wiki/1556" class="mw-redirect" title="1556">1556</a>,<sup id="cite_ref-COSG_1-6" class="reference"><a href="#cite_note-COSG-1">&#91;1&#93;</a></sup> and might have attended <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> in her youth, from c. 1567- 1574.
+</p>
+<h3><span class="mw-headline" id="As_a_Healer">As a Healer</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gunhilda_de_Gorsemoor?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: As a Healer">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gunhilda_de_Gorsemoor?action=edit&amp;section=3" title="Edit section: As a Healer"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="thumb tleft show-info-icon" style="width: 177px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/8/8a/Gunhilda_of_Gorsemoor_USA_Card.jpg/revision/latest?cb=20091111235903" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/8/8a/Gunhilda_of_Gorsemoor_USA_Card.jpg/revision/latest/scale-to-width-down/175?cb=20091111235903" decoding="async" width="175" height="207" class="thumbimage" data-image-name="Gunhilda of Gorsemoor USA Card.jpg" data-image-key="Gunhilda_of_Gorsemoor_USA_Card.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Gunhilda_of_Gorsemoor_USA_Card.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Gunhilda, treating a sick <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a></p> 		 	</figcaption> </figure>
+<p>At some point in her life, Gunhilda became a <a href="/wiki/Healer" title="Healer">Healer</a>. She was seen as a talented and hard-working <a href="/wiki/Healer" title="Healer">Healer</a> by everyone who knew her. A gifted <a href="/wiki/Potioneer" title="Potioneer">potioneer</a>, Gunhilda became very famous for her development of the cure for <a href="/wiki/Dragon_pox" class="mw-redirect" title="Dragon pox">dragon pox</a>, a disease that in worst cases can and did kill many wizards, including <a href="/wiki/Chauncey_Oldridge" title="Chauncey Oldridge">Chauncey Oldridge</a><sup id="cite_ref-COSG_1-7" class="reference"><a href="#cite_note-COSG-1">&#91;1&#93;</a></sup> and, more recently, <a href="/wiki/Abraxas_Malfoy" title="Abraxas Malfoy">Abraxas Malfoy</a>.<sup id="cite_ref-HBP9_2-0" class="reference"><a href="#cite_note-HBP9-2">&#91;2&#93;</a></sup> Although effective, Gunhilda's cure has not eradicated the disease.<sup id="cite_ref-A._Malfoy_3-0" class="reference"><a href="#cite_note-A._Malfoy-3">&#91;3&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Death_and_legacy">Death and legacy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gunhilda_de_Gorsemoor?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Death and legacy">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gunhilda_de_Gorsemoor?action=edit&amp;section=4" title="Edit section: Death and legacy"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>After her death in <a href="/wiki/1639" class="mw-redirect" title="1639">1639</a>, everyone who knew her felt great sorrow. The great Healer might have died but she was not forgotten; her cure for <a href="/wiki/Dragon_Pox" title="Dragon Pox">Dragon Pox</a> continued saving lives many centuries after her death. For this, Gunhilda was featured in a <a href="/wiki/Chocolate_Frog_Card" title="Chocolate Frog Card">Chocolate Frog Card</a>.<sup id="cite_ref-COSG_1-8" class="reference"><a href="#cite_note-COSG-1">&#91;1&#93;</a></sup> A statue of Gunhilda can be found in the <a href="/wiki/Gunhilda_of_Gorsemoor_Corridor" title="Gunhilda of Gorsemoor Corridor">Gunhilda of Gorsemoor Corridor</a> on the third-floor at <a href="/wiki/Hogwarts_Castle" title="Hogwarts Castle">Hogwarts Castle</a>. When one taps the statue's hump with a wand and casts the opening <a href="/wiki/Charm" title="Charm">charm</a> <i><a href="/wiki/Dissendium" title="Dissendium">Dissendium</a></i>, a secret passage is opened, leading to the basement of <a href="/wiki/Honeydukes" title="Honeydukes">Honeydukes Sweetshop</a> in <a href="/wiki/Hogsmeade" title="Hogsmeade">Hogsmeade Village</a>, a passage which Harry Potter used.<sup id="cite_ref-POA10_4-0" class="reference"><a href="#cite_note-POA10-4">&#91;4&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gunhilda_de_Gorsemoor?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gunhilda_de_Gorsemoor?action=edit&amp;section=5" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Healing_magic" title="Healing magic">Healing magic</a></b>: Gunhilda was a highly accomplished and gifted <a href="/wiki/Healer" title="Healer">Healer</a>, meaning she was highly knowledgeable and proficient with various <a href="/wiki/Healing_spell" title="Healing spell">Healing spells</a>, healing <a href="/wiki/Potion" title="Potion">potions</a> and other magical remedies. She famously found the <a href="/wiki/Dragon_pox_cure" title="Dragon pox cure">Dragon pox cure</a>, showing her expertise in the art of medical magic.</li>
+<li><b><a href="/wiki/Potion" title="Potion">Potions</a></b>: Gunhilda was also a highly talented <a href="/wiki/Potioneer" title="Potioneer">Potioneer</a>, as she created the <a href="/wiki/Dragon_pox_cure" title="Dragon pox cure">Dragon pox cure</a>, a potent healing potion which works as the cure for the often lethal disease <a href="/wiki/Dragon_Pox" title="Dragon Pox">Dragon Pox</a>, a remarkable achievement in both the fields of potion-making and healing.</li></ul>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gunhilda_de_Gorsemoor?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gunhilda_de_Gorsemoor?action=edit&amp;section=6" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tright show-info-icon" style="width: 152px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/3/3d/Statue_of_Gunhilda_of_Gorsemoor_%28also_known_as_One-Eyed_Witch%29.JPG/revision/latest?cb=20091211041059" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/3/3d/Statue_of_Gunhilda_of_Gorsemoor_%28also_known_as_One-Eyed_Witch%29.JPG/revision/latest/scale-to-width-down/150?cb=20091211041059" decoding="async" width="150" height="322" class="thumbimage" data-image-name="Statue of Gunhilda of Gorsemoor (also known as One-Eyed Witch).JPG" data-image-key="Statue_of_Gunhilda_of_Gorsemoor_(also_known_as_One-Eyed_Witch).JPG" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Statue_of_Gunhilda_of_Gorsemoor_(also_known_as_One-Eyed_Witch).JPG" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">This statue of Gunhilda can be found at <a href="/wiki/Hogwarts_Castle" title="Hogwarts Castle">Hogwarts Castle</a></p> 		 	</figcaption> </figure>
+<ul><li>Gunhilda shares her name with <a href="/wiki/Gunhilda_Kneen" title="Gunhilda Kneen">Gunhilda Kneen</a>, an eleventh-century <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> who came down with a "touch" of <a href="/wiki/Dragon_Pox" title="Dragon Pox">Dragon Pox</a>, and as a result couldn't play in a <a href="/wiki/Quidditch" title="Quidditch">Quidditch</a> match.<sup id="cite_ref-QTtA_5-0" class="reference"><a href="#cite_note-QTtA-5">&#91;5&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gunhilda_de_Gorsemoor?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gunhilda_de_Gorsemoor?action=edit&amp;section=7" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The name "Gunhilda" is from the Old Norse name <i>Gunnhildr</i>, derived from the elements <i>gunnr</i> "war" and <i>hildr</i> "battle".
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gunhilda_de_Gorsemoor?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: See also">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gunhilda_de_Gorsemoor?action=edit&amp;section=8" title="Edit section: See also"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/One-Eyed_Witch_Passage" title="One-Eyed Witch Passage">One-Eyed Witch Passage</a></li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gunhilda_de_Gorsemoor?veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gunhilda_de_Gorsemoor?action=edit&amp;section=9" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 11 images related to <i><b><a href="/wiki/Category:Images_of_Gunhilda_de_Gorsemoor" title="Category:Images of Gunhilda de Gorsemoor">Gunhilda de Gorsemoor</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(film)" title="Harry Potter and the Philosopher&#39;s Stone (film)">Harry Potter and the Philosopher's Stone (film)</a></i> <small>(Appears as statue)</small><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(video_game)" title="Harry Potter and the Philosopher&#39;s Stone (video game)">Harry Potter and the Philosopher's Stone (video game)</a></i> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(video_game)" title="Harry Potter and the Chamber of Secrets (video game)">Harry Potter and the Chamber of Secrets (video game)</a></i> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban" title="Harry Potter and the Prisoner of Azkaban">Harry Potter and the Prisoner of Azkaban</a></i> <small>(Appears as statue)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(film)" title="Harry Potter and the Prisoner of Azkaban (film)">Harry Potter and the Prisoner of Azkaban (film)</a></i> <small>(Appears as statue)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(video_game)" title="Harry Potter and the Prisoner of Azkaban (video game)">Harry Potter and the Prisoner of Azkaban (video game)</a></i> <small>(Appears as statue)</small> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(video_game)" title="Harry Potter and the Order of the Phoenix (video game)">Harry Potter and the Order of the Phoenix (video game)</a></i> <small>(Appears as statue)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince_(video_game)" title="Harry Potter and the Half-Blood Prince (video game)">Harry Potter and the Half-Blood Prince (video game)</a></i> <small>(Appears as statue)</small></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> <small>(Appears as statue)</small> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li>
+<li><a href="/wiki/The_Wizarding_World_of_Harry_Potter" title="The Wizarding World of Harry Potter">The Wizarding World of Harry Potter</a> <small>(Appears as statue)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gunhilda_de_Gorsemoor?veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gunhilda_de_Gorsemoor?action=edit&amp;section=10" title="Edit section: Notes and references

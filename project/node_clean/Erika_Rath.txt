@@ -1,0 +1,148 @@
+<div class="mw-parser-output"><table class="notice metadata" id="spoiler" style="text-align: center; background: beige; margin: 1em 05%; padding: 0 1em; border: #a00 1px solid;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/8/8c/Hogwarts_Mystery.jpeg/revision/latest?cb=20180504083359" class="image"><img alt="Hogwarts Mystery.jpeg" src="https://static.wikia.nocookie.net/harrypotter/images/8/8c/Hogwarts_Mystery.jpeg/revision/latest/scale-to-width-down/175?cb=20180504083359" decoding="async" width="175" height="77" data-image-name="Hogwarts Mystery.jpeg" data-image-key="Hogwarts_Mystery.jpeg" /></a>
+</td>
+<td><b>Warning!</b>
+<p>At least some content in this article is derived from information featured in <i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i>. Spoilers will be present within the article.
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/3/35/ErikaRath.png/revision/latest?cb=20200730073524" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/3/35/ErikaRath.png/revision/latest/scale-to-width-down/350?cb=20200730073524" srcset="https://static.wikia.nocookie.net/harrypotter/images/3/35/ErikaRath.png/revision/latest/scale-to-width-down/350?cb=20200730073524 1x, https://static.wikia.nocookie.net/harrypotter/images/3/35/ErikaRath.png/revision/latest/scale-to-width-down/700?cb=20200730073524 2x" class="pi-image-thumbnail" alt="" width="270" height="375"
+		     data-image-key="ErikaRath.png" data-image-name="ErikaRath.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Erika Rath</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/31_August" title="31 August">31 August</a> <a href="/wiki/1973" title="1973">1973</a> or earlier<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a> or <a href="/wiki/Ireland" title="Ireland">Irish</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="title">
+	
+		<h3 class="pi-data-label pi-secondary-font">Title(s)</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Beater" title="Beater">Beater</a><sup id="cite_ref-HM_3-0" class="reference"><a href="#cite_note-HM-3">&#91;3&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-HM_3-1" class="reference"><a href="#cite_note-HM-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female<sup id="cite_ref-HM_3-2" class="reference"><a href="#cite_note-HM-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Blonde<sup id="cite_ref-HM_3-3" class="reference"><a href="#cite_note-HM-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Blue<sup id="cite_ref-HM_3-4" class="reference"><a href="#cite_note-HM-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Light<sup id="cite_ref-HM_3-5" class="reference"><a href="#cite_note-HM-3">&#91;3&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font">Father<sup id="cite_ref-HM_3-6" class="reference"><a href="#cite_note-HM-3">&#91;3&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a><sup id="cite_ref-HM_3-7" class="reference"><a href="#cite_note-HM-3">&#91;3&#93;</a></sup><ul><li><a href="/wiki/Dragon_Club" title="Dragon Club">Dragon Club</a></li></ul></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter: Hogwarts Mystery"><b>Penny Haywood</b>: "<i>I've seen her play before. She has a reputation for eliminating her competition…</i>"</span></dd>
+<dd><b>Jacob's sibling</b>: "<i>And eliminating the few fans in the stands…?</i>"</dd>
+<dd>&#8212; <a href="/wiki/Penny_Haywood" title="Penny Haywood">Penny Haywood</a> and <a href="/wiki/Jacob%27s_sibling" title="Jacob&#39;s sibling">Jacob's sibling</a> watch Erika Rath commit <a href="/wiki/Bumphing" title="Bumphing">a foul</a> during a <a href="/wiki/Quidditch_friendly" title="Quidditch friendly">Quidditch friendly</a><sup class="noprint"><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">[src]</a></sup></dd></dl>
+</div>
+<p><b>Erika Rath</b> was a <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> who played as the <a href="/wiki/Beater" title="Beater">Beater</a> on a <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts</a> <a href="/wiki/Quidditch_team" title="Quidditch team">Quidditch team</a> in the <a href="/wiki/1980s" title="1980s">1980s</a>. Possessed of terrible sportsmanship, she was known to deliberately send <a href="/wiki/Bludger" title="Bludger">Bludgers</a> at the crowds during games.<sup id="cite_ref-HM_3-8" class="reference"><a href="#cite_note-HM-3">&#91;3&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Physical_appearance"><span class="tocnumber">1</span> <span class="toctext">Physical appearance</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Magical_abilities_and_skills"><span class="tocnumber">2</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Possessions"><span class="tocnumber">3</span> <span class="toctext">Possessions</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Behind_the_scenes"><span class="tocnumber">4</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Appearances"><span class="tocnumber">5</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Notes_and_references"><span class="tocnumber">6</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Physical_appearance">Physical appearance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Erika_Rath?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Physical appearance">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Erika_Rath?action=edit&amp;section=1" title="Edit section: Physical appearance"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Erika had dark blue eyes, white skin and long, pale blonde hair. She was notable for having a substantial build with very muscular arms, as befitting a female <a href="/wiki/Beater" title="Beater">Beater</a>.
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Erika_Rath?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Erika_Rath?action=edit&amp;section=2" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Flight" title="Flight">Flying</a></b>: Erika was a fairly accomplished <a href="/wiki/Broomstick" title="Broomstick">broomstick</a> flyer, playing as <a href="/wiki/Beater" title="Beater">Beater</a> for an unknown Hogwarts <a href="/wiki/Quidditch" title="Quidditch">Quidditch</a> team, although she possessed very poor sportsmanship, often resorting to foul play.</li></ul>
+<h2><span class="mw-headline" id="Possessions">Possessions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Erika_Rath?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Possessions">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Erika_Rath?action=edit&amp;section=3" title="Edit section: Possessions"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Quidditch_Through_the_Ages" title="Quidditch Through the Ages">Quidditch Through the Ages</a></b>: Erika's dad gave her copy this book for her birthday.<sup id="cite_ref-HM_3-9" class="reference"><a href="#cite_note-HM-3">&#91;3&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Erika_Rath?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Erika_Rath?action=edit&amp;section=4" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Which house she is in depends on that of <a href="/wiki/Jacob%27s_sibling" title="Jacob&#39;s sibling">Jacob's sibling</a> (chosen by the player). If Jacob's sibling is in <a href="/wiki/Gryffindor" title="Gryffindor">Gryffindor</a>, <a href="/wiki/Hufflepuff" title="Hufflepuff">Hufflepuff</a> or <a href="/wiki/Slytherin" title="Slytherin">Slytherin</a>, Rath is in <a href="/wiki/Ravenclaw" title="Ravenclaw">Ravenclaw</a>. If <a href="/wiki/Jacob%27s_sibling" title="Jacob&#39;s sibling">Jacob's sibling</a> is in Ravenclaw, Rath is in Slytherin.</li>
+<li>In official material posted by the creators of <i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i>, including the loading screen from <a href="/wiki/4_September" title="4 September">4 September</a> to <a href="/wiki/10_October" title="10 October">10 October</a> <a href="/wiki/2019" title="2019">2019</a>, she is usually shown as a <a href="/wiki/Slytherin" title="Slytherin">Slytherin</a>.
+<ul><li>She is often shown as a Slytherin alongside a Gryffindor <a href="/wiki/Skye_Parkin" title="Skye Parkin">Skye Parkin</a>. However, this is impossible in-game, as Rath is in Ravenclaw if Skye is in Gryffindor.</li></ul></li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Erika_Rath?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Erika_Rath?action=edit&amp;section=5" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 4 images related to <i><b><a href="/wiki/Category:Images_of_Erika_Rath" title="Category:Images of Erika Rath">Erika Rath</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<ul><li><i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Erika_Rath?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Erika_Rath?action=edit&amp;section=6" title="Edit section: Notes and references

@@ -1,0 +1,118 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-death-eater pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/1/13/Gibbon.jpg/revision/latest?cb=20110614173553" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/1/13/Gibbon.jpg/revision/latest/scale-to-width-down/318?cb=20110614173553" srcset="https://static.wikia.nocookie.net/harrypotter/images/1/13/Gibbon.jpg/revision/latest/scale-to-width-down/318?cb=20110614173553 1x, https://static.wikia.nocookie.net/harrypotter/images/1/13/Gibbon.jpg/revision/latest/scale-to-width-down/636?cb=20110614173553 2x" class="pi-image-thumbnail" alt="" width="270" height="424"
+		     data-image-key="Gibbon.jpg" data-image-name="Gibbon.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Gibbon</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/30_June" title="30 June">30 June</a>, <a href="/wiki/1997" title="1997">1997</a><sup id="cite_ref-HBP29_1-0" class="reference"><a href="#cite_note-HBP29-1">&#91;1&#93;</a></sup><br/><a href="/wiki/Astronomy_Tower" title="Astronomy Tower">Astronomy Tower</a>, <a href="/wiki/Hogwarts_Castle" title="Hogwarts Castle">Hogwarts Castle</a>, <a href="/wiki/Scotland" title="Scotland">Scotland</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-HBP29_1-1" class="reference"><a href="#cite_note-HBP29-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male<sup id="cite_ref-HBP29_1-2" class="reference"><a href="#cite_note-HBP29-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Magical characteristics</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="patronus">
+	
+		<h3 class="pi-data-label pi-secondary-font">Patronus</h3>
+	
+	<div class="pi-data-value pi-font">None<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Tom_Riddle" title="Tom Riddle">Lord Voldemort</a><sup id="cite_ref-HBP29_1-3" class="reference"><a href="#cite_note-HBP29-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a><sup id="cite_ref-HBP29_1-4" class="reference"><a href="#cite_note-HBP29-1">&#91;1&#93;</a></sup></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Half-Blood Prince"><b>Remus Lupin</b>: "<i>A fight broke out, </i>the Death Eaters<i> scattered and we gave chase. One of them, Gibbon, broke away and headed up the tower stairs —</i>"</span></dd>
+<dd><b>Harry Potter</b>: "<i>To set off the Mark?</i>"</dd>
+<dd><b>Remus Lupin</b>: "<i>He must have done, yes, they must have arranged that before they left the Room of Requirement. But I don't think Gibbon liked the idea of waiting up there alone for Dumbledore, because he came running back downstairs to rejoin the fight and was hit by a <a href="/wiki/Killing_Curse" title="Killing Curse">Killing Curse</a> that just missed me.</i>"</dd>
+<dd>&#8212; <a href="/wiki/Remus_Lupin" title="Remus Lupin">Remus Lupin</a> and <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> shortly after the <a href="/wiki/Battle_of_the_Astronomy_Tower" title="Battle of the Astronomy Tower">Battle of the Astronomy Tower</a><sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">[src]</a></sup></dd></dl>
+</div>
+<p><b>Gibbon</b> (d. <a href="/wiki/30_June" title="30 June">30 June</a>, <a href="/wiki/1997" title="1997">1997</a>) was a <a href="/wiki/Dark_wizard" class="mw-redirect" title="Dark wizard">Dark wizard</a> and one of <a href="/wiki/Tom_Riddle" title="Tom Riddle">Lord Voldemort</a>'s loyal <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a>. He fought in the <a href="/wiki/Second_Wizarding_War" title="Second Wizarding War">Second Wizarding War</a>, including the <a href="/wiki/Battle_of_the_Astronomy_Tower" title="Battle of the Astronomy Tower">Battle of the Astronomy Tower</a> in 1997. During the Battle of the Astronomy Tower, Gibbon <a href="/wiki/Morsmordre" title="Morsmordre">set</a> the <a href="/wiki/Dark_Mark" title="Dark Mark">Dark Mark</a> above the <a href="/wiki/Astronomy_Tower" title="Astronomy Tower">Astronomy Tower</a>. He was accidentally killed by fellow Death Eater <a href="/wiki/Thorfinn_Rowle" title="Thorfinn Rowle">Thorfinn Rowle</a>, when he was hit by a stray <a href="/wiki/Killing_Curse" title="Killing Curse">Killing Curse</a>.<sup id="cite_ref-HBP29_1-5" class="reference"><a href="#cite_note-HBP29-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Personality_and_traits"><span class="tocnumber">2</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Magical_abilities_and_skills"><span class="tocnumber">3</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Etymology"><span class="tocnumber">4</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Behind_the_scenes"><span class="tocnumber">5</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Appearances"><span class="tocnumber">6</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Notes_and_references"><span class="tocnumber">7</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gibbon?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gibbon?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Half-Blood Prince">"<i>We were in trouble, we were losing. Gibbon was down, but the rest of the Death Eaters seemed ready to fight to the death. Neville had been hurt, Bill had been savaged by Greyback… It was all dark… curses flying everywhere…</i>"</span></dd>
+<dd>&#8212;<a href="/wiki/Nymphadora_Tonks" title="Nymphadora Tonks">Nymphadora Tonks</a> conveys details of the battle to <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a><sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p>Gibbon was an active <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eater</a> during the <a href="/wiki/Second_Wizarding_War" title="Second Wizarding War">Second Wizarding War</a>. It is unknown if he also took part in the <a href="/wiki/First_Wizarding_War" title="First Wizarding War">First Wizarding War</a> or whether or not he was sent to <a href="/wiki/Azkaban" title="Azkaban">Azkaban</a> following <a href="/wiki/Tom_Riddle" title="Tom Riddle">Lord Voldemort</a>'s original downfall.
+</p>
+<figure class="thumb tright show-info-icon" style="width: 125px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/0/00/Gibbon_2.jpg/revision/latest?cb=20110211142359" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/0/00/Gibbon_2.jpg/revision/latest/scale-to-width-down/123?cb=20110211142359" decoding="async" width="123" height="221" class="thumbimage" data-image-name="Gibbon 2.jpg" data-image-key="Gibbon_2.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Gibbon_2.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Gibbon during the Battle of the Astronomy Tower</p> 		 	</figcaption> </figure>
+<p>On <a href="/wiki/30_June" title="30 June">30 June</a> <a href="/wiki/1997" title="1997">1997</a>, Gibbon fought in the Battle of the Astronomy Tower, along with fellow Death Eaters <a href="/wiki/Alecto_Carrow" title="Alecto Carrow">Alecto</a> and <a href="/wiki/Amycus_Carrow" title="Amycus Carrow">Amycus Carrow</a>, <a href="/wiki/Corban_Yaxley" title="Corban Yaxley">Corban Yaxley</a>, <a href="/wiki/Thorfinn_Rowle" title="Thorfinn Rowle">Thorfinn Rowle</a>, <a href="/wiki/Draco_Malfoy" title="Draco Malfoy">Draco Malfoy</a>, <a href="/wiki/Severus_Snape" title="Severus Snape">Severus Snape</a>, and <a href="/wiki/Fenrir_Greyback" title="Fenrir Greyback">Fenrir Greyback</a>. Gibbon was the Death Eater who set the Dark Mark above the Astronomy Tower. It is supposed that he did not like the idea of staying at the tower and waiting for <a href="/wiki/Albus_Dumbledore" title="Albus Dumbledore">Albus Dumbledore</a> alone, so he ran downstairs. He died shortly afterwards, when a stray <a href="/wiki/Killing_Curse" title="Killing Curse">Killing Curse</a> cast by <a href="/wiki/Thorfinn_Rowle" title="Thorfinn Rowle">Thorfinn Rowle</a> that missed <a href="/wiki/Remus_Lupin" title="Remus Lupin">Remus Lupin</a> struck Gibbon instead.<sup id="cite_ref-HBP29_1-6" class="reference"><a href="#cite_note-HBP29-1">&#91;1&#93;</a></sup> It is unknown what happened to his body after the battle.
+</p>
+<h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gibbon?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Personality and traits">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gibbon?action=edit&amp;section=2" title="Edit section: Personality and traits"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Almost nothing is known about Gibbon's exact personality, except the fact that he feared Albus Dumbledore and that he did not want to stay at the Astronomy Tower and wait for him alone.<sup id="cite_ref-HBP29_1-7" class="reference"><a href="#cite_note-HBP29-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gibbon?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gibbon?action=edit&amp;section=3" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Dark_Arts" title="Dark Arts">Dark Arts</a></b>: Being a Death Eater, Gibbon would have been proficient in dark magic, including the casting of <a href="/wiki/Dark_charm" title="Dark charm">Dark charms</a> and likely the <a href="/wiki/Unforgivable_Curses" title="Unforgivable Curses">Unforgivable Curses</a>. Gibbon was capable of <a href="/wiki/Morsmordre" title="Morsmordre">creating</a> the <a href="/wiki/Dark_Mark" title="Dark Mark">Dark Mark</a> above Hogwarts, during a battle, something that only a skilled and experienced dark wizard could create, according to <a href="/wiki/Arthur_Weasley" title="Arthur Weasley">Arthur Weasley</a>.</li>
+<li><b><a href="/wiki/Duelling" title="Duelling">Duelling</a></b>: As a Death Eater, he was a competent and experienced duellist, as he fought against the Order of the Phoenix and escaping in order to go to the <a href="/wiki/Astronomy_Tower" title="Astronomy Tower">Astronomy Tower</a>, meaning he had some skill in <a href="/wiki/Martial_magic" title="Martial magic">martial magic</a>.<sup id="cite_ref-HBP29_1-8" class="reference"><a href="#cite_note-HBP29-1">&#91;1&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gibbon?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gibbon?action=edit&amp;section=4" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A "gibbon" is a type of primate. Gibbon is also a 15th century diminuative form of Gilbert. <a target="_blank" rel="noreferrer noopener" class="external autonumber" href="http://www.surnamedb.com/Surname/Gibbons">[1]</a> <a target="_blank" rel="noreferrer noopener" class="external autonumber" href="http://www.babynamespedia.com/meaning/Gibbon">[2]</a> <a target="_blank" rel="noreferrer noopener" class="external autonumber" href="http://gibbinshatleykelpie.blogspot.ca/2009/03/gibbons-surname.html">[3]</a> <a target="_blank" rel="noreferrer noopener" class="external autonumber" href="http://www.etymonline.com/index.php?term=gibbon">[4]</a>. See <a href="/wiki/Gilbert_Wimple" title="Gilbert Wimple">Gilbert Wimple</a> and <a href="/wiki/Eleanor_Sarah_Gibbs" title="Eleanor Sarah Gibbs">Eleanor Sarah Gibbs</a> for further details.
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gibbon?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gibbon?action=edit&amp;section=5" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>During the <a href="/wiki/Battle_of_the_Astronomy_Tower" title="Battle of the Astronomy Tower">Battle of the Astronomy Tower</a> he was recognised by <a href="/wiki/Remus_Lupin" title="Remus Lupin">Remus Lupin</a>, suggesting that the two have encountered each other in the past, or at least that he was a known Death Eater to the Order prior to the battle.</li>
+<li>In the <a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince_(film)" title="Harry Potter and the Half-Blood Prince (film)">film adaptation</a> of <i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">Harry Potter and the Half-Blood Prince</a></i>, the Battle of the Astronomy Tower did not take place, meaning Gibbon was not killed by a stray Killing Curse.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gibbon?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gibbon?action=edit&amp;section=6" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">Harry Potter and the Half-Blood Prince</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince_(film)" title="Harry Potter and the Half-Blood Prince (film)">Harry Potter and the Half-Blood Prince (film)</a></i> <span class="template-c">(Possible appearance, unidentified)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince_(video_game)" title="Harry Potter and the Half-Blood Prince (video game)">Harry Potter and the Half-Blood Prince (video game)</a></i> <span class="template-c">(Most likely)</span></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gibbon?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gibbon?action=edit&amp;section=7" title="Edit section: Notes and references

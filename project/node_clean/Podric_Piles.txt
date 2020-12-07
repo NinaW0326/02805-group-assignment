@@ -1,0 +1,105 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-hogwarts-staff pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/f/fd/Podric_Piles.jpg/revision/latest?cb=20131130160634" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/f/fd/Podric_Piles.jpg/revision/latest/scale-to-width-down/331?cb=20131130160634" srcset="https://static.wikia.nocookie.net/harrypotter/images/f/fd/Podric_Piles.jpg/revision/latest/scale-to-width-down/331?cb=20131130160634 1x, https://static.wikia.nocookie.net/harrypotter/images/f/fd/Podric_Piles.jpg/revision/latest/scale-to-width-down/661?cb=20131130160634 2x" class="pi-image-thumbnail" alt="" width="270" height="408"
+		     data-image-key="Podric_Piles.jpg" data-image-name="Podric Piles.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Podric Piles</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font">Before <a href="/wiki/1991" title="1991">1991</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a> or <a href="/wiki/Ireland" title="Ireland">Irish</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="title">
+	
+		<h3 class="pi-data-label pi-secondary-font">Title(s)</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Head_of_House" title="Head of House">Head of House</a><sup id="cite_ref-MHP_2-0" class="reference"><a href="#cite_note-MHP-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Pale</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Head_of_Gryffindor_House" title="Head of Gryffindor House">Head of Gryffindor House</a> (? - before <a href="/wiki/1991" title="1991">1991</a>)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="house">
+	
+		<h3 class="pi-data-label pi-secondary-font">House</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Gryffindor" title="Gryffindor">Gryffindor</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a><ul><li><a href="/wiki/Gryffindor" title="Gryffindor">Gryffindor</a></li></ul></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Professor</b><sup id="cite_ref-MHP_2-1" class="reference"><a href="#cite_note-MHP-2">&#91;2&#93;</a></sup> <b>Podric Piles</b><sup id="cite_ref-name_3-0" class="reference"><a href="#cite_note-name-3">&#91;3&#93;</a></sup> was a <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> that was depicted in a large painting that hung in <a href="/wiki/Gryffindor_Tower" title="Gryffindor Tower">Gryffindor Tower</a>, at <a href="/wiki/Hogwarts_Castle" title="Hogwarts Castle">Hogwarts Castle</a>. In his lifetime, he was <a href="/wiki/Head_of_Gryffindor_House" title="Head of Gryffindor House">Head of Gryffindor House</a>.<sup id="cite_ref-MHP_2-2" class="reference"><a href="#cite_note-MHP-2">&#91;2&#93;</a></sup>
+</p><p>In the painting, Piles is depicted as playing a game of <a href="/wiki/Wizard%27s_Chess" title="Wizard&#39;s Chess">Wizard's Chess</a> with <a href="/wiki/Uric_Oapley" title="Uric Oapley">Uric Oapley</a>, with <a href="/wiki/Tobias_Stump" title="Tobias Stump">Tobias Stump</a>, standing, watching over the game, and <a href="/wiki/Muldoon_Cragg" title="Muldoon Cragg">Muldoon Cragg</a>, in the background, absorbed in reading. Piles is depicted as sitting on a chair, wearing a long curly white powdered wig with a stripey pointy hat, a large red coat, a cravat, blue breeches and white stockings.
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Podric_Piles?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Podric_Piles?action=edit&amp;section=1" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(film)" title="Harry Potter and the Philosopher&#39;s Stone (film)">Harry Potter and the Philosopher's Stone (film)</a></i> <small>(Appears in portrait(s))</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(film)" title="Harry Potter and the Prisoner of Azkaban (film)">Harry Potter and the Prisoner of Azkaban (film)</a></i> <small>(Appears in portrait(s))</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire_(film)" title="Harry Potter and the Goblet of Fire (film)">Harry Potter and the Goblet of Fire (film)</a></i> <small>(Appears in portrait(s))</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(video_game)" title="Harry Potter and the Order of the Phoenix (video game)">Harry Potter and the Order of the Phoenix (video game)</a></i> <small>(Appears in portrait(s))</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince_(video_game)" title="Harry Potter and the Half-Blood Prince (video game)">Harry Potter and the Half-Blood Prince (video game)</a></i> <small>(Appears in portrait(s))</small></li>
+<li><i><a href="/wiki/The_Making_of_Harry_Potter" title="The Making of Harry Potter">The Making of Harry Potter</a></i> <small>(Appears in portrait(s))</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Podric_Piles?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Podric_Piles?action=edit&amp;section=2" title="Edit section: Notes and references

@@ -1,0 +1,115 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-slytherin pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/1/13/Adrianpucey-HS.jpg/revision/latest?cb=20101126164937" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/1/13/Adrianpucey-HS.jpg/revision/latest/scale-to-width-down/163?cb=20101126164937" srcset="https://static.wikia.nocookie.net/harrypotter/images/1/13/Adrianpucey-HS.jpg/revision/latest/scale-to-width-down/163?cb=20101126164937 1x, https://static.wikia.nocookie.net/harrypotter/images/1/13/Adrianpucey-HS.jpg/revision/latest/scale-to-width-down/326?cb=20101126164937 2x" class="pi-image-thumbnail" alt="" width="163" height="253"
+		     data-image-key="Adrianpucey-HS.jpg" data-image-name="Adrianpucey-HS.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Adrian Pucey</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">Between <a href="/wiki/1_September" title="1 September">1 September</a> <a href="/wiki/1977" title="1977">1977</a> and <a href="/wiki/31_August" title="31 August">31 August</a> <a href="/wiki/1978" title="1978">1978</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a> or <a href="/wiki/Ireland" title="Ireland">Irish</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="title">
+	
+		<h3 class="pi-data-label pi-secondary-font">Title(s)</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Chaser" title="Chaser">Chaser</a><sup id="cite_ref-PS11_2-0" class="reference"><a href="#cite_note-PS11-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-PS11_2-1" class="reference"><a href="#cite_note-PS11-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male<sup id="cite_ref-PS11_2-2" class="reference"><a href="#cite_note-PS11-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="house">
+	
+		<h3 class="pi-data-label pi-secondary-font">House</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Slytherin" title="Slytherin">Slytherin</a><sup id="cite_ref-PS11_2-3" class="reference"><a href="#cite_note-PS11-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>Pucey family</li><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a><sup id="cite_ref-PS11_2-4" class="reference"><a href="#cite_note-PS11-2">&#91;2&#93;</a></sup><ul><li><a href="/wiki/Slytherin_Quidditch_team" title="Slytherin Quidditch team">Slytherin Quidditch team</a><sup id="cite_ref-PS11_2-5" class="reference"><a href="#cite_note-PS11-2">&#91;2&#93;</a></sup></li><li><a href="/wiki/Slytherin" title="Slytherin">Slytherin</a><sup id="cite_ref-PS11_2-6" class="reference"><a href="#cite_note-PS11-2">&#91;2&#93;</a></sup></li></ul></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Adrian Pucey</b> (born c. <a href="/wiki/1977" title="1977">1977</a>-<a href="/wiki/1978" title="1978">1978</a>) was a <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> who began attending <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> in <a href="/wiki/1989" title="1989">1989</a>. He was a member of <a href="/wiki/Slytherin" title="Slytherin">Slytherin</a> house, and was a <a href="/wiki/Chaser" title="Chaser">Chaser</a> on the <a href="/wiki/Slytherin_Quidditch_team" title="Slytherin Quidditch team">Slytherin Quidditch team</a>.<sup id="cite_ref-PS11_2-7" class="reference"><a href="#cite_note-PS11-2">&#91;2&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Behind_the_scenes"><span class="tocnumber">2</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Etymology"><span class="tocnumber">3</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Appearances"><span class="tocnumber">4</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Notes_and_references"><span class="tocnumber">5</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Adrian_Pucey?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Adrian_Pucey?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tleft show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/3/31/Adrian.jpg/revision/latest?cb=20110427193713" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/3/31/Adrian.jpg/revision/latest/scale-to-width-down/180?cb=20110427193713" decoding="async" width="180" height="119" class="thumbimage" data-image-name="Adrian.jpg" data-image-key="Adrian.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Adrian.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Marcus, Adrian and Draco before a Quidditch Match</p> 		 	</figcaption> </figure>
+<p>Adrian Pucey first started attending Hogwarts for the <a href="/wiki/1989" title="1989">1989</a>-<a href="/wiki/1990" title="1990">1990</a> school year. He was sorted into the house of <a href="/wiki/Slytherin" title="Slytherin">Slytherin</a> and made it onto the <a href="/wiki/Slytherin_Quidditch_team" title="Slytherin Quidditch team">Slytherin Quidditch team</a> and he played the role of Chaser.<sup id="cite_ref-PS11_2-8" class="reference"><a href="#cite_note-PS11-2">&#91;2&#93;</a></sup>
+</p><p>Adrian was on the <a href="/wiki/Slytherin" title="Slytherin">Slytherin</a> team in <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a>'s first year up to and including his fifth year; hence, he was no more than two years ahead of Harry, assuming that he did not need to repeat a year, like <a href="/wiki/Marcus_Flint" title="Marcus Flint">Marcus Flint</a>. He was notable for being one of the few Slytherin Quidditch players who was not seen to commit a foul or otherwise cheat, despite being on the Quidditch team for at least three years.<sup id="cite_ref-PS11_2-9" class="reference"><a href="#cite_note-PS11-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Adrian_Pucey?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Adrian_Pucey?action=edit&amp;section=2" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Adrian Pucey was played by <a href="/wiki/Scot_Fearn" title="Scot Fearn">Scot Fearn</a> in the first two films, but due to a series of errors in the closing credits of <i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(film)" title="Harry Potter and the Philosopher&#39;s Stone (film)">Philosopher's Stone</a>,</i> he was listed as having played <a href="/wiki/Terence_Higgs" title="Terence Higgs">Terence Higgs</a> (his name was additionally misspelled as "Scott Fern" therein), while <a href="/wiki/David_Holmes" title="David Holmes">David Holmes</a> was wrongly credited as Pucey and <a href="/wiki/Will_Theakston" title="Will Theakston">Will Theakston</a> (Higgs) as Marcus Flint.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> These errors were corrected in <i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(film)" title="Harry Potter and the Chamber of Secrets (film)">Chamber of Secrets</a></i>, though both Fearn's and Jamie Yeates' names contained spelling errors.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Adrian_Pucey?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Adrian_Pucey?action=edit&amp;section=3" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>The name <a href="http://en.wikipedia.org/wiki/Adrian" class="extiw" title="wikipedia:Adrian">Adrian</a> is derived from the Roman name <i>Hadrian</i>, who was an emperor of Rome who gave his name to Hadrian's Wall in England. Adrian means "from Adria", a port on the Adriatic Sea, and was the regnal name of the first and only English pope, Adrian IV.</li>
+<li>Pucey may be from puce, a deep red to dark greyish purple, and from the French word for "flea."</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Adrian_Pucey?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Adrian_Pucey?action=edit&amp;section=4" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 3 images related to <i><b><a href="/wiki/Category:Images_of_Adrian_Pucey" title="Category:Images of Adrian Pucey">Adrian Pucey</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone" title="Harry Potter and the Philosopher&#39;s Stone">Harry Potter and the Philosopher's Stone</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(film)" title="Harry Potter and the Philosopher&#39;s Stone (film)">Harry Potter and the Philosopher's Stone (film)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets" title="Harry Potter and the Chamber of Secrets">Harry Potter and the Chamber of Secrets</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(film)" title="Harry Potter and the Chamber of Secrets (film)">Harry Potter and the Chamber of Secrets (film)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(video_game)" title="Harry Potter and the Chamber of Secrets (video game)">Harry Potter and the Chamber of Secrets (video game)</a></i><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban" title="Harry Potter and the Prisoner of Azkaban">Harry Potter and the Prisoner of Azkaban</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">Harry Potter and the Order of the Phoenix</a></i></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Harry_Potter:_Quidditch_World_Cup" title="Harry Potter: Quidditch World Cup">Harry Potter: Quidditch World Cup</a></i></li>
+<li><i><a href="/wiki/Harry_Potter:_The_Character_Vault" title="Harry Potter: The Character Vault">Harry Potter: The Character Vault</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Adrian_Pucey?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Adrian_Pucey?action=edit&amp;section=5" title="Edit section: Notes and references

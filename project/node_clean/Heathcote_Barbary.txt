@@ -1,0 +1,90 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/0/0a/Heathcote_Barbary.JPG/revision/latest?cb=20100109231502" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/0/0a/Heathcote_Barbary.JPG/revision/latest/scale-to-width-down/286?cb=20100109231502" srcset="https://static.wikia.nocookie.net/harrypotter/images/0/0a/Heathcote_Barbary.JPG/revision/latest/scale-to-width-down/286?cb=20100109231502 1x, https://static.wikia.nocookie.net/harrypotter/images/0/0a/Heathcote_Barbary.JPG/revision/latest/scale-to-width-down/572?cb=20100109231502 2x" class="pi-image-thumbnail" alt="" width="270" height="430"
+		     data-image-key="Heathcote_Barbary.JPG" data-image-name="Heathcote Barbary.JPG"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Heathcote Barbary</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/1974" title="1974">1974</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Rhythm guitarist for the <a href="/wiki/Weird_Sisters" title="Weird Sisters">Weird Sisters</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font">The <a href="/wiki/Weird_Sisters" title="Weird Sisters">Weird Sisters</a></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Goblet of Fire (film)">"<i>Ma ma ma, ma ma ma, ma ma ma</i>"</span></dd>
+<dd>&#8212;In the song<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire_(film)" title="Harry Potter and the Goblet of Fire (film)">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Heathcote Barbary</b> (b. <a href="/wiki/1974" title="1974">1974</a>) was a <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> and the <a href="/wiki/Rhythm_guitar" title="Rhythm guitar">rhythm guitarist</a> for the popular <a href="/wiki/Wizarding_world" title="Wizarding world">wizarding</a> band the <a href="/wiki/Weird_Sisters" title="Weird Sisters">Weird Sisters</a>. He performed at the <a href="/wiki/1994" title="1994">1994</a> <a href="/wiki/Yule_Ball" title="Yule Ball">Yule Ball</a> along with the rest of his band.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Heathcote_Barbary?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Heathcote_Barbary?action=edit&amp;section=1" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Barbary was portrayed by <a href="/wiki/Jason_Buckle" title="Jason Buckle">Jason Buckle</a> in the <a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire_(film)" title="Harry Potter and the Goblet of Fire (film)">film adaptation</a> of <i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire" title="Harry Potter and the Goblet of Fire">Harry Potter and the Goblet of Fire</a></i>.</li>
+<li>If he attended Hogwarts, he would have been in school between <a href="/wiki/1985" title="1985">1985</a> and <a href="/wiki/1992" title="1992">1992</a>, which means he would have been in his <a href="/wiki/Seventh_year" title="Seventh year">seventh year</a> when <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> was in his <a href="/wiki/First_year" title="First year">first year</a>.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Heathcote_Barbary?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Heathcote_Barbary?action=edit&amp;section=2" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tleft show-info-icon" style="width: 115px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/7/74/93_heathcote_barbary.gif/revision/latest?cb=20100725032508" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/7/74/93_heathcote_barbary.gif/revision/latest/scale-to-width-down/113?cb=20100725032508" decoding="async" width="113" height="107" class="thumbimage" data-image-name="93 heathcote barbary.gif" data-image-key="93_heathcote_barbary.gif" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:93_heathcote_barbary.gif" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Heathcote Barbary's Chocolate Frog Card</p> 		 	</figcaption> </figure>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(video_game)" title="Harry Potter and the Philosopher&#39;s Stone (video game)">Harry Potter and the Philosopher's Stone (video game)</a></i> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(video_game)" title="Harry Potter and the Chamber of Secrets (video game)">Harry Potter and the Chamber of Secrets (video game)</a></i> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire" title="Harry Potter and the Goblet of Fire">Harry Potter and the Goblet of Fire</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire_(film)" title="Harry Potter and the Goblet of Fire (film)">Harry Potter and the Goblet of Fire (film)</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Heathcote_Barbary?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Heathcote_Barbary?action=edit&amp;section=3" title="Edit section: Notes and references

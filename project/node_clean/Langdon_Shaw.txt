@@ -1,0 +1,183 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-muggle pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/d/da/FBaWtFT_promo_Langdon_Shaw.jpg/revision/latest?cb=20170112070054" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/d/da/FBaWtFT_promo_Langdon_Shaw.jpg/revision/latest/scale-to-width-down/350?cb=20170112070054" srcset="https://static.wikia.nocookie.net/harrypotter/images/d/da/FBaWtFT_promo_Langdon_Shaw.jpg/revision/latest/scale-to-width-down/350?cb=20170112070054 1x, https://static.wikia.nocookie.net/harrypotter/images/d/da/FBaWtFT_promo_Langdon_Shaw.jpg/revision/latest/scale-to-width-down/700?cb=20170112070054 2x" class="pi-image-thumbnail" alt="" width="270" height="329"
+		     data-image-key="FBaWtFT_promo_Langdon_Shaw.jpg" data-image-name="FBaWtFT promo Langdon Shaw.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Langdon Shaw</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">Circa. 1900's</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font">Uncertain</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Non-magic_people" title="Non-magic people">No-Maj</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="marital">
+	
+		<h3 class="pi-data-label pi-secondary-font">Marital status</h3>
+	
+	<div class="pi-data-value pi-font">unknown</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/United_States_of_America" title="United States of America">American</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Henry_Shaw_Senior" title="Henry Shaw Senior">Henry Shaw Senior</a> (father)</li><li><a href="/wiki/Henry_Shaw_Junior" title="Henry Shaw Junior">Henry Shaw Junior</a> (brother) †</li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Shaw_family" title="Shaw family">Shaw family</a></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Fantastic Beasts and Where to Find Them: The Original Screenplay">"<i>There’s strange things going on all over the city. The people behind this—they are not like you and me. This is witchcraft, don’t you see.</i>"</span></dd>
+<dd>&#8212;Langdon Shaw regarding the existence of <a href="/wiki/Magic" title="Magic">magic</a><sup class="noprint"><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them:_The_Original_Screenplay" title="Fantastic Beasts and Where to Find Them: The Original Screenplay">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Langdon Shaw</b> was an <a href="/wiki/United_States_of_America" title="United States of America">American</a> <a href="/wiki/No-Maj" class="mw-redirect" title="No-Maj">No-Maj</a> who lived in the early <a href="/wiki/20th_century" title="20th century">20th century</a>. He was the younger son of newspaper magnate <a href="/wiki/Henry_Shaw_Senior" title="Henry Shaw Senior">Henry Shaw Senior</a>.<sup id="cite_ref-featurette_1-0" class="reference"><a href="#cite_note-featurette-1">&#91;1&#93;</a></sup><sup id="cite_ref-description_2-0" class="reference"><a href="#cite_note-description-2">&#91;2&#93;</a></sup> He had at least one sibling, an older brother <a href="/wiki/Henry_Shaw_Junior" title="Henry Shaw Junior">Henry Shaw Junior</a> who was elected to the United States Senate in <a href="/wiki/1920" title="1920">1920</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_life"><span class="tocnumber">1.1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#The_Obscurus"><span class="tocnumber">1.2</span> <span class="toctext">The Obscurus</span></a>
+<ul>
+<li class="toclevel-3 tocsection-4"><a href="#Meeting_the_Barebones"><span class="tocnumber">1.2.1</span> <span class="toctext">Meeting the Barebones</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#Attack_on_the_Fundraising_Dinner_Hall"><span class="tocnumber">1.2.2</span> <span class="toctext">Attack on the Fundraising Dinner Hall</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Obscurial_attack_on_New_York"><span class="tocnumber">1.2.3</span> <span class="toctext">Obscurial attack on New York</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Personality_and_traits"><span class="tocnumber">2</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Relationships"><span class="tocnumber">3</span> <span class="toctext">Relationships</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Family"><span class="tocnumber">3.1</span> <span class="toctext">Family</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Behind_the_scenes"><span class="tocnumber">4</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Appearances"><span class="tocnumber">5</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Notes_and_references"><span class="tocnumber">6</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Langdon_Shaw?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Langdon_Shaw?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Langdon_Shaw?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Early life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Langdon_Shaw?action=edit&amp;section=2" title="Edit section: Early life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>While his older brother, the senator <a href="/wiki/Henry_Shaw_Junior" title="Henry Shaw Junior">Henry Shaw Junior</a>, was Shaw Snr's pride and joy, Langdon was viewed as something of a failure and disappointment. This did not stop him from constantly trying to seek his father's approval.<sup id="cite_ref-description_2-1" class="reference"><a href="#cite_note-description-2">&#91;2&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="The_Obscurus">The Obscurus</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Langdon_Shaw?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: The Obscurus">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Langdon_Shaw?action=edit&amp;section=3" title="Edit section: The Obscurus"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Meeting_the_Barebones">Meeting the Barebones</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Langdon_Shaw?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Meeting the Barebones">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Langdon_Shaw?action=edit&amp;section=4" title="Edit section: Meeting the Barebones"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Fantastic Beasts and Where to Find Them: The Original Screenplay"><b>Langdon</b>: "<i>The crazy disturbances in the subway — just look at the pictures!</i>"</span></dd>
+<dd><b>Henry Shaw Snr</b>: "<i>I’d like you and your friends to leave.</i>"</dd>
+<dd>&#8212; Henry Shaw Senior dismissing his son<sup class="noprint"><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them:_The_Original_Screenplay" title="Fantastic Beasts and Where to Find Them: The Original Screenplay">[src]</a></sup></dd></dl>
+</div><figure class="thumb tright show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/4/4b/LookAtTheEvidence.png/revision/latest?cb=20161013215750" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/4/4b/LookAtTheEvidence.png/revision/latest/scale-to-width-down/180?cb=20161013215750" decoding="async" width="180" height="74" class="thumbimage" data-image-name="LookAtTheEvidence.png" data-image-key="LookAtTheEvidence.png" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:LookAtTheEvidence.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Langdon arguing with his father over the existence of witches in America</p> 		 	</figcaption> </figure>
+<p>On <a href="/wiki/6_December" title="6 December">6 December</a> <a href="/wiki/1926" title="1926">1926</a>, Langdon brought <a href="/wiki/Mary_Lou_Barebone" title="Mary Lou Barebone">Mary Lou Barebone</a> from the <a href="/wiki/New_Salem_Philanthropic_Society" title="New Salem Philanthropic Society">New Salem Philanthropic Society</a> and her adopted children <a href="/wiki/Credence_Barebone" title="Credence Barebone">Credence</a>, <a href="/wiki/Chastity_Barebone" title="Chastity Barebone">Chastity</a> and <a href="/wiki/Modesty_Barebone" title="Modesty Barebone">Modesty</a> to <a href="/wiki/Shaw_News" title="Shaw News">Shaw News</a> meet with his father. Barging into Shaw Snr's office, Langdon laid out a portfolio filled with a series of photographic evidence of <a href="/wiki/Magic" title="Magic">witchcraft</a> and told his father of his belief that "strange things [were] going on all over" <a href="/wiki/New_York" title="New York">New York</a> and that the people behind these incidents were "<a href="/wiki/Wizardkind" title="Wizardkind">not like [them]</a>," certain that he was giving him the scoop of the century.<sup id="cite_ref-description_2-2" class="reference"><a href="#cite_note-description-2">&#91;2&#93;</a></sup> His father and brother both dismissed his claims.<sup id="cite_ref-description_2-3" class="reference"><a href="#cite_note-description-2">&#91;2&#93;</a></sup>
+</p><p>Henry Shaw Senior refused to give Mary Lou the support of his newspaper company and his elder son's re-election platform, and asked the <a href="/wiki/Barebone_family" title="Barebone family">Barebone family</a> to leave. While they were departing, Mary Lou's adopted son Credence dropped a leaflet, which Henry Shaw Jr handed back to him, while unashamedly and cruelly calling him a freak.<sup id="cite_ref-FBS_3-0" class="reference"><a href="#cite_note-FBS-3">&#91;3&#93;</a></sup>
+</p>
+<figure class="thumb tleft show-info-icon" style="width: 252px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/e/e4/18425469_1292600117521350_3427835379275088949_n.jpg/revision/latest?cb=20180313040643" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/e/e4/18425469_1292600117521350_3427835379275088949_n.jpg/revision/latest/scale-to-width-down/250?cb=20180313040643" decoding="async" width="250" height="102" class="thumbimage" data-image-name="18425469 1292600117521350 3427835379275088949 n.jpg" data-image-key="18425469_1292600117521350_3427835379275088949_n.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:18425469_1292600117521350_3427835379275088949_n.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Langdon tried to tell his father about witchcraft to win his approval</p> 		 	</figcaption> </figure>
+<h4><span class="mw-headline" id="Attack_on_the_Fundraising_Dinner_Hall">Attack on the Fundraising Dinner Hall</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Langdon_Shaw?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Attack on the Fundraising Dinner Hall">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Langdon_Shaw?action=edit&amp;section=5" title="Edit section: Attack on the Fundraising Dinner Hall"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Fantastic Beasts and Where to Find Them: The Original Screenplay">"<i>Witches!</i>"</span></dd>
+<dd>&#8212;Langdon's reaction after when his brother gets killed<sup class="noprint"><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them:_The_Original_Screenplay" title="Fantastic Beasts and Where to Find Them: The Original Screenplay">[src]</a></sup></dd>
+<dd></dd></dl></div><p>Langdon later attended his brother's <a href="/wiki/Henry_Shaw_Junior%27s_fundraising_dinner" class="mw-redirect" title="Henry Shaw Junior&#39;s fundraising dinner">fundraising dinner</a> with his father. While his brother was in the middle of his speech, an <a href="/wiki/Obscurus" title="Obscurus">invisible force</a> burst forth from beneath the organ. It soared across the hall, sending tables flying, and throwing people around as it carved a line toward the stage where Shaw Jr was still standing. Langdon watched as the invisible force threw his brother backwards against his poster, and then raised him up high where he was suspended for just a moment in midair before being thrown violently back down onto the stage, dead. In the midst of sounds of anguish and panic from the crowd, his father crouched beside his slain son. Langdon, who was slightly drunk, determinedly and triumphantly stated that this was the work of witchcraft.<sup id="cite_ref-FBS_3-1" class="reference"><a href="#cite_note-FBS-3">&#91;3&#93;</a></sup>
+</p><figure class="thumb tright show-info-icon" style="width: 252px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/4/44/18425203_1292600077521354_5711824014161688619_n.jpg/revision/latest?cb=20180313040535" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/4/44/18425203_1292600077521354_5711824014161688619_n.jpg/revision/latest/scale-to-width-down/250?cb=20180313040535" decoding="async" width="250" height="105" class="thumbimage" data-image-name="18425203 1292600077521354 5711824014161688619 n.jpg" data-image-key="18425203_1292600077521354_5711824014161688619_n.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:18425203_1292600077521354_5711824014161688619_n.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">A drunk Langdon right after the attack on the Fundraising Dinner Hall</p> 		 	</figcaption> </figure>
+<h4><span class="mw-headline" id="Obscurial_attack_on_New_York">Obscurial attack on New York</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Langdon_Shaw?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Obscurial attack on New York">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Langdon_Shaw?action=edit&amp;section=6" title="Edit section: Obscurial attack on New York"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Fantastic Beasts and Where to Find Them: The Original Screenplay">"<i>Langdon, drunk, stares, enthralled and amazed with the spectacle.</i>"</span></dd>
+<dd>&#8212;Langdon reaction as he watches the Obscurus<sup class="noprint"><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them:_The_Original_Screenplay" title="Fantastic Beasts and Where to Find Them: The Original Screenplay">[src]</a></sup></dd>
+<dd></dd></dl></div><p>On the next night, <a href="/wiki/7_December" title="7 December">7 December</a> <a href="/wiki/1926" title="1926">1926</a>, Langdon was present when <a href="/wiki/Credence_Barebone" title="Credence Barebone">Credence Barebone</a> unleashed his <a href="/wiki/Obscurus" title="Obscurus">Obscurus</a> on New York, and <a href="/wiki/Magical_Congress_of_the_United_States_of_America" title="Magical Congress of the United States of America">MACUSA</a> began magically sealing off the subway entrance where Credence had taken refuge. Having seen magic first-hand, Langdon revelled in the spectacle as Shaw Snr vowed to expose the wizarding kind.<sup id="cite_ref-FB111_4-0" class="reference"><a href="#cite_note-FB111-4">&#91;4&#93;</a></sup> When the dawn of <a href="/wiki/8_December" title="8 December">8 December</a> came, <a href="/wiki/Newton_Scamander" title="Newton Scamander">Newton Scamander</a> unleashed <a href="/wiki/Frank" title="Frank">Frank</a> the <a href="/wiki/Thunderbird" title="Thunderbird">Thunderbird</a>, who created a rainstorm laced with <a href="/wiki/Swooping_Evil_venom" title="Swooping Evil venom">Swooping Evil venom</a>, <a href="/wiki/Memory_Charm" title="Memory Charm">Obliviating</a> all <a href="/wiki/Non-magic_people" title="Non-magic people">No-Majs'</a> memories of magic, including Langdon's, who stood in the <a href="/wiki/Water" title="Water">rain</a> as his expression grew blank.<sup id="cite_ref-FB118_5-0" class="reference"><a href="#cite_note-FB118-5">&#91;5&#93;</a></sup>&#160;
+</p><h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Langdon_Shaw?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Personality and traits">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Langdon_Shaw?action=edit&amp;section=7" title="Edit section: Personality and traits"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Fantastic Beasts and Where to Find Them: The Original Screenplay">"<i>Shaw Snr and the senator look dubious—all too used to Langdon’s harebrained little projects and interests.</i>"</span></dd>
+<dd>&#8212;Shaw Senior and the Senator reaction about Langdon<sup class="noprint"><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them:_The_Original_Screenplay" title="Fantastic Beasts and Where to Find Them: The Original Screenplay">[src]</a></sup></dd>
+<dd></dd></dl></div><p>Langdon Shaw was an excitable young man with a proclivity for wild ideas. He was frustrated by living in his elder brother’s shadow, and constantly tried to seek his father's approval and attention. He was also excited to try to show he had authority or power. Langdon appeared to have a tendency to drink too much.
+</p><h2><span class="mw-headline" id="Relationships">Relationships</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Langdon_Shaw?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Relationships">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Langdon_Shaw?action=edit&amp;section=8" title="Edit section: Relationships"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Family">Family</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Langdon_Shaw?veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Edit section: Family">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Langdon_Shaw?action=edit&amp;section=9" title="Edit section: Family"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="thumb tright show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/4/4a/Shaw_Family_FB1.png/revision/latest?cb=20170226020520" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="180" height="96" class="thumbimage lazyload" data-image-name="Shaw Family FB1.png" data-image-key="Shaw_Family_FB1.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/4/4a/Shaw_Family_FB1.png/revision/latest/scale-to-width-down/180?cb=20170226020520" /></a> 	<noscript><a href="https://static.wikia.nocookie.net/harrypotter/images/4/4a/Shaw_Family_FB1.png/revision/latest?cb=20170226020520" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/4/4a/Shaw_Family_FB1.png/revision/latest/scale-to-width-down/180?cb=20170226020520" decoding="async" width="180" height="96" class="thumbimage" data-image-name="Shaw Family FB1.png" data-image-key="Shaw_Family_FB1.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/4/4a/Shaw_Family_FB1.png/revision/latest/scale-to-width-down/180?cb=20170226020520" /></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Shaw_Family_FB1.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Langdon with his father and brother</p> 		 	</figcaption> </figure>
+<p>Langdon's relationship with his father and brother seemed to be quite poor. His father <a href="/wiki/Henry_Shaw_Senior" title="Henry Shaw Senior">Henry Shaw Senior</a> saw him as a disappointment and was rather contemptuous of him, constantly dismissing Langdon and even refusing to listen to anything he said, including his belief in witchcraft, all the while favouring and praising his brother <a href="/wiki/Henry_Shaw_Junior" title="Henry Shaw Junior">Henry Shaw Jr</a>.
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Langdon_Shaw?veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Langdon_Shaw?action=edit&amp;section=10" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Langdon Shaw is portrayed by <a href="/wiki/Ronan_Raftery" title="Ronan Raftery">Ronan Raftery</a> in the <a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(film)" title="Fantastic Beasts and Where to Find Them (film)">film adaptation</a> of <i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(companion_book)" title="Fantastic Beasts and Where to Find Them (companion book)">Fantastic Beasts and Where to Find Them</a></i>.<sup id="cite_ref-description_2-4" class="reference"><a href="#cite_note-description-2">&#91;2&#93;</a></sup></li>
+<li>Initial reports gave this character's name as "Laurence".<sup id="cite_ref-IMDB_6-0" class="reference"><a href="#cite_note-IMDB-6">&#91;6&#93;</a></sup> His correct name was later released through  <i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i>.<sup id="cite_ref-featurette_1-1" class="reference"><a href="#cite_note-featurette-1">&#91;1&#93;</a></sup><sup id="cite_ref-description_2-5" class="reference"><a href="#cite_note-description-2">&#91;2&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Langdon_Shaw?veaction=edit&amp;section=11" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Langdon_Shaw?action=edit&amp;section=11" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" class="lazyload" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 7 images related to <i><b><a href="/wiki/Category:Images_of_Langdon_Shaw" title="Category:Images of Langdon Shaw">Langdon Shaw</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<ul><li><i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them:_The_Original_Screenplay" title="Fantastic Beasts and Where to Find Them: The Original Screenplay">Fantastic Beasts and Where to Find Them: The Original Screenplay</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(film)" title="Fantastic Beasts and Where to Find Them (film)">Fantastic Beasts and Where to Find Them (film)</a></i></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Langdon_Shaw?veaction=edit&amp;section=12" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Langdon_Shaw?action=edit&amp;section=12" title="Edit section: Notes and references

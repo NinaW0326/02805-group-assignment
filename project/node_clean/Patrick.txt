@@ -1,0 +1,93 @@
+<div class="mw-parser-output"><table class="notice metadata" id="spoiler" style="text-align: center; background: beige; margin: 1em 05%; padding: 0 1em; border: #a00 1px solid;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/e/ea/Wizards_Unite_logo.jpg/revision/latest?cb=20181114170049" class="image"><img alt="Wizards Unite logo.jpg" src="https://static.wikia.nocookie.net/harrypotter/images/e/ea/Wizards_Unite_logo.jpg/revision/latest/scale-to-width-down/175?cb=20181114170049" decoding="async" width="175" height="98" data-image-name="Wizards Unite logo.jpg" data-image-key="Wizards_Unite_logo.jpg" /></a>
+</td>
+<td><b>Warning!</b>
+<p>At least some content in this article is derived from information featured in <i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i>. As such, spoilers will be present within the article.
+</p><p>For gameplay-specific information, please see the relevant article on <a href="https://harrypotterwizardsunite.fandom.com/wiki/Patrick" class="extiw" title="w:c:harrypotterwizardsunite:Patrick">the Harry Potter: Wizards Unite Wiki!</a>
+</p>
+</td></tr></tbody></table><div class="notice metadata" id="spoiler" style="text-align: center; background: #DCDCDC; margin: 1em 05%; padding: 0 1em; border: #696969 1px solid;">
+<p><b>"Point me!"</b>
+</p>
+This article is about <b>the Augurey owned by Newton Scamander</b>. You may be looking for <b><a href="/wiki/Patrick_(disambiguation)" title="Patrick (disambiguation)">other people with the same name</a></b>.</div>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-pet pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/7/7c/Augurey.jpg/revision/latest?cb=20181102190303" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/7/7c/Augurey.jpg/revision/latest/scale-to-width-down/340?cb=20181102190303" srcset="https://static.wikia.nocookie.net/harrypotter/images/7/7c/Augurey.jpg/revision/latest/scale-to-width-down/340?cb=20181102190303 1x, https://static.wikia.nocookie.net/harrypotter/images/7/7c/Augurey.jpg/revision/latest/scale-to-width-down/680?cb=20181102190303 2x" class="pi-image-thumbnail" alt="" width="270" height="397"
+		     data-image-key="Augurey.jpg" data-image-name="Augurey.jpg"/>
+		
+	</a>
+	
+</figure>
+
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Patrick</h2>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">Before September <a href="/wiki/1927" title="1927">1927</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Augurey" title="Augurey">Augurey</a><sup id="cite_ref-COG39_1-0" class="reference"><a href="#cite_note-COG39-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male<sup id="cite_ref-COG39_1-1" class="reference"><a href="#cite_note-COG39-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="feathers">
+	
+		<h3 class="pi-data-label pi-secondary-font">Feathers</h3>
+	
+	<div class="pi-data-value pi-font">Greenish-black<sup id="cite_ref-COG39_1-2" class="reference"><a href="#cite_note-COG39-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Blue<sup id="cite_ref-COG39_1-3" class="reference"><a href="#cite_note-COG39-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Newton_Scamander" title="Newton Scamander">Newt Scamander</a> (owner)<sup id="cite_ref-COG39_1-4" class="reference"><a href="#cite_note-COG39-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Pet_individual_infobox" title="Template:Pet individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Patrick</b> was a male <a href="/wiki/Augurey" title="Augurey">Augurey</a> kept by <a href="/wiki/Newton_Scamander" title="Newton Scamander">Newt Scamander</a> in the menagerie beneath his <a href="/wiki/Newton_Scamander%27s_apartment" class="mw-redirect" title="Newton Scamander&#39;s apartment">apartment</a> in <a href="/wiki/1927" title="1927">1927</a>.<sup id="cite_ref-COG39_1-5" class="reference"><a href="#cite_note-COG39-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Patrick?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Patrick?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>When departing for <a href="/wiki/Paris" title="Paris">Paris</a> in <a href="/wiki/1927" title="1927">1927</a>, Newt left a note for his assistant <a href="/wiki/Bunty" title="Bunty">Bunty</a> reminding her to give Patrick his pellets.<sup id="cite_ref-COG39_1-6" class="reference"><a href="#cite_note-COG39-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Patrick?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Patrick?action=edit&amp;section=2" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Fantastic_Beasts:_The_Crimes_of_Grindelwald_-_The_Original_Screenplay" title="Fantastic Beasts: The Crimes of Grindelwald - The Original Screenplay">Fantastic Beasts: The Crimes of Grindelwald - The Original Screenplay</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Fantastic_Beasts:_The_Crimes_of_Grindelwald" title="Fantastic Beasts: The Crimes of Grindelwald">Fantastic Beasts: The Crimes of Grindelwald</a></i></li>
+<li><i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i> <small>(Mentioned only)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Patrick?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Patrick?action=edit&amp;section=3" title="Edit section: Notes and references

@@ -1,0 +1,123 @@
+<div class="mw-parser-output"><table class="notice metadata" cellpadding="3px" id="merge" style="text-align: center; background: snow; margin: 1em 10%; border: #a00 1px solid;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/6/66/Harry_and_Voldy_part_2.jpg/revision/latest?cb=20200413010634" class="image"><img alt="Harry and Voldy part 2.jpg" src="https://static.wikia.nocookie.net/harrypotter/images/6/66/Harry_and_Voldy_part_2.jpg/revision/latest/scale-to-width-down/80?cb=20200413010634" decoding="async" width="80" height="63" data-image-name="Harry and Voldy part 2.jpg" data-image-key="Harry_and_Voldy_part_2.jpg" /></a>
+</td>
+<td><i><b>"Neither can live while the other survives..."</b></i>
+<p>This page has been suggested to be <a href="http://en.wikipedia.org/wiki/Help:Merging" class="extiw" title="wikipedia:Help:Merging">merged</a> with <a href="/wiki/Morag_MacDougal" title="Morag MacDougal">Morag MacDougal</a>.
+</p>
+<dl><dd></dd></dl>
+<p>If you disagree with its merge, please explain why at <a href="/wiki/Category_talk:Articles_to_be_merged" title="Category talk:Articles to be merged">Category talk:Articles to be merged</a> or improve the page and remove this {{merge}} tag.
+</p>
+</td></tr></tbody></table>
+<table id="userpage" style="text-align: center; border: 1px solid #9FB9FF; background-color:#F3F3FF; margin: 1em 05%;">
+
+<tbody><tr>
+<td><b>This article is non-<a href="/wiki/Canon" title="Canon">canon</a>.</b>
+<p>This article covers a subject that has been deemed non-canon by either the author or the <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> licensees, and thus should not be taken as a part of the "real" Harry Potter universe.
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-ravenclaw pi-layout-default"><section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Isobel MacDougal</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">between <a href="/wiki/1_September" title="1 September">1 September</a> <a href="/wiki/1979" title="1979">1979</a> and <a href="/wiki/31_August" title="31 August">31 August</a> <a href="/wiki/1980" title="1980">1980</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Pure-blood" title="Pure-blood">Pure-blood</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a> or <a href="/wiki/Ireland" title="Ireland">Irish</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Morag_MacDougal" title="Morag MacDougal">Morag MacDougal</a> (possibly)</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="house">
+	
+		<h3 class="pi-data-label pi-secondary-font">House</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Ravenclaw" title="Ravenclaw">Ravenclaw</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/MacDougal_family" title="MacDougal family">MacDougal family</a></li><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a><ul><li><a href="/wiki/Ravenclaw" title="Ravenclaw">Ravenclaw</a></li></ul></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Isobel MacDougal</b> was a <a href="/wiki/Pure-blood" title="Pure-blood">pure-blood</a> <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> who began attending <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> in <a href="/wiki/1991" title="1991">1991</a>. She was sorted into the <a href="/wiki/Ravenclaw" title="Ravenclaw">Ravenclaw</a> house.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Behind_the_scenes"><span class="tocnumber">1</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Etymology"><span class="tocnumber">2</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Appearances"><span class="tocnumber">3</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Notes_and_references"><span class="tocnumber">4</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Isobel_MacDougal?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Isobel_MacDougal?action=edit&amp;section=1" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>The existence of this character cannot be considered <a href="/wiki/Canon" title="Canon">canon</a>. In <i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone" title="Harry Potter and the Philosopher&#39;s Stone">Harry Potter and the Philosopher's Stone</a></i>, the <a href="/wiki/Sorting_ceremony" title="Sorting ceremony">Sorting ceremony</a> proceeds alphabetically, and <a href="/wiki/Neville_Longbottom" title="Neville Longbottom">Neville Longbottom</a> is immediately followed <a href="/wiki/Morag_MacDougal" title="Morag MacDougal">Morag MacDougal</a>.</li>
+<li>As revealed by <a href="/wiki/J._K._Rowling" title="J. K. Rowling">J. K. Rowling</a> on  <i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i>, this character was originally named "Katrina", but this was crossed out on her hand-written list of the forty students in <a href="/wiki/Harry_Potter" title="Harry Potter">Harry's</a> year and replaced with "Isobel".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></li>
+<li>As an Isobel McDougal was never featured in a published book in the <a href="/wiki/Harry_Potter_(book_series)" title="Harry Potter (book series)">series</a>, but a <a href="/wiki/Morag_MacDougal" title="Morag MacDougal">Morag MacDougal</a> was, it is possible that the two are siblings (given the shared last name), though it is debated if the two are independent characters or if Isobel was simply renamed Morag.</li></ul>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Isobel_MacDougal?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Isobel_MacDougal?action=edit&amp;section=2" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>"Dougall" is from the Gaelic Dubhgall, or "dark stranger," and "Mac" is "son of."
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Isobel_MacDougal?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Isobel_MacDougal?action=edit&amp;section=3" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_Me" title="Harry Potter and Me">Harry Potter and Me</a></i> <small>(First mentioned)</small></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Wizarding_World_(website)" title="Wizarding World (website)">Wizarding World</a></i> <small>(Mentioned only)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Isobel_MacDougal?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Isobel_MacDougal?action=edit&amp;section=4" title="Edit section: Notes and references

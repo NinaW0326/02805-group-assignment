@@ -1,0 +1,149 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/b/b0/Florean_Fortescue.jpg/revision/latest?cb=20091003133839" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/b/b0/Florean_Fortescue.jpg/revision/latest/scale-to-width-down/155?cb=20091003133839" srcset="https://static.wikia.nocookie.net/harrypotter/images/b/b0/Florean_Fortescue.jpg/revision/latest/scale-to-width-down/155?cb=20091003133839 1x, https://static.wikia.nocookie.net/harrypotter/images/b/b0/Florean_Fortescue.jpg/revision/latest/scale-to-width-down/310?cb=20091003133839 2x" class="pi-image-thumbnail" alt="" width="155" height="299"
+		     data-image-key="Florean_Fortescue.jpg" data-image-name="Florean Fortescue.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Florean Fortescue</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/1996" title="1996">1996</a><sup id="cite_ref-HBP6_1-0" class="reference"><a href="#cite_note-HBP6-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a><sup id="cite_ref-PA4_2-0" class="reference"><a href="#cite_note-PA4-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-PA4_2-1" class="reference"><a href="#cite_note-PA4-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male<sup id="cite_ref-PA4_2-2" class="reference"><a href="#cite_note-PA4-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Dexter_Fortescue" title="Dexter Fortescue">Dexter Fortescue</a><sup id="cite_ref-Pottermore_3-0" class="reference"><a href="#cite_note-Pottermore-3">&#91;3&#93;</a></sup> (ancestor)</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Owner of <a href="/wiki/Florean_Fortescue%27s_Ice_Cream_Parlour" title="Florean Fortescue&#039;s Ice Cream Parlour">Florean Fortescue's Ice Cream Parlour</a><sup id="cite_ref-PA4_2-3" class="reference"><a href="#cite_note-PA4-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Fortescue_family" title="Fortescue family">Fortescue family</a><sup id="cite_ref-Pottermore_3-1" class="reference"><a href="#cite_note-Pottermore-3">&#91;3&#93;</a></sup></li><li><a href="/wiki/Florean_Fortescue%27s_Ice_Cream_Parlour" title="Florean Fortescue&#039;s Ice Cream Parlour">Florean Fortescue's Ice Cream Parlour</a><sup id="cite_ref-PA4_2-4" class="reference"><a href="#cite_note-PA4-2">&#91;2&#93;</a></sup></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Half-Blood Prince"><b>Harry Potter</b>: "<i>Florean used to give me free ice creams. What's happened to him?</i>"</span></dd>
+<dd><b>Bill Weasley</b>: "<i>Dragged off, by the look of his place.</i>"</dd>
+<dd>&#8212; Discussion of Florean's disappearance<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">[src]</a></sup></dd></dl>
+</div>
+<p><b>Florean Fortescue</b> (d. <a href="/wiki/1996" title="1996">1996</a>) was a <a href="/wiki/Great_Britain" title="Great Britain">British</a> <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> the owner of <a href="/wiki/Florean_Fortescue%27s_Ice_Cream_Parlour" title="Florean Fortescue&#39;s Ice Cream Parlour">Florean Fortescue's Ice Cream Parlour</a> in <a href="/wiki/Diagon_Alley" title="Diagon Alley">Diagon Alley</a>. He was an expert on the subject of <a href="/wiki/Middle_Ages" title="Middle Ages">medieval</a> <a href="/wiki/Witch-hunt" title="Witch-hunt">witch-burnings</a>.<sup id="cite_ref-PA4_2-5" class="reference"><a href="#cite_note-PA4-2">&#91;2&#93;</a></sup> In the summer of 1996 he was abducted<sup id="cite_ref-HBP6_1-1" class="reference"><a href="#cite_note-HBP6-1">&#91;1&#93;</a></sup> and later murdered by <a href="/wiki/Tom_Riddle" title="Tom Riddle">Lord Voldemort</a>.<sup id="cite_ref-pottercast_4-0" class="reference"><a href="#cite_note-pottercast-4">&#91;4&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Personality_and_traits"><span class="tocnumber">2</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Magical_abilities_and_skills"><span class="tocnumber">3</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Behind_the_scenes"><span class="tocnumber">4</span> <span class="toctext">Behind the scenes</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Author.27s_comments"><span class="tocnumber">4.1</span> <span class="toctext">Author's comments</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Etymology"><span class="tocnumber">5</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Appearances"><span class="tocnumber">6</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Notes_and_references"><span class="tocnumber">7</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Florean_Fortescue?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Florean_Fortescue?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Prisoner of Azkaban">"<i>Harry didn’t have to do his homework under the blankets by flashlight anymore; now he could sit in the bright sunshine outside Florean Fortescue’s Ice Cream Parlor, finishing all his essays with occasional help from Florean Fortescue himself, who, apart from knowing a great deal about medieval witch burnings, gave Harry free sundaes every half an hour.</i>"</span></dd>
+<dd>&#8212;How Florean helped Harry with his homework<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban" title="Harry Potter and the Prisoner of Azkaban">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p>During the summer of <a href="/wiki/1993" title="1993">1993</a>, when <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> stayed at the <a href="/wiki/Leaky_Cauldron" title="Leaky Cauldron">Leaky Cauldron</a> for a couple of weeks, Florean gave Harry free <a href="/wiki/Ice_cream" title="Ice cream">ice cream</a> sundaes every half hour and helped him complete his <a href="/wiki/History_of_Magic" title="History of Magic">History of Magic</a> homework on the medieval witch-burnings which may mean that he did well in his History of Magic classes.<sup id="cite_ref-PA4_2-6" class="reference"><a href="#cite_note-PA4-2">&#91;2&#93;</a></sup>
+</p><p>In <a href="/wiki/1996" title="1996">1996</a>, Florean was forcibly dragged away by <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a>, leaving his ice cream parlour a mess.<sup id="cite_ref-HBP6_1-2" class="reference"><a href="#cite_note-HBP6-1">&#91;1&#93;</a></sup> Florean knew&#160;information about the <a href="/wiki/Elder_Wand" title="Elder Wand">Elder Wand</a> and the lost <a href="/wiki/Ravenclaw%27s_Diadem" title="Ravenclaw&#39;s Diadem">diadem</a> of <a href="/wiki/Rowena_Ravenclaw" title="Rowena Ravenclaw">Rowena Ravenclaw</a>, so&#160;<a href="/wiki/Tom_Riddle" title="Tom Riddle">Voldemort</a> captured him, tortured and later murdered Fortescue.<sup id="cite_ref-Pottermore_3-2" class="reference"><a href="#cite_note-Pottermore-3">&#91;3&#93;</a></sup>
+</p><p>The reason for his kidnapping did not become public knowledge; <a href="/wiki/William_Weasley" title="William Weasley">Bill Weasley</a> speculated that he might have done something to provoke the anger of the Death Eaters.<sup id="cite_ref-HBP6_1-3" class="reference"><a href="#cite_note-HBP6-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Florean_Fortescue?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Personality and traits">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Florean_Fortescue?action=edit&amp;section=2" title="Edit section: Personality and traits"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Fortescue was a good-natured and generous individual, given how he gave kindly gave <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> free <a href="/wiki/Ice_cream" title="Ice cream">ice cream</a> and helped him complete his <a href="/wiki/History_of_Magic" title="History of Magic">History of Magic</a> homework in <a href="/wiki/1993" title="1993">1993</a>, while he was staying in <a href="/wiki/Diagon_Alley" title="Diagon Alley">Diagon Alley</a>. He was also highly intelligent, as he had considerable knowledge of <a href="/wiki/Middle_Ages" title="Middle Ages">Medieval</a> <a href="/wiki/Witch-hunt" title="Witch-hunt">witch-burnings</a>, which allowed him to share his knowledge of this subject with Harry Potter.<sup id="cite_ref-PA4_2-7" class="reference"><a href="#cite_note-PA4-2">&#91;2&#93;</a></sup> Furthermore, he seemed to be an opponent of <a href="/wiki/Tom_Riddle" title="Tom Riddle">Lord Voldemort</a> and his <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a>,<sup id="cite_ref-HBP6_1-4" class="reference"><a href="#cite_note-HBP6-1">&#91;1&#93;</a></sup> meaning he was possibly a supporter of the <a href="/wiki/Order_of_the_Phoenix" title="Order of the Phoenix">Order of the Phoenix</a>, although this is unconfirmed.
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Florean_Fortescue?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Florean_Fortescue?action=edit&amp;section=3" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/History_of_Magic" title="History of Magic">History of Magic</a></b>: Fortescue was very well-versed and knowledgeable in <a href="/wiki/Magic" title="Magic">magical</a> history, as he had much knowledge of <a href="/wiki/Witch-hunt" title="Witch-hunt">witch-burnings</a> in the <a href="/wiki/Middle_Ages" title="Middle Ages">Middle Ages</a>, which allowed him to educate Harry Potter on the subject to help him complete his homework.<sup id="cite_ref-PA4_2-8" class="reference"><a href="#cite_note-PA4-2">&#91;2&#93;</a></sup></li>
+<li><b>Business</b>: Fortescue was evidently a skilled and accomplished businessman, as he successfully operated his own <a href="/wiki/Florean_Fortescue%27s_Ice_Cream_Parlour" title="Florean Fortescue&#39;s Ice Cream Parlour">ice cream parlour</a> in <a href="/wiki/Diagon_Alley" title="Diagon Alley">Diagon Alley</a> for several years, and presumably earned a comfortable living from it.<sup id="cite_ref-PA4_2-9" class="reference"><a href="#cite_note-PA4-2">&#91;2&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Florean_Fortescue?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Florean_Fortescue?action=edit&amp;section=4" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tright show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/6/6e/Florean_Fortescue_LEGO.jpg/revision/latest?cb=20201106102642" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/6/6e/Florean_Fortescue_LEGO.jpg/revision/latest/scale-to-width-down/180?cb=20201106102642" decoding="async" width="180" height="284" class="thumbimage" data-image-name="Florean Fortescue LEGO.jpg" data-image-key="Florean_Fortescue_LEGO.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Florean_Fortescue_LEGO.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Florean Fortescue as a LEGO mini-figure</p> 		 	</figcaption> </figure>
+<ul><li>Florean was related to former <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts</a> Headmaster <a href="/wiki/Dexter_Fortescue" title="Dexter Fortescue">Dexter Fortescue</a>.</li>
+<li><a href="/wiki/J._K._Rowling" title="J. K. Rowling">J. K. Rowling</a> has revealed that she originally intended to include in the <a href="/wiki/Harry_Potter_(book_series)" title="Harry Potter (book series)">books</a> a subplot involving the <a href="/wiki/Elder_Wand" title="Elder Wand">Elder Wand</a> that would explain the circumstances of Florean's disappearance, but that she decided to cut it, as she felt it was "not really leading anywhere."</li>
+<li>She promised to include more information on Florean's death in the <a href="/wiki/Encyclopaedia_of_Potterworld" title="Encyclopaedia of Potterworld">Encyclopaedia</a> she planned to write in the future, though the encyclopaedia was never published; rather, <i>Pottermore</i> provided this information. Additionally, she stated that she did not want Florean to die, as she became rather attached to his character after her closest friend married a man with the same first name.</li>
+<li>Florean was murdered regarding information about ancient <a href="/wiki/Magic" title="Magic">magic</a>.<sup id="cite_ref-pottercast_4-1" class="reference"><a href="#cite_note-pottercast-4">&#91;4&#93;</a></sup></li></ul>
+<h3><span id="Author's_comments"></span><span class="mw-headline" id="Author.27s_comments">Author's comments</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Florean_Fortescue?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Author&#039;s comments">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Florean_Fortescue?action=edit&amp;section=5" title="Edit section: Author&#039;s comments"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>"<i>Florean is a descendant of Dexter, and I originally planned Florean to be the conduit for clues that I needed to give Harry during his quest for the&#160;Hallows, which is why I established an acquaintance fairly early on. At this stage, I imagined the historically-minded Florean might have a smattering of information on matters as diverse as the&#160;Elder Wand&#160;and the diadem of Ravenclaw, the information having been passed down in the Fortescue family from their august ancestor. As I worked my way nearer to the point where such information would become necessary, I caused Florean to be kidnapped, intending him to be found or rescued by Harry and his friends.</i>
+</p><p><i>The problem was that when I came to write the key parts of&#160;Deathly Hallows&#160;I decided that Phineas Nigellus Black was a much more satisfactory means of conveying clues. Florean's information on the diadem also felt redundant, as I could give the reader everything he or she needed by interviewing&#160;the Grey Lady. All in all, I seemed to have had him kidnapped and killed for no reason. He is not the first wizard whom&#160;Voldemort&#160;murdered because he knew too much (or too little), but he is the only one I feel guilty about because it was all my fault.</i>"
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Florean_Fortescue?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Florean_Fortescue?action=edit&amp;section=6" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Fortescue's name may have been inspired by <a href="http://en.wikipedia.org/wiki/Adrian_Fortescue_(martyr)" class="extiw" title="wikipedia:Adrian Fortescue (martyr)">Sir Adrian Fortescue</a>, a courtier at the court of King Henry VIII, who was condemned for treason without a trial for hostility to Henry VIII's church policies. He was beheaded at the Tower of London in <a href="/wiki/1539" class="mw-redirect" title="1539">1539</a>.</li>
+<li>His name also may have been inspired by Hugh Fortescue, 2nd Earl Fortescue, a statue of whom resides outside Exeter castle. As Rowling went to university in this city, she might have likely come across it. The castle is the site of the last three trials and executions of suspected witchcraft in England, potentially explaining Florean's expert knowledge of such issues.</li>
+<li>Based on the December 2014 information provided about Florean Fortescue on Pottermore, his last name is more likely to have been influenced by John Fortescue, who wrote for the instruction of Prince Edward of Lancaster, Prince of Wales, in the time of the War of the Roses (15th century). Prince Edward died in battle at the age of 17. We know now, through Rowling's new writings found on Pottermore, that Florean Fortescue was intended to be the one to instruct Harry about various points of wizarding history (i.e.: the elder wand &amp; the Ravenclaw diadem). Rowling calls him "historically minded."</li>
+<li>Given the above, it is also possible that Florean Fortescue, being "historically minded", may have been based off of <a href="http://en.wikipedia.org/wiki/Adrian_Fortescue" class="extiw" title="wikipedia:Adrian Fortescue">Adrian Fortescue</a> (1874 - 1923), a direct descendant of the aforementioned Sir Adrian Fortescue. "Father" Adrian Fortescue was English&#160;Roman Catholic&#160;priest who was an influential&#160;liturgist, artist,&#160;calligrapher, composer,&#160;polyglot, amateur photographer,&#160;Byzantine&#160;scholar, and adventurer. With his love of history, and skill with languages, Fortescue devoted much study to the origin and history of the&#160;Eastern Churches, both&#160;Catholic&#160;and&#160;Orthodox. Fortescue was also an artist of considerable talent, especially with watercolour painting, drawing, and&#160;calligraphy. He was also a recognised authority on&#160;heraldry, and his own designs were widely admired in his day. At the time of his death, Fortescue was Professor of Church History at&#160;St Edmund's College, Ware, the oldest Catholic school in England. Buried in the same cemetery as Fortescue - Letchworth Cemetery - is <a href="http://en.wikipedia.org/wiki/William_Henry_Gaunt" class="extiw" title="wikipedia:William Henry Gaunt">William Henry Gaunt</a>, an English transport engineer.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Florean_Fortescue?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Florean_Fortescue?action=edit&amp;section=7" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 2 images related to <i><b><a href="/wiki/Category:Images_of_Florean_Fortescue" title="Category:Images of Florean Fortescue">Florean Fortescue</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(film)" title="Harry Potter and the Chamber of Secrets (film)">Harry Potter and the Chamber of Secrets (film)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban" title="Harry Potter and the Prisoner of Azkaban">Harry Potter and the Prisoner of Azkaban</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">Harry Potter and the Half-Blood Prince</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Harry_Potter:_A_Pop-Up_Book" title="Harry Potter: A Pop-Up Book">Harry Potter: A Pop-Up Book</a></i> <small>(Name seen on sign)</small></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter:_Years_5-7" title="LEGO Harry Potter: Years 5-7">LEGO Harry Potter: Years 5-7</a></i> <small>(Name seen on sign)</small></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter" title="LEGO Harry Potter">LEGO Harry Potter</a></i></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i></li>
+<li><i><a href="/wiki/Wizarding_World_(website)" title="Wizarding World (website)">Wizarding World</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Florean_Fortescue?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Florean_Fortescue?action=edit&amp;section=8" title="Edit section: Notes and references

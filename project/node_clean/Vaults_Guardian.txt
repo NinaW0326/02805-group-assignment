@@ -1,0 +1,85 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-gringotts pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/9/99/VaultsGuardian.png/revision/latest?cb=20151221032858" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/9/99/VaultsGuardian.png/revision/latest/scale-to-width-down/210?cb=20151221032858" srcset="https://static.wikia.nocookie.net/harrypotter/images/9/99/VaultsGuardian.png/revision/latest/scale-to-width-down/210?cb=20151221032858 1x, https://static.wikia.nocookie.net/harrypotter/images/9/99/VaultsGuardian.png/revision/latest/scale-to-width-down/420?cb=20151221032858 2x" class="pi-image-thumbnail" alt="" width="210" height="183"
+		     data-image-key="VaultsGuardian.png" data-image-name="VaultsGuardian.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Vaults Guardian</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">Pre <a href="/wiki/1992" title="1992">1992</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/August" title="August">August</a> <a href="/wiki/1992" title="1992">1992</a><br/><a href="/wiki/Spellbook_vault" title="Spellbook vault">Spellbook vault</a>, <a href="/wiki/Gringotts_Wizarding_Bank" title="Gringotts Wizarding Bank">Gringotts Wizarding Bank</a>, <a href="/wiki/Diagon_Alley" title="Diagon Alley">Diagon Alley</a>, <a href="/wiki/London" title="London">London</a>, <a href="/wiki/England" title="England">England</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Giant_Fire_Crab" title="Giant Fire Crab">Giant Fire Crab</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Yellow</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Gringotts_Wizarding_Bank" title="Gringotts Wizarding Bank">Gringotts</a> Security Guard</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Gringotts_Wizarding_Bank" title="Gringotts Wizarding Bank">Gringotts Wizarding Bank</a></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Chamber of Secrets (video game)">"<i>The spellbook for </i>Incendio<i> is behind this door, but so is the Vaults Guardian. If you want to unlock the door, you'll need five gemstones to create a special key. I cannot help you find them.</i>"</span></dd>
+<dd>&#8212;A Gringotts <a href="/wiki/Goblin" title="Goblin">Goblin</a><sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(video_game)" title="Harry Potter and the Chamber of Secrets (video game)">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p>The <b>Vaults Guardian</b> was a <a href="/wiki/Giant_Fire_Crab" title="Giant Fire Crab">Giant Fire Crab</a> placed in <a href="/wiki/Spellbook_vault" title="Spellbook vault">one of the vaults</a> of <a href="/wiki/Gringotts_Wizarding_Bank" title="Gringotts Wizarding Bank">Gringotts Wizarding Bank</a> to guard the <a href="/wiki/Incendio_spellbook" title="Incendio spellbook">spellbook</a> for the <a href="/wiki/Fire-Making_Spell" title="Fire-Making Spell">Fire-Making Spell</a> contained within. Gaining access to the vault required a <a href="/wiki/Spellbook_vault_key" title="Spellbook vault key">special key made of five different coloured gemstones</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Vaults_Guardian?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Vaults_Guardian?action=edit&amp;section=1" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>In the GBA version of <a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(video_game)" title="Harry Potter and the Chamber of Secrets (video game)">the video game adaptation</a> of <i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets" title="Harry Potter and the Chamber of Secrets">Harry Potter and the Chamber of Secrets</a></i>, <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> had to defeat this creature to learn the Fire-Making Spell and clear the cobwebs blocking the entrance to <a href="/wiki/Vault_687" title="Vault 687">Vault 687</a>.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Vaults_Guardian?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Vaults_Guardian?action=edit&amp;section=2" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(video_game)" title="Harry Potter and the Chamber of Secrets (video game)">Harry Potter and the Chamber of Secrets (video game)</a></i> <span class="template-c">(GBA version)</span></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Vaults_Guardian?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Vaults_Guardian?action=edit&amp;section=3" title="Edit section: Notes and references

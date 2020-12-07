@@ -1,0 +1,102 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default"><section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Johannes Jonker</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">In or before <a href="/wiki/1909" title="1909">1909</a> (likely)<sup id="cite_ref-Age_1-0" class="reference"><a href="#cite_note-Age-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Muggle-born" title="Muggle-born">No-Maj-born</a><sup id="cite_ref-pottermore-1920s_2-0" class="reference"><a href="#cite_note-pottermore-1920s-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/United_States_of_America" title="United States of America">American</a><sup id="cite_ref-pottermore-1920s_2-1" class="reference"><a href="#cite_note-pottermore-1920s-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-pottermore-1920s_2-2" class="reference"><a href="#cite_note-pottermore-1920s-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male<sup id="cite_ref-pottermore-1920s_2-3" class="reference"><a href="#cite_note-pottermore-1920s-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Johannes_Jonker%27s_father" title="Johannes Jonker&#039;s father">Mr Jonker</a> (father)<sup id="cite_ref-pottermore-1920s_2-4" class="reference"><a href="#cite_note-pottermore-1920s-2">&#91;2&#93;</a></sup></li><li><a href="/wiki/Jonker_family" title="Jonker family">Jonker family</a><sup id="cite_ref-pottermore-1920s_2-5" class="reference"><a href="#cite_note-pottermore-1920s-2">&#91;2&#93;</a></sup></li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Wandmaker" title="Wandmaker">Wandmaker</a><sup id="cite_ref-pottermore-1920s_2-6" class="reference"><a href="#cite_note-pottermore-1920s-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Johannes Jonker</b> was an <a href="/wiki/United_States_of_America" title="United States of America">American</a> <a href="/wiki/Muggle-born" title="Muggle-born">No-Maj born</a> <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a>.<sup id="cite_ref-pottermore-1920s_2-7" class="reference"><a href="#cite_note-pottermore-1920s-2">&#91;2&#93;</a></sup> He, along with <a href="/wiki/Shikoba_Wolfe" title="Shikoba Wolfe">Shikoba Wolfe</a>, <a href="/wiki/Thiago_Quintana" title="Thiago Quintana">Thiago Quintana</a>, and <a href="/wiki/Violetta_Beauvais" title="Violetta Beauvais">Violetta Beauvais</a>, was one of four <a href="/wiki/Wandmaker" title="Wandmaker">wandmakers</a> who served <a href="/wiki/North_America" title="North America">North America</a> in the early <a href="/wiki/20th_century" title="20th century">20th century</a>.<sup id="cite_ref-pottermore-1920s_2-8" class="reference"><a href="#cite_note-pottermore-1920s-2">&#91;2&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Magical_abilities_and_skills"><span class="tocnumber">2</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Etymology"><span class="tocnumber">3</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Behind_the_scenes"><span class="tocnumber">4</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Appearances"><span class="tocnumber">5</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Notes_and_references"><span class="tocnumber">6</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Johannes_Jonker?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Johannes_Jonker?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Jonker was <a href="/wiki/Muggle-born" title="Muggle-born">born to No-Maj parents</a>. His <a href="/wiki/Johannes_Jonker%27s_father" title="Johannes Jonker&#39;s father">father</a> was a successful cabinet maker, which presumably gave him early experience with wood-working, and allowed him to become a skilled wandmaker in his own right.<sup id="cite_ref-pottermore-1920s_2-9" class="reference"><a href="#cite_note-pottermore-1920s-2">&#91;2&#93;</a></sup> Jonker's <a href="/wiki/Wand" title="Wand">wands</a> were in great demand and could be easily identified by the <a href="/wiki/Mother-of-pearl" title="Mother-of-pearl">mother-of-pearl</a> inlay they typically contained.<sup id="cite_ref-pottermore-1920s_2-10" class="reference"><a href="#cite_note-pottermore-1920s-2">&#91;2&#93;</a></sup> Jonker experimented with several different <a href="/wiki/Wand_core" title="Wand core">wand cores</a> before settling on <a href="/wiki/Wampus_cat_hair" title="Wampus cat hair">hair</a> of the <a href="/wiki/Wampus_cat" title="Wampus cat">Wampus cat</a> as his preferred kind.<sup id="cite_ref-pottermore-1920s_2-11" class="reference"><a href="#cite_note-pottermore-1920s-2">&#91;2&#93;</a></sup>
+</p><p>By <a href="/wiki/1926" title="1926">1926</a>, he was a known wandmaker and listed on the <a href="/wiki/Magical_Congress_of_the_United_States_of_America" title="Magical Congress of the United States of America">Magical Congress of the United States of America</a>'s <a href="/wiki/Wand_permit" title="Wand permit">Wand permit</a> form.<sup id="cite_ref-FBF_3-0" class="reference"><a href="#cite_note-FBF-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Johannes_Jonker?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Johannes_Jonker?action=edit&amp;section=2" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Wandlore" title="Wandlore">Wandlore</a>/<a href="/wiki/Wandmaker" title="Wandmaker">Wandmaking</a></b>: Jonker was an accomplished and skilled wandmaker in his time, with his <a href="/wiki/Wand" title="Wand">wands</a> being highly popular in <a href="/wiki/North_America" title="North America">North America</a>, showing his talent in this field. He was also knowledgeable of <a href="/wiki/Wand_core" title="Wand core">Wand cores</a> and experimented with several kinds of core in his wands.<sup id="cite_ref-pottermore-1920s_2-12" class="reference"><a href="#cite_note-pottermore-1920s-2">&#91;2&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Johannes_Jonker?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Johannes_Jonker?action=edit&amp;section=3" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>The surname "Jonker" is a variation of the Netherlands title "jonkheer", meaning "young lord", and can be a honorific or occupational surname indicating an ancestor that served a jonkheer.</li></ul>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Johannes_Jonker?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Johannes_Jonker?action=edit&amp;section=4" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>As a <a href="/wiki/Muggle-born" title="Muggle-born">Muggle-born</a>, it is unknown how, or if, he was recruited to <a href="/wiki/Ilvermorny_School_of_Witchcraft_and_Wizardry" title="Ilvermorny School of Witchcraft and Wizardry">Ilvermorny School of Witchcraft and Wizardry</a> because of <a href="/wiki/Rappaport%27s_Law" title="Rappaport&#39;s Law">Rappaport's Law</a> restriction on the interaction of wizards with his muggle family.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Johannes_Jonker?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Johannes_Jonker?action=edit&amp;section=5" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> <small>(First mentioned)</small></li>
+<li><i><a href="/wiki/Wizarding_World_(website)" title="Wizarding World (website)">Wizarding World</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(film)" title="Fantastic Beasts and Where to Find Them (film)">Fantastic Beasts and Where to Find Them (film)</a></i> <span class="template-c">(mentioned on wand permit application)</span></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Johannes_Jonker?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Johannes_Jonker?action=edit&amp;section=6" title="Edit section: Notes and references

@@ -1,0 +1,133 @@
+<div class="mw-parser-output"><table class="notice metadata" id="spoiler" style="text-align: center; background: beige; margin: 1em 05%; padding: 0 1em; border: #a00 1px solid;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/e/ea/Wizards_Unite_logo.jpg/revision/latest?cb=20181114170049" class="image"><img alt="Wizards Unite logo.jpg" src="https://static.wikia.nocookie.net/harrypotter/images/e/ea/Wizards_Unite_logo.jpg/revision/latest/scale-to-width-down/175?cb=20181114170049" decoding="async" width="175" height="98" data-image-name="Wizards Unite logo.jpg" data-image-key="Wizards_Unite_logo.jpg" /></a>
+</td>
+<td><b>Warning!</b>
+<p>At least some content in this article is derived from information featured in <i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i>. As such, spoilers will be present within the article.
+</p><p>For gameplay-specific information, please see the relevant article on <a href="https://harrypotterwizardsunite.fandom.com/wiki/Bernadette" class="extiw" title="w:c:harrypotterwizardsunite:Bernadette">the Harry Potter: Wizards Unite Wiki!</a>
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-macusa pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/0/0c/Bernadette.png/revision/latest?cb=20170124215021" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/0/0c/Bernadette.png/revision/latest/scale-to-width-down/350?cb=20170124215021" srcset="https://static.wikia.nocookie.net/harrypotter/images/0/0c/Bernadette.png/revision/latest/scale-to-width-down/350?cb=20170124215021 1x, https://static.wikia.nocookie.net/harrypotter/images/0/0c/Bernadette.png/revision/latest/scale-to-width-down/700?cb=20170124215021 2x" class="pi-image-thumbnail" alt="" width="270" height="305"
+		     data-image-key="Bernadette.png" data-image-name="Bernadette.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Bernadette</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">Before <a href="/wiki/1909" title="1909">1909</a> (most likely)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/United_States_of_America" title="United States of America">American</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="title">
+	
+		<h3 class="pi-data-label pi-secondary-font">Title(s)</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Executioner" title="Executioner">Executioner</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Magical characteristics</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="wand">
+	
+		<h3 class="pi-data-label pi-secondary-font">Wand</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Bernadette%27s_wand" title="Bernadette&#039;s wand">Unknown length, wood and core</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Executioner" title="Executioner">Executioner</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Magical_Congress_of_the_United_States_of_America" title="Magical Congress of the United States of America">Magical Congress of the United States of America</a></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Fantastic Beasts and Where to Find Them: The Original Screenplay">"<i>Don't that look good. You wanna get in? Huh?</i>"</span></dd>
+<dd>&#8212;Bernadette encouraging Tina Goldstein to enter the death potion<sup class="noprint"><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them:_The_Original_Screenplay" title="Fantastic Beasts and Where to Find Them: The Original Screenplay">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Bernadette</b> was an <a href="/wiki/United_States_of_America" title="United States of America">American</a> <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> who worked for the <a href="/wiki/Magical_Congress_of_the_United_States_of_America" title="Magical Congress of the United States of America">Magical Congress of the United States of America</a> in <a href="/wiki/1926" title="1926">1926</a> as an <a href="/wiki/Executioner" title="Executioner">executioner</a>.<sup id="cite_ref-FBS_1-0" class="reference"><a href="#cite_note-FBS-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Possessions"><span class="tocnumber">2</span> <span class="toctext">Possessions</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Behind_the_scenes"><span class="tocnumber">3</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Appearances"><span class="tocnumber">4</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Notes_and_references"><span class="tocnumber">5</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Bernadette?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Bernadette?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>After <a href="/wiki/Gellert_Grindelwald" title="Gellert Grindelwald">Gellert Grindelwald</a> (disguised as <a href="/wiki/Percival_Graves" title="Percival Graves">Percival Graves</a>) sentenced <a href="/wiki/Newton_Scamander" title="Newton Scamander">Newt Scamander</a> and <a href="/wiki/Porpentina_Goldstein" title="Porpentina Goldstein">Tina Goldstein</a> to death, Bernadette helped lead them to the <a href="/wiki/Death_Cell" title="Death Cell">Death cell</a>. She <a href="/wiki/Memory_extraction_spell" title="Memory extraction spell">extracted</a> Tina's memories and cast them in the <a href="/wiki/Death_potion" title="Death potion">death potion</a> and encouraged her to get in.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> Just as her fellow executioner was about to do the same to Newt, he broke free (his pet <a href="/wiki/Bowtruckle" title="Bowtruckle">Bowtruckle</a> having <a href="/wiki/Lock_picking" title="Lock picking">picked the lock</a> on his handcuffs) and unleashed his <a href="/wiki/Swooping_Evil" title="Swooping Evil">Swooping Evil</a> which knocked out the third executioner. The second executioner tried to use her wand on Newt, but he redirected her aim so that she hit Bernadette with a <a href="/wiki/Stunning_Spell" title="Stunning Spell">Stunning Spell</a> instead, rendering Bernadette unconcious. With no backup, the second executioner was then knocked out and Newt managed to save Tina from her execution, leaving Bernadette and her fellow executioners alone at the Death Cell.<sup id="cite_ref-FBS_1-1" class="reference"><a href="#cite_note-FBS-1">&#91;1&#93;</a></sup>
+</p><p>In the <a href="/wiki/2010" title="2010">2010s</a>, Bernadette appeared during the <a href="/wiki/Calamity" title="Calamity">Calamity</a> in the <a href="/wiki/2010s" title="2010s">2010s</a> as a <a href="/wiki/Confoundable" title="Confoundable">Confoundable</a>, attempting to extract the memories of both Percival Graves and Newt Scamander. Volunteer members of the <a href="/wiki/Statute_of_Secrecy_Task_Force" title="Statute of Secrecy Task Force">Statute of Secrecy Task Force</a> could repel her by casting the <a href="/wiki/Ebublio_Jinx" title="Ebublio Jinx">Ebublio Jinx</a> on her, <a href="/wiki/Foundable" title="Foundable">returning</a> both wizards to their original timelines.<sup id="cite_ref-WU_3-0" class="reference"><a href="#cite_note-WU-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Possessions">Possessions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Bernadette?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Possessions">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Bernadette?action=edit&amp;section=2" title="Edit section: Possessions"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="floatright"><a href="https://static.wikia.nocookie.net/harrypotter/images/2/25/Bernadette%27s_wand.png/revision/latest?cb=20170124215549" class="image"><img alt="Bernadette&#39;s wand.png" src="https://static.wikia.nocookie.net/harrypotter/images/2/25/Bernadette%27s_wand.png/revision/latest/scale-to-width-down/250?cb=20170124215549" decoding="async" width="250" height="93" data-image-name="Bernadette&#39;s wand.png" data-image-key="Bernadette&#39;s_wand.png" /></a></div>
+<ul><li><b><a href="/wiki/Bernadette%27s_wand" title="Bernadette&#39;s wand">Wand</a></b>: Bernadette's wand was of unknown length, wood, and core materials. It featured a carving of a head on the handle. The style and carvings of the wand may have indicated that it was a <a href="/wiki/Shikoba_Wolfe" title="Shikoba Wolfe">Shikoba Wolfe</a> wand, and therefore had a <a href="/wiki/Thunderbird" title="Thunderbird">Thunderbird</a> <a href="/wiki/Thunderbird_tail_feather" title="Thunderbird tail feather">feather</a> core. The wand was destroyed in the <a href="/wiki/Death_Cell" title="Death Cell">Death Cell</a>'s <a href="/wiki/Death_potion" title="Death potion">Death potion</a>.<sup id="cite_ref-FBS_1-2" class="reference"><a href="#cite_note-FBS-1">&#91;1&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Bernadette?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Bernadette?action=edit&amp;section=3" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Bernadette was portrayed by <a href="/wiki/Miquel_Brown" title="Miquel Brown">Miquel Brown</a> in <i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(film)" title="Fantastic Beasts and Where to Find Them (film)">Fantastic Beasts and Where to Find Them</a></i>, but was credited in the end credits as "Executioner #2".</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Bernadette?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Bernadette?action=edit&amp;section=4" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them:_The_Original_Screenplay" title="Fantastic Beasts and Where to Find Them: The Original Screenplay">Fantastic Beasts and Where to Find Them: The Original Screenplay</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(film)" title="Fantastic Beasts and Where to Find Them (film)">Fantastic Beasts and Where to Find Them (film)</a></i></li>
+<li><i><a href="/wiki/LEGO_Dimensions" title="LEGO Dimensions">LEGO Dimensions</a></i></li>
+<li><i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Bernadette?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Bernadette?action=edit&amp;section=5" title="Edit section: Notes and references

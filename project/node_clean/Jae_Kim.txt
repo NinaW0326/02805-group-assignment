@@ -1,0 +1,166 @@
+<div class="mw-parser-output"><table class="notice metadata" id="spoiler" style="text-align: center; background: beige; margin: 1em 05%; padding: 0 1em; border: #a00 1px solid;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/8/8c/Hogwarts_Mystery.jpeg/revision/latest?cb=20180504083359" class="image"><img alt="Hogwarts Mystery.jpeg" src="https://static.wikia.nocookie.net/harrypotter/images/8/8c/Hogwarts_Mystery.jpeg/revision/latest/scale-to-width-down/175?cb=20180504083359" decoding="async" width="175" height="77" data-image-name="Hogwarts Mystery.jpeg" data-image-key="Hogwarts_Mystery.jpeg" /></a>
+</td>
+<td><b>Warning!</b>
+<p>At least some content in this article is derived from information featured in <i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i>. Spoilers will be present within the article.
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-gryffindor pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/2/27/JaeKim.png/revision/latest?cb=20200729223250" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/2/27/JaeKim.png/revision/latest/scale-to-width-down/350?cb=20200729223250" srcset="https://static.wikia.nocookie.net/harrypotter/images/2/27/JaeKim.png/revision/latest/scale-to-width-down/350?cb=20200729223250 1x, https://static.wikia.nocookie.net/harrypotter/images/2/27/JaeKim.png/revision/latest/scale-to-width-down/700?cb=20200729223250 2x" class="pi-image-thumbnail" alt="" width="270" height="254"
+		     data-image-key="JaeKim.png" data-image-name="JaeKim.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Jae Kim</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">Between <a href="/wiki/1_September" title="1 September">1 September</a> <a href="/wiki/1972" title="1972">1972</a> and <a href="/wiki/31_August" title="31 August">31 August</a> <a href="/wiki/1973" title="1973">1973</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a> or <a href="/wiki/Ireland" title="Ireland">Irish</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male<sup id="cite_ref-DADA_2-0" class="reference"><a href="#cite_note-DADA-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Dark Brown</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Brown</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Light</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="house">
+	
+		<h3 class="pi-data-label pi-secondary-font">House</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Gryffindor" title="Gryffindor">Gryffindor</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a><ul><li><a href="/wiki/Gryffindor" title="Gryffindor">Gryffindor</a></li></ul></li><li><a href="/wiki/Circle_of_Khanna" title="Circle of Khanna">Circle of Khanna</a><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Jae Bo<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> Kim</b> (born c.<a href="/wiki/1972" title="1972">1972</a>/<a href="/wiki/1973" title="1973">1973</a>) was a <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> who began attending <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> in <a href="/wiki/1984" title="1984">1984</a> and was <a href="/wiki/Sorting_ceremony" title="Sorting ceremony">Sorted</a> into <a href="/wiki/Gryffindor" title="Gryffindor">Gryffindor</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Hogwarts_years_.281984-1991.29"><span class="tocnumber">1.1</span> <span class="toctext">Hogwarts years (1984-1991)</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Personality_and_traits"><span class="tocnumber">2</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Magical_abilities_and_skills"><span class="tocnumber">3</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Behind_the_scenes"><span class="tocnumber">4</span> <span class="toctext">Behind the scenes</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Friendship_interaction_correct_answers"><span class="tocnumber">4.1</span> <span class="toctext">Friendship interaction correct answers</span></a>
+<ul>
+<li class="toclevel-3 tocsection-7"><a href="#Meal_with_a_friend"><span class="tocnumber">4.1.1</span> <span class="toctext">Meal with a friend</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Etymology"><span class="tocnumber">5</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Appearances"><span class="tocnumber">6</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Notes_and_references"><span class="tocnumber">7</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Jae_Kim?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Jae_Kim?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="Hogwarts_years_(1984-1991)"></span><span class="mw-headline" id="Hogwarts_years_.281984-1991.29">Hogwarts years (1984-1991)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Jae_Kim?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Hogwarts years (1984-1991)">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Jae_Kim?action=edit&amp;section=2" title="Edit section: Hogwarts years (1984-1991)"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In his second year, Jae was hit with a <a href="/wiki/Hex" title="Hex">hex</a> cast by <a href="/wiki/Merula_Snyde" title="Merula Snyde">Merula Snyde</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p><p>In his third year, Jae took <a href="/wiki/Care_of_Magical_Creatures" title="Care of Magical Creatures">Care of Magical Creatures</a><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> and <a href="/wiki/Divination_(class)" title="Divination (class)">Divination</a><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> as electives.
+</p><p>In his fifth year, Jae had <a href="/wiki/Defence_Against_the_Dark_Arts" title="Defence Against the Dark Arts">Defence Against the Dark Arts</a><sup id="cite_ref-DADA_2-1" class="reference"><a href="#cite_note-DADA-2">&#91;2&#93;</a></sup> and <a href="/wiki/History_of_Magic" title="History of Magic">History of Magic</a><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> classes with <a href="/wiki/Jacob%27s_sibling" title="Jacob&#39;s sibling">Jacob's sibling</a>.
+</p><p>Jae had to work in the <a href="/wiki/Hogwarts_kitchens" title="Hogwarts kitchens">Hogwarts kitchens</a> for detention due to bringing banned items to Hogwarts. In detention, he befriended Jacob's sibling and gave one of three items to them for free. Afterward, the two went to study in the <a href="/wiki/Hogwarts_Library" title="Hogwarts Library">Hogwarts Library</a> along with <a href="/wiki/Rowan_Khanna" title="Rowan Khanna">Rowan Khanna</a>, <a href="/wiki/Tulip_Karasu" title="Tulip Karasu">Tulip Karasu</a>, and <a href="/wiki/Barnaby_Lee" title="Barnaby Lee">Barnaby Lee</a> to figure out what kind of <a href="/wiki/Spell" title="Spell">spell</a> could have caused <a href="/wiki/Beatrice_Haywood" title="Beatrice Haywood">Beatrice Haywood</a> to get stuck in a <a href="/wiki/Portrait" title="Portrait">portrait</a>. After the group came to the conclusion that it was due to an <a href="/wiki/Extension_Charm" title="Extension Charm">Undetectable Extension Charm</a>, Jae shocked the rest by knowing about the regulations of the <a href="/wiki/Charm" title="Charm">charm</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p><p>Jae earned at least eight<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> <a href="/wiki/Ordinary_Wizarding_Level" title="Ordinary Wizarding Level">O.W.L.s</a>: he achieved an <a href="/wiki/Acceptable" title="Acceptable">Acceptable</a> mark in <a href="/wiki/Charms_(class)" title="Charms (class)">Charms</a>, <a href="/wiki/Potions_(class)" title="Potions (class)">Potions</a>, <a href="/wiki/Transfiguration_(class)" title="Transfiguration (class)">Transfiguration</a>, <a href="/wiki/Care_of_Magical_Creatures" title="Care of Magical Creatures">Care of Magical Creatures</a>, <a href="/wiki/Herbology" title="Herbology">Herbology</a>, and <a href="/wiki/History_of_Magic" title="History of Magic">History of Magic</a>, an <a href="/wiki/Outstanding" title="Outstanding">Outstanding</a> in <a href="/wiki/Defence_Against_the_Dark_Arts" title="Defence Against the Dark Arts">Defence Against the Dark Arts</a><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>, and an unknown mark in <a href="/wiki/Divination_(class)" title="Divination (class)">Divination</a>. Sometime during the year, he became a founding member of the <a href="/wiki/Circle_of_Khanna" title="Circle of Khanna">Circle of Khanna</a>, a group devoted to avenging <a href="/wiki/Rowan_Khanna" title="Rowan Khanna">Rowan Khanna</a> and locating the final <a href="/wiki/Cursed_Vaults" title="Cursed Vaults">cursed vault</a>. It was at the groups first meeting in the <a href="/wiki/Hog%27s_Head_Inn" title="Hog&#39;s Head Inn">Hog's Head Inn</a> that he learned of the malevolent organisation "<a href="/wiki/R" title="R">R</a>" and it's <a href="/wiki/Plot_to_find_the_Cursed_Vaults" title="Plot to find the Cursed Vaults">motives</a> to locate the final Cursed Vault before them.<sup id="cite_ref-hm20_12-0" class="reference"><a href="#cite_note-hm20-12">&#91;12&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Jae_Kim?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Personality and traits">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Jae_Kim?action=edit&amp;section=3" title="Edit section: Personality and traits"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Jae Kim was a notorious and easy-going rule-breaker who sold a contraband of banned items during his time at Hogwarts. He shared similar perspectives on rules with fellow trouble-maker <a href="/wiki/Tulip_Karasu" title="Tulip Karasu">Tulip Karasu</a>, but while Tulip enjoyed breaking the rules, Jae preferred to work his way around them. He was shown to be intensely dedicated to his bootlegging operations, only caring about selling his illegal wares, and not at all what his customers did with them, thus making him the most amoral of all of <a href="/wiki/Jacob%27s_sibling" title="Jacob&#39;s sibling">Jacob's sibling</a>'s friends. The full extent of his opportunism became apparent during the <a href="/wiki/Ordinary_Wizarding_Level" title="Ordinary Wizarding Level">O.W.L.s</a>, when he sold desperate students items they could cheat on the exams with, with Jae failing to mention that they were very likely to get caught and thus ruin any future career prospects. He was an indolent individual, despising having to study or do any physical work and preferring to take the easy road instead.
+</p><p>Despite his faults, however, Jae was ultimately shown to be a good-natured and loyal friend, going out of his way to aid Jacob's sibling in the latter's quest for the <a href="/wiki/Cursed_Vaults" title="Cursed Vaults">Cursed Vaults</a>. He also appeared to be more intelligent than he let on, being able to achieve an '<a href="/wiki/Outstanding" title="Outstanding">Outstanding</a>' on his <a href="/wiki/Defence_Against_the_Dark_Arts" title="Defence Against the Dark Arts">Defence Against the Dark Arts</a> O.W.L. and to recognise the charm that cursed <a href="/wiki/Beatrice_Haywood" title="Beatrice Haywood">Beatrice Haywood</a> as an <a href="/wiki/Extension_Charm" title="Extension Charm">Undetectable Extension Charm</a>.
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Jae_Kim?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Jae_Kim?action=edit&amp;section=4" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Defence_Against_the_Dark_Arts" title="Defence Against the Dark Arts">Defence Against the Dark Arts</a></b>: Jae was very adept in this field, as he achieved an '<a href="/wiki/Outstanding" title="Outstanding">Outstanding</a>' in his <a href="/wiki/Ordinary_Wizarding_Level" title="Ordinary Wizarding Level">O.W.L.</a> exam, and proceeded to continue studying the subject at <a href="/wiki/Nastily_Exhausting_Wizarding_Test" title="Nastily Exhausting Wizarding Test">N.E.W.T.</a>-level.</li>
+<li><b><a href="/wiki/Divination" title="Divination">Divination</a></b>: Jae was able to achieve an O.W.L. in this <a href="/wiki/Divination_(class)" title="Divination (class)">subject</a> and continue studying it further at <a href="/wiki/Nastily_Exhausting_Wizarding_Test" title="Nastily Exhausting Wizarding Test">N.E.W.T.</a>-level, thus displaying aptitude in the subject.</li>
+<li><b><a href="/wiki/Duelling" title="Duelling">Duelling</a></b>: Jae was a proficient duellist and would sometimes duel Jacob's sibling.</li>
+<li><b><a href="/wiki/History_of_Magic" title="History of Magic">History of Magic</a></b>: Jae was skilled in History of Magic, as he was able to achieve an O.W.L. in the subject and study it further at N.E.W.T.-level, thus showing aptitude in the subject.</li>
+<li><b><a href="/wiki/Astronomy_(class)" title="Astronomy (class)">Astronomy</a></b>: Jae was skilled in Astronomy, as he was able to achieve an O.W.L. in the subject and study it further at N.E.W.T.-level, thus showing aptitude in the subject.</li>
+<li><b><a href="/wiki/Healing_magic" title="Healing magic">Healing magic</a></b>; Jae had some skill in the field of healing, as he was able to successfully cast the <i><a href="/wiki/Episkey" title="Episkey">Episkey</a></i> <a href="/wiki/Healing_Spell" class="mw-redirect" title="Healing Spell">healing Spell</a>.</li>
+<li><b><a href="/wiki/Charm" title="Charm">Charms</a></b>: Jae was skilled with charm-work. He had some mastery over some duelling charms like the <a href="/wiki/Disarming_Charm" title="Disarming Charm">Disarming Charm</a>, the <a href="/wiki/Tickling_Charm" title="Tickling Charm">Tickling Charm</a>, the <a href="/wiki/Freezing_Charm" title="Freezing Charm">Freezing Charm</a>. He also achieved an O.W.L in this <a href="/wiki/Charms_(class)" title="Charms (class)">subject</a>.</li>
+<li><b><a href="/wiki/Dark_Arts" title="Dark Arts">Dark Arts</a></b>: Jae was shown to be possess a degree of skill in the Dark Arts, being able to successfully cast <a href="/wiki/Dark_charm" title="Dark charm">dark charms</a> such as the <a href="/wiki/Knockback_Jinx" title="Knockback Jinx">Knockback Jinx</a> and the <a href="/wiki/Full_Body-Bind_Curse" title="Full Body-Bind Curse">Full Body-Bind Curse</a>.</li></ul>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Jae_Kim?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Jae_Kim?action=edit&amp;section=5" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>His name suggests that he was of Korean descent.</li>
+<li>Despite the fact that he is shown to have seven O.W.L.s, which do not include <a href="/wiki/Divination_(class)" title="Divination (class)">Divination</a>, he is shown taking the subject in his sixth year. The same is also true for <a href="/wiki/Jacob%27s_sibling" title="Jacob&#39;s sibling">Jacob's sibling</a>.</li></ul>
+<h3><span class="mw-headline" id="Friendship_interaction_correct_answers">Friendship interaction correct answers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Jae_Kim?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Friendship interaction correct answers">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Jae_Kim?action=edit&amp;section=6" title="Edit section: Friendship interaction correct answers"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Meal_with_a_friend">Meal with a friend</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Jae_Kim?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Meal with a friend">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Jae_Kim?action=edit&amp;section=7" title="Edit section: Meal with a friend"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>✔+ Yumboes</li>
+<li>✔+ Apparition</li>
+<li>✔+ Their master/Their master's family</li>
+<li>✔+ Being</li></ul>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Jae_Kim?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Jae_Kim?action=edit&amp;section=8" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Kim, meaning Gold in Korean, is the most populous surname in North and South Korea, suggesting he is from a South Korean family. The name Jae can also have a Korean origin. Depending on the hanja used to writing it, it could mean "talent", "wealth", "cultivate" or "again".
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Jae_Kim?veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Jae_Kim?action=edit&amp;section=9" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 10 images related to <i><b><a href="/wiki/Category:Images_of_Jae_Kim" title="Category:Images of Jae Kim">Jae Kim</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<ul><li><i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Jae_Kim?veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Jae_Kim?action=edit&amp;section=10" title="Edit section: Notes and references

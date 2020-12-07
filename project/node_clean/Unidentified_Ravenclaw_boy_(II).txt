@@ -1,0 +1,150 @@
+<div class="mw-parser-output"><table class="notice metadata" cellpadding="3px" style="text-align: center; background: snow; border: #a00 1px solid; margin: 1em 10% 1em 10%;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/1/11/Hermione_Granger_%28HBP_promo%29_5.jpg/revision/latest?cb=20090817203540" class="image"><img alt="Hermione Granger (HBP promo) 5.jpg" src="https://static.wikia.nocookie.net/harrypotter/images/1/11/Hermione_Granger_%28HBP_promo%29_5.jpg/revision/latest/scale-to-width-down/60?cb=20090817203540" decoding="async" width="60" height="80" data-image-name="Hermione Granger (HBP promo) 5.jpg" data-image-key="Hermione_Granger_(HBP_promo)_5.jpg" /></a>
+</td>
+<td><i><b>"Are you a wizard or not?"</b></i>
+<p>The title of this article is conjectural.  Although it is based on <a href="/wiki/Canon" title="Canon">canonical information</a>, the actual name is a conjecture and may be supplanted at any time by additional information released from canonical sources.  If this occurs, please move this page to the appropriate title.
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-ravenclaw pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/e/e5/Ravenclaw_Boy_II.png/revision/latest?cb=20110821235122" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/e/e5/Ravenclaw_Boy_II.png/revision/latest/scale-to-width-down/255?cb=20110821235122" srcset="https://static.wikia.nocookie.net/harrypotter/images/e/e5/Ravenclaw_Boy_II.png/revision/latest/scale-to-width-down/255?cb=20110821235122 1x, https://static.wikia.nocookie.net/harrypotter/images/e/e5/Ravenclaw_Boy_II.png/revision/latest/scale-to-width-down/510?cb=20110821235122 2x" class="pi-image-thumbnail" alt="" width="255" height="389"
+		     data-image-key="Ravenclaw_Boy_II.png" data-image-name="Ravenclaw Boy II.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Ravenclaw boy</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">on or before <a href="/wiki/2_May" title="2 May">2 May</a> <a href="/wiki/1981" title="1981">1981</a> (possibly)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Half-blood" title="Half-blood">Half-blood</a> or <a href="/wiki/Pure-blood" title="Pure-blood">Pure-blood</a><sup id="cite_ref-blood_1-0" class="reference"><a href="#cite_note-blood-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a> or <a href="/wiki/Ireland" title="Ireland">Irish</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-DHG2_3-0" class="reference"><a href="#cite_note-DHG2-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Black<sup id="cite_ref-DHG2_3-1" class="reference"><a href="#cite_note-DHG2-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Dark<sup id="cite_ref-DHG2_3-2" class="reference"><a href="#cite_note-DHG2-3">&#91;3&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="house">
+	
+		<h3 class="pi-data-label pi-secondary-font">House</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Ravenclaw" title="Ravenclaw">Ravenclaw</a><sup id="cite_ref-DHG2_3-3" class="reference"><a href="#cite_note-DHG2-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Ravenclaw" title="Ravenclaw">Ravenclaw</a><sup id="cite_ref-DHG2_3-4" class="reference"><a href="#cite_note-DHG2-3">&#91;3&#93;</a></sup></li><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a><sup id="cite_ref-DHG2_3-5" class="reference"><a href="#cite_note-DHG2-3">&#91;3&#93;</a></sup></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Deathly Hallows: Part 2 (video game)"><b><a href="/wiki/Hannah_Abbott" title="Hannah Abbott">Hannah Abbott</a></b>: "<i>Harry needs our help. We have to hold them as long as we can!</i>"</span></dd>
+<dd><b>Ravenclaw boy</b>: "<i>She's right. Attack! ATTACK!</i>"</dd>
+<dd>&#8212; Hannah Abbott and the boy<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_2_(video_game)" title="Harry Potter and the Deathly Hallows: Part 2 (video game)">[src]</a></sup></dd></dl>
+</div>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Deathly Hallows: Part 2 (video game)"><b>Ravenclaw boy</b>: "<i>Keep fighting... we have to win.</i>"</span></dd>
+<dd><b>Hufflepuff girl</b>: "<i>Harry needs more time.</i>"</dd>
+<dd><b>Hannah Abbott</b>: "<i>They're breaking through our defences.</i>"</dd>
+<dd>&#8212; Hannah and the boy<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_2_(video_game)" title="Harry Potter and the Deathly Hallows: Part 2 (video game)">[src]</a></sup></dd></dl>
+</div>
+<div class="quote">
+<dl><dd><span title="Source:&#160;The boy, Hannah and Ginny"><b>Ginny Weasley</b>: "<i>I... I think that's the last of them.</i>"</span></dd>
+<dd><b>Ravenclaw boy</b>: "<i>Where are they going?</i>"</dd>
+<dd><b>Ginny Weasley</b>: "<i>I don't believe it. We've done it!</i>"</dd>
+<dd><b>Hannah Abbott</b>: "<i>That was brilliant!</i>"</dd>
+<dd><b>Ravenclaw boy</b>: "<i>Blimey.</i>"</dd>
+<dd>&#8212; The boy, Hannah and Ginny<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_2_(video_game)" title="Harry Potter and the Deathly Hallows: Part 2 (video game)">[src]</a></sup></dd></dl>
+</div>
+<div class="quote">
+<dl><dd><span title="Source:&#160;The boy, Hannah and Ginny"><b>Ginny Weasley</b>: "<i>Well done, everyone.</i>"</span></dd>
+<dd><b>Ravenclaw boy</b>: "<i>Look out! Incoming!</i>"</dd>
+<dd><b>Hannah Abbott</b>: "<i>Everyone, get back inside!</i>"</dd>
+<dd><b>Ginny Weasley</b>: "<i>Get back to the Great Hall.</i>"</dd>
+<dd>&#8212; The boy, Hannah and Ginny<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_2_(video_game)" title="Harry Potter and the Deathly Hallows: Part 2 (video game)">[src]</a></sup></dd></dl>
+</div>
+<p>This <b><a href="/wiki/Wizardkind" title="Wizardkind">individual</a></b> was a student at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> in the <a href="/wiki/1990s" title="1990s">1990s</a> and was sorted into <a href="/wiki/Ravenclaw" title="Ravenclaw">Ravenclaw</a>.<sup id="cite_ref-DHG2_3-6" class="reference"><a href="#cite_note-DHG2-3">&#91;3&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Behind_the_scenes"><span class="tocnumber">2</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Appearances"><span class="tocnumber">3</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Notes_and_references"><span class="tocnumber">4</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Unidentified_Ravenclaw_boy_(II)?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Unidentified_Ravenclaw_boy_(II)?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>He fought in the <a href="/wiki/Battle_of_Hogwarts" title="Battle of Hogwarts">Battle of Hogwarts</a> against the <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a>.<sup id="cite_ref-DHG2_3-7" class="reference"><a href="#cite_note-DHG2-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Unidentified_Ravenclaw_boy_(II)?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Unidentified_Ravenclaw_boy_(II)?action=edit&amp;section=2" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>He may be <a href="/wiki/Terry_Boot" title="Terry Boot">Terry Boot</a>, <a href="/wiki/Michael_Corner" title="Michael Corner">Michael Corner</a> or another unidentified Ravenclaw boy.</li>
+<li>He is voiced by <a href="/wiki/Gregg_Chillin" title="Gregg Chillin">Gregg Chillin</a> in the video game.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Unidentified_Ravenclaw_boy_(II)?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Unidentified_Ravenclaw_boy_(II)?action=edit&amp;section=3" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_2_(video_game)" title="Harry Potter and the Deathly Hallows: Part 2 (video game)">Harry Potter and the Deathly Hallows: Part 2 (video game)</a></i> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Unidentified_Ravenclaw_boy_(II)?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Unidentified_Ravenclaw_boy_(II)?action=edit&amp;section=4" title="Edit section: Notes and references

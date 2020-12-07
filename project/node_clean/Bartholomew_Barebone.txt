@@ -1,0 +1,118 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-muggle pi-layout-default"><section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Bartholomew Barebone</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Muggle" class="mw-redirect" title="Muggle">No-Maj</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Mary_Lou_Barebone" title="Mary Lou Barebone">Mary Lou Barebone</a> (descendant)</li><li><a href="/wiki/Barebone_family" title="Barebone family">Barebone family</a></li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Barebone_family" title="Barebone family">Barebone family</a></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Fantastic Beasts and Where to Find Them (film)">"<i>Unbeknownst to <a href="/wiki/Dorcus_Twelvetrees" title="Dorcus Twelvetrees">Dorcus</a>, Bartholomew was a <a href="/wiki/Scourers" title="Scourers">Scourer</a> descendant. Nobody in his <a href="/wiki/Barebone_family" title="Barebone family">family</a> was magic, but his belief in <a href="/wiki/Magic" title="Magic">magic</a> was profound and unshakeable, as was his conviction that all witches and wizards were <a href="/wiki/Dark_Wizard" title="Dark Wizard">evil</a>.</i>"</span></dd>
+<dd>&#8212;Description of Bartholomew Barebone<sup class="noprint"><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(film)" title="Fantastic Beasts and Where to Find Them (film)">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Bartholomew Barebone</b> was an <a href="/wiki/United_States_of_America" title="United States of America">American</a> <a href="/wiki/Muggle" class="mw-redirect" title="Muggle">No-Maj</a> who lived during the <a href="/wiki/18th_century" title="18th century">18th century</a>.<sup id="cite_ref-pottermore-rappaport_1-0" class="reference"><a href="#cite_note-pottermore-rappaport-1">&#91;1&#93;</a></sup> Descended from one of the Scourers who escaped justice, he had an intense hatred of <a href="/wiki/Wizardkind" title="Wizardkind">witches and wizards</a>, and his desire to expose the existence of the <a href="/wiki/Wizarding_world" title="Wizarding world">wizarding world</a> propelled one of the largest ever breaches of the <a href="/wiki/International_Statute_of_Wizarding_Secrecy" title="International Statute of Wizarding Secrecy">International Statute of Secrecy</a>.<sup id="cite_ref-pottermore-rappaport_1-1" class="reference"><a href="#cite_note-pottermore-rappaport-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_life"><span class="tocnumber">1.1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Meeting_Dorcus_Twelvetrees"><span class="tocnumber">1.2</span> <span class="toctext">Meeting Dorcus Twelvetrees</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Exposing_wizarding_world"><span class="tocnumber">1.3</span> <span class="toctext">Exposing wizarding world</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Imprisoned"><span class="tocnumber">1.4</span> <span class="toctext">Imprisoned</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Aftermath"><span class="tocnumber">1.5</span> <span class="toctext">Aftermath</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Appearances"><span class="tocnumber">2</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Notes_and_references"><span class="tocnumber">3</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Bartholomew_Barebone?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Bartholomew_Barebone?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Bartholomew_Barebone?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Early life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Bartholomew_Barebone?action=edit&amp;section=2" title="Edit section: Early life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Bartholomew Barebone was born sometime in the <a href="/wiki/18th_century" title="18th century">18th century</a>.<sup id="cite_ref-pottermore-rappaport_1-2" class="reference"><a href="#cite_note-pottermore-rappaport-1">&#91;1&#93;</a></sup> Although no one in <a href="/wiki/Barebone_family" title="Barebone family">his family</a> was <a href="/wiki/Magic" title="Magic">magical</a>, he was descended from one of the <a href="/wiki/Scourers" title="Scourers">Scourers</a> who married <a href="/wiki/Muggle" class="mw-redirect" title="Muggle">No-Majs</a> and assimilated into non-magic society in order to escape punishment for their crimes, and, as such, had an intense belief in the existence of magic and the inherent evilness of <a href="/wiki/Wizardkind" title="Wizardkind">witches and wizards</a>.<sup id="cite_ref-pottermore-rappaport_1-3" class="reference"><a href="#cite_note-pottermore-rappaport-1">&#91;1&#93;</a></sup><sup id="cite_ref-historymagic2_2-0" class="reference"><a href="#cite_note-historymagic2-2">&#91;2&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Meeting_Dorcus_Twelvetrees">Meeting Dorcus Twelvetrees</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Bartholomew_Barebone?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Meeting Dorcus Twelvetrees">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Bartholomew_Barebone?action=edit&amp;section=3" title="Edit section: Meeting Dorcus Twelvetrees"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Pottermore">"<i>One day, at a local picnic, Dorcus Twelvetrees became greatly enamoured of a handsome <a href="/wiki/Muggle" class="mw-redirect" title="Muggle">No-Maj</a> called Bartholomew Barebone... Totally oblivious to the danger, Dorcus took Bartholomew’s polite interest in her <a href="/wiki/Magic" title="Magic">'little tricks'</a> at face value. Led on by her beau's artless questions, she confided... all the ways in which these bodies sought to protect and conceal the wizarding community.</i>"</span></dd>
+<dd>&#8212;<i><a href="/wiki/Magic_in_North_America" title="Magic in North America">Magic in North America</a></i><sup class="noprint"><a href="/wiki/Pottermore" title="Pottermore">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p>Bartholomew met <a href="/wiki/Dorcus_Twelvetrees" title="Dorcus Twelvetrees">Dorcus Twelvetrees</a> at a neighbourhood <a href="/wiki/Picnic" title="Picnic">picnic</a> one day.<sup id="cite_ref-pottermore-rappaport_1-4" class="reference"><a href="#cite_note-pottermore-rappaport-1">&#91;1&#93;</a></sup> The young witch immediately became infatuated with the handsome No-Maj and performed "<a href="/wiki/Spell" title="Spell">little tricks</a>" to impress him.<sup id="cite_ref-pottermore-rappaport_1-5" class="reference"><a href="#cite_note-pottermore-rappaport-1">&#91;1&#93;</a></sup> Feigning innocent interest, Bartholomew plied Dorcus with questions and was thereby able to extract information about the <a href="/wiki/Wizarding_world" title="Wizarding world">wizarding world</a> from her.<sup id="cite_ref-pottermore-rappaport_1-6" class="reference"><a href="#cite_note-pottermore-rappaport-1">&#91;1&#93;</a></sup> She readily told him the locations of both <a href="/wiki/Ilvermorny_School_of_Witchcraft_and_Wizardry" title="Ilvermorny School of Witchcraft and Wizardry">Ilvermorny School of Witchcraft and Wizardry</a> and the headquarters of the <a href="/wiki/Magical_Congress_of_the_United_States_of_America" title="Magical Congress of the United States of America">Magical Congress of the United States of America</a>, as well as details about the <a href="/wiki/International_Confederation_of_Wizards" title="International Confederation of Wizards">International Confederation of Wizards</a> and the manners in which wizards endeavoured to hide their world.<sup id="cite_ref-pottermore-rappaport_1-7" class="reference"><a href="#cite_note-pottermore-rappaport-1">&#91;1&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Exposing_wizarding_world">Exposing wizarding world</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Bartholomew_Barebone?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Exposing wizarding world">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Bartholomew_Barebone?action=edit&amp;section=4" title="Edit section: Exposing wizarding world"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Fantastic Beasts and Where to Find Them (film)">"<i>Having gathered as much information as he could from Dorcus, Bartholomew stole the wand she had obligingly demonstrated for him, showed it to as many pressmen as he could find, then gathered together armed friends and set out to persecute and, ideally, kill all the witches and wizards in the vicinity.</i>"</span></dd>
+<dd>&#8212;Bartholomew tries to expose the wizarding world<sup class="noprint"><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(film)" title="Fantastic Beasts and Where to Find Them (film)">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p>After getting as much information out of Dorcus as possible, Bartholomew stole her <a href="/wiki/Wand" title="Wand">wand</a> she had obligingly demonstrated for him.<sup id="cite_ref-pottermore-rappaport_1-8" class="reference"><a href="#cite_note-pottermore-rappaport-1">&#91;1&#93;</a></sup> He showed Dorcus's wand to as many newspaper reporters as he could, and some of them took him seriously enough to publish pictures of it, describing how it "had a kick like a <a href="/wiki/Mule" title="Mule">mule</a>" when waved.<sup id="cite_ref-pottermore-rappaport_1-9" class="reference"><a href="#cite_note-pottermore-rappaport-1">&#91;1&#93;</a></sup> He printed and disseminated leaflets listing the wizarding addresses Dorcus had revealed to him and wrote letters to important No-Majs.<sup id="cite_ref-pottermore-rappaport_1-10" class="reference"><a href="#cite_note-pottermore-rappaport-1">&#91;1&#93;</a></sup> Some of the recipients of his letters were motivated to investigate whether his claims of "evil occult parties" were true.<sup id="cite_ref-pottermore-rappaport_1-11" class="reference"><a href="#cite_note-pottermore-rappaport-1">&#91;1&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Imprisoned">Imprisoned</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Bartholomew_Barebone?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Imprisoned">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Bartholomew_Barebone?action=edit&amp;section=5" title="Edit section: Imprisoned"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Fantastic Beasts and Where to Find Them (film)">"<i>Giddy with his mission to expose witchcraft in <a href="/wiki/United_States_of_America" title="United States of America">America</a>, Bartholomew Barebone overstepped himself by shooting at what he believed were a group of <a href="/wiki/Magical_Congress_of_the_United_States_of_America" title="Magical Congress of the United States of America">MACUSA</a> wizards, but which turned out to be No-Majs who had the bad fortune to leave a suspected building while he was watching it. Fortunately nobody was killed, and Bartholomew was arrested and imprisoned for the crime.</i>"</span></dd>
+<dd>&#8212;Bartholomew was arrested and imprisoned<sup class="noprint"><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(film)" title="Fantastic Beasts and Where to Find Them (film)">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p>Not satisfied with simply making his fellow No-Majs aware of the existence of the wizarding world, Bartholomew banded together with some <a href="/wiki/Gun" title="Gun">gun</a>-wielding friends, and set out to persecute and kill all witches and wizards who lived in the area.<sup id="cite_ref-pottermore-rappaport_1-12" class="reference"><a href="#cite_note-pottermore-rappaport-1">&#91;1&#93;</a></sup> He planted himself outside of a building and opened fire when a group of people he assumed to be MACUSA employees exited.<sup id="cite_ref-pottermore-rappaport_1-13" class="reference"><a href="#cite_note-pottermore-rappaport-1">&#91;1&#93;</a></sup> However, the people were in fact <a href="/wiki/No-Maj" class="mw-redirect" title="No-Maj">No-Majs</a> unlucky enough to be in the wrong place at the wrong time.<sup id="cite_ref-pottermore-rappaport_1-14" class="reference"><a href="#cite_note-pottermore-rappaport-1">&#91;1&#93;</a></sup> None of them were killed.<sup id="cite_ref-pottermore-rappaport_1-15" class="reference"><a href="#cite_note-pottermore-rappaport-1">&#91;1&#93;</a></sup> Bartholomew was arrested by No-Maj authorities and imprisoned for his crime.<sup id="cite_ref-pottermore-rappaport_1-16" class="reference"><a href="#cite_note-pottermore-rappaport-1">&#91;1&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Aftermath">Aftermath</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Bartholomew_Barebone?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Aftermath">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Bartholomew_Barebone?action=edit&amp;section=6" title="Edit section: Aftermath"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Fantastic Beasts and Where to Find Them (film)">"<i>Dorcus’s indiscretions led to the introduction of Rappaport’s Law. Rappaport’s Law enforced strict segregation between the No-Maj and wizarding communities. Wizards were no longer allowed to befriend or marry No-Majs. Penalties for fraternising with No-Majs were harsh. Communication with No-Majs was limited to that necessary to perform daily activities.</i>"</span></dd>
+<dd>&#8212;Rappaport's Law<sup class="noprint"><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(film)" title="Fantastic Beasts and Where to Find Them (film)">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p>The Barebone affair prompted the passage of <a href="/wiki/Rappaport%27s_Law" title="Rappaport&#39;s Law">Rappaport's Law</a> in <a href="/wiki/1790" class="mw-redirect" title="1790">1790</a>.<sup id="cite_ref-pottermore-rappaport_1-17" class="reference"><a href="#cite_note-pottermore-rappaport-1">&#91;1&#93;</a></sup> This law banned witches and wizards from marrying or befriending No-Majs, and led to the complete segregation of the No-Maj and wizarding communities in America.<sup id="cite_ref-pottermore-rappaport_1-18" class="reference"><a href="#cite_note-pottermore-rappaport-1">&#91;1&#93;</a></sup> Twelvetree herself was thoroughly disgraced due to her interaction with Barebone, and was left traumatised and secluded for the rest of her life.
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Bartholomew_Barebone?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Bartholomew_Barebone?action=edit&amp;section=7" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> <small>(Mentioned only)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Bartholomew_Barebone?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Bartholomew_Barebone?action=edit&amp;section=8" title="Edit section: Notes and references

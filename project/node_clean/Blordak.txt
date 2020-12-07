@@ -1,0 +1,61 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-gringotts pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/6/67/Blordak.png/revision/latest?cb=20140622191348" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/6/67/Blordak.png/revision/latest/scale-to-width-down/320?cb=20140622191348" srcset="https://static.wikia.nocookie.net/harrypotter/images/6/67/Blordak.png/revision/latest/scale-to-width-down/320?cb=20140622191348 1x, https://static.wikia.nocookie.net/harrypotter/images/6/67/Blordak.png/revision/latest/scale-to-width-down/641?cb=20140622191348 2x" class="pi-image-thumbnail" alt="" width="270" height="421"
+		     data-image-key="Blordak.png" data-image-name="Blordak.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Blordak</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Goblin" title="Goblin">Goblin</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Employee at <a href="/wiki/Gringotts_Wizarding_Bank" title="Gringotts Wizarding Bank">Gringotts Wizarding Bank</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Gringotts_Wizarding_Bank" title="Gringotts Wizarding Bank">Gringotts Wizarding Bank</a></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Blordak</b><sup id="cite_ref-DIS_1-0" class="reference"><a href="#cite_note-DIS-1">&#91;1&#93;</a></sup><sup id="cite_ref-office_2-0" class="reference"><a href="#cite_note-office-2">&#91;2&#93;</a></sup> was a <a href="/wiki/Goblin" title="Goblin">goblin</a> that worked at <a href="/wiki/Gringotts_Wizarding_Bank" title="Gringotts Wizarding Bank">Gringotts Wizarding Bank</a>. He had an office opposite <a href="/wiki/Ragnok" title="Ragnok">Ragnok</a>'s, in the main offices at <a href="/wiki/Diagon_Alley" title="Diagon Alley">Diagon Alley</a>.<sup id="cite_ref-DIS_1-1" class="reference"><a href="#cite_note-DIS-1">&#91;1&#93;</a></sup>
+</p><p>Blordak was encharged with showing clients opening new accounts to their vaults.<sup id="cite_ref-DIS_1-2" class="reference"><a href="#cite_note-DIS-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Blordak?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Blordak?action=edit&amp;section=1" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/The_Wizarding_World_of_Harry_Potter" title="The Wizarding World of Harry Potter">The Wizarding World of Harry Potter</a> <small>(First appearance)</small> <span class="template-c">(Appears in <a href="/wiki/Harry_Potter_and_the_Escape_From_Gringotts" title="Harry Potter and the Escape From Gringotts">Harry Potter and the Escape From Gringotts</a>)</span></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Blordak?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Blordak?action=edit&amp;section=2" title="Edit section: Notes and references

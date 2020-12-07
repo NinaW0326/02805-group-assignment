@@ -1,0 +1,117 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/4/4b/Blenheim_Stalk.jpg/revision/latest?cb=20090728140900" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/4/4b/Blenheim_Stalk.jpg/revision/latest/scale-to-width-down/341?cb=20090728140900" srcset="https://static.wikia.nocookie.net/harrypotter/images/4/4b/Blenheim_Stalk.jpg/revision/latest/scale-to-width-down/341?cb=20090728140900 1x, https://static.wikia.nocookie.net/harrypotter/images/4/4b/Blenheim_Stalk.jpg/revision/latest/scale-to-width-down/682?cb=20090728140900 2x" class="pi-image-thumbnail" alt="" width="270" height="395"
+		     data-image-key="Blenheim_Stalk.jpg" data-image-name="Blenheim Stalk.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Blenheim Stalk</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/1920" title="1920">1920</a><sup id="cite_ref-COSG_1-0" class="reference"><a href="#cite_note-COSG-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Magic" title="Magic">Magical</a> to unknown extent</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Grey<sup id="cite_ref-COSG_1-1" class="reference"><a href="#cite_note-COSG-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Blue<sup id="cite_ref-COSG_1-2" class="reference"><a href="#cite_note-COSG-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White<sup id="cite_ref-COSG_1-3" class="reference"><a href="#cite_note-COSG-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> expert</li><li>Author</li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Blenheim Stalk</b> (b. <a href="/wiki/1920" title="1920">1920</a>) was a <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> and author who was a well-known expert on <a href="/wiki/Non-magic_people" title="Non-magic people">Muggles</a>.<sup id="cite_ref-COSG_1-4" class="reference"><a href="#cite_note-COSG-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_life"><span class="tocnumber">1.1</span> <span class="toctext">Early life</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Magical_abilities_and_skills"><span class="tocnumber">2</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Appearances"><span class="tocnumber">3</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Notes_and_references"><span class="tocnumber">4</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Blenheim_Stalk?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Blenheim_Stalk?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Blenheim_Stalk?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Early life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Blenheim_Stalk?action=edit&amp;section=2" title="Edit section: Early life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Blenheim was born in <a href="/wiki/1920" title="1920">1920</a>. He became an expert on <a href="/wiki/Non-magic_people" title="Non-magic people">Muggles</a> and authored many books on the subject of them, including <i><a href="/wiki/Muggles_Who_Notice" title="Muggles Who Notice">Muggles Who Notice</a></i>, a book published in <a href="/wiki/1972" title="1972">1972</a>.<sup id="cite_ref-COSG_1-5" class="reference"><a href="#cite_note-COSG-1">&#91;1&#93;</a></sup> The book references the <a href="/wiki/Ilfracombe_Incident" title="Ilfracombe Incident">Ilfracombe Incident</a> and the story of <a href="/wiki/Dirk" title="Dirk">"Dodgy" Dirk</a>.<sup id="cite_ref-FB_2-0" class="reference"><a href="#cite_note-FB-2">&#91;2&#93;</a></sup>
+</p><p>By the 1990s, he was featured on a famous Wizard Card and was featured wearing a <a href="/wiki/Blenheim_Stalk%27s_pocket_watch" title="Blenheim Stalk&#39;s pocket watch">golden pocket watch</a>.<sup id="cite_ref-COSG_1-6" class="reference"><a href="#cite_note-COSG-1">&#91;1&#93;</a></sup>
+</p><p>He was awarded recognition for his noteworthy and valuable research into <a href="/wiki/Muggle_Studies" title="Muggle Studies">Muggle Studies</a> in the <a href="/wiki/Famous_Witches_and_Wizards_Cards" title="Famous Witches and Wizards Cards">Famous Witches and Wizards Cards</a> set, on a silver <a href="/wiki/Chocolate_Frog_Card" title="Chocolate Frog Card">Chocolate Frog Card</a>.<sup id="cite_ref-COSG_1-7" class="reference"><a href="#cite_note-COSG-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Blenheim_Stalk?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Blenheim_Stalk?action=edit&amp;section=3" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Muggle_Studies" title="Muggle Studies">Muggle Studies</a></b>: Stalk was an expert on <a href="/wiki/Non-magic_people" title="Non-magic people">Muggles</a> and their ways of living, such as how Muggles survive without <a href="/wiki/Magic" title="Magic">magic</a> and their use of <a href="/wiki/Science" title="Science">science</a> and technology, as well as Muggle society and history. He authored many books on the subject of Muggles, including the book <a href="/wiki/Muggles_Who_Notice" title="Muggles Who Notice">Muggles Who Notice</a>, which discusses the rare cases of Muggles who witness <a href="/wiki/Magic" title="Magic">magic</a> and the <a href="/wiki/Wizarding_world" title="Wizarding world">wizarding world</a>, showing he was highly knowledgeable and accomplished in this academic field of <a href="/wiki/Wizardkind" title="Wizardkind">wizarding</a> social science.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Blenheim_Stalk?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Blenheim_Stalk?action=edit&amp;section=4" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tright show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/9/91/Blenheim_Stalk-85-chocFrogCard.png/revision/latest?cb=20160606202143" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/9/91/Blenheim_Stalk-85-chocFrogCard.png/revision/latest/scale-to-width-down/180?cb=20160606202143" decoding="async" width="180" height="180" class="thumbimage" data-image-name="Blenheim Stalk-85-chocFrogCard.png" data-image-key="Blenheim_Stalk-85-chocFrogCard.png" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Blenheim_Stalk-85-chocFrogCard.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Blenheim Stalk's silver wizard card</p> 		 	</figcaption> </figure>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(video_game)" title="Harry Potter and the Philosopher&#39;s Stone (video game)">Harry Potter and the Philosopher's Stone (video game)</a></i> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(video_game)" title="Harry Potter and the Chamber of Secrets (video game)">Harry Potter and the Chamber of Secrets (video game)</a></i> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li>
+<li><i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(companion_book)" title="Fantastic Beasts and Where to Find Them (companion book)">Fantastic Beasts and Where to Find Them</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Blenheim_Stalk?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Blenheim_Stalk?action=edit&amp;section=5" title="Edit section: Notes and references

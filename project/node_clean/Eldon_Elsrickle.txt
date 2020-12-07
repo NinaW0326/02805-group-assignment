@@ -1,0 +1,95 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/e/ea/Eldon_Elsrickle.png/revision/latest?cb=20121113225327" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/e/ea/Eldon_Elsrickle.png/revision/latest/scale-to-width-down/239?cb=20121113225327" srcset="https://static.wikia.nocookie.net/harrypotter/images/e/ea/Eldon_Elsrickle.png/revision/latest/scale-to-width-down/239?cb=20121113225327 1x, https://static.wikia.nocookie.net/harrypotter/images/e/ea/Eldon_Elsrickle.png/revision/latest/scale-to-width-down/478?cb=20121113225327 2x" class="pi-image-thumbnail" alt="" width="239" height="256"
+		     data-image-key="Eldon_Elsrickle.png" data-image-name="Eldon Elsrickle.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Eldon Elsrickle</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/1600s" title="1600s">1600s</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="alias">
+	
+		<h3 class="pi-data-label pi-secondary-font">Also known as</h3>
+	
+	<div class="pi-data-value pi-font">The Spectral Thief of Old London Town</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Thief</div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Eldon Elsrickle</b> (fl. early <a href="/wiki/1600s" title="1600s">1600s</a>) was a <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> and a thief who was responsible for the introduction of the <a href="/wiki/Unlocking_Charm" title="Unlocking Charm">Unlocking Charm</a> to <a href="/wiki/Great_Britain" title="Great Britain">Britain</a>, in the early <a href="/wiki/17th_century" title="17th century">17th century</a>. Elsrickle was a famed thief, who was behind a series of mysterious robberies in <a href="/wiki/London" title="London">London</a>, earning him the sobriquet of "The Spectral Thief of Old London Town".
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Magical_abilities_and_skills"><span class="tocnumber">2</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Appearances"><span class="tocnumber">3</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Notes_and_references"><span class="tocnumber">4</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Eldon_Elsrickle?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Eldon_Elsrickle?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Elsrickle had fled from his native Britain to <a href="/wiki/Africa" title="Africa">Africa</a>, hoping to escape punishment for a series of robberies. Whilst there, he obtained two prized treasures: a <a href="/wiki/Nundu" title="Nundu">Nundu</a> cub, and a little known-charm otherwise known as "The Thief's Friend" that he learn from an <a href="/wiki/Ancient_African_sorcerer" title="Ancient African sorcerer">ancient African sorcerer</a>: <a href="/wiki/Unlocking_Charm" title="Unlocking Charm"><i>Alohomora</i></a>.
+</p><p>After some time in Africa, Elsrickle returned to <a href="/wiki/London" title="London">London</a> heavily disguised. He used the <a href="/wiki/Nundu" title="Nundu">Nundu</a> cub to guard his house when he was not there (recurring to <a href="/wiki/Stunning_Spell" title="Stunning Spell">Stunning Spells</a> through the keyhole whenever he entered the house). With the knowledge of a spell that subtly unlocked doors, Elsrickle carried on with his thievery and soon he was taking home priceless treasures and antiques from all over <a href="/wiki/London" title="London">London</a> — making front page news on <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> and <a href="/wiki/Wizardkind" title="Wizardkind">wizarding</a> newspapers alike.
+</p><p>Elsrickle was surprised a few times in the house of fellow <a href="/wiki/Wizardkind" title="Wizardkind">wizards</a>, but whenever this happened, the thief offered to trade his Unlocking Charm for his freedom. This deal was accepted so many times, that before long, there were many "Spectral Thieves" ransacking the houses of London. Elsrickle was confident, however, that no one could rob his house, as it was guarded by his ever-growing <a href="/wiki/Nundu" title="Nundu">Nundu</a>.
+</p><p><a href="/wiki/Blagdon_Blay" title="Blagdon Blay">Blagdon Blay</a>, a fellow wizard Londoner, had his house broken into nineteen times in the course of two weeks. He managed to <a href="/wiki/Spell_creation" title="Spell creation">develop</a> an <a href="/wiki/Anti-Alohomora_Charm" title="Anti-Alohomora Charm">Anti-Alohomora Charm</a> to secure his house, and soon all the London wizards sealed their houses shut at night, and special wizard task-forces protected those of Muggles. Frustrated and angry about not having managed to rob at least one single house, Elsrickle got home one morning, but forgot to <a href="/wiki/Stunning_Spell" title="Stunning Spell">Stun</a> his <a href="/wiki/Nundu" title="Nundu">Nundu</a> — as a result, the beast proceeded to devour him and, effectively, his last word was "<i>Alohomora</i>".<sup id="cite_ref-WBoS_1-0" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Eldon_Elsrickle?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Eldon_Elsrickle?action=edit&amp;section=2" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Charm" title="Charm">Charms</a></b>: Eldon was particularly skilled in charms, having learned the <a href="/wiki/Unlocking_Charm" title="Unlocking Charm">Unlocking Charm</a> and used it effectively to burgle houses in <a href="/wiki/London" title="London">London</a>, as well as passing it onto many other wizards. He was powerful enough to knock out a <a href="/wiki/Nundu" title="Nundu">Nundu</a> with a single <a href="/wiki/Stunning_Spell" title="Stunning Spell">Stunning Spell</a>, and awaken it with a <a href="/wiki/Reviving_Spell" title="Reviving Spell">Reviving Spell</a>; a considerable feat, as by standard Nundu cannot be subdued by any less than one hundred wizards working in tandem. However, Eldon had plenty of practise, having acquired the Nundu first as a cub.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Eldon_Elsrickle?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Eldon_Elsrickle?action=edit&amp;section=3" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Wonderbook:_Book_of_Spells" title="Wonderbook: Book of Spells">Wonderbook: Book of Spells</a></i> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Eldon_Elsrickle?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Eldon_Elsrickle?action=edit&amp;section=4" title="Edit section: Notes and references

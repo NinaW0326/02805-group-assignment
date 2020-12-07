@@ -1,0 +1,109 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-hufflepuff pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/6/64/Maxine_O%27Flaherty.png/revision/latest?cb=20170304123914" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/6/64/Maxine_O%27Flaherty.png/revision/latest/scale-to-width-down/299?cb=20170304123914" srcset="https://static.wikia.nocookie.net/harrypotter/images/6/64/Maxine_O%27Flaherty.png/revision/latest/scale-to-width-down/299?cb=20170304123914 1x, https://static.wikia.nocookie.net/harrypotter/images/6/64/Maxine_O%27Flaherty.png/revision/latest/scale-to-width-down/598?cb=20170304123914 2x" class="pi-image-thumbnail" alt="" width="270" height="243"
+		     data-image-key="Maxine_O%27Flaherty.png" data-image-name="Maxine O&#039;Flaherty.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Maxine O'Flaherty</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/31_August" title="31 August">31 August</a> <a href="/wiki/1982" title="1982">1982</a> or earler</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a> or <a href="/wiki/Ireland" title="Ireland">Irish</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="title">
+	
+		<h3 class="pi-data-label pi-secondary-font">Title(s)</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Beater" title="Beater">Beater</a><sup id="cite_ref-QWC_2-0" class="reference"><a href="#cite_note-QWC-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-QWC_2-1" class="reference"><a href="#cite_note-QWC-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female<sup id="cite_ref-QWC_2-2" class="reference"><a href="#cite_note-QWC-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Black<sup id="cite_ref-QWC_2-3" class="reference"><a href="#cite_note-QWC-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Green<sup id="cite_ref-QWC_2-4" class="reference"><a href="#cite_note-QWC-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White<sup id="cite_ref-QWC_2-5" class="reference"><a href="#cite_note-QWC-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="house">
+	
+		<h3 class="pi-data-label pi-secondary-font">House</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Hufflepuff" title="Hufflepuff">Hufflepuff</a><sup id="cite_ref-QWC_2-6" class="reference"><a href="#cite_note-QWC-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a><sup id="cite_ref-QWC_2-7" class="reference"><a href="#cite_note-QWC-2">&#91;2&#93;</a></sup><ul><li><a href="/wiki/Hufflepuff_Quidditch_team" title="Hufflepuff Quidditch team">Hufflepuff Quidditch team</a><sup id="cite_ref-QWC_2-8" class="reference"><a href="#cite_note-QWC-2">&#91;2&#93;</a></sup></li><li><a href="/wiki/Hufflepuff" title="Hufflepuff">Hufflepuff</a><sup id="cite_ref-QWC_2-9" class="reference"><a href="#cite_note-QWC-2">&#91;2&#93;</a></sup></li></ul></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Maxine O'Flaherty</b> was a <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> that attended <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> in the <a href="/wiki/1990s" title="1990s">1990s</a>.<sup id="cite_ref-QWC_2-10" class="reference"><a href="#cite_note-QWC-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Maxine_O%27Flaherty?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Maxine_O%27Flaherty?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>She was <a href="/wiki/Sorting_ceremony" title="Sorting ceremony">sorted</a> sometime before <a href="/wiki/1994" title="1994">1994</a> into <a href="/wiki/Hufflepuff" title="Hufflepuff">Hufflepuff</a>. She was one of the <a href="/wiki/Beater" title="Beater">Beaters</a> for the <a href="/wiki/Hufflepuff_Quidditch_team" title="Hufflepuff Quidditch team">Hufflepuff Quidditch team</a> at the time that it was captained by <a href="/wiki/Cedric_Diggory" title="Cedric Diggory">Cedric Diggory</a>.<sup id="cite_ref-QWC_2-11" class="reference"><a href="#cite_note-QWC-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Maxine_O%27Flaherty?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Maxine_O%27Flaherty?action=edit&amp;section=2" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter:_Quidditch_World_Cup" title="Harry Potter: Quidditch World Cup">Harry Potter: Quidditch World Cup</a></i> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Maxine_O%27Flaherty?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Maxine_O%27Flaherty?action=edit&amp;section=3" title="Edit section: Notes and references

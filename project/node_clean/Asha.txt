@@ -1,0 +1,95 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/7/7d/Asha.jpg/revision/latest?cb=20110122013506" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/7/7d/Asha.jpg/revision/latest/scale-to-width-down/127?cb=20110122013506" srcset="https://static.wikia.nocookie.net/harrypotter/images/7/7d/Asha.jpg/revision/latest/scale-to-width-down/127?cb=20110122013506 1x, https://static.wikia.nocookie.net/harrypotter/images/7/7d/Asha.jpg/revision/latest/scale-to-width-down/254?cb=20110122013506 2x" class="pi-image-thumbnail" alt="" width="127" height="303"
+		     data-image-key="Asha.jpg" data-image-name="Asha.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Asha</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-TBBE_1-0" class="reference"><a href="#cite_note-TBBE-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female<sup id="cite_ref-TBBE_1-1" class="reference"><a href="#cite_note-TBBE-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Dark<sup id="cite_ref-TBBE_1-2" class="reference"><a href="#cite_note-TBBE-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White<sup id="cite_ref-TBBE_1-3" class="reference"><a href="#cite_note-TBBE-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;The Tales of Beedle the Bard">"<i>...was sick of a malady no <a href="/wiki/Healer" title="Healer">Healer</a> could cure</i>"</span></dd>
+<dd>&#8212;Asha's description<sup class="noprint"><a href="/wiki/The_Tales_of_Beedle_the_Bard" title="The Tales of Beedle the Bard">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Asha</b> was one of the three female protagonists in the story of <i><a href="/wiki/The_Fountain_of_Fair_Fortune" title="The Fountain of Fair Fortune">The Fountain of Fair Fortune</a></i>, which was included in <i><a href="/wiki/The_Tales_of_Beedle_the_Bard" title="The Tales of Beedle the Bard">The Tales of Beedle the Bard </a></i>.<sup id="cite_ref-TBBE_1-4" class="reference"><a href="#cite_note-TBBE-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_life"><span class="tocnumber">1.1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Quest_to_the_Fountain"><span class="tocnumber">1.2</span> <span class="toctext">Quest to the Fountain</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Personality_and_Traits"><span class="tocnumber">2</span> <span class="toctext">Personality and Traits</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Etymology"><span class="tocnumber">3</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Behind_the_scenes"><span class="tocnumber">4</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Appearances"><span class="tocnumber">5</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Notes_and_references"><span class="tocnumber">6</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Asha?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Asha?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Asha?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Early life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Asha?action=edit&amp;section=2" title="Edit section: Early life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Nothing was known about Asha's earlier life, only that she was a <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> who became sick of a debilitating illness which no <a href="/wiki/Healer" title="Healer">Healer</a> had been able to treat.<sup id="cite_ref-TBBE_1-5" class="reference"><a href="#cite_note-TBBE-1">&#91;1&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Quest_to_the_Fountain">Quest to the Fountain</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Asha?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Quest to the Fountain">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Asha?action=edit&amp;section=3" title="Edit section: Quest to the Fountain"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Asha came to the Fountain in the hope that it could cure her sickness. After the trials, she was left exhausted and near death, so one of her friends, <a href="/wiki/Altheda" title="Altheda">Altheda</a>, quickly prepared a <a href="/wiki/Altheda%27s_potion" title="Altheda&#39;s potion">potion</a> that not only saved her life, but cured her affliction too. In this way, both Asha and Altheda found what they sought, and realised that they did not need the Fountain's blessing after all.<sup id="cite_ref-TBBE_1-6" class="reference"><a href="#cite_note-TBBE-1">&#91;1&#93;</a></sup>
+</p><p>After <a href="/wiki/Sir_Luckless" title="Sir Luckless">Sir Luckless</a> bathed in the Fountain and successfully proposed to <a href="/wiki/Amata" title="Amata">Amata</a>, they, Altheda, and Asha left the <a href="/wiki/Enchanted_garden" title="Enchanted garden">Enchanted Garden</a> arm-in-arm, and went on to live long and happy lives.<sup id="cite_ref-TBBE_1-7" class="reference"><a href="#cite_note-TBBE-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Personality_and_Traits">Personality and Traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Asha?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Personality and Traits">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Asha?action=edit&amp;section=4" title="Edit section: Personality and Traits"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In the beginning, very much like Altheda and Amata, Asha was portrayed to be an open and compassionate woman who could emphasise with the misfortunes of others, as seen by how the three of them became good friends through sharing their tales of woe, and even came to an agreement of uniting and trying to reach the Fountain if they had the opportunity to.<sup id="cite_ref-TBBE_1-8" class="reference"><a href="#cite_note-TBBE-1">&#91;1&#93;</a></sup>
+</p><p>However, like Altheda, Asha could also be a realist, which may make her seem ungenerous in a way, especially given how she became angry with Amata for accidentally bringing along Sir Luckless with them on their quest, and only changed her mind when Amata herself became angry with Sir Luckless and scolded him into helping them on their journey. It must be noted, though, that her illness could possibly serve as a justifiable reason for her anger and disapproval of Sir Luckless joining in the quest, especially since only one was allowed to bathe in the Fountain.<sup id="cite_ref-TBBE_1-9" class="reference"><a href="#cite_note-TBBE-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Asha?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Asha?action=edit&amp;section=5" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Asha is derived from Sanskrit 'asa' meaning 'hope',<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> and is also an African word meaning life.
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Asha?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Asha?action=edit&amp;section=6" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In the <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts</a> production the <a href="/wiki/Girl_who_played_Asha" title="Girl who played Asha">girl who played Asha</a> fought in a duel with the <a href="/wiki/Girl_who_played_Amata" title="Girl who played Amata">girl who played Amata</a>, over the <a href="/wiki/Boy_who_played_Sir_Luckless" title="Boy who played Sir Luckless">boy who played Sir Luckless</a>. This was because the boy had just broken off his relationship with "Amata" so he could date "Asha" instead.
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Asha?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Asha?action=edit&amp;section=7" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/The_Tales_of_Beedle_the_Bard_(real)" title="The Tales of Beedle the Bard (real)">The Tales of Beedle the Bard</a></i> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Asha?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Asha?action=edit&amp;section=8" title="Edit section: Notes and references

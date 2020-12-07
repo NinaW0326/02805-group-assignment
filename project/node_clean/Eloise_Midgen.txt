@@ -1,0 +1,145 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-gryffindor pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/a/ad/EloiseMidgenHeadShot.jpg/revision/latest?cb=20170719001242" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/a/ad/EloiseMidgenHeadShot.jpg/revision/latest/scale-to-width-down/297?cb=20170719001242" srcset="https://static.wikia.nocookie.net/harrypotter/images/a/ad/EloiseMidgenHeadShot.jpg/revision/latest/scale-to-width-down/297?cb=20170719001242 1x, https://static.wikia.nocookie.net/harrypotter/images/a/ad/EloiseMidgenHeadShot.jpg/revision/latest/scale-to-width-down/594?cb=20170719001242 2x" class="pi-image-thumbnail" alt="" width="270" height="294"
+		     data-image-key="EloiseMidgenHeadShot.jpg" data-image-name="EloiseMidgenHeadShot.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Eloise Midgen</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/31_August" title="31 August">31 August</a> <a href="/wiki/1983" title="1983">1983</a> or earlier<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a> or <a href="/wiki/Ireland" title="Ireland">Irish</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Light (bad case of acne)</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Eloise_Midgen%27s_father" title="Eloise Midgen&#039;s father">Mr Midgen</a> (father)</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="house">
+	
+		<h3 class="pi-data-label pi-secondary-font">House</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Gryffindor" title="Gryffindor">Gryffindor</a><sup id="cite_ref-house_3-0" class="reference"><a href="#cite_note-house-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a></li><li><a href="/wiki/Gryffindor" title="Gryffindor">Gryffindor</a></li><li><a href="/wiki/Midgen_family" title="Midgen family">Midgen family</a></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Goblet of Fire"><b>Ron Weasley</b>: "<i>I'd rather go alone than with — with Eloise Midgen, say.</i>"</span></dd>
+<dd><b>Hermione Granger</b>: "<i>Her acne's loads better lately — and she's really nice!</i>"</dd>
+<dd><b>Ron Weasley</b>: "<i>Her nose is off-centre.</i>"</dd>
+<dd>&#8212; Discussion of Eloise's looks and personality<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire" title="Harry Potter and the Goblet of Fire">[src]</a></sup></dd></dl>
+</div>
+<p><b>Eloise Midgen</b> (also spelled "Midgeon") was a <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> and <a href="/wiki/Gryffindor" title="Gryffindor">Gryffindor</a><sup id="cite_ref-house_3-1" class="reference"><a href="#cite_note-house-3">&#91;3&#93;</a></sup> student at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> during the <a href="/wiki/1990s" title="1990s">1990s</a>. She was known for having a really terrible case of acne.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Hogwarts_years"><span class="tocnumber">1.1</span> <span class="toctext">Hogwarts years</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Physical_description"><span class="tocnumber">2</span> <span class="toctext">Physical description</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Personality_and_traits"><span class="tocnumber">3</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Behind_the_scenes"><span class="tocnumber">4</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Etymology"><span class="tocnumber">5</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Appearances"><span class="tocnumber">6</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Notes_and_references"><span class="tocnumber">7</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Eloise_Midgen?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Eloise_Midgen?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Hogwarts_years">Hogwarts years</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Eloise_Midgen?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Hogwarts years">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Eloise_Midgen?action=edit&amp;section=2" title="Edit section: Hogwarts years"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In <a href="/wiki/1994" title="1994">1994</a> because she had bad acne, Eloise tried using a <a href="/wiki/Curse" title="Curse">curse</a> to get rid of her pimples, but ended up needing to have her nose reattached by <a href="/wiki/Poppy_Pomfrey" title="Poppy Pomfrey">Madam Poppy Pomfrey</a>.<sup id="cite_ref-GOF13_4-0" class="reference"><a href="#cite_note-GOF13-4">&#91;4&#93;</a></sup> The incident left her nose permanently off-centre, but her acne did start to clear, at least for a while.<sup id="cite_ref-GOF22_5-0" class="reference"><a href="#cite_note-GOF22-5">&#91;5&#93;</a></sup>
+</p><p><a href="/wiki/Hermione_Granger" title="Hermione Granger">Hermione Granger</a> assured <a href="/wiki/Ronald_Weasley" title="Ronald Weasley">Ron Weasley</a> that Eloise was a very nice person when he baulked at the idea of taking her to the <a href="/wiki/Yule_Ball" title="Yule Ball">Yule Ball</a>. Ron only wanted a good-looking girl, regardless of whether she was nice and refused to consider going with her.<sup id="cite_ref-GOF22_5-1" class="reference"><a href="#cite_note-GOF22-5">&#91;5&#93;</a></sup>
+</p><p>The <a href="/wiki/1995" title="1995">following year</a>, Hermione warned that anyone who snitched after signing up for <a href="/wiki/Dumbledore%27s_Army" title="Dumbledore&#39;s Army">Dumbledore's Army</a> would be struck with a <a href="/wiki/Dumbledore%27s_Army_parchment_jinx" title="Dumbledore&#39;s Army parchment jinx">jinx</a> that would make Eloise's acne seem like "<i>a couple of cute freckles</i>".<sup id="cite_ref-OOTP17_6-0" class="reference"><a href="#cite_note-OOTP17-6">&#91;6&#93;</a></sup>
+</p><p>Eloise was withdrawn from <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts</a> by her <a href="/wiki/Eloise_Midgen%27s_father" title="Eloise Midgen&#39;s father">father</a>, in early <a href="/wiki/September" title="September">September</a>, <a href="/wiki/1996" title="1996">1996</a>, as the public's fear about the threat posed by <a href="/wiki/Tom_Riddle" title="Tom Riddle">Lord Voldemort</a>'s return mounted.<sup id="cite_ref-HBP11_7-0" class="reference"><a href="#cite_note-HBP11-7">&#91;7&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Physical_description">Physical description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Eloise_Midgen?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Physical description">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Eloise_Midgen?action=edit&amp;section=3" title="Edit section: Physical description"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Eloise Midgen was known for having a really terrible case of acne. In <a href="/wiki/1994" title="1994">1994</a> as a result of trying to use a <a href="/wiki/Curse" title="Curse">curse</a> to get rid of her pimples, she ended up needing to have her nose reattached, leaving her nose permanently off-centre, but her acne did start to clear, at least for a while.<sup id="cite_ref-GOF13_4-1" class="reference"><a href="#cite_note-GOF13-4">&#91;4&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Eloise_Midgen?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Personality and traits">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Eloise_Midgen?action=edit&amp;section=4" title="Edit section: Personality and traits"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Eloise was very uncomfortable and self-conscious about her acne problems, which was only made worse because students kept joking about it.<sup id="cite_ref-GOF13_4-2" class="reference"><a href="#cite_note-GOF13-4">&#91;4&#93;</a></sup> She was very kind and pleasant, according to <a href="/wiki/Hermione_Granger" title="Hermione Granger">Hermione Granger</a>,<sup id="cite_ref-GOF22_5-2" class="reference"><a href="#cite_note-GOF22-5">&#91;5&#93;</a></sup> which can be considered a fair judgement of her personality.
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Eloise_Midgen?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Eloise_Midgen?action=edit&amp;section=5" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Eloise Midgen appeared briefly in the <a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire_(film)" title="Harry Potter and the Goblet of Fire (film)">film adaptation</a> of <i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire" title="Harry Potter and the Goblet of Fire">Harry Potter and the Goblet of Fire</a></i>. In the scene, <a href="/wiki/Minerva_McGonagall" title="Minerva McGonagall">Professor McGonagall</a> teaches the <a href="/wiki/Gryffindor" title="Gryffindor">Gryffindors</a> to dance for the <a href="/wiki/Yule_Ball" title="Yule Ball">Yule Ball</a>. She tells them, <i>"Inside every girl, a secret swan slumbers, longing to burst forth and take flight."</i> At this, <a href="/wiki/Ronald_Weasley" title="Ronald Weasley">Ron Weasley</a> looks across the room, sees Eloise shifting about uncomfortably, and quips to <a href="/wiki/Seamus_Finnigan" title="Seamus Finnigan">Seamus Finnigan</a>, <i>"Something's about to burst out of Eloise Midgen, but I don't think it's a swan."</i></li>
+<li>She is played by <a href="/wiki/Samantha_Clinch" title="Samantha Clinch">Samantha Clinch</a> in <i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(film)" title="Harry Potter and the Prisoner of Azkaban (film)">Harry Potter and the Prisoner of Azkaban (film)</a></i>.</li>
+<li>Eloise's <a href="/wiki/Hogwarts_Houses" title="Hogwarts Houses">House</a> is never revealed in the books. Although presented as a <a href="/wiki/Gryffindor" title="Gryffindor">Gryffindor</a> in the <i>Goblet of Fire</i> film, she is widely believed by fans to have been in <a href="/wiki/Hufflepuff" title="Hufflepuff">Hufflepuff</a>, due to the familiarity with which <a href="/wiki/Hannah_Abbott" title="Hannah Abbott">Hannah Abbott</a> referred to her in the <i>Goblet of Fire</i> novel.<sup id="cite_ref-GOF13_4-3" class="reference"><a href="#cite_note-GOF13-4">&#91;4&#93;</a></sup> <a href="/wiki/Pomona_Sprout" title="Pomona Sprout">Pomona Sprout</a>, the Head of Hufflepuff, called Eloise a <i>"silly girl"</i> for trying to curse away her acne, recalling a comment made by Sprout about the inability of one confirmed <a href="/wiki/Hufflepuff" title="Hufflepuff">Hufflepuff</a>, <a href="/wiki/Nymphadora_Tonks" title="Nymphadora Tonks">Nymphadora Tonks</a>, to behave herself.</li>
+<li>Eloise is often used as a humour point for acne, unfortunately, which is the only notable thing about her.</li>
+<li>She likely returned to Hogwarts in 1997 as attendance became mandatory in Britain.</li></ul>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Eloise_Midgen?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Eloise_Midgen?action=edit&amp;section=6" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The name "Eloise" comes from the Old French name Héloïse, which is probably from the Germanic name Helewidis, composed of the elements heil "hale, healthy" and wid "wide". It is sometimes associated with the Greek word ‘ηλιος (helios) "sun" or the name Louise, though there is not likely an etymological connection. This name was borne in the 12th century by Saint Eloise, the wife of the French theologian Peter Abelard. She became a nun after her husband was castrated by her uncle.
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Eloise_Midgen?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Eloise_Midgen?action=edit&amp;section=7" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(film)" title="Harry Potter and the Prisoner of Azkaban (film)">Harry Potter and the Prisoner of Azkaban (film)</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire" title="Harry Potter and the Goblet of Fire">Harry Potter and the Goblet of Fire</a></i> <small>(First mentioned)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire_(film)" title="Harry Potter and the Goblet of Fire (film)">Harry Potter and the Goblet of Fire (film)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">Harry Potter and the Order of the Phoenix</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">Harry Potter and the Half-Blood Prince</a></i> <small>(Mentioned only)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Eloise_Midgen?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Eloise_Midgen?action=edit&amp;section=8" title="Edit section: Notes and references

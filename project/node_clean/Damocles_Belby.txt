@@ -1,0 +1,119 @@
+<div class="mw-parser-output"><table class="notice metadata" id="spoiler" style="text-align: center; background: beige; margin: 1em 05%; padding: 0 1em; border: #a00 1px solid;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/8/8c/Hogwarts_Mystery.jpeg/revision/latest?cb=20180504083359" class="image"><img alt="Hogwarts Mystery.jpeg" src="https://static.wikia.nocookie.net/harrypotter/images/8/8c/Hogwarts_Mystery.jpeg/revision/latest/scale-to-width-down/175?cb=20180504083359" decoding="async" width="175" height="77" data-image-name="Hogwarts Mystery.jpeg" data-image-key="Hogwarts_Mystery.jpeg" /></a>
+</td>
+<td><b>Warning!</b>
+<p>At least some content in this article is derived from information featured in <i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i>. Spoilers will be present within the article.
+</p>
+</td></tr></tbody></table>
+<div class="notice metadata" id="spoiler" style="text-align: center; background: #DCDCDC; margin: 1em 05%; padding: 0 1em; border: #696969 1px solid;">
+<p><b>"Point me!"</b>
+</p>
+This article is about <b>the potioneer</b>. You may be looking for <b><a href="/wiki/Damocles_Rowle" title="Damocles Rowle">Damocles Rowle</a></b>.</div>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default"><section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Damocles Belby</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a> or <a href="/wiki/Ireland" title="Ireland">Irish</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup><sup id="cite_ref-HBP7_2-0" class="reference"><a href="#cite_note-HBP7-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-HBP7_2-1" class="reference"><a href="#cite_note-HBP7-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male<sup id="cite_ref-HBP7_2-2" class="reference"><a href="#cite_note-HBP7-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Marcus_Belby%27s_father" title="Marcus Belby&#039;s father">Mr Belby</a> (brother)<sup id="cite_ref-HBP7_2-3" class="reference"><a href="#cite_note-HBP7-2">&#91;2&#93;</a></sup></li><li><a href="/wiki/Marcus_Belby" title="Marcus Belby">Marcus Belby</a> (nephew)<sup id="cite_ref-HBP7_2-4" class="reference"><a href="#cite_note-HBP7-2">&#91;2&#93;</a></sup></li><li><a href="/wiki/Flavius_Belby" title="Flavius Belby">Flavius Belby</a> (possibly)</li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Potioneer" title="Potioneer">Potioneer</a><sup id="cite_ref-HBP7_2-5" class="reference"><a href="#cite_note-HBP7-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Order_of_Merlin" title="Order of Merlin">Order of Merlin</a><sup id="cite_ref-HBP7_2-6" class="reference"><a href="#cite_note-HBP7-2">&#91;2&#93;</a></sup></li><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a><sup id="cite_ref-HBP7_2-7" class="reference"><a href="#cite_note-HBP7-2">&#91;2&#93;</a></sup></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Damocles Belby</b><sup id="cite_ref-HM_3-0" class="reference"><a href="#cite_note-HM-3">&#91;3&#93;</a></sup> <span class="template-c"><a href="/wiki/Order_of_Merlin" title="Order of Merlin">O.M. (unknown class)</a></span> was a  <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> and <a href="/wiki/Potioneer" title="Potioneer">potioneer</a> who was famous for inventing the <a href="/wiki/Wolfsbane_Potion" title="Wolfsbane Potion">Wolfsbane Potion</a>. This achievement was likely the reason he was awarded an <a href="/wiki/Order_of_Merlin" title="Order of Merlin">Order of Merlin</a> award.<sup id="cite_ref-HBP7_2-8" class="reference"><a href="#cite_note-HBP7-2">&#91;2&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_life"><span class="tocnumber">1.1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Later_life"><span class="tocnumber">1.2</span> <span class="toctext">Later life</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Magical_skills_and_abilities"><span class="tocnumber">2</span> <span class="toctext">Magical skills and abilities</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Etymology"><span class="tocnumber">3</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Behind_the_scenes"><span class="tocnumber">4</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Appearances"><span class="tocnumber">5</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Notes_and_references"><span class="tocnumber">6</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Damocles_Belby?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Damocles_Belby?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Damocles_Belby?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Early life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Damocles_Belby?action=edit&amp;section=2" title="Edit section: Early life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>While being educated at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a>, Damocles Belby was a favourite student of <a href="/wiki/Horace_Slughorn" title="Horace Slughorn">Horace Slughorn</a>, the <a href="/wiki/Potions_Master" title="Potions Master">Potions Master</a>, who remarked that he was an "outstanding" <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a>.<sup id="cite_ref-HBP7_2-9" class="reference"><a href="#cite_note-HBP7-2">&#91;2&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Later_life">Later life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Damocles_Belby?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Later life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Damocles_Belby?action=edit&amp;section=3" title="Edit section: Later life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>After graduating from <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a>, Damocles Belby went on to become a <a href="/wiki/Potioneer" title="Potioneer">Potioneer</a> and invented the <a href="/wiki/Wolfsbane_Potion" title="Wolfsbane Potion">Wolfsbane Potion</a> sometime after the mid-<a href="/wiki/1970s" title="1970s">1970s</a>. This potion, made up mostly of <a href="/wiki/Aconite" title="Aconite">Aconite</a>, was able to relieve (but not cure) the effects of <a href="/wiki/Werewolf" title="Werewolf">Lycanthropy</a> by allowing the werewolf to retain his or her human intelligence while transformed. The potion's development led to werewolves gaining a better chance to integrate themselves into wizarding society, which presumably resulted in his Order of Merlin award. Damocles had a nephew, <a href="/wiki/Marcus_Belby" title="Marcus Belby">Marcus Belby</a>, who stated that his uncle and <a href="/wiki/Marcus_Belby%27s_father" title="Marcus Belby&#39;s father">father</a> did not get along. As such, Damocles had little contact with his relatives, and was not very well known to his nephew Marcus.<sup id="cite_ref-HBP7_2-10" class="reference"><a href="#cite_note-HBP7-2">&#91;2&#93;</a></sup> This is probably why Marcus failed to gain much recognition in the <a href="/wiki/Slug_Club" title="Slug Club">Slug Club</a> from Slughorn.
+</p>
+<h2><span class="mw-headline" id="Magical_skills_and_abilities">Magical skills and abilities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Damocles_Belby?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Magical skills and abilities">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Damocles_Belby?action=edit&amp;section=4" title="Edit section: Magical skills and abilities"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Horace_Slughorn" title="Horace Slughorn">Horace Slughorn</a> claimed that Damocles Belby was an "outstanding wizard" and that he well deserved his <a href="/wiki/Order_of_Merlin" title="Order of Merlin">Order of Merlin</a> award,<sup id="cite_ref-HBP7_2-11" class="reference"><a href="#cite_note-HBP7-2">&#91;2&#93;</a></sup> meaning he was likely highly proficient in many branches of <a href="/wiki/Magic" title="Magic">magic</a>.
+</p>
+<ul><li><b><a href="/wiki/Potion" title="Potion">Potions</a></b>: Damocles Belby was extremely adept in the art of potion-making. He was one of Horace Slughorn's finest students, and after graduating Hogwarts, he developed an accomplished career as a <a href="/wiki/Potioneer" title="Potioneer">Potioneer</a>. He was also so skilled that he managed to invent the <a href="/wiki/Wolfsbane_Potion" title="Wolfsbane Potion">Wolfsbane Potion</a>, a potion "particularly complex" according to <a href="/wiki/Remus_Lupin" title="Remus Lupin">Remus Lupin</a>.<sup id="cite_ref-POA8_4-0" class="reference"><a href="#cite_note-POA8-4">&#91;4&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Damocles_Belby?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Damocles_Belby?action=edit&amp;section=5" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Latinized form of the Greek name Δαμοκλῆς (<i>Damokles</i>), which was derived from δᾶμος (<i>damos</i>) "the people" (a Doric Greek variant of δῆμος (<i>demos</i>)) and κλέος (<i>kleos</i>) "glory". In Greek legend Damocles was a member of the court of Dionysius the Elder, the king of Syracuse. Damocles expressed envy of the king's station so Dionysius offered to switch roles with him for a day. To illustrate to Damocles the peril of a man in his position he suspended a sword over the throne.
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Damocles_Belby?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Damocles_Belby?action=edit&amp;section=6" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>The text of <i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">Harry Potter and the Half-Blood Prince</a></i> only refers to Damocles as Marcus's uncle, but does not make it clear if he is a paternal or maternal uncle. As such, this individual's surname was uncertain. He was later referred to as "Damocles Belby" in <i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i>.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Damocles_Belby?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Damocles_Belby?action=edit&amp;section=7" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">Harry Potter and the Half-Blood Prince</a></i> <small>(First mentioned)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince_(film)" title="Harry Potter and the Half-Blood Prince (film)">Harry Potter and the Half-Blood Prince (film)</a></i> <span class="template-c">(Mentioned as <a href="/wiki/Marcus_Belby" title="Marcus Belby">Marcus Belby</a>'s "uncle")</span></li>
+<li><i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i> <small>(First identified as Damocles Belby)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Damocles_Belby?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Damocles_Belby?action=edit&amp;section=8" title="Edit section: Notes and references

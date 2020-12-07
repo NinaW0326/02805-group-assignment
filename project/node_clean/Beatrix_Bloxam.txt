@@ -1,0 +1,162 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/5/50/Beatrix_Bloxam.jpg/revision/latest?cb=20091201162611" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/5/50/Beatrix_Bloxam.jpg/revision/latest/scale-to-width-down/332?cb=20091201162611" srcset="https://static.wikia.nocookie.net/harrypotter/images/5/50/Beatrix_Bloxam.jpg/revision/latest/scale-to-width-down/332?cb=20091201162611 1x, https://static.wikia.nocookie.net/harrypotter/images/5/50/Beatrix_Bloxam.jpg/revision/latest/scale-to-width-down/664?cb=20091201162611 2x" class="pi-image-thumbnail" alt="" width="270" height="406"
+		     data-image-key="Beatrix_Bloxam.jpg" data-image-name="Beatrix Bloxam.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Beatrix Bloxam</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/1794" class="mw-redirect" title="1794">1794</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/1910" title="1910">1910</a> (aged 115 or 116)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Half-blood" title="Half-blood">Half-blood</a> or <a href="/wiki/Pure-blood" title="Pure-blood">Pure-blood</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="marital">
+	
+		<h3 class="pi-data-label pi-secondary-font">Marital status</h3>
+	
+	<div class="pi-data-value pi-font">Married</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Grey (formerly black)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Green</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Beatrix_Bloxam%27s_father" title="Beatrix Bloxam&#039;s father">Father</a></li><li><a href="/wiki/Nobby" title="Nobby">Nobby</a> (uncle)</li><li><a href="/wiki/Beatrix_Bloxam%27s_aunt" title="Beatrix Bloxam&#039;s aunt">Aunt</a></li><li><a href="/wiki/Beatrix_Bloxam%27s_cousins" title="Beatrix Bloxam&#039;s cousins">Cousins</a></li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Children's Author</div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span>"<i>Then the little golden pot danced with delight- hoppitty hoppitty hop! - on its tiny rosy toes! Wee Willykins had cured all the dollies of their poorly tum-tums, and the little pot was so happy it filled up with sweeties for Wee Willykins and the dollies!</i>"</span></dd>
+<dd>&#8212;An extract of Beatrix Bloxam's version of <i><a href="/wiki/The_Wizard_and_the_Hopping_Pot" title="The Wizard and the Hopping Pot">The Wizard and the Hopping Pot</a></i> in <a href="/wiki/The_Toadstool_Tales" title="The Toadstool Tales">The Toadstool Tales</a></dd>
+<dd></dd></dl></div>
+<p><b>Beatrix Bloxam</b> (<a href="/wiki/1794" class="mw-redirect" title="1794">1794</a>-<a href="/wiki/1910" title="1910">1910</a>) was a <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> who wrote the infamous <i><a href="/wiki/The_Toadstool_Tales" title="The Toadstool Tales">Toadstool Tales</a></i>, a series of children's books featuring bowdlerised adaptations of stories from earlier works, including <i><a href="/wiki/The_Tales_of_Beedle_the_Bard" title="The Tales of Beedle the Bard">The Tales of Beedle the Bard </a></i>, which have been banned because they have been found to produce nausea and vomiting.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_life"><span class="tocnumber">1.1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Later_life"><span class="tocnumber">1.2</span> <span class="toctext">Later life</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Etymology"><span class="tocnumber">2</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Behind_the_scenes"><span class="tocnumber">3</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Appearances"><span class="tocnumber">4</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Notes_and_references"><span class="tocnumber">5</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Beatrix_Bloxam?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Beatrix_Bloxam?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Beatrix_Bloxam?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Early life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Beatrix_Bloxam?action=edit&amp;section=2" title="Edit section: Early life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="thumb tleft show-info-icon" style="width: 162px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/e/ef/Young_Beatrix_Bloxam.jpg/revision/latest?cb=20091201162858" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/e/ef/Young_Beatrix_Bloxam.jpg/revision/latest/scale-to-width-down/160?cb=20091201162858" decoding="async" width="160" height="213" class="thumbimage" data-image-name="Young Beatrix Bloxam.jpg" data-image-key="Young_Beatrix_Bloxam.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Young_Beatrix_Bloxam.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">A younger Bloxam</p> 		 	</figcaption> </figure>
+<p>Beatrix was born in <a href="/wiki/1794" class="mw-redirect" title="1794">1794</a> to a <a href="/wiki/Beatrix_Bloxam%27s_father" title="Beatrix Bloxam&#39;s father">wizard father</a> and his wife.<sup id="cite_ref-btb3_1-0" class="reference"><a href="#cite_note-btb3-1">&#91;1&#93;</a></sup> As a child, she listened at a keyhole and heard her <a href="/wiki/Beatrix_Bloxam%27s_aunt" title="Beatrix Bloxam&#39;s aunt">aunt</a> tell <a href="/wiki/The_Warlock%27s_Hairy_Heart" title="The Warlock&#39;s Hairy Heart">The Warlock's Hairy Heart</a> to her older <a href="/wiki/Beatrix_Bloxam%27s_cousins" title="Beatrix Bloxam&#39;s cousins">cousins</a>, as well as parts of a lurid account involving her uncle <a href="/wiki/Nobby" title="Nobby">Nobby</a>, the local <a href="/wiki/Hag" title="Hag">hag</a>, and a sack of <a href="/wiki/Bouncing_Bulb" title="Bouncing Bulb">Bouncing Bulbs</a>.<sup id="cite_ref-btb3_1-1" class="reference"><a href="#cite_note-btb3-1">&#91;1&#93;</a></sup> She was so traumatised by what she heard that she was bedridden for a week.<sup id="cite_ref-btb3_1-2" class="reference"><a href="#cite_note-btb3-1">&#91;1&#93;</a></sup> She also suffered from sleepwalking, returning to the keyhole nightly, until her father placed a <a href="/wiki/Sticking_Charm" title="Sticking Charm">Sticking Charm</a> on her bedroom door when she went to bed.<sup id="cite_ref-btb3_1-3" class="reference"><a href="#cite_note-btb3-1">&#91;1&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Later_life">Later life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Beatrix_Bloxam?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Later life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Beatrix_Bloxam?action=edit&amp;section=3" title="Edit section: Later life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Beatrix married at some point.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> Her maiden name is unknown, as is whether or not she and her husband had any children.
+</p>
+<div class="quote">
+<dl><dd><span>"<i>...filling the pure minds of our little angels with healthy, happy thoughts, keeping their sweet slumber free of wicked dreams and protecting the precious flower of their innocence.</i>"</span></dd>
+<dd>&#8212;Beatrix Bloxam on her goals as a children's writer</dd>
+<dd></dd></dl></div>
+<p>Beatrix's childhood experience motivated her to adapt classic stories into versions which she felt would be more suitable to a young audience.<sup id="cite_ref-btb1_3-0" class="reference"><a href="#cite_note-btb1-3">&#91;3&#93;</a></sup> She believed that children are extremely delicate, and that exposure to <i><a href="/wiki/The_Tales_of_Beedle_the_Bard" title="The Tales of Beedle the Bard">The Tales of Beedle the Bard </a></i> harms them, due to what she described as the stories' "unhealthy preoccupation with the most horrid subjects."<sup id="cite_ref-btb1_3-1" class="reference"><a href="#cite_note-btb1-3">&#91;3&#93;</a></sup> As such, she reworked several of <a href="/wiki/Beedle_the_Bard" title="Beedle the Bard">Beedle's</a> tales, including <a href="/wiki/The_Wizard_and_the_Hopping_Pot" title="The Wizard and the Hopping Pot">The Wizard and the Hopping Pot</a>, which became the story of <a href="/wiki/Wee_Willykins" title="Wee Willykins">Wee Willykins</a>.<sup id="cite_ref-btb1_3-2" class="reference"><a href="#cite_note-btb1-3">&#91;3&#93;</a></sup> However, she was apparently unable to think of a way to tone down <a href="/wiki/The_Warlock%27s_Hairy_Heart" title="The Warlock&#39;s Hairy Heart">The Warlock's Hairy Heart</a>, the story which deeply frightened her as a child, as she never rewrote it.<sup id="cite_ref-btb3_1-4" class="reference"><a href="#cite_note-btb3-1">&#91;1&#93;</a></sup> Her work was published in a series of books called <i><a href="/wiki/The_Toadstool_Tales" title="The Toadstool Tales">The Toadstool Tales</a></i>, which were universally loathed by children, and were eventually banned because they caused nausea and vomiting (ironically subverting her goal to create suitable tales for children).<sup id="cite_ref-btb1_3-3" class="reference"><a href="#cite_note-btb1-3">&#91;3&#93;</a></sup><sup id="cite_ref-fwc_4-0" class="reference"><a href="#cite_note-fwc-4">&#91;4&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Beatrix_Bloxam?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Beatrix_Bloxam?action=edit&amp;section=4" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The name Beatrix is derived from <i>Viatrix</i>, a feminine form of the Latin male name <i>Viator</i>, meaning "voyager."<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> It may have been chosen in reference to <a href="http://en.wikipedia.org/wiki/Beatrix_Potter" class="extiw" title="wikipedia:Beatrix Potter">Beatrix Potter</a>, who wrote several classic children's books, including <i><a href="http://en.wikipedia.org/wiki/The_Tale_of_Peter_Rabbit" class="extiw" title="wikipedia:The Tale of Peter Rabbit">The Tale of Peter Rabbit</a></i>. The title "Toadstool Tales" may also refer to the fact that, in addition to being an author, Beatrix Potter was a <a href="http://en.wikipedia.org/wiki/Mycology" class="extiw" title="wikipedia:Mycology">mycologist</a>.
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Beatrix_Bloxam?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Beatrix_Bloxam?action=edit&amp;section=5" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Originally, Bloxam's date of death was given as 1810 on her <a href="/wiki/Chocolate_Frog_Card" title="Chocolate Frog Card">Chocolate Frog Card</a>; however, when taken with a birth date of 1794, it would have made her only sixteen years old at the time of her death. To further confuse the issue, the picture on her card depicted an elderly lady, hardly a sixteen year-old. The mistake was corrected in the <a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(video_game)" title="Harry Potter and the Prisoner of Azkaban (video game)">video game adaptation</a> of <i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban" title="Harry Potter and the Prisoner of Azkaban">Harry Potter and the Prisoner of Azkaban</a></i>, where she is pictured as a teenage witch. Beatrix's correct dates are listed in <i><a href="/wiki/The_Tales_of_Beedle_the_Bard_(real)" title="The Tales of Beedle the Bard (real)">The Tales of Beedle the Bard</a></i>, where her year of death is listed a century later, in 1910.</li>
+<li>The character of Bloxam may have been intended as an over-the-top parody of the many real-life parents and teachers who worried that <i>Harry Potter</i> was traumatising children.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Beatrix_Bloxam?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Beatrix_Bloxam?action=edit&amp;section=6" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 4 images related to <i><b><a href="/wiki/Category:Images_of_Beatrix_Bloxam" title="Category:Images of Beatrix Bloxam">Beatrix Bloxam</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(video_game)" title="Harry Potter and the Philosopher&#39;s Stone (video game)">Harry Potter and the Philosopher's Stone (video game)</a></i> <small>(First appearance)</small> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(video_game)" title="Harry Potter and the Chamber of Secrets (video game)">Harry Potter and the Chamber of Secrets (video game)</a></i> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(video_game)" title="Harry Potter and the Prisoner of Azkaban (video game)">Harry Potter and the Prisoner of Azkaban (video game)</a></i> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li>
+<li><i><a href="/wiki/The_Tales_of_Beedle_the_Bard_(real)" title="The Tales of Beedle the Bard (real)">The Tales of Beedle the Bard</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Beatrix_Bloxam?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Beatrix_Bloxam?action=edit&amp;section=7" title="Edit section: Notes and references

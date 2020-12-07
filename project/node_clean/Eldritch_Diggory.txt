@@ -1,0 +1,137 @@
+<div class="mw-parser-output"><table class="notice metadata" id="spoiler" style="text-align: center; background: beige; margin: 1em 05%; padding: 0 1em; border: #a00 1px solid;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/e/ea/Wizards_Unite_logo.jpg/revision/latest?cb=20181114170049" class="image"><img alt="Wizards Unite logo.jpg" src="https://static.wikia.nocookie.net/harrypotter/images/e/ea/Wizards_Unite_logo.jpg/revision/latest/scale-to-width-down/175?cb=20181114170049" decoding="async" width="175" height="98" data-image-name="Wizards Unite logo.jpg" data-image-key="Wizards_Unite_logo.jpg" /></a>
+</td>
+<td><b>Warning!</b>
+<p>At least some content in this article is derived from information featured in <i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i>. As such, spoilers will be present within the article.
+</p><p>For gameplay-specific information, please see the relevant article on <a href="https://harrypotterwizardsunite.fandom.com/wiki/Eldritch_Diggory" class="extiw" title="w:c:harrypotterwizardsunite:Eldritch Diggory">the Harry Potter: Wizards Unite Wiki!</a>
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-mom pi-layout-default"><section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Eldritch Diggory</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">pre <a href="/wiki/1716" class="mw-redirect" title="1716">1716</a><sup id="cite_ref-WW_1-0" class="reference"><a href="#cite_note-WW-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/1747" class="mw-redirect" title="1747">1747</a><sup id="cite_ref-WW_1-1" class="reference"><a href="#cite_note-WW-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Pure-blood" title="Pure-blood">Pure-blood</a> or <a href="/wiki/Half-blood" title="Half-blood">Half-blood</a><sup id="cite_ref-blood_2-0" class="reference"><a href="#cite_note-blood-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a><sup id="cite_ref-WW_1-2" class="reference"><a href="#cite_note-WW-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-WW_1-3" class="reference"><a href="#cite_note-WW-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male<sup id="cite_ref-WW_1-4" class="reference"><a href="#cite_note-WW-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Amos_Diggory" title="Amos Diggory">Amos Diggory</a> (possible descendant)</li><li><a href="/wiki/Cedric_Diggory" title="Cedric Diggory">Cedric Diggory</a> (possible descendant) †</li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Magical characteristics</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="wand">
+	
+		<h3 class="pi-data-label pi-secondary-font">Wand</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Eldritch_Diggory%27s_wand" title="Eldritch Diggory&#039;s wand">Unknown length, Poplar, unknown core</a><sup id="cite_ref-wands_3-0" class="reference"><a href="#cite_note-wands-3">&#91;3&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Minister_for_Magic" title="Minister for Magic">Minister for Magic</a><sup id="cite_ref-WW_1-5" class="reference"><a href="#cite_note-WW-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">British Ministry of Magic</a><sup id="cite_ref-WW_1-6" class="reference"><a href="#cite_note-WW-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/Diggory_family" title="Diggory family">Diggory family</a><sup id="cite_ref-WW_1-7" class="reference"><a href="#cite_note-WW-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a><sup id="cite_ref-WW_1-8" class="reference"><a href="#cite_note-WW-1">&#91;1&#93;</a></sup></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Pottermore">"<i>Back in London, Diggory established a committee to explore alternatives to Azkaban, or at least to remove the Dementors as guards.</i>"</span></dd>
+<dd>&#8212;Ministry Diggory horrified by Azkaban<sup class="noprint"><a href="/wiki/Pottermore" title="Pottermore">[src]</a></sup></dd>
+<dd></dd></dl></div><p><b>Minister Eldritch Diggory</b> (d. <a href="/wiki/1747" class="mw-redirect" title="1747">1747</a>) was <a href="/wiki/Minister_for_Magic" title="Minister for Magic">Minister for Magic</a> from <a href="/wiki/1733" class="mw-redirect" title="1733">1733</a> to <a href="/wiki/1747" class="mw-redirect" title="1747">1747</a>. He defeated <a href="/wiki/Perseus_Parkinson" title="Perseus Parkinson">Perseus Parkinson</a> for reelection in <a href="/wiki/1733" class="mw-redirect" title="1733">1733</a> and was reelected at least once.<sup id="cite_ref-WW_1-9" class="reference"><a href="#cite_note-WW-1">&#91;1&#93;</a></sup>
+</p><div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Etymology"><span class="tocnumber">2</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Appearances"><span class="tocnumber">3</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Notes_and_references"><span class="tocnumber">4</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Eldritch_Diggory?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Eldritch_Diggory?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Minister_for_Magic" title="Minister for Magic">Minister</a> Diggory was born into the <a href="/wiki/Diggory_family" title="Diggory family">Diggory family</a>, a <a href="/wiki/Wizardkind" title="Wizardkind">wizarding</a> family of unknown <a href="/wiki/Blood_status" title="Blood status">blood status</a>. At an unknown point (though probably at age eleven like most children) he bought <a href="/wiki/Eldritch_Diggory%27s_wand" title="Eldritch Diggory&#39;s wand">a wand</a> at <a href="/wiki/Ollivanders" title="Ollivanders">Ollivanders</a>. According to <a href="/wiki/Garrick_Ollivander" title="Garrick Ollivander">Garrick Ollivander</a>, he owned a "fine" <a href="/wiki/Poplar" title="Poplar">poplar</a> <a href="/wiki/Wand" title="Wand">wand</a>.<sup id="cite_ref-wands_3-1" class="reference"><a href="#cite_note-wands-3">&#91;3&#93;</a></sup>
+</p><p>Diggory was later appointed as the <a href="/wiki/Great_Britain" title="Great Britain">British</a> <a href="/wiki/Minister_for_Magic" title="Minister for Magic">Minister for Magic</a>. He was a popular Minister and first established an Auror recruitment programme in Great Britain.<sup id="cite_ref-WW_1-10" class="reference"><a href="#cite_note-WW-1">&#91;1&#93;</a></sup>
+</p><p>At some point in his career, Diggory visited <a href="/wiki/Azkaban" title="Azkaban">Azkaban</a>. This proved to be a shock for him, since he'd had no idea of the awful conditions inside the prison. Many within the prison died of despair and the rest were mostly <a href="/wiki/Insanity" title="Insanity">insane</a>. When he returned to London Diggory established a committee to explore alternatives to Azkaban, or at least remove the <a href="/wiki/Dementor" title="Dementor">Dementors</a> as guards. Experts argued that if the Dementors were deprived of prisoners' souls on which they could feed, they might abandon the prison and head for the mainland. However, Diggory, being so horrified at what he had seen, continued his search for alternatives nonetheless.<sup id="cite_ref-WW_1-11" class="reference"><a href="#cite_note-WW-1">&#91;1&#93;</a></sup>
+</p><p>In <a href="/wiki/1747" class="mw-redirect" title="1747">1747</a>, Diggory died in office due to a case of <a href="/wiki/Dragon_Pox" title="Dragon Pox">Dragon Pox</a>. This disabled the committee from reaching a decision concerning Azkaban.<sup id="cite_ref-WW_1-12" class="reference"><a href="#cite_note-WW-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Eldritch_Diggory?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Eldritch_Diggory?action=edit&amp;section=2" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Eldritch is an English word of uncertain origin meaning "alien, supernatural". The term is most closely related with the works of American horror author <a href="http://en.wikipedia.org/wiki/H._P._Lovecraft" class="extiw" title="wikipedia:H. P. Lovecraft">H. P. Lovecraft</a>, which launched a type of monsters known as "eldritch abominations", of which <a href="/wiki/Dementor" title="Dementor">Dementors</a> are sometimes seen as a low-key example.
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Eldritch_Diggory?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Eldritch_Diggory?action=edit&amp;section=3" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> <small>(First mentioned)</small></li>
+<li><i><a href="/wiki/Wizarding_World_(website)" title="Wizarding World (website)">Wizarding World</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i> <small>(Mentioned only)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Eldritch_Diggory?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Eldritch_Diggory?action=edit&amp;section=4" title="Edit section: Notes and references

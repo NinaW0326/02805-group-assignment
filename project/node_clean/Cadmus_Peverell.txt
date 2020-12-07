@@ -1,0 +1,177 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/7/76/Cadmus_Peverell.JPG/revision/latest?cb=20110119200145" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/7/76/Cadmus_Peverell.JPG/revision/latest/scale-to-width-down/343?cb=20110119200145" srcset="https://static.wikia.nocookie.net/harrypotter/images/7/76/Cadmus_Peverell.JPG/revision/latest/scale-to-width-down/343?cb=20110119200145 1x, https://static.wikia.nocookie.net/harrypotter/images/7/76/Cadmus_Peverell.JPG/revision/latest/scale-to-width-down/686?cb=20110119200145 2x" class="pi-image-thumbnail" alt="" width="270" height="393"
+		     data-image-key="Cadmus_Peverell.JPG" data-image-name="Cadmus Peverell.JPG"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Cadmus Peverell</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">Prior to <a href="/wiki/12_July" title="12 July">12 July</a>, <a href="/wiki/1214" class="mw-redirect" title="1214">1214</a><sup id="cite_ref-DOB_1-0" class="reference"><a href="#cite_note-DOB-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font">Prior to <a href="/wiki/19_May" title="19 May">19 May</a>, <a href="/wiki/1292" class="mw-redirect" title="1292">1292</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Pure-blood" title="Pure-blood">Pure-blood</a><sup id="cite_ref-blood_3-0" class="reference"><a href="#cite_note-blood-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="marital">
+	
+		<h3 class="pi-data-label pi-secondary-font">Marital status</h3>
+	
+	<div class="pi-data-value pi-font">Single</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="alias">
+	
+		<h3 class="pi-data-label pi-secondary-font">Also known as</h3>
+	
+	<div class="pi-data-value pi-font">Second Brother</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="title">
+	
+		<h3 class="pi-data-label pi-secondary-font">Title(s)</h3>
+	
+	<div class="pi-data-value pi-font">Owner of the <a href="/wiki/Resurrection_Stone" title="Resurrection Stone">Resurrection Stone</a><sup id="cite_ref-DH35_4-0" class="reference"><a href="#cite_note-DH35-4">&#91;4&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Ignotus_Peverell" title="Ignotus Peverell">Ignotus Peverell</a> (brother) †</li><li><a href="/wiki/Antioch_Peverell" title="Antioch Peverell">Antioch Peverell</a> (brother) †</li><li>At least one son or daughter †</li><li><a href="/wiki/Ignotus_Peverell%27s_son" title="Ignotus Peverell&#039;s son">Ignotus's son</a> (nephew) †</li><li><a href="/wiki/Peverell_family" title="Peverell family">Peverell family</a></li><li><a href="/wiki/House_of_Gaunt" title="House of Gaunt">Gaunt family</a> (descendants)</li><li><a href="/wiki/Tom_Riddle" title="Tom Riddle">Tom Riddle</a> (descendant) †</li><li><a href="/wiki/Delphini" title="Delphini">Delphini</a> (descendant)</li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Peverell_family" title="Peverell family">Peverell family</a></li><li><a href="/wiki/Cadmus_Peverell%27s_fianc%C3%A9e" title="Cadmus Peverell&#039;s fiancée">His fiancée</a></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Deathly Hallows">"<i>Then the second brother, who was an arrogant man, decided that he wanted to humiliate Death still further, and asked for the power to recall others from Death.</i>"</span></dd>
+<dd>&#8212;<i><a href="/wiki/The_Tale_of_the_Three_Brothers" title="The Tale of the Three Brothers">The Tale of the Three Brothers</a></i> by <a href="/wiki/Beedle_the_Bard" title="Beedle the Bard">Beedle the Bard</a><sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Cadmus Peverell</b> (fl. <a href="/wiki/1214" class="mw-redirect" title="1214">1214</a>) was a <a href="/wiki/Pure-blood" title="Pure-blood">pure-blood</a><sup id="cite_ref-blood_3-1" class="reference"><a href="#cite_note-blood-3">&#91;3&#93;</a></sup> <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a>, the middle of the <a href="/wiki/Peverell_family" title="Peverell family">Peverell brothers</a>. Cadmus, like his brothers, was skilled in the magical arts, but personally was described as being an "arrogant man". Cadmus and his brothers were the inspiration for the <i><a href="/wiki/The_Tale_of_the_Three_Brothers" title="The Tale of the Three Brothers">The Tale of the Three Brothers</a></i> and thus the original masters of the <a href="/wiki/Deathly_Hallows" title="Deathly Hallows">Deathly Hallows</a>. Cadmus was said to have possessed the <a href="/wiki/Resurrection_Stone" title="Resurrection Stone">Resurrection Stone</a>, though the exact circumstances of this are unknown.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_life"><span class="tocnumber">1.1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Meeting_Death"><span class="tocnumber">1.2</span> <span class="toctext">Meeting Death</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Using_the_Resurrection_Stone_and_death"><span class="tocnumber">1.3</span> <span class="toctext">Using the Resurrection Stone and death</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Post-mortem"><span class="tocnumber">1.4</span> <span class="toctext">Post-mortem</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Personality_and_traits"><span class="tocnumber">2</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Magical_abilities_and_skills"><span class="tocnumber">3</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Behind_the_scenes"><span class="tocnumber">4</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Etymology"><span class="tocnumber">5</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Appearances"><span class="tocnumber">6</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Notes_and_references"><span class="tocnumber">7</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Cadmus_Peverell?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Cadmus_Peverell?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Cadmus_Peverell?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Early life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Cadmus_Peverell?action=edit&amp;section=2" title="Edit section: Early life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Sometime early in his life, Cadmus fell in love with a <a href="/wiki/Cadmus_Peverell%27s_fianc%C3%A9e" title="Cadmus Peverell&#39;s fiancée">woman</a>, and the two were engaged to be married. However, she died before this union could take place.<sup id="cite_ref-DH21_5-0" class="reference"><a href="#cite_note-DH21-5">&#91;5&#93;</a></sup> Despite his fiancée dying, Cadmus was able to father an heir; whether it was with this woman — and she died in or after childbirth — or with another woman, is unknown.
+</p>
+<h3><span class="mw-headline" id="Meeting_Death">Meeting Death</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Cadmus_Peverell?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Meeting Death">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Cadmus_Peverell?action=edit&amp;section=3" title="Edit section: Meeting Death"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="thumb tleft show-info-icon" style="width: 247px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/1/14/Tumblr_m4eabyXx1j1qcd6r7o3_r1_250.gif/revision/latest?cb=20140311024508" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/1/14/Tumblr_m4eabyXx1j1qcd6r7o3_r1_250.gif/revision/latest/scale-to-width-down/245?cb=20140311024508" decoding="async" width="245" height="111" class="thumbimage" data-image-name="Tumblr m4eabyXx1j1qcd6r7o3 r1 250.gif" data-image-key="Tumblr_m4eabyXx1j1qcd6r7o3_r1_250.gif" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Tumblr_m4eabyXx1j1qcd6r7o3_r1_250.gif" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Death grants Cadmus with the stone</p> 		 	</figcaption> </figure><p>In <i><a href="/wiki/The_Tale_of_the_Three_Brothers" title="The Tale of the Three Brothers">The Tale of the Three Brothers</a></i>, Cadmus was walking along <a href="/wiki/Lonely,_winding_road_(The_Tale_of_the_Three_Brothers)" title="Lonely, winding road (The Tale of the Three Brothers)">a lonely, winding road</a> one night with his two brothers. The trio reached a river too wide to cross under normal means, and <a href="/wiki/Conjuration" title="Conjuration">conjured</a> a bridge to cross it. At this, <a href="/wiki/Death_(The_Tale_of_the_Three_Brothers)" title="Death (The Tale of the Three Brothers)">Death</a> appeared before them, angry that they had so easily crossed a river that many usually die on while crossing. However, he pretended to be impressed, and offered each brother a gift. Cadmus, seeking to further humiliate Death, requested a stone that would have the power to bring the dead back to life, which Death provided for him.<sup id="cite_ref-DH21_5-1" class="reference"><a href="#cite_note-DH21-5">&#91;5&#93;</a></sup>
+</p><p>An alternative and more logical version of this story proposed by <a href="/wiki/Albus_Dumbledore" title="Albus Dumbledore">Albus Dumbledore</a> is that Cadmus was merely a very skilled wizard who had created the Resurrection Stone himself.<sup id="cite_ref-DH35_4-1" class="reference"><a href="#cite_note-DH35-4">&#91;4&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Using_the_Resurrection_Stone_and_death">Using the Resurrection Stone and death</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Cadmus_Peverell?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Using the Resurrection Stone and death">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Cadmus_Peverell?action=edit&amp;section=4" title="Edit section: Using the Resurrection Stone and death"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="thumb tright show-info-icon" style="width: 252px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/2/2e/Cadmus_Peverell%27s_resurrected_fianc%C3%A9e_vanishing.gif/revision/latest?cb=20180810215825" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/2/2e/Cadmus_Peverell%27s_resurrected_fianc%C3%A9e_vanishing.gif/revision/latest/scale-to-width-down/250?cb=20180810215825" decoding="async" width="250" height="102" class="thumbimage" data-image-name="Cadmus Peverell&#39;s resurrected fiancée vanishing.gif" data-image-key="Cadmus_Peverell&#39;s_resurrected_fiancée_vanishing.gif" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Cadmus_Peverell%27s_resurrected_fianc%C3%A9e_vanishing.gif" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">His lost love and death</p> 		 	</figcaption> </figure>
+<p>Regardless of how the  Resurrection Stone was created, Cadmus returned to his home with it and used it to revive his dead lover. However, he soon found she had not been truly revived; she appeared sad and cold, and he felt as if a veil still separated them. Driven mad with longing, Cadmus committed suicide so as to truly be reunited with his lost love.<sup id="cite_ref-DH21_5-2" class="reference"><a href="#cite_note-DH21-5">&#91;5&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Post-mortem">Post-mortem</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Cadmus_Peverell?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Post-mortem">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Cadmus_Peverell?action=edit&amp;section=5" title="Edit section: Post-mortem"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Cadmus apparently fostered an heir before his death, as the <a href="/wiki/House_of_Gaunt" title="House of Gaunt">Gaunt family</a> were direct descendants of Cadmus.
+</p><p>Following his death, Cadmus was laid to rest in the churchyard by the <a href="/wiki/St_Jerome%27s_Church" title="St Jerome&#39;s Church">Parish Church of St. Clementine</a>, in <a href="/wiki/Godric%27s_Hollow" title="Godric&#39;s Hollow">Godric's Hollow</a>, along with his brothers <a href="/wiki/Antioch_Peverell" title="Antioch Peverell">Antioch</a> and <a href="/wiki/Ignotus_Peverell" title="Ignotus Peverell">Ignotus</a>.<sup id="cite_ref-Pottermore_6-0" class="reference"><a href="#cite_note-Pottermore-6">&#91;6&#93;</a></sup>
+</p><p>The <a href="/wiki/Resurrection_Stone" title="Resurrection Stone">Resurrection Stone</a> would go on to be set into a <a href="/wiki/Marvolo_Gaunt%27s_Ring" title="Marvolo Gaunt&#39;s Ring">ring</a>, which would be passed down through the <a href="/wiki/House_of_Gaunt" title="House of Gaunt">Gaunt family</a>, and eventually be turned into a <a href="/wiki/Horcrux" title="Horcrux">Horcrux</a> by <a href="/wiki/Tom_Riddle" title="Tom Riddle">Tom Riddle</a>, a distant descendant of Cadmus.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Cadmus_Peverell?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Personality and traits">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Cadmus_Peverell?action=edit&amp;section=6" title="Edit section: Personality and traits"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>According to <a href="/wiki/Beedle_the_Bard" title="Beedle the Bard">Beedle the Bard</a>, Cadmus was arrogant as when offered a gift by Death, he chose an object that he believed would further humiliate Death. He was also incredibly devoted to his fiancée even after she died, as he tried to use the Resurrection Stone to bring her back to life, and eventually killed himself to be with her.
+</p><p>It is possible that Cadmus' true personality are nobler than his depiction in the tale, since the spirits summoned by the Resurrection Stone are capable of protecting its users from Dark creatures' influence such as Dementors. Also, the living are able to draw comfort and strength from the spirits of their loved ones, as was exemplified in Harry's case when facing Voldemort. Furthermore, the symbols of his brothers' specific creation (the Elder Wand and the Cloak of Invisibility) along his own are etched into the stone, meaning that he had a great amount of respect for his brothers and their work.
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Cadmus_Peverell?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Cadmus_Peverell?action=edit&amp;section=7" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tleft show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/2/26/Marvolo_Gaunt%27s_Ring.jpg/revision/latest?cb=20090406032258" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/2/26/Marvolo_Gaunt%27s_Ring.jpg/revision/latest/scale-to-width-down/180?cb=20090406032258" decoding="async" width="180" height="123" class="thumbimage" data-image-name="Marvolo Gaunt&#39;s Ring.jpg" data-image-key="Marvolo_Gaunt&#39;s_Ring.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Marvolo_Gaunt%27s_Ring.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">The ring containing the <a href="/wiki/Resurrection_Stone" title="Resurrection Stone">Resurrection Stone</a>. Later became one of Voldemort's <a href="/wiki/Horcrux" title="Horcrux">Horcruxes</a></p> 		 	</figcaption> </figure>
+<ul><li><b><a href="/wiki/Transfiguration" title="Transfiguration">Transfiguration</a></b>: Cadmus, along with his two brothers, was capable of creating a long and stable bridge out of thin air. This is <a href="/wiki/Conjuration" title="Conjuration">Conjuration</a> and is a very difficult branch of <a href="/wiki/Magic" title="Magic">magic</a>.</li>
+<li><b>Owner of the <a href="/wiki/Resurrection_Stone" title="Resurrection Stone">Resurrection Stone</a></b>: Cadmus was the first owner of the Resurrection Stone which would later become one of the famous <a href="/wiki/Deathly_Hallows" title="Deathly Hallows">Deathly Hallows</a>. Cadmus used the stone effectively but was overly dependent of it, letting its powers bring about his own death.</li>
+<li><b>Magical manufacturer</b> (possibly): It is uncertain if Cadmus actually obtained the Resurrection Stone from <a href="/wiki/Death_(The_Tale_of_the_Three_Brothers)" title="Death (The Tale of the Three Brothers)">Death</a>. <a href="/wiki/Albus_Dumbledore" title="Albus Dumbledore">Albus Dumbledore</a> believed it was more likely that Cadmus and his brothers created the three Hallows themselves.</li></ul>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Cadmus_Peverell?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Cadmus_Peverell?action=edit&amp;section=8" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tright show-info-icon" style="width: 227px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/7/77/Cadmus2.jpg/revision/latest?cb=20110118193831" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="225" height="192" class="thumbimage lazyload" data-image-name="Cadmus2.jpg" data-image-key="Cadmus2.jpg" data-src="https://static.wikia.nocookie.net/harrypotter/images/7/77/Cadmus2.jpg/revision/latest/scale-to-width-down/225?cb=20110118193831" /></a> 	<noscript><a href="https://static.wikia.nocookie.net/harrypotter/images/7/77/Cadmus2.jpg/revision/latest?cb=20110118193831" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/7/77/Cadmus2.jpg/revision/latest/scale-to-width-down/225?cb=20110118193831" decoding="async" width="225" height="192" class="thumbimage" data-image-name="Cadmus2.jpg" data-image-key="Cadmus2.jpg" data-src="https://static.wikia.nocookie.net/harrypotter/images/7/77/Cadmus2.jpg/revision/latest/scale-to-width-down/225?cb=20110118193831" /></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Cadmus2.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Concept art of Cadmus</p> 		 	</figcaption> </figure>
+<ul><li>The <a href="/wiki/House_of_Gaunt" title="House of Gaunt">Gaunt family</a> claimed to be descended from both the <a href="/wiki/Peverell_family" title="Peverell family">Peverell family</a> and the Slytherin family; it is probable that the two bloodlines intermarried in a later generation.</li>
+<li>The <a href="/wiki/House_of_Gaunt" title="House of Gaunt">House of Gaunt</a> are direct descendants of Cadmus Peverell, so it is certain that Cadmus had at least one child in his lifetime. It is not specified if the <a href="/wiki/Cadmus_Peverell%27s_fianc%C3%A9e" title="Cadmus Peverell&#39;s fiancée">woman he intended to marry</a> was the mother, or if Cadmus had fathered children from a previous or later relationship. However, as <a href="/wiki/Albus_Dumbledore" title="Albus Dumbledore">Albus Dumbledore</a> believed that, in reality, the <a href="/wiki/Deathly_Hallows" title="Deathly Hallows">Deathly Hallows</a> had not been gifts from <a href="/wiki/Death_(The_Tale_of_the_Three_Brothers)" title="Death (The Tale of the Three Brothers)">Death</a> but rather inventions of the <a href="/wiki/Peverell_family" title="Peverell family">Peverells</a> themselves. Given that there are no means for Beedle to know of what really happened, it is assumed that the account of Cadmus' death was simply fictionalised by Beedle.</li>
+<li>The chapter art from <i><a href="/wiki/The_Tales_of_Beedle_the_Bard" title="The Tales of Beedle the Bard">The Tales of Beedle the Bard </a></i>shows that Cadmus committed suicide by drinking poison, whereas the scene from the <i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1" title="Harry Potter and the Deathly Hallows: Part 1">Harry Potter and the Deathly Hallows: Part 1</a></i> film shows that he hanged himself. In the <a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1_(video_game)" title="Harry Potter and the Deathly Hallows: Part 1 (video game)">video game</a>, he kills himself via a <a href="/wiki/Killing_Curse" title="Killing Curse">Killing Curse</a>.</li>
+<li>In <i><a href="/wiki/LEGO_Harry_Potter:_Years_5-7" title="LEGO Harry Potter: Years 5-7">LEGO Harry Potter: Years 5-7</a></i>, Cadmus is grabbed by <a href="/wiki/Death" title="Death">Death</a> along with his brothers taking place in his home but what happened to the <a href="/wiki/Resurrection_Stone" title="Resurrection Stone">Resurrection Stone</a> before <a href="/wiki/Tom_Riddle" title="Tom Riddle">Tom Riddle</a> is unknown.</li>
+<li>The fan theory that Cadmus made the Resurrection Stone is supported by how in <a href="/wiki/The_Tale_of_the_Three_Brothers" title="The Tale of the Three Brothers">The Tale of the Three Brothers</a>, Cadmus knew to turn the stone thrice in his hand for it to work despite Death never telling him how to use it.</li>
+<li>There is also a fan hypothesis that Cadmus created the <a href="/wiki/Veil" title="Veil">Veil</a> in his mission to bring his fiancée back, but only succeeded in creating an unpassable pathway between the living and dead.</li></ul>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Cadmus_Peverell?veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Cadmus_Peverell?action=edit&amp;section=9" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The name Cadmus may have been taken from the legendary ancient Greek <a href="http://en.wikipedia.org/wiki/Cadmus" class="extiw" title="wikipedia:Cadmus">Cadmus</a>, founder of the city of Thebes. In the myth, he marries the minor goddess Harmonia, the daughter of Ares. Harmonia later comes into possession of a beautiful necklace, but this item in truth is cursed and causes great pain among Cadmus's descendants (a possible allegory for the Resurrection Stone, the cause of Cadmus Peverell's death as well as the object of a curse many years later or to the <a href="/wiki/Opal_Necklace" title="Opal Necklace">Opal Necklace</a> in Borgin and Burkes). 
+</p><p>Also worth noting that, in Greek Myth Cadmus created life by sowing dragon's teeth into the Earth. This is somewhat ironic when one considers that, the Resurrection Stone he was given (or created himself), brings back the dead (thus "creating life" in a manner of speaking), and the final fate of the stone is to be buried in the earth and lost.
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Cadmus_Peverell?veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Cadmus_Peverell?action=edit&amp;section=10" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" class="lazyload" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 12 images related to <i><b><a href="/wiki/Category:Images_of_Cadmus_Peverell" title="Category:Images of Cadmus Peverell">Cadmus Peverell</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">Harry Potter and the Deathly Hallows</a></i> <small>(First mentioned)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1" title="Harry Potter and the Deathly Hallows: Part 1">Harry Potter and the Deathly Hallows: Part 1</a></i> <small>(First appearance)</small> <small>(Appears in flashback(s))</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1_(video_game)" title="Harry Potter and the Deathly Hallows: Part 1 (video game)">Harry Potter and the Deathly Hallows: Part 1 (video game)</a></i> <small>(Appears in flashback(s))</small></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter:_Years_5-7" title="LEGO Harry Potter: Years 5-7">LEGO Harry Potter: Years 5-7</a></i></li>
+<li><i><a href="/wiki/The_Tales_of_Beedle_the_Bard_(real)" title="The Tales of Beedle the Bard (real)">The Tales of Beedle the Bard (real)</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Cadmus_Peverell?veaction=edit&amp;section=11" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Cadmus_Peverell?action=edit&amp;section=11" title="Edit section: Notes and references

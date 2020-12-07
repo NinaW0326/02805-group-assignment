@@ -1,0 +1,147 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-mom pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/f/f4/Wilkie_Twycross.png/revision/latest?cb=20160131181232" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/f/f4/Wilkie_Twycross.png/revision/latest/scale-to-width-down/80?cb=20160131181232" srcset="https://static.wikia.nocookie.net/harrypotter/images/f/f4/Wilkie_Twycross.png/revision/latest/scale-to-width-down/80?cb=20160131181232 1x, https://static.wikia.nocookie.net/harrypotter/images/f/f4/Wilkie_Twycross.png/revision/latest/scale-to-width-down/160?cb=20160131181232 2x" class="pi-image-thumbnail" alt="" width="80" height="129"
+		     data-image-key="Wilkie_Twycross.png" data-image-name="Wilkie Twycross.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Wilkie Twycross</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">Before <a href="/wiki/1979" title="1979">1979</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a><sup id="cite_ref-HBP18_1-0" class="reference"><a href="#cite_note-HBP18-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-HBP18_1-1" class="reference"><a href="#cite_note-HBP18-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male<sup id="cite_ref-HBP18_1-2" class="reference"><a href="#cite_note-HBP18-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Very fair<sup id="cite_ref-HBP18_1-3" class="reference"><a href="#cite_note-HBP18-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">British Ministry of Magic</a> employee</li><li><a href="/wiki/Apparition_Instructor" title="Apparition Instructor">Apparition Instructor</a><sup id="cite_ref-HBP18_1-4" class="reference"><a href="#cite_note-HBP18-1">&#91;1&#93;</a></sup></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">British Ministry of Magic</a><sup id="cite_ref-HBP18_1-5" class="reference"><a href="#cite_note-HBP18-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a><sup id="cite_ref-HBP18_1-6" class="reference"><a href="#cite_note-HBP18-1">&#91;1&#93;</a></sup></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Half-Blood Prince">"<i>Oh, she was perfect, obviously. Perfect deliberation, divination, and desperation or whatever the hell it is — we all went for a quick drink in the <a href="/wiki/Three_Broomsticks_Inn" title="Three Broomsticks Inn">Three Broomsticks</a> after and you should've heard Twycross going on about her — I'll be surprised if he doesn't pop the question soon —</i>"</span></dd>
+<dd>&#8212;<a href="/wiki/Ronald_Weasley" title="Ronald Weasley">Ron Weasley</a> on Twycross's favourable treatment of <a href="/wiki/Hermione_Granger" title="Hermione Granger">Hermione Granger</a><sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Wilkie Twycross</b> (b. before <a href="/wiki/1979" title="1979">1979</a>) was a <a href="/wiki/Great_Britain" title="Great Britain">British</a> <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> and employee of the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">British Ministry of Magic</a>, who was the <a href="/wiki/Apparition_Instructor" title="Apparition Instructor">Apparition Instructor</a> at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> to students who were age seventeen or approaching age seventeen and wish to obtain a licence to <a href="/wiki/Apparition" title="Apparition">Apparate</a>.<sup id="cite_ref-HBP18_1-7" class="reference"><a href="#cite_note-HBP18-1">&#91;1&#93;</a></sup>  
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Magical_abilities_and_skills"><span class="tocnumber">2</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Etymology"><span class="tocnumber">3</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Behind_the_scenes"><span class="tocnumber">4</span> <span class="toctext">Behind the scenes</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Translations"><span class="tocnumber">4.1</span> <span class="toctext">Translations</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Appearances"><span class="tocnumber">5</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Notes_and_references"><span class="tocnumber">6</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Wilkie_Twycross?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Wilkie_Twycross?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Half-Blood Prince">"<i>The important things to remember when <a href="/wiki/Apparition" title="Apparition">Apparating</a> are the three D's.</i>"</span></dd>
+<dd>&#8212;Wilkie Twycross<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">[src]</a></sup></dd>
+<dd></dd></dl></div><p>Twycross was described as "<i>oddly colourless, with transparent eyelashes, wispy hair, and an insubstantial air, as though a single gust of wind might blow him away</i>." <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a>, upon meeting him, wondered whether this was because of the large amount of Apparating and Disapparating he did.<sup id="cite_ref-HBP18_1-8" class="reference"><a href="#cite_note-HBP18-1">&#91;1&#93;</a></sup>
+</p><p>Many of the <a href="/wiki/Sixth_year" title="Sixth year">sixth year</a> students in Twycross's <a href="/wiki/1997" title="1997">1997</a> <a href="/wiki/Apparition_(class)" title="Apparition (class)">Apparition class</a> disliked and called him various insults, inspired by the "Three D's of Apparition" that he tried to teach them. The most moderate of these were "<a href="/wiki/Dog" title="Dog">dog</a>-breath" and "<a href="/wiki/Faeces" title="Faeces">dung</a>-head." Perhaps because of this, Twycross seemed very fond of his few good students, such as <a href="/wiki/Hermione_Granger" title="Hermione Granger">Hermione Granger</a>.<sup id="cite_ref-HBP18_1-9" class="reference"><a href="#cite_note-HBP18-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Wilkie_Twycross?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Wilkie_Twycross?action=edit&amp;section=2" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Apparition" title="Apparition">Apparition</a></b>: As the <a href="/wiki/Apparition_Instructor" title="Apparition Instructor">Apparition Instructor</a> for <a href="/wiki/Sixth_year" title="Sixth year">sixth year</a> Hogwarts students, Twycross would have been highly accomplished in apparition as a form of <a href="/wiki/Magic" title="Magic">magical</a> transportation. He had a very sophisticated understanding of the art of apparition, teaching his students the specifics needed to apparate successfully and the <a href="/wiki/Splinching" title="Splinching">dangers</a> of it, showing his proficiency in this field.<sup id="cite_ref-HBP18_1-10" class="reference"><a href="#cite_note-HBP18-1">&#91;1&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Wilkie_Twycross?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Wilkie_Twycross?action=edit&amp;section=3" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i><a href="http://en.wikipedia.org/wiki/Wilkie" class="extiw" title="wikipedia:Wilkie">Wilkie</a></i> is a surname used in <a href="/wiki/Scotland" title="Scotland">Scotland</a> and <a href="/wiki/England" title="England">England</a> possibly a diminutive of William. <i><a href="http://en.wikipedia.org/wiki/Twycross" class="extiw" title="wikipedia:Twycross">Twycross</a></i> is a small village and civil parish in Leicestershire, England. Also <i>twy-</i> is an archaic form of <i>two</i> so his surname could literally mean <i>two-cross</i>, or one who crosses between two places; hence, one who Apparates.
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Wilkie_Twycross?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Wilkie_Twycross?action=edit&amp;section=4" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>It is interesting to note that Rowling was reading Wilkie Collins' <i>The Moonstone</i> when she was writing <i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">Harry Potter and the Half-Blood Prince</a></i>,<sup class="noprint">&#91;<a href="http://en.wikipedia.org/wiki/Wikipedia:Citing_sources" class="extiw" title="wikipedia:Wikipedia:Citing sources"><i><span title="The material in the vicinity of this tag needs references to reliable sources." style="white-space: nowrap;">citation needed</span></i></a>&#93;</sup> so it is possible that it is where she got the name.</li></ul>
+<h3><span class="mw-headline" id="Translations">Translations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Wilkie_Twycross?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Translations">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Wilkie_Twycross?action=edit&amp;section=5" title="Edit section: Translations"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Czech: <i>Wilkie Křížek</i> (<i>křížek</i> "little cross")</li>
+<li>Dutch: <i>Wilco Draaisma</i> (<i>draai</i> "turn")</li>
+<li>French: <i>Wilkie Tycross</i></li>
+<li>Hungarian: <i>Wilkie Derreng</i></li>
+<li>Japanese: <i>ウィルキー・トワイクロス</i></li>
+<li>Russian: <i>Уилки Двукрест <span class="template-c">(Wilkie Dvukrest)</span></i></li>
+<li>Ukrainian: <i>Вілкі Твайкрос <span class="template-c">(Vilki Tvaykros)</span></i></li></ul>
+<p>The following languages are the same as the original:
+</p>
+<table>
+<tbody><tr>
+<td>
+<ul><li>German</li></ul>
+</td>
+<td>
+<ul><li>Italian</li></ul>
+</td>
+<td>
+<ul><li>Spanish</li></ul>
+</td>
+<td>
+<ul><li>Swedish</li></ul>
+</td>
+<td>
+<ul><li>Polish</li></ul>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Wilkie_Twycross?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Wilkie_Twycross?action=edit&amp;section=6" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">Harry Potter and the Half-Blood Prince</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Wilkie_Twycross?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Wilkie_Twycross?action=edit&amp;section=7" title="Edit section: Notes and references

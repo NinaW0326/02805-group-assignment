@@ -1,0 +1,90 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-individual pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/5/50/LucyWeasley.png/revision/latest?cb=20170816213121" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/5/50/LucyWeasley.png/revision/latest/scale-to-width-down/299?cb=20170816213121" srcset="https://static.wikia.nocookie.net/harrypotter/images/5/50/LucyWeasley.png/revision/latest/scale-to-width-down/299?cb=20170816213121 1x, https://static.wikia.nocookie.net/harrypotter/images/5/50/LucyWeasley.png/revision/latest/scale-to-width-down/598?cb=20170816213121 2x" class="pi-image-thumbnail" alt="" width="270" height="451"
+		     data-image-key="LucyWeasley.png" data-image-name="LucyWeasley.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Lucy Weasley</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/2000s" title="2000s">2000s</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Arthur_Weasley" title="Arthur Weasley">Arthur Weasley</a> (paternal grandfather)</li><li><a href="/wiki/Molly_Weasley" title="Molly Weasley">Molly Weasley</a> (paternal grandmother)</li><li><a href="/wiki/Percy_Weasley" title="Percy Weasley">Percy Weasley</a> (father)</li><li><a href="/wiki/Audrey_Weasley" title="Audrey Weasley">Audrey Weasley</a> (mother)</li><li><a href="/wiki/Molly_Weasley_II" title="Molly Weasley II">Molly Weasley II</a> (sister)</li><li><a href="/wiki/Ronald_Weasley" title="Ronald Weasley">Ronald Weasley</a> (uncle)</li><li><a href="/wiki/Hermione_Granger" title="Hermione Granger">Hermione Granger</a> (aunt)</li><li><a href="/wiki/Rose_Granger-Weasley" title="Rose Granger-Weasley">Rose Granger-Weasley</a> (cousin)</li><li><a href="/wiki/Hugo_Granger-Weasley" title="Hugo Granger-Weasley">Hugo Granger-Weasley</a> (cousin)</li><li><a href="/wiki/William_Weasley" title="William Weasley">Bill Weasley</a> (uncle)</li><li><a href="/wiki/Fleur_Delacour" title="Fleur Delacour">Fleur Weasley</a> <span class="template-c">(née <a href="/wiki/Delacour_family" title="Delacour family">Delacour</a>)</span> (aunt)</li><li><a href="/wiki/Victoire_Weasley" title="Victoire Weasley">Victoire Weasley</a> (cousin)</li><li><a href="/wiki/Dominique_Weasley" title="Dominique Weasley">Dominique Weasley</a> (cousin)</li><li><a href="/wiki/Louis_Weasley" title="Louis Weasley">Louis Weasley</a> (cousin)</li><li><a href="/wiki/Fred_Weasley" title="Fred Weasley">Fred Weasley</a> (uncle) †</li><li><a href="/wiki/George_Weasley" title="George Weasley">George Weasley</a> (uncle)</li><li><a href="/wiki/Angelina_Johnson" title="Angelina Johnson">Angelina Weasley</a> <span class="template-c">(née Johnson)</span> (aunt)</li><li><a href="/wiki/Fred_Weasley_II" title="Fred Weasley II">Fred Weasley II</a> (cousin)</li><li><a href="/wiki/Roxanne_Weasley" title="Roxanne Weasley">Roxanne Weasley</a> (cousin)</li><li><a href="/wiki/Charles_Weasley" title="Charles Weasley">Charles Weasley</a> (uncle)</li><li><a href="/wiki/Ginevra_Weasley" title="Ginevra Weasley">Ginny Potter</a> <span class="template-c">(née <a href="/wiki/Weasley_family" title="Weasley family">Weasley</a>)</span> (aunt)</li><li><a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> (uncle)</li><li><a href="/wiki/James_Potter_II" title="James Potter II">James Sirius Potter</a> (cousin)</li><li><a href="/wiki/Albus_Potter" title="Albus Potter">Albus Severus Potter</a> (cousin)</li><li><a href="/wiki/Lily_Potter" title="Lily Potter">Lily Luna Potter</a> (cousin)</li><li><a href="/wiki/House_of_Black" title="House of Black">House of Black</a></li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Weasley_family" title="Weasley family">Weasley family</a></li><li><a href="/wiki/Potter_family" title="Potter family">Potter family</a></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+<b>Lucy Weasley</b> (b. <a href="/wiki/2000s" title="2000s">2000s</a>) was the youngest daughter of <a href="/wiki/Percy_Weasley" title="Percy Weasley">Percy</a> and <a href="/wiki/Audrey_Weasley" title="Audrey Weasley">Audrey Weasley</a>. She has an elder sister, <a href="/wiki/Molly_Weasley_II" title="Molly Weasley II">Molly</a>, named after the girls' <a href="/wiki/Molly_Weasley" title="Molly Weasley">paternal grandmother</a> of the same name.<sup id="cite_ref-WFT_2-0" class="reference"><a href="#cite_note-WFT-2">&#91;2&#93;</a></sup>
+</p><p>She grew up hearing about Broomstick Regulations and other equally exciting Ministry details from her father.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Etymology"><span class="tocnumber">1</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Behind_the_scenes"><span class="tocnumber">2</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Appearances"><span class="tocnumber">3</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Notes_and_references"><span class="tocnumber">4</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Lucy_Weasley?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Lucy_Weasley?action=edit&amp;section=1" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Lucy is a name of Latin origin, meaning "light". It is a feminine form of both Lucius and Luke; it is also a vernacular form of Lucia. The feast day of Saint Lucy (fourth century), patroness of sight, is called the Festival of Light in Sweden. Lucy can also be short for Lucille.
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Lucy_Weasley?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Lucy_Weasley?action=edit&amp;section=2" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Lucy's first name may be a tribute to Lucy Pevensie, a character from the <i>Chronicles of Narnia</i>, written by one of J.K. Rowling's favourite authors, C.S. Lewis.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Lucy_Weasley?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Lucy_Weasley?action=edit&amp;section=3" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/J.K._Rowling:_A_Year_in_the_Life" title="J.K. Rowling: A Year in the Life">J.K. Rowling: A Year in the Life</a></i> <small>(First mentioned)</small></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Lucy_Weasley?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Lucy_Weasley?action=edit&amp;section=4" title="Edit section: Notes and references

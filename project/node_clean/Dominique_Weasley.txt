@@ -1,0 +1,86 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/7/7e/DominiqueWeasley.png/revision/latest?cb=20170816213827" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/7/7e/DominiqueWeasley.png/revision/latest/scale-to-width-down/331?cb=20170816213827" srcset="https://static.wikia.nocookie.net/harrypotter/images/7/7e/DominiqueWeasley.png/revision/latest/scale-to-width-down/331?cb=20170816213827 1x, https://static.wikia.nocookie.net/harrypotter/images/7/7e/DominiqueWeasley.png/revision/latest/scale-to-width-down/662?cb=20170816213827 2x" class="pi-image-thumbnail" alt="" width="270" height="408"
+		     data-image-key="DominiqueWeasley.png" data-image-name="DominiqueWeasley.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Dominique Weasley</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/2000s" title="2000s">2000s</a> <a href="/wiki/Great_Britain" title="Great Britain">Great Britain</a> or <a href="/wiki/France" title="France">France</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Half-Veela" title="Half-Veela">One-eighth Veela</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a> (<a href="/wiki/Veela" title="Veela">Veela</a> ancestry)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Septimus_Weasley" title="Septimus Weasley">Septimus Weasley</a><sup id="cite_ref-note_1-0" class="reference"><a href="#cite_note-note-1">&#91;1&#93;</a></sup> (paternal great-grandfather)</li><li><a href="/wiki/Cedrella_Black" title="Cedrella Black">Cedrella Weasley</a><sup id="cite_ref-note_1-1" class="reference"><a href="#cite_note-note-1">&#91;1&#93;</a></sup> <span class="template-c">(née <a href="/wiki/House_of_Black" title="House of Black">Black</a>)</span> (paternal great-grandmother)</li><li><a href="/wiki/Arthur_Weasley" title="Arthur Weasley">Arthur Weasley</a> (paternal grandfather)</li><li><a href="/wiki/Molly_Weasley" title="Molly Weasley">Molly Weasley</a> <span class="template-c">(née <a href="/wiki/Prewett_family" title="Prewett family">Prewett</a>)</span> (paternal grandmother)</li><li><a href="/wiki/Delacour_sisters%27_father" title="Delacour sisters&#039; father">Monsieur Delacour</a> (maternal grandfather)</li><li><a href="/wiki/Apolline_Delacour" title="Apolline Delacour">Apolline Delacour</a> (maternal grandmother)</li><li><a href="/wiki/William_Weasley" title="William Weasley">Bill Weasley</a> (father)</li><li><a href="/wiki/Fleur_Delacour" title="Fleur Delacour">Fleur Weasley</a> <span class="template-c">(née <a href="/wiki/Delacour_family" title="Delacour family">Delacour</a>)</span>(mother)</li><li><a href="/wiki/Victoire_Weasley" title="Victoire Weasley">Victoire Weasley</a> (sister)</li><li><a href="/wiki/Louis_Weasley" title="Louis Weasley">Louis Weasley</a> (brother)</li><li><a href="/wiki/Gabrielle_Delacour" title="Gabrielle Delacour">Gabrielle Delacour</a> (maternal aunt)</li><li><a href="/wiki/Ginevra_Weasley" title="Ginevra Weasley">Ginevra Potter</a> <span class="template-c">(née <a href="/wiki/Weasley_family" title="Weasley family">Weasley</a>)</span> (aunt)</li><li><a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> (uncle)</li><li><a href="/wiki/James_Potter_II" title="James Potter II">James Sirius Potter</a> (cousin)</li><li><a href="/wiki/Albus_Potter" title="Albus Potter">Albus Severus Potter</a> (cousin)</li><li><a href="/wiki/Lily_Potter" title="Lily Potter">Lily Luna Potter</a> (cousin)</li><li><a href="/wiki/Ronald_Weasley" title="Ronald Weasley">Ronald Weasley</a> (uncle)</li><li><a href="/wiki/Hermione_Granger" title="Hermione Granger">Hermione Granger</a> (aunt)</li><li><a href="/wiki/Rose_Granger-Weasley" title="Rose Granger-Weasley">Rose Granger-Weasley</a> (cousin)</li><li><a href="/wiki/Hugo_Granger-Weasley" title="Hugo Granger-Weasley">Hugo Granger-Weasley</a> (cousin)</li><li><a href="/wiki/Fred_Weasley" title="Fred Weasley">Fred Weasley</a> (uncle) †</li><li><a href="/wiki/George_Weasley" title="George Weasley">George Weasley</a> (uncle)</li><li><a href="/wiki/Angelina_Johnson" title="Angelina Johnson">Angelina Weasley</a> <span class="template-c">(née Johnson)</span> (aunt)</li><li><a href="/wiki/Fred_Weasley_II" title="Fred Weasley II">Fred Weasley II</a> (cousin)</li><li><a href="/wiki/Roxanne_Weasley" title="Roxanne Weasley">Roxanne Weasley</a> (cousin)</li><li><a href="/wiki/Percy_Weasley" title="Percy Weasley">Percy Weasley</a> (uncle)</li><li><a href="/wiki/Audrey_Weasley" title="Audrey Weasley">Audrey Weasley</a> (aunt)</li><li><a href="/wiki/Molly_Weasley_II" title="Molly Weasley II">Molly Weasley II</a> (cousin)</li><li><a href="/wiki/Lucy_Weasley" title="Lucy Weasley">Lucy Weasley</a> (cousin)</li><li><a href="/wiki/Charles_Weasley" title="Charles Weasley">Charles Weasley</a> (uncle)</li><li><a href="/wiki/Delacour_family" title="Delacour family">Delacour family</a></li><li><a href="/wiki/Weasley_family" title="Weasley family">Weasley family</a></li><li><a href="/wiki/Prewett_family" title="Prewett family">Prewett family</a></li><li><a href="/wiki/House_of_Black" title="House of Black">House of Black</a></li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Weasley_family" title="Weasley family">Weasley family</a></li><li><a href="/wiki/Delacour_family" title="Delacour family">Delacour family</a></li><li><a href="/wiki/Prewett_family" title="Prewett family">Prewett family</a></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Dominique Weasley </b>(b. 2000s) was a&#160;<a href="/wiki/Half-Veela" title="Half-Veela">part</a>-<a href="/wiki/Veela" title="Veela">veela</a>&#160;<a href="/wiki/Wizardkind" title="Wizardkind">witch</a> and the second daughter of <a href="/wiki/William_Weasley" title="William Weasley">Bill</a> and <a href="/wiki/Fleur_Delacour" title="Fleur Delacour">Fleur Weasley</a> <span class="template-c">(née <a href="/wiki/Delacour_family" title="Delacour family">Delacour</a>)</span>. She has two other siblings, <a href="/wiki/Victoire_Weasley" title="Victoire Weasley">Victoire</a> and <a href="/wiki/Louis_Weasley" title="Louis Weasley">Louis Weasley</a>.<sup id="cite_ref-WFT_2-0" class="reference"><a href="#cite_note-WFT-2">&#91;2&#93;</a></sup> It is possible that Dominique lives at Shell Cottage.
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Dominique_Weasley?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Dominique_Weasley?action=edit&amp;section=1" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i><a href="http://en.wikipedia.org/wiki/Dominique_(given_name)" class="extiw" title="wikipedia:Dominique (given name)">Dominique</a></i> is the French feminine form of the masculine name <i>Dominic</i>, derived from the Late Latin <i>Dominicus</i>, meaning "of the Lord". It was traditionally given to a child born on Sunday in Catholic countries.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> It is also the name of a popular French <a href="http://en.wikipedia.org/wiki/Dominique" class="extiw" title="wikipedia:Dominique">song</a> by <i>Soeur Sourire</i>, the Belgian "Singing Nun", about Saint Dominic and his fight against the Albigensians.
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Dominique_Weasley?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Dominique_Weasley?action=edit&amp;section=2" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/J.K._Rowling:_A_Year_in_the_Life" title="J.K. Rowling: A Year in the Life">J.K. Rowling: A Year in the Life</a></i> <small>(First mentioned)</small></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> <small>(Mentioned only)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Dominique_Weasley?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Dominique_Weasley?action=edit&amp;section=3" title="Edit section: Notes and references

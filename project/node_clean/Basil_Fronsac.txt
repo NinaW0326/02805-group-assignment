@@ -1,0 +1,165 @@
+<div class="mw-parser-output"><table class="notice metadata" id="spoiler" style="text-align: center; background: beige; margin: 1em 05%; padding: 0 1em; border: #a00 1px solid;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/8/8c/Hogwarts_Mystery.jpeg/revision/latest?cb=20180504083359" class="image"><img alt="Hogwarts Mystery.jpeg" src="https://static.wikia.nocookie.net/harrypotter/images/8/8c/Hogwarts_Mystery.jpeg/revision/latest/scale-to-width-down/175?cb=20180504083359" decoding="async" width="175" height="77" data-image-name="Hogwarts Mystery.jpeg" data-image-key="Hogwarts_Mystery.jpeg" /></a>
+</td>
+<td><b>Warning!</b>
+<p>At least some content in this article is derived from information featured in <i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i>. Spoilers will be present within the article.
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-hogwarts-staff pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/c/cd/Basil_Fronsac_Old.png/revision/latest?cb=20150921161814" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/c/cd/Basil_Fronsac_Old.png/revision/latest/scale-to-width-down/294?cb=20150921161814" srcset="https://static.wikia.nocookie.net/harrypotter/images/c/cd/Basil_Fronsac_Old.png/revision/latest/scale-to-width-down/294?cb=20150921161814 1x, https://static.wikia.nocookie.net/harrypotter/images/c/cd/Basil_Fronsac_Old.png/revision/latest/scale-to-width-down/588?cb=20150921161814 2x" class="pi-image-thumbnail" alt="" width="270" height="459"
+		     data-image-key="Basil_Fronsac_Old.png" data-image-name="Basil Fronsac Old.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Basil Fronsac</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">Mid-<a href="/wiki/19th_century" title="19th century">19th century</a> (most likely)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font">In or before <a href="/wiki/1992" title="1992">1992</a><sup id="cite_ref-DOD_2-0" class="reference"><a href="#cite_note-DOD-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a> or <a href="/wiki/Ireland" title="Ireland">Irish</a><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="title">
+	
+		<h3 class="pi-data-label pi-secondary-font">Title(s)</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Professor" title="Professor">Professor</a></li><li><a href="/wiki/Headmaster" title="Headmaster">Headmaster</a></li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Grey</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Headmaster" title="Headmaster">Headmaster</a> of <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="house">
+	
+		<h3 class="pi-data-label pi-secondary-font">House</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Ravenclaw" title="Ravenclaw">Ravenclaw</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a><ul><li><a href="/wiki/Ravenclaw" title="Ravenclaw">Ravenclaw</a></li></ul></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Order of the Phoenix (video game)">"<i>A healthy mind is an inquisitive mind.</i>"</span></dd>
+<dd>&#8212;Basil Fronsac's portrait<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(video_game)" title="Harry Potter and the Order of the Phoenix (video game)">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Professor Basil Fronsac</b> was a <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a>. A scholar and a strong supporter of <a href="/wiki/Ravenclaw" title="Ravenclaw">Ravenclaw</a> house, he was appointed as <a href="/wiki/Headmaster" title="Headmaster">Headmaster</a> of <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> sometime before <a href="/wiki/Armando_Dippet" title="Armando Dippet">Armando Dippet</a>. There is a <a href="/wiki/Portrait" title="Portrait">portrait</a> of him hung in the <a href="/wiki/Headmaster%27s_office" class="mw-redirect" title="Headmaster&#39;s office">Headmaster's office</a>, in order to give advice to the current Head,<sup id="cite_ref-COSf_4-0" class="reference"><a href="#cite_note-COSf-4">&#91;4&#93;</a></sup> and several others of a younger him on the Castle's main halls.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_life"><span class="tocnumber">1.1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Portrait_at_Hogwarts"><span class="tocnumber">1.2</span> <span class="toctext">Portrait at Hogwarts</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Behind_the_scenes"><span class="tocnumber">2</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Etymology"><span class="tocnumber">3</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Appearances"><span class="tocnumber">4</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Notes_and_references"><span class="tocnumber">5</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Basil_Fronsac?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Basil_Fronsac?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Basil_Fronsac?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Early life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Basil_Fronsac?action=edit&amp;section=2" title="Edit section: Early life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Basil Fronsac attended <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> in his youth and was <a href="/wiki/Sorting_ceremony" title="Sorting ceremony">sorted</a> into <a href="/wiki/Ravenclaw" title="Ravenclaw">Ravenclaw</a>.<sup id="cite_ref-OPg_5-0" class="reference"><a href="#cite_note-OPg-5">&#91;5&#93;</a></sup> In his elderly years, Professor Fronsac was appointed <a href="/wiki/Headmaster" title="Headmaster">Headmaster</a> of Hogwarts.<sup id="cite_ref-COSf_4-1" class="reference"><a href="#cite_note-COSf-4">&#91;4&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Portrait_at_Hogwarts">Portrait at Hogwarts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Basil_Fronsac?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Portrait at Hogwarts">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Basil_Fronsac?action=edit&amp;section=3" title="Edit section: Portrait at Hogwarts"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="thumb tleft show-info-icon" style="width: 144px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/8/88/Basil_Fronsac.jpg/revision/latest?cb=20100119235540" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/8/88/Basil_Fronsac.jpg/revision/latest/scale-to-width-down/142?cb=20100119235540" decoding="async" width="142" height="251" class="thumbimage" data-image-name="Basil Fronsac.jpg" data-image-key="Basil_Fronsac.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Basil_Fronsac.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">A middle-aged Fronsac</p> 		 	</figcaption> </figure>
+<p>In <a href="/wiki/1993" title="1993">1993</a>, Professor Fronsac had several portraits hung at <a href="/wiki/Hogwarts_Castle" title="Hogwarts Castle">Hogwarts Castle</a>; quite a few of them at the <a href="/wiki/Grand_Staircase" title="Grand Staircase">Grand Staircase</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p><p>By <a href="/wiki/1995" title="1995">1995</a>, his portrait was hung at the <a href="/wiki/Grand_Staircase" title="Grand Staircase">Grand Staircase</a>. The portrait guarded a shortcut leading to the second-floor corridor, near the <a href="/wiki/Hogwarts_Library" title="Hogwarts Library">Library</a>. He held a <a href="/wiki/Basil_Fronsac%27s_pocket_watch" title="Basil Fronsac&#39;s pocket watch">pocket watch</a> and his password was "<i>Studious Success</i>". He would be happy to help any "inquisitive minds" that could find out where <a href="/wiki/Rowena_Ravenclaw" title="Rowena Ravenclaw">Rowena Ravenclaw</a> came from.<sup id="cite_ref-OPg_5-1" class="reference"><a href="#cite_note-OPg-5">&#91;5&#93;</a></sup>
+</p><p>In the next school year, the portrait was moved to the <a href="/wiki/Dungeons" title="Dungeons">Dungeons</a>. He still guarded a secret passage, this time leading to the <a href="/wiki/Grand_Staircase" title="Grand Staircase">Grand Staircase</a>. His password became "<i>Libraries Liberate</i>".<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Basil_Fronsac?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Basil_Fronsac?action=edit&amp;section=4" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>The portrait of the middle-aged Basil Fronsac appears to be a homage to a <a target="_blank" rel="noreferrer noopener" class="external text" href="http://upload.wikimedia.org/wikipedia/commons/e/ed/Henry_James_by_John_Singer_Sargent_cleaned.jpg">portrait of Henry James</a> by John Singer Sargent, which was painted in 1913.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> This might suggest that Fronsac served as the Hogwarts <a href="/wiki/Headmaster" title="Headmaster">headmaster</a> in the early <a href="/wiki/20th_century" title="20th century">twentieth century</a> or late <a href="/wiki/19th_century" title="19th century">nineteenth century</a>.</li></ul>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Basil_Fronsac?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Basil_Fronsac?action=edit&amp;section=5" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The name "Basil" is from the Greek name "Βασιλειος" ("<i>Vasileios</i>"), which was derived from "βασιλευς" ("<i>Basileus</i>"), meaning "king". Saint Basil the Great was a 4th-century bishop of Caesarea and one of the fathers of the early Christian church. It was also borne by two Byzantine emperors.
+</p><p>"Fronsac" is a French surname denoting a person who came from the town of <a target="_blank" rel="noreferrer noopener" class="external text" href="https://en.wikipedia.org/wiki/Fronsac,_Gironde">Fronsac</a>, which dates back to Gaulish times. In modern times, it is most notable for its <a target="_blank" rel="noreferrer noopener" class="external text" href="https://en.wikipedia.org/wiki/Fronsac_AOC">namesake wine</a>.
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Basil_Fronsac?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Basil_Fronsac?action=edit&amp;section=6" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 2 images related to <i><b><a href="/wiki/Category:Images_of_Basil_Fronsac" title="Category:Images of Basil Fronsac">Basil Fronsac</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(film)" title="Harry Potter and the Chamber of Secrets (film)">Harry Potter and the Chamber of Secrets (film)</a></i> <span class="template-c">(Disc 2)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(video_game)" title="Harry Potter and the Prisoner of Azkaban (video game)">Harry Potter and the Prisoner of Azkaban (video game)</a></i> <small>(Appears in portrait(s))</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(video_game)" title="Harry Potter and the Order of the Phoenix (video game)">Harry Potter and the Order of the Phoenix (video game)</a></i> <small>(Appears in portrait(s))</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince_(video_game)" title="Harry Potter and the Half-Blood Prince (video game)">Harry Potter and the Half-Blood Prince (video game)</a></i> <small>(Appears in portrait(s))</small></li>
+<li><a href="/wiki/The_Wizarding_World_of_Harry_Potter" title="The Wizarding World of Harry Potter">The Wizarding World of Harry Potter</a> <small>(Appears in portrait(s))</small></li>
+<li><i><a href="/wiki/The_Making_of_Harry_Potter" title="The Making of Harry Potter">The Making of Harry Potter</a></i> <small>(Appears in portrait(s))</small></li>
+<li><i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Basil_Fronsac?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Basil_Fronsac?action=edit&amp;section=7" title="Edit section: Notes and references

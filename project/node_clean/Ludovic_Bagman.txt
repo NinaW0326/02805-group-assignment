@@ -1,0 +1,226 @@
+<div class="mw-parser-output"><table class="notice metadata" id="spoiler" style="text-align: center; background: beige; margin: 1em 05%; padding: 0 1em; border: #a00 1px solid;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/8/8c/Hogwarts_Mystery.jpeg/revision/latest?cb=20180504083359" class="image"><img alt="Hogwarts Mystery.jpeg" src="https://static.wikia.nocookie.net/harrypotter/images/8/8c/Hogwarts_Mystery.jpeg/revision/latest/scale-to-width-down/175?cb=20180504083359" decoding="async" width="175" height="77" data-image-name="Hogwarts Mystery.jpeg" data-image-key="Hogwarts_Mystery.jpeg" /></a>
+</td>
+<td><b>Warning!</b>
+<p>At least some content in this article is derived from information featured in <i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i>. Spoilers will be present within the article.
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-mom pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/4/42/Ludo_Bagman.png/revision/latest?cb=20180205035926" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/4/42/Ludo_Bagman.png/revision/latest/scale-to-width-down/290?cb=20180205035926" srcset="https://static.wikia.nocookie.net/harrypotter/images/4/42/Ludo_Bagman.png/revision/latest/scale-to-width-down/290?cb=20180205035926 1x, https://static.wikia.nocookie.net/harrypotter/images/4/42/Ludo_Bagman.png/revision/latest/scale-to-width-down/580?cb=20180205035926 2x" class="pi-image-thumbnail" alt="" width="270" height="426"
+		     data-image-key="Ludo_Bagman.png" data-image-name="Ludo Bagman.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Ludovic Bagman</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">Before <a href="/wiki/1964" title="1964">1964</a> (most likely)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Pure-blood" title="Pure-blood">Pure-blood</a> or <a href="/wiki/Half-blood" title="Half-blood">Half-blood</a><sup id="cite_ref-Blood_1-0" class="reference"><a href="#cite_note-Blood-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/England" title="England">English</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="alias">
+	
+		<h3 class="pi-data-label pi-secondary-font">Also known as</h3>
+	
+	<div class="pi-data-value pi-font">Ludo</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="title">
+	
+		<h3 class="pi-data-label pi-secondary-font">Title(s)</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Beater" title="Beater">Beater</a></li><li><a href="/wiki/Quidditch" title="Quidditch">Quidditch</a> commentator</li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Blond<sup id="cite_ref-appearance_2-0" class="reference"><a href="#cite_note-appearance-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Baby blue<sup id="cite_ref-appearance_2-1" class="reference"><a href="#cite_note-appearance-2">&#91;2&#93;</a></sup><sup id="cite_ref-eyes2_3-0" class="reference"><a href="#cite_note-eyes2-3">&#91;3&#93;</a></sup><sup id="cite_ref-eyes3_4-0" class="reference"><a href="#cite_note-eyes3-4">&#91;4&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Rosy<sup id="cite_ref-appearance_2-2" class="reference"><a href="#cite_note-appearance-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Ludovic_Bagman%27s_father" title="Ludovic Bagman&#039;s father">Mr Bagman</a> (father)</li><li><a href="/wiki/Otto_Bagman" title="Otto Bagman">Otto Bagman</a> (brother)</li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Beater" title="Beater">Beater</a> for the <a href="/wiki/Wimbourne_Wasps" title="Wimbourne Wasps">Wimbourne Wasps</a> (formerly)</li><li><a href="/wiki/Beater" title="Beater">Beater</a> for the <a href="/wiki/English_National_Quidditch_team" title="English National Quidditch team">English National Quidditch team</a> (formerly)</li><li><a href="/wiki/Head_of_Department" title="Head of Department">Head</a> of the <a href="/wiki/Department_of_Magical_Games_and_Sports" title="Department of Magical Games and Sports">Department of Magical Games and Sports</a></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Wimbourne_Wasps" title="Wimbourne Wasps">Wimbourne Wasps</a> (formerly)</li><li><a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">British Ministry of Magic</a><ul><li><a href="/wiki/Department_of_Magical_Games_and_Sports" title="Department of Magical Games and Sports">Department of Magical Games and Sports</a></li></ul></li><li><a href="/wiki/Bagman_family" title="Bagman family">Bagman family</a></li><li><a href="/wiki/English_National_Quidditch_team" title="English National Quidditch team">English National Quidditch team</a></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Goblet of Fire"><b>Bagman</b>: "<i>... if I can help at all... a prod in the right direction... I've taken a liking to you... the way you got past that dragon!... Well just say the word.</i>"</span></dd>
+<dd><b>Harry</b>: "<i>We're supposed to work out the clues alone, aren't we?</i>"</dd>
+<dd>&#8212; Ludo Bagman and <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a><sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire" title="Harry Potter and the Goblet of Fire">[src]</a></sup></dd></dl>
+</div>
+<p><b>Ludovic "Ludo" Bagman</b> (fl. <a href="/wiki/1981" title="1981">1981</a><sup id="cite_ref-GOF30_5-0" class="reference"><a href="#cite_note-GOF30-5">&#91;5&#93;</a></sup>-<a href="/wiki/2014" title="2014">2014</a><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>) was an <a href="/wiki/England" title="England">English</a> <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> and <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">Ministry of Magic</a> employee. During his career at the Ministry, Ludo rose to the post of Head of the <a href="/wiki/Department_of_Magical_Games_and_Sports" title="Department of Magical Games and Sports">Department of Magical Games and Sports</a>. His career at the Ministry ended in mid-<a href="/wiki/1995" title="1995">1995</a>, when he had to go on the run from <a href="/wiki/Goblin" title="Goblin">goblins</a>, against whom he had lost several bets.
+</p><p>Before working at the Ministry, he was a <a href="/wiki/Beater" title="Beater">Beater</a> for both the <a href="/wiki/Wimbourne_Wasps" title="Wimbourne Wasps">Wimbourne Wasps</a> and the <a href="/wiki/English_National_Quidditch_team" title="English National Quidditch team">English National Quidditch team</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> He had a brother named <a href="/wiki/Otto_Bagman" title="Otto Bagman">Otto</a>. He also tended to play dirty when gambling and betting as he tried to find loopholes or even pay in fake money/gold.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#First_Wizarding_War"><span class="tocnumber">1.1</span> <span class="toctext">First Wizarding War</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Quidditch_World_Cup"><span class="tocnumber">1.2</span> <span class="toctext">Quidditch World Cup</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#The_Triwizard_Tournament"><span class="tocnumber">1.3</span> <span class="toctext">The Triwizard Tournament</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Life_on_the_run"><span class="tocnumber">1.4</span> <span class="toctext">Life on the run</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Physical_appearance"><span class="tocnumber">2</span> <span class="toctext">Physical appearance</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Personality_and_traits"><span class="tocnumber">3</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Magical_abilities_and_skills"><span class="tocnumber">4</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Etymology"><span class="tocnumber">5</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Behind_the_scenes"><span class="tocnumber">6</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Appearances"><span class="tocnumber">7</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Notes_and_references"><span class="tocnumber">8</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Ludovic_Bagman?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Ludovic_Bagman?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="First_Wizarding_War">First Wizarding War</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Ludovic_Bagman?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: First Wizarding War">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Ludovic_Bagman?action=edit&amp;section=2" title="Edit section: First Wizarding War"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>After <a href="/wiki/Tom_Riddle" title="Tom Riddle">Lord Voldemort</a> fell from power, Ludovic Bagman was put on trial before the <a href="/wiki/Council_of_Magical_Law" title="Council of Magical Law">Council of Magical Law</a> for giving information about the Ministry to the Death Eater <a href="/wiki/Augustus_Rookwood" title="Augustus Rookwood">Augustus Rookwood</a>. According to Ludo, he did not know that Rookwood was a <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eater</a>. Rookwood had been a friend of Ludo's father and had persuaded Ludo into giving him the information by talking about getting Ludo a job at the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">Ministry</a>.<sup id="cite_ref-GOF30_5-1" class="reference"><a href="#cite_note-GOF30-5">&#91;5&#93;</a></sup>
+</p><p><a href="/wiki/Bartemius_Crouch_Senior" title="Bartemius Crouch Senior">Barty Crouch</a> attempted to place Bagman in <a href="/wiki/Azkaban" title="Azkaban">Azkaban</a> for this exchange of information for a certain amount of time, but to Crouch's extreme annoyance, Ludo was cleared of all charges. This was partly due to him being a popular <a href="/wiki/Quidditch" title="Quidditch">Quidditch</a> player. One witch within the jury stood up and congratulated Bagman for his rather impressive play in the previous Quidditch match, with the others cheering him. Ludo was never accused of allegiance with the <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a> again.<sup id="cite_ref-GOF30_5-2" class="reference"><a href="#cite_note-GOF30-5">&#91;5&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Quidditch_World_Cup">Quidditch World Cup</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Ludovic_Bagman?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Quidditch World Cup">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Ludovic_Bagman?action=edit&amp;section=3" title="Edit section: Quidditch World Cup"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Despite Mr Crouch's low opinion of Ludo, Ludo soon got a job at the Ministry as head of the <a href="/wiki/Department_of_Magical_Games_and_Sports" title="Department of Magical Games and Sports">Department of Magical Games and Sports</a>.
+</p><p>Ludo took part in organising the<a href="/wiki/1994_Quidditch_World_Cup" title="1994 Quidditch World Cup">1994 Quidditch World Cup</a>. He was quite reckless in terms of security, and did not bother dressing in <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> clothing for the event, and even discussed <a href="/wiki/Quidditch" title="Quidditch">Quidditch</a> in their presence. Ludo's position with the Ministry only fuelled his serious addiction to gambling — he took bets, for instance, before the cup started with <a href="/wiki/Fred_and_George_Weasley" title="Fred and George Weasley">Fred and George</a> for the result of the final, in the amount of thirty-seven <a href="/wiki/Galleon" title="Galleon">Galleons</a>, fifteen Sickles, and three <a href="/wiki/Knut" title="Knut">Knuts</a> plus a joke wand.<sup id="cite_ref-GOF7_8-0" class="reference"><a href="#cite_note-GOF7-8">&#91;8&#93;</a></sup>
+</p><p>Ludo also came to owe some money to <a href="/wiki/Lee_Jordan%27s_father" title="Lee Jordan&#39;s father">Mr Jordan</a>. He was bankrupt after the World Cup and tried to trick his creditors by paying them with <a href="/wiki/Leprechaun_gold" title="Leprechaun gold">leprechaun gold</a>. The twins therefore stalked Bagman for the entire school year, trying to get their money, and later realised their attempts were unsuccessful.<sup id="cite_ref-GOF37_9-0" class="reference"><a href="#cite_note-GOF37-9">&#91;9&#93;</a></sup> Ludo commentated during the World Cup using the <a href="/wiki/Amplifying_Charm" title="Amplifying Charm">Amplifying Charm</a>.<sup id="cite_ref-GOF8_10-0" class="reference"><a href="#cite_note-GOF8-10">&#91;10&#93;</a></sup>
+</p><p>After the Cup ended, Ludo was cornered by a group of <a href="/wiki/Goblin" title="Goblin">goblins</a> in the forest near the stadium. Ludo had borrowed a large amount of gold from the goblins but never paid them back. The goblins stripped Ludo of all the money he had on him and left, not yet realising that the money was not enough to pay the debt. Ludo wandered around the forest, completely unaware that the camp was being terrorised by a group of Death Eaters.<sup id="cite_ref-GOF9_11-0" class="reference"><a href="#cite_note-GOF9-11">&#91;11&#93;</a></sup><sup id="cite_ref-GOF37_9-1" class="reference"><a href="#cite_note-GOF37-9">&#91;9&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="The_Triwizard_Tournament">The Triwizard Tournament</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Ludovic_Bagman?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: The Triwizard Tournament">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Ludovic_Bagman?action=edit&amp;section=4" title="Edit section: The Triwizard Tournament"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="thumb tright show-info-icon" style="width: 142px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/5/56/Ludo_Bagman_GOF_Illustrated_Edition.png/revision/latest?cb=20201018205415" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/5/56/Ludo_Bagman_GOF_Illustrated_Edition.png/revision/latest/scale-to-width-down/140?cb=20201018205415" decoding="async" width="140" height="291" class="thumbimage" data-image-name="Ludo Bagman GOF Illustrated Edition.png" data-image-key="Ludo_Bagman_GOF_Illustrated_Edition.png" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Ludo_Bagman_GOF_Illustrated_Edition.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Ludo during the Triwizard Tournament</p> 		 	</figcaption> </figure> 
+<p>His position as head of the Department of Magical Games and Sports meant that, in 1994, Ludo, along with Barty Crouch Snr, organised and judged the <a href="/wiki/Triwizard_Tournament" title="Triwizard Tournament">Triwizard Tournament</a>. Together, they worked hard to ensure that none of the Champions would find themselves in "mortal danger".<sup id="cite_ref-GOF12_12-0" class="reference"><a href="#cite_note-GOF12-12">&#91;12&#93;</a></sup>
+</p><p>When at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts</a>, the Goblins tracked Ludo down to get the rest of the gold he owed them, but he could not pay them, as he had lost most of his money gambling.<sup id="cite_ref-GOF37_9-2" class="reference"><a href="#cite_note-GOF37-9">&#91;9&#93;</a></sup>
+</p><p>Meanwhile, Fred and George thought that Bagman gave them the Leprechaun gold by mistake and tried gently prodding him throughout the year but Bagman ignored their letters and made up excuses. Eventually, Bagman "turned nasty" (according to the Weasley twins) and told the Weasley twins that they were too young to gamble and that they would not get anything back. Fred and George found out about Bagman's debts through <a href="/wiki/Lee_Jordan" title="Lee Jordan">Lee Jordan</a>, whose father had also been swindled considerably. Fred considered informing the Ministry of Bagman's activities, whereas George argued that it was blackmail.<sup id="cite_ref-GOF37_9-3" class="reference"><a href="#cite_note-GOF37-9">&#91;9&#93;</a></sup>
+</p><p>When <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a>'s name was drawn out of the <a href="/wiki/Goblet_of_Fire" title="Goblet of Fire">Goblet of Fire</a>, Ludo Bagman appeared delighted, and he was the first person to inform the other three champions that Harry was now a participant.<sup id="cite_ref-GOF17_13-0" class="reference"><a href="#cite_note-GOF17-13">&#91;13&#93;</a></sup> Ludo planned to pay the goblins by betting that Harry would win the Triwizard Tournament.<sup id="cite_ref-GOF37_9-4" class="reference"><a href="#cite_note-GOF37-9">&#91;9&#93;</a></sup>
+</p><p>Just before the first task, Bagman took Harry aside and asked him if he wanted "a few pointers" for getting past the <a href="/wiki/Hungarian_Horntail" title="Hungarian Horntail">Hungarian Horntail</a>; however, Harry refused this information, as he thought taking advice from Ludo amounted to cheating. During the task, Bagman took the role of commentator, and was very impressed at Harry's flying skills around the <a href="/wiki/Dragon" title="Dragon">Dragon</a>. He gave Harry full ten points despite the champion being injured, and was furious at Karkaroff for being biased against Harry.<sup id="cite_ref-GOF20_14-0" class="reference"><a href="#cite_note-GOF20-14">&#91;14&#93;</a></sup>
+</p><p>Later, in January of <a href="/wiki/1995" title="1995">1995</a> Bagman was again cornered by the goblins, who looked "rather menacing", in <a href="/wiki/Hogsmeade" title="Hogsmeade">Hogsmeade</a> at <a href="/wiki/Three_Broomsticks_Inn" title="Three Broomsticks Inn">The Three Broomsticks</a>. When he saw Harry there, he offered him his help in the Triwizard Tournament, but Harry declined and asked Ludo what the goblins were up to. Ludo fabricated a story about the goblins searching for Barty Crouch Snr.<sup id="cite_ref-GOF24_15-0" class="reference"><a href="#cite_note-GOF24-15">&#91;15&#93;</a></sup>
+</p><p>For the final task, Bagman had the sole responsibility of showing the champions the maze which had been constructed on the school <a href="/wiki/Quidditch_pitch" title="Quidditch pitch">Quidditch pitch</a> (since Mr Crouch was apparently "sick"). He attempted to offer Harry help for the third time, but was interrupted by <a href="/wiki/Viktor_Krum" title="Viktor Krum">Viktor Krum</a>.<sup id="cite_ref-GOF31_16-0" class="reference"><a href="#cite_note-GOF31-16">&#91;16&#93;</a></sup>
+</p><p>The Triwizard Tournament ended with Harry winning, but being tied with <a href="/wiki/Cedric_Diggory" title="Cedric Diggory">Cedric Diggory</a>, who was killed.<sup id="cite_ref-GOF35_17-0" class="reference"><a href="#cite_note-GOF35-17">&#91;17&#93;</a></sup> The goblins refused to admit Ludo won the bet, saying that Harry did not win, but was tied with Cedric. Ludo went on the run shortly after the third task.<sup id="cite_ref-GOF37_9-5" class="reference"><a href="#cite_note-GOF37-9">&#91;9&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Life_on_the_run">Life on the run</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Ludovic_Bagman?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Life on the run">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Ludovic_Bagman?action=edit&amp;section=5" title="Edit section: Life on the run"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="thumb tright show-info-icon" style="width: 107px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/2/29/2014qwcinfographic.png/revision/latest?cb=20140703211540" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/2/29/2014qwcinfographic.png/revision/latest/scale-to-width-down/105?cb=20140703211540" decoding="async" width="105" height="244" class="thumbimage" data-image-name="2014qwcinfographic.png" data-image-key="2014qwcinfographic.png" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:2014qwcinfographic.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption"><strong class="mw-selflink selflink">Ludo Bagman</strong>'s ratings (click to zoom)</p> 		 	</figcaption> </figure>
+<p>What happened to Bagman after that is unknown, but during Harry's hearing for using magic outside of school in the subsequent year, his name came up in reference. When Harry told them that he <a href="/wiki/Patronus_Charm" title="Patronus Charm">used magic</a> to drive away <a href="/wiki/Dementor" title="Dementor">Dementors</a> that were attacking him at <a href="/wiki/Magnolia_Crescent" title="Magnolia Crescent">Magnolia Crescent</a>, <a href="/wiki/Minister_for_Magic" title="Minister for Magic">Minister for Magic</a> <a href="/wiki/Cornelius_Fudge" title="Cornelius Fudge">Cornelius Fudge</a> stated that "even Bagman wouldn't bet...".<sup id="cite_ref-OOTP8_18-0" class="reference"><a href="#cite_note-OOTP8-18">&#91;18&#93;</a></sup> Also, due to Bagman cheating the goblins out of his debt and running away, the <a href="/wiki/Order_of_the_Phoenix" title="Order of the Phoenix">Order of the Phoenix</a> had difficulty earning their trust.<sup id="cite_ref-OOTP5_19-0" class="reference"><a href="#cite_note-OOTP5-19">&#91;19&#93;</a></sup>
+</p><p>Though it is likely that he lost both his credibility in the eyes of the wizarding world, and his post at the Ministry, he was suspected by a great number of wizards to be coming out of retirement to play in the <a href="/wiki/2014_Quidditch_World_Cup" title="2014 Quidditch World Cup">2014 Quidditch World Cup</a>. This, however, proved untrue, as it was the Bulgarian Seeker <a href="/wiki/Viktor_Krum" title="Viktor Krum">Viktor Krum</a> who returned to the pitch, not Bagman. However, Bagman did produce a <a href="/wiki/Daily_Prophet" title="Daily Prophet">Daily Prophet</a> article rating the semi-finalist teams of the Cup.<sup id="cite_ref-PM_20-0" class="reference"><a href="#cite_note-PM-20">&#91;20&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Physical_appearance">Physical appearance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Ludovic_Bagman?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Physical appearance">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Ludovic_Bagman?action=edit&amp;section=6" title="Edit section: Physical appearance"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Ludo was a blue-eyed, blond man with a rosy skin.<sup id="cite_ref-appearance_2-3" class="reference"><a href="#cite_note-appearance-2">&#91;2&#93;</a></sup> Around <a href="/wiki/1982" title="1982">1982</a>, during his Quidditch career, he had an athletic build, although he had "gone to seed" by <a href="/wiki/1994" title="1994">1994</a>.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Ludovic_Bagman?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Personality and traits">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Ludovic_Bagman?action=edit&amp;section=7" title="Edit section: Personality and traits"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Goblet of Fire"><b>Ludo Bagman</b>: "<i>Well - I know I've been a bit of an idiot...</i>"</span></dd>
+<dd><b>Alastor Moody</b>: "<i>You never spoke truer words, boy.</i>"</dd>
+<dd>&#8212; Ludo and <a href="/wiki/Alastor_Moody" title="Alastor Moody">Alastor Moody</a> at the former's trial<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire" title="Harry Potter and the Goblet of Fire">[src]</a></sup></dd></dl>
+</div>
+<figure class="thumb tleft show-info-icon" style="width: 238px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/b/ba/Ludocup.JPG/revision/latest?cb=20130325223502" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="236" height="177" class="thumbimage lazyload" data-image-name="Ludocup.JPG" data-image-key="Ludocup.JPG" data-src="https://static.wikia.nocookie.net/harrypotter/images/b/ba/Ludocup.JPG/revision/latest/scale-to-width-down/236?cb=20130325223502" /></a> 	<noscript><a href="https://static.wikia.nocookie.net/harrypotter/images/b/ba/Ludocup.JPG/revision/latest?cb=20130325223502" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/b/ba/Ludocup.JPG/revision/latest/scale-to-width-down/236?cb=20130325223502" decoding="async" width="236" height="177" class="thumbimage" data-image-name="Ludocup.JPG" data-image-key="Ludocup.JPG" data-src="https://static.wikia.nocookie.net/harrypotter/images/b/ba/Ludocup.JPG/revision/latest/scale-to-width-down/236?cb=20130325223502" /></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Ludocup.JPG" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Ludo with the Quidditch World Cup trophy</p> 		 	</figcaption> </figure>
+<p>Bagman was seen by many as being a foolish and reckless man, who seemed to casually disregard his responsibilities as a Ministry official. During the <a href="/wiki/1994_Quidditch_World_Cup" title="1994 Quidditch World Cup">1994 Quidditch World Cup</a>, he did not bother to wear <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> clothing despite being in the presence of them, and even discussed Quidditch openly near them, showing a very careless attitude with wizarding security.<sup id="cite_ref-GOF7_8-1" class="reference"><a href="#cite_note-GOF7-8">&#91;8&#93;</a></sup> He was even once accused of passing information to <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eater</a> <a href="/wiki/Augustus_Rookwood" title="Augustus Rookwood">Augustus Rookwood</a> the first time <a href="/wiki/Tom_Riddle" title="Tom Riddle">Lord Voldemort</a> was powerful. He was never convicted, and it is likely that if he did pass any information to Rookwood, he did so innocently, not knowing Rookwood was working for Voldemort.<sup id="cite_ref-GOF30_5-3" class="reference"><a href="#cite_note-GOF30-5">&#91;5&#93;</a></sup>
+</p><p>It is worth mentioning, however, that at least two people in <a href="/wiki/1994" title="1994">1994</a> suspected him of foul play, or at least mistrusted him: both <a href="/wiki/Rita_Skeeter" title="Rita Skeeter">Rita Skeeter</a> (unreliable though she was) and <a href="/wiki/Bartemius_Crouch_Junior" title="Bartemius Crouch Junior">Barty Crouch Jnr</a> (<a href="/wiki/Polyjuice_Potion" title="Polyjuice Potion">masquerading</a> as <a href="/wiki/Alastor_Moody" title="Alastor Moody">Alastor &quot;Mad-Eye&quot; Moody</a>) mentioned this in the presence of Harry, <a href="/wiki/Ronald_Weasley" title="Ronald Weasley">Ron</a> and <a href="/wiki/Hermione_Granger" title="Hermione Granger">Hermione</a>. Rita Skeeter said to Hermione: "I know things about Ludo Bagman that would make your hair curl - not that it needs it."<sup id="cite_ref-GOF24_15-1" class="reference"><a href="#cite_note-GOF24-15">&#91;15&#93;</a></sup> This is likely a reference to the aforementioned accusation of passing information to Rookwood.
+</p><p>Bagman was seen as a genuinely pleasant and good-natured individual to all who knew him. However, he had a weakness for gambling which put a financial strain on him. (He might have originally borrowed off the goblins to pay off gambling debts). As George Weasley stated: "He's lost everything gambling." He could also turn very nasty when it came to paying his losses, as he used worthless <a href="/wiki/Leprechaun_gold" title="Leprechaun gold">Leprechaun gold</a> to pay, and refused to pay real money when the winners came to him. He also attempted to cheat at certain times when he was in a desperate situation, such as helping Harry during the Tournament, despite being forbidden to do so. Ludo went as far as running away after losing his final bet against his goblin creditors,<sup id="cite_ref-GOF37_9-6" class="reference"><a href="#cite_note-GOF37-9">&#91;9&#93;</a></sup> which resulted in them refusing to side with humans during the <a href="/wiki/Second_Wizarding_War" title="Second Wizarding War">Second Wizarding War</a>.<sup id="cite_ref-OOTP5_19-1" class="reference"><a href="#cite_note-OOTP5-19">&#91;19&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Ludovic_Bagman?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Ludovic_Bagman?action=edit&amp;section=8" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Flight" title="Flight">Flying</a></b>: Ludo was a very talented and accomplished <a href="/wiki/Broomstick" title="Broomstick">broomstick</a> flyer and <a href="/wiki/Quidditch" title="Quidditch">Quidditch</a> player, having famously played as <a href="/wiki/Beater" title="Beater">Beater</a> for the <a href="/wiki/Wimbourne_Wasps" title="Wimbourne Wasps">Wimbourne Wasps</a>. He was said to have been the best Beater the team had ever had, which is a clear indication of his excellent flying skills.<sup id="cite_ref-GOF7_8-2" class="reference"><a href="#cite_note-GOF7-8">&#91;8&#93;</a></sup></li>
+<li><b><a href="/wiki/Apparition" title="Apparition">Apparition</a></b>: Ludo was capable of apparating successfully, as shown when he disapparated during the <a href="/wiki/1994_Quidditch_World_Cup" title="1994 Quidditch World Cup">1994 Quidditch World Cup</a> to attend the <a href="/wiki/Reappearance_of_the_Dark_Mark" title="Reappearance of the Dark Mark">riots</a> that were besieging the event. He was describes as apparating with only a "small pop";<sup id="cite_ref-GOF9_11-1" class="reference"><a href="#cite_note-GOF9-11">&#91;11&#93;</a></sup> wizards who create little noise whilst apparating are usually highly accomplished with this skill.</li>
+<li><b><a href="/wiki/Charm" title="Charm">Charms</a></b>: Ludo appeared to be proficient with charm-work, as he was able of successfully using the <a href="/wiki/Amplifying_Charm" title="Amplifying Charm">Amplifying Charm</a> to amplify the sound of his own voice whilst commentating for the 1994 Quidditch World Cup<sup id="cite_ref-GOF8_10-1" class="reference"><a href="#cite_note-GOF8-10">&#91;10&#93;</a></sup> as well as during the <a href="/wiki/1994%E2%80%931995_school_year" title="1994–1995 school year">1994-1995</a> <a href="/wiki/Triwizard_Tournament" title="Triwizard Tournament">Triwizard Tournament</a>.<sup id="cite_ref-GOF20_14-1" class="reference"><a href="#cite_note-GOF20-14">&#91;14&#93;</a></sup><sup id="cite_ref-GOF26_22-0" class="reference"><a href="#cite_note-GOF26-22">&#91;22&#93;</a></sup><sup id="cite_ref-GOF31_16-1" class="reference"><a href="#cite_note-GOF31-16">&#91;16&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Ludovic_Bagman?veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Ludovic_Bagman?action=edit&amp;section=9" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Ludovic was a Latinised of the French royal name, Louis. Ludovic is from Gaelic for "devotee of the Lord." "Ludo" is Latin for "I play", part of the verb <i>ludere</i>.</li>
+<li>Ludo is also a Serbian word meaning "Crazy". Ludović can also be a Serbian last name meaning "Son of Crazy"</li>
+<li>In British slang, a bagman is a travelling salesman. Ludo was a secret gambler who threw away his money.</li>
+<li>In American criminal slang, a bagman is a go-between who picks up or delivers money, usually bribes given by a crime family to the police. Ludo, of course, is constantly handling money as he makes his bets, and tries to fix the outcome of the Triwizard tournament with little offers of "help" in the right direction. This could also reflect his role as a (perhaps unknowing) go-between for the Death Eaters, passing information to Augustus Rookwood during the First Wizarding War.</li></ul>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Ludovic_Bagman?veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Ludovic_Bagman?action=edit&amp;section=10" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>The part of Ludo Bagman was omitted from the <a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire_(film)" title="Harry Potter and the Goblet of Fire (film)">film adaptation</a> of <i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire" title="Harry Potter and the Goblet of Fire">Harry Potter and the Goblet of Fire</a></i>, and his announcing of the <a href="/wiki/Quidditch_World_Cup" title="Quidditch World Cup">Quidditch World Cup</a> of 1994 was done by the Minister for Magic at the time, which was <a href="/wiki/Cornelius_Fudge" title="Cornelius Fudge">Cornelius Fudge</a>. The warnings and the directions for each task of the <a href="/wiki/Triwizard_Tournament" title="Triwizard Tournament">Triwizard Tournament</a> were given to the champions by <a href="/wiki/Albus_Dumbledore" title="Albus Dumbledore">Dumbledore</a> and <a href="/wiki/Bartemius_Crouch_Senior" title="Bartemius Crouch Senior">Crouch</a> rather than Bagman. He was however meant to appear in the film in an early draft, and it was stated that actor Martin Landham would have been a candidate to portray him had he appeared in the film.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Ludovic_Bagman?veaction=edit&amp;section=11" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Ludovic_Bagman?action=edit&amp;section=11" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" class="lazyload" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 5 images related to <i><b><a href="/wiki/Category:Images_of_Ludo_Bagman" title="Category:Images of Ludo Bagman">Ludovic Bagman</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire" title="Harry Potter and the Goblet of Fire">Harry Potter and the Goblet of Fire</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">Harry Potter and the Order of the Phoenix</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Cursed_Child" title="Harry Potter and the Cursed Child">Harry Potter and the Cursed Child</a></i> <span class="template-c">(Appears in <a href="/wiki/Alternate_reality" title="Alternate reality">alternate realities</a>)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Cursed_Child_(play)" title="Harry Potter and the Cursed Child (play)">Harry Potter and the Cursed Child (play)</a></i> <span class="template-c">(Appears in <a href="/wiki/Alternate_reality" title="Alternate reality">alternate realities</a>)</span></li>
+<li><i><a href="/wiki/Harry_Potter:_Quidditch_World_Cup" title="Harry Potter: Quidditch World Cup">Harry Potter: Quidditch World Cup</a></i></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i></li>
+<li><i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i> <small>(Mentioned only)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Ludovic_Bagman?veaction=edit&amp;section=12" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Ludovic_Bagman?action=edit&amp;section=12" title="Edit section: Notes and references

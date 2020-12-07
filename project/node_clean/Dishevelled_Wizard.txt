@@ -1,0 +1,96 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/4/46/Sleeping_Wizard.jpg/revision/latest?cb=20110308025714" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/4/46/Sleeping_Wizard.jpg/revision/latest/scale-to-width-down/350?cb=20110308025714" srcset="https://static.wikia.nocookie.net/harrypotter/images/4/46/Sleeping_Wizard.jpg/revision/latest/scale-to-width-down/350?cb=20110308025714 1x, https://static.wikia.nocookie.net/harrypotter/images/4/46/Sleeping_Wizard.jpg/revision/latest/scale-to-width-down/699?cb=20110308025714 2x" class="pi-image-thumbnail" alt="" width="270" height="128"
+		     data-image-key="Sleeping_Wizard.jpg" data-image-name="Sleeping Wizard.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Dishevelled Wizard</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">Prior to <a href="/wiki/1993" title="1993">1993</a><sup id="cite_ref-POA3_1-0" class="reference"><a href="#cite_note-POA3-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a><sup id="cite_ref-POA3_1-1" class="reference"><a href="#cite_note-POA3-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-POA3_1-2" class="reference"><a href="#cite_note-POA3-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male<sup id="cite_ref-POA3_1-3" class="reference"><a href="#cite_note-POA3-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Knight_Bus" title="Knight Bus">Knight Bus</a><sup id="cite_ref-POA3_1-4" class="reference"><a href="#cite_note-POA3-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Prisoner of Azkaban">"<i>Not now thanks, I'm pickling some slugs.</i>"</span></dd>
+<dd>&#8212;Dishevelled Wizard mumbling in his sleep<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban" title="Harry Potter and the Prisoner of Azkaban">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p>The <b>Dishevelled Wizard</b><sup id="cite_ref-SCRIPT_2-0" class="reference"><a href="#cite_note-SCRIPT-2">&#91;2&#93;</a></sup> was a <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> who rode the <a href="/wiki/Knight_Bus" title="Knight Bus">Knight Bus</a> on at least one occasion, the <a href="/wiki/6_August" title="6 August">6 August</a> of <a href="/wiki/1993" title="1993">1993</a>. He sleep-talked, that night about <a href="/wiki/Pickled_Slugs" title="Pickled Slugs">pickling slugs</a>.<sup id="cite_ref-POA3_1-5" class="reference"><a href="#cite_note-POA3-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Physical_appearance"><span class="tocnumber">2</span> <span class="toctext">Physical appearance</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Behind_the_scenes"><span class="tocnumber">3</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Appearances"><span class="tocnumber">4</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Notes_and_references"><span class="tocnumber">5</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Dishevelled_Wizard?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Dishevelled_Wizard?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The wizard was born sometime prior to <a href="/wiki/1993" title="1993">1993</a>; due to his grey hair and wrinkled skin, it is likely that he was rather old. He seemed to be a good sleeper, or else rode the <a href="/wiki/Knight_Bus" title="Knight Bus">Knight Bus</a> rather frequently, as he managed to stay asleep throughout his whole ride. On the 6th of August in 1993, this wizard rode the Knight Bus, falling asleep at the rear of the vehicle. He rode at the same time as the famous <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a>, but due to his unconscious state was not aware of the fact. He sleep-talked, and spoke on that night of <a href="/wiki/Pickled_Slugs" title="Pickled Slugs">pickling</a> <a href="/wiki/Slug" title="Slug">slugs</a>.<sup id="cite_ref-POA3_1-6" class="reference"><a href="#cite_note-POA3-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Physical_appearance">Physical appearance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Dishevelled_Wizard?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Physical appearance">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Dishevelled_Wizard?action=edit&amp;section=2" title="Edit section: Physical appearance"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The wizard had tanned, wrinkled skin and a somewhat long, pointy nose. He had holes in the toes of his black socks, and shoulder-length grey hair. He donned a greying wizard's hat and a black (though somewhat grwy) bath-robe, on the 6th of August.<sup id="cite_ref-POAF_3-0" class="reference"><a href="#cite_note-POAF-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Dishevelled_Wizard?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Dishevelled_Wizard?action=edit&amp;section=3" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>The script identifies him as "Dishevelled Wizard".<sup id="cite_ref-SCRIPT_2-1" class="reference"><a href="#cite_note-SCRIPT-2">&#91;2&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Dishevelled_Wizard?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Dishevelled_Wizard?action=edit&amp;section=4" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban" title="Harry Potter and the Prisoner of Azkaban">Harry Potter and the Prisoner of Azkaban</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(film)" title="Harry Potter and the Prisoner of Azkaban (film)">Harry Potter and the Prisoner of Azkaban (film)</a></i> <small>(First identified as Dishevelled Wizard)</small></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Dishevelled_Wizard?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Dishevelled_Wizard?action=edit&amp;section=5" title="Edit section: Notes and references

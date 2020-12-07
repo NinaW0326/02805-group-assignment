@@ -1,0 +1,104 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-squib pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/4/42/Marius_Black_2.jpg/revision/latest?cb=20131130014542" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/4/42/Marius_Black_2.jpg/revision/latest/scale-to-width-down/350?cb=20131130014542" srcset="https://static.wikia.nocookie.net/harrypotter/images/4/42/Marius_Black_2.jpg/revision/latest/scale-to-width-down/350?cb=20131130014542 1x, https://static.wikia.nocookie.net/harrypotter/images/4/42/Marius_Black_2.jpg/revision/latest/scale-to-width-down/700?cb=20131130014542 2x" class="pi-image-thumbnail" alt="" width="270" height="257"
+		     data-image-key="Marius_Black_2.jpg" data-image-name="Marius Black 2.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Marius Black</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">Between <a href="/wiki/1915" title="1915">1915</a> and <a href="/wiki/1920" title="1920">1920</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font">Before <a href="/wiki/1996" title="1996">1996</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Squib" title="Squib">Squib</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Cygnus_Black_II" title="Cygnus Black II">Cygnus Black II</a> (father)</li><li><a href="/wiki/Violetta_Bulstrode" title="Violetta Bulstrode">Violetta Bulstrode</a> (mother)</li><li><a href="/wiki/Pollux_Black" title="Pollux Black">Pollux Black</a> (brother)</li><li><a href="/wiki/Irma_Crabbe" title="Irma Crabbe">Irma Crabbe</a> (sister-in-law)</li><li><a href="/wiki/Walburga_Black" title="Walburga Black">Walburga Black</a> (niece)</li><li><a href="/wiki/Alphard_Black" title="Alphard Black">Alphard Black</a> (nephew)</li><li><a href="/wiki/Cygnus_Black_III" title="Cygnus Black III">Cygnus Black III</a> (nephew)</li><li><a href="/wiki/Cassiopeia_Black" title="Cassiopeia Black">Cassiopeia Black</a> (sister)</li><li><a href="/wiki/Dorea_Black" title="Dorea Black">Dorea Black</a> (sister)</li><li><a href="/wiki/Charlus_Potter" title="Charlus Potter">Charlus Potter</a> (brother-in-law)</li><li><a href="/wiki/Charlus_Potter%27s_son" title="Charlus Potter&#039;s son">Charlus and Dorea's son</a> (nephew)</li><li><a href="/wiki/Phineas_Nigellus_Black" title="Phineas Nigellus Black">Phineas Nigellus Black</a> (grandfather)</li><li><a href="/wiki/Ursula_Flint" title="Ursula Flint">Ursula Flint</a> (grandmother)</li><li><a href="/wiki/House_of_Black" title="House of Black">Black family</a></li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/House_of_Black" title="House of Black">Black family</a> (disowned)</div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+<b>Marius Black</b> was the&#160;third child&#160;of <a href="/wiki/Cygnus_Black_II" title="Cygnus Black II">Cygnus Black II</a> and <a href="/wiki/Violetta_Bulstrode" title="Violetta Bulstrode">Violetta Bulstrode</a>, and brother of <a href="/wiki/Pollux_Black" title="Pollux Black">Pollux Black</a>, <a href="/wiki/Cassiopeia_Black" title="Cassiopeia Black">Cassiopeia Black</a>, and <a href="/wiki/Dorea_Black" title="Dorea Black">Dorea Black</a>. Marius was disowned and removed from the <a href="/wiki/Black_Family_Tapestry" title="Black Family Tapestry">Black family tree tapestry</a> for being born a Squib, a wizard-born person with no magical abilities. The Blacks were likely ashamed of his status, as Squibs are considered second-class citizens in the wizarding world and disregarded.
+</p><p>Marius's date of birth is unknown, but given when his siblings were born, Marius was likely born between <a href="/wiki/1915" title="1915">1915</a> and <a href="/wiki/1920" title="1920">1920</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Etymology"><span class="tocnumber">1</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Behind_the_scenes"><span class="tocnumber">2</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Appearances"><span class="tocnumber">3</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Notes_and_references"><span class="tocnumber">4</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Marius_Black?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Marius_Black?action=edit&amp;section=1" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="http://en.wikipedia.org/wiki/Marius" class="extiw" title="wikipedia:Marius">Marius</a> is a Roman name derived from <a href="http://en.wikipedia.org/wiki/Mars_(mythology)" class="extiw" title="wikipedia:Mars (mythology)">Mars, the Roman god</a> of war. It was the name of several Roman generals, a philosopher, and an emperor. <a href="http://en.wikipedia.org/wiki/Gaius_Marius" class="extiw" title="wikipedia:Gaius Marius">One of those Roman generals</a> was renowned for his revolutionary military reforms and for being elected consul an unprecedented <a href="/wiki/Seven" title="Seven">seven</a> times. The name is also sometimes used as a masculine version of the name <i>Maria</i>,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> which is derived from the Hebrew name <i>Miriam</i>, the meaning of which is usually theorised to be "sea of bitterness",<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> or, alternatively, derived from the ancient egyptic <i>mry; </i>beloved, or <i>mr</i>; love. Marius is also the name of <a href="http://en.wikipedia.org/wiki/Marius_Pontmercy" class="extiw" title="wikipedia:Marius Pontmercy">one of the main characters</a> in Victor Hugo's <i><a href="http://en.wikipedia.org/wiki/Les_Mis%C3%A9rables" class="extiw" title="wikipedia:Les Misérables">Les Misérables</a>.</i>
+</p><p>Marius is also the name of a <a target="_blank" rel="noreferrer noopener" class="external text" href="http://en.wikipedia.org/wiki/Marius_(crater)">moon crater</a> , which fits in with the Black family tradition of naming children after stars.
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Marius_Black?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Marius_Black?action=edit&amp;section=2" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>He may have had descendants (which may have been <a href="/wiki/Non-magic_people" title="Non-magic people">Muggles</a> or Squibs) but because he was disowned by his <a href="/wiki/House_of_Black" title="House of Black">family</a>, they did not appear on the family tree.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Marius_Black?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Marius_Black?action=edit&amp;section=3" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(film)" title="Harry Potter and the Order of the Phoenix (film)">Harry Potter and the Order of the Phoenix (film)</a></i> <span class="template-c">(Appears on Black family tapestry)</span></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Marius_Black?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Marius_Black?action=edit&amp;section=4" title="Edit section: Notes and references

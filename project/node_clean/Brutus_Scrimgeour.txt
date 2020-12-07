@@ -1,0 +1,146 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-hogwarts-staff pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/e/e0/Brutus_Scrimgeour_crop.png/revision/latest?cb=20151024191637" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/e/e0/Brutus_Scrimgeour_crop.png/revision/latest/scale-to-width-down/296?cb=20151024191637" srcset="https://static.wikia.nocookie.net/harrypotter/images/e/e0/Brutus_Scrimgeour_crop.png/revision/latest/scale-to-width-down/296?cb=20151024191637 1x, https://static.wikia.nocookie.net/harrypotter/images/e/e0/Brutus_Scrimgeour_crop.png/revision/latest/scale-to-width-down/592?cb=20151024191637 2x" class="pi-image-thumbnail" alt="" width="270" height="439"
+		     data-image-key="Brutus_Scrimgeour_crop.png" data-image-name="Brutus Scrimgeour crop.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Brutus Scrimgeour</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font">In or prior to <a href="/wiki/1994" title="1994">1994</a><sup id="cite_ref-DOD_1-0" class="reference"><a href="#cite_note-DOD-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="title">
+	
+		<h3 class="pi-data-label pi-secondary-font">Title(s)</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Professor" title="Professor">Professor</a><sup id="cite_ref-QoSC_2-0" class="reference"><a href="#cite_note-QoSC-2">&#91;2&#93;</a></sup></li><li><a href="/wiki/Headmaster" title="Headmaster">Headmaster</a><sup id="cite_ref-QoSC_2-1" class="reference"><a href="#cite_note-QoSC-2">&#91;2&#93;</a></sup></li><li><a href="/wiki/Beater" title="Beater">Beater</a> (possibly)</li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-QoSC_2-2" class="reference"><a href="#cite_note-QoSC-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male<sup id="cite_ref-QoSC_2-3" class="reference"><a href="#cite_note-QoSC-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Grey<sup id="cite_ref-QoSC_2-4" class="reference"><a href="#cite_note-QoSC-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White<sup id="cite_ref-QoSC_2-5" class="reference"><a href="#cite_note-QoSC-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Rufus_Scrimgeour" title="Rufus Scrimgeour">Rufus Scrimgeour</a> (possibly) †</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>Author</li><li><a href="/wiki/Headmaster" title="Headmaster">Headmaster</a> of <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School</a><sup id="cite_ref-hp-kinect_3-0" class="reference"><a href="#cite_note-hp-kinect-3">&#91;3&#93;</a></sup><sup id="cite_ref-mohp_4-0" class="reference"><a href="#cite_note-mohp-4">&#91;4&#93;</a></sup></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a></li><li><a href="/wiki/Scrimgeour_family" title="Scrimgeour family">Scrimgeour family</a></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Quidditch Through the Ages (real)">"<i>Take out the <a href="/wiki/Seeker" title="Seeker">Seeker</a>.</i>"</span></dd>
+<dd>&#8212;Brutus Scrimgeour's first rule for <a href="/wiki/Beater" title="Beater">Beaters</a>, <i><a href="/wiki/The_Beaters%27_Bible" title="The Beaters&#39; Bible">The Beaters' Bible</a></i><sup class="noprint"><a href="/wiki/Quidditch_Through_the_Ages_(real)" title="Quidditch Through the Ages (real)">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Brutus Scrimgeour</b><sup id="cite_ref-QoSC_2-6" class="reference"><a href="#cite_note-QoSC-2">&#91;2&#93;</a></sup> was a <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> and prolific <a href="/wiki/Quidditch" title="Quidditch">Quidditch</a> fan. He served as <a href="/wiki/Headmaster" title="Headmaster">headmaster</a> of <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> at some point<sup id="cite_ref-hp-kinect_3-1" class="reference"><a href="#cite_note-hp-kinect-3">&#91;3&#93;</a></sup><sup id="cite_ref-mohp_4-1" class="reference"><a href="#cite_note-mohp-4">&#91;4&#93;</a></sup> and also wrote the book <i><a href="/wiki/The_Beaters%27_Bible" title="The Beaters&#39; Bible">The Beaters' Bible</a></i>.<sup id="cite_ref-qta_5-0" class="reference"><a href="#cite_note-qta-5">&#91;5&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Life_and_career"><span class="tocnumber">1.1</span> <span class="toctext">Life and career</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Legacy"><span class="tocnumber">1.2</span> <span class="toctext">Legacy</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Etymology"><span class="tocnumber">2</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Behind_the_scenes"><span class="tocnumber">3</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Appearances"><span class="tocnumber">4</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Notes_and_references"><span class="tocnumber">5</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Brutus_Scrimgeour?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Brutus_Scrimgeour?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Life_and_career">Life and career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Brutus_Scrimgeour?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Life and career">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Brutus_Scrimgeour?action=edit&amp;section=2" title="Edit section: Life and career"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>During his life, Scrimgeour taught at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a>,<sup id="cite_ref-QoSC_2-7" class="reference"><a href="#cite_note-QoSC-2">&#91;2&#93;</a></sup> and was eventually appointed <a href="/wiki/Headmaster" title="Headmaster">headmaster</a>.<sup id="cite_ref-hp-kinect_3-2" class="reference"><a href="#cite_note-hp-kinect-3">&#91;3&#93;</a></sup><sup id="cite_ref-mohp_4-2" class="reference"><a href="#cite_note-mohp-4">&#91;4&#93;</a></sup>
+</p><p>Scrimgeour was a fan of Quidditch and may have been a <a href="/wiki/Beater" title="Beater">Beater</a> at some point.<sup id="cite_ref-qta_5-1" class="reference"><a href="#cite_note-qta-5">&#91;5&#93;</a></sup> He wrote a guide for Beaters, <i><a href="/wiki/The_Beaters%27_Bible" title="The Beaters&#39; Bible">The Beaters' Bible</a></i>, and gave a positive review of the book <i><a href="/wiki/Quidditch_Through_the_Ages" title="Quidditch Through the Ages">Quidditch Through the Ages</a></i> by <a href="/wiki/Kennilworthy_Whisp" title="Kennilworthy Whisp">Kennilworthy Whisp</a>, saying that it was "<i>the definitive work on the origins and history of Quidditch</i>" and that he "<i>highly recommended</i>" it.<sup id="cite_ref-qta_5-2" class="reference"><a href="#cite_note-qta-5">&#91;5&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Legacy">Legacy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Brutus_Scrimgeour?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Legacy">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Brutus_Scrimgeour?action=edit&amp;section=3" title="Edit section: Legacy"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Scrimgeour died sometime in or before the year <a href="/wiki/1994" title="1994">1994</a>.<sup id="cite_ref-DOD_1-1" class="reference"><a href="#cite_note-DOD-1">&#91;1&#93;</a></sup> Multiple <a href="/wiki/Portrait" title="Portrait">portraits</a> of him were thereafter hung within <a href="/wiki/Hogwarts_Castle" title="Hogwarts Castle">Hogwarts Castle</a>.
+</p><p>One portrait, hung in the <a href="/wiki/Trophy_Room" title="Trophy Room">Trophy Room</a>, hid a secret passage to the fourth floor.<sup id="cite_ref-ootp-gba_6-0" class="reference"><a href="#cite_note-ootp-gba-6">&#91;6&#93;</a></sup> During the <a href="/wiki/1994-1995_school_year" class="mw-redirect" title="1994-1995 school year">1994-1995 school year</a>, the <a href="/wiki/Password" title="Password">password</a> to open this passage was initially "<i>Beati pacifici</i>,"<sup id="cite_ref-ootp-gba_6-1" class="reference"><a href="#cite_note-ootp-gba-6">&#91;6&#93;</a></sup> meaning "blessed are the peacemakers" in <a href="/wiki/Latin" title="Latin">Latin</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> This was changed to "<i>Iunctis viribus</i>" ("by united efforts" in Latin)<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> later in the same school year.<sup id="cite_ref-ootp-gba_6-2" class="reference"><a href="#cite_note-ootp-gba-6">&#91;6&#93;</a></sup>
+</p><p>Another portrait of Scrimgeour was hung in the <a href="/wiki/Headmaster%27s_office" class="mw-redirect" title="Headmaster&#39;s office">Headmaster's office</a>.<sup id="cite_ref-mohp_4-3" class="reference"><a href="#cite_note-mohp-4">&#91;4&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Brutus_Scrimgeour?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Brutus_Scrimgeour?action=edit&amp;section=4" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tright show-info-icon" style="width: 252px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/d/d8/Brutus_Scrimgeour.png/revision/latest?cb=20151024191356" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/d/d8/Brutus_Scrimgeour.png/revision/latest/scale-to-width-down/250?cb=20151024191356" decoding="async" width="250" height="216" class="thumbimage" data-image-name="Brutus Scrimgeour.png" data-image-key="Brutus_Scrimgeour.png" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Brutus_Scrimgeour.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Brutus's portrait.</p> 		 	</figcaption> </figure><p>The name "Brutus" is a Roman cognomen meaning "heavy" in Latin. Famous bearers include Lucius Junius Brutus, the traditional founder of the Roman Republic, and Marcus Junius Brutus, the statesman who conspired to assassinate Julius Caesar.
+</p><h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Brutus_Scrimgeour?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Brutus_Scrimgeour?action=edit&amp;section=5" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Scrimgeour may have been related to <a href="/wiki/Rufus_Scrimgeour" title="Rufus Scrimgeour">Rufus Scrimgeour</a>, a <a href="/wiki/Minister_for_Magic" title="Minister for Magic">Minister for Magic</a> killed by <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a>.</li>
+<li>Scrimgeour's portrait was painted by artist <a class="new" title="Steve Mitchell (page does not exist)" rel="nofollow" data-uncrawlable-url="L3dpa2kvU3RldmVfTWl0Y2hlbGw/YWN0aW9uPWVkaXQmcmVkbGluaz0x">Steve Mitchell</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> Mitchell created several portraits for the <a href="/wiki/Harry_Potter_films" class="mw-redirect" title="Harry Potter films"><i>Harry Potter</i> films</a>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup></li>
+<li>On "The Quest of Sir Cadogan" feature on Disc 2 of the <i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(film)" title="Harry Potter and the Prisoner of Azkaban (film)">Harry Potter and the Prisoner of Azkaban</a></i> DVD, Scrimgeour's portrait appears to be inverted horizontally.</li>
+<li>The phrase <i>beati pacifici</i>, <a href="/wiki/Latin" title="Latin">Latin</a> for "blessed are the peacemakers", is a portion of <a href="/wiki/Bible" title="Bible">Matthew 5:9</a>. The full verse reads <i>beati pacifici quoniam filii Dei vocabuntur</i> ("Blessed are the peacemakers: for they shall be called the children of <a href="/wiki/God" title="God">God</a>").</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Brutus_Scrimgeour?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Brutus_Scrimgeour?action=edit&amp;section=6" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(film)" title="Harry Potter and the Prisoner of Azkaban (film)">Harry Potter and the Prisoner of Azkaban (film)</a></i> <small>(Appears in portrait(s))</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(video_game)" title="Harry Potter and the Prisoner of Azkaban (video game)">Harry Potter and the Prisoner of Azkaban (video game)</a></i> <small>(Appears in portrait(s))</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(video_game)" title="Harry Potter and the Order of the Phoenix (video game)">Harry Potter and the Order of the Phoenix (video game)</a></i> <small>(Appears in portrait(s))</small> <span class="template-c">(Unnamed)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince_(video_game)" title="Harry Potter and the Half-Blood Prince (video game)">Harry Potter and the Half-Blood Prince (video game)</a></i> <small>(Appears in portrait(s))</small></li>
+<li><i><a href="/wiki/Quidditch_Through_the_Ages_(real)" title="Quidditch Through the Ages (real)">Quidditch Through the Ages</a></i> <small>(First mentioned)</small></li>
+<li><i><a href="/wiki/The_Making_of_Harry_Potter" title="The Making of Harry Potter">The Making of Harry Potter</a></i> <small>(Appears in portrait(s))</small></li>
+<li><i><a href="/wiki/Harry_Potter_for_Kinect" title="Harry Potter for Kinect">Harry Potter for Kinect</a></i> <small>(Appears in portrait(s))</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Brutus_Scrimgeour?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Brutus_Scrimgeour?action=edit&amp;section=7" title="Edit section: Notes and references

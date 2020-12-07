@@ -1,0 +1,120 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-hag pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/e/ee/Grymm.jpg/revision/latest?cb=20090725214907" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/e/ee/Grymm.jpg/revision/latest/scale-to-width-down/350?cb=20090725214907" srcset="https://static.wikia.nocookie.net/harrypotter/images/e/ee/Grymm.jpg/revision/latest/scale-to-width-down/350?cb=20090725214907 1x, https://static.wikia.nocookie.net/harrypotter/images/e/ee/Grymm.jpg/revision/latest/scale-to-width-down/700?cb=20090725214907 2x" class="pi-image-thumbnail" alt="" width="270" height="371"
+		     data-image-key="Grymm.jpg" data-image-name="Grymm.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Malodora Grymm</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Middle_Ages" title="Middle Ages">Medieval times</a><sup id="cite_ref-POAG_1-0" class="reference"><a href="#cite_note-POAG-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Middle_Ages" title="Middle Ages">Medieval times</a><sup id="cite_ref-POAG_1-1" class="reference"><a href="#cite_note-POAG-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="title">
+	
+		<h3 class="pi-data-label pi-secondary-font">Title(s)</h3>
+	
+	<div class="pi-data-value pi-font">Queen<sup id="cite_ref-POAG_1-2" class="reference"><a href="#cite_note-POAG-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Hag" title="Hag">Hag</a><sup id="cite_ref-POAG_1-3" class="reference"><a href="#cite_note-POAG-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female<sup id="cite_ref-POAG_1-4" class="reference"><a href="#cite_note-POAG-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Dark (after using a <a href="/wiki/Beautification_Potion" title="Beautification Potion">Beautification Potion</a>)<sup id="cite_ref-POAG_1-5" class="reference"><a href="#cite_note-POAG-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Green (after using a <a href="/wiki/Beautification_Potion" title="Beautification Potion">Beautification Potion</a>)<sup id="cite_ref-POAG_1-6" class="reference"><a href="#cite_note-POAG-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Pale (after using a <a href="/wiki/Beautification_Potion" title="Beautification Potion">Beautification Potion</a>)<sup id="cite_ref-POAG_1-7" class="reference"><a href="#cite_note-POAG-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Malodora_Grymm%27s_husband" title="Malodora Grymm&#039;s husband">King</a> (husband)†<sup id="cite_ref-POAG_1-8" class="reference"><a href="#cite_note-POAG-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+<b>Queen Malodora Grymm</b> was a <a href="/wiki/Hag" title="Hag">hag</a> who lived in <a href="/wiki/Middle_Ages" title="Middle Ages">Medieval</a> <a href="/wiki/Europe" title="Europe">Europe</a>.<sup id="cite_ref-POAG_1-9" class="reference"><a href="#cite_note-POAG-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Legacy"><span class="tocnumber">2</span> <span class="toctext">Legacy</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Behind_the_scenes"><span class="tocnumber">3</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Etymology"><span class="tocnumber">4</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Appearances"><span class="tocnumber">5</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Notes_and_references"><span class="tocnumber">6</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Malodora_Grymm?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Malodora_Grymm?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>She used a <a href="/wiki/Beautification_Potion" title="Beautification Potion">Beautification Potion</a> to transform herself into a beautiful woman, and married <a href="/wiki/Malodora_Grymm%27s_husband" title="Malodora Grymm&#39;s husband">a king</a>. She used a <a href="/wiki/Talking_mirror" title="Talking mirror">charmed mirror</a> to compliment her looks and reinforce her self-image. However, she became jealous of <a href="/wiki/Malodora_Grymm%27s_victim" title="Malodora Grymm&#39;s victim">the most beautiful girl in the kingdom</a> and plotted to get rid of her by using a <a href="/wiki/Poison" title="Poison">poisoned</a> <a href="/wiki/Apple_(fruit)" title="Apple (fruit)">apple</a>.<sup id="cite_ref-POAG_1-10" class="reference"><a href="#cite_note-POAG-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Legacy">Legacy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Malodora_Grymm?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Legacy">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Malodora_Grymm?action=edit&amp;section=2" title="Edit section: Legacy"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Grymm's plot, despite being known as historical fact to the <a href="/wiki/Wizarding_world" title="Wizarding world">wizarding world</a>, appeared to have directly inspired the Muggle fairy tale, <i><a href="/wiki/Snow_White_and_the_Seven_Dwarves" title="Snow White and the Seven Dwarves">Snow White and the Seven Dwarves</a>'<b>.</b></i>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Malodora_Grymm?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Malodora_Grymm?action=edit&amp;section=3" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>In 2001, actress <a href="/wiki/Miranda_Richardson" title="Miranda Richardson">Miranda Richardson</a>, (who plays <a href="/wiki/Rita_Skeeter" title="Rita Skeeter">Rita Skeeter</a>), took part in the film, <a href="http://en.wikipedia.org/wiki/Snow_White_(2001_film)" class="extiw" title="wikipedia:Snow White (2001 film)">Snow White: Fairest of Them All</a>, playing Queen Elspeth, who, like Malodora, was a hag turned into the beautiful and wicked Queen of the fairy tale.</li></ul>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Malodora_Grymm?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Malodora_Grymm?action=edit&amp;section=4" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Malodora consists of the noun "malus", "<i>apple</i>" in Latin (as in "malic acid", the acid which was named after apples and is found in many fruits) or adjective "malum", "<i>bad</i>" or "<i>evil</i>" in Latin; and "doron", "<i>gift</i>" in Greek (as in "Pandora" in Greek mythology, gift from all the gods). Thus, Malodora is "she who gifts apple" or "she who gives evil gift", which is a clear foreshadowing to her giving a poisoned apple to her victim.</li>
+<li>Grymm is a nod to the <a href="http://en.wikipedia.org/wiki/Brothers_Grimm" class="extiw" title="wikipedia:Brothers Grimm">Brothers Grimm</a>. It can be also a reference to the word grim, meaning "ghastly" or "sinister".</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Malodora_Grymm?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Malodora_Grymm?action=edit&amp;section=5" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(video_game)" title="Harry Potter and the Prisoner of Azkaban (video game)">Harry Potter and the Prisoner of Azkaban (video game)</a></i> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Malodora_Grymm?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Malodora_Grymm?action=edit&amp;section=6" title="Edit section: Notes and references

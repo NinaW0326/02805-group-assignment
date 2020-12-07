@@ -1,0 +1,127 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-dark-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/1/12/Raczidian.png/revision/latest?cb=20121121183855" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/1/12/Raczidian.png/revision/latest/scale-to-width-down/350?cb=20121121183855" srcset="https://static.wikia.nocookie.net/harrypotter/images/1/12/Raczidian.png/revision/latest/scale-to-width-down/350?cb=20121121183855 1x, https://static.wikia.nocookie.net/harrypotter/images/1/12/Raczidian.png/revision/latest/scale-to-width-down/700?cb=20121121183855 2x" class="pi-image-thumbnail" alt="" width="270" height="195"
+		     data-image-key="Raczidian.png" data-image-name="Raczidian.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Raczidian</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font">Died at an unknown point<sup id="cite_ref-WBoS_1-0" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="marital">
+	
+		<h3 class="pi-data-label pi-secondary-font">Marital status</h3>
+	
+	<div class="pi-data-value pi-font">Single<sup id="cite_ref-WBoS_1-1" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-WBoS_1-2" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male<sup id="cite_ref-WBoS_1-3" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">White<sup id="cite_ref-WBoS_1-4" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Pale<sup id="cite_ref-WBoS_1-5" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Magical characteristics</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="wand">
+	
+		<h3 class="pi-data-label pi-secondary-font">Wand</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Raczidian%27s_wand" title="Raczidian&#039;s wand">Unknown length, wood and core</a><sup id="cite_ref-WBoS_1-6" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="patronus">
+	
+		<h3 class="pi-data-label pi-secondary-font">Patronus</h3>
+	
+	<div class="pi-data-value pi-font">None<sup id="cite_ref-WBoS_1-7" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Dark_Arts" title="Dark Arts">Dark Arts</a><sup id="cite_ref-WBoS_1-8" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup><ul><li><a href="/wiki/Dementor" title="Dementor">Dementors</a><sup id="cite_ref-WBoS_1-9" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup></li></ul></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Raczidian</b> was a <a href="/wiki/Dark_Wizard" title="Dark Wizard">Dark Wizard</a> who, according to an ancient story, attacked <a href="/wiki/Illyius%27_village" class="mw-redirect" title="Illyius&#39; village">a wizarding village</a>, only to be foiled by the <a href="/wiki/Patronus_Charm" title="Patronus Charm">Patronus</a> of <a href="/wiki/Illyius" title="Illyius">Illyius</a>.<sup id="cite_ref-WBoS_1-10" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Magical_abilities_and_skills"><span class="tocnumber">2</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Possessions"><span class="tocnumber">3</span> <span class="toctext">Possessions</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Appearances"><span class="tocnumber">4</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Notes_and_references"><span class="tocnumber">5</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Raczidian?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Raczidian?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>According to legend, Raczidian was a <a href="/wiki/Dark_Wizard" title="Dark Wizard">Dark</a> <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> who lived with a colony of <a href="/wiki/Dementor" title="Dementor">Dementors</a> in a <a href="/wiki/Raczidian%27s_castle" title="Raczidian&#39;s castle">black castle</a> in a dense forest, which surrounded a nearby mountain village inhabited by fellow witches and wizards. For many years, he and the unearthly denizens of the castle co-existed peacefully with the villagers, leaving them alone, while they in kind kept out of the part of the woods where his castle was located.<sup id="cite_ref-WBoS_1-11" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup>
+</p><p>One day, Raczidian noticed a beautiful girl from the village, <a href="/wiki/Eliana" title="Eliana">Eliana</a>, while she was collecting berries in the woods. Taken by her, he decided she would make an ideal wife, and sent a message to her parents demanding her hand. They refused. Raczidian thus threatened to send his Dementors to destroy the village unless Eliana was brought to him.<sup id="cite_ref-WBoS_1-12" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup>
+</p><p>The villagers opted to put up a fight rather than surrender to Raczidian's ultimatum. At first, they succeeded in holding at bay the Dementors that Raczidian unleashed upon them with the combined might of their <a href="/wiki/Patronus_Charm" title="Patronus Charm">Patronuses</a>, but gradually the sheer number of foes began to overwhelm them. Just when it looked as if all hope was lost, however, <a href="/wiki/Illyius" title="Illyius">Illyius</a> — a shy, young orphan who had been told to sit out the battle because the village elders thought his Patronus was too feeble to be of any use — cast the Patronus Charm. The <a href="/wiki/Mouse" title="Mouse">mouse</a> that sprang from Illyius's wand shone brilliantly and brought the Dementors to a halt.<sup id="cite_ref-WBoS_1-13" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup>
+</p>
+<figure class="thumb tleft show-info-icon" style="width: 261px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/c/c3/Raczidian%27sDemise.png/revision/latest?cb=20121128194026" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/c/c3/Raczidian%27sDemise.png/revision/latest/scale-to-width-down/259?cb=20121128194026" decoding="async" width="259" height="122" class="thumbimage" data-image-name="Raczidian&#39;sDemise.png" data-image-key="Raczidian&#39;sDemise.png" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Raczidian%27sDemise.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Raczidian's demise</p> 		 	</figcaption> </figure>
+<p>Enraged that something so small should thwart him, Raczidian decided to enter the fray himself and attempted to summon a Patronus to ward off Illyius's mouse. However, he failed to remember that only the pure of heart can produce a Patronus, and thus for the first time in history, it was revealed what happens when a competent but unworthy wizard or witch attempts the spell. <a href="/wiki/Maggot" title="Maggot">Maggots</a> shot out of Raczidian's <a href="/wiki/Wand" title="Wand">wand</a> and quickly devoured him as they engulfed his body.<sup id="cite_ref-WBoS_1-14" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Raczidian?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Raczidian?action=edit&amp;section=2" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Dark_Arts" title="Dark Arts">Dark Arts</a>: </b>Raczidian was highly proficient and accomplished in the dark arts, being a fearsome and malevolent <a href="/wiki/Dark_Wizard" title="Dark Wizard">Dark Wizard</a>. He was presumably very adept in the casting of various <a href="/wiki/Dark_charm" title="Dark charm">Dark charms</a> and <a href="/wiki/Spell" title="Spell">spells</a>, handling dark objects and brewing dark <a href="/wiki/Potion" title="Potion">potions</a>, for example. He was particularly skilled at handling and commanding dark <a href="/wiki/Creature" title="Creature">creatures</a>, such as <a href="/wiki/Dementor" title="Dementor">Dementors</a>, which guarded his castle and were successfully ordered by him to attack a wizarding village.<sup id="cite_ref-WBoS_1-15" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Possessions">Possessions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Raczidian?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Possessions">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Raczidian?action=edit&amp;section=3" title="Edit section: Possessions"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Raczidian%27s_wand" title="Raczidian&#39;s wand">Wand</a></b>: Raczidian owned a <a href="/wiki/Wand" title="Wand">wand</a>, which was of an unknown length, <a href="/wiki/Wand_wood" title="Wand wood">wand wood</a> and <a href="/wiki/Wand_core" title="Wand core">Wand core</a>. He heavily utilised his wand to practise the <a href="/wiki/Dark_Arts" title="Dark Arts">Dark Arts</a>, so it can be presumed its materials were suitable for performing dark magic.<sup id="cite_ref-WBoS_1-16" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup></li>
+<li><b><a href="/wiki/Raczidian%27s_castle" title="Raczidian&#39;s castle">Castle</a></b>: Raczidian owned and lived in a black castle in a dark forest, with a colony of <a href="/wiki/Dementor" title="Dementor">Dementors</a>.<sup id="cite_ref-WBoS_1-17" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Raczidian?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Raczidian?action=edit&amp;section=4" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Wonderbook:_Book_of_Spells" title="Wonderbook: Book of Spells">Wonderbook: Book of Spells</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> <small>(Mentioned only)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Raczidian?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Raczidian?action=edit&amp;section=5" title="Edit section: Notes and references

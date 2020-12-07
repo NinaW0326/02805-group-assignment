@@ -1,0 +1,123 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/8/85/Dominic_Maestro.jpg/revision/latest?cb=20100722162434" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/8/85/Dominic_Maestro.jpg/revision/latest/scale-to-width-down/290?cb=20100722162434" srcset="https://static.wikia.nocookie.net/harrypotter/images/8/85/Dominic_Maestro.jpg/revision/latest/scale-to-width-down/290?cb=20100722162434 1x, https://static.wikia.nocookie.net/harrypotter/images/8/85/Dominic_Maestro.jpg/revision/latest/scale-to-width-down/580?cb=20100722162434 2x" class="pi-image-thumbnail" alt="" width="270" height="465"
+		     data-image-key="Dominic_Maestro.jpg" data-image-name="Dominic Maestro.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Dominic Maestro</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">c. <a href="/wiki/1932" title="1932">1932</a> or earlier</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a><sup id="cite_ref-LEGOY1_1-0" class="reference"><a href="#cite_note-LEGOY1-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-LEGOY1_1-1" class="reference"><a href="#cite_note-LEGOY1-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male<sup id="cite_ref-LEGOY1_1-2" class="reference"><a href="#cite_note-LEGOY1-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">White<sup id="cite_ref-LEGOY1_1-3" class="reference"><a href="#cite_note-LEGOY1-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Light<sup id="cite_ref-LEGOY1_1-4" class="reference"><a href="#cite_note-LEGOY1-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Dominique_Maestro" title="Dominique Maestro">Dominique Maestro</a> (possibly)</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Shop owner<sup id="cite_ref-LEGOY1_1-5" class="reference"><a href="#cite_note-LEGOY1-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a><sup id="cite_ref-WWHP_2-0" class="reference"><a href="#cite_note-WWHP-2">&#91;2&#93;</a></sup></li><li><a href="/wiki/Dominic_Maestro%27s" class="mw-redirect" title="Dominic Maestro&#039;s">Dominic Maestro's</a><sup id="cite_ref-LEGOY1_1-6" class="reference"><a href="#cite_note-LEGOY1-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/Maestro_family" title="Maestro family">Maestro family</a><sup id="cite_ref-LEGOY1_1-7" class="reference"><a href="#cite_note-LEGOY1-1">&#91;1&#93;</a></sup></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Dominic Maestro</b> (fl. <a href="/wiki/1943" title="1943">1943</a>—<a href="/wiki/1993" title="1993">1993</a>) was a <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> who ran <a href="/wiki/Dominic_Maestro%27s" class="mw-redirect" title="Dominic Maestro&#39;s">Dominic Maestro's</a>, a music shop, in <a href="/wiki/Hogsmeade" title="Hogsmeade">Hogsmeade</a> in the <a href="/wiki/1990s" title="1990s">1990s</a>.<sup id="cite_ref-LEGOY1_1-8" class="reference"><a href="#cite_note-LEGOY1-1">&#91;1&#93;</a></sup>
+</p><p>He attended <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> in his youth and received an award in <a href="/wiki/1943" title="1943">1943</a>.<sup id="cite_ref-WWHP_2-1" class="reference"><a href="#cite_note-WWHP-2">&#91;2&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Etymology"><span class="tocnumber">1</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Behind_the_scenes"><span class="tocnumber">2</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Appearances"><span class="tocnumber">3</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Notes_and_references"><span class="tocnumber">4</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Dominic_Maestro?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Dominic_Maestro?action=edit&amp;section=1" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The name "Dominic" is from the Late Latin name Dominicus meaning "of the Lord". This name was traditionally given to a child born on Sunday. Several saints have borne this name, including the 13th-century founder of the Dominican order of friars. It was in this saint's honour that the name was first used in England, starting around the 13th century. It is primarily used by Catholics.
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Dominic_Maestro?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Dominic_Maestro?action=edit&amp;section=2" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>In <i><a href="/wiki/LEGO_Harry_Potter:_Years_1-4" title="LEGO Harry Potter: Years 1-4">LEGO Harry Potter: Years 1-4</a></i>, the character uses the same model as <a href="/wiki/Albus_Dumbledore" title="Albus Dumbledore">Albus Dumbledore</a>.</li>
+<li>Also in <i><a href="/wiki/LEGO_Harry_Potter:_Years_1-4" title="LEGO Harry Potter: Years 1-4">LEGO Harry Potter: Years 1-4</a></i>, <a href="/wiki/Draco_Malfoy" title="Draco Malfoy">Draco Malfoy</a> assaults this man in <a href="/wiki/1993" title="1993">1993</a>, using a large snowman that produced snowballs.</li>
+<li>The name of this character is presumably a tribute to Dominic Masters, who worked as an assistant art director on the first three <a href="/wiki/Harry_Potter_films" class="mw-redirect" title="Harry Potter films"><i>Harry Potter</i> films</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> This makes sense, as "Maestro" is Italian for "master".</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Dominic_Maestro?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Dominic_Maestro?action=edit&amp;section=3" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tright show-info-icon" style="width: 152px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/d/d7/Domincis.jpg/revision/latest?cb=20130624182202" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/d/d7/Domincis.jpg/revision/latest/scale-to-width-down/150?cb=20130624182202" decoding="async" width="150" height="112" class="thumbimage" data-image-name="Domincis.jpg" data-image-key="Domincis.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Domincis.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Dominic Maestro's shop in Hogsmeade</p> 		 	</figcaption> </figure>
+<ul><li><i><a href="/wiki/LEGO_Harry_Potter:_Years_1-4" title="LEGO Harry Potter: Years 1-4">LEGO Harry Potter: Years 1-4</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter:_Years_5-7" title="LEGO Harry Potter: Years 5-7">LEGO Harry Potter: Years 5-7</a></i> <small>(Mentioned only)</small></li>
+<li><a href="/wiki/The_Wizarding_World_of_Harry_Potter" title="The Wizarding World of Harry Potter">The Wizarding World of Harry Potter</a> <small>(Mentioned only)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Dominic_Maestro?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Dominic_Maestro?action=edit&amp;section=4" title="Edit section: Notes and references

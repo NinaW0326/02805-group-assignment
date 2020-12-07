@@ -1,0 +1,80 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-creature pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Curupira</h2>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Species information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Red</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="related">
+	
+		<h3 class="pi-data-label pi-secondary-font">Related to</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Dwarf" title="Dwarf">Dwarf</a><sup id="cite_ref-PM_1-0" class="reference"><a href="#cite_note-PM-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="native">
+	
+		<h3 class="pi-data-label pi-secondary-font">Native to</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Brazil" title="Brazil">Brazilian</a> forests<sup id="cite_ref-PM_1-1" class="reference"><a href="#cite_note-PM-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="mortality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Mortality</h3>
+	
+	<div class="pi-data-value pi-font">Mortal</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="distinction">
+	
+		<h3 class="pi-data-label pi-secondary-font">Distinction</h3>
+	
+	<div class="pi-data-value pi-font">Feet point backwards<sup id="cite_ref-PM_1-2" class="reference"><a href="#cite_note-PM-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="affiliation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Affiliation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Brazilian_National_Quidditch_team" title="Brazilian National Quidditch team">Brazilian National Quidditch team</a><sup id="cite_ref-PM_1-3" class="reference"><a href="#cite_note-PM-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="status">
+	
+		<h3 class="pi-data-label pi-secondary-font">Status</h3>
+	
+	<div class="pi-data-value pi-font">Extant</div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Creature_infobox" title="Template:Creature infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Curupiras</b> are red-haired, forest-dwelling <a href="/wiki/Dwarf" title="Dwarf">dwarves</a> native to <a href="/wiki/Brazil" title="Brazil">Brazil</a>. Curupiras are fiercely protective of any other magical <a href="/wiki/Creature" title="Creature">creature</a>, and will defend them when they feel they are being harmed by <a href="/wiki/Human" title="Human">humans</a>. The feet of the Curupiras face backwards relative to their bodies.<sup id="cite_ref-PM_1-4" class="reference"><a href="#cite_note-PM-1">&#91;1&#93;</a></sup>
+</p><p><a href="/wiki/Curupira_hair" title="Curupira hair">Curupira hair</a> is a notoriously unstable <a href="/wiki/Wand_core" title="Wand core">wand core</a> associated with powerful and unpredictable wizards.<sup id="cite_ref-twitter_2-0" class="reference"><a href="#cite_note-twitter-2">&#91;2&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Behind_the_scenes"><span class="tocnumber">2</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Appearances"><span class="tocnumber">3</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Notes_and_references"><span class="tocnumber">4</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Curupira?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: History">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Curupira?action=edit&amp;section=1" title="Edit section: History"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A group of Curupiras are used as the mascot for the <a href="/wiki/Brazilian_National_Quidditch_team" title="Brazilian National Quidditch team">Brazilian National Quidditch team</a>. During the opening ceremony of the <a href="/wiki/2014_Quidditch_World_Cup" title="2014 Quidditch World Cup">2014 Quidditch World Cup</a>, the Curupiras believed that the handlers attempting to stop a fight between the <a href="/wiki/Fiji" title="Fiji">Fijian</a> <a href="/wiki/Dukuwaqa" title="Dukuwaqa">Dukuwaqa</a> and <a href="/wiki/Norway" title="Norway">Norwegian</a> <a href="/wiki/Selma" title="Selma">Selma</a> were hurting the creatures and thus attacked, adding to the (already extreme) chaos and bloodshed.<sup id="cite_ref-PM_1-5" class="reference"><a href="#cite_note-PM-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Curupira?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Curupira?action=edit&amp;section=2" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>The <i><a href="http://en.wikipedia.org/wiki/Curupira" class="extiw" title="wikipedia:Curupira">Curupira</a></i> is a creature from Brazilian folklore. They have backwards-facing feet to confuse hunters into following them the wrong direction and will attack any poachers they feel take more from their forests than necessary.</li>
+<li>Curupiras were not included in the fifty-second edition of <a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(real)" class="mw-redirect" title="Fantastic Beasts and Where to Find Them (real)"><i>Fantastic Beasts and Where to Find Them</i></a>.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Curupira?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Curupira?action=edit&amp;section=3" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> <small>(First mentioned)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Curupira?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Curupira?action=edit&amp;section=4" title="Edit section: Notes and references

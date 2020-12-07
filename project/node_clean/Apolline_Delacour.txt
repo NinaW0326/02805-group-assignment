@@ -1,0 +1,152 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/7/74/Apolline_Delacour.jpg/revision/latest?cb=20110416193109" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/7/74/Apolline_Delacour.jpg/revision/latest/scale-to-width-down/239?cb=20110416193109" srcset="https://static.wikia.nocookie.net/harrypotter/images/7/74/Apolline_Delacour.jpg/revision/latest/scale-to-width-down/239?cb=20110416193109 1x, https://static.wikia.nocookie.net/harrypotter/images/7/74/Apolline_Delacour.jpg/revision/latest/scale-to-width-down/478?cb=20110416193109 2x" class="pi-image-thumbnail" alt="" width="239" height="447"
+		     data-image-key="Apolline_Delacour.jpg" data-image-name="Apolline Delacour.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Apolline Delacour</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Half-Veela" title="Half-Veela">Half-Veela</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="marital">
+	
+		<h3 class="pi-data-label pi-secondary-font">Marital status</h3>
+	
+	<div class="pi-data-value pi-font">Married</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/France" title="France">French</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="title">
+	
+		<h3 class="pi-data-label pi-secondary-font">Title(s)</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Madam" title="Madam">Madam</a>(e)</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Half-breed" title="Half-breed">Half-Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Blonde<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Blue</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Apolline_Delacour%27s_mother" title="Apolline Delacour&#039;s mother">Mother</a></li><li><a href="/wiki/Delacour_sisters%27_father" title="Delacour sisters&#039; father">Monsieur Delacour</a> (husband)</li><li><a href="/wiki/Fleur_Delacour" title="Fleur Delacour">Fleur Delacour</a> (daughter)</li><li><a href="/wiki/Gabrielle_Delacour" title="Gabrielle Delacour">Gabrielle Delacour</a> (daughter)</li><li><a href="/wiki/William_Weasley" title="William Weasley">Bill Weasley</a> (son-in-law)</li><li><a href="/wiki/Victoire_Weasley" title="Victoire Weasley">Victoire Weasley</a> (granddaughter)</li><li><a href="/wiki/Dominique_Weasley" title="Dominique Weasley">Dominique Weasley</a> (granddaughter)</li><li><a href="/wiki/Louis_Weasley" title="Louis Weasley">Louis Weasley</a> (grandson)</li><li><a href="/wiki/Weasley_family" title="Weasley family">Weasley family</a> (in-laws)</li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Delacour_family" title="Delacour family">Delacour family</a></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Deathly Hallows">"<i>...Mr Weasley, who appeared at the gate moments later, laden with luggage and leading a beautiful blonde woman in long, leaf green robes, who could only be Fleur's mother.</i>"</span></dd>
+<dd>&#8212;Description of Apolline's appearance<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b><a href="/wiki/Madam" title="Madam">Madame</a> Apolline Delacour</b> was a <a href="/wiki/Half-Veela" title="Half-Veela">half-Veela</a> <a href="/wiki/France" title="France">French</a> <a href="/wiki/Wizardkind" title="Wizardkind">witch</a>, married to <a href="/wiki/Delacour_sisters%27_father" title="Delacour sisters&#39; father">Monsieur Delacour</a>. She was described as beautiful and blonde, like her daughters, <a href="/wiki/Fleur_Delacour" title="Fleur Delacour">Fleur</a> and <a href="/wiki/Gabrielle_Delacour" title="Gabrielle Delacour">Gabrielle</a>; these traits were inherited from Apolline's <a href="/wiki/Veela" title="Veela">Veela</a> mother.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Physical_appearance"><span class="tocnumber">2</span> <span class="toctext">Physical appearance</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Personality_and_traits"><span class="tocnumber">3</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Etymology"><span class="tocnumber">4</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Appearances"><span class="tocnumber">5</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Notes_and_references"><span class="tocnumber">6</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Apolline_Delacour?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Apolline_Delacour?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In <a href="/wiki/1995" title="1995">1995</a>, Apolline and her husband visited Fleur before the Third Task of the <a href="/wiki/Triwizard_Tournament" title="Triwizard Tournament">Triwizard Tournament</a> at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p><p>In the summer of <a href="/wiki/1997" title="1997">1997</a>, the Delacours came to visit the <a href="/wiki/Weasley_family" title="Weasley family">Weasleys</a> at <a href="/wiki/The_Burrow" title="The Burrow">the Burrow</a> to prepare for Fleur's <a href="/wiki/Wedding_of_William_Weasley_and_Fleur_Delacour" title="Wedding of William Weasley and Fleur Delacour">wedding</a> to <a href="/wiki/William_Weasley" title="William Weasley">Bill Weasley</a>. While there, Apolline enjoyed <a href="/wiki/Molly_Weasley" title="Molly Weasley">Molly Weasley</a>'s cooking and hospitality and helped with the preparations, as she was noted to be very accomplished with <a href="/wiki/Household_magic" title="Household magic">household spells</a>. During their visit, Apolline and her husband were shown to be very helpful, pleasant guests. She was seen listening to <a href="/wiki/Kingsley_Shacklebolt" title="Kingsley Shacklebolt">Kingsley Shacklebolt</a>'s corporeal <a href="/wiki/Lynx" title="Lynx">Lynx</a> <a href="/wiki/Patronus_Charm" title="Patronus Charm">Patronus</a>, which warned the Wedding guests that the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">Ministry</a> had <a href="/wiki/Fall_of_the_Ministry_of_Magic" title="Fall of the Ministry of Magic">fallen</a> and that <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a> would soon be arriving. She, her husband and Gabrielle then safely evacuated the wedding, and returned to <a href="/wiki/France" title="France">France</a>, with Bill and Fleur retreating to <a href="/wiki/Shell_Cottage" title="Shell Cottage">Shell Cottage</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p><p>Through her daughter <a href="/wiki/Fleur_Delacour" title="Fleur Delacour">Fleur</a> and son-in-law <a href="/wiki/William_Weasley" title="William Weasley">Bill</a>, Apolline was the maternal grandmother of <a href="/wiki/Victoire_Weasley" title="Victoire Weasley">Victoire</a>, <a href="/wiki/Dominique_Weasley" title="Dominique Weasley">Dominique</a> and <a href="/wiki/Louis_Weasley" title="Louis Weasley">Louis Weasley</a>.
+</p>
+<h2><span class="mw-headline" id="Physical_appearance">Physical appearance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Apolline_Delacour?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Physical appearance">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Apolline_Delacour?action=edit&amp;section=2" title="Edit section: Physical appearance"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Apolline, due to her <a href="/wiki/Veela" title="Veela">Veela</a> heritage, was described as a beautiful woman with blonde hair, who wore long, green leafy robes to her <a href="/wiki/Fleur_Delacour" title="Fleur Delacour">daughter's</a> <a href="/wiki/Wedding_of_William_Weasley_and_Fleur_Delacour" title="Wedding of William Weasley and Fleur Delacour">wedding</a>.
+</p>
+<h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Apolline_Delacour?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Personality and traits">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Apolline_Delacour?action=edit&amp;section=3" title="Edit section: Personality and traits"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Apolline was shown to be a very gracious and sophisticated woman, as she and her husband both happily helped the <a href="/wiki/Weasley_family" title="Weasley family">Weasley family</a> prepare for the wedding of her daughter and son-in-law, and other wedding guests noted to her to have been pleasant and polite. She was also very grateful of Molly Weasley's cooking and hospitality whilst she stayed at her <a href="/wiki/The_Burrow" title="The Burrow">house</a>. Furthermore, she was shown to be a good mother who loved and cared for her family, as she visited her daughter <a href="/wiki/Fleur_Delacour" title="Fleur Delacour">Fleur</a> before she took part in the Third Task of the <a href="/wiki/Triwizard_Tournament" title="Triwizard Tournament">Triwizard Tournament</a>, showing her to have been very supportive and proud of her daughter's achievements.
+</p>
+<figure class="thumb tleft show-info-icon" style="width: 302px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/2/2f/Delacour.png/revision/latest?cb=20120305102156" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/2/2f/Delacour.png/revision/latest/scale-to-width-down/300?cb=20120305102156" decoding="async" width="300" height="127" class="thumbimage" data-image-name="Delacour.png" data-image-key="Delacour.png" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Delacour.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">The <a href="/wiki/Delacour_family" title="Delacour family">Delacours</a>, The <a href="/wiki/Weasley_family" title="Weasley family">Weasleys</a>, <a href="/wiki/Muriel" title="Muriel">Muriel</a>, <a href="/wiki/Elphias_Doge" title="Elphias Doge">Elphias Doge</a> and the <a href="/wiki/Lupin_family" title="Lupin family">Lupins</a></p> 		 	</figcaption> </figure>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Apolline_Delacour?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Apolline_Delacour?action=edit&amp;section=4" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i>Apolline</i> is the French version of the name <i>Apollonia</i>, derived from Apollo, the Greek god of the sun, prophecy, music and beauty.</li>
+<li><i>De la cour</i> is French for "of the court" (royal).</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Apolline_Delacour?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Apolline_Delacour?action=edit&amp;section=5" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire" title="Harry Potter and the Goblet of Fire">Harry Potter and the Goblet of Fire</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire_(film)" title="Harry Potter and the Goblet of Fire (film)">Harry Potter and the Goblet of Fire (film)</a></i> <span class="template-c">(Possibly)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">Harry Potter and the Deathly Hallows</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1" title="Harry Potter and the Deathly Hallows: Part 1">Harry Potter and the Deathly Hallows: Part 1</a></i></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter:_Years_5-7" title="LEGO Harry Potter: Years 5-7">LEGO Harry Potter: Years 5-7</a></i> <span class="template-c">(As "Madame Delacour")</span> <span class="template-c">(DS version)</span></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Apolline_Delacour?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Apolline_Delacour?action=edit&amp;section=6" title="Edit section: Notes and references

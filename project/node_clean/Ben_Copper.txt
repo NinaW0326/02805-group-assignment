@@ -1,0 +1,298 @@
+<div class="mw-parser-output"><table class="notice metadata" id="spoiler" style="text-align: center; background: beige; margin: 1em 05%; padding: 0 1em; border: #a00 1px solid;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/8/8c/Hogwarts_Mystery.jpeg/revision/latest?cb=20180504083359" class="image"><img alt="Hogwarts Mystery.jpeg" src="https://static.wikia.nocookie.net/harrypotter/images/8/8c/Hogwarts_Mystery.jpeg/revision/latest/scale-to-width-down/175?cb=20180504083359" decoding="async" width="175" height="77" data-image-name="Hogwarts Mystery.jpeg" data-image-key="Hogwarts_Mystery.jpeg" /></a>
+</td>
+<td><b>Warning!</b>
+<p>At least some content in this article is derived from information featured in <i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i>. Spoilers will be present within the article.
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-gryffindor pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/1/11/HM_friendships_Ben_Copper.png/revision/latest?cb=20180711035858" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/1/11/HM_friendships_Ben_Copper.png/revision/latest/scale-to-width-down/328?cb=20180711035858" srcset="https://static.wikia.nocookie.net/harrypotter/images/1/11/HM_friendships_Ben_Copper.png/revision/latest/scale-to-width-down/328?cb=20180711035858 1x, https://static.wikia.nocookie.net/harrypotter/images/1/11/HM_friendships_Ben_Copper.png/revision/latest/scale-to-width-down/656?cb=20180711035858 2x" class="pi-image-thumbnail" alt="" width="270" height="270"
+		     data-image-key="HM_friendships_Ben_Copper.png" data-image-name="HM friendships Ben Copper.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Ben Copper</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">between <a href="/wiki/1_September" title="1 September">1 September</a> <a href="/wiki/1972" title="1972">1972</a> and <a href="/wiki/31_August" title="31 August">31 August</a> <a href="/wiki/1973" title="1973">1973</a>, <a href="http://en.wikipedia.org/wiki/Newcastle_upon_Tyne" class="extiw" title="wikipedia:Newcastle upon Tyne">Newcastle upon Tyne</a><sup class="noprint">&#91;<a href="http://en.wikipedia.org/wiki/Wikipedia:Citing_sources" class="extiw" title="wikipedia:Wikipedia:Citing sources"><i><span title="The material in the vicinity of this tag needs references to reliable sources." style="white-space: nowrap;">citation needed</span></i></a>&#93;</sup>, <a href="http://en.wikipedia.org/wiki/Tyne_and_Wear" class="extiw" title="wikipedia:Tyne and Wear">Tyne and Wear</a>, <a href="/wiki/England" title="England">England</a>, <a href="/wiki/Great_Britain" title="Great Britain">United Kingdom</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Muggle-born" title="Muggle-born">Muggle-born</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/England" title="England">English</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Blond</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Brown</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Light</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Ben_Copper%27s_father" title="Ben Copper&#039;s father">Father</a></li><li><a href="/wiki/Ben_Copper%27s_mother" title="Ben Copper&#039;s mother">Mother</a></li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="house">
+	
+		<h3 class="pi-data-label pi-secondary-font">House</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Gryffindor" title="Gryffindor">Gryffindor</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a><ul><li><a href="/wiki/Gryffindor" title="Gryffindor">Gryffindor</a></li><li><a href="/wiki/Astronomy_Club" title="Astronomy Club">Astronomy Club</a></li></ul></li><li><a href="/wiki/Circle_of_Khanna" title="Circle of Khanna">Circle of Khanna</a><sup id="cite_ref-HM620_1-0" class="reference"><a href="#cite_note-HM620-1">&#91;1&#93;</a></sup></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Ben Copper</b> was an <a href="/wiki/England" title="England">English</a> <a href="/wiki/Muggle-born" title="Muggle-born">Muggle-born</a> <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> who began attending <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> in <a href="/wiki/1984" title="1984">1984</a> and was Sorted into <a href="/wiki/Gryffindor" title="Gryffindor">Gryffindor</a> house.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_life"><span class="tocnumber">1.1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Hogwarts_years_.281984-1991.29"><span class="tocnumber">1.2</span> <span class="toctext">Hogwarts years <span>(1984-1991)</span></span></a>
+<ul>
+<li class="toclevel-3 tocsection-4"><a href="#First_year"><span class="tocnumber">1.2.1</span> <span class="toctext">First year</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#Second_year"><span class="tocnumber">1.2.2</span> <span class="toctext">Second year</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Third_year"><span class="tocnumber">1.2.3</span> <span class="toctext">Third year</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#Fourth_year"><span class="tocnumber">1.2.4</span> <span class="toctext">Fourth year</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="#Sixth_Year"><span class="tocnumber">1.2.5</span> <span class="toctext">Sixth Year</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Personality_and_traits"><span class="tocnumber">2</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Magical_abilities_and_skills"><span class="tocnumber">3</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Behind_the_scenes"><span class="tocnumber">4</span> <span class="toctext">Behind the scenes</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#Playing_Gobstones"><span class="tocnumber">4.1</span> <span class="toctext">Playing Gobstones</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Having_Lunch"><span class="tocnumber">4.2</span> <span class="toctext">Having Lunch</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#Appearances"><span class="tocnumber">5</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Notes_and_references"><span class="tocnumber">6</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Ben_Copper?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Ben_Copper?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Ben_Copper?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Early life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Ben_Copper?action=edit&amp;section=2" title="Edit section: Early life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Ben Copper was born to <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> parents in <a href="/wiki/Great_Britain" title="Great Britain">Great Britain</a> in late <a href="/wiki/1972" title="1972">1972</a> or <a href="/wiki/1973" title="1973">1973</a>. He lived with his parents. A <a href="/wiki/Ghost" title="Ghost">ghost</a> also resided at his home, and Ben was the only one who could see it, being a wizard.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p>
+<h3><span id="Hogwarts_years_(1984-1991)"></span><span class="mw-headline" id="Hogwarts_years_.281984-1991.29">Hogwarts years <span class="template-c">(1984-1991)</span></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Ben_Copper?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Hogwarts years (1984-1991)">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Ben_Copper?action=edit&amp;section=3" title="Edit section: Hogwarts years (1984-1991)"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="First_year">First year</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Ben_Copper?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: First year">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Ben_Copper?action=edit&amp;section=4" title="Edit section: First year"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Ben began attending <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> in <a href="/wiki/1984" title="1984">1984</a>. On journey on the <a href="/wiki/Hogwarts_Express" title="Hogwarts Express">Hogwarts Express</a>, he was tormented the entire time by <a href="/wiki/Merula_Snyde" title="Merula Snyde">Merula Snyde</a>, who kept threatening him and calling him a "<a href="/wiki/Mudblood" title="Mudblood">Mudblood</a>."
+</p><p>He was later <a href="/wiki/Sorting_ceremony" title="Sorting ceremony">sorted</a> into <a href="/wiki/Gryffindor" title="Gryffindor">Gryffindor</a>. As a result of Merula's bullying, he spent his first days at Hogwarts following her around, hoping this would prevent her from sneaking up on him, or give him a chance to run away if she did.<sup class="noprint">&#91;<a href="http://en.wikipedia.org/wiki/Wikipedia:Citing_sources" class="extiw" title="wikipedia:Wikipedia:Citing sources"><i><span title="The material in the vicinity of this tag needs references to reliable sources." style="white-space: nowrap;">citation needed</span></i></a>&#93;</sup> This coupled with the fact that, as a <a href="/wiki/Muggle-born" title="Muggle-born">Muggle-born</a>, he found the <a href="/wiki/Wizarding_world" title="Wizarding world">wizarding world</a> new and scary, made him think he did not belong in Gryffindor. One of his fears was <a href="/wiki/Flight" title="Flight">flying</a>, which <a href="/wiki/Jacob%27s_sibling" title="Jacob&#39;s sibling">Jacob's sibling</a> later helped him overcome.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> Ben became particularly skilled in <a href="/wiki/Charms_(class)" title="Charms (class)">Charms</a> whilst studying.
+</p><p>Due to Merula’s bullying he asked the prefect to teach him how to duel with the help of Jacob’s sibling. Jacob’s sibling duelled him to teach.
+</p>
+<h4><span class="mw-headline" id="Second_year">Second year</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Ben_Copper?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Second year">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Ben_Copper?action=edit&amp;section=5" title="Edit section: Second year"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Ben went missing at the beginning of the <a href="/wiki/1985%E2%80%931986_school_year" title="1985–1986 school year">1985–1986 school year</a>. Having last been seen on the Hogwarts Express, <a href="/wiki/Rowan_Khanna" title="Rowan Khanna">Rowan Khanna</a> and Jacob's sibling went looking for him in the <a href="/wiki/Artefact_Room" title="Artefact Room">Artefact Room</a>, where they found a note with a code written by a person named R, instructing the reader to go to one of the Hogwarts <a href="/wiki/Common_room" title="Common room">common rooms</a> and untransfigured a Black Quill to a note with the next hint. They believed that the note was intended for Ben.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p><p>Ben was later found on a fifth-floor corridor, later to be known as the <a href="/wiki/Icy_Corridor" title="Icy Corridor">Icy Corridor</a>, trapped in <a href="/wiki/Cursed_ice" title="Cursed ice">cursed ice</a>, and was freed by Professors <a href="/wiki/Minerva_McGonagall" title="Minerva McGonagall">McGonagall</a> and <a href="/wiki/Severus_Snape" title="Severus Snape">Snape</a>, and taken to the <a href="/wiki/Hospital_Wing" title="Hospital Wing">Hospital Wing</a>. He told his friends that he couldn't remember how he got to the corridor.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p><p>After being released from the hospital wing, Ben assisted Jacob's sibling in finding <a href="/wiki/Dragon_horn" title="Dragon horn">dragon horns</a> for <a href="/wiki/Rubeus_Hagrid" title="Rubeus Hagrid">Hagrid</a>'s <a href="/wiki/Fire-Breathing_Potion" title="Fire-Breathing Potion">Fire-Breathing Potion</a>. Ben kept some powdered dragon horn in the Artefact Room, where he recurrently used to hide from <a href="/wiki/Merula_Snyde" title="Merula Snyde">Merula</a> and other students.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p><p>When Jacob's sibling and <a href="/wiki/William_Weasley" title="William Weasley">Bill Weasley</a> unsuccessfully attempted to enter the <a href="/wiki/Vault_of_Ice" title="Vault of Ice">Vault of Ice</a>, Jacob's sibling helped Ben learn to make <a href="/wiki/Burn-Healing_Paste" title="Burn-Healing Paste">Burn-Healing Paste</a> in <a href="/wiki/Potions_(class)" title="Potions (class)">Potions</a> in preparation for their next try at the vaults.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="Third_year">Third year</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Ben_Copper?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Third year">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Ben_Copper?action=edit&amp;section=6" title="Edit section: Third year"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In his third year, Ben took <a href="/wiki/Care_of_Magical_Creatures" title="Care of Magical Creatures">Care of Magical Creatures</a><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> and <a href="/wiki/Arithmancy_(class)" title="Arithmancy (class)">Arithmancy</a><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> as electives.
+</p><p>During the <a href="/wiki/1986%E2%80%931987_school_year" title="1986–1987 school year">1986–1987 school year</a>, Ben helped Jacob's sibling, who was helping <a href="/wiki/Rubeus_Hagrid" title="Rubeus Hagrid">Rubeus Hagrid</a>, look for <a href="/wiki/Fang" title="Fang">Fang</a> in the <a href="/wiki/Artefact_Room" title="Artefact Room">Artefact Room</a>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="Fourth_year">Fourth year</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Ben_Copper?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Fourth year">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Ben_Copper?action=edit&amp;section=7" title="Edit section: Fourth year"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>During the <a href="/wiki/1987%E2%80%931988_school_year" title="1987–1988 school year">1987–1988 school year</a>, Ben<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> sent a a fake letter to Jacob's sibling telling them to meet <a href="/wiki/Silvanus_Kettleburn" title="Silvanus Kettleburn">Silvanus Kettleburn</a>, which was actually a bait to lure them to the <a href="/wiki/Courtyard" title="Courtyard">Courtyard</a>, where, while wearing a red cloak and using a <a href="/wiki/Disillusionment_Charm" title="Disillusionment Charm">Disillusionment Charm</a> to conceal his face, attacked them with the <a href="/wiki/Full_Body-Bind_Curse" title="Full Body-Bind Curse">Full Body-Bind Curse</a> and told them to stay away from the <a href="/wiki/Cursed_Vaults" title="Cursed Vaults">Cursed Vaults</a>, the <a href="/wiki/Forbidden_Forest" title="Forbidden Forest">Forbidden Forest</a> and <a href="/wiki/Patricia_Rakepick" title="Patricia Rakepick">Patricia Rakepick</a>, further adding that "death is coming to Hogwarts" and that may come to them as well if they disobey. He then told them that someone would eventually remove the binding curse, but it is unknown who did so.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup> After freed, Jacob's sibling only told about this incident to a few friends.
+</p><p>He later confronted <a href="/wiki/Jacob%27s_sibling" title="Jacob&#39;s sibling">Jacob's sibling</a> in the Courtyard when they were about to go meet <a href="/wiki/Rubeus_Hagrid" title="Rubeus Hagrid">Hagrid</a> before heading to the <a href="/wiki/Forest_Vault" title="Forest Vault">Forest Vault</a>. He told them that "death" had come or them and duelled them, gaining the upper hand before being prevented from killing Jacob's sibling by <a href="/wiki/Patricia_Rakepick" title="Patricia Rakepick">Madam Rakepick</a> who knocked Ben back with a <a href="/wiki/Spell" title="Spell">spell</a> before Jacob's sibling removed the <a href="/wiki/Disillusionment_Charm" title="Disillusionment Charm">Disillusionment Charm</a> hiding Ben's face, exposing him to his shocked friend. He claimed he could not remember anything and claimed to Jacob's sibling that he would never attack them. Jacob's sibling then told <a href="/wiki/Patricia_Rakepick" title="Patricia Rakepick">Madam Rakepick</a> to send him to either <a href="/wiki/Poppy_Pomfrey" title="Poppy Pomfrey">Madam Pomfrey</a> in the Hospital Wing, <a href="/wiki/Argus_Filch" title="Argus Filch">Argus Filch</a> or to the <a href="/wiki/Headmaster%27s_Office" title="Headmaster&#39;s Office">Headmaster's Office</a> to let Headmaster <a href="/wiki/Albus_Dumbledore" title="Albus Dumbledore">Dumbledore</a> found out the truth before going off to meet Hagrid.<sup id="cite_ref-HM4_13-0" class="reference"><a href="#cite_note-HM4-13">&#91;13&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="Sixth_Year">Sixth Year</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Ben_Copper?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Sixth Year">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Ben_Copper?action=edit&amp;section=8" title="Edit section: Sixth Year"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h4><p>
+Sometime during the school year, Ben, along with <a href="/wiki/Jacob%27s_sibling" title="Jacob&#39;s sibling">Jacob's sibling</a> and <a href="/wiki/Merula_Snyde" title="Merula Snyde">Merula Snyde</a>, went into the <a href="/wiki/Forest_Grove" title="Forest Grove">Forest Grove</a> to intercept a possible meeting between <a href="/wiki/Jacob_(Hogwarts_student)" title="Jacob (Hogwarts student)">Jacob</a>, the formers brother, and <a href="/wiki/R" title="R">R</a>, unknowingly being followed from a close distance behind them by their freind, <a href="/wiki/Rowan_Khanna" title="Rowan Khanna">Rowan Khanna</a>. During the search, a swarm of <a href="/wiki/Dementor" title="Dementor">dementors</a> showed up, and circled the group. The three began to cast <a href="/wiki/Patronus_Charm" title="Patronus Charm">Patronuses</a>, however the patronuses were unsuccessful, as there were too many dementors. The <a href="/wiki/Dark_Wizard" title="Dark Wizard">Dark Witch</a> <a href="/wiki/Patricia_Rakepick" title="Patricia Rakepick">Patricia Rakepick</a> then <a href="/wiki/Apparition" title="Apparition">apparated</a> into the vicinity and cast a powerful Patronus Charm, which warded off all of the dementors. </p><figure class="thumb tleft show-info-icon" style="width: 252px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/5/51/Duel_in_the_Forest_Grove.gif/revision/latest?cb=20200311235618" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/5/51/Duel_in_the_Forest_Grove.gif/revision/latest/scale-to-width-down/250?cb=20200311235618" decoding="async" width="250" height="141" class="thumbimage" data-image-name="Duel in the Forest Grove.gif" data-image-key="Duel_in_the_Forest_Grove.gif" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Duel_in_the_Forest_Grove.gif" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Ben duelling Rakepick.</p> 		 	</figcaption> </figure><p> She then engaged in a duel with the students, which was watched by Rowan. At some point in the duel, she cast a <a href="/wiki/Killing_Curse" title="Killing Curse">Killing Curse</a> at Ben, intending to kill him. However, Rowan sacrificed their life by jumping in front of Ben, ending their life and saving that of their friends. Ben greatly grieved over the loss, prompting him to want to join Jacob's Sibling and Merula in forming an organisation to combat <a href="/wiki/R" title="R">R</a>. The three then created the group and met up with members in the <a href="/wiki/Hog%27s_Head_Inn" title="Hog&#39;s Head Inn">Hog's Head Inn</a>, where Ben suggested "<a href="/wiki/Circle_of_Khanna" title="Circle of Khanna">Circle of Khanna</a>" as a group name, which was agreed upon by the group. Following the formation of the group, Ben tirelessly worked to improve his skills in combat, greatly wanting to avenge Rowan by fighting R.
+</p><h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Ben_Copper?veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Edit section: Personality and traits">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Ben_Copper?action=edit&amp;section=9" title="Edit section: Personality and traits"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tright show-info-icon" style="width: 252px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/f/f5/Ben_Copper.jpeg/revision/latest?cb=20180603215957" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/f/f5/Ben_Copper.jpeg/revision/latest/scale-to-width-down/250?cb=20180603215957" decoding="async" width="250" height="425" class="thumbimage" data-image-name="Ben Copper.jpeg" data-image-key="Ben_Copper.jpeg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Ben_Copper.jpeg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Ben Copper</p> 		 	</figcaption> </figure>
+<p>Ben was very insecure about his capabilities. He also feared that people would judge him because of his Muggle-born status. It is also shown that his nervousness is his greatest hold back with his magic, since he was able to completely trounce, and almost kill, Jacob's sibling while not even thinking about it.
+</p><p>Late in his fifth year, Ben got a desire to be more brave.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup> In his sixth year, Ben had a notable change in personality. He was no longer openly scared of everything, and considered himself to be a better person than before. He also saw himself as more grown-up, not attending the <a href="/wiki/Start-of-Term_Feast" title="Start-of-Term Feast">Start-of-Term Feast</a> because he considered it to be for kids.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup> Ultimately, however, the real reason behind his change of personality was to protect his friends, even if he became distant towards them and focused more on his training, and he showed how much he cared for them when he bravely fought Rakepick and stood up even after being knocked down to protect Jacob's sibling and Merula to the point that Rakepick acknowledged how far Ben had grew and proved himself a true Gryffindor and was devastated by Rowan's death to the point of being left numb and even more determined to improve his skills to protect his remaining friends.
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Ben_Copper?veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Ben_Copper?action=edit&amp;section=10" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>While noted for his gift in charms, Ben Copper was seldom counted among one of the more powerful or skilful students in Jacob's siblings band of misfits, let alone at Hogwarts as a whole. It would turn out, however, that only his lack of confidence held him back, seen as how Ben, when not restricted by it, used <a href="/wiki/Magic" title="Magic">magic</a> far beyond his educational level, being able to defeat Jacob's sibling, a powerful wizard themselves for their age in a duel to the <a href="/wiki/Death" title="Death">death</a> and likely would, if not for the timely arrival of Patricia Rakepick, have killed them.
+</p>
+<ul><li><b><a href="/wiki/Charm" title="Charm">Charms</a></b>: Ben had a natural ability in charms work, excelling in the <a href="/wiki/Charms_(class)" title="Charms (class)">subject</a> and was able to cast charms of great power and complexity when not held back by his own insecurities.</li>
+<li><b><a href="/wiki/Non-verbal_magic" class="mw-redirect" title="Non-verbal magic">Non-verbal magic</a></b>: Ben was remarkably proficient in casting non-verbal magic, notably being able to briefly hold his own in a ferocious duel against the incredibly powerful <a href="/wiki/Patricia_Rakepick" title="Patricia Rakepick">Patricia Rakepick</a> with a series of non-verbally performed spells, although he was ultimately overpowered by the malevolent witch.</li>
+<li><b><a href="/wiki/Duelling" title="Duelling">Duelling</a></b>: When duelling to the best of his ability, not restricted by worries of the outcome or having his efforts coloured by whom he was competing against and his concerns of their potentially superior ability, Ben made for an incredibly dangerous duellist for someone his age. He was able to floor Jacob's sibling, a powerful and skilled duellist themselves for their age, with a <a href="/wiki/Banishing_Charm" title="Banishing Charm">Banishing Charm</a> so powerful it broke straight through their <a href="/wiki/Shield_Charm" title="Shield Charm">Shield Charm</a> and knocked them to the ground. He was also able to cast a surprisingly effective <a href="/wiki/Full_Body-Bind_Curse" title="Full Body-Bind Curse">Full Body-Bind Curse</a>, which paralysed Jacob's sibling and further showcasing his talent for performing <a href="/wiki/Martial_magic" title="Martial magic">martial magic</a>. When confronted and attacked by the immensely formidable <a href="/wiki/Patricia_Rakepick" title="Patricia Rakepick">Patricia Rakepick</a> in his sixth year, he was able to briefly hold his own against the dark witch, performing many of his spells both flawlessly and non-verbally. He was notably able to last much longer against Rakepick than either of his accomplices, <a href="/wiki/Jacob%27s_sibling" title="Jacob&#39;s sibling">Jacob's sibling</a> and <a href="/wiki/Merula_Snyde" title="Merula Snyde">Merula Snyde</a>, both of whom were one of the most powerful duellists of their year and both of whom were swifly dispatched by her. Ben was, however, ultimately overpowered by the malevolent witch after a prolonged battle and would have been killed by her had it not been for <a href="/wiki/Rowan_Khanna" title="Rowan Khanna">Rowan Khanna</a> pushing him out of the path of Rakepick's <a href="/wiki/Killing_Curse" title="Killing Curse">Killing Curse</a> and taking the hit themselves, thus selflessly sacrificing their own life for him.</li>
+<li><a href="/wiki/Defence_Against_the_Dark_Arts" title="Defence Against the Dark Arts"><b>Defence Against the Dark Arts</b></a>: Ben was skilled in Defence Against the Dark Arts, as he was able to study it further at N.E.W.T.-level, thus showing aptitude in the subject.</li>
+<li><b><a href="/wiki/Astronomy_(class)" title="Astronomy (class)">Astronomy</a></b>: Ben was skilled in Astronomy, as he was able to study it further at N.E.W.T.-level, thus showing aptitude in the subject.</li>
+<li><b><a href="/wiki/Healing_magic" title="Healing magic">Healing Magic:</a> </b>Ben has some basic knowledge in Healing Magic as he was able to successfully cast the Healing spell <a href="/wiki/Episkey" title="Episkey">Episkey</a>.</li>
+<li><b><a href="/wiki/Dark_Arts" title="Dark Arts">Dark Arts</a></b>: Though seldom a practitioner of the Dark Arts, Ben was nonetheless surprisingly adept in its usage in duels, being able to successfully cast a vast array of dark charms such as the <a href="/wiki/Knockback_Jinx" title="Knockback Jinx">Knockback Jinx</a>, the <a href="/wiki/Full_Body-Bind_Curse" title="Full Body-Bind Curse">Full Body-Bind Curse</a>, the <a href="/wiki/Ear-Shrivelling_Curse" title="Ear-Shrivelling Curse">Ear-Shrivelling Curse</a>,..etc.</li>
+<li><b><a href="/wiki/Potion" title="Potion">Potions</a></b>: Ben mentions in his 6th year that he wants to become a Curse-Breaker, which means that he most likely studied Potions further at N.E.W.T.-level, as it is a prerequisite to become one.</li>
+<li><b><a href="/wiki/Transfiguration" title="Transfiguration">Transfiguration</a></b>: Ben mentions in his 6th year that he wants to become a Curse-Breaker, which means that he most likely studied Transfiguration further at N.E.W.T.-level, as it is a prerequisite to become one.</li>
+<li><b><a href="/wiki/Arithmancy" title="Arithmancy">Arithmancy</a></b>: Ben mentions in his 6th year that he wants to become a Curse-Breaker, which means that he most likely studied Arithmancy further at N.E.W.T.-level, as it is a prerequisite to become one and Jacob's sibling mentions that Ben really enjoyed this subject.</li></ul>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Ben_Copper?veaction=edit&amp;section=11" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Ben_Copper?action=edit&amp;section=11" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tright show-info-icon" style="width: 252px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/5/53/Tumblr_paenp9M5wB1xsrhpso2_1280.png/revision/latest?cb=20180629152451" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="250" height="397" class="thumbimage lazyload" data-image-name="Tumblr paenp9M5wB1xsrhpso2 1280.png" data-image-key="Tumblr_paenp9M5wB1xsrhpso2_1280.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/5/53/Tumblr_paenp9M5wB1xsrhpso2_1280.png/revision/latest/scale-to-width-down/250?cb=20180629152451" /></a> 	<noscript><a href="https://static.wikia.nocookie.net/harrypotter/images/5/53/Tumblr_paenp9M5wB1xsrhpso2_1280.png/revision/latest?cb=20180629152451" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/5/53/Tumblr_paenp9M5wB1xsrhpso2_1280.png/revision/latest/scale-to-width-down/250?cb=20180629152451" decoding="async" width="250" height="397" class="thumbimage" data-image-name="Tumblr paenp9M5wB1xsrhpso2 1280.png" data-image-key="Tumblr_paenp9M5wB1xsrhpso2_1280.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/5/53/Tumblr_paenp9M5wB1xsrhpso2_1280.png/revision/latest/scale-to-width-down/250?cb=20180629152451" /></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Tumblr_paenp9M5wB1xsrhpso2_1280.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Ben Copper's clothing item</p> 		 	</figcaption> </figure>
+<ul><li>In <i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i>, Ben is unlocked as a friend upon the completion of Chapter 4 of Year 1.
+<ul><li>Upon reaching maximum friendship at level 10 with Ben, a unique clothing item is gifted to the player: Icy robes.</li></ul></li></ul>
+<h3><span class="mw-headline" id="Playing_Gobstones">Playing Gobstones</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Ben_Copper?veaction=edit&amp;section=12" class="mw-editsection-visualeditor" title="Edit section: Playing Gobstones">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Ben_Copper?action=edit&amp;section=12" title="Edit section: Playing Gobstones"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="notice metadata" id="cleanup" align="center" cellpadding="3px" style="text-align: center; background: #efefff; border: #9F9FFF 1px solid;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/1/14/Dumbledore_fix.png/revision/latest?cb=20200413010017" class="image"><img alt="Dumbledore fix.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="60" height="79" data-image-name="Dumbledore fix.png" data-image-key="Dumbledore_fix.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/1/14/Dumbledore_fix.png/revision/latest/scale-to-width-down/60?cb=20200413010017" class="lazyload" /></a>
+</td>
+<td><i><b>"Well, I think we should put it back in order for them, don't you?"</b></i>
+<p>This article or section needs to be <b>cleaned up</b> to conform to a higher standard of quality.<br /><span class="template-c">See <a href="https://community.fandom.com/wiki/Help:Editing" title="Help:Editing">How to Edit</a> for help, or this article's <a href="https://harrypotter.fandom.com/wiki/Talk:Ben_Copper" class="extiw" title="en:Talk:Ben Copper">Talk Page</a>.</span>
+</p>
+</td></tr></tbody></table><p><b>What if I lose?</b>
+</p><ul><li>✔➕ We won't be friends.</li>
+<li>✔ You'll get sprayed.</li>
+<li>✘ We can always play again.</li></ul>
+<p><b>This next move is my favourite...</b>
+</p>
+<ul><li>✔ What's your favourite <a href="/wiki/Poison" title="Poison">poison</a>?</li>
+<li>✘ What's your favourite holiday?</li>
+<li>✔➕ What's your favourite <a href="/wiki/Dragon" title="Dragon">Dragon</a>?</li></ul>
+<p><b>Don't try to make me nervous...</b>
+</p>
+<ul><li>✔➕ What if the game is <a href="/wiki/Curse" title="Curse">cursed</a>?</li>
+<li>✔ What if we both lose.</li>
+<li>✘ Let's just stay calm.</li></ul>
+<p><b>How do you like Gobstones?</b>
+</p>
+<ul><li>✔➕ Let's talk about <a href="/wiki/Tom_Riddle" title="Tom Riddle">You-Know-Who</a>.</li>
+<li>✔ It makes me nervous.</li>
+<li>✘ It is relaxing.</li></ul>
+<p><b>Let's join the Gobstones Club...</b>
+</p>
+<ul><li>✔➕ Let's join the <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a>.</li>
+<li>✔ Let's join the <a href="/wiki/Frog_Choir" title="Frog Choir">Frog Choir</a>.</li>
+<li>✘ Let's just take it easy.</li></ul>
+<p><b>Let's play, _______!</b>
+</p>
+<ul><li>✔➕ Don't look behind you!</li>
+<li>✔ Don't feel bad if you lose.</li>
+<li>✘ This is going to be fun.</li></ul>
+<h3><span class="mw-headline" id="Having_Lunch">Having Lunch</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Ben_Copper?veaction=edit&amp;section=13" class="mw-editsection-visualeditor" title="Edit section: Having Lunch">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Ben_Copper?action=edit&amp;section=13" title="Edit section: Having Lunch"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><b>What creature do I fear the most?</b>
+</p>
+<ul><li>✔➕ <a href="/wiki/Acromantula" title="Acromantula">Acromantula</a>.</li>
+<li>✔ <a href="/wiki/Fire_crab" class="mw-redirect" title="Fire crab">Fire crab</a>.</li>
+<li>✘ <a href="/wiki/Mooncalf" title="Mooncalf">Mooncalf</a>.</li></ul>
+<p><b>What joke item do I fear the most?</b>
+</p>
+<ul><li>✔➕ <a href="/wiki/Fanged_Frisbee" title="Fanged Frisbee">Fanged Frisbee</a>.</li>
+<li>✔ <a href="/wiki/Nose-Biting_Teacup" title="Nose-Biting Teacup">Nose-Biting Teacup</a>.</li>
+<li>✘ <a href="/wiki/Whizzing_Worms" title="Whizzing Worms">Whizzing Worms</a>.</li></ul>
+<p><b>Which place do I fear the most?</b>
+</p>
+<ul><li>✔➕ <a href="/wiki/Azkaban" title="Azkaban">Azkaban</a>.</li>
+<li>✔ <a href="/wiki/Forbidden_Forest" title="Forbidden Forest">Forbidden Forest</a>.</li>
+<li>✘ <a href="/wiki/Hogsmeade" title="Hogsmeade">Hogsmeade</a>.</li></ul>
+<p><b>Which potion do I fear the most?</b>
+</p>
+<ul><li>✔➕ <a href="/wiki/Weedosoros" title="Weedosoros">Weedosoros</a>.</li>
+<li>✔ <a href="/wiki/Fire-Breathing_Potion" title="Fire-Breathing Potion">Fire-Breathing Potion</a>.</li>
+<li>✘ <a href="/wiki/Polyjuice_Potion" title="Polyjuice Potion">Polyjuice Potion</a>.</li></ul>
+<p><b>You might win...</b>
+</p>
+<ul><li>✔➕ I might be a <a href="/wiki/Werewolf" title="Werewolf">werewolf</a>.</li>
+<li>✔ I might scream.</li>
+<li>✘ Either way, we're having fun.</li></ul>
+<p><b>What's my favourite creature?</b>
+</p>
+<ul><li>✔➕ <a href="/wiki/Puffskein" title="Puffskein">Puffskein</a></li>
+<li>✔ <a href="/wiki/Mooncalf" title="Mooncalf">Mooncalf</a></li>
+<li>✘ <a href="/wiki/Runespoor" title="Runespoor">Runespoor</a></li></ul>
+<p><b>What's my favourite food?</b>
+</p>
+<ul><li>✔➕ <a href="/wiki/Chips" title="Chips">Chips</a></li>
+<li>✔ <a href="/wiki/Garlic_bread" title="Garlic bread">Garlic bread</a></li>
+<li>✘ <a href="/wiki/Steak_and_kidney_pie" title="Steak and kidney pie">Steak and kidney pie</a></li></ul>
+<p><b>What's my favourite drink?</b>
+</p>
+<ul><li>✔➕ <a href="/wiki/Butterbeer" title="Butterbeer">Butterbeer</a></li>
+<li>✔ <a href="/wiki/Pumpkin_Juice" title="Pumpkin Juice">Pumpkin Juice</a></li>
+<li>✘ <a class="new" title="Exploding Lemonade (page does not exist)" rel="nofollow" data-uncrawlable-url="L3dpa2kvRXhwbG9kaW5nX0xlbW9uYWRlP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">Exploding Lemonade</a></li></ul>
+<p><b>What's my favourite pet?</b>
+</p>
+<ul><li>✔➕ <a href="/wiki/Toad" title="Toad">Toad</a></li>
+<li>✔ <a href="/wiki/Cat" title="Cat">Cat</a></li>
+<li>✘ <a href="/wiki/Rat" title="Rat">Rat</a></li></ul>
+<p><b>What's my favourite sweet?</b>
+</p>
+<ul><li>✔➕ <a href="/wiki/Treacle_fudge" title="Treacle fudge">Treacle toffee</a></li>
+<li>✔ <a href="/wiki/Sugar_Quill" title="Sugar Quill">Sugar Quills</a></li>
+<li>✘ <a href="/wiki/Acid_Pops" title="Acid Pops">Acid Pops</a></li></ul>
+<p><b>Who's my favourite classmate?</b>
+</p>
+<ul><li>✔➕ <a href="/wiki/Jacob%27s_sibling" title="Jacob&#39;s sibling">Me</a></li>
+<li>✔ <a href="/wiki/Penny_Haywood" title="Penny Haywood">Penny Haywood</a></li>
+<li>✘ <a href="/wiki/Merula_Snyde" title="Merula Snyde">Merula Snyde</a></li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Ben_Copper?veaction=edit&amp;section=14" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Ben_Copper?action=edit&amp;section=14" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" class="lazyload" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 30 images related to <i><b><a href="/wiki/Category:Images_of_Ben_Copper" title="Category:Images of Ben Copper">Ben Copper</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<ul><li><i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Ben_Copper?veaction=edit&amp;section=15" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Ben_Copper?action=edit&amp;section=15" title="Edit section: Notes and references

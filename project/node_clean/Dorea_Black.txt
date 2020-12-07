@@ -1,0 +1,150 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-slytherin pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/5/50/Dorea_Black_5.jpg/revision/latest?cb=20141120142310" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/5/50/Dorea_Black_5.jpg/revision/latest/scale-to-width-down/169?cb=20141120142310" srcset="https://static.wikia.nocookie.net/harrypotter/images/5/50/Dorea_Black_5.jpg/revision/latest/scale-to-width-down/169?cb=20141120142310 1x, https://static.wikia.nocookie.net/harrypotter/images/5/50/Dorea_Black_5.jpg/revision/latest/scale-to-width-down/338?cb=20141120142310 2x" class="pi-image-thumbnail" alt="" width="169" height="250"
+		     data-image-key="Dorea_Black_5.jpg" data-image-name="Dorea Black 5.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Dorea Potter (née Black)</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/1920" title="1920">1920</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/1977" title="1977">1977</a> (aged 57)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Pure-blood" title="Pure-blood">Pure-blood</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="marital">
+	
+		<h3 class="pi-data-label pi-secondary-font">Marital status</h3>
+	
+	<div class="pi-data-value pi-font">Married</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a> or <a href="/wiki/Ireland" title="Ireland">Irish</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Blonde<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Pale</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Phineas_Nigellus_Black" title="Phineas Nigellus Black">Phineas Nigellus Black</a> (paternal grandfather) †</li><li><a href="/wiki/Ursula_Flint" title="Ursula Flint">Ursula Flint</a> (paternal grandmother)</li><li><a href="/wiki/Cygnus_Black_II" title="Cygnus Black II">Cygnus Black II</a> (father) †</li><li><a href="/wiki/Violetta_Bulstrode" title="Violetta Bulstrode">Violetta Bulstrode</a> (mother)</li><li><a href="/wiki/Henry_Potter%27s_mother" title="Henry Potter&#039;s mother">Henry Potter's mother</a> (possible mother-in-law) †</li><li><a href="/wiki/Henry_Potter" title="Henry Potter">Henry Potter</a> (possible brother-in-law) †</li><li><a href="/wiki/Pollux_Black" title="Pollux Black">Pollux Black</a> (brother) †</li><li><a href="/wiki/Irma_Crabbe" title="Irma Crabbe">Irma Crabbe</a> (sister-in-law)</li><li><a href="/wiki/Cassiopeia_Black" title="Cassiopeia Black">Cassiopeia Black</a> (sister) †</li><li><a href="/wiki/Marius_Black" title="Marius Black">Marius Black</a> (brother)</li><li><a href="/wiki/Charlus_Potter" title="Charlus Potter">Charlus Potter</a> (husband) †</li><li><a href="/wiki/Charlus_Potter%27s_Son" class="mw-redirect" title="Charlus Potter&#039;s Son">Son</a></li><li><a href="/wiki/Walburga_Black" title="Walburga Black">Walburga Black</a> (niece) †</li><li><a href="/wiki/Cygnus_Black_III" title="Cygnus Black III">Cygnus Black III</a> (nephew) †</li><li><a href="/wiki/Alphard_Black" title="Alphard Black">Alphard Black</a> (nephew) †</li><li><a href="/wiki/House_of_Black" title="House of Black">Black family</a></li><li><a href="/wiki/Potter_family" title="Potter family">Potter family</a></li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="house">
+	
+		<h3 class="pi-data-label pi-secondary-font">House</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Slytherin" title="Slytherin">Slytherin</a><sup id="cite_ref-slytherin_3-0" class="reference"><a href="#cite_note-slytherin-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/House_of_Black" title="House of Black">House of Black</a></li><li><a href="/wiki/Potter_family" title="Potter family">Potter family</a></li><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a><ul><li><a href="/wiki/Slytherin" title="Slytherin">Slytherin</a></li></ul></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Dorea Potter</b> (née <b>Black</b>) (<a href="/wiki/1920" title="1920">1920</a> – <a href="/wiki/1977" title="1977">1977</a>) was a <a href="/wiki/Pure-blood" title="Pure-blood">pure-blood</a> <a href="/wiki/Wizardkind" title="Wizardkind">witch</a>, the youngest child of <a href="/wiki/Cygnus_Black_II" title="Cygnus Black II">Cygnus Black II</a> and <a href="/wiki/Violetta_Bulstrode" title="Violetta Bulstrode">Violetta Bulstrode</a> and sister of <a href="/wiki/Pollux_Black" title="Pollux Black">Pollux Black</a>, <a href="/wiki/Cassiopeia_Black" title="Cassiopeia Black">Cassiopeia Black</a>, and <a href="/wiki/Marius_Black" title="Marius Black">Marius Black</a>. She attended <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> where she was sorted into <a href="/wiki/Slytherin" title="Slytherin">Slytherin House</a>.  
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Etymology"><span class="tocnumber">2</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Behind_the_scenes"><span class="tocnumber">3</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Appearances"><span class="tocnumber">4</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Notes_and_references"><span class="tocnumber">5</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Dorea_Black?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Dorea_Black?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Dorea attended <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> where she was sorted into <a href="/wiki/Slytherin" title="Slytherin">Slytherin House</a> from 1931-1938.  
+</p><p>Sometime after Hogwarts, she married <a href="/wiki/Charlus_Potter" title="Charlus Potter">Charlus Potter</a> and they together had <a href="/wiki/Charlus_Potter%27s_son" title="Charlus Potter&#39;s son">one son</a>. Dorea was the aunt of Alphard, Cygnus, and <a href="/wiki/Walburga_Black" title="Walburga Black">Walburga Black</a>, thus she is the great-aunt of <a href="/wiki/Sirius_Black_III" class="mw-redirect" title="Sirius Black III">Sirius Black III</a> and <a href="/wiki/Regulus_Black" title="Regulus Black">Regulus Black</a> II, as well as <a href="/wiki/Bellatrix_Lestrange" title="Bellatrix Lestrange">Bellatrix Lestrange</a>, <a href="/wiki/Andromeda_Tonks" title="Andromeda Tonks">Andromeda Tonks</a>, and <a href="/wiki/Narcissa_Malfoy" title="Narcissa Malfoy">Narcissa Malfoy</a>.<sup id="cite_ref-BFT_4-0" class="reference"><a href="#cite_note-BFT-4">&#91;4&#93;</a></sup> As well as this, Dorea is the great-great aunt of <a href="/wiki/Draco_Malfoy" title="Draco Malfoy">Draco Malfoy</a> and <a href="/wiki/Nymphadora_Tonks" title="Nymphadora Tonks">Nymphadora Tonks</a> and the great-great-great aunt of <a href="/wiki/Scorpius_Malfoy" title="Scorpius Malfoy">Scorpius Malfoy</a> and <a href="/wiki/Edward_Lupin" title="Edward Lupin">Ted Lupin</a>.  
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Dorea_Black?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Dorea_Black?action=edit&amp;section=2" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The name <i>Dorea</i> may come from the names <i><a href="http://en.wikipedia.org/wiki/Dora" class="extiw" title="wikipedia:Dora">Dora</a></i> ("gift") or <i><a href="http://en.wikipedia.org/wiki/Dorothy_(given_name)" class="extiw" title="wikipedia:Dorothy (given name)">Dorothy</a></i>, which mean "to see a gift" in Greek (as opposed to "Theodora" which means "a gift from god" in Greek), or from <a href="http://en.wikipedia.org/wiki/Dory" class="extiw" title="wikipedia:Dory">dory</a>, a type of small boat. The name "Dora" appears before Dorea: her great-aunt was named <a href="/wiki/Elladora_Black" title="Elladora Black">Elladora</a> and her cousin was named <a href="/wiki/Callidora_Black" title="Callidora Black">Callidora</a>.
+</p><p><i>Dorea </i>can come from Irish <i>Doireann</i>, which means "sullen" or "daughter of Fionn". <i>Fionn</i> means "fair, white." "Sullen" and "fair, white" can relate to many of the Black family's traits.
+</p><p>Black can be considered a colour, and is the result of the absence of, or complete absorption of, light. In Western culture, the colour black has typically been associated with evil, darkness, and witchcraft, but also with prestige and sophistication — appropriate for the House of Black. Black has also been associated with life and prosperity by other cultures. In ancient China, black was the symbol of the element of water, which also corresponds to Slytherin, the Hogwarts house of almost all members of the Black family. In English heraldry, black represents darkness and ignorance; a possible allusion to the prejudice common to members of the House of Black.
+</p><p>However, the English word <i>black</i> is derived from either the Old English <i>blœc</i>, meaning "black", or <i>blac</i>, meaning "pale".Pallor is associated with sickness and the colour white, which is usually held to symbolise purity in Western and Indian culture, and death in East Asian cultures. This mirrors the typical colouring of members of the House of Black — dark hair and pale skin.
+</p><p>Dorea's married surname is Potter. Potter is a very common surname of English origin. It traditionally refers to the occupation of making pottery. Beatrix Potter was a well-known English children's author. Potter's Field is the name for a burial ground for the unknown or unclaimed dead, particularly soldiers and orphans; it is first mentioned in the Gospel of Matthew. The Potter family had many members that fit that description. The Potter Box is a model for making ethical decisions developed at Harvard University. J. K. Rowling has also commented that she has liked this name since childhood, due to a relationship with two friends who were named Ian and Vikki Potter.
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Dorea_Black?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Dorea_Black?action=edit&amp;section=3" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>There was some speculation that Dorea Potter was the mother of <a href="/wiki/James_Potter_I" title="James Potter I">James Potter</a> and so the paternal grandmother of <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a>. However, the actual names of James's parents were revealed to be <a href="/wiki/Fleamont_Potter" title="Fleamont Potter">Fleamont</a> and <a href="/wiki/Euphemia_Potter" title="Euphemia Potter">Euphemia Potter</a>, via  <i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i>.<sup id="cite_ref-PotterFamilyPottermore_5-0" class="reference"><a href="#cite_note-PotterFamilyPottermore-5">&#91;5&#93;</a></sup> In spite of this, it is still more than likely that Dorea was possibly an aunt or a cousin by marriage of James.</li>
+<li>Dorea was not Featured on the Potter family tree on Pottermore. She does, however, appear on the Black Family tree that was released.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Dorea_Black?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Dorea_Black?action=edit&amp;section=4" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(film)" title="Harry Potter and the Order of the Phoenix (film)">Harry Potter and the Order of the Phoenix (film)</a></i> <span class="template-c">(Appears on Black family tapestry)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(video_game)" title="Harry Potter and the Order of the Phoenix (video game)">Harry Potter and the Order of the Phoenix (video game)</a></i> <span class="template-c">(Seen on <a href="/wiki/House_of_Black" title="House of Black">Black family</a> tree tapestry)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1_(video_game)" title="Harry Potter and the Deathly Hallows: Part 1 (video game)">Harry Potter and the Deathly Hallows: Part 1 (video game)</a></i> <span class="template-c">(Seen on <a href="/wiki/House_of_Black" title="House of Black">Black family</a> tree tapestry)</span></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Dorea_Black?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Dorea_Black?action=edit&amp;section=5" title="Edit section: Notes and references

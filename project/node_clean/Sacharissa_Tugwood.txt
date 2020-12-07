@@ -1,0 +1,145 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/1/1f/Sacharissa_Tugwood.jpg/revision/latest?cb=20091111232422" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/1/1f/Sacharissa_Tugwood.jpg/revision/latest/scale-to-width-down/350?cb=20091111232422" srcset="https://static.wikia.nocookie.net/harrypotter/images/1/1f/Sacharissa_Tugwood.jpg/revision/latest/scale-to-width-down/350?cb=20091111232422 1x, https://static.wikia.nocookie.net/harrypotter/images/1/1f/Sacharissa_Tugwood.jpg/revision/latest/scale-to-width-down/700?cb=20091111232422 2x" class="pi-image-thumbnail" alt="" width="270" height="372"
+		     data-image-key="Sacharissa_Tugwood.jpg" data-image-name="Sacharissa Tugwood.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Sacharissa Tugwood</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/1874" class="mw-redirect" title="1874">1874</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/1966" title="1966">1966</a> (aged 91 - 92)</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Dark</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Green</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Felicitania_Tugwood" title="Felicitania Tugwood">Felicitania Tugwood</a> (possibly)</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Potioneer" title="Potioneer">Potioneer</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Tugwood_family" title="Tugwood family">Tugwood family</a></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Sacharissa Tugwood</b> (<a href="/wiki/1874" class="mw-redirect" title="1874">1874</a> – <a href="/wiki/1966" title="1966">1966</a>) was a famous <a href="/wiki/Potioneer" title="Potioneer">Potioneer</a>, and the first <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> to use <a href="/wiki/Beautification_Potion" title="Beautification Potion">beauty</a> <a href="/wiki/Potion" title="Potion">potions</a>, having developed quite a few of them herself.<sup id="cite_ref-PSG_1-0" class="reference"><a href="#cite_note-PSG-1">&#91;1&#93;</a></sup><sup id="cite_ref-COSG_2-0" class="reference"><a href="#cite_note-COSG-2">&#91;2&#93;</a></sup><sup id="cite_ref-POAG_3-0" class="reference"><a href="#cite_note-POAG-3">&#91;3&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_life"><span class="tocnumber">1.1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Career_as_Potioneer"><span class="tocnumber">1.2</span> <span class="toctext">Career as Potioneer</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Death_and_legacy"><span class="tocnumber">1.3</span> <span class="toctext">Death and legacy</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Magical_abilities_and_skills"><span class="tocnumber">2</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Etymology"><span class="tocnumber">3</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Appearances"><span class="tocnumber">4</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Notes_and_references"><span class="tocnumber">5</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Sacharissa_Tugwood?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Sacharissa_Tugwood?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Sacharissa_Tugwood?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Early life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Sacharissa_Tugwood?action=edit&amp;section=2" title="Edit section: Early life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Tugwood was born in <a href="/wiki/1874" class="mw-redirect" title="1874">1874</a>. She presumably attended <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> (c. 1885- 1893) where she would have excelled in <a href="/wiki/Potions_(class)" title="Potions (class)">Potions</a>.
+</p>
+<h3><span class="mw-headline" id="Career_as_Potioneer">Career as Potioneer</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Sacharissa_Tugwood?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Career as Potioneer">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Sacharissa_Tugwood?action=edit&amp;section=3" title="Edit section: Career as Potioneer"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In her adulthood, Tugwood would develop many <a href="/wiki/Beautification_Potion" title="Beautification Potion">cosmetic potions</a>. She became famous for being the first <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> to use such a potion. Sacharissa also discovered the pimple-curing properties of <a href="/wiki/Bubotuber_pus" title="Bubotuber pus">Bubotuber pus</a>.<sup id="cite_ref-PSG_1-1" class="reference"><a href="#cite_note-PSG-1">&#91;1&#93;</a></sup><sup id="cite_ref-COSG_2-1" class="reference"><a href="#cite_note-COSG-2">&#91;2&#93;</a></sup><sup id="cite_ref-POAG_3-1" class="reference"><a href="#cite_note-POAG-3">&#91;3&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Death_and_legacy">Death and legacy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Sacharissa_Tugwood?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Death and legacy">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Sacharissa_Tugwood?action=edit&amp;section=4" title="Edit section: Death and legacy"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Tugwood would eventually die in <a href="/wiki/1966" title="1966">1966</a>, aged ninety-two. Her gravestone credited her to have made of the world a "<i>more beautiful place</i>". She was also featured on a <a href="/wiki/Chocolate_Frog_Card" title="Chocolate Frog Card">Chocolate Frog Card</a>.<sup id="cite_ref-PSG_1-2" class="reference"><a href="#cite_note-PSG-1">&#91;1&#93;</a></sup><sup id="cite_ref-COSG_2-2" class="reference"><a href="#cite_note-COSG-2">&#91;2&#93;</a></sup><sup id="cite_ref-POAG_3-2" class="reference"><a href="#cite_note-POAG-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Sacharissa_Tugwood?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Sacharissa_Tugwood?action=edit&amp;section=5" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Potion" title="Potion">Potions</a></b>: Tugwood was a highly accomplished and talented professional <a href="/wiki/Potioneer" title="Potioneer">Potioneer</a>, having successfully invented numerous <a href="/wiki/Beautification_Potion" title="Beautification Potion">Beautification Potions</a>, cosmetic concoctions which enhance the beauty of the drinker, an achievement she was immortalised on a <a href="/wiki/Chocolate_Frog_Card" title="Chocolate Frog Card">Chocolate Frog Card</a> for, showing her proficiency in this branch of both <a href="/wiki/Magic" title="Magic">magic</a> and <a href="/wiki/Science" title="Science">science</a>.</li>
+<li><b><a href="/wiki/Herbology" title="Herbology">Herbology</a></b>: Tugwood also discovered the pimple curing properties of <a href="/wiki/Bubotuber_pus" title="Bubotuber pus">Bubotuber pus</a>, a natural substance extracted from the magical <a href="/wiki/Bubotuber" title="Bubotuber">Bubotuber</a> plant, an achievement in the field of Herbology, meaning she was knowledgeable of magical plants and their usages.</li></ul>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Sacharissa_Tugwood?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Sacharissa_Tugwood?action=edit&amp;section=6" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The name Sacharissa may be related to the verb <a target="_blank" rel="noreferrer noopener" class="external text" href="http://dictionary.reference.com/browse/saccharise">saccharize</a> which means to convert into sugar.
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Sacharissa_Tugwood?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Sacharissa_Tugwood?action=edit&amp;section=7" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 6 images related to <i><b><a href="/wiki/Category:Images_of_Sacharissa_Tugwood" title="Category:Images of Sacharissa Tugwood">Sacharissa Tugwood</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div><figure class="thumb tright show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/4/44/Sacharissa_Tugwood-90-chocFrogCard.png/revision/latest?cb=20160606202424" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/4/44/Sacharissa_Tugwood-90-chocFrogCard.png/revision/latest/scale-to-width-down/180?cb=20160606202424" decoding="async" width="180" height="180" class="thumbimage" data-image-name="Sacharissa Tugwood-90-chocFrogCard.png" data-image-key="Sacharissa_Tugwood-90-chocFrogCard.png" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Sacharissa_Tugwood-90-chocFrogCard.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Tugwood as depicted on a silver <a href="/wiki/Chocolate_Frog_Card" title="Chocolate Frog Card">Chocolate Frog Card</a></p> 		 	</figcaption> </figure>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(video_game)" title="Harry Potter and the Philosopher&#39;s Stone (video game)">Harry Potter and the Philosopher's Stone (video game)</a></i> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(video_game)" title="Harry Potter and the Chamber of Secrets (video game)">Harry Potter and the Chamber of Secrets (video game)</a></i> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(video_game)" title="Harry Potter and the Prisoner of Azkaban (video game)">Harry Potter and the Prisoner of Azkaban (video game)</a></i> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Sacharissa_Tugwood?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Sacharissa_Tugwood?action=edit&amp;section=8" title="Edit section: Notes and references

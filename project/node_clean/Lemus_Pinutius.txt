@@ -1,0 +1,71 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/1/13/Lemus_Pinutius2.jpg/revision/latest?cb=20170730220919" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/1/13/Lemus_Pinutius2.jpg/revision/latest/scale-to-width-down/350?cb=20170730220919" srcset="https://static.wikia.nocookie.net/harrypotter/images/1/13/Lemus_Pinutius2.jpg/revision/latest/scale-to-width-down/350?cb=20170730220919 1x, https://static.wikia.nocookie.net/harrypotter/images/1/13/Lemus_Pinutius2.jpg/revision/latest/scale-to-width-down/699?cb=20170730220919 2x" class="pi-image-thumbnail" alt="" width="270" height="231"
+		     data-image-key="Lemus_Pinutius2.jpg" data-image-name="Lemus Pinutius2.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Lemus Pinutius</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/United_States_of_America" title="United States of America">American</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="alias">
+	
+		<h3 class="pi-data-label pi-secondary-font">Also known as</h3>
+	
+	<div class="pi-data-value pi-font">The Vampire</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Light</div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Lemus Pinutius</b>, also known by the nickname <b>The Vampire</b>, was a <a href="/wiki/Wizardkind" title="Wizardkind">wizarding</a> criminal who operated in the <a href="/wiki/1920s" title="1920s">1920s</a>.
+</p>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Lemus_Pinutius?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Lemus_Pinutius?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In or around <a href="/wiki/1926" title="1926">1926</a>, the <a href="/wiki/International_Wizarding_Police" title="International Wizarding Police">International Wizarding Police</a> issued a wanted poster for Pinutius, which stated that he was wanted for grand larceny and <a href="/wiki/Muggle" class="mw-redirect" title="Muggle">No-Maj</a> smuggling in <a href="/wiki/Europe" title="Europe">Europe</a>, <a href="/wiki/Africa" title="Africa">Africa</a>, and <a href="/wiki/Asia" title="Asia">Asia</a>. It described him as a "powerful wizard" who was "<a href="/wiki/Wand" title="Wand">wanded</a> and extremely dangerous." It offered a reward of 5000 <a href="/wiki/Dragot" title="Dragot">Dragots</a> for information leading to his capture.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Lemus_Pinutius?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Lemus_Pinutius?action=edit&amp;section=2" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(film)" title="Fantastic Beasts and Where to Find Them (film)">Fantastic Beasts and Where to Find Them (film)</a></i> <small>(Appears in photographs)</small></li>
+<li><i><a href="/wiki/Inside_the_Magic:_The_Making_of_Fantastic_Beasts_and_Where_to_Find_Them" title="Inside the Magic: The Making of Fantastic Beasts and Where to Find Them">Inside the Magic: The Making of Fantastic Beasts and Where to Find Them</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Lemus_Pinutius?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Lemus_Pinutius?action=edit&amp;section=3" title="Edit section: Notes and references

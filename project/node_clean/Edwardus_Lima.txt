@@ -1,0 +1,66 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/d/d5/Lima.png/revision/latest?cb=20140727042909" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/d/d5/Lima.png/revision/latest/scale-to-width-down/350?cb=20140727042909" srcset="https://static.wikia.nocookie.net/harrypotter/images/d/d5/Lima.png/revision/latest/scale-to-width-down/350?cb=20140727042909 1x, https://static.wikia.nocookie.net/harrypotter/images/d/d5/Lima.png/revision/latest/scale-to-width-down/700?cb=20140727042909 2x" class="pi-image-thumbnail" alt="" width="270" height="270"
+		     data-image-key="Lima.png" data-image-name="Lima.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Edwardus Lima</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-hppts_1-0" class="reference"><a href="#cite_note-hppts-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male<sup id="cite_ref-hppts_1-1" class="reference"><a href="#cite_note-hppts-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Mina_Lima" title="Mina Lima">Mina Lima</a> (possibly)</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Author<sup id="cite_ref-hppts_1-2" class="reference"><a href="#cite_note-hppts-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Edwardus Lima</b> was a <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> and the author of the <a href="/wiki/Magizoology" title="Magizoology">magizoology</a> tome <i><a href="/wiki/The_Monster_Book_of_Monsters" title="The Monster Book of Monsters">The Monster Book of Monsters</a></i>.<sup id="cite_ref-hppts_1-3" class="reference"><a href="#cite_note-hppts-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Edwardus_Lima?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Edwardus_Lima?action=edit&amp;section=1" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>This character was named after <a href="/wiki/Eduardo_Lima" title="Eduardo Lima">Eduardo Lima</a>, a graphic artist who has worked on every <a href="/wiki/Harry_Potter_films" class="mw-redirect" title="Harry Potter films"><i>Harry Potter</i> film</a> since <i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(film)" title="Harry Potter and the Prisoner of Azkaban (film)">Harry Potter and the Prisoner of Azkaban</a></i>, on concept art of <i><a href="/wiki/The_Monster_Book_of_Monsters" title="The Monster Book of Monsters">The Monster Book of Monsters</a></i> by his colleague, <a href="/wiki/Miraphora_Mina" title="Miraphora Mina">Miraphora Mina</a>.<sup id="cite_ref-hppts_1-4" class="reference"><a href="#cite_note-hppts-1">&#91;1&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Edwardus_Lima?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Edwardus_Lima?action=edit&amp;section=2" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_Page_to_Screen:_The_Complete_Filmmaking_Journey" title="Harry Potter Page to Screen: The Complete Filmmaking Journey">Harry Potter Page to Screen: The Complete Filmmaking Journey</a></i> <small>(First mentioned)</small> <span class="template-c">(Name seen on book cover)</span></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Edwardus_Lima?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Edwardus_Lima?action=edit&amp;section=3" title="Edit section: Notes and references

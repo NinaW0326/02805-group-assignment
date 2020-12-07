@@ -1,0 +1,77 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-gryffindor pi-layout-default"><section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Mike Boon</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">Between <a href="/wiki/1701" class="mw-redirect" title="1701">1701</a> and <a href="/wiki/1705" class="mw-redirect" title="1705">1705</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a> or <a href="/wiki/Ireland" title="Ireland">Irish</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="title">
+	
+		<h3 class="pi-data-label pi-secondary-font">Title(s)</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Quidditch_Captain#Hogwarts_Quidditch_Captains" title="Quidditch Captain">Captain</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="house">
+	
+		<h3 class="pi-data-label pi-secondary-font">House</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Gryffindor" title="Gryffindor">Gryffindor</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a><ul><li><a href="/wiki/Gryffindor" title="Gryffindor">Gryffindor</a></li><li><a href="/wiki/Gryffindor_Quidditch_team" title="Gryffindor Quidditch team">Gryffindor Quidditch team</a></li></ul></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Mike Boon</b> (b. <a href="/wiki/1700s" title="1700s">1700s</a>) was a <a href="/wiki/Gryffindor" title="Gryffindor">Gryffindor</a> <a href="/wiki/Wizardkind" title="Wizardkind">student</a> at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> in the <a href="/wiki/1710s" title="1710s">1710s</a> and <a href="/wiki/1720s" title="1720s">1720s</a>. He was once <a href="/wiki/Quidditch_Captain#Hogwarts_Quidditch_Captains" title="Quidditch Captain">Captain</a> of the <a href="/wiki/Gryffindor_Quidditch_team" title="Gryffindor Quidditch team">Gryffindor Quidditch team</a> from <a href="/wiki/1716" class="mw-redirect" title="1716">1716</a> to <a href="/wiki/1720" class="mw-redirect" title="1720">1720</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p>
+<figure class="thumb tleft show-info-icon" style="width: 202px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/a/a2/Gryffindor_Quidditch_Captains_Plaque.jpg/revision/latest?cb=20161202210519" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/a/a2/Gryffindor_Quidditch_Captains_Plaque.jpg/revision/latest/scale-to-width-down/200?cb=20161202210519" decoding="async" width="200" height="267" class="thumbimage" data-image-name="Gryffindor Quidditch Captains Plaque.jpg" data-image-key="Gryffindor_Quidditch_Captains_Plaque.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Gryffindor_Quidditch_Captains_Plaque.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Mike Boon's name appearing on a plaque</p> 		 	</figcaption> </figure>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mike_Boon?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mike_Boon?action=edit&amp;section=1" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_(film_series)" title="Harry Potter (film series)">Harry Potter films</a></i> <span class="template-c">(Name appears on plaque)</span></li>
+<li><i><a href="/wiki/Harry_Potter:_The_Exhibition" title="Harry Potter: The Exhibition">Harry Potter: The Exhibition</a></i> <span class="template-c">(Name appears on plaque)</span></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mike_Boon?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mike_Boon?action=edit&amp;section=2" title="Edit section: Notes and references

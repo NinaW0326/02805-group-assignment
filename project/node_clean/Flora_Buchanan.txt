@@ -1,0 +1,84 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default"><section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Flora Buchanan</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">Before <a href="/wiki/1847" class="mw-redirect" title="1847">1847</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Pure-blood" title="Pure-blood">Pure-blood</a> (presumed)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Scotland" title="Scotland">Scottish</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Angus_Buchanan%27s_father" class="mw-redirect" title="Angus Buchanan&#039;s father">Mr Buchanan</a> (father)</li><li><a href="/wiki/Angus_Buchanan%27s_mother" class="mw-redirect" title="Angus Buchanan&#039;s mother">Mrs Buchanan</a> (mother)</li><li><a href="/wiki/Angus_Buchanan" title="Angus Buchanan">Angus Buchanan</a> (brother)</li><li><a href="/wiki/Hamish_Buchanan" title="Hamish Buchanan">Hamish Buchanan</a> (brother)</li><li><a href="/wiki/Angus_Buchanan%27s_siblings" title="Angus Buchanan&#039;s siblings">Eight other siblings</a></li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Buchanan_family" title="Buchanan family">Buchanan family</a></li><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+<b>Flora Buchanan</b> was a <a href="/wiki/Scotland" title="Scotland">Scottish</a> <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> who lived in the <a href="/wiki/19th_century" title="19th century">19th century</a>. She was the daughter of <a href="/wiki/Angus_Buchanan%27s_father" class="mw-redirect" title="Angus Buchanan&#39;s father">Mr</a> and <a href="/wiki/Angus_Buchanan%27s_mother" class="mw-redirect" title="Angus Buchanan&#39;s mother">Mrs Buchanan</a> and the older sister of <a href="/wiki/Angus_Buchanan" title="Angus Buchanan">Angus Buchanan</a>.
+</p>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Flora_Buchanan?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Flora_Buchanan?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Born into the <a href="/wiki/Wizardkind" title="Wizardkind">wizarding</a> <a href="/wiki/Buchanan_family" title="Buchanan family">Buchanan family</a> sometime in the mid-<a href="/wiki/19th_century" title="19th century">19th century</a>, Flora grew up in a village in the <a href="/wiki/Scottish_Borders" title="Scottish Borders">Scottish Borders</a> with ten siblings, including <a href="/wiki/Hamish_Buchanan" title="Hamish Buchanan">Hamish</a> and <a href="/wiki/Angus_Buchanan" title="Angus Buchanan">Angus</a> (the latter of whom, at least, was younger than her). The Buchanan children had a reputation for being rowdy and large. Flora and her sisters won the village <a href="/wiki/Tug-of-war" title="Tug-of-war">tug-of-war</a> competition every year.
+</p><p>When Flora turned eleven, she received a <a href="/wiki/Hogwarts_acceptance_letter" title="Hogwarts acceptance letter">Hogwarts acceptance letter</a>, and began attending <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a>. The local <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> villagers, who were unaware of the Buchanan family's <a href="/wiki/Magic" title="Magic">magical</a> heritage, assumed that she had been sent to a corrective facility or mental institution. It is unknown which <a href="/wiki/Hogwarts_Houses" title="Hogwarts Houses">House</a> she was <a href="/wiki/Sorting_ceremony" title="Sorting ceremony">sorted</a> into whilst she attended Hogwarts.
+</p><p>Flora and her other siblings were especially fond of their brother Angus. Since <a href="/wiki/Angus_Buchanan%27s_father" class="mw-redirect" title="Angus Buchanan&#39;s father">their father</a> was highly prejudiced against <a href="/wiki/Squib" title="Squib">Squibs</a>, Flora and her siblings covered for Angus when, unlike them, he displayed no signs of <a href="/wiki/Magic" title="Magic">magical</a> ability. After no Hogwarts acceptance letter arrived for Angus, Flora forged one for him, thus keeping their parents in the dark for a few more weeks.<sup id="cite_ref-Pottermore_1-0" class="reference"><a href="#cite_note-Pottermore-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Flora_Buchanan?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Flora_Buchanan?action=edit&amp;section=2" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Wizarding_World_(website)" title="Wizarding World (website)">Wizarding World</a></i> <small>(Mentioned only)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Flora_Buchanan?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Flora_Buchanan?action=edit&amp;section=3" title="Edit section: Notes and references

@@ -1,0 +1,150 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-portrait pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/6/68/Mirabella_Plunkett.jpg/revision/latest?cb=20170730213216" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/6/68/Mirabella_Plunkett.jpg/revision/latest/scale-to-width-down/312?cb=20170730213216" srcset="https://static.wikia.nocookie.net/harrypotter/images/6/68/Mirabella_Plunkett.jpg/revision/latest/scale-to-width-down/312?cb=20170730213216 1x, https://static.wikia.nocookie.net/harrypotter/images/6/68/Mirabella_Plunkett.jpg/revision/latest/scale-to-width-down/624?cb=20170730213216 2x" class="pi-image-thumbnail" alt="" width="270" height="432"
+		     data-image-key="Mirabella_Plunkett.jpg" data-image-name="Mirabella Plunkett.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Mirabella Plunkett</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/1839" class="mw-redirect" title="1839">1839</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Human" title="Human">Human</a> (formerly)</li><li><a href="/wiki/Haddock" title="Haddock">Haddock</a></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Red</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Blue</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Pale</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Mirabella_Plunkett%27s_father" title="Mirabella Plunkett&#039;s father">Mr Plunkett</a> (father</li><li><a href="/wiki/Mirabella_Plunkett%27s_mother" title="Mirabella Plunkett&#039;s mother">Mrs Plunkett</a> (mother)</li><li><a href="/wiki/Unidentified_Merman" title="Unidentified Merman">Unidentified Merman</a> (possible husband)</li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Magical characteristics</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="animagus">
+	
+		<h3 class="pi-data-label pi-secondary-font">Animagus</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Haddock" title="Haddock">Haddock</a> (possibly)<sup id="cite_ref-Animagus_1-0" class="reference"><a href="#cite_note-Animagus-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Plunkett_family" title="Plunkett family">Plunkett family</a> (formerly)</li><li><a href="/wiki/Unidentified_Merman" title="Unidentified Merman">Unidentified Merman</a></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Mirabella Plunkett</b> (b. <a href="/wiki/1839" class="mw-redirect" title="1839">1839</a>) was a <a href="/wiki/Great_Britain" title="Great Britain">British</a> <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> famous for falling in love with a <a href="/wiki/Unidentified_Merman" title="Unidentified Merman">merman</a> in <a href="/wiki/Loch_Lomond" title="Loch Lomond">Loch Lomond</a> while on holiday. After her parents forbade her to marry him, she <a href="/wiki/Transfiguration" title="Transfiguration">transfigured</a> herself into a <a href="/wiki/Haddock" title="Haddock">haddock</a> and was never seen again. She was featured on a <a href="/wiki/Chocolate_Frog_Card" title="Chocolate Frog Card">Chocolate Frog Card</a> and on a <a href="/wiki/Portrait" title="Portrait">portrait</a> hung at <a href="/wiki/Hogwarts_Castle" title="Hogwarts Castle">Hogwarts Castle</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_life"><span class="tocnumber">1.1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Finding_love"><span class="tocnumber">1.2</span> <span class="toctext">Finding love</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Legacy"><span class="tocnumber">1.3</span> <span class="toctext">Legacy</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Magical_abilities_and_skills"><span class="tocnumber">2</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Etymology"><span class="tocnumber">3</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Appearances"><span class="tocnumber">4</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Notes_and_references"><span class="tocnumber">5</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mirabella_Plunkett?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mirabella_Plunkett?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mirabella_Plunkett?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Early life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mirabella_Plunkett?action=edit&amp;section=2" title="Edit section: Early life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Mirabella Plunkett was born in <a href="/wiki/1839" class="mw-redirect" title="1839">1839</a> to <a href="/wiki/Mirabella_Plunkett%27s_father" title="Mirabella Plunkett&#39;s father">Mr</a> and <a href="/wiki/Mirabella_Plunkett%27s_mother" title="Mirabella Plunkett&#39;s mother">Mrs Plunkett</a>.<sup id="cite_ref-HPPAVG_2-0" class="reference"><a href="#cite_note-HPPAVG-2">&#91;2&#93;</a></sup> Nothing about her background or education is known.
+</p>
+<h3><span class="mw-headline" id="Finding_love">Finding love</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mirabella_Plunkett?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Finding love">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mirabella_Plunkett?action=edit&amp;section=3" title="Edit section: Finding love"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>At some point in her life, Mirabella travelled to <a href="/wiki/Loch_Lomond" title="Loch Lomond">Loch Lomond</a> on holiday, where she met and fell in <a href="/wiki/Love" title="Love">love</a> with a <a href="/wiki/Unidentified_Merman" title="Unidentified Merman">merman</a>.<sup id="cite_ref-HPPAVG_2-1" class="reference"><a href="#cite_note-HPPAVG-2">&#91;2&#93;</a></sup>
+</p><p>Mirabella and the merman decided to <a href="/wiki/Marriage" title="Marriage">marry</a>.<sup id="cite_ref-HPPAVG_2-2" class="reference"><a href="#cite_note-HPPAVG-2">&#91;2&#93;</a></sup> However, Mirabella's parents objected strongly, and forbade her to marry him.<sup id="cite_ref-HPPAVG_2-3" class="reference"><a href="#cite_note-HPPAVG-2">&#91;2&#93;</a></sup> In response, Mirabella <a href="/wiki/Transfiguration" title="Transfiguration">transfigured</a> herself into a <a href="/wiki/Haddock" title="Haddock">haddock</a>, never to be seen again.<sup id="cite_ref-HPPAVG_2-4" class="reference"><a href="#cite_note-HPPAVG-2">&#91;2&#93;</a></sup> It is unknown if she ever returned to her <a href="/wiki/Merpeople" title="Merpeople">merman</a> lover once she became a haddock.
+</p>
+<h3><span class="mw-headline" id="Legacy">Legacy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mirabella_Plunkett?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Legacy">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mirabella_Plunkett?action=edit&amp;section=4" title="Edit section: Legacy"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>After her disappearance, Mirabella was not forgotten. She was eventually immortalised on a <a href="/wiki/Chocolate_Frog_Card" title="Chocolate Frog Card">Chocolate Frog Card</a>.<sup id="cite_ref-HPPAVG_2-5" class="reference"><a href="#cite_note-HPPAVG-2">&#91;2&#93;</a></sup> There was also a <a href="/wiki/Portrait" title="Portrait">portrait</a> of her hung at <a href="/wiki/Hogwarts_Castle" title="Hogwarts Castle">Hogwarts Castle</a>, which guarded a secret shortcut between the first-floor landing of the <a href="/wiki/Grand_Staircase" title="Grand Staircase">Grand Staircase</a> and the <a href="/wiki/Entrance_Hall" title="Entrance Hall">Entrance Hall</a> side room.<sup id="cite_ref-HPPAVGPC_3-0" class="reference"><a href="#cite_note-HPPAVGPC-3">&#91;3&#93;</a></sup> The password required to gain access to said shortcut was <i>haddock</i>.<sup id="cite_ref-HPPAVGPC_3-1" class="reference"><a href="#cite_note-HPPAVGPC-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mirabella_Plunkett?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mirabella_Plunkett?action=edit&amp;section=5" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Transfiguration" title="Transfiguration">Transfiguration</a></b>: Mirabella was highly proficient in the art of transfiguration, given how she successfully transfigured herself into a <a href="/wiki/Haddock" title="Haddock">haddock</a> fish; a famous achievement in the field which gained her recognition on a <a href="/wiki/Chocolate_Frog_Card" title="Chocolate Frog Card">Chocolate Frog Card</a>. Given how both <a href="/wiki/Human_Transfiguration" title="Human Transfiguration">Human Transfiguration</a> and <a href="/wiki/Trans-Species_Transformation" title="Trans-Species Transformation">Trans-Species Transformation</a> are incredibly complex and advanced branches of transfiguration, this shows her remarkable talent she possessed in this notably very difficult branch of <a href="/wiki/Magic" title="Magic">magic</a>.</li>
+<li><b><a href="/wiki/Love" title="Love">Love</a></b>: Mirabella was an incredibly loving <a href="/wiki/Soul" title="Soul">soul</a>, who famously fell in love with a <a href="/wiki/Unidentified_Merman" title="Unidentified Merman">Merman</a> and even went to the drastic measures of transfiguring herself into a haddock, just so she could be with her lover in the <a href="/wiki/Water" title="Water">water</a> together as fish, showing her love to have been very strong and powerful indeed.</li></ul>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mirabella_Plunkett?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mirabella_Plunkett?action=edit&amp;section=6" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The name "Mirabella" is derived from Latin mirabilis, "wonderful".
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mirabella_Plunkett?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mirabella_Plunkett?action=edit&amp;section=7" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 3 images related to <i><b><a href="/wiki/Category:Images_of_Mirabella_Plunkett" title="Category:Images of Mirabella Plunkett">Mirabella Plunkett</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(video_game)" title="Harry Potter and the Philosopher&#39;s Stone (video game)">Harry Potter and the Philosopher's Stone (video game)</a></i> <small>(First appearance)</small> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(video_game)" title="Harry Potter and the Chamber of Secrets (video game)">Harry Potter and the Chamber of Secrets (video game)</a></i> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(video_game)" title="Harry Potter and the Prisoner of Azkaban (video game)">Harry Potter and the Prisoner of Azkaban (video game)</a></i> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span> <small>(Appears in portrait(s))</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mirabella_Plunkett?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mirabella_Plunkett?action=edit&amp;section=8" title="Edit section: Notes and references

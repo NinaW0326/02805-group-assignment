@@ -1,0 +1,160 @@
+<div class="mw-parser-output"><table class="notice metadata" id="spoiler" style="text-align: center; background: beige; margin: 1em 05%; padding: 0 1em; border: #a00 1px solid;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/8/8c/Hogwarts_Mystery.jpeg/revision/latest?cb=20180504083359" class="image"><img alt="Hogwarts Mystery.jpeg" src="https://static.wikia.nocookie.net/harrypotter/images/8/8c/Hogwarts_Mystery.jpeg/revision/latest/scale-to-width-down/175?cb=20180504083359" decoding="async" width="175" height="77" data-image-name="Hogwarts Mystery.jpeg" data-image-key="Hogwarts_Mystery.jpeg" /></a>
+</td>
+<td><b>Warning!</b>
+<p>At least some content in this article is derived from information featured in <i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i>. Spoilers will be present within the article.
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/8/87/Myron_Wagtail_2.jpg/revision/latest?cb=20150906193619" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/8/87/Myron_Wagtail_2.jpg/revision/latest/scale-to-width-down/300?cb=20150906193619" srcset="https://static.wikia.nocookie.net/harrypotter/images/8/87/Myron_Wagtail_2.jpg/revision/latest/scale-to-width-down/300?cb=20150906193619 1x, https://static.wikia.nocookie.net/harrypotter/images/8/87/Myron_Wagtail_2.jpg/revision/latest/scale-to-width-down/600?cb=20150906193619 2x" class="pi-image-thumbnail" alt="" width="270" height="376"
+		     data-image-key="Myron_Wagtail_2.jpg" data-image-name="Myron Wagtail 2.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Myron Wagtail</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/1970" title="1970">1970</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a> or <a href="/wiki/Ireland" title="Ireland">Irish</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Brown</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Magical characteristics</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="boggart">
+	
+		<h3 class="pi-data-label pi-secondary-font">Boggart</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Tom_Riddle" title="Tom Riddle">Lord Voldemort</a><sup id="cite_ref-LEGOHP_2-0" class="reference"><a href="#cite_note-LEGOHP-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="patronus">
+	
+		<h3 class="pi-data-label pi-secondary-font">Patronus</h3>
+	
+	<div class="pi-data-value pi-font">Non-corporeal<sup id="cite_ref-LEGOHP_2-1" class="reference"><a href="#cite_note-LEGOHP-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Lead singer for <a href="/wiki/Weird_Sisters" title="Weird Sisters">The Weird Sisters</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Weird_Sisters" title="Weird Sisters">The Weird Sisters</a></li><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Goblet of Fire (film)">"<i>Alright Hogwarts, are ready for some real music? Come on, I wanna see your hands in the air! You're looking good. We are gonna teach you a brand new dance tonight. Are you ready? ARE YOU REEAAADY??!!!</i>"</span></dd>
+<dd>&#8212;Myron introducing the song<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire_(film)" title="Harry Potter and the Goblet of Fire (film)">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Myron Wagtail</b> (b. <a href="/wiki/1970" title="1970">1970</a>) was a <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> and the lead singer of the <a href="/wiki/Wizarding_world" title="Wizarding world">wizarding world</a>'s popular band <a href="/wiki/Weird_Sisters" title="Weird Sisters">The Weird Sisters</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Magical_abilities_and_skills"><span class="tocnumber">2</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Behind_the_scenes"><span class="tocnumber">3</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Etymology"><span class="tocnumber">4</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Appearances"><span class="tocnumber">5</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Notes_and_references"><span class="tocnumber">6</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Myron_Wagtail?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Myron_Wagtail?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Wagtail was born some time in the year <a href="/wiki/1970" title="1970">1970</a>, in <a href="/wiki/Great_Britain" title="Great Britain">Great Britain</a> or <a href="/wiki/Ireland" title="Ireland">Ireland</a>. Attending <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> from the year <a href="/wiki/1981" title="1981">1981</a> or <a href="/wiki/1982" title="1982">1982</a>, he was a self-proclaimed fan of <a href="/wiki/Jacob%27s_sibling" title="Jacob&#39;s sibling">Jacob's Sibling</a> and invited them to perform with his band without the knowledge of the Hogwarts staff. The band and Jacob's sibling used <a href="/wiki/Ismelda_Murk" title="Ismelda Murk">Ismelda Murk</a>, <a href="/wiki/Ben_Copper" title="Ben Copper">Ben Copper</a>, and <a href="/wiki/Severus_Snape" title="Severus Snape">Severus Snape</a> as inspiration for their concert. At this time in the 1980s, the band consisted of Wagtail, <a href="/wiki/Kirley_Duke" title="Kirley Duke">Kirley Duke</a>, and <a href="/wiki/Orsino_Thruston" title="Orsino Thruston">Orsino Thruston</a>. Myron and <a href="/wiki/Rowan_Khanna" title="Rowan Khanna">Rowan Khanna</a> shared an interest in postmodern existentialist fiction.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p><p>Wagtail, along with his band, performed at the <a href="/wiki/Yule_Ball" title="Yule Ball">Yule Ball</a> of <a href="/wiki/1994" title="1994">1994</a> held at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts</a> in honour of the <a href="/wiki/Triwizard_Tournament" title="Triwizard Tournament">Triwizard Tournament</a>, by which time the band had at least eight members.<sup id="cite_ref-GOF23_4-0" class="reference"><a href="#cite_note-GOF23-4">&#91;4&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Myron_Wagtail?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Myron_Wagtail?action=edit&amp;section=2" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Charm" title="Charm">Charms</a></b>: Wagtail appeared to be highly proficient with charm-work. He was able to use the <a href="/wiki/Music_spell" title="Music spell">Music spell</a> to enchant instruments to play on their own accord, and could use the <a href="/wiki/Amplifying_Charm" title="Amplifying Charm">Amplifying Charm</a> to amplify the sound of his voice whilst performing. He was even capable of conjuring a non-corporeal <a href="/wiki/Patronus_Charm" title="Patronus Charm">Patronus</a>,<sup id="cite_ref-LEGOHP_2-2" class="reference"><a href="#cite_note-LEGOHP-2">&#91;2&#93;</a></sup> a clear mark of superior <a href="/wiki/Magic" title="Magic">magical</a> skill and talent given the immense difficulty of casting such a powerful protective charm.</li>
+<li><b>Singing</b>: Being the lead vocalist for the very popular wizarding band the <a href="/wiki/Weird_Sisters" title="Weird Sisters">Weird Sisters</a>, Wagtail was a very talented and capable singer and live music performer.</li></ul>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Myron_Wagtail?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Myron_Wagtail?action=edit&amp;section=3" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tright show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/f/fb/076Wagtail.gif/revision/latest?cb=20100725031616" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/f/fb/076Wagtail.gif/revision/latest/scale-to-width-down/180?cb=20100725031616" decoding="async" width="180" height="171" class="thumbimage" data-image-name="076Wagtail.gif" data-image-key="076Wagtail.gif" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:076Wagtail.gif" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Myron Wagtail on his <a href="/wiki/Chocolate_Frog_Card" title="Chocolate Frog Card">Chocolate Frog Card</a></p> 		 	</figcaption> </figure>
+<figure class="thumb tright show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/9/99/MyronWagtailLEGOHP1-4.png/revision/latest?cb=20190627124350" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/9/99/MyronWagtailLEGOHP1-4.png/revision/latest/scale-to-width-down/180?cb=20190627124350" decoding="async" width="180" height="180" class="thumbimage" data-image-name="MyronWagtailLEGOHP1-4.png" data-image-key="MyronWagtailLEGOHP1-4.png" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:MyronWagtailLEGOHP1-4.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Myron Wagtail in <i><a href="/wiki/LEGO_Harry_Potter:_Years_1-4" title="LEGO Harry Potter: Years 1-4">LEGO Harry Potter: Years 1-4</a></i></p> 		 	</figcaption> </figure>
+<ul><li><a href="/wiki/Jarvis_Cocker" title="Jarvis Cocker">Jarvis Cocker</a> portrayed Myron in the <a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire_(film)" title="Harry Potter and the Goblet of Fire (film)">film adaptation</a> of <i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire" title="Harry Potter and the Goblet of Fire">Harry Potter and the Goblet of Fire</a></i>.<sup id="cite_ref-GOFF_5-0" class="reference"><a href="#cite_note-GOFF-5">&#91;5&#93;</a></sup></li>
+<li>Jarvis also appeared in the movie <i>Fantastic Mr. Fox</i> as Petey along with <a href="/wiki/Michael_Gambon" title="Michael Gambon">Michael Gambon</a> playing Franklin Bean, <a href="/wiki/Helen_McCrory" title="Helen McCrory">Helen McCrory</a> playing Mrs Bean, and <a href="/wiki/Alexandre_Desplat" title="Alexandre Desplat">Alexandre Desplat</a> composing the music.</li>
+<li>In <i><a href="/wiki/LEGO_Harry_Potter:_Years_1-4" title="LEGO Harry Potter: Years 1-4">LEGO Harry Potter: Years 1-4</a></i>, Wagtail is an unlockable character, and is simply addressed as "Vocalist".<sup id="cite_ref-LEGOHP_2-3" class="reference"><a href="#cite_note-LEGOHP-2">&#91;2&#93;</a></sup></li>
+<li>He was at the school from <a href="/wiki/1981" title="1981">1981</a> to <a href="/wiki/1988" title="1988">1988</a> or <a href="/wiki/1982" title="1982">1982</a> to <a href="/wiki/1989" title="1989">1989</a>, being only one school year ahead of or in the same year as <a href="/wiki/William_Weasley" title="William Weasley">William Weasley</a>.</li></ul>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Myron_Wagtail?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Myron_Wagtail?action=edit&amp;section=4" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The name "Myron" is derived from Greek μυρον (myron) meaning "sweet oil, perfume". Myron was the name of a 5th-century BC Greek sculptor.
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Myron_Wagtail?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Myron_Wagtail?action=edit&amp;section=5" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" class="lazyload" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 7 images related to <i><b><a href="/wiki/Category:Images_of_Myron_Wagtail" title="Category:Images of Myron Wagtail">Myron Wagtail</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(video_game)" title="Harry Potter and the Philosopher&#39;s Stone (video game)">Harry Potter and the Philosopher's Stone (video game)</a></i> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(video_game)" title="Harry Potter and the Chamber of Secrets (video game)">Harry Potter and the Chamber of Secrets (video game)</a></i> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire" title="Harry Potter and the Goblet of Fire">Harry Potter and the Goblet of Fire</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire_(film)" title="Harry Potter and the Goblet of Fire (film)">Harry Potter and the Goblet of Fire (film)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">Harry Potter and the Half-Blood Prince</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter:_Years_1-4" title="LEGO Harry Potter: Years 1-4">LEGO Harry Potter: Years 1-4</a></i> <span class="template-c">(Appears as "Vocalist")</span></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i></li>
+<li><i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Myron_Wagtail?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Myron_Wagtail?action=edit&amp;section=6" title="Edit section: Notes and references

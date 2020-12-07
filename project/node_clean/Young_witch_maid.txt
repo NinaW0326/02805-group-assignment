@@ -1,0 +1,101 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/9/97/Leaky_Cauldron_POA_maid_1.jpg/revision/latest?cb=20090809234222" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/9/97/Leaky_Cauldron_POA_maid_1.jpg/revision/latest/scale-to-width-down/190?cb=20090809234222" srcset="https://static.wikia.nocookie.net/harrypotter/images/9/97/Leaky_Cauldron_POA_maid_1.jpg/revision/latest/scale-to-width-down/190?cb=20090809234222 1x, https://static.wikia.nocookie.net/harrypotter/images/9/97/Leaky_Cauldron_POA_maid_1.jpg/revision/latest/scale-to-width-down/380?cb=20090809234222 2x" class="pi-image-thumbnail" alt="" width="190" height="283"
+		     data-image-key="Leaky_Cauldron_POA_maid_1.jpg" data-image-name="Leaky Cauldron POA maid 1.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Young witch maid</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">c. <a href="/wiki/1975" title="1975">1975</a> or earlier<sup id="cite_ref-age_1-0" class="reference"><a href="#cite_note-age-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a><sup id="cite_ref-POAF_2-0" class="reference"><a href="#cite_note-POAF-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-POAF_2-1" class="reference"><a href="#cite_note-POAF-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female<sup id="cite_ref-POAF_2-2" class="reference"><a href="#cite_note-POAF-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Brown<sup id="cite_ref-POAF_2-3" class="reference"><a href="#cite_note-POAF-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White<sup id="cite_ref-POAF_2-4" class="reference"><a href="#cite_note-POAF-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Maid at the <a href="/wiki/Leaky_Cauldron" title="Leaky Cauldron">Leaky Cauldron</a><sup id="cite_ref-POAF_2-5" class="reference"><a href="#cite_note-POAF-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Leaky_Cauldron" title="Leaky Cauldron">Leaky Cauldron</a><sup id="cite_ref-POAF_2-6" class="reference"><a href="#cite_note-POAF-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Prisoner of Azkaban (film)"><b>Maid</b>: "<i>Housekeeping!</i>"</span></dd>
+<dd><b>Noise</b>: "<i>Roar-aw!</i>"</dd>
+<dd><b>Maid</b>: "<i>I'll come back later.</i>"</dd>
+<dd>&#8212; The maid of the <a href="/wiki/Leaky_Cauldron" title="Leaky Cauldron">Leaky Cauldron</a><sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(film)" title="Harry Potter and the Prisoner of Azkaban (film)">[src]</a></sup></dd></dl>
+</div>
+<p>This <b>young <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> maid</b> worked for <a href="/wiki/Tom" title="Tom">Tom</a>, the then-landlord of the <a href="/wiki/Leaky_Cauldron" title="Leaky Cauldron">Leaky Cauldron</a>. In <a href="/wiki/1993" title="1993">1993</a>, she knocked on the door of a room and announced herself as housekeeping. The room's resident responded with a bellowing roar and slammed the door in her face. Completely unperturbed, she remarked that she would come back later and walked away. She pulled a waggon with cleaning supplies and had a magical broom that swept by itself.<sup id="cite_ref-POAF_2-7" class="reference"><a href="#cite_note-POAF-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Young_witch_maid?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Young_witch_maid?action=edit&amp;section=1" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>The maid was portrayed by <a href="/wiki/Abby_Ford" title="Abby Ford">Abby Ford</a> in the <a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(film)" title="Harry Potter and the Prisoner of Azkaban (film)">film adaptation</a> of <i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban" title="Harry Potter and the Prisoner of Azkaban">Harry Potter and the Prisoner of Azkaban</a></i> credited as "Young Witch".</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Young_witch_maid?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Young_witch_maid?action=edit&amp;section=2" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(film)" title="Harry Potter and the Prisoner of Azkaban (film)">Harry Potter and the Prisoner of Azkaban (film)</a></i> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Young_witch_maid?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Young_witch_maid?action=edit&amp;section=3" title="Edit section: Notes and references

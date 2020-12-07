@@ -1,0 +1,113 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-phoenix pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/6/60/Marlene_McKinnon_PM.png/revision/latest?cb=20170616201434" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/6/60/Marlene_McKinnon_PM.png/revision/latest/scale-to-width-down/320?cb=20170616201434" srcset="https://static.wikia.nocookie.net/harrypotter/images/6/60/Marlene_McKinnon_PM.png/revision/latest/scale-to-width-down/320?cb=20170616201434 1x, https://static.wikia.nocookie.net/harrypotter/images/6/60/Marlene_McKinnon_PM.png/revision/latest/scale-to-width-down/640?cb=20170616201434 2x" class="pi-image-thumbnail" alt="" width="270" height="321"
+		     data-image-key="Marlene_McKinnon_PM.png" data-image-name="Marlene McKinnon PM.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Marlene McKinnon</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font">July, <a href="/wiki/1981" title="1981">1981</a><sup id="cite_ref-death_1-0" class="reference"><a href="#cite_note-death-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/McKinnon_family" title="McKinnon family">McKinnon family</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Order_of_the_Phoenix" title="Order of the Phoenix">Order of the Phoenix</a></li><li><a href="/wiki/McKinnon_family" title="McKinnon family">McKinnon family</a></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Order of the Phoenix">"<i>Marlene McKinnon, she was killed two weeks after this was taken, they got her whole family</i>"</span></dd>
+<dd>&#8212;Marlene and her family's murders<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Marlene McKinnon</b> (d. <a href="/wiki/July" title="July">July</a>, <a href="/wiki/1981" title="1981">1981</a>) was a <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> and member of the original <a href="/wiki/Order_of_the_Phoenix" title="Order of the Phoenix">Order of the Phoenix</a>. She fought in the <a href="/wiki/First_Wizarding_War" title="First Wizarding War">First Wizarding War</a> and was murdered by <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a>, along with her <a href="/wiki/McKinnon_family" title="McKinnon family">family</a>. The McKinnons were described as being one of the families Voldemort and his followers completely wiped out.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Magical_abilities_and_skills"><span class="tocnumber">2</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Etymology"><span class="tocnumber">3</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Behind_the_scenes"><span class="tocnumber">4</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Appearances"><span class="tocnumber">5</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Notes_and_references"><span class="tocnumber">6</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Marlene_McKinnon?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Marlene_McKinnon?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Marlene was a member of the wizarding <a href="/wiki/McKinnon_family" title="McKinnon family">McKinnon family</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p>
+<figure class="thumb tleft show-info-icon" style="width: 242px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/6/69/Original_Order_of_the_Phoenix.jpg/revision/latest?cb=20110603210642" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/6/69/Original_Order_of_the_Phoenix.jpg/revision/latest/scale-to-width-down/240?cb=20110603210642" decoding="async" width="240" height="159" class="thumbimage" data-image-name="Original Order of the Phoenix.jpg" data-image-key="Original_Order_of_the_Phoenix.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Original_Order_of_the_Phoenix.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Marlene in a picture of the original Order of the Phoenix, two weeks before her death</p> 		 	</figcaption> </figure>
+<p>During the <a href="/wiki/First_Wizarding_War" title="First Wizarding War">First Wizarding War</a>, Marlene McKinnon became a member of the <a href="/wiki/Order_of_the_Phoenix" title="Order of the Phoenix">Order of the Phoenix</a>, an organisation led and founded by <a href="/wiki/Albus_Dumbledore" title="Albus Dumbledore">Albus Dumbledore</a>, in order to oppose <a href="/wiki/Tom_Riddle" title="Tom Riddle">Lord Voldemort</a> and his <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a>. She fought in several battles of the First Wizarding War. The McKinnons were said to be one of the families killed off by Voldemort, as <a href="/wiki/Rubeus_Hagrid" title="Rubeus Hagrid">Rubeus Hagrid</a> told Harry in his first year, when pushed to discuss the matter.
+</p><p>Marlene and her whole family were murdered by <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a> in July 1981.<sup id="cite_ref-death_1-1" class="reference"><a href="#cite_note-death-1">&#91;1&#93;</a></sup> <a href="/wiki/Igor_Karkaroff" title="Igor Karkaroff">Igor Karkaroff</a> implicated <a href="/wiki/Travers" title="Travers">Travers</a> as one of the people who was involved.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> "<a href="/wiki/Mad-Eye_Moody" class="mw-redirect" title="Mad-Eye Moody">Mad-Eye" Moody</a> pointed Marlene out to <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> in a photo of the Order that was taken two weeks before her death.<sup id="cite_ref-ootp9_4-0" class="reference"><a href="#cite_note-ootp9-4">&#91;4&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Marlene_McKinnon?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Marlene_McKinnon?action=edit&amp;section=2" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Magic" title="Magic">Magical</a> skills</b>: To be a member of the <a href="/wiki/Order_of_the_Phoenix" title="Order of the Phoenix">Order of the Phoenix</a>, it is highly likely that Marlene was a talented <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> who most likely used her magical ability in a number of battles against the <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a> before her untimely death.<sup id="cite_ref-ootp9_4-1" class="reference"><a href="#cite_note-ootp9-4">&#91;4&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Marlene_McKinnon?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Marlene_McKinnon?action=edit&amp;section=3" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>"Marlene" is a name of Germanic origin, and is a blend of the names "Maria" and "Magdaline"; which mean "star of the sea" and "of Magdala" respectively. The name "McKinnon" is Scottish, an Anglicised version of the Gaelic name "Mac Fhionghuin", meaning "fair born" or "fair son." It is also translated as "love."<sup class="noprint">&#91;<a href="http://en.wikipedia.org/wiki/Wikipedia:Citing_sources" class="extiw" title="wikipedia:Wikipedia:Citing sources"><i><span title="The material in the vicinity of this tag needs references to reliable sources." style="white-space: nowrap;">citation needed</span></i></a>&#93;</sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Marlene_McKinnon?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Marlene_McKinnon?action=edit&amp;section=4" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Although the <a href="/wiki/McKinnon_family" title="McKinnon family">McKinnon family</a> is mentioned throughout the book series, as well in the <a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(film)" title="Harry Potter and the Order of the Phoenix (film)">film adaptation</a> of <i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">Harry Potter and the Order of the Phoenix</a></i>, Marlene is the only member of the family who has been identified as working for the Order.</li>
+<li><a href="/wiki/Lily_J._Potter" title="Lily J. Potter">Lily J. Potter</a> says in <a href="/wiki/Lily_Potter%27s_letter" class="mw-redirect" title="Lily Potter&#39;s letter">her letter</a> to <a href="/wiki/Sirius_Black" title="Sirius Black">Sirius Black</a> that she cried all night when she heard about the McKinnons' deaths, and she attributes <a href="/wiki/Peter_Pettigrew" title="Peter Pettigrew">Peter Pettigrew</a>'s melancholy to the same reason, which might suggest that Lily and the <a href="/wiki/Marauders" title="Marauders">Marauders</a> were close to Marlene and/or her family.</li>
+<li>It is unknown why the McKinnons were all together when they were killed or how they were related to each other. It is possible that they were a nuclear family living in one household and consisting of parents and young children (in which case, Marlene might have been either a mother or an older daughter to the family) or that they were brought to one location by an unidentified family event, known to the Death Eaters who killed them.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Marlene_McKinnon?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Marlene_McKinnon?action=edit&amp;section=5" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 4 images related to <i><b><a href="/wiki/Category:Images_of_Marlene_McKinnon" title="Category:Images of Marlene McKinnon">Marlene McKinnon</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone" title="Harry Potter and the Philosopher&#39;s Stone">Harry Potter and the Philosopher's Stone</a></i> <span class="template-c">(Mentioned, not by name)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire" title="Harry Potter and the Goblet of Fire">Harry Potter and the Goblet of Fire</a></i> <small>(First mentioned)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">Harry Potter and the Order of the Phoenix</a></i> <small>(Appears in photographs)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(film)" title="Harry Potter and the Order of the Phoenix (film)">Harry Potter and the Order of the Phoenix (film)</a></i> <small>(Appears in photographs)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">Harry Potter and the Deathly Hallows</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Marlene_McKinnon?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Marlene_McKinnon?action=edit&amp;section=6" title="Edit section: Notes and references

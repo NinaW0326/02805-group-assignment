@@ -1,0 +1,154 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/c/c8/Percival_Dumbledore.png/revision/latest?cb=20110406190748" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/c/c8/Percival_Dumbledore.png/revision/latest/scale-to-width-down/232?cb=20110406190748" srcset="https://static.wikia.nocookie.net/harrypotter/images/c/c8/Percival_Dumbledore.png/revision/latest/scale-to-width-down/232?cb=20110406190748 1x, https://static.wikia.nocookie.net/harrypotter/images/c/c8/Percival_Dumbledore.png/revision/latest/scale-to-width-down/464?cb=20110406190748 2x" class="pi-image-thumbnail" alt="" width="232" height="385"
+		     data-image-key="Percival_Dumbledore.png" data-image-name="Percival Dumbledore.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Percival Dumbledore</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">Before <a href="/wiki/1864" class="mw-redirect" title="1864">1864</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font">After <a href="/wiki/1890" class="mw-redirect" title="1890">1890</a><br/><a href="/wiki/Azkaban" title="Azkaban">Azkaban</a>, <a href="/wiki/North_Sea" title="North Sea">North Sea</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="marital">
+	
+		<h3 class="pi-data-label pi-secondary-font">Marital status</h3>
+	
+	<div class="pi-data-value pi-font">Married</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Kendra_Dumbledore" title="Kendra Dumbledore">Kendra Dumbledore</a> (wife) †</li><li><a href="/wiki/Albus_Dumbledore" title="Albus Dumbledore">Albus Dumbledore</a> (son) †</li><li><a href="/wiki/Aberforth_Dumbledore" title="Aberforth Dumbledore">Aberforth Dumbledore</a> (son)</li><li><a href="/wiki/Ariana_Dumbledore" title="Ariana Dumbledore">Ariana Dumbledore</a> (daughter) †</li><li><a href="/wiki/Honoria" title="Honoria">Honoria</a> (sister or sister-in-law)</li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Dumbledore_family" title="Dumbledore family">Dumbledore family</a></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Deathly Hallows">"<i> </i>[...]<i> my father went after the bastards that did it, and attacked them. And they locked him up in Azkaban for it. He never said why he'd done it, because if the Ministry had known what Ariana had become, she'd have been locked up in St Mungo's for good </i>[...]<i> </i>"</span></dd>
+<dd>&#8212;<a href="/wiki/Aberforth_Dumbledore" title="Aberforth Dumbledore">Aberforth Dumbledore</a><sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Percival Dumbledore</b> (fl. <a href="/wiki/1881" class="mw-redirect" title="1881">1881</a>) was a <a href="/wiki/Great_Britain" title="Great Britain">British</a> <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a>, the husband of <a href="/wiki/Kendra_Dumbledore" title="Kendra Dumbledore">Kendra Dumbledore</a> and the father of <a href="/wiki/Albus_Dumbledore" title="Albus Dumbledore">Albus</a>, <a href="/wiki/Aberforth_Dumbledore" title="Aberforth Dumbledore">Aberforth</a>, and <a href="/wiki/Ariana_Dumbledore" title="Ariana Dumbledore">Ariana Dumbledore</a>. After attacking <a href="/wiki/Unidentified_Mould-on-the-Wold_boys" title="Unidentified Mould-on-the-Wold boys">three male Muggles</a> who assaulted Ariana, he was sentenced to imprisonment in <a href="/wiki/Azkaban" title="Azkaban">Azkaban</a>. Percival died there sometime later after <a href="/wiki/1890" class="mw-redirect" title="1890">1890</a>.<sup id="cite_ref-DH28_1-0" class="reference"><a href="#cite_note-DH28-1">&#91;1&#93;</a></sup> Many years later, <a href="/wiki/Albus_Dumbledore" title="Albus Dumbledore">his eldest son</a> became the longest and most noted <a href="/wiki/Headmaster" title="Headmaster">Headmaster</a> of <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> and was considered by some as the greatest wizard of all time.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Physical_appearance"><span class="tocnumber">2</span> <span class="toctext">Physical appearance</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Relationships"><span class="tocnumber">3</span> <span class="toctext">Relationships</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Kendra_Dumbledore"><span class="tocnumber">3.1</span> <span class="toctext">Kendra Dumbledore</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Albus_Dumbledore_and_Aberforth_Dumbledore"><span class="tocnumber">3.2</span> <span class="toctext">Albus Dumbledore and Aberforth Dumbledore</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Ariana_Dumbledore"><span class="tocnumber">3.3</span> <span class="toctext">Ariana Dumbledore</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Etymology"><span class="tocnumber">4</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Behind_the_scenes"><span class="tocnumber">5</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Appearances"><span class="tocnumber">6</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Notes_and_references"><span class="tocnumber">7</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Percival_Dumbledore?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Percival_Dumbledore?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Percival was born into a <a href="/wiki/Pure-blood" title="Pure-blood">pure-blood</a> or <a href="/wiki/Half-blood" title="Half-blood">half-blood</a> family. In his later life, he married a <a href="/wiki/Muggle-born" title="Muggle-born">Muggle-born</a> witch named <a href="/wiki/Kendra_Dumbledore" title="Kendra Dumbledore">Kendra</a> with whom he had three children: <a href="/wiki/Albus_Dumbledore" title="Albus Dumbledore">Albus</a> (who bore the same as his second name), <a href="/wiki/Aberforth_Dumbledore" title="Aberforth Dumbledore">Aberforth</a>, and <a href="/wiki/Ariana_Dumbledore" title="Ariana Dumbledore">Ariana</a>.<sup id="cite_ref-DH28_1-1" class="reference"><a href="#cite_note-DH28-1">&#91;1&#93;</a></sup>
+</p><p>At the age of six, Percival's daughter Ariana was assaulted by <a href="/wiki/Unidentified_Mould-on-the-Wold_boys" title="Unidentified Mould-on-the-Wold boys">three Muggle boys</a>. The incident left her permanently traumatised and unable to control her magic powers. Percival, in a fit of vengeful rage, attacked her assailants. This resulted in his arrest and conviction by the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">Ministry of Magic</a>. He was sentenced to <a href="/wiki/Azkaban" title="Azkaban">Azkaban</a>, where he later died. Percival never admitted the reasons for his attack on the Muggles. This was largely due to his fear that if the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">Ministry</a> found out about his daughter's delicate condition, they would send her to <a href="/wiki/St_Mungo%27s_Hospital_for_Magical_Maladies_and_Injuries" title="St Mungo&#39;s Hospital for Magical Maladies and Injuries">St Mungo's Hospital for Magical Maladies and Injuries</a> for the rest of her life, effectively locking her away permanently as a hazard to the <a href="/wiki/International_Statute_of_Wizarding_Secrecy" title="International Statute of Wizarding Secrecy">International Statute of Wizarding Secrecy</a>.<sup id="cite_ref-DH28_1-2" class="reference"><a href="#cite_note-DH28-1">&#91;1&#93;</a></sup>
+</p>
+<figure class="thumb tleft show-info-icon" style="width: 252px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/1/1d/Percival_Dumbledore_in_Azkaban.png/revision/latest?cb=20161104191851" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/1/1d/Percival_Dumbledore_in_Azkaban.png/revision/latest/scale-to-width-down/250?cb=20161104191851" decoding="async" width="250" height="163" class="thumbimage" data-image-name="Percival Dumbledore in Azkaban.png" data-image-key="Percival_Dumbledore_in_Azkaban.png" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Percival_Dumbledore_in_Azkaban.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Percival Dumbledore during his imprisonment in <a href="/wiki/Azkaban" title="Azkaban">Azkaban</a></p> 		 	</figcaption> </figure>
+<p>Percival's attack on the Muggle children led many to believe that he was a supporter of the notion of <a href="/wiki/Blood_status" title="Blood status">blood purity</a>. However, this was almost certainly untrue as Percival's own wife was a <a href="/wiki/Muggle-born" title="Muggle-born">Muggle-born</a> <a href="/wiki/Wizardkind" title="Wizardkind">witch</a>. However, the Dumbledore family kept its secrets well, and Percival's reputation would remain tarnished even after the death of his 115-year-old son, Albus.<sup id="cite_ref-DH28_1-3" class="reference"><a href="#cite_note-DH28-1">&#91;1&#93;</a></sup>
+</p><p>When <a href="/wiki/Albus_Dumbledore" title="Albus Dumbledore">Albus Dumbledore</a> put on the <a href="/wiki/Peverell_family" title="Peverell family">Peverell</a> Ring, with hopes that using the <a href="/wiki/Resurrection_Stone" title="Resurrection Stone">Resurrection Stone</a> would allow him to see his loved ones once more, one of the people he hoped to see — and apologise to — was his father.<sup id="cite_ref-DH33_2-0" class="reference"><a href="#cite_note-DH33-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Physical_appearance">Physical appearance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Percival_Dumbledore?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Physical appearance">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Percival_Dumbledore?action=edit&amp;section=2" title="Edit section: Physical appearance"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>As a relatively young wizard, Percival was described as "<i>a good-looking man with eyes that seemed to twinkle</i>,"<sup id="cite_ref-DH11_3-0" class="reference"><a href="#cite_note-DH11-3">&#91;3&#93;</a></sup> like his son, Albus, who, in his own time at Hogwarts, exhibited many of the same traits as his father.
+</p>
+<h2><span class="mw-headline" id="Relationships">Relationships</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Percival_Dumbledore?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Relationships">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Percival_Dumbledore?action=edit&amp;section=3" title="Edit section: Relationships"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Kendra_Dumbledore">Kendra Dumbledore</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Percival_Dumbledore?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Kendra Dumbledore">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Percival_Dumbledore?action=edit&amp;section=4" title="Edit section: Kendra Dumbledore"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="thumb tright show-info-icon" style="width: 145px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/7/7c/Kendra_Dumbledore.png/revision/latest?cb=20110406191633" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/7/7c/Kendra_Dumbledore.png/revision/latest/scale-to-width-down/143?cb=20110406191633" decoding="async" width="143" height="210" class="thumbimage" data-image-name="Kendra Dumbledore.png" data-image-key="Kendra_Dumbledore.png" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Kendra_Dumbledore.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Percival's wife, <a href="/wiki/Kendra_Dumbledore" title="Kendra Dumbledore">Kendra</a></p> 		 	</figcaption> </figure>
+<p>Percival's relationship with his wife during their marriage is unknown, but they shared a devotion to their children, particularly their youngest, Ariana. Percival attacked the three boys who assaulted their daughter, and Kendra devoted the remainder of her life to taking care of Ariana.<sup id="cite_ref-DH28_1-4" class="reference"><a href="#cite_note-DH28-1">&#91;1&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Albus_Dumbledore_and_Aberforth_Dumbledore">Albus Dumbledore and Aberforth Dumbledore</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Percival_Dumbledore?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Albus Dumbledore and Aberforth Dumbledore">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Percival_Dumbledore?action=edit&amp;section=5" title="Edit section: Albus Dumbledore and Aberforth Dumbledore"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="thumb tleft show-info-icon" style="width: 156px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/4/40/Albus_Dumbledore_%28HBP_promo%29_3.jpg/revision/latest?cb=20150822232849" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/4/40/Albus_Dumbledore_%28HBP_promo%29_3.jpg/revision/latest/scale-to-width-down/154?cb=20150822232849" decoding="async" width="154" height="206" class="thumbimage" data-image-name="Albus Dumbledore (HBP promo) 3.jpg" data-image-key="Albus_Dumbledore_(HBP_promo)_3.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Albus_Dumbledore_(HBP_promo)_3.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Percival's son, Albus</p> 		 	</figcaption> </figure> 
+<figure class="thumb tright show-info-icon" style="width: 167px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/4/40/Aberforth_Dumbledore.jpg/revision/latest?cb=20170911160033" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="165" height="191" class="thumbimage lazyload" data-image-name="Aberforth Dumbledore.jpg" data-image-key="Aberforth_Dumbledore.jpg" data-src="https://static.wikia.nocookie.net/harrypotter/images/4/40/Aberforth_Dumbledore.jpg/revision/latest/scale-to-width-down/165?cb=20170911160033" /></a> 	<noscript><a href="https://static.wikia.nocookie.net/harrypotter/images/4/40/Aberforth_Dumbledore.jpg/revision/latest?cb=20170911160033" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/4/40/Aberforth_Dumbledore.jpg/revision/latest/scale-to-width-down/165?cb=20170911160033" decoding="async" width="165" height="191" class="thumbimage" data-image-name="Aberforth Dumbledore.jpg" data-image-key="Aberforth_Dumbledore.jpg" data-src="https://static.wikia.nocookie.net/harrypotter/images/4/40/Aberforth_Dumbledore.jpg/revision/latest/scale-to-width-down/165?cb=20170911160033" /></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Aberforth_Dumbledore.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Percival's son, Aberforth</p> 		 	</figcaption> </figure>
+<p>Percival's relationship with his sons is not very clear. Percival did not seem to be held in high regard by Albus, especially for being imprisoned in Azkaban for an attack on three Muggles, but years later, Dumbledore wished to use the <a href="/wiki/Resurrection_Stone" title="Resurrection Stone">Resurrection Stone</a> to bring back his deceased family and apologise to them — even his father, showing that Albus neverthless truly loved Percival despite all that happened. Like Albus, Aberforth may not have held his father in high regard either for his attack on the Muggles who attacked his sister, Ariana and being imprisoned in Azkaban.<sup id="cite_ref-DH28_1-5" class="reference"><a href="#cite_note-DH28-1">&#91;1&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Ariana_Dumbledore">Ariana Dumbledore</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Percival_Dumbledore?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Ariana Dumbledore">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Percival_Dumbledore?action=edit&amp;section=6" title="Edit section: Ariana Dumbledore"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Deathly Hallows">"<i> </i>[...]<i> my father went after the bastards that did it, and attacked them. And they locked him up in Azkaban for it. He never said why he'd done it, because if the Ministry had known what Ariana had become, she'd have been locked up in St Mungo's for good... We had to keep her safe and quiet.</i>"</span></dd>
+<dd>&#8212;<a href="/wiki/Aberforth_Dumbledore" title="Aberforth Dumbledore">Aberforth Dumbledore</a> on Percival and Kendra Dumbledore<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">[src]</a></sup></dd>
+<dd></dd></dl></div><figure class="thumb tright show-info-icon" style="width: 147px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/0/0e/Ariana_Dumbledore_Hog%27s_Head.jpg/revision/latest?cb=20120108013927" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="145" height="191" class="thumbimage lazyload" data-image-name="Ariana Dumbledore Hog&#39;s Head.jpg" data-image-key="Ariana_Dumbledore_Hog&#39;s_Head.jpg" data-src="https://static.wikia.nocookie.net/harrypotter/images/0/0e/Ariana_Dumbledore_Hog%27s_Head.jpg/revision/latest/scale-to-width-down/145?cb=20120108013927" /></a> 	<noscript><a href="https://static.wikia.nocookie.net/harrypotter/images/0/0e/Ariana_Dumbledore_Hog%27s_Head.jpg/revision/latest?cb=20120108013927" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/0/0e/Ariana_Dumbledore_Hog%27s_Head.jpg/revision/latest/scale-to-width-down/145?cb=20120108013927" decoding="async" width="145" height="191" class="thumbimage" data-image-name="Ariana Dumbledore Hog&#39;s Head.jpg" data-image-key="Ariana_Dumbledore_Hog&#39;s_Head.jpg" data-src="https://static.wikia.nocookie.net/harrypotter/images/0/0e/Ariana_Dumbledore_Hog%27s_Head.jpg/revision/latest/scale-to-width-down/145?cb=20120108013927" /></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Ariana_Dumbledore_Hog%27s_Head.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Percival's daughter, Ariana</p> 		 	</figcaption> </figure>
+<p>Percival was devastated by his daughter's assault. He attacked the <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> boys who did it and was sent to <a href="/wiki/Azkaban" title="Azkaban">Azkaban</a> for it. He never explained to the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">Ministry</a> his reasons, knowing that if they discovered <a href="/wiki/Ariana_Dumbledore" title="Ariana Dumbledore">Ariana Dumbledore</a>'s condition, she would be confined to <a href="/wiki/St_Mungo%27s_Hospital_for_Magical_Maladies_and_Injuries" title="St Mungo&#39;s Hospital for Magical Maladies and Injuries">St Mungo's</a> as a threat to the <a href="/wiki/International_Statute_of_Wizarding_Secrecy" title="International Statute of Wizarding Secrecy">Statute of Secrecy</a>.<sup id="cite_ref-DH28_1-6" class="reference"><a href="#cite_note-DH28-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Percival_Dumbledore?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Percival_Dumbledore?action=edit&amp;section=7" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="http://en.wikipedia.org/wiki/Percival_(disambiguation)" class="extiw" title="wikipedia:Percival (disambiguation)">Percival</a> was a knight of the Round Table in Arthurian legend. The name is believed to be derived from the Old French <i>percer val</i>, meaning "to pierce the valley".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Percival_Dumbledore?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Percival_Dumbledore?action=edit&amp;section=8" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>In <i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1" title="Harry Potter and the Deathly Hallows: Part 1">Harry Potter and the Deathly Hallows: Part 1</a></i>, <a href="/wiki/Muriel" title="Muriel">Muriel</a> claimed that Percival had <i>"killed"</i> the Muggles, rather than just <a href="/wiki/Curse" title="Curse">cursing</a> or magically assaulting them. She may have been exaggerating or the detail was changed in the film.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Percival_Dumbledore?veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Percival_Dumbledore?action=edit&amp;section=9" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" class="lazyload" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 3 images related to <i><b><a href="/wiki/Category:Images_of_Percival_Dumbledore" title="Category:Images of Percival Dumbledore">Percival Dumbledore</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">Harry Potter and the Deathly Hallows</a></i> <small>(First mentioned)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1" title="Harry Potter and the Deathly Hallows: Part 1">Harry Potter and the Deathly Hallows: Part 1</a></i> <span class="template-c">(appears in photograph)</span></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Percival_Dumbledore?veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Percival_Dumbledore?action=edit&amp;section=10" title="Edit section: Notes and references

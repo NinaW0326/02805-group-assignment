@@ -1,0 +1,114 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/b/b4/Winifred_Whittle.png/revision/latest?cb=20161028034848" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/b/b4/Winifred_Whittle.png/revision/latest/scale-to-width-down/336?cb=20161028034848" srcset="https://static.wikia.nocookie.net/harrypotter/images/b/b4/Winifred_Whittle.png/revision/latest/scale-to-width-down/336?cb=20161028034848 1x, https://static.wikia.nocookie.net/harrypotter/images/b/b4/Winifred_Whittle.png/revision/latest/scale-to-width-down/672?cb=20161028034848 2x" class="pi-image-thumbnail" alt="" width="270" height="385"
+		     data-image-key="Winifred_Whittle.png" data-image-name="Winifred Whittle.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Winifred Whittle</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Blonde</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Blue</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Fair</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Hadrian_Whittle" title="Hadrian Whittle">Hadrian Whittle</a> (possibly)</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Environmental Activist</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Witches%27_Holistic_Institute_for_Friends_of_Fairies" title="Witches&#039; Holistic Institute for Friends of Fairies">Witches' Holistic Institute for Friends of Fairies</a></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Fantastic Beasts: Cases from the Wizarding World"><b>Mathilda Grimblehawk</b>: "<i>Winifred Whittle? Sorry to intrude, but we're from the Ministry of Magic. We need to ask you a few questions.</i>"</span></dd>
+<dd><b>Winifred Whittle</b>: "<i>Finally, a response to my letters about the scandalous fairy habitat intrusion!</i>"</dd>
+<dd>&#8212; <a href="/wiki/Mathilda_Grimblehawk" title="Mathilda Grimblehawk">Mathilda Grimblehawk</a> and <a href="/wiki/Mathilda_Grimblehawk%27s_partner" title="Mathilda Grimblehawk&#39;s partner">her partner</a> first approach Whittle to enquire about the attacks on <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> construction workers<sup class="noprint"><a href="/wiki/Fantastic_Beasts:_Cases_from_the_Wizarding_World" title="Fantastic Beasts: Cases from the Wizarding World">[src]</a></sup></dd></dl>
+</div>
+<p><b>Winifred Whittle</b> was a <a href="/wiki/Great_Britain" title="Great Britain">British</a>&#160;<a href="/wiki/Wizardkind" title="Wizardkind">witch</a> who established the <a href="/wiki/Witches%27_Holistic_Institute_for_Friends_of_Fairies" title="Witches&#39; Holistic Institute for Friends of Fairies">Witches' Holistic Institute for Friends of Fairies</a> (or, simply, WHIFF) of which only she and <a href="/wiki/Sage_Bragnam" title="Sage Bragnam">Sage Bragnam</a> were members. 
+</p>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Winifred_Whittle?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Winifred_Whittle?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>She was openly critical of <a href="/wiki/Non-magic_people" title="Non-magic people">Muggles</a>, denouncing them for cutting down the forest where <a href="/wiki/Fairy" title="Fairy">fairies</a> lived. She lived in a cottage&#160;in a forest inhabited by <a href="/wiki/Magic" title="Magic">magical</a> <a href="/wiki/Creature" title="Creature">creatures</a>.<sup id="cite_ref-FBC3.1_1-0" class="reference"><a href="#cite_note-FBC3.1-1">&#91;1&#93;</a></sup>
+</p><p><a href="/wiki/Bethany_Harrison" title="Bethany Harrison">Bethany Harrison</a>, the daughter of the <a href="/wiki/Don_Harrison" title="Don Harrison">foreman</a> of the <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> construction works, was scared of her&#160;and included her in <a href="/wiki/Bethany_Harrison%27s_sketch" class="mw-redirect" title="Bethany Harrison&#39;s sketch">a drawing of the forest</a> in which she was depicted as a green-skinned&#160;<a href="/wiki/Hag" title="Hag">hag</a> with sharp teeth.<sup id="cite_ref-FBC3.1_1-1" class="reference"><a href="#cite_note-FBC3.1-1">&#91;1&#93;</a></sup> While at first, <a href="/wiki/Mathilda_Grimblehawk" title="Mathilda Grimblehawk">Mathilda Grimblehawk</a> suspected it might be Whittle that was attacking the <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> construction workers in an attempt to scare them away from the forest, after meeting her, she dismissed it, regarding her as "a harmless fairy fanatic".<sup id="cite_ref-FBC3.1_1-2" class="reference"><a href="#cite_note-FBC3.1-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Winifred_Whittle?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Winifred_Whittle?action=edit&amp;section=2" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 2 images related to <i><b><a href="/wiki/Category:Images_of_Winifred_Whittle" title="Category:Images of Winifred Whittle">Winifred Whittle</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<ul><li><i><a href="/wiki/Fantastic_Beasts:_Cases_from_the_Wizarding_World" title="Fantastic Beasts: Cases from the Wizarding World">Fantastic Beasts: Cases from the Wizarding World</a></i> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Winifred_Whittle?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Winifred_Whittle?action=edit&amp;section=3" title="Edit section: Notes and references

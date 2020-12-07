@@ -1,0 +1,37 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-organisation pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Educational Office</h2>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Organisation information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="leader">
+	
+		<h3 class="pi-data-label pi-secondary-font">Leader(s)</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/International_Confederation_of_Wizards" title="International Confederation of Wizards">International Confederation of Wizards</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="intentions">
+	
+		<h3 class="pi-data-label pi-secondary-font">Intentions</h3>
+	
+	<div class="pi-data-value pi-font">Overseeing <a href="/wiki/Wizarding_school" title="Wizarding school">wizarding schools</a> around the world</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="affiliation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Affiliation</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/International_Confederation_of_Wizards" title="International Confederation of Wizards">International Confederation of Wizards</a></li><li><a href="/wiki/Wizardkind" title="Wizardkind">Wizardkind</a></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Organisation_infobox" title="Template:Organisation infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+The <b>Educational Office</b> is a division of the <a href="/wiki/International_Confederation_of_Wizards" title="International Confederation of Wizards">International Confederation of Wizards</a> responsible for overseeing <a href="/wiki/Wizarding_school" title="Wizarding school">wizarding schools</a> around the world.<sup id="cite_ref-PM_1-0" class="reference"><a href="#cite_note-PM-1">&#91;1&#93;</a></sup> The eleven long-established and prestigious wizarding schools worldwide are registered in the Office. Those wishing to know if there was an approved <a href="/wiki/Magic" title="Magic">magical</a> school in their region could send an <a href="/wiki/Owl" title="Owl">owl</a> to the Educational Office.<sup id="cite_ref-PM_1-1" class="reference"><a href="#cite_note-PM-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Educational_Office?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Educational_Office?action=edit&amp;section=1" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i></li>
+<li><i><a href="/wiki/Wizarding_World_(website)" title="Wizarding World (website)">Wizarding World</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Educational_Office?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Educational_Office?action=edit&amp;section=2" title="Edit section: Notes and references

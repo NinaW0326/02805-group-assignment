@@ -1,0 +1,87 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/9/94/PerseusEcklington.png/revision/latest?cb=20140708222057" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/9/94/PerseusEcklington.png/revision/latest/scale-to-width-down/283?cb=20140708222057" srcset="https://static.wikia.nocookie.net/harrypotter/images/9/94/PerseusEcklington.png/revision/latest/scale-to-width-down/283?cb=20140708222057 1x, https://static.wikia.nocookie.net/harrypotter/images/9/94/PerseusEcklington.png/revision/latest/scale-to-width-down/566?cb=20140708222057 2x" class="pi-image-thumbnail" alt="" width="270" height="399"
+		     data-image-key="PerseusEcklington.png" data-image-name="PerseusEcklington.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Perseus Ecklington</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="marital">
+	
+		<h3 class="pi-data-label pi-secondary-font">Marital status</h3>
+	
+	<div class="pi-data-value pi-font">Married<sup id="cite_ref-BPsleepingpotion_1-0" class="reference"><a href="#cite_note-BPsleepingpotion-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a><sup id="cite_ref-BPsleepingpotion_1-1" class="reference"><a href="#cite_note-BPsleepingpotion-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-BPsleepingpotion_1-2" class="reference"><a href="#cite_note-BPsleepingpotion-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male<sup id="cite_ref-BPsleepingpotion_1-3" class="reference"><a href="#cite_note-BPsleepingpotion-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Brown<sup id="cite_ref-BPsleepingpotion_1-4" class="reference"><a href="#cite_note-BPsleepingpotion-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White<sup id="cite_ref-BPsleepingpotion_1-5" class="reference"><a href="#cite_note-BPsleepingpotion-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Daisy_Twemlove" title="Daisy Twemlove">Daisy Twemlove</a> (wife)<sup id="cite_ref-BPsleepingpotion_1-6" class="reference"><a href="#cite_note-BPsleepingpotion-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Perseus Ecklington</b> was a <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> who, in his youth, courted <a href="/wiki/Daisy_Twemlove" title="Daisy Twemlove">Daisy Twemlove</a>.<sup id="cite_ref-BPsleepingpotion_1-7" class="reference"><a href="#cite_note-BPsleepingpotion-1">&#91;1&#93;</a></sup>
+</p><p>On the eve of Ecklington's wedding to Daisy Twemlove, <a href="/wiki/Norville_Bezerko" title="Norville Bezerko">Norville Bezerko</a>, his love rival, slipped a powerful <a href="/wiki/Sleeping_Potion" title="Sleeping Potion">Sleeping Potion</a> into his <a href="/wiki/Butterbeer" title="Butterbeer">butterbeer</a> mug, sending him into a deep death-like sleep. Bezerko prompty presented himself at Daisy's house, telling her that Ecklington had died of panic at the prospect of marrying her. An unsuspecting Daisy accepted a proposal of marriage from Bezerko the moment Ecklington was buried.<sup id="cite_ref-BPsleepingpotion_1-8" class="reference"><a href="#cite_note-BPsleepingpotion-1">&#91;1&#93;</a></sup>
+</p><p>Ecklington was put in a coffin, and, just as <a href="/wiki/Funeral_of_Perseus_Ecklington" title="Funeral of Perseus Ecklington">he was being lowered into the ground</a>, he woke up, the effects of the <a href="/wiki/Sleeping_Potion" title="Sleeping Potion">Sleeping Potion</a> gone. Ecklington soon realised Bezerko's scheme, and a brawl ensued. Bezerko was left with an <a href="/wiki/Elephant" title="Elephant">elephant</a>'s trunk and six ears, thus hampering his chances of finding another bride, and Daisy Twemlove was reunited with Perseus Ecklington.<sup id="cite_ref-BPsleepingpotion_1-9" class="reference"><a href="#cite_note-BPsleepingpotion-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Perseus_Ecklington?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Perseus_Ecklington?action=edit&amp;section=1" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Wonderbook:_Book_of_Potions" title="Wonderbook: Book of Potions">Wonderbook: Book of Potions</a></i> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Perseus_Ecklington?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Perseus_Ecklington?action=edit&amp;section=2" title="Edit section: Notes and references

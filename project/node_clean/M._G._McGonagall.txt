@@ -1,0 +1,87 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-gryffindor pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/f/f9/Picture_5.png/revision/latest?cb=20180607070318" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/f/f9/Picture_5.png/revision/latest/scale-to-width-down/313?cb=20180607070318" srcset="https://static.wikia.nocookie.net/harrypotter/images/f/f9/Picture_5.png/revision/latest/scale-to-width-down/313?cb=20180607070318 1x, https://static.wikia.nocookie.net/harrypotter/images/f/f9/Picture_5.png/revision/latest/scale-to-width-down/626?cb=20180607070318 2x" class="pi-image-thumbnail" alt="" width="270" height="310"
+		     data-image-key="Picture_5.png" data-image-name="Picture 5.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">M. G. McGonagall</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/1_September" title="1 September">1 September</a> <a href="/wiki/1952" title="1952">1952</a> - late <a href="/wiki/August" title="August">August</a> <a href="/wiki/1960" title="1960">1960</a><sup id="cite_ref-birthdate_1-0" class="reference"><a href="#cite_note-birthdate-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a> or <a href="/wiki/Ireland" title="Ireland">Irish</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Robert_McGonagall_Senior" title="Robert McGonagall Senior">Robert McGonagall Snr</a> (possibly)</li><li><a href="/wiki/Isobel_Ross" title="Isobel Ross">Isobel McGonagall</a> (possibly)</li><li><a href="/wiki/Minerva_McGonagall" title="Minerva McGonagall">Minerva McGonagall</a> (possibly)</li><li><a href="/wiki/Malcolm_McGonagall" title="Malcolm McGonagall">Malcolm McGonagall</a> (possibly)</li><li><a href="/wiki/Robert_McGonagall_Junior" title="Robert McGonagall Junior">Robert McGonagall Jnr</a> (possibly)</li><li><a href="/wiki/Elphinstone_Urquart" title="Elphinstone Urquart">Elphinstone Urquart</a> (possibly)</li><li><a href="/wiki/Minerva" title="Minerva">Minerva</a> (possibly)</li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="house">
+	
+		<h3 class="pi-data-label pi-secondary-font">House</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Gryffindor" title="Gryffindor">Gryffindor</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Gryffindor_Quidditch_team" title="Gryffindor Quidditch team">Gryffindor Quidditch team</a></li><li><a href="/wiki/Gryffindor" title="Gryffindor">Gryffindor</a></li><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a></li><li><a href="/wiki/McGonagall_family" title="McGonagall family">McGonagall family</a></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>M. G. McGonagall</b> was a <a href="/wiki/Gryffindor" title="Gryffindor">Gryffindor</a> student at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> in the early <a href="/wiki/1970s" title="1970s">1970s</a>. They played on the <a href="/wiki/Gryffindor_Quidditch_team" title="Gryffindor Quidditch team">Gryffindor Quidditch team</a>, winning an award for it in <a href="/wiki/1971" title="1971">1971</a>, which was displayed at Hogwarts on a plaque that also bore the names of <a href="/wiki/James_Potter_I" title="James Potter I">James Potter</a> and <a href="/wiki/R._J._H._King" title="R. J. H. King">R. J. H. King</a>.
+</p><p>McGonagall may have been related to <a href="/wiki/Transfiguration" title="Transfiguration">Transfiguration</a> teacher <a href="/wiki/Minerva_McGonagall" title="Minerva McGonagall">Minerva McGonagall</a>. It is possible that M. G. McGonagall is one of her nephews or nieces from her two brothers, <a href="/wiki/Robert_McGonagall_Junior" title="Robert McGonagall Junior">Robert Jnr</a> and <a href="/wiki/Malcolm_McGonagall" title="Malcolm McGonagall">Malcolm</a>.
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/M._G._McGonagall?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/M._G._McGonagall?action=edit&amp;section=1" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>The name M. G. McGonagall appears only in the <a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(film)" title="Harry Potter and the Philosopher&#39;s Stone (film)">film adaptation</a> of <i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone" title="Harry Potter and the Philosopher&#39;s Stone">Harry Potter and the Philosopher's Stone</a></i>. M. G. McGonagall cannot have been the same person as <a href="/wiki/Minerva_McGonagall" title="Minerva McGonagall">Minerva McGonagall</a>, as Minerva attended Hogwarts as a student circa <a href="/wiki/1947" title="1947">1947</a> to <a href="/wiki/1954" title="1954">1954</a>, and taught there beginning in <a href="/wiki/December" title="December">December</a> <a href="/wiki/1956" title="1956">1956</a>. Nor can it be any of her sibling, who Minerva helped her mother in covering up magical accidents from their father already during her pre-Hogwarts years. It presumably is one of the nieces or nephews of Minerva's, and as such, be the child of either Malcolm or Robert.</li>
+<li>In the <a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(video_game)" title="Harry Potter and the Order of the Phoenix (video game)">video game adaptation</a> of <i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">Harry Potter and the Order of the Phoenix</a></i>, a trophy can be found in the <a href="/wiki/Trophy_Room" title="Trophy Room">Trophy Room</a> near the <a href="/wiki/Great_Hall" title="Great Hall">Great Hall</a>. Inspecting it causes <a href="/wiki/Ronald_Weasley" title="Ronald Weasley">Ronald Weasley</a> to comment on the presence of Minerva McGonagall's name near <a href="/wiki/James_Potter_I" title="James Potter I">James Potter's</a>, to which <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> speculates that it may have been due to her being <a href="/wiki/Head_of_Gryffindor_House" title="Head of Gryffindor House">Head of Gryffindor House</a> at the time. However, these two awards cannot be considered the same, as the one seen in  the <a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(film)" title="Harry Potter and the Philosopher&#39;s Stone (film)">film adaptation</a> of <i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone" title="Harry Potter and the Philosopher&#39;s Stone">Harry Potter and the Philosopher's Stone</a></i> is a plaque, and not a cup.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/M._G._McGonagall?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/M._G._McGonagall?action=edit&amp;section=2" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(film)" title="Harry Potter and the Philosopher&#39;s Stone (film)">Harry Potter and the Philosopher's Stone (film)</a></i> <span class="template-c">(Name appears on trophy)</span></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> <small>(Possible appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/M._G._McGonagall?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/M._G._McGonagall?action=edit&amp;section=3" title="Edit section: Notes and references

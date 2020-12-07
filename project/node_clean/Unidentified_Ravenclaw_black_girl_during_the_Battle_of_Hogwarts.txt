@@ -1,0 +1,127 @@
+<div class="mw-parser-output"><table class="notice metadata" cellpadding="3px" id="merge" style="text-align: center; background: snow; margin: 1em 10%; border: #a00 1px solid;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/6/66/Harry_and_Voldy_part_2.jpg/revision/latest?cb=20200413010634" class="image"><img alt="Harry and Voldy part 2.jpg" src="https://static.wikia.nocookie.net/harrypotter/images/6/66/Harry_and_Voldy_part_2.jpg/revision/latest/scale-to-width-down/80?cb=20200413010634" decoding="async" width="80" height="63" data-image-name="Harry and Voldy part 2.jpg" data-image-key="Harry_and_Voldy_part_2.jpg" /></a>
+</td>
+<td><i><b>"Neither can live while the other survives..."</b></i>
+<p>This page has been suggested to be <a href="http://en.wikipedia.org/wiki/Help:Merging" class="extiw" title="wikipedia:Help:Merging">merged</a> with <a href="/wiki/Unidentified_Hogwarts_students_at_the_Battle_of_Hogwarts" title="Unidentified Hogwarts students at the Battle of Hogwarts">Unidentified Hogwarts students at the Battle of Hogwarts</a>.
+</p>
+<dl><dd><b>Reason</b>: A user went creating <a href="/wiki/Unidentified_Hogwarts_students_at_the_Battle_of_Hogwarts" title="Unidentified Hogwarts students at the Battle of Hogwarts">that page</a> back in mid Feb 2014, and this page fit the bill. Just putting up a notice and will be properly merging it by the end of the month.</dd></dl>
+<p>If you disagree with its merge, please explain why at <a href="/wiki/Category_talk:Articles_to_be_merged" title="Category talk:Articles to be merged">Category talk:Articles to be merged</a> or improve the page and remove this {{merge}} tag.
+</p>
+</td></tr></tbody></table>
+<table class="notice metadata" cellpadding="3px" style="text-align: center; background: snow; border: #a00 1px solid; margin: 1em 10% 1em 10%;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/1/11/Hermione_Granger_%28HBP_promo%29_5.jpg/revision/latest?cb=20090817203540" class="image"><img alt="Hermione Granger (HBP promo) 5.jpg" src="https://static.wikia.nocookie.net/harrypotter/images/1/11/Hermione_Granger_%28HBP_promo%29_5.jpg/revision/latest/scale-to-width-down/60?cb=20090817203540" decoding="async" width="60" height="80" data-image-name="Hermione Granger (HBP promo) 5.jpg" data-image-key="Hermione_Granger_(HBP_promo)_5.jpg" /></a>
+</td>
+<td><i><b>"Are you a wizard or not?"</b></i>
+<p>The title of this article is conjectural.  Although it is based on <a href="/wiki/Canon" title="Canon">canonical information</a>, the actual name is a conjecture and may be supplanted at any time by additional information released from canonical sources.  If this occurs, please move this page to the appropriate title.
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-ravenclaw pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/b/b5/Duri.jpg/revision/latest?cb=20111215143917" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/b/b5/Duri.jpg/revision/latest/scale-to-width-down/232?cb=20111215143917" srcset="https://static.wikia.nocookie.net/harrypotter/images/b/b5/Duri.jpg/revision/latest/scale-to-width-down/232?cb=20111215143917 1x, https://static.wikia.nocookie.net/harrypotter/images/b/b5/Duri.jpg/revision/latest/scale-to-width-down/464?cb=20111215143917 2x" class="pi-image-thumbnail" alt="" width="232" height="493"
+		     data-image-key="Duri.jpg" data-image-name="Duri.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Ravenclaw girl</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">On or before <a href="/wiki/2_May" title="2 May">2 May</a> <a href="/wiki/1981" title="1981">1981</a> (possibly)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Pure-blood" title="Pure-blood">Pure-blood</a> or <a href="/wiki/Half-blood" title="Half-blood">Half-blood</a><sup id="cite_ref-blood_1-0" class="reference"><a href="#cite_note-blood-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a> or <a href="/wiki/Ireland" title="Ireland">Irish</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-DHF2_3-0" class="reference"><a href="#cite_note-DHF2-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female<sup id="cite_ref-DHF2_3-1" class="reference"><a href="#cite_note-DHF2-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Black<sup id="cite_ref-DHF2_3-2" class="reference"><a href="#cite_note-DHF2-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Dark<sup id="cite_ref-DHF2_3-3" class="reference"><a href="#cite_note-DHF2-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Black<sup id="cite_ref-DHF2_3-4" class="reference"><a href="#cite_note-DHF2-3">&#91;3&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="house">
+	
+		<h3 class="pi-data-label pi-secondary-font">House</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Ravenclaw" title="Ravenclaw">Ravenclaw</a><sup id="cite_ref-DHF2_3-5" class="reference"><a href="#cite_note-DHF2-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a><sup id="cite_ref-DHF2_3-6" class="reference"><a href="#cite_note-DHF2-3">&#91;3&#93;</a></sup><ul><li><a href="/wiki/Ravenclaw" title="Ravenclaw">Ravenclaw</a><sup id="cite_ref-DHF2_3-7" class="reference"><a href="#cite_note-DHF2-3">&#91;3&#93;</a></sup></li></ul></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+This <b><a href="/wiki/Wizardkind" title="Wizardkind">witch</a></b> was a student at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> and was <a href="/wiki/Sorting_ceremony" title="Sorting ceremony">sorted</a> into <a href="/wiki/Ravenclaw" title="Ravenclaw">Ravenclaw</a>. She participated during the <a href="/wiki/Battle_of_Hogwarts" title="Battle of Hogwarts">Battle of Hogwarts</a> and was seen running out of the <a href="/wiki/Great_Hall" title="Great Hall">Great Hall</a> and into the <a href="/wiki/Viaduct_Courtyard" title="Viaduct Courtyard">Viaduct Courtyard</a> while the <a href="/wiki/Protective_enchantment" title="Protective enchantment">Protective Enchantments</a> were set up.<sup id="cite_ref-DHF2_3-8" class="reference"><a href="#cite_note-DHF2-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Unidentified_Ravenclaw_black_girl_during_the_Battle_of_Hogwarts?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Unidentified_Ravenclaw_black_girl_during_the_Battle_of_Hogwarts?action=edit&amp;section=1" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_2" title="Harry Potter and the Deathly Hallows: Part 2">Harry Potter and the Deathly Hallows: Part 2</a></i> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Unidentified_Ravenclaw_black_girl_during_the_Battle_of_Hogwarts?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Unidentified_Ravenclaw_black_girl_during_the_Battle_of_Hogwarts?action=edit&amp;section=2" title="Edit section: Notes and references

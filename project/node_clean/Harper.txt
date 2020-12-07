@@ -1,0 +1,119 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-slytherin pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/f/f9/Harper.png/revision/latest?cb=20101209010657" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/f/f9/Harper.png/revision/latest/scale-to-width-down/350?cb=20101209010657" srcset="https://static.wikia.nocookie.net/harrypotter/images/f/f9/Harper.png/revision/latest/scale-to-width-down/350?cb=20101209010657 1x, https://static.wikia.nocookie.net/harrypotter/images/f/f9/Harper.png/revision/latest/scale-to-width-down/700?cb=20101209010657 2x" class="pi-image-thumbnail" alt="" width="270" height="333"
+		     data-image-key="Harper.png" data-image-name="Harper.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Harper</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">between <a href="/wiki/1_September" title="1 September">1 September</a> <a href="/wiki/1980" title="1980">1980</a> and <a href="/wiki/31_August" title="31 August">31 August</a> <a href="/wiki/1981" title="1981">1981</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Pure-blood" title="Pure-blood">Pure-blood</a> (most likely)<sup id="cite_ref-HBP14_1-0" class="reference"><a href="#cite_note-HBP14-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a> or <a href="/wiki/Ireland" title="Ireland">Irish</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="title">
+	
+		<h3 class="pi-data-label pi-secondary-font">Title(s)</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Seeker" title="Seeker">Seeker</a><sup id="cite_ref-HBP14_1-1" class="reference"><a href="#cite_note-HBP14-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-HBP14_1-2" class="reference"><a href="#cite_note-HBP14-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male<sup id="cite_ref-HBP14_1-3" class="reference"><a href="#cite_note-HBP14-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="house">
+	
+		<h3 class="pi-data-label pi-secondary-font">House</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Slytherin" title="Slytherin">Slytherin</a><sup id="cite_ref-HBP14_1-4" class="reference"><a href="#cite_note-HBP14-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>Harper family</li><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a><sup id="cite_ref-HBP14_1-5" class="reference"><a href="#cite_note-HBP14-1">&#91;1&#93;</a></sup><ul><li><a href="/wiki/Slytherin" title="Slytherin">Slytherin</a><sup id="cite_ref-HBP14_1-6" class="reference"><a href="#cite_note-HBP14-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/Slytherin_Quidditch_team" title="Slytherin Quidditch team">Slytherin Quidditch team</a><sup id="cite_ref-HBP14_1-7" class="reference"><a href="#cite_note-HBP14-1">&#91;1&#93;</a></sup></li></ul></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Half-Blood Prince">"<i>Thinks he's something special, doesn't he...Your <a href="/wiki/Blood_traitor" title="Blood traitor">blood traitor</a> pal...</i>"</span></dd>
+<dd>&#8212;Harper to <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a><sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Harper</b> was a <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> who began attending <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> in <a href="/wiki/1992" title="1992">1992</a>, and was sorted into <a href="/wiki/Slytherin" title="Slytherin">Slytherin</a>. He was described by <a href="/wiki/Ginevra_Weasley" title="Ginevra Weasley">Ginevra Weasley</a> as <i>"an idiot"</i>. During the <a href="/wiki/1996%E2%80%931997_school_year" title="1996–1997 school year">1996–1997 school year</a>, he was the reserve <a href="/wiki/Seeker" title="Seeker">Seeker</a> for the <a href="/wiki/Slytherin_Quidditch_team" title="Slytherin Quidditch team">Slytherin Quidditch team</a>, and played against <a href="/wiki/Gryffindor" title="Gryffindor">Gryffindor</a> when <a href="/wiki/Draco_Malfoy" title="Draco Malfoy">Draco Malfoy</a> pulled out of the squad.<sup id="cite_ref-HBP14_1-8" class="reference"><a href="#cite_note-HBP14-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Personality_and_traits"><span class="tocnumber">2</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Magical_skills_and_abilities"><span class="tocnumber">3</span> <span class="toctext">Magical skills and abilities</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Appearances"><span class="tocnumber">4</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Notes_and_references"><span class="tocnumber">5</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Harper?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Harper?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Harper was born in the early <a href="/wiki/1980s" title="1980s">1980s</a>.
+</p><p>In the early <a href="/wiki/1990s" title="1990s">1990s</a>, Harper began attending <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> and was <a href="/wiki/Sorting_ceremony" title="Sorting ceremony">Sorted</a> into <a href="/wiki/Slytherin" title="Slytherin">Slytherin</a> by the <a href="/wiki/Sorting_Hat" title="Sorting Hat">Sorting Hat</a>, and was shown to share the beliefs of his peers.<sup id="cite_ref-HBP14_1-9" class="reference"><a href="#cite_note-HBP14-1">&#91;1&#93;</a></sup>
+</p><p>In <a href="/wiki/1996" title="1996">1996</a>, he became a <a href="/wiki/Seeker" title="Seeker">Seeker</a> for the <a href="/wiki/Slytherin_Quidditch_team" title="Slytherin Quidditch team">Slytherin Quidditch team</a>. He was a dirty player, deliberately ramming the opposing Seeker <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> during the first <a href="/wiki/Quidditch" title="Quidditch">Quidditch</a> match of <a href="/wiki/1996" title="1996">1996</a> and making snide comments about <a href="/wiki/Ronald_Weasley" title="Ronald Weasley">Ron Weasley</a>. He quickly spotted the <a href="/wiki/Golden_Snitch" title="Golden Snitch">Golden Snitch</a> before Harry did, possibly because Harry was furious about <a href="/wiki/Zacharias_Smith" title="Zacharias Smith">Zacharias Smith</a> and he was distracted. However, when it seemed that he was about to catch it, he was put off by Harry's desperate taunt, implying that <a href="/wiki/Draco_Malfoy" title="Draco Malfoy">Draco Malfoy</a> had paid Harper to play instead. Harper, in his distraction, fumbled the Snitch, costing his team the game.<sup id="cite_ref-HBP14_1-10" class="reference"><a href="#cite_note-HBP14-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Harper?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Personality and traits">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Harper?action=edit&amp;section=2" title="Edit section: Personality and traits"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Harper appeared to share the <a href="/wiki/Pure-blood_supremacy" title="Pure-blood supremacy">pure-blood supremacist</a> beliefs of fellow <a href="/wiki/Slytherin" title="Slytherin">Slytherins</a>, as shown by his snide comments about <a href="/wiki/Ronald_Weasley" title="Ronald Weasley">Ron Weasley</a> being a <a href="/wiki/Blood_traitor" title="Blood traitor">blood traitor</a>. He also lacked good sportsmanship and took part in foul play, deliberately ramming Harry Potter during the first <a href="/wiki/Quidditch" title="Quidditch">Quidditch</a> match of <a href="/wiki/1996" title="1996">1996</a>.<sup id="cite_ref-HBP14_1-11" class="reference"><a href="#cite_note-HBP14-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Magical_skills_and_abilities">Magical skills and abilities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Harper?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Magical skills and abilities">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Harper?action=edit&amp;section=3" title="Edit section: Magical skills and abilities"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Flight" title="Flight">Flying</a></b>: As a <a href="/wiki/Quidditch" title="Quidditch">Quidditch</a> player, Harper was a reasonably proficient <a href="/wiki/Broomstick" title="Broomstick">broomstick</a> flyer. Harper appeared to have a keen eyesight, spotting the Snitch before even <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> did, but being unable to catch it first.<sup id="cite_ref-HBP14_1-12" class="reference"><a href="#cite_note-HBP14-1">&#91;1&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Harper?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Harper?action=edit&amp;section=4" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">Harry Potter and the Half-Blood Prince</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince_(film)" title="Harry Potter and the Half-Blood Prince (film)">Harry Potter and the Half-Blood Prince (film)</a></i> <span class="template-c">(Cut from the final edit)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince_(video_game)" title="Harry Potter and the Half-Blood Prince (video game)">Harry Potter and the Half-Blood Prince (video game)</a></i><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Harper?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Harper?action=edit&amp;section=5" title="Edit section: Notes and references

@@ -1,0 +1,174 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-hufflepuff pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/4/41/BridgetWenlock.png/revision/latest?cb=20130317224539" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/4/41/BridgetWenlock.png/revision/latest/scale-to-width-down/218?cb=20130317224539" srcset="https://static.wikia.nocookie.net/harrypotter/images/4/41/BridgetWenlock.png/revision/latest/scale-to-width-down/218?cb=20130317224539 1x, https://static.wikia.nocookie.net/harrypotter/images/4/41/BridgetWenlock.png/revision/latest/scale-to-width-down/436?cb=20130317224539 2x" class="pi-image-thumbnail" alt="" width="218" height="299"
+		     data-image-key="BridgetWenlock.png" data-image-name="BridgetWenlock.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Bridget Wenlock</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/1202" class="mw-redirect" title="1202">1202</a><br/><a href="/wiki/Tinworth" title="Tinworth">Tinworth</a>, <a href="/wiki/Cornwall" title="Cornwall">Cornwall</a>,<sup id="cite_ref-WBoS_1-0" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup> <a href="/wiki/England" title="England">England</a>, <a href="/wiki/Great_Britain" title="Great Britain">Great Britain</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/1285" class="mw-redirect" title="1285">1285</a><sup id="cite_ref-died_2-0" class="reference"><a href="#cite_note-died-2">&#91;2&#93;</a></sup> (aged 82/83)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/England" title="England">English</a><sup id="cite_ref-WBoS_1-1" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-JKRS_3-0" class="reference"><a href="#cite_note-JKRS-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female<sup id="cite_ref-JKRS_3-1" class="reference"><a href="#cite_note-JKRS-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Black<sup id="cite_ref-JKRS_3-2" class="reference"><a href="#cite_note-JKRS-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Blue<sup id="cite_ref-JKRS_3-3" class="reference"><a href="#cite_note-JKRS-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Light<sup id="cite_ref-JKRS_3-4" class="reference"><a href="#cite_note-JKRS-3">&#91;3&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Bridget_Wenlock%27s_cousin" title="Bridget Wenlock&#039;s cousin">Cousin</a><sup id="cite_ref-WBoS_1-2" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup></li><li><a class="new" title="Daphne Wenlock (page does not exist)" rel="nofollow" data-uncrawlable-url="L3dpa2kvRGFwaG5lX1dlbmxvY2s/YWN0aW9uPWVkaXQmcmVkbGluaz0x">Daphne Wenlock</a> (granddaughter)<sup id="cite_ref-WU_4-0" class="reference"><a href="#cite_note-WU-4">&#91;4&#93;</a></sup></li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Arithmancer" title="Arithmancer">Arithmancer</a><sup id="cite_ref-JKRS_3-5" class="reference"><a href="#cite_note-JKRS-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="house">
+	
+		<h3 class="pi-data-label pi-secondary-font">House</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Hufflepuff" title="Hufflepuff">Hufflepuff</a><sup id="cite_ref-pottermore_5-0" class="reference"><a href="#cite_note-pottermore-5">&#91;5&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a><sup id="cite_ref-pottermore_5-1" class="reference"><a href="#cite_note-pottermore-5">&#91;5&#93;</a></sup><ul><li><a href="/wiki/Hufflepuff" title="Hufflepuff">Hufflepuff</a><sup id="cite_ref-pottermore_5-2" class="reference"><a href="#cite_note-pottermore-5">&#91;5&#93;</a></sup></li></ul></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Wonderbook: Book of Spells">"<i>Wenlock first scribbled down her ground-breaking theorem on the magical properties of the number seven at breakfast one day apparently on the back of an envelope, using her usual invisible ink. She then proceeded to send her cousin a letter, using what she later believed to be the very envelope concealing the theorem.</i>"</span></dd>
+<dd>&#8212;<a href="/wiki/Miranda_Goshawk" title="Miranda Goshawk">Miranda Goshawk</a>, <i><a href="/wiki/Book_of_Spells" title="Book of Spells">Book of Spells</a></i><sup class="noprint"><a href="/wiki/Wonderbook:_Book_of_Spells" title="Wonderbook: Book of Spells">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Bridget Wenlock</b> (<a href="/wiki/1202" class="mw-redirect" title="1202">1202</a> – <a href="/wiki/1285" class="mw-redirect" title="1285">1285</a>) was a famous <a href="/wiki/1200s" title="1200s">thirteenth-century</a> <a href="/wiki/England" title="England">English</a> <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> and <a href="/wiki/Arithmancer" title="Arithmancer">Arithmancer</a>, and the first to establish the <a href="/wiki/Magic" title="Magic">magical</a> properties of the number <a href="/wiki/Seven" title="Seven">seven</a>.<sup id="cite_ref-JKRS_3-6" class="reference"><a href="#cite_note-JKRS-3">&#91;3&#93;</a></sup> She was mainly known for being extremely protective of her theorems, therefore writing many of her ideas down in invisible ink.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_life"><span class="tocnumber">1.1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Adulthood"><span class="tocnumber">1.2</span> <span class="toctext">Adulthood</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Death_and_post-mortem"><span class="tocnumber">1.3</span> <span class="toctext">Death and post-mortem</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Magical_abilities_and_skills"><span class="tocnumber">2</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Behind_the_scenes"><span class="tocnumber">3</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Appearances"><span class="tocnumber">4</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Notes_and_references"><span class="tocnumber">5</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Bridget_Wenlock?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Bridget_Wenlock?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Bridget_Wenlock?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Early life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Bridget_Wenlock?action=edit&amp;section=2" title="Edit section: Early life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Bridget Wenlock was born in the year <a href="/wiki/1202" class="mw-redirect" title="1202">1202</a>, in <a href="/wiki/Tinworth" title="Tinworth">Tinworth</a>, <a href="/wiki/Cornwall" title="Cornwall">Cornwall</a>.<sup id="cite_ref-WBoS_1-3" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup> In her youth, she attended <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> from around <a href="/wiki/1213" class="mw-redirect" title="1213">1213</a> to <a href="/wiki/1220" class="mw-redirect" title="1220">1220</a>, where she defied the stereotype of intelligent wizards only coming from Ravenclaw by being <a href="/wiki/Sorting_ceremony" title="Sorting ceremony">sorted</a> into <a href="/wiki/Hufflepuff" title="Hufflepuff">Hufflepuff</a>.<sup id="cite_ref-pottermore_5-3" class="reference"><a href="#cite_note-pottermore-5">&#91;5&#93;</a></sup> She presumably took and studied <a href="/wiki/Arithmancy_(class)" title="Arithmancy (class)">Arithmancy class</a> at Hogwarts from her <a href="/wiki/Third_year" title="Third year">third year</a> onwards.
+</p>
+<h3><span class="mw-headline" id="Adulthood">Adulthood</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Bridget_Wenlock?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Adulthood">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Bridget_Wenlock?action=edit&amp;section=3" title="Edit section: Adulthood"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>After her graduation from <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School</a>, Bridget Wenlock studied further into <a href="/wiki/Arithmancy" title="Arithmancy">Arithmancy</a>, becoming an accomplished and celebrated <a href="/wiki/Arithmancer" title="Arithmancer">Arithmancer</a>.
+</p><p>Wenlock, like a number of other magical researchers, was very protective of her discoveries; her paranoia was so that she wrote exclusively in <a href="/wiki/Invisible_Ink" title="Invisible Ink">Invisible Ink</a>, upside-down, back-to-front and in atrocious handwriting. She was also noted for her absent-mindedness, managing to promptly lose scraps of paper in which she had scribbled invisible notes. Because of this, it was not an unusual sight to see her retracing her steps through her hometown, attempting to use the <a href="/wiki/Revealing_Charm" title="Revealing Charm">Revealing Charm</a> on every scrap of paper she came across, in search of a lost Arithmancy calculation.<sup id="cite_ref-WBoS_1-4" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup>
+</p>
+<figure class="thumb tleft show-info-icon" style="width: 243px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/d/d4/BridgetWenlockWriting.png/revision/latest?cb=20121117162658" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/d/d4/BridgetWenlockWriting.png/revision/latest/scale-to-width-down/241?cb=20121117162658" decoding="async" width="241" height="123" class="thumbimage" data-image-name="BridgetWenlockWriting.png" data-image-key="BridgetWenlockWriting.png" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:BridgetWenlockWriting.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Bridget Wenlock in her house in <a href="/wiki/Tinworth" title="Tinworth">Tinworth</a>, conducting her studies in Arithmancy</p> 		 	</figcaption> </figure>
+<p>It was one day, during breakfast, that Wenlock wrote the immensely famous theorem that supported the magical properties of the number <a href="/wiki/Seven" title="Seven">seven</a>. She wrote it down on what she thought was the back of an envelope, in the usual <a href="/wiki/Invisible_Ink" title="Invisible Ink">Invisible Ink</a>. That same day, she posted a letter to <a href="/wiki/Bridget_Wenlock%27s_cousin" title="Bridget Wenlock&#39;s cousin">her cousin</a>, using what she later realised was the envelope in which she had written the theorem. Wenlock seized her broom at once, and managed to overtake the <a href="/wiki/Owl" title="Owl">owl</a> carrying the letter mid-flight but the owl refused to give anyone the letter but its addressee. After several nips and scratches, Wenlock had to resort to simply following the owl to her cousin's house in <a href="/wiki/John_O%27Groats" title="John O&#39;Groats">John O'Groats</a>, around 600 miles away.<sup id="cite_ref-WBoS_1-5" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup>
+</p><p>When she finally retrieved the envelope from her cousin, a <a href="/wiki/Revealing_Charm" title="Revealing Charm">Revealing Charm</a> revealed that it contained no more than a cake recipe. It was only when she returned to <a href="/wiki/Tinworth" title="Tinworth">Tinworth</a> that Wenlock found out that her calculations were scrawled on a sugar packet that was still sitting on her kitchen table.<sup id="cite_ref-WBoS_1-6" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup> It was precisely this theorem that made her such a celebrated <a href="/wiki/Arithmancer" title="Arithmancer">Arithmancer</a> for centuries to come.
+</p><p>At some point, Bridget presumably had children as she had a granddaughter by the name of <a class="new" title="Daphne Wenlock (page does not exist)" rel="nofollow" data-uncrawlable-url="L3dpa2kvRGFwaG5lX1dlbmxvY2s/YWN0aW9uPWVkaXQmcmVkbGluaz0x">Daphne Wenlock</a> who, as of <a href="/wiki/2020s" title="2020s">2020</a>, was working at an Inn at number seven, Aldwych Road in Tinworth.<sup id="cite_ref-WU_4-1" class="reference"><a href="#cite_note-WU-4">&#91;4&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Death_and_post-mortem">Death and post-mortem</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Bridget_Wenlock?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Death and post-mortem">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Bridget_Wenlock?action=edit&amp;section=4" title="Edit section: Death and post-mortem"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="thumb tright show-info-icon" style="width: 168px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/4/4d/Bridget_Wenlock_Portrait.jpg/revision/latest?cb=20100401002515" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/4/4d/Bridget_Wenlock_Portrait.jpg/revision/latest/scale-to-width-down/166?cb=20100401002515" decoding="async" width="166" height="215" class="thumbimage" data-image-name="Bridget Wenlock Portrait.jpg" data-image-key="Bridget_Wenlock_Portrait.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Bridget_Wenlock_Portrait.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Wenlock's portrait at <a href="/wiki/Hogwarts_Castle" title="Hogwarts Castle">Hogwarts Castle</a></p> 		 	</figcaption> </figure><p>Ms. Wenlock died in <a href="/wiki/1285" class="mw-redirect" title="1285">1285</a>, aged around 83. In her honour, her <a href="/wiki/Arithmancy" title="Arithmancy">Arithmancy</a> achievement was recorded on a <a href="/wiki/Chocolate_Frog_Card" title="Chocolate Frog Card">Chocolate Frog Card</a>.<sup id="cite_ref-PSg_6-0" class="reference"><a href="#cite_note-PSg-6">&#91;6&#93;</a></sup>
+</p><p>There was also a <a href="/wiki/Portrait" title="Portrait">portrait</a> of her hung on the <a href="/wiki/Sixth-floor_corridor" title="Sixth-floor corridor">Sixth-floor corridor</a> of <a href="/wiki/Hogwarts_Castle" title="Hogwarts Castle">Hogwarts Castle</a>, hiding a secret passage to the <a href="/wiki/Portrait_Room" title="Portrait Room">Portrait Room</a> (the password was <i>Snafflejack</i>).<sup id="cite_ref-PApc_7-0" class="reference"><a href="#cite_note-PApc-7">&#91;7&#93;</a></sup> There was also a bust of her on the <a href="/wiki/Fat_Lady%27s_Corridor" title="Fat Lady&#39;s Corridor">Fat Lady's Corridor</a>, on the seventh floor of the Castle.<sup id="cite_ref-PA.2Fg_8-0" class="reference"><a href="#cite_note-PA.2Fg-8">&#91;8&#93;</a></sup>
+</p><p>During his third year at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School</a>, sometime between <a href="/wiki/1987" title="1987">1987</a> and <a href="/wiki/1990" title="1990">1990</a>, <a href="/wiki/Gabriel_Truman" title="Gabriel Truman">Gabriel Truman</a> got into a big trouble for duelling a <a href="/wiki/Ravenclaw" title="Ravenclaw">Ravenclaw</a> <a href="/wiki/Prefect" title="Prefect">Prefect</a>, who insisted that Bridget Wenlock had come from his house. Instead of a week of detentions, <a href="/wiki/Pomona_Sprout" title="Pomona Sprout">Professor Sprout</a> let him off with a warning and a box of <a href="/wiki/Pink_Coconut_Ice" title="Pink Coconut Ice">coconut ice</a>.<sup id="cite_ref-pottermore_5-4" class="reference"><a href="#cite_note-pottermore-5">&#91;5&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Bridget_Wenlock?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Bridget_Wenlock?action=edit&amp;section=5" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Arithmancy" title="Arithmancy">Arithmancy</a></b>: Wenlock was a highly accomplished and celebrated <a href="/wiki/Arithmancer" title="Arithmancer">Arithmancer</a>, who notably discovered the <a href="/wiki/Magic" title="Magic">magical</a> properties of the number <a href="/wiki/Seven" title="Seven">seven</a>. She devised many impressive numerical calculations throughout her career and was highly protective of her theorems that she had created.<sup id="cite_ref-JKRS_3-7" class="reference"><a href="#cite_note-JKRS-3">&#91;3&#93;</a></sup> Her knowledge and experience in this field of <a href="/wiki/Magic" title="Magic">magic</a> warranted her inclusion on her own <a href="/wiki/Chocolate_Frog_Card" title="Chocolate Frog Card">Chocolate Frog Card</a>.<sup id="cite_ref-PSg_6-1" class="reference"><a href="#cite_note-PSg-6">&#91;6&#93;</a></sup></li>
+<li><b><a href="/wiki/Charm" title="Charm">Charms</a></b>: Wenlock was also talented with charm-work, as she was capable of casting the <a href="/wiki/Revealing_Charm" title="Revealing Charm">Revealing Charm</a>, which she used to reveal the contents of many of her own personal mathematical notes and papers written in <a href="/wiki/Invisible_Ink" title="Invisible Ink">Invisible Ink</a>.<sup id="cite_ref-WBoS_1-7" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Bridget_Wenlock?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Bridget_Wenlock?action=edit&amp;section=6" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Interestingly, both Bridget Wenlock's first and last name are each seven letters long.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Bridget_Wenlock?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Bridget_Wenlock?action=edit&amp;section=7" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 5 images related to <i><b><a href="/wiki/Category:Images_of_Bridget_Wenlock" title="Category:Images of Bridget Wenlock">Bridget Wenlock</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(video_game)" title="Harry Potter and the Philosopher&#39;s Stone (video game)">Harry Potter and the Philosopher's Stone (video game)</a></i> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(video_game)" title="Harry Potter and the Chamber of Secrets (video game)">Harry Potter and the Chamber of Secrets (video game)</a></i> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(video_game)" title="Harry Potter and the Prisoner of Azkaban (video game)">Harry Potter and the Prisoner of Azkaban (video game)</a></i> <small>(Appears as statue)</small> <small>(Appears in portrait(s))</small></li>
+<li><a href="/wiki/J._K._Rowling%27s_official_site" title="J. K. Rowling&#39;s official site">J. K. Rowling's official site</a> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li>
+<li><i><a href="/wiki/Wonderbook:_Book_of_Spells" title="Wonderbook: Book of Spells">Wonderbook: Book of Spells</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Bridget_Wenlock?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Bridget_Wenlock?action=edit&amp;section=8" title="Edit section: Notes and references

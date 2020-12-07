@@ -1,0 +1,128 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-pet pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/8/8b/Sneaky_Niffler_FB.png/revision/latest?cb=20161226071944" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/8/8b/Sneaky_Niffler_FB.png/revision/latest/scale-to-width-down/350?cb=20161226071944" srcset="https://static.wikia.nocookie.net/harrypotter/images/8/8b/Sneaky_Niffler_FB.png/revision/latest/scale-to-width-down/350?cb=20161226071944 1x, https://static.wikia.nocookie.net/harrypotter/images/8/8b/Sneaky_Niffler_FB.png/revision/latest/scale-to-width-down/700?cb=20161226071944 2x" class="pi-image-thumbnail" alt="" width="270" height="270"
+		     data-image-key="Sneaky_Niffler_FB.png" data-image-name="Sneaky Niffler FB.png"/>
+		
+	</a>
+	
+</figure>
+
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Newton Scamander&#39;s nifflers</h2>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">Before <a href="/wiki/December" title="December">December</a> <a href="/wiki/1926" title="1926">1926</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Niffler" title="Niffler">Niffler</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Black</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Red</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Newton_Scamander" title="Newton Scamander">Newton Scamander</a></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Pet_individual_infobox" title="Template:Pet individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span>"<i>I have a love-hate relationship with that little guy</i>"</span></dd>
+<dd>&#8212;<a href="/wiki/Eddie_Redmayne" title="Eddie Redmayne">Eddie Redmayne</a>,  <i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i></dd>
+<dd></dd></dl></div>
+<p>This <b><a href="/wiki/Niffler" title="Niffler">Niffler</a></b> accompanied <a href="/wiki/Newton_Scamander" title="Newton Scamander">Newt Scamander</a> as he researched for his upcoming book. It visited <a href="/wiki/New_York" title="New York">New York</a> in <a href="/wiki/1926" title="1926">1926</a> and <a href="/wiki/Paris" title="Paris">Paris</a> in <a href="/wiki/1927" title="1927">1927</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Physical_description"><span class="tocnumber">2</span> <span class="toctext">Physical description</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Personality_and_traits"><span class="tocnumber">3</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Relationships"><span class="tocnumber">4</span> <span class="toctext">Relationships</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Newton_Scamander"><span class="tocnumber">4.1</span> <span class="toctext">Newton Scamander</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#The_Beasts"><span class="tocnumber">4.2</span> <span class="toctext">The Beasts</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Possible_offspring"><span class="tocnumber">4.3</span> <span class="toctext">Possible offspring</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Habitat"><span class="tocnumber">4.4</span> <span class="toctext">Habitat</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Appearances"><span class="tocnumber">5</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Notes_and_references"><span class="tocnumber">6</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Newton_Scamander%27s_nifflers?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Newton_Scamander%27s_nifflers?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Niffler was born sometime before December 1926 and was rescued by Newt Scamander, and consequently placed inside of his <a href="/wiki/Newton_Scamander%27s_suitcase" title="Newton Scamander&#39;s suitcase">magically-expanded suitcase full of magical beasts</a>.<sup id="cite_ref-FBS_1-0" class="reference"><a href="#cite_note-FBS-1">&#91;1&#93;</a></sup>
+</p><p>In December of <a href="/wiki/1926" title="1926">1926</a> during Newt's trip to New York, the Niffler escaped to steal a beggar's coin. It then sneaked into the <a href="/wiki/Steen_National_Bank" title="Steen National Bank">Steen National Bank</a> and caused mass chaos as it attempted to secure valuables and treasure. It eventually founds its way into the vaults, where it was captured by Newt.<sup id="cite_ref-FBS_1-1" class="reference"><a href="#cite_note-FBS-1">&#91;1&#93;</a></sup>
+</p><p>When <a href="/wiki/Jacob_Kowalski" title="Jacob Kowalski">Jacob Kowalski</a> accidentally swapped his and Newt's cases, it was taken to the former's apartment. When Kowalski opened the case, he accidentally released a selection of Newt's creatures, one of which was the Niffler, that hid behind a photo of <a href="/wiki/Jacob_Kowalski%27s_grandmother" title="Jacob Kowalski&#39;s grandmother">Kowalski's grandmother</a> to avoid being discovered by Newt.<sup id="cite_ref-FBS_1-2" class="reference"><a href="#cite_note-FBS-1">&#91;1&#93;</a></sup>
+</p><p>The Niffler eventually found its way to a downtown jewellery store where it attempted to evade Newt, the two of them causing massive amounts of property damage in the meantime. However, it was eventually captured again and palced back inside of the case.<sup id="cite_ref-FBS_1-3" class="reference"><a href="#cite_note-FBS-1">&#91;1&#93;</a></sup>
+</p><p>In September of <a href="/wiki/1927" title="1927">1927</a>, the Niffler was taken to <a href="/wiki/Paris" title="Paris">Paris</a> by Newt in the latter's attempt to find <a href="/wiki/Porpentina_Goldstein" title="Porpentina Goldstein">Tina Goldstein</a> and <a href="/wiki/Credence_Barebone" title="Credence Barebone">Credence Barebone</a>. It was set free to roam around a city square as Newt and Jacob searched for clues for Tina's whereabouts.<sup id="cite_ref-COGS_2-0" class="reference"><a href="#cite_note-COGS-2">&#91;2&#93;</a></sup>
+</p><p>The Niffler was later set free again by Newt in the <a href="/wiki/Lestrange_Mausoleum" title="Lestrange Mausoleum">Lestrange Family Mausoleum</a> where it secretely secured <a href="/wiki/Gellert_Grindelwald" title="Gellert Grindelwald">Gellert Grindelwald</a>'s <a href="/wiki/Gellert_Grindelwald%27s_blood_pact_vial" class="mw-redirect" title="Gellert Grindelwald&#39;s blood pact vial">vial</a> of his and <a href="/wiki/Albus_Dumbledore%27s_file" title="Albus Dumbledore&#39;s file">Albus Dumbledore's</a> blood from a long-ago <a href="/wiki/Blood_pact" title="Blood pact">blood pact</a>. When Grindelwald attacked a group of Aurors with <a href="/wiki/Protego_Diabolica" title="Protego Diabolica">blue fire</a>, one of the Niffler's front paws was injured, causing it to walk with a painful limp. However, this was soon healed by Newt.<sup id="cite_ref-COGS_2-1" class="reference"><a href="#cite_note-COGS-2">&#91;2&#93;</a></sup>
+</p><p>As Newt took his suitcase to <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts</a> to meet with Albus Dumbledore, he showed the Niffler to him, and the three walked across the bridge to the <a href="/wiki/Hogwarts_Castle" title="Hogwarts Castle">castle</a> together.<sup id="cite_ref-COGS_2-2" class="reference"><a href="#cite_note-COGS-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Physical_description">Physical description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Newton_Scamander%27s_nifflers?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Physical description">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Newton_Scamander%27s_nifflers?action=edit&amp;section=2" title="Edit section: Physical description"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Like most <a href="/wiki/Niffler" title="Niffler">Nifflers</a>, Newt's Niffler had tan skin, black fur, a long snout, and partially-webbed paws. Some of the hair on its head was tinged with grey, perhaps a symbol of old age. It also had a small pouch on its belly that could fit much more than it seemed through use of natural magic similar to that of the <a href="/wiki/Extension_Charm" title="Extension Charm">Undetectable Extension Charm</a>. The Niffler looked like a cross between a <a href="/wiki/Mole" title="Mole">mole</a> and a platypus.
+</p>
+<h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Newton_Scamander%27s_nifflers?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Personality and traits">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Newton_Scamander%27s_nifflers?action=edit&amp;section=3" title="Edit section: Personality and traits"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Niffler was incredibly intelligent and mischievous. It was able to recognise when it disobeyed Newt, yet continued to do it anyway. It also displayed recognition of the consequences of its actions, showing this when it shared an uneasy glance with Newt after the two crashed into the jewellery store's window.<sup id="cite_ref-FBS_1-4" class="reference"><a href="#cite_note-FBS-1">&#91;1&#93;</a></sup>
+</p><p>However, it later developed a gentler and more respectful personality, most notable when it stole Grindelwald's vial of blood for Newt, and when it was released in a Paris square and did not run off or steal from anyone other then sneaking a couple golden items from a shop front while Newt was talking with Jacob.<sup id="cite_ref-COGS_2-3" class="reference"><a href="#cite_note-COGS-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Relationships">Relationships</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Newton_Scamander%27s_nifflers?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Relationships">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Newton_Scamander%27s_nifflers?action=edit&amp;section=4" title="Edit section: Relationships"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Newton_Scamander">Newton Scamander</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Newton_Scamander%27s_nifflers?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Newton Scamander">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Newton_Scamander%27s_nifflers?action=edit&amp;section=5" title="Edit section: Newton Scamander"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="thumb tright show-info-icon" style="width: 122px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/8/81/NewtonScamander-Profile-crop-0.png/revision/latest?cb=20181119173743" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/8/81/NewtonScamander-Profile-crop-0.png/revision/latest/scale-to-width-down/120?cb=20181119173743" decoding="async" width="120" height="200" class="thumbimage" data-image-name="NewtonScamander-Profile-crop-0.png" data-image-key="NewtonScamander-Profile-crop-0.png" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:NewtonScamander-Profile-crop-0.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Newton Scamander, its owner</p> 		 	</figcaption> </figure>
+<p>The two often competed for dominance during the Niffler's attempts at freedom. The Niffler recognised Newt's authority yet continued to run amok and steal from others. However, the duo soon developed a closer relationship as Newt trusted the Niffler enough to set free for short periods of time in a foreign city, and in turn the Niffler was able to procure <a href="/wiki/Gellert_Grindelwald" title="Gellert Grindelwald">Grindelwald's</a> blood vial.<sup id="cite_ref-FBS_1-5" class="reference"><a href="#cite_note-FBS-1">&#91;1&#93;</a></sup><sup id="cite_ref-COGS_2-4" class="reference"><a href="#cite_note-COGS-2">&#91;2&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="The_Beasts">The Beasts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Newton_Scamander%27s_nifflers?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: The Beasts">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Newton_Scamander%27s_nifflers?action=edit&amp;section=6" title="Edit section: The Beasts"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Niffler was never said or shown to cause any harm to other beasts or interfere with their lives. Newt apparently trusted the Niffler to let it wander around <a href="/wiki/Newton_Scamander%27s_suitcase" title="Newton Scamander&#39;s suitcase">the suitcase</a> unwatched, something he did not do with other creatures, such as the <a href="/wiki/Erumpent" title="Erumpent">Erumpent</a>.<sup id="cite_ref-FBS_1-6" class="reference"><a href="#cite_note-FBS-1">&#91;1&#93;</a></sup><sup id="cite_ref-COGS_2-5" class="reference"><a href="#cite_note-COGS-2">&#91;2&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Possible_offspring">Possible offspring</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Newton_Scamander%27s_nifflers?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Possible offspring">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Newton_Scamander%27s_nifflers?action=edit&amp;section=7" title="Edit section: Possible offspring"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="floatleft"><a href="https://static.wikia.nocookie.net/harrypotter/images/8/80/Baby_nifflers.jpg/revision/latest?cb=20180816151633" class="image" title="The four younger Nifflers"><img alt="The four younger Nifflers" src="https://static.wikia.nocookie.net/harrypotter/images/8/80/Baby_nifflers.jpg/revision/latest/scale-to-width-down/150?cb=20180816151633" decoding="async" width="150" height="142" data-image-name="Baby nifflers.jpg" data-image-key="Baby_nifflers.jpg" /></a></div>
+<p>In Newt's basement, four young Nifflers lived there. It is possible that they were the young of Newt's adult Niffler that found a mate sometime between December, <a href="/wiki/1926" title="1926">1926</a>, and September, <a href="/wiki/1927" title="1927">1927</a>, or was pregnant before then. However, it is equally possible that these young are the offspring of some other Niffler that Newt rescued, or were rescued on their own without a parent. One of them displays the same colour as the original Niffler.<sup id="cite_ref-FBS_1-7" class="reference"><a href="#cite_note-FBS-1">&#91;1&#93;</a></sup><sup id="cite_ref-COGS_2-6" class="reference"><a href="#cite_note-COGS-2">&#91;2&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Habitat">Habitat</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Newton_Scamander%27s_nifflers?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Habitat">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Newton_Scamander%27s_nifflers?action=edit&amp;section=8" title="Edit section: Habitat"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The baby nifflers' home was somewhat like a birdcage except beautifully ornate with rich fabrics, shining jewels, and of course, gold. They get tossed into this mini home after they finally got captured and taken away from their mischievous play when Newt arrived home and calmed down all his rowdy creatures.<sup id="cite_ref-FBS_1-8" class="reference"><a href="#cite_note-FBS-1">&#91;1&#93;</a></sup><sup id="cite_ref-COGS_2-7" class="reference"><a href="#cite_note-COGS-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Newton_Scamander%27s_nifflers?veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Newton_Scamander%27s_nifflers?action=edit&amp;section=9" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tright show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/4/4c/Niffer.jpg/revision/latest?cb=20181121021622" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/4/4c/Niffer.jpg/revision/latest/scale-to-width-down/180?cb=20181121021622" decoding="async" width="180" height="107" class="thumbimage" data-image-name="Niffer.jpg" data-image-key="Niffer.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Niffer.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Pictured Above, spread of the nifflers</p> 		 	</figcaption> </figure>
+<figure class="thumb tright show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/4/4f/Newt..jpg/revision/latest?cb=20181121021730" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="180" height="107" class="thumbimage lazyload" data-image-name="Newt..jpg" data-image-key="Newt..jpg" data-src="https://static.wikia.nocookie.net/harrypotter/images/4/4f/Newt..jpg/revision/latest/scale-to-width-down/180?cb=20181121021730" /></a> 	<noscript><a href="https://static.wikia.nocookie.net/harrypotter/images/4/4f/Newt..jpg/revision/latest?cb=20181121021730" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/4/4f/Newt..jpg/revision/latest/scale-to-width-down/180?cb=20181121021730" decoding="async" width="180" height="107" class="thumbimage" data-image-name="Newt..jpg" data-image-key="Newt..jpg" data-src="https://static.wikia.nocookie.net/harrypotter/images/4/4f/Newt..jpg/revision/latest/scale-to-width-down/180?cb=20181121021730" /></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Newt..jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Pictured above, spread with Bunty, the baby nifflers, and Newt</p> 		 	</figcaption> </figure>
+<ul><li><i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them:_The_Original_Screenplay" title="Fantastic Beasts and Where to Find Them: The Original Screenplay">Fantastic Beasts and Where to Find Them: The Original Screenplay</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(film)" title="Fantastic Beasts and Where to Find Them (film)">Fantastic Beasts and Where to Find Them (film)</a></i></li>
+<li><i><a href="/wiki/Fantastic_Beasts:_The_Crimes_of_Grindelwald_-_The_Original_Screenplay" title="Fantastic Beasts: The Crimes of Grindelwald - The Original Screenplay">Fantastic Beasts: The Crimes of Grindelwald - The Original Screenplay</a></i></li>
+<li><i><a href="/wiki/Fantastic_Beasts:_The_Crimes_of_Grindelwald" title="Fantastic Beasts: The Crimes of Grindelwald">Fantastic Beasts: The Crimes of Grindelwald</a></i></li>
+<li><i><a href="/wiki/LEGO_Dimensions" title="LEGO Dimensions">LEGO Dimensions</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Newton_Scamander%27s_nifflers?veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Newton_Scamander%27s_nifflers?action=edit&amp;section=10" title="Edit section: Notes and references

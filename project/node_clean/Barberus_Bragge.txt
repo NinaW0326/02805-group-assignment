@@ -1,0 +1,127 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-mom pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/2/20/Barberus_Bragge.jpg/revision/latest?cb=20130711024747" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/2/20/Barberus_Bragge.jpg/revision/latest/scale-to-width-down/219?cb=20130711024747" srcset="https://static.wikia.nocookie.net/harrypotter/images/2/20/Barberus_Bragge.jpg/revision/latest/scale-to-width-down/219?cb=20130711024747 1x, https://static.wikia.nocookie.net/harrypotter/images/2/20/Barberus_Bragge.jpg/revision/latest/scale-to-width-down/438?cb=20130711024747 2x" class="pi-image-thumbnail" alt="" width="219" height="271"
+		     data-image-key="Barberus_Bragge.jpg" data-image-name="Barberus Bragge.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Barberus Bragge</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">Pre <a href="/wiki/1269" class="mw-redirect" title="1269">1269</a><sup id="cite_ref-QA4_1-0" class="reference"><a href="#cite_note-QA4-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font">Post <a href="/wiki/1269" class="mw-redirect" title="1269">1269</a><sup id="cite_ref-QA4_1-1" class="reference"><a href="#cite_note-QA4-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a><sup id="cite_ref-QA4_1-2" class="reference"><a href="#cite_note-QA4-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="title">
+	
+		<h3 class="pi-data-label pi-secondary-font">Title(s)</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Chief_of_the_Wizards%27_Council" title="Chief of the Wizards&#039; Council">Chief</a><sup id="cite_ref-QA4_1-3" class="reference"><a href="#cite_note-QA4-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-QA4_1-4" class="reference"><a href="#cite_note-QA4-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male<sup id="cite_ref-QA4_1-5" class="reference"><a href="#cite_note-QA4-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Grey<sup id="cite_ref-PAg_2-0" class="reference"><a href="#cite_note-PAg-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White<sup id="cite_ref-PAg_2-1" class="reference"><a href="#cite_note-PAg-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Chief_of_the_Wizards%27_Council" title="Chief of the Wizards&#039; Council">Chief of the Wizards' Council</a><sup id="cite_ref-QA4_1-6" class="reference"><a href="#cite_note-QA4-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Wizard%27s_Council" class="mw-redirect" title="Wizard&#039;s Council">Wizard's Council</a><sup id="cite_ref-QA4_1-7" class="reference"><a href="#cite_note-QA4-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/Quidditch" title="Quidditch">Cuaditch</a><sup id="cite_ref-QA4_1-8" class="reference"><a href="#cite_note-QA4-1">&#91;1&#93;</a></sup></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+Chief <b>Barberus Bragge</b> (fl. <a href="/wiki/1269" class="mw-redirect" title="1269">1269</a>) was a <a href="/wiki/Great_Britain" title="Great Britain">British</a> <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> and chief of the <a href="/wiki/Wizards%27_Council" title="Wizards&#39; Council">Wizards' Council</a> in the <a href="/wiki/1260s" title="1260s">1260s</a>. He was responsible for the introduction of the <a href="/wiki/Golden_Snidget" title="Golden Snidget">Golden Snidget</a> into <a href="/wiki/Quidditch" title="Quidditch">Cuaditch</a>, thus changing the face of <a href="/wiki/Quidditch" title="Quidditch">Quidditch</a> forever.<sup id="cite_ref-QA4_1-9" class="reference"><a href="#cite_note-QA4-1">&#91;1&#93;</a></sup> For this, he was featured on a <a href="/wiki/Chocolate_Frog_Card" title="Chocolate Frog Card">Chocolate Frog Card</a>.<sup id="cite_ref-PAg_2-2" class="reference"><a href="#cite_note-PAg-2">&#91;2&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_life"><span class="tocnumber">1.1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#As_Chief_of_the_Wizards.27_Council"><span class="tocnumber">1.2</span> <span class="toctext">As Chief of the Wizards' Council</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Appearances"><span class="tocnumber">2</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Notes_and_references"><span class="tocnumber">3</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Barberus_Bragge?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Barberus_Bragge?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Barberus_Bragge?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Early life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Barberus_Bragge?action=edit&amp;section=2" title="Edit section: Early life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Bragge was most likely born between the mid to late-<a href="/wiki/12th_century" title="12th century">twelfth century</a> and the early-<a href="/wiki/13th_century" title="13th century">thirteenth century</a>. He presumably attended <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> in his youth, like so many other wizards before him.
+</p>
+<h3><span id="As_Chief_of_the_Wizards'_Council"></span><span class="mw-headline" id="As_Chief_of_the_Wizards.27_Council">As Chief of the Wizards' Council</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Barberus_Bragge?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: As Chief of the Wizards&#039; Council">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Barberus_Bragge?action=edit&amp;section=3" title="Edit section: As Chief of the Wizards&#039; Council"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>During a Cuaditch (period-Quidditch) game in <a href="/wiki/1269" class="mw-redirect" title="1269">1269</a>, Chief Bragge released a <a href="/wiki/Golden_Snidget" title="Golden Snidget">Golden Snidget</a> onto the field, and offered the player who captured it one-hundred and fifty <a href="/wiki/Wizarding_currency" title="Wizarding currency">Galleons</a>. In protest, the <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> <a href="/wiki/Modesty_Rabnott" title="Modesty Rabnott">Modesty Rabnott</a> <a href="/wiki/Summoning_Charm" title="Summoning Charm">summoned</a> the Snidget to her and fled the game. Bragge was furious and was almost going to hex her, when his <a href="/wiki/Barberus_Bragge%27s_advisors" title="Barberus Bragge&#39;s advisors">advisors</a> calmed him down and she was fined ten <a href="/wiki/Wizarding_currency" title="Wizarding currency">Galleons</a> for disrupting the game. However, the idea caught on, and soon the Snidget was a part of the game, with a new player, the <a href="/wiki/Seeker" title="Seeker">Hunter</a> (Seeker), being added to the team.<sup id="cite_ref-QA4_1-10" class="reference"><a href="#cite_note-QA4-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Barberus_Bragge?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Barberus_Bragge?action=edit&amp;section=4" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(video_game)" title="Harry Potter and the Prisoner of Azkaban (video game)">Harry Potter and the Prisoner of Azkaban (video game)</a></i> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li>
+<li><i><a href="/wiki/Quidditch_Through_the_Ages_(real)" title="Quidditch Through the Ages (real)">Quidditch Through the Ages</a></i> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Barberus_Bragge?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Barberus_Bragge?action=edit&amp;section=5" title="Edit section: Notes and references

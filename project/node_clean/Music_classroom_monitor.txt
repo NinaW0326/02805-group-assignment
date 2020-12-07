@@ -1,0 +1,137 @@
+<div class="mw-parser-output"><table class="notice metadata" cellpadding="3px" style="text-align: center; background: snow; border: #a00 1px solid; margin: 1em 10% 1em 10%;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/1/11/Hermione_Granger_%28HBP_promo%29_5.jpg/revision/latest?cb=20090817203540" class="image"><img alt="Hermione Granger (HBP promo) 5.jpg" src="https://static.wikia.nocookie.net/harrypotter/images/1/11/Hermione_Granger_%28HBP_promo%29_5.jpg/revision/latest/scale-to-width-down/60?cb=20090817203540" decoding="async" width="60" height="80" data-image-name="Hermione Granger (HBP promo) 5.jpg" data-image-key="Hermione_Granger_(HBP_promo)_5.jpg" /></a>
+</td>
+<td><i><b>"Are you a wizard or not?"</b></i>
+<p>The title of this article is conjectural.  Although it is based on <a href="/wiki/Canon" title="Canon">canonical information</a>, the actual name is a conjecture and may be supplanted at any time by additional information released from canonical sources.  If this occurs, please move this page to the appropriate title.
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-ravenclaw pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/f/ff/Music_classroom_monitor.png/revision/latest?cb=20091213172350" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/f/ff/Music_classroom_monitor.png/revision/latest/scale-to-width-down/224?cb=20091213172350" srcset="https://static.wikia.nocookie.net/harrypotter/images/f/ff/Music_classroom_monitor.png/revision/latest/scale-to-width-down/224?cb=20091213172350 1x, https://static.wikia.nocookie.net/harrypotter/images/f/ff/Music_classroom_monitor.png/revision/latest/scale-to-width-down/448?cb=20091213172350 2x" class="pi-image-thumbnail" alt="" width="224" height="232"
+		     data-image-key="Music_classroom_monitor.png" data-image-name="Music classroom monitor.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Music classroom monitor</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/31_August" title="31 August">31 August</a> <a href="/wiki/1979" title="1979">1979</a> or earlier<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Pure-blood" title="Pure-blood">Pure-blood</a> or <a href="/wiki/Half-blood" title="Half-blood">Half-blood</a> (possibly)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a> or <a href="/wiki/Ireland" title="Ireland">Irish</a><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Black</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Green</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Black</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="house">
+	
+		<h3 class="pi-data-label pi-secondary-font">House</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Ravenclaw" title="Ravenclaw">Ravenclaw</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School</a></li><li><a href="/wiki/Music" title="Music">Music</a></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Chamber of Secrets (video game)">"<i>A non-magical harmonica! Great! Magic music sounds so bland and free from error. Non-magical music has mistakes everywhere!</i>"</span></dd>
+<dd>&#8212;Music classroom monitor<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(video_game)" title="Harry Potter and the Chamber of Secrets (video game)">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Music classroom monitor</b> was a <a href="/wiki/Ravenclaw" title="Ravenclaw">Ravenclaw</a> student at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School</a> during the <a href="/wiki/1990s" title="1990s">1990s</a>.
+</p><p>He attended <a href="/wiki/Music" title="Music">Music</a> classes and worked in the capacity of classroom monitor, in order to assist the <a href="/wiki/Unidentified_1992_-_1993_Music_teacher" title="Unidentified 1992 - 1993 Music teacher">professor</a>.<sup id="cite_ref-CS_GBC_4-0" class="reference"><a href="#cite_note-CS_GBC-4">&#91;4&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#1992"><span class="tocnumber">1.1</span> <span class="toctext">1992</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Appearances"><span class="tocnumber">2</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Notes_and_references"><span class="tocnumber">3</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Music_classroom_monitor?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Music_classroom_monitor?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="1992">1992</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Music_classroom_monitor?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: 1992">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Music_classroom_monitor?action=edit&amp;section=2" title="Edit section: 1992"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>When <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> gained possession of a harmonica during his second year, he thought he should give it to the <a href="/wiki/Music" title="Music">Music</a> <a href="/wiki/Unidentified_1992_-_1993_Music_teacher" title="Unidentified 1992 - 1993 Music teacher">Professor</a>. Finding out he was absent from his <a href="/wiki/Music_Classroom" title="Music Classroom">classroom</a>, he gave it to his assistant. In exchange for the harmonica, in return, the classroom monitor gave Harry a magic whistle.<sup id="cite_ref-CS_GBC_4-1" class="reference"><a href="#cite_note-CS_GBC-4">&#91;4&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Music_classroom_monitor?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Music_classroom_monitor?action=edit&amp;section=3" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(video_game)" title="Harry Potter and the Chamber of Secrets (video game)">Harry Potter and the Chamber of Secrets (video game)</a></i> <small>(First mentioned)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Music_classroom_monitor?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Music_classroom_monitor?action=edit&amp;section=4" title="Edit section: Notes and references

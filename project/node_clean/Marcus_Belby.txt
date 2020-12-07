@@ -1,0 +1,153 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-ravenclaw pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/d/d4/Robert_knox.jpg/revision/latest?cb=20140328073139" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/d/d4/Robert_knox.jpg/revision/latest/scale-to-width-down/350?cb=20140328073139" srcset="https://static.wikia.nocookie.net/harrypotter/images/d/d4/Robert_knox.jpg/revision/latest/scale-to-width-down/350?cb=20140328073139 1x, https://static.wikia.nocookie.net/harrypotter/images/d/d4/Robert_knox.jpg/revision/latest/scale-to-width-down/699?cb=20140328073139 2x" class="pi-image-thumbnail" alt="" width="270" height="371"
+		     data-image-key="Robert_knox.jpg" data-image-name="Robert knox.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Marcus Belby</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">between <a href="/wiki/1_September" title="1 September">1 September</a> <a href="/wiki/1978" title="1978">1978</a> and <a href="/wiki/31_August" title="31 August">31 August</a> <a href="/wiki/1979" title="1979">1979</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Half-blood" title="Half-blood">Half-blood</a> or <a href="/wiki/Pure-blood" title="Pure-blood">Pure-blood</a><sup id="cite_ref-blood_1-0" class="reference"><a href="#cite_note-blood-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a> or <a href="/wiki/Ireland" title="Ireland">Irish</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-HBP7_3-0" class="reference"><a href="#cite_note-HBP7-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male<sup id="cite_ref-HBP7_3-1" class="reference"><a href="#cite_note-HBP7-3">&#91;3&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Marcus_Belby%27s_father" title="Marcus Belby&#039;s father">Mr Belby</a> (father)<sup id="cite_ref-HBP7_3-2" class="reference"><a href="#cite_note-HBP7-3">&#91;3&#93;</a></sup></li><li><a href="/wiki/Damocles_Belby" title="Damocles Belby">Damocles Belby</a> (uncle)<sup id="cite_ref-HBP7_3-3" class="reference"><a href="#cite_note-HBP7-3">&#91;3&#93;</a></sup></li><li><a href="/wiki/Flavius_Belby" title="Flavius Belby">Flavius Belby</a> (possible ancestor)</li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="house">
+	
+		<h3 class="pi-data-label pi-secondary-font">House</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Ravenclaw" title="Ravenclaw">Ravenclaw</a><sup id="cite_ref-HBP7_3-4" class="reference"><a href="#cite_note-HBP7-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a><sup id="cite_ref-HBP7_3-5" class="reference"><a href="#cite_note-HBP7-3">&#91;3&#93;</a></sup><ul><li><a href="/wiki/Ravenclaw" title="Ravenclaw">Ravenclaw</a><sup id="cite_ref-HBP7_3-6" class="reference"><a href="#cite_note-HBP7-3">&#91;3&#93;</a></sup></li><li><a href="/wiki/Slug_Club" title="Slug Club">Slug Club</a><sup id="cite_ref-HBP7_3-7" class="reference"><a href="#cite_note-HBP7-3">&#91;3&#93;</a></sup></li></ul></li><li><a href="/wiki/Belby_family" title="Belby family">Belby family</a><sup id="cite_ref-HBP7_3-8" class="reference"><a href="#cite_note-HBP7-3">&#91;3&#93;</a></sup></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Half-Blood Prince"><b>Horace Slughorn</b>: "<i>I was just telling young Marcus here that I had the pleasure of teaching his Uncle Damocles. Outstanding wizard, outstanding, and his Order of Merlin most well-deserved. Do you see much of your uncle, Marcus?</i>"</span></dd>
+<dd><b>Marcus Belby</b>: "<i>Not… not much of him, no.</i>"</dd>
+<dd><b>Horace Slughorn</b>: "<i>Well, of course, I daresay he's busy. I doubt he invented the Wolfsbane Potion without considerable hard work!</i>"</dd>
+<dd><b>Marcus Belby</b>: "<i>I suppose… Er… he and my dad don't get on very well, you see, so I don't really know much about…</i>"</dd>
+<dd>&#8212; <a href="/wiki/Horace_Slughorn" title="Horace Slughorn">Horace Slughorn</a> and Belby's quick exchange aboard the <a href="/wiki/Hogwarts_Express" title="Hogwarts Express">Hogwarts Express</a><sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">[src]</a></sup></dd></dl>
+</div>
+<p><b>Marcus Belby</b> (born c. <a href="/wiki/1978" title="1978">1978</a>/<a href="/wiki/1979" title="1979">1979</a>) was a <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a>, and a <a href="/wiki/Ravenclaw" title="Ravenclaw">Ravenclaw</a> student at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> from <a href="/wiki/1990" title="1990">1990</a> to <a href="/wiki/1997" title="1997">1997</a>, a year above the famous <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a>.<sup id="cite_ref-HBP7_3-9" class="reference"><a href="#cite_note-HBP7-3">&#91;3&#93;</a></sup>
+</p><p>Marcus was the nephew of <a href="/wiki/Damocles_Belby" title="Damocles Belby">Damocles Belby</a>, the noted <a href="/wiki/Potioneer" title="Potioneer">potioneer</a> who developed the <a href="/wiki/Wolfsbane_Potion" title="Wolfsbane Potion">Wolfsbane Potion</a> in the late <a href="/wiki/20th_century" title="20th century">20th century</a>. For this reason, <a href="/wiki/Horace_Slughorn" title="Horace Slughorn">Horace Slughorn</a> invited Belby to his <a href="/wiki/Slug_Club" title="Slug Club">Slug Club</a> supper parties in the <a href="/wiki/1996-1997_school_year" class="mw-redirect" title="1996-1997 school year">1996-1997 school year</a>,<sup id="cite_ref-HBP7_3-10" class="reference"><a href="#cite_note-HBP7-3">&#91;3&#93;</a></sup> but given that he did not see much of his uncle in him, Slughorn was never seen giving him much attention.<sup id="cite_ref-HBPf12_4-0" class="reference"><a href="#cite_note-HBPf12-4">&#91;4&#93;</a></sup><sup id="cite_ref-HBPf16_5-0" class="reference"><a href="#cite_note-HBPf16-5">&#91;5&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_life"><span class="tocnumber">1.1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Seventh_year"><span class="tocnumber">1.2</span> <span class="toctext">Seventh year</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Later_life"><span class="tocnumber">1.3</span> <span class="toctext">Later life</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Behind_the_scenes"><span class="tocnumber">2</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Appearances"><span class="tocnumber">3</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Notes_and_references"><span class="tocnumber">4</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Marcus_Belby?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Marcus_Belby?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Marcus_Belby?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Early life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Marcus_Belby?action=edit&amp;section=2" title="Edit section: Early life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Marcus Belby was born in around <a href="/wiki/1979" title="1979">1979</a>, somewhere in the <a href="/wiki/Great_Britain" title="Great Britain">British Isles</a>, to the <a href="/wiki/Wizardkind" title="Wizardkind">wizarding</a> <a href="/wiki/Belby_family" title="Belby family">Belby family</a>.<sup id="cite_ref-HBP7_3-11" class="reference"><a href="#cite_note-HBP7-3">&#91;3&#93;</a></sup>
+</p><p>He was the son of <a href="/wiki/Marcus_Belby%27s_father" title="Marcus Belby&#39;s father">Mr Belby</a>, and the nephew of <a href="/wiki/Damocles_Belby" title="Damocles Belby">Damocles Belby</a>: a celebrated, <a href="/wiki/Order_of_Merlin" title="Order of Merlin">Order of Merlin</a>-awarded <a href="/wiki/Potioneer" title="Potioneer">potioneer</a> who, in the last quarter of the <a href="/wiki/20th_century" title="20th century">20th century</a>, developed the <a href="/wiki/Wolfsbane_Potion" title="Wolfsbane Potion">Wolfsbane Potion</a>,<sup id="cite_ref-HBP7_3-12" class="reference"><a href="#cite_note-HBP7-3">&#91;3&#93;</a></sup> a potion that was able to relieve (but not cure) the effects of <a href="/wiki/Werewolf" title="Werewolf">lycanthropy</a>.<sup id="cite_ref-PA8_6-0" class="reference"><a href="#cite_note-PA8-6">&#91;6&#93;</a></sup><sup id="cite_ref-PA18_7-0" class="reference"><a href="#cite_note-PA18-7">&#91;7&#93;</a></sup> Marcus did not, however, have much contact with his famous uncle, because <a href="/wiki/Marcus_Belby%27s_father" title="Marcus Belby&#39;s father">his father</a> was not on good terms with him.<sup id="cite_ref-HBP7_3-13" class="reference"><a href="#cite_note-HBP7-3">&#91;3&#93;</a></sup>
+</p><p>Belby received his <a href="/wiki/Hogwarts_acceptance_letter" title="Hogwarts acceptance letter">Hogwarts acceptance letter</a> at the age of eleven, and enrolled at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> on <a href="/wiki/1_September" title="1 September">1 September</a>, <a href="/wiki/1990" title="1990">1990</a>, the day in which he was <a href="/wiki/Sorting_ceremony" title="Sorting ceremony">sorted</a> into <a href="/wiki/Ravenclaw" title="Ravenclaw">Ravenclaw</a>.<sup id="cite_ref-HBP7_3-14" class="reference"><a href="#cite_note-HBP7-3">&#91;3&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Seventh_year">Seventh year</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Marcus_Belby?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Seventh year">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Marcus_Belby?action=edit&amp;section=3" title="Edit section: Seventh year"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Half-Blood Prince (film)"><b>Ginny Weasley</b>: "<i>I'm sorry, I'm not usually late</i>"</span></dd>
+<dd><b>Horace Slughorn</b>: "<i>No matter, just in time for dessert — that is, if Belby's left you any!</i>"</dd>
+<dd>&#8212; <a href="/wiki/Horace_Slughorn" title="Horace Slughorn">Horace Slughorn</a> chuckling about Belby as Ginny arrives late at a <a href="/wiki/Slug_Club" title="Slug Club">Slug Club</a> supper party.<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince_(film)" title="Harry Potter and the Half-Blood Prince (film)">[src]</a></sup></dd></dl>
+</div><figure class="thumb tleft show-info-icon" style="width: 207px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/0/01/Compartment_C.jpg/revision/latest?cb=20100131190332" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/0/01/Compartment_C.jpg/revision/latest/scale-to-width-down/205?cb=20100131190332" decoding="async" width="205" height="171" class="thumbimage" data-image-name="Compartment C.jpg" data-image-key="Compartment_C.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Compartment_C.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">The first <a href="/wiki/Slug_Club" title="Slug Club">Slug Club</a> meeting aboard the <a href="/wiki/Hogwarts_Express" title="Hogwarts Express">Hogwarts Express</a></p> 		 	</figcaption> </figure>
+<p>Marcus Belby came aboard the <a href="/wiki/Hogwarts_Express" title="Hogwarts Express">Hogwarts Express</a> on the morning of <a href="/wiki/1_September" title="1 September">1 September</a>, <a href="/wiki/1996" title="1996">1996</a> to travel to <a href="/wiki/Hogwarts_Castle" title="Hogwarts Castle">Hogwarts Castle</a>, where he would attend his <a href="/wiki/Seventh_year" title="Seventh year">seventh</a> and <a href="/wiki/Nastily_Exhausting_Wizarding_Test" title="Nastily Exhausting Wizarding Test">N.E.W.T.</a>-level year. Once at the train, he received an invitation for "a bite of lunch" in <a href="/wiki/Compartment_C" title="Compartment C">Compartment C</a> from the new <a href="/wiki/Potions_Master" title="Potions Master">Potions Master</a>, <a href="/wiki/Horace_Slughorn" title="Horace Slughorn">Horace E. F. Slughorn</a>. He got there, and gave a nervous, strained smile to <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> and <a href="/wiki/Neville_Longbottom" title="Neville Longbottom">Neville Longbottom</a> upon their arrival.<sup id="cite_ref-HBP7_3-15" class="reference"><a href="#cite_note-HBP7-3">&#91;3&#93;</a></sup>
+</p><p>Slughorn, who had packed his own lunch (as the <a href="/wiki/Honeydukes_Express" title="Honeydukes Express">Honeydukes Express</a>, the food trolley, was heavy on <a href="/wiki/Liquorice_Wand" title="Liquorice Wand">liquorice wands</a>, and "a poor old man's digestive system isn't quite up to such things") offered Belby half a cold pheasant first, and they started talking about his uncle, <a href="/wiki/Damocles_Belby" title="Damocles Belby">Damocles</a>, and his outstanding achievement. When the professor asked him if he saw his uncle often, Belby tried to answer in haste, and choked on a mouthful of pheasant. Slughorn <a href="/wiki/Anapneo" title="Anapneo">cleared his airways with a spell</a>, only to hear that Belby's father did not get on very well with his uncle and, as such, he did not know much about him. Slughorn became uninterested in him and turned to <a href="/wiki/Cormac_McLaggen" title="Cormac McLaggen">Cormac McLaggen</a> instead, missing out on Belby when he was offering around a small tray of pies.<sup id="cite_ref-HBP7_3-16" class="reference"><a href="#cite_note-HBP7-3">&#91;3&#93;</a></sup>
+</p>
+<figure class="thumb tright show-info-icon" style="width: 242px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/c/cd/Halfblood-01662.jpg/revision/latest?cb=20141224020117" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/c/cd/Halfblood-01662.jpg/revision/latest/scale-to-width-down/240?cb=20141224020117" decoding="async" width="240" height="101" class="thumbimage" data-image-name="Halfblood-01662.jpg" data-image-key="Halfblood-01662.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Halfblood-01662.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">A <a href="/wiki/Slug_Club" title="Slug Club">Slug Club</a> supper party (Belby sitting on <a href="/wiki/Horace_Slughorn" title="Horace Slughorn">Slughorn</a>'s right)</p> 		 	</figcaption> </figure>
+<p>Belby would still be invited to one of the <a href="/wiki/Slug_Club" title="Slug Club">Slug Club</a>'s supper parties. Over <a href="/wiki/Ice_cream" title="Ice cream">ice cream</a>, a matter in which Belby seemed to be more interested than the conversation, the subject turned to his uncle once again, and when Belby said <a href="/wiki/Marcus_Belby%27s_father" title="Marcus Belby&#39;s father">his father</a> claimed "<i>the only <a href="/wiki/Potion" title="Potion">potion</a> worth having is a stiff one at the end of the day</i>", Slughorn changed the subject abruptly and questioned <a href="/wiki/Hermione_Granger" title="Hermione Granger">Hermione Granger</a> about her parents' professions (Dentistry) in the <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> world. When <a href="/wiki/Ginevra_Weasley" title="Ginevra Weasley">Ginny Weasley</a> arrived later during dessert, Slughorn cracked a joke about Belby leaving no ice cream for her.<sup id="cite_ref-HBPf12_4-1" class="reference"><a href="#cite_note-HBPf12-4">&#91;4&#93;</a></sup>
+</p><p>Later in the year, on <a href="/wiki/20_December" title="20 December">20 December</a>, <a href="/wiki/1996" title="1996">1996</a>, Slughorn had Belby handing out towels in the loo while he hosted a <a href="/wiki/Slug_Club_Christmas_party" title="Slug Club Christmas party">Christmas party</a> for the <a href="/wiki/Slug_Club" title="Slug Club">Slug Club</a> in his office.<sup id="cite_ref-HBPf16_5-1" class="reference"><a href="#cite_note-HBPf16-5">&#91;5&#93;</a></sup>
+</p><p>At the end of his seventh year, <a href="/wiki/Albus_Dumbledore" title="Albus Dumbledore">Albus Dumbledore</a> was killed by <a href="/wiki/Severus_Snape" title="Severus Snape">Severus Snape</a>, it was unknown if Marcus attended the <a href="/wiki/Funeral_of_Albus_Dumbledore" title="Funeral of Albus Dumbledore">Funeral of Albus Dumbledore</a> just as most of his other housemates did.
+</p>
+<h3><span class="mw-headline" id="Later_life">Later life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Marcus_Belby?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Later life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Marcus_Belby?action=edit&amp;section=4" title="Edit section: Later life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>It is unknown if he returned to fight in the <a href="/wiki/Battle_of_Hogwarts" title="Battle of Hogwarts">Battle of Hogwarts</a> or if he survived the <a href="/wiki/Second_Wizarding_War" title="Second Wizarding War">Second Wizarding War</a>.
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Marcus_Belby?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Marcus_Belby?action=edit&amp;section=5" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tright show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/5/59/Marcus_Belby_LEGO.png/revision/latest?cb=20200930174146" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/5/59/Marcus_Belby_LEGO.png/revision/latest/scale-to-width-down/180?cb=20200930174146" decoding="async" width="180" height="284" class="thumbimage" data-image-name="Marcus Belby LEGO.png" data-image-key="Marcus_Belby_LEGO.png" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Marcus_Belby_LEGO.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Marcus Belby as he appears in <i><a href="/wiki/LEGO_Harry_Potter:_Years_5-7" title="LEGO Harry Potter: Years 5-7">LEGO Harry Potter: Years 5-7</a></i></p> 		 	</figcaption> </figure>
+<ul><li>Marcus Belby was played by <a href="/wiki/Robert_Knox" title="Robert Knox">Robert Knox</a> in the <a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince_(film)" title="Harry Potter and the Half-Blood Prince (film)">film adaptation</a> of <i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">Harry Potter and the Half-Blood Prince</a></i>.</li>
+<li>On <a href="/wiki/24_May" title="24 May">24 May</a> <a href="/wiki/2008" title="2008">2008</a>, the actor playing Belby, <a href="/wiki/Robert_Knox" title="Robert Knox">Robert Knox</a>, was stabbed to death by Karl Bishop outside the Metro bar next to the suburban rail station in Sidcup, <a href="/wiki/London" title="London">London</a>, while defending his younger brother. At the world première of the film he played in, <i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince_(film)" title="Harry Potter and the Half-Blood Prince (film)">Harry Potter and the Half-Blood Prince</a></i>, all of his former fellow cast members wore white ribbons in his memory.<sup id="cite_ref-KnoximdB_8-0" class="reference"><a href="#cite_note-KnoximdB-8">&#91;8&#93;</a></sup><sup id="cite_ref-KnoxTimeline_9-0" class="reference"><a href="#cite_note-KnoxTimeline-9">&#91;9&#93;</a></sup><sup id="cite_ref-KnoxBBC_10-0" class="reference"><a href="#cite_note-KnoxBBC-10">&#91;10&#93;</a></sup> On <a href="/wiki/4_March" title="4 March">4 March</a>, <a href="/wiki/2009" title="2009">2009</a>, BBC reported that Karl Bishop had been convicted or found guilty of Knox's murder.<sup id="cite_ref-BBConKarlBishop_11-0" class="reference"><a href="#cite_note-BBConKarlBishop-11">&#91;11&#93;</a></sup> The next day, Bishop was given a life sentence for that conviction.<sup id="cite_ref-KarlSnitchSeeker_12-0" class="reference"><a href="#cite_note-KarlSnitchSeeker-12">&#91;12&#93;</a></sup> Video of Robert's parents speaking after the conviction can be seen <a target="_blank" rel="noreferrer noopener" class="external text" href="http://news.bbc.co.uk/2/hi/uk_news/7924320.stm">via this link</a>.</li>
+<li>Despite being described in the book as thin and nervous-looking, he is portrayed in the film as gluttonous and somewhat ill-mannered, speaking with his mouth full of profiteroles as he shovels it into his mouth at the meeting of the <a href="/wiki/Slug_Club" title="Slug Club">Slug Club</a>; he also has a rather round face, possibly hinting that he may be quite fat.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Marcus_Belby?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Marcus_Belby?action=edit&amp;section=6" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" class="lazyload" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 8 images related to <i><b><a href="/wiki/Category:Images_of_Marcus_Belby" title="Category:Images of Marcus Belby">Marcus Belby</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">Harry Potter and the Half-Blood Prince</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince_(film)" title="Harry Potter and the Half-Blood Prince (film)">Harry Potter and the Half-Blood Prince (film)</a></i></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Wizarding_World_(website)" title="Wizarding World (website)">Wizarding World</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter:_Years_5-7" title="LEGO Harry Potter: Years 5-7">LEGO Harry Potter: Years 5-7</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Marcus_Belby?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Marcus_Belby?action=edit&amp;section=7" title="Edit section: Notes and references

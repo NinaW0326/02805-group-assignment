@@ -1,0 +1,126 @@
+<div class="mw-parser-output"><table class="notice metadata" id="spoiler" style="text-align: center; background: beige; margin: 1em 05%; padding: 0 1em; border: #a00 1px solid;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/8/8c/Hogwarts_Mystery.jpeg/revision/latest?cb=20180504083359" class="image"><img alt="Hogwarts Mystery.jpeg" src="https://static.wikia.nocookie.net/harrypotter/images/8/8c/Hogwarts_Mystery.jpeg/revision/latest/scale-to-width-down/175?cb=20180504083359" decoding="async" width="175" height="77" data-image-name="Hogwarts Mystery.jpeg" data-image-key="Hogwarts_Mystery.jpeg" /></a>
+</td>
+<td><b>Warning!</b>
+<p>At least some content in this article is derived from information featured in <i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i>. Spoilers will be present within the article.
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-ravenclaw pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/2/23/Brennan_Doyle.png/revision/latest?cb=20190709042838" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/2/23/Brennan_Doyle.png/revision/latest/scale-to-width-down/296?cb=20190709042838" srcset="https://static.wikia.nocookie.net/harrypotter/images/2/23/Brennan_Doyle.png/revision/latest/scale-to-width-down/296?cb=20190709042838 1x, https://static.wikia.nocookie.net/harrypotter/images/2/23/Brennan_Doyle.png/revision/latest/scale-to-width-down/592?cb=20190709042838 2x" class="pi-image-thumbnail" alt="" width="270" height="370"
+		     data-image-key="Brennan_Doyle.png" data-image-name="Brennan Doyle.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Brennan Doyle</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">Between <a href="/wiki/1_September" title="1 September">1 September</a> <a href="/wiki/1971" title="1971">1971</a> and <a href="/wiki/31_August" title="31 August">31 August</a> <a href="/wiki/1972" title="1972">1972</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a> or <a href="/wiki/Ireland" title="Ireland">Irish</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="title">
+	
+		<h3 class="pi-data-label pi-secondary-font">Title(s)</h3>
+	
+	<div class="pi-data-value pi-font">Backup <a href="/wiki/Keeper" title="Keeper">Keeper</a><sup id="cite_ref-HM6_2-0" class="reference"><a href="#cite_note-HM6-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male<sup id="cite_ref-HM6_2-1" class="reference"><a href="#cite_note-HM6-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Brown<sup id="cite_ref-HM6_2-2" class="reference"><a href="#cite_note-HM6-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Dark<sup id="cite_ref-HM6_2-3" class="reference"><a href="#cite_note-HM6-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="house">
+	
+		<h3 class="pi-data-label pi-secondary-font">House</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Ravenclaw" title="Ravenclaw">Ravenclaw</a><sup id="cite_ref-HM6_2-4" class="reference"><a href="#cite_note-HM6-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a><ul><li><a href="/wiki/Ravenclaw" title="Ravenclaw">Ravenclaw</a></li><li><a href="/wiki/Ravenclaw_Quidditch_team" title="Ravenclaw Quidditch team">Ravenclaw Quidditch team</a></li></ul></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Brennan Doyle</b> was a <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a>, who attended <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> in the <a href="/wiki/1980s" title="1980s">1980s</a> where he was <a href="/wiki/Sorting_ceremony" title="Sorting ceremony">sorted</a> into <a href="/wiki/Ravenclaw" title="Ravenclaw">Ravenclaw</a> <a href="/wiki/Hogwarts_Houses" title="Hogwarts Houses">house</a>.<sup id="cite_ref-HM6_2-5" class="reference"><a href="#cite_note-HM6-2">&#91;2&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Magical_abilities_and_skills"><span class="tocnumber">2</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Appearances"><span class="tocnumber">3</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Notes_and_references"><span class="tocnumber">4</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Brennan_Doyle?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Brennan_Doyle?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Brennan Doyle was born between <a href="/wiki/1_September" title="1 September">1 September</a> <a href="/wiki/1971" title="1971">1971</a> and <a href="/wiki/31_August" title="31 August">31 August</a> <a href="/wiki/1972" title="1972">1972</a>. 
+In <a href="/wiki/1983" title="1983">1983</a>, he began attending <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> and was <a href="/wiki/Sorting_ceremony" title="Sorting ceremony">sorted</a> into <a href="/wiki/Ravenclaw" title="Ravenclaw">Ravenclaw</a>. 
+</p><p>In the <a href="/wiki/1984%E2%80%931985_school_year" title="1984–1985 school year">1984–1985 school year</a>, Brennan joined the <a href="/wiki/Ravenclaw_Quidditch_team" title="Ravenclaw Quidditch team">Ravenclaw Quidditch team</a> as a <a href="/wiki/Keeper" title="Keeper">Keeper</a>, but got down to the substitute roster in the <a href="/wiki/1985%E2%80%931986_school_year" title="1985–1986 school year">1985–1986 school year</a>.<sup id="cite_ref-HM6_2-6" class="reference"><a href="#cite_note-HM6-2">&#91;2&#93;</a></sup>
+</p><p>In the <a href="/wiki/1989%E2%80%931990_school_year" title="1989–1990 school year">1989–1990 school year</a>, he attacked <a href="/wiki/Andre_Egwu" title="Andre Egwu">Andre Egwu</a> with the <a href="/wiki/Conjunctivitis_Curse" title="Conjunctivitis Curse">Conjunctivitis Curse</a> during Quidditch training, wanting to play on the team instead of Andre. This lead to a series of events which resulted in Brennan to be kicked out of the Ravenclaw Quidditch team for his foul play.<sup id="cite_ref-HM6_2-7" class="reference"><a href="#cite_note-HM6-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Brennan_Doyle?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Brennan_Doyle?action=edit&amp;section=2" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Flight" title="Flight">Flying</a></b>: Doyle was clearly an accomplished and talented <a href="/wiki/Broomstick" title="Broomstick">broomstick</a> flyer and <a href="/wiki/Quidditch" title="Quidditch">Quidditch</a> player, given how he played as <a href="/wiki/Keeper" title="Keeper">Keeper</a> for the <a href="/wiki/Ravenclaw_Quidditch_team" title="Ravenclaw Quidditch team">Ravenclaw Quidditch team</a>, which must demonstrate he had a high level of skill and experience in the <a href="/wiki/Magic" title="Magic">magical</a> sport.<sup id="cite_ref-HM6_2-8" class="reference"><a href="#cite_note-HM6-2">&#91;2&#93;</a></sup></li>
+<li><b><a href="/wiki/Dark_Arts" title="Dark Arts">Dark Arts</a></b>: Doyle had some skill with the casting of <a href="/wiki/Dark_charm" title="Dark charm">Dark charms</a>, given how he was able to successfully cast the <a href="/wiki/Conjunctivitis_Curse" title="Conjunctivitis Curse">Conjunctivitis Curse</a> on <a href="/wiki/Andre_Egwu" title="Andre Egwu">Andre Egwu</a> in <a href="/wiki/1989" title="1989">1989</a>.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Brennan_Doyle?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Brennan_Doyle?action=edit&amp;section=3" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Brennan_Doyle?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Brennan_Doyle?action=edit&amp;section=4" title="Edit section: Notes and references

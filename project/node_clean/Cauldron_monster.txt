@@ -1,0 +1,69 @@
+<div class="mw-parser-output"><table class="notice metadata" cellpadding="3px" style="text-align: center; background: snow; border: #a00 1px solid; margin: 1em 10% 1em 10%;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/1/11/Hermione_Granger_%28HBP_promo%29_5.jpg/revision/latest?cb=20090817203540" class="image"><img alt="Hermione Granger (HBP promo) 5.jpg" src="https://static.wikia.nocookie.net/harrypotter/images/1/11/Hermione_Granger_%28HBP_promo%29_5.jpg/revision/latest/scale-to-width-down/60?cb=20090817203540" decoding="async" width="60" height="80" data-image-name="Hermione Granger (HBP promo) 5.jpg" data-image-key="Hermione_Granger_(HBP_promo)_5.jpg" /></a>
+</td>
+<td><i><b>"Are you a wizard or not?"</b></i>
+<p>The title of this article is conjectural.  Although it is based on <a href="/wiki/Canon" title="Canon">canonical information</a>, the actual name is a conjecture and may be supplanted at any time by additional information released from canonical sources.  If this occurs, please move this page to the appropriate title.
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-object pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/8/8b/Monster_Cauldron.png/revision/latest?cb=20190213061015" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/8/8b/Monster_Cauldron.png/revision/latest/scale-to-width-down/350?cb=20190213061015" srcset="https://static.wikia.nocookie.net/harrypotter/images/8/8b/Monster_Cauldron.png/revision/latest/scale-to-width-down/350?cb=20190213061015 1x, https://static.wikia.nocookie.net/harrypotter/images/8/8b/Monster_Cauldron.png/revision/latest/scale-to-width-down/700?cb=20190213061015 2x" class="pi-image-thumbnail" alt="" width="270" height="144"
+		     data-image-key="Monster_Cauldron.png" data-image-name="Monster Cauldron.png"/>
+		
+	</a>
+	
+</figure>
+
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Cauldron monster</h2>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Object information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="location">
+	
+		<h3 class="pi-data-label pi-secondary-font">Location</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Hogwarts_Castle" title="Hogwarts Castle">Hogwarts Castle</a><sup id="cite_ref-POAG_1-0" class="reference"><a href="#cite_note-POAG-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="manufacturer">
+	
+		<h3 class="pi-data-label pi-secondary-font">Manufacturer</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Remus_Lupin" title="Remus Lupin">Remus Lupin</a><sup id="cite_ref-POAG_1-1" class="reference"><a href="#cite_note-POAG-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="made">
+	
+		<h3 class="pi-data-label pi-secondary-font">Made</h3>
+	
+	<div class="pi-data-value pi-font">Pre <a href="/wiki/1993" title="1993">1993</a><sup id="cite_ref-POAG_1-2" class="reference"><a href="#cite_note-POAG-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="usage">
+	
+		<h3 class="pi-data-label pi-secondary-font">Usage</h3>
+	
+	<div class="pi-data-value pi-font">To practise the <a href="/wiki/Freezing_Spell" title="Freezing Spell">Freezing Spell</a> on<sup id="cite_ref-POAG_1-3" class="reference"><a href="#cite_note-POAG-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="owners">
+	
+		<h3 class="pi-data-label pi-secondary-font">Owners</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Remus_Lupin" title="Remus Lupin">Remus Lupin</a><sup id="cite_ref-POAG_1-4" class="reference"><a href="#cite_note-POAG-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Object_infobox" title="Template:Object infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+A <b>cauldron monster</b> is an <a href="/wiki/Charm" title="Charm">enchanted</a> object resembling a man, made up of a <a href="/wiki/Cauldron" title="Cauldron">cauldron</a> and burning torches. It has a <a href="/wiki/Human" title="Human">human</a>-shaped torso and head made of a charmed cauldron and its arms and legs are made up of burning torches. This charmed object spits <a href="/wiki/Fire" title="Fire">fire</a> and can throw its burning arms to cause damage.<sup id="cite_ref-POAG_1-5" class="reference"><a href="#cite_note-POAG-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Cauldron_monster?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Cauldron_monster?action=edit&amp;section=1" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(video_game)" title="Harry Potter and the Prisoner of Azkaban (video game)">Harry Potter and the Prisoner of Azkaban (video game)</a></i> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Cauldron_monster?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Cauldron_monster?action=edit&amp;section=2" title="Edit section: Notes and references

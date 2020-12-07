@@ -1,0 +1,130 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-hogwarts-staff pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/5/5a/Everard_1.jpg/revision/latest?cb=20100605084530" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/5/5a/Everard_1.jpg/revision/latest/scale-to-width-down/314?cb=20100605084530" srcset="https://static.wikia.nocookie.net/harrypotter/images/5/5a/Everard_1.jpg/revision/latest/scale-to-width-down/314?cb=20100605084530 1x, https://static.wikia.nocookie.net/harrypotter/images/5/5a/Everard_1.jpg/revision/latest/scale-to-width-down/628?cb=20100605084530 2x" class="pi-image-thumbnail" alt="" width="270" height="326"
+		     data-image-key="Everard_1.jpg" data-image-name="Everard 1.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Everard</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font">In or before <a href="/wiki/1995" title="1995">1995</a><sup id="cite_ref-DOD_1-0" class="reference"><a href="#cite_note-DOD-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="title">
+	
+		<h3 class="pi-data-label pi-secondary-font">Title(s)</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Headmaster" title="Headmaster">Headmaster</a><sup id="cite_ref-OP22_2-0" class="reference"><a href="#cite_note-OP22-2">&#91;2&#93;</a></sup></li><li><a href="/wiki/Professor" title="Professor">Professor</a><sup id="cite_ref-OP22_2-1" class="reference"><a href="#cite_note-OP22-2">&#91;2&#93;</a></sup></li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Black<sup id="cite_ref-OP22_2-2" class="reference"><a href="#cite_note-OP22-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Light<sup id="cite_ref-OP22_2-3" class="reference"><a href="#cite_note-OP22-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Headmaster" title="Headmaster">Headmaster</a> of <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts</a><sup id="cite_ref-OP22_2-4" class="reference"><a href="#cite_note-OP22-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a><sup id="cite_ref-OP22_2-5" class="reference"><a href="#cite_note-OP22-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Professor Everard</b> was one of <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a>'s most celebrated <a href="/wiki/Headmaster" title="Headmaster">Heads</a>. His <a href="/wiki/Portrait" title="Portrait">portrait</a> hangs in the Headmaster's Office and in the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">Ministry of Magic</a>'s Headquarters.<sup id="cite_ref-OP22_2-6" class="reference"><a href="#cite_note-OP22-2">&#91;2&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#As_Headmaster_of_Hogwarts"><span class="tocnumber">1.1</span> <span class="toctext">As Headmaster of Hogwarts</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Post-mortem"><span class="tocnumber">1.2</span> <span class="toctext">Post-mortem</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Etymology"><span class="tocnumber">2</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Behind_the_scenes"><span class="tocnumber">3</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Appearances"><span class="tocnumber">4</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Notes_and_references"><span class="tocnumber">5</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Everard?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Everard?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="As_Headmaster_of_Hogwarts">As Headmaster of Hogwarts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Everard?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: As Headmaster of Hogwarts">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Everard?action=edit&amp;section=2" title="Edit section: As Headmaster of Hogwarts"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Everard was made <a href="/wiki/Headmaster" title="Headmaster">Headmaster</a> of <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> in an unknown time period.<sup id="cite_ref-OP22_2-7" class="reference"><a href="#cite_note-OP22-2">&#91;2&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Post-mortem">Post-mortem</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Everard?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Post-mortem">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Everard?action=edit&amp;section=3" title="Edit section: Post-mortem"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>After his <a href="/wiki/Death" title="Death">death</a>, he was remembered as one of the most celebrated Heads of Hogwarts.<sup id="cite_ref-OP22_2-8" class="reference"><a href="#cite_note-OP22-2">&#91;2&#93;</a></sup>
+</p><p>When <a href="/wiki/Arthur_Weasley" title="Arthur Weasley">Arthur Weasley</a> was attacked by <a href="/wiki/Nagini" title="Nagini">Nagini</a> in the <a href="/wiki/Department_of_Mysteries" title="Department of Mysteries">Department of Mysteries</a> in late <a href="/wiki/1995" title="1995">1995</a>, <a href="/wiki/Albus_Dumbledore" title="Albus Dumbledore">Albus Dumbledore</a>, then <a href="/wiki/Headmaster" title="Headmaster">Headmaster</a>, asked Everard to go to his portrait at the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">Ministry of Magic</a>'s Headquarters in order to warn others that Mr Weasley was injured at the Department.<sup id="cite_ref-OP22_2-9" class="reference"><a href="#cite_note-OP22-2">&#91;2&#93;</a></sup>
+</p><p>In <a href="/wiki/June" title="June">June</a> <a href="/wiki/1997" title="1997">1997</a>, following the <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eater</a> attack on Hogwarts and the death of <a href="/wiki/Albus_Dumbledore" title="Albus Dumbledore">Albus Dumbledore</a>, he informed <a href="/wiki/Professor" title="Professor">Professor</a> <a href="/wiki/Minerva_McGonagall" title="Minerva McGonagall">Minerva McGonagall</a> that <a href="/wiki/Rufus_Scrimgeour" title="Rufus Scrimgeour">Rufus Scrimgeour</a> was on his way, having just <a href="/wiki/Apparition" title="Apparition">disapparated</a> from the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">Ministry of Magic</a>.<sup id="cite_ref-HBP29_3-0" class="reference"><a href="#cite_note-HBP29-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Everard?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Everard?action=edit&amp;section=4" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The name "Everard" means "brave boar", derived from the Germanic elements eber, "wild boar" and hard, "brave", "hardy". The Normans introduced it to England, where it joined the Old English cognate Eoforheard. It has only been rarely used since the Middle Ages. Modern use of the name may be inspired by the surname Everard, itself derived from the medieval name.
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Everard?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Everard?action=edit&amp;section=5" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>The style of clothing in his portrait suggests that he possibly lived in the 18th or 19th century.</li>
+<li>Everard was portrayed by late <a href="/wiki/Sam_Beazley" title="Sam Beazley">Sam Beazley</a> in the <a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(film)" title="Harry Potter and the Order of the Phoenix (film)">film adaptation</a> of <i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">Harry Potter and the Order of the Phoenix</a></i>.</li>
+<li>Everard is described as having short, black bangs in the novel, but Beazley portrays him as having greying hair.</li>
+<li>In <i><a href="/wiki/LEGO_Harry_Potter:_Years_5-7" title="LEGO Harry Potter: Years 5-7">LEGO Harry Potter: Years 5-7</a></i>, he is shown to be holding a first-aid kit when <a href="/wiki/Albus_Dumbledore" title="Albus Dumbledore">Albus Dumbledore</a> tells him to find the injured <a href="/wiki/Arthur_Weasley" title="Arthur Weasley">Arthur Weasley</a>.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Everard?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Everard?action=edit&amp;section=6" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">Harry Potter and the Order of the Phoenix</a></i> <small>(First appearance)</small> <small>(Appears in portrait(s))</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(film)" title="Harry Potter and the Order of the Phoenix (film)">Harry Potter and the Order of the Phoenix (film)</a></i> <small>(Appears in portrait(s))</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">Harry Potter and the Half-Blood Prince</a></i> <small>(Appears in portrait(s))</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince_(film)" title="Harry Potter and the Half-Blood Prince (film)">Harry Potter and the Half-Blood Prince (film)</a></i> <small>(Appears in portrait(s))</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_2" title="Harry Potter and the Deathly Hallows: Part 2">Harry Potter and the Deathly Hallows: Part 2</a></i> <small>(Appears in portrait(s))</small></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter:_Years_5-7" title="LEGO Harry Potter: Years 5-7">LEGO Harry Potter: Years 5-7</a></i> <small>(Appears in portrait(s))</small></li>
+<li><i><a href="/wiki/The_Making_of_Harry_Potter" title="The Making of Harry Potter">The Making of Harry Potter</a></i> <small>(Appears in portrait(s))</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Everard?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Everard?action=edit&amp;section=7" title="Edit section: Notes and references

@@ -1,0 +1,107 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-quidditch-player pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/6/6b/Gordon_Horton.png/revision/latest?cb=20161027184124" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/6/6b/Gordon_Horton.png/revision/latest/scale-to-width-down/350?cb=20161027184124" srcset="https://static.wikia.nocookie.net/harrypotter/images/6/6b/Gordon_Horton.png/revision/latest/scale-to-width-down/350?cb=20161027184124 1x, https://static.wikia.nocookie.net/harrypotter/images/6/6b/Gordon_Horton.png/revision/latest/scale-to-width-down/700?cb=20161027184124 2x" class="pi-image-thumbnail" alt="" width="270" height="369"
+		     data-image-key="Gordon_Horton.png" data-image-name="Gordon Horton.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Gordon Horton</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="title">
+	
+		<h3 class="pi-data-label pi-secondary-font">Title(s)</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Keeper" title="Keeper">Keeper</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Brown</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Brown</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Dark</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Basil_Horton" title="Basil Horton">Basil Horton</a> (possibly)</li><li><a href="/wiki/Horton_family" title="Horton family">Horton family</a></li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Keeper" title="Keeper">Keeper</a> for the <a href="/wiki/Chudley_Cannons" title="Chudley Cannons">Chudley Cannons</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Chudley_Cannons" title="Chudley Cannons">Chudley Cannons</a></li><li><a href="/wiki/Horton_family" title="Horton family">Horton family</a></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Gordon Horton</b> was a <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> who played as the <a href="/wiki/Keeper" title="Keeper">Keeper</a> for the <a href="/wiki/Quidditch" title="Quidditch">Quidditch</a> <a href="/wiki/Quidditch_team" title="Quidditch team">team</a> the <a href="/wiki/Chudley_Cannons" title="Chudley Cannons">Chudley Cannons</a>.
+</p>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gordon_Horton?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gordon_Horton?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>He was attacked and injured by a <a href="/wiki/Magic" title="Magic">magical</a> <a href="/wiki/Beast" title="Beast">beast</a> at the <a href="/wiki/Chudley_Cannons%27_training_grounds" class="mw-redirect" title="Chudley Cannons&#39; training grounds">Chudley Cannons' training grounds</a>. He was sent to <a href="/wiki/St_Mungo%27s_Hospital_for_Magical_Maladies_and_Injuries" title="St Mungo&#39;s Hospital for Magical Maladies and Injuries">St Mungo's Hospital for Magical Maladies and Injuries</a> to be treated by a <a href="/wiki/Healer" title="Healer">Healer</a>. <a href="/wiki/Omar_Abasi" title="Omar Abasi">Omar Abasi</a> concluded that he had a mild concussion from his fall.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p><p>It was later discovered that he had been attacked by a <a href="/wiki/Hippogriff" title="Hippogriff">Hippogriff</a> nesting with its young in the nearby <a href="/wiki/Old_Bell_Tower" title="Old Bell Tower">Old Bell Tower</a>.
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gordon_Horton?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gordon_Horton?action=edit&amp;section=2" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Fantastic_Beasts:_Cases_from_the_Wizarding_World" title="Fantastic Beasts: Cases from the Wizarding World">Fantastic Beasts: Cases from the Wizarding World</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gordon_Horton?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gordon_Horton?action=edit&amp;section=3" title="Edit section: Notes and references

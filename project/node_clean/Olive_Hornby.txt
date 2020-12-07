@@ -1,0 +1,126 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default"><section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Olive Hornby</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">c. <a href="/wiki/1926" title="1926">1926</a> - <a href="/wiki/1932" title="1932">1932</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font">Before <a href="/wiki/1995" title="1995">1995</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a> or <a href="/wiki/Ireland" title="Ireland">Irish</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Olive_Hornby%27s_brother" title="Olive Hornby&#039;s brother">Mr Hornby</a> (brother)</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a></li><li><a href="/wiki/Hornby_family" title="Hornby family">Hornby family</a></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Goblet of Fire">"<i>Are you in here again, sulking Myrtle? Because Professor Dippet asked me to look for you-</i>"</span></dd>
+<dd>&#8212;Olive finding Myrtle Warren's body<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire" title="Harry Potter and the Goblet of Fire">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Olive Hornby</b> (fl. <a href="/wiki/1940s" title="1940s">1940s</a>) was a <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> who used to harass and bully <a href="/wiki/Myrtle_Warren" title="Myrtle Warren">Myrtle Warren</a> about her glasses when they were school girls at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_life"><span class="tocnumber">1.1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Hogwarts_School"><span class="tocnumber">1.2</span> <span class="toctext">Hogwarts School</span></a>
+<ul>
+<li class="toclevel-3 tocsection-4"><a href="#Bullying_Myrtle"><span class="tocnumber">1.2.1</span> <span class="toctext">Bullying Myrtle</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-5"><a href="#Haunted_by_Moaning_Myrtle"><span class="tocnumber">1.3</span> <span class="toctext">Haunted by Moaning Myrtle</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Death"><span class="tocnumber">1.4</span> <span class="toctext">Death</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Etymology"><span class="tocnumber">2</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Appearances"><span class="tocnumber">3</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Notes_and_references"><span class="tocnumber">4</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Olive_Hornby?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Olive_Hornby?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Olive_Hornby?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Early life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Olive_Hornby?action=edit&amp;section=2" title="Edit section: Early life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Olive was born between <a href="/wiki/1926" title="1926">1926</a> and <a href="/wiki/1932" title="1932">1932</a>, around the time <a href="/wiki/Myrtle_Warren" title="Myrtle Warren">Myrtle</a> and born. She also had a <a href="/wiki/Olive_Hornby%27s_brother" title="Olive Hornby&#39;s brother">brother</a>.
+</p>
+<h3><span class="mw-headline" id="Hogwarts_School">Hogwarts School</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Olive_Hornby?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Hogwarts School">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Olive_Hornby?action=edit&amp;section=3" title="Edit section: Hogwarts School"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>When she was eleven years-old, Olive received a letter, accepting her into <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a>. It's unknown if she was older than or was the same age as <a href="/wiki/Myrtle_Warren" title="Myrtle Warren">Myrtle</a>, so their <a href="/wiki/Sorting_ceremony" title="Sorting ceremony">Sorting</a> might have been at the same time or in different years.
+</p>
+<h4><span class="mw-headline" id="Bullying_Myrtle">Bullying Myrtle</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Olive_Hornby?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Bullying Myrtle">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Olive_Hornby?action=edit&amp;section=4" title="Edit section: Bullying Myrtle"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><a href="/wiki/Myrtle_Warren" title="Myrtle Warren">Myrtle</a> was <a href="/wiki/Sorting_ceremony" title="Sorting ceremony">Sorted</a> into <a href="/wiki/Ravenclaw" title="Ravenclaw">Ravenclaw</a> in <a href="/wiki/1940" title="1940">1940</a>. She was constantly teased and bullied by her fellow students. On one such occasion, Olive cruelly taunted her about her glasses, which was the reason Myrtle was in the bathroom that concealed the <a href="/wiki/Chamber_of_Secrets" title="Chamber of Secrets">Chamber of Secrets</a> on the <a href="/wiki/13_June" title="13 June">night of her murder</a>.<sup id="cite_ref-COS16_3-0" class="reference"><a href="#cite_note-COS16-3">&#91;3&#93;</a></sup> After realising that no one had seen <a href="/wiki/Myrtle_Warren" title="Myrtle Warren">Myrtle</a> for a couple of hours, and knowing that Olive Hornby had previously bullied Myrtle, Professor <a href="/wiki/Armando_Dippet" title="Armando Dippet">Armando Dippet</a>, then-<a href="/wiki/Headmaster" title="Headmaster">Headmaster</a> of Hogwarts, requested her to go and look for Myrtle. When Olive got to the bathroom, the first thing she saw was Myrtle's <a href="/wiki/Death" title="Death">dead</a> body lying on the floor. This left Olive in a state of shock and horror, according to Myrtle's <a href="/wiki/Ghost" title="Ghost">ghost</a>, who watched the scene with delight.<sup id="cite_ref-GOF25_4-0" class="reference"><a href="#cite_note-GOF25-4">&#91;4&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Haunted_by_Moaning_Myrtle">Haunted by Moaning Myrtle</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Olive_Hornby?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Haunted by Moaning Myrtle">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Olive_Hornby?action=edit&amp;section=5" title="Edit section: Haunted by Moaning Myrtle"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Myrtle_Warren" title="Myrtle Warren">Moaning Myrtle</a>, as Myrtle's ghost was now known, haunted Olive Hornby for a long period of time, even after she left Hogwarts.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> After Moaning Myrtle interrupted her <a href="/wiki/Olive_Hornby%27s_brother" title="Olive Hornby&#39;s brother">brother</a>'s wedding, Olive went to the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">Ministry of Magic</a> to get rid of the troublesome ghost. <a href="/wiki/Myrtle_Warren" title="Myrtle Warren">Myrtle Warren</a> was then sent back to <a href="/wiki/Hogwarts_Castle" title="Hogwarts Castle">Hogwarts Castle</a>, where she haunted the bathroom in which she died.<sup id="cite_ref-GOF25_4-1" class="reference"><a href="#cite_note-GOF25-4">&#91;4&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Death">Death</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Olive_Hornby?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Death">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Olive_Hornby?action=edit&amp;section=6" title="Edit section: Death"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Olive Hornby was already <a href="/wiki/Death" title="Death">dead</a> before the events surrounding the <a href="/wiki/1994%E2%80%931995_school_year" title="1994–1995 school year">1994-1995</a> <a href="/wiki/Triwizard_Tournament" title="Triwizard Tournament">Triwizard Tournament</a> at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a>, although it is unknown what year she actually died.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Olive_Hornby?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Olive_Hornby?action=edit&amp;section=7" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>The olive branch to the ancient Greeks, was sacred to Athena and was a sign of peace.</li>
+<li>Her last name, <i>Hornby</i>, is an Old Norse personal name composed of the elements <i>horn</i> ‘horn' + <i>boði</i> ‘messenger'. This could possibly point to the fact that Olive was most likely the first to send the message about Myrtle's death. Horns were also a symbol of power in many cultures, which could mean that Olive had power and authority over Myrtle. It might also be a "Last Trump" (in the sense of trumpet) reference.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Olive_Hornby?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Olive_Hornby?action=edit&amp;section=8" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets" title="Harry Potter and the Chamber of Secrets">Harry Potter and the Chamber of Secrets</a></i> <small>(First mentioned)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(film)" title="Harry Potter and the Chamber of Secrets (film)">Harry Potter and the Chamber of Secrets (film)</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(video_game)" title="Harry Potter and the Chamber of Secrets (video game)">Harry Potter and the Chamber of Secrets (video game)</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire" title="Harry Potter and the Goblet of Fire">Harry Potter and the Goblet of Fire</a></i> <small>(Mentioned only)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Olive_Hornby?veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Olive_Hornby?action=edit&amp;section=9" title="Edit section: Notes and references

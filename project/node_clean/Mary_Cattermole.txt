@@ -1,0 +1,164 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/c/c2/Mary_Cattermole_2.jpg/revision/latest?cb=20160814111720" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/c/c2/Mary_Cattermole_2.jpg/revision/latest/scale-to-width-down/260?cb=20160814111720" srcset="https://static.wikia.nocookie.net/harrypotter/images/c/c2/Mary_Cattermole_2.jpg/revision/latest/scale-to-width-down/260?cb=20160814111720 1x, https://static.wikia.nocookie.net/harrypotter/images/c/c2/Mary_Cattermole_2.jpg/revision/latest/scale-to-width-down/520?cb=20160814111720 2x" class="pi-image-thumbnail" alt="" width="260" height="357"
+		     data-image-key="Mary_Cattermole_2.jpg" data-image-name="Mary Cattermole 2.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Mary Elizabeth Cattermole</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Muggle-born" title="Muggle-born">Muggle-born</a><sup id="cite_ref-DH13_1-0" class="reference"><a href="#cite_note-DH13-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="marital">
+	
+		<h3 class="pi-data-label pi-secondary-font">Marital status</h3>
+	
+	<div class="pi-data-value pi-font">Married<sup id="cite_ref-DH13_1-1" class="reference"><a href="#cite_note-DH13-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a><sup id="cite_ref-DH13_1-2" class="reference"><a href="#cite_note-DH13-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-DH13_1-3" class="reference"><a href="#cite_note-DH13-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female<sup id="cite_ref-DH13_1-4" class="reference"><a href="#cite_note-DH13-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Dark Brown<sup id="cite_ref-LE_2-0" class="reference"><a href="#cite_note-LE-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Blue<sup id="cite_ref-LE_2-1" class="reference"><a href="#cite_note-LE-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Fair<sup id="cite_ref-LE_2-2" class="reference"><a href="#cite_note-LE-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Mary_Cattermole%27s_father" title="Mary Cattermole&#039;s father">Father</a><sup id="cite_ref-DH13_1-5" class="reference"><a href="#cite_note-DH13-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/Mary_Cattermole%27s_mother" title="Mary Cattermole&#039;s mother">Mother</a><sup id="cite_ref-DH13_1-6" class="reference"><a href="#cite_note-DH13-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/Reginald_Cattermole" title="Reginald Cattermole">Reginald Cattermole</a> (husband)<sup id="cite_ref-DH13_1-7" class="reference"><a href="#cite_note-DH13-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/Maisie_Cattermole" title="Maisie Cattermole">Maisie Cattermole</a> (daughter)<sup id="cite_ref-DH13_1-8" class="reference"><a href="#cite_note-DH13-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/Ellie_Cattermole" title="Ellie Cattermole">Ellie Cattermole</a> (daughter)<sup id="cite_ref-DH13_1-9" class="reference"><a href="#cite_note-DH13-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/Alfred_Cattermole" title="Alfred Cattermole">Alfred Cattermole</a> (son)<sup id="cite_ref-DH13_1-10" class="reference"><a href="#cite_note-DH13-1">&#91;1&#93;</a></sup></li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Magical characteristics</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="wand">
+	
+		<h3 class="pi-data-label pi-secondary-font">Wand</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Mary_Cattermole%27s_wand" title="Mary Cattermole&#039;s wand">Cherry, 8¾", unicorn hair</a><sup id="cite_ref-DHF1_3-0" class="reference"><a href="#cite_note-DHF1-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="patronus">
+	
+		<h3 class="pi-data-label pi-secondary-font">Patronus</h3>
+	
+	<div class="pi-data-value pi-font">Non-corporeal<sup id="cite_ref-LHP5-7_4-0" class="reference"><a href="#cite_note-LHP5-7-4">&#91;4&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Cattermole_family" title="Cattermole family">Cattermole family</a><sup id="cite_ref-DH13_1-11" class="reference"><a href="#cite_note-DH13-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Deathly Hallows"><b>Mary Cattermole</b>: "<i>I don't understand.</i>"</span></dd>
+<dd><b>Harry Potter</b>: "<i>You're going to leave here with us. Go home, grab your children, and get out, get out of the country if you've got to. Disguise yourselves and run. You've seen how it is, you won't get anything like a fair hearing here.</i>"</dd>
+<dd>&#8212; Mary Cattermole after <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> and <a href="/wiki/Hermione_Granger" title="Hermione Granger">Hermione Granger</a> disrupt her trial<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">[src]</a></sup></dd></dl>
+</div>
+<p><b>Mary Elizabeth Cattermole</b> (fl. 1997) was a <a href="/wiki/Great_Britain" title="Great Britain">British</a> <a href="/wiki/Muggle-born" title="Muggle-born">Muggle-born</a> <a href="/wiki/Wizardkind" title="Wizardkind">witch</a>. She lived&#160;at <a href="/wiki/27_Chislehurst_Gardens" title="27 Chislehurst Gardens">27</a> <a href="/wiki/Chislehurst_Gardens" title="Chislehurst Gardens">Chislehurst Gardens</a>, <a href="/wiki/Great_Tolling" title="Great Tolling">Great Tolling</a>, <a href="/wiki/Evesham" title="Evesham">Evesham</a> with her husband and children. She was&#160;described as small with dark hair that she wore in a neat bun.<sup id="cite_ref-DH13_1-12" class="reference"><a href="#cite_note-DH13-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Behind_the_scenes"><span class="tocnumber">2</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Etymology"><span class="tocnumber">3</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Appearances"><span class="tocnumber">4</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Notes_and_references"><span class="tocnumber">5</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mary_Cattermole?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mary_Cattermole?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>She was the daughter of a <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> <a href="/wiki/Mary_Cattermole%27s_father" title="Mary Cattermole&#39;s father">greengrocer</a> and <a href="/wiki/Mary_Cattermole%27s_mother" title="Mary Cattermole&#39;s mother">his wife</a>. She married <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">Ministry of Magic</a> employee <a href="/wiki/Reginald_Cattermole" title="Reginald Cattermole">Reginald Cattermole</a>, with whom she had two daughters, <a href="/wiki/Maisie_Cattermole" title="Maisie Cattermole">Maisie</a> and <a href="/wiki/Ellie_Cattermole" title="Ellie Cattermole">Ellie</a>, and one son, <a href="/wiki/Alfred_Cattermole" title="Alfred Cattermole">Alfred</a>.<sup id="cite_ref-DH13_1-13" class="reference"><a href="#cite_note-DH13-1">&#91;1&#93;</a></sup>
+</p>
+<figure class="thumb tleft show-info-icon" style="width: 253px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/b/b1/Trial1.jpg/revision/latest?cb=20150816122531" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/b/b1/Trial1.jpg/revision/latest/scale-to-width-down/251?cb=20150816122531" decoding="async" width="251" height="105" class="thumbimage" data-image-name="Trial1.jpg" data-image-key="Trial1.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Trial1.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Dolores Umbridge interrogates Mary in the <i><a href="/wiki/Muggle-Born_Registration_Commission" title="Muggle-Born Registration Commission">Muggle-Born Registration Commission</a></i> court room</p> 		 	</figcaption> </figure><p> In <a href="/wiki/1997" title="1997">1997</a>, Mary was accused of stealing the <a href="/wiki/Mary_Cattermole%27s_wand" title="Mary Cattermole&#39;s wand">wand</a> of a <a href="/wiki/Pure-blood" title="Pure-blood">pure-blood</a> or <a href="/wiki/Half-blood" title="Half-blood">half-blood</a> witch or wizard, and was brought before a trial by the Muggle-Born Registration Commission. She was interrogated by <a href="/wiki/Dolores_Umbridge" title="Dolores Umbridge">Dolores Umbridge</a> and <a href="/wiki/Corban_Yaxley" title="Corban Yaxley">Yaxley</a>, and would have been convicted and sent to <a href="/wiki/Azkaban" title="Azkaban">Azkaban</a> if not for the help of Harry and Hermione (disguised as <a href="/wiki/Albert_Runcorn" title="Albert Runcorn">Albert Runcorn</a> and <a href="/wiki/Mafalda_Hopkirk" title="Mafalda Hopkirk">Mafalda Hopkirk</a> respectively). Harry, Hermione and Ron (disguised as her husband Reginald Cattermole) assisted her and a group of Muggle-borns who had been in for questioning escape the Ministry. Harry advised Mary and Reg to take their children and flee the country while <a href="/wiki/Tom_Riddle" title="Tom Riddle">Voldemort</a> was still in power.<sup id="cite_ref-DH13_1-14" class="reference"><a href="#cite_note-DH13-1">&#91;1&#93;</a></sup>
+</p><p>It is unknown if Mary and Reginald managed to escape successfully, or what happened to them and their children after the war.
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mary_Cattermole?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mary_Cattermole?action=edit&amp;section=2" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Mary Cattermole was portrayed by <a href="/wiki/Kate_Fleetwood" title="Kate Fleetwood">Kate Fleetwood</a> in <i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1" title="Harry Potter and the Deathly Hallows: Part 1">Harry Potter and the Deathly Hallows: Part 1</a></i>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup></li>
+<li>In the film, it was Ron, not Harry, who warned Mary to take her family and flee the country, though she thought he was her husband at the time, and proceeded to kiss him.<sup id="cite_ref-DHF1_3-1" class="reference"><a href="#cite_note-DHF1-3">&#91;3&#93;</a></sup></li>
+<li>Mary does not wear her hair in a bun in the film.</li></ul>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mary_Cattermole?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mary_Cattermole?action=edit&amp;section=3" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>"Mary" is the English form of Maria, which was the Latin form of the New Testament Greek names Μαριαμ (<i>Mariam</i>) and Μαρια (<i>Maria</i>) (the spellings are interchangeable) which in turn come from the Hebrew name מִרְיָם (<i>Miryam</i>). The meaning is not known for certain, but there are several theories including "sea of bitterness", "rebelliousness", and "wished for child". It is also possible that the source of the name lies in ancient Egyptian, and was derived from <i>mry</i> "beloved" or <i>mr</i> "love".
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mary_Cattermole?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mary_Cattermole?action=edit&amp;section=4" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 14 images related to <i><b><a href="/wiki/Category:Images_of_Mary_Cattermole" title="Category:Images of Mary Cattermole">Mary Cattermole</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<figure class="thumb tright show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/b/b9/LEGO_Mary.png/revision/latest?cb=20111227154255" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/b/b9/LEGO_Mary.png/revision/latest/scale-to-width-down/180?cb=20111227154255" decoding="async" width="180" height="197" class="thumbimage" data-image-name="LEGO Mary.png" data-image-key="LEGO_Mary.png" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:LEGO_Mary.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Mary in <i><a href="/wiki/LEGO_Harry_Potter:_Years_5-7" title="LEGO Harry Potter: Years 5-7">LEGO Harry Potter: Years 5-7</a></i></p> 		 	</figcaption> </figure> 
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">Harry Potter and the Deathly Hallows</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1" title="Harry Potter and the Deathly Hallows: Part 1">Harry Potter and the Deathly Hallows: Part 1</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1_(video_game)" title="Harry Potter and the Deathly Hallows: Part 1 (video game)">Harry Potter and the Deathly Hallows: Part 1 (video game)</a></i></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i></li>
+<li><i><a href="/wiki/Wizarding_World_(website)" title="Wizarding World (website)">Wizarding World</a></i></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter:_Years_5-7" title="LEGO Harry Potter: Years 5-7">LEGO Harry Potter: Years 5-7</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mary_Cattermole?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mary_Cattermole?action=edit&amp;section=5" title="Edit section: Notes and references

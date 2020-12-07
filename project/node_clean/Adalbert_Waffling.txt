@@ -1,0 +1,143 @@
+<div class="mw-parser-output"><table class="notice metadata" id="spoiler" style="text-align: center; background: beige; margin: 1em 05%; padding: 0 1em; border: #a00 1px solid;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/e/ea/Wizards_Unite_logo.jpg/revision/latest?cb=20181114170049" class="image"><img alt="Wizards Unite logo.jpg" src="https://static.wikia.nocookie.net/harrypotter/images/e/ea/Wizards_Unite_logo.jpg/revision/latest/scale-to-width-down/175?cb=20181114170049" decoding="async" width="175" height="98" data-image-name="Wizards Unite logo.jpg" data-image-key="Wizards_Unite_logo.jpg" /></a>
+</td>
+<td><b>Warning!</b>
+<p>At least some content in this article is derived from information featured in <i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i>. As such, spoilers will be present within the article.
+</p><p>For gameplay-specific information, please see the relevant article on <a href="https://harrypotterwizardsunite.fandom.com/wiki/Adalbert_Waffling" class="extiw" title="w:c:harrypotterwizardsunite:Adalbert Waffling">the Harry Potter: Wizards Unite Wiki!</a>
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/d/d0/Aldabert_waffling.jpg/revision/latest?cb=20090625225033" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/d/d0/Aldabert_waffling.jpg/revision/latest/scale-to-width-down/220?cb=20090625225033" srcset="https://static.wikia.nocookie.net/harrypotter/images/d/d0/Aldabert_waffling.jpg/revision/latest/scale-to-width-down/220?cb=20090625225033 1x, https://static.wikia.nocookie.net/harrypotter/images/d/d0/Aldabert_waffling.jpg/revision/latest/scale-to-width-down/440?cb=20090625225033 2x" class="pi-image-thumbnail" alt="" width="220" height="329"
+		     data-image-key="Aldabert_waffling.jpg" data-image-name="Aldabert waffling.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Adalbert Waffling</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/1981" title="1981">1981</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Grey</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>Author</li><li><a href="/wiki/Magic" title="Magic">Magical</a> theoretician</li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;The Tales of Beedle the Bard (real)">"<i>Tamper with the deepest mysteries ― the source of life, the essence of self ― only if prepared for consequences of the most extreme and dangerous kind.</i>"</span></dd>
+<dd>&#8212;Waffling's first <a href="/wiki/Fundamental_Laws_of_Magic" title="Fundamental Laws of Magic">Fundamental Law of Magic</a><sup class="noprint"><a href="/wiki/The_Tales_of_Beedle_the_Bard_(real)" title="The Tales of Beedle the Bard (real)">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Adalbert Waffling</b> (d. <a href="/wiki/1981" title="1981">1981</a>) was a <a href="/wiki/Great_Britain" title="Great Britain">British</a> <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> who was a <a href="/wiki/Magic" title="Magic">magical</a> theoretician, credited to have written "all about magic". Waffling is somewhat seen as the "father of magical theory", as it is a popular claim that every modern witch or wizard has learned from his writings.
+</p><p>Waffling was the one who formulated the <a href="/wiki/Fundamental_Laws_of_Magic" title="Fundamental Laws of Magic">Fundamental Laws of Magic</a> and wrote <i><a href="/wiki/Magical_Theory" title="Magical Theory">Magical Theory</a></i>, a most popular textbook still being used today by the young witches and wizards at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_life"><span class="tocnumber">1.1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Later_life"><span class="tocnumber">1.2</span> <span class="toctext">Later life</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Behind_the_scenes"><span class="tocnumber">2</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Etymology"><span class="tocnumber">3</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Appearances"><span class="tocnumber">4</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Notes_and_references"><span class="tocnumber">5</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Adalbert_Waffling?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Adalbert_Waffling?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Adalbert_Waffling?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Early life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Adalbert_Waffling?action=edit&amp;section=2" title="Edit section: Early life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Adalbert Waffling was born in or before the 19th-century. By the <a href="/wiki/1890s" title="1890s">1890s</a> he was already a most notable theoretician.<sup id="cite_ref-DH2_1-0" class="reference"><a href="#cite_note-DH2-1">&#91;1&#93;</a></sup> Waffling might have attended <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> in his youth, like so many other wizards before him.
+</p>
+<h3><span class="mw-headline" id="Later_life">Later life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Adalbert_Waffling?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Later life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Adalbert_Waffling?action=edit&amp;section=3" title="Edit section: Later life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="thumb tleft show-info-icon" style="width: 167px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/6/64/Adalbert_Waffling_USA_Card.jpg/revision/latest?cb=20100206015908" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/6/64/Adalbert_Waffling_USA_Card.jpg/revision/latest/scale-to-width-down/165?cb=20100206015908" decoding="async" width="165" height="206" class="thumbimage" data-image-name="Adalbert Waffling USA Card.jpg" data-image-key="Adalbert_Waffling_USA_Card.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Adalbert_Waffling_USA_Card.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Waffling studying <a href="/wiki/Magic" title="Magic">Magic</a></p> 		 	</figcaption> </figure><p>By the <a href="/wiki/1890s" title="1890s">1890s</a>, Waffling was already one of most notable wizards of the date,<sup id="cite_ref-DH2_1-1" class="reference"><a href="#cite_note-DH2-1">&#91;1&#93;</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> so it is more than likely he published some of his writings before this point. Around this time <a href="/wiki/Albus_Dumbledore" title="Albus Dumbledore">Albus Dumbledore</a>, the "<i>most brilliant student ever seen [at Hogwarts]</i>", was in regular correspondence with Waffling in order to exchange ideas about magic.<sup id="cite_ref-DH2_1-2" class="reference"><a href="#cite_note-DH2-1">&#91;1&#93;</a></sup> <a href="/wiki/Minerva_McGonagall" title="Minerva McGonagall">Minerva McGonagall</a> later shared these letters with members of the <a href="/wiki/Statute_of_Secrecy_Task_Force" title="Statute of Secrecy Task Force">Statute of Secrecy Task Force</a> who pursued a <a href="/wiki/Professor" title="Professor">Professorship</a> profession to help improve their skills in addressing the <a href="/wiki/Calamity" title="Calamity">Calamity</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p><p>Waffling died in <a href="/wiki/1981" title="1981">1981</a>.<sup id="cite_ref-PSG_4-0" class="reference"><a href="#cite_note-PSG-4">&#91;4&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Adalbert_Waffling?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Adalbert_Waffling?action=edit&amp;section=4" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tright show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/c/c9/Theory.jpg/revision/latest?cb=20090904115030" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/c/c9/Theory.jpg/revision/latest/scale-to-width-down/180?cb=20090904115030" decoding="async" width="180" height="250" class="thumbimage" data-image-name="Theory.jpg" data-image-key="Theory.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Theory.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption"><i><a href="/wiki/Magical_Theory" title="Magical Theory">Magical Theory</a></i>, Waffling's most popular textbook</p> 		 	</figcaption> </figure>
+<ul><li>In early editions of <i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban" title="Harry Potter and the Prisoner of Azkaban">Harry Potter and the Prisoner of Azkaban</a></i>, <i><a href="/wiki/A_History_of_Magic" title="A History of Magic">A History of Magic</a></i> is incorrectly said to be written by Adalbert Waffling, instead of <a href="/wiki/Bathilda_Bagshot" title="Bathilda Bagshot">Bathilda Bagshot</a>.</li>
+<li>In <i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">Harry Potter and the Deathly Hallows</a></i>, it is revealed that <a href="/wiki/Albus_Dumbledore" title="Albus Dumbledore">Albus Dumbledore</a> corresponded with Waffling during his time at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a>. However, the dates given for Waffling's birth on his <a href="/wiki/Chocolate_Frog_Card" title="Chocolate Frog Card">Chocolate Frog Card</a> say that he was born after Dumbledore graduated (in <a href="/wiki/1899" class="mw-redirect" title="1899">1899</a>).</li>
+<li>Adalbert Waffling's death date coincides with the height of the <a href="/wiki/First_Wizarding_War" title="First Wizarding War">First Wizarding War</a> and the original <a href="/wiki/Attack_at_Godric%27s_Hollow_(1981)" title="Attack at Godric&#39;s Hollow (1981)">downfall of Lord Voldemort</a>. It is unknown if he died as a result of the war, or died of another reason.</li></ul>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Adalbert_Waffling?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Adalbert_Waffling?action=edit&amp;section=5" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i>Adal</i> is Old High German for "<i>noble</i>" or "<i>aristocratic</i>"; <i>berta</i>, "<i>bright</i>". To waffle means unable to make a firm decision.
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Adalbert_Waffling?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Adalbert_Waffling?action=edit&amp;section=6" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" class="lazyload" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 6 images related to <i><b><a href="/wiki/Category:Images_of_Adalbert_Waffling" title="Category:Images of Adalbert Waffling">Adalbert Waffling</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone" title="Harry Potter and the Philosopher&#39;s Stone">Harry Potter and the Philosopher's Stone</a></i> <small>(First mentioned)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(film)" title="Harry Potter and the Philosopher&#39;s Stone (film)">Harry Potter and the Philosopher's Stone (film)</a></i> <span class="template-c">(Name is seen on book cover)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(video_game)" title="Harry Potter and the Philosopher&#39;s Stone (video game)">Harry Potter and the Philosopher's Stone (video game)</a></i> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(video_game)" title="Harry Potter and the Chamber of Secrets (video game)">Harry Potter and the Chamber of Secrets (video game)</a></i> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban" title="Harry Potter and the Prisoner of Azkaban">Harry Potter and the Prisoner of Azkaban</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(film)" title="Harry Potter and the Prisoner of Azkaban (film)">Harry Potter and the Prisoner of Azkaban (film)</a></i> <span class="template-c">(Name seen on wood panelling)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(video_game)" title="Harry Potter and the Prisoner of Azkaban (video game)">Harry Potter and the Prisoner of Azkaban (video game)</a></i> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">Harry Potter and the Deathly Hallows</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/The_Tales_of_Beedle_the_Bard_(real)" title="The Tales of Beedle the Bard (real)">The Tales of Beedle the Bard</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/The_Art_of_Harry_Potter_Mini_Book_of_Graphic_Design" title="The Art of Harry Potter Mini Book of Graphic Design">The Art of Harry Potter Mini Book of Graphic Design</a></i></li>
+<li><i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i> <small>(Mentioned only)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Adalbert_Waffling?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Adalbert_Waffling?action=edit&amp;section=7" title="Edit section: Notes and references

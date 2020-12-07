@@ -1,0 +1,92 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-muggle pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/4/48/Snickerton.png/revision/latest?cb=20130917213328" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/4/48/Snickerton.png/revision/latest/scale-to-width-down/210?cb=20130917213328" srcset="https://static.wikia.nocookie.net/harrypotter/images/4/48/Snickerton.png/revision/latest/scale-to-width-down/210?cb=20130917213328 1x, https://static.wikia.nocookie.net/harrypotter/images/4/48/Snickerton.png/revision/latest/scale-to-width-down/420?cb=20130917213328 2x" class="pi-image-thumbnail" alt="" width="210" height="251"
+		     data-image-key="Snickerton.png" data-image-name="Snickerton.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Snickerton</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Grey</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Tailor</div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Snickerton</b> was a <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> <a href="/wiki/Snickerton%27s_shop" title="Snickerton&#39;s shop">tailor</a> in <a href="/wiki/London" title="London">London</a> in the <a href="/wiki/15th_century" title="15th century">15th century</a>. His rivalry with fellow dressmaker <a href="/wiki/Delfina_Crimp" title="Delfina Crimp">Delfina Crimp</a> proved his downfall.
+</p>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Snickerton?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Snickerton?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Snickerton worked as a tailor in <a href="/wiki/London" title="London">London</a> in the <a href="/wiki/15th_century" title="15th century">15th century</a>. Along with others of his profession, he was intensely jealous of the phenomenal success and popularity achieved by one particular London dressmaker, <a href="/wiki/Delfina_Crimp" title="Delfina Crimp">Delfina Crimp</a>, and began to suspect that she might be privy to secret knowledge which they were not.<sup id="cite_ref-WBoS_1-0" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup>
+</p><p>Donning a disguise, Snickerton applied for a position in Madam Crimp's shop, and was successful. However, after several weeks, he had uncovered no evidence of <a href="/wiki/Magic" title="Magic">magic</a> except the lack of scissors in her workroom. Hoping to catch her using magic, Snickerton thus decided to hide out in her workroom one night, wrapping himself in a bolt of <a href="/wiki/Velvet" title="Velvet">velvet</a>. Sure enough, he witnessed her using a wand to cut out an intricate pattern, and the next day, he brought a group of men to arrest her on an accusation of witchcraft.<sup id="cite_ref-WBoS_1-1" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup>
+</p><p>Binding Madam Crimp's hands for fear she might <a href="/wiki/Curse" title="Curse">curse</a> them otherwise, Snickerton began searching her workshop for a wand, which he swore he had seen her using the previous night. But after several hours of looking, he failed to turn up anything suspicious, and his friends began to doubt his account.<sup id="cite_ref-WBoS_1-2" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup>
+</p><p>Eventually, Madam Crimp asked to be untied so as to scratch her chin, to which the men agreed, seeing no danger. But the instant she touched a <a href="/wiki/Wart" title="Wart">wart</a> on her chin, it popped out of her face, revealing her wand. Quickly seizing a bag of <a href="/wiki/Gold" title="Gold">gold</a>, she <a href="/wiki/Apparition" title="Apparition">disappeared</a> from the scene, never to be seen in London again.<sup id="cite_ref-WBoS_1-3" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup>
+</p><p>However, from that day onward, Snickerton found it impossible to make a single item of clothing. Everything he created ended up shredded to bits in the morning regardless of how securely it was stored overnight. According to legend, he died insane, believing that a giant pair of invisible scissors was following him everywhere he went.<sup id="cite_ref-WBoS_1-4" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Snickerton?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Snickerton?action=edit&amp;section=2" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Wonderbook:_Book_of_Spells" title="Wonderbook: Book of Spells">Wonderbook: Book of Spells</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Snickerton?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Snickerton?action=edit&amp;section=3" title="Edit section: Notes and references

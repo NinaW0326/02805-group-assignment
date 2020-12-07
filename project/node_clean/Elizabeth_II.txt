@@ -1,0 +1,149 @@
+<div class="mw-parser-output"><table class="notice metadata" cellpadding="3px" style="text-align: center; background: snow; border: #a00 1px solid; margin: 1em 10% 1em 10%;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/1/16/Mirror_of_Erised.jpeg/revision/latest?cb=20090713064057" class="image"><img alt="Mirror of Erised.jpeg" src="https://static.wikia.nocookie.net/harrypotter/images/1/16/Mirror_of_Erised.jpeg/revision/latest/scale-to-width-down/80?cb=20090713064057" decoding="async" width="80" height="67" data-image-name="Mirror of Erised.jpeg" data-image-key="Mirror_of_Erised.jpeg" /></a>
+</td>
+<td><i><b>"Is this all real? Or has this been happening inside my head?"</b></i>
+<p>The topic of this article is of a real-life subject that has been mentioned "<a href="/wiki/Harry_Potter_Wiki:Policy#.22In-universe.22_point_of_view" title="Harry Potter Wiki:Policy">in-universe</a>" in a <a href="/wiki/Harry_Potter_Wiki:Canon" title="Harry Potter Wiki:Canon">canon</a> source. The <a href="/wiki/Harry_Potter_Wiki:About" title="Harry Potter Wiki:About">Harry Potter Wiki</a> is written from the perspective that all information presented in canon is true (e.g., <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts</a> really exists), and, as such, details contained in this article may differ from real world facts.
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-muggle pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/4/4e/MuggleBanknote.png/revision/latest?cb=20161204205048" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/4/4e/MuggleBanknote.png/revision/latest/scale-to-width-down/280?cb=20161204205048" srcset="https://static.wikia.nocookie.net/harrypotter/images/4/4e/MuggleBanknote.png/revision/latest/scale-to-width-down/280?cb=20161204205048 1x, https://static.wikia.nocookie.net/harrypotter/images/4/4e/MuggleBanknote.png/revision/latest/scale-to-width-down/560?cb=20161204205048 2x" class="pi-image-thumbnail" alt="" width="270" height="150"
+		     data-image-key="MuggleBanknote.png" data-image-name="MuggleBanknote.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Elizabeth II</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/21_April" title="21 April">21 April</a> <a href="/wiki/1926" title="1926">1926</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="marital">
+	
+		<h3 class="pi-data-label pi-secondary-font">Marital status</h3>
+	
+	<div class="pi-data-value pi-font">Married</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="title">
+	
+		<h3 class="pi-data-label pi-secondary-font">Title(s)</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Queen" title="Queen">Queen</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Victoria" title="Victoria">Victoria</a> (great-great-grandmother) †</li><li><a href="/wiki/William_I" title="William I">William I</a> (ancestor) †</li><li><a href="/wiki/Henry_VII" title="Henry VII">Henry VII</a> (ancestor) †</li><li><a href="/wiki/George_III" title="George III">George III</a> (ancestor) †</li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Queen" title="Queen">Queen</a> of the <a href="/wiki/Great_Britain" title="Great Britain">United Kingdom</a> and other <a href="http://en.wikipedia.org/wiki/Commonwealth" class="extiw" title="wikipedia:Commonwealth">Commonwealth</a> countries</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="http://en.wikipedia.org/wiki/British_royal_family" class="extiw" title="wikipedia:British royal family">British royal family</a></li><li><a href="http://en.wikipedia.org/wiki/Church_of_England" class="extiw" title="wikipedia:Church of England">Church of England</a></li><li><a href="/wiki/Great_Britain" title="Great Britain">Great Britain</a></li><li>The <a href="http://en.wikipedia.org/wiki/Commonwealth" class="extiw" title="wikipedia:Commonwealth">Commonwealth</a></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Elizabeth II</b> (full name <b>Elizabeth Alexandra Mary</b>; born <a href="/wiki/21_April" title="21 April">21 April</a> <a href="/wiki/1926" title="1926">1926</a>) was the reigning <a href="/wiki/Queen" title="Queen">queen</a> of the <a href="/wiki/Great_Britain" title="Great Britain">United Kingdom</a> and other <a href="http://en.wikipedia.org/wiki/Commonwealth" class="extiw" title="wikipedia:Commonwealth">Commonwealth</a> countries during the <a href="/wiki/1990s" title="1990s">1990s</a>. She was still queen as of <a href="/wiki/2020" title="2020">2020</a> and became the longest serving monarch of Britain in <a href="/wiki/September" title="September">September</a> <a href="/wiki/2015" title="2015">2015</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Corgi_incident"><span class="tocnumber">1</span> <span class="toctext">Corgi incident</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Depictions_and_references"><span class="tocnumber">2</span> <span class="toctext">Depictions and references</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Behind_the_scenes"><span class="tocnumber">3</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Etymology"><span class="tocnumber">4</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Appearances"><span class="tocnumber">5</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Notes_and_references"><span class="tocnumber">6</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Corgi_incident">Corgi incident</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Elizabeth_II?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Corgi incident">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Elizabeth_II?action=edit&amp;section=1" title="Edit section: Corgi incident"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In September <a href="/wiki/1991" title="1991">1991</a>, one of the Queen's <a href="/wiki/Corgi" title="Corgi">corgwn</a> was <a href="/wiki/Corgi_to_hamster_spell" title="Corgi to hamster spell">transformed</a> into a <a href="/wiki/Hamster" title="Hamster">hamster</a> by an unknown <a href="/wiki/Wizardkind" title="Wizardkind">witch or wizard</a>, prompting the <a href="/wiki/Improper_Use_of_Magic_Office" title="Improper Use of Magic Office">Improper Use of Magic Office</a> to launch an investigation and question several suspects.<sup id="cite_ref-ps-prophet_2-0" class="reference"><a href="#cite_note-ps-prophet-2">&#91;2&#93;</a></sup> The motive behind this attack was unknown at the time,<sup id="cite_ref-ps-prophet_2-1" class="reference"><a href="#cite_note-ps-prophet-2">&#91;2&#93;</a></sup> and it is not known if the culprit was ever found.
+</p><p><a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> authorities, on the other hand, concluded that the Queen's corgi had been stolen and replaced with a hamster as a "cruel" prank.<sup id="cite_ref-ps-prophet_2-2" class="reference"><a href="#cite_note-ps-prophet-2">&#91;2&#93;</a></sup> They launched a "full scale" search to attempt to locate the <a href="/wiki/Dog" title="Dog">dog</a>.<sup id="cite_ref-ps-prophet_2-3" class="reference"><a href="#cite_note-ps-prophet-2">&#91;2&#93;</a></sup>
+</p><p>The incident was reported in the <a href="/wiki/6_September" title="6 September">6 September</a> 1991 issue of the <i><a href="/wiki/Daily_Prophet" title="Daily Prophet">Daily Prophet</a></i>.<sup id="cite_ref-ps-prophet_2-4" class="reference"><a href="#cite_note-ps-prophet-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Depictions_and_references">Depictions and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Elizabeth_II?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Depictions and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Elizabeth_II?action=edit&amp;section=2" title="Edit section: Depictions and references"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tright show-info-icon" style="width: 232px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/5/5e/EIIR.png/revision/latest?cb=20141120191052" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/5/5e/EIIR.png/revision/latest/scale-to-width-down/230?cb=20141120191052" decoding="async" width="230" height="103" class="thumbimage" data-image-name="EIIR.png" data-image-key="EIIR.png" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:EIIR.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">The Queen's <a href="http://en.wikipedia.org/wiki/royal_cypher" class="extiw" title="wikipedia:royal cypher">royal cypher</a> on a streetlamp</p> 		 	</figcaption> </figure>
+<p>The Queen's likeness was featured on the obverse face of <a href="/wiki/Great_Britain" title="Great Britain">British</a> <a href="/wiki/Muggle_money" title="Muggle money">banknotes</a>.<sup id="cite_ref-banknotewiki_3-0" class="reference"><a href="#cite_note-banknotewiki-3">&#91;3&#93;</a></sup> A £50 note was among several objects left on a table at the <a href="/wiki/Siren%27s_Rest" title="Siren&#39;s Rest">Siren's Rest</a> pub in <a href="/wiki/Wales" title="Wales">Wales</a>.<sup id="cite_ref-cob4_4-0" class="reference"><a href="#cite_note-cob4-4">&#91;4&#93;</a></sup>
+</p><p>The Queen's <a href="http://en.wikipedia.org/wiki/royal_cypher" class="extiw" title="wikipedia:royal cypher">royal cypher</a> appeared on streetlamps along the <a href="/wiki/Victoria_Embankment" title="Victoria Embankment">Victoria Embankment</a> in <a href="/wiki/London" title="London">London</a>.<sup id="cite_ref-WWHP_5-0" class="reference"><a href="#cite_note-WWHP-5">&#91;5&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Elizabeth_II?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Elizabeth_II?action=edit&amp;section=3" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>In <i><a href="/wiki/The_Queen%27s_Handbag" title="The Queen&#39;s Handbag">The Queen's Handbag</a></i>, Queen Elizabeth II lost her handbag and the <a href="/wiki/Prime_Minister" title="Prime Minister">Prime Minister</a> sent the task of finding it to <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a>, <a href="/wiki/Hermione_Granger" title="Hermione Granger">Hermione Granger</a>, <a href="/wiki/Ronald_Weasley" title="Ronald Weasley">Ron Weasley</a>, and <a href="/wiki/Neville_Longbottom" title="Neville Longbottom">Neville Longbottom</a>. The events surrounding this short skit cannot, however, be considered canon, as it contradicts canon in several points.</li>
+<li>It is unknown if, as Queen of the United Kingdom in the second half of the <a href="/wiki/20th_century" title="20th century">20th century</a>, Elizabeth II was ever made aware of the existence of the <a href="/wiki/Wizarding_world" title="Wizarding world">wizarding world</a> or the wizarding goings-on like the <a href="/wiki/First_Wizarding_War" title="First Wizarding War">First</a> or <a href="/wiki/Second_Wizarding_War" title="Second Wizarding War">Second Wizarding War</a>, like her <a href="/wiki/Prime_Minister" title="Prime Minister">Prime Minister</a> was.</li></ul>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Elizabeth_II?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Elizabeth_II?action=edit&amp;section=4" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The name "<a href="/wiki/Elizabeth_(disambiguation)" title="Elizabeth (disambiguation)">Elizabeth</a>" comes from Ελισαβετ (<i>Elisabet</i>), the <a href="/wiki/Greece" title="Greece">Greek</a> form of the Hebrew name אֱלִישֶׁבַע (<i>Elisheva</i>) meaning "my <a href="/wiki/God" title="God">God</a> is an <a href="/wiki/Unbreakable_Vow" title="Unbreakable Vow">oath</a>" or perhaps "my God is abundance".
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Elizabeth_II?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Elizabeth_II?action=edit&amp;section=5" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(film)" title="Harry Potter and the Philosopher&#39;s Stone (film)">Harry Potter and the Philosopher's Stone (film)</a></i> <span class="template-c">(Mentioned in newspaper)</span></li>
+<li><i><a href="/wiki/The_Queen%27s_Handbag" title="The Queen&#39;s Handbag">The Queen's Handbag</a></i> <small>(Mentioned only)</small></li>
+<li><a href="/wiki/The_Wizarding_World_of_Harry_Potter" title="The Wizarding World of Harry Potter">The Wizarding World of Harry Potter</a> <span class="template-c">(Royal cypher appears on streetlamps)</span></li>
+<li><i><a href="/wiki/Fantastic_Beasts:_Cases_from_the_Wizarding_World" title="Fantastic Beasts: Cases from the Wizarding World">Fantastic Beasts: Cases from the Wizarding World</a></i> <span class="template-c">(Appears on a banknote)</span></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Elizabeth_II?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Elizabeth_II?action=edit&amp;section=6" title="Edit section: Notes and references

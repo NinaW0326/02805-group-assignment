@@ -1,0 +1,142 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-dark-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/5/57/Herpo_the_Foul.jpg/revision/latest?cb=20090623154123" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/5/57/Herpo_the_Foul.jpg/revision/latest/scale-to-width-down/234?cb=20090623154123" srcset="https://static.wikia.nocookie.net/harrypotter/images/5/57/Herpo_the_Foul.jpg/revision/latest/scale-to-width-down/234?cb=20090623154123 1x, https://static.wikia.nocookie.net/harrypotter/images/5/57/Herpo_the_Foul.jpg/revision/latest/scale-to-width-down/468?cb=20090623154123 2x" class="pi-image-thumbnail" alt="" width="234" height="322"
+		     data-image-key="Herpo_the_Foul.jpg" data-image-name="Herpo the Foul.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Herpo the Foul</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/B.C._era" title="B.C. era">Ancient</a> <a href="/wiki/Greece" title="Greece">Greece</a><sup id="cite_ref-CFC_1-0" class="reference"><a href="#cite_note-CFC-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Greece" title="Greece">Greek</a><sup id="cite_ref-CFC_1-1" class="reference"><a href="#cite_note-CFC-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-CFC_1-2" class="reference"><a href="#cite_note-CFC-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male<sup id="cite_ref-CFC_1-3" class="reference"><a href="#cite_note-CFC-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">White<sup id="cite_ref-CFC_1-4" class="reference"><a href="#cite_note-CFC-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Yellow<sup id="cite_ref-CFC_1-5" class="reference"><a href="#cite_note-CFC-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Light<sup id="cite_ref-CFC_1-6" class="reference"><a href="#cite_note-CFC-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Spell_creation" title="Spell creation">Spell inventor</a><sup id="cite_ref-CFC_1-7" class="reference"><a href="#cite_note-CFC-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Dark_Arts" title="Dark Arts">Dark Arts</a><sup id="cite_ref-CFC_1-8" class="reference"><a href="#cite_note-CFC-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Fantastic Beasts and Where to Find Them (real)">"<i>The first recorded Basilisk was bred by Herpo the Foul, a Greek Dark wizard and Parselmouth, who discovered after much experimentation that a chicken egg hatched beneath a toad would produce a gigantic serpent possessed of extraordinarily dangerous powers.</i>"</span></dd>
+<dd>&#8212;<a href="/wiki/Newton_Scamander" title="Newton Scamander">Newt Scamander</a>, <i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them" title="Fantastic Beasts and Where to Find Them">Fantastic Beasts and Where to Find Them</a></i><sup class="noprint"><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(real)" class="mw-redirect" title="Fantastic Beasts and Where to Find Them (real)">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Herpo the Foul</b> was an <a href="/wiki/Greece" title="Greece">Ancient Greek</a> <a href="/wiki/Dark_Wizard" title="Dark Wizard">Dark Wizard</a>, infamous for being a pioneer in the field of the <a href="/wiki/Dark_Arts" title="Dark Arts">Dark Arts</a>, becoming the first known wizard to create the <a href="/wiki/Basilisk" title="Basilisk">Basilisk</a>,<sup id="cite_ref-FBR_2-0" class="reference"><a href="#cite_note-FBR-2">&#91;2&#93;</a></sup> in addition to the first known <a href="/wiki/Horcrux" title="Horcrux">Horcrux</a>.<sup id="cite_ref-Horcrux_3-0" class="reference"><a href="#cite_note-Horcrux-3">&#91;3&#93;</a></sup> A <a href="/wiki/Parseltongue" title="Parseltongue">Parselmouth</a>, he is one of the earliest known Dark Wizards and his work is still a lasting aspect of dark magic to date. For his depravity, he was featured on a <a href="/wiki/Chocolate_Frog_Card" title="Chocolate Frog Card">Chocolate Frog Card</a>.<sup id="cite_ref-CFC_1-9" class="reference"><a href="#cite_note-CFC-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Magical_abilities_and_skills"><span class="tocnumber">2</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Possessions"><span class="tocnumber">3</span> <span class="toctext">Possessions</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Etymology"><span class="tocnumber">4</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Behind_the_scenes"><span class="tocnumber">5</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Appearances"><span class="tocnumber">6</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Notes_and_references"><span class="tocnumber">7</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Herpo_the_Foul?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Herpo_the_Foul?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Born a Parselmouth, Herpo had the the ability to communicate with <a href="/wiki/Snake" title="Snake">snakes</a>. He spent his life studying the Dark Arts, <a href="/wiki/Spell_creation" title="Spell creation">inventing</a> many vile <a href="/wiki/Curse" title="Curse">curses</a>.<sup id="cite_ref-CFC_1-10" class="reference"><a href="#cite_note-CFC-1">&#91;1&#93;</a></sup> At some point in his life, after much experimentation, he created the <a href="/wiki/Herpo_the_Foul%27s_basilisk" title="Herpo the Foul&#39;s basilisk">first known Basilisk</a>,<sup id="cite_ref-FBR_2-1" class="reference"><a href="#cite_note-FBR-2">&#91;2&#93;</a></sup> and being a Parselmouth, he was able to communicate with and control it. In addition, he acquired a great understanding of the nature of the <a href="/wiki/Soul" title="Soul">soul</a>, and how murder affected it. Armed with his knowledge and ruthlessness, he deliberately committed murder with the intention of splitting his soul, and subsequently sealed it inside an object <a href="/wiki/Horcrux-making_spell" title="Horcrux-making spell">with Dark Magic</a>, becoming the first known wizard to successfully create a <a href="/wiki/Herpo_the_Foul%27s_horcrux" class="mw-redirect" title="Herpo the Foul&#39;s horcrux">Horcrux</a>.<sup id="cite_ref-Horcrux_3-1" class="reference"><a href="#cite_note-Horcrux-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Herpo_the_Foul?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Herpo_the_Foul?action=edit&amp;section=2" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Dark_Arts" title="Dark Arts">Dark Arts</a></b>: Herpo was known as one of the most powerful and influential practitioners of dark magic in history, having immersed himself into dark magic of the most advanced and dangerous kind.<sup id="cite_ref-CFC_1-11" class="reference"><a href="#cite_note-CFC-1">&#91;1&#93;</a></sup> Herpo pioneered two of the darkest magical techniques known to wizardkind, being the first known wizard to successfully breed the <a href="/wiki/Basilisk" title="Basilisk">Basilisk</a>,<sup id="cite_ref-FBR_2-2" class="reference"><a href="#cite_note-FBR-2">&#91;2&#93;</a></sup> and the first known wizard to have ever successfully created a <a href="/wiki/Horcrux" title="Horcrux">Horcrux</a>, possibly inventing the process by which to do this. His Horcrux would have left his <a href="/wiki/Soul" title="Soul">soul</a> unstable, rendering him less than <a href="/wiki/Human" title="Human">human</a>.<sup id="cite_ref-Horcrux_3-2" class="reference"><a href="#cite_note-Horcrux-3">&#91;3&#93;</a></sup> He was highly adept with <a href="/wiki/Curse" title="Curse">curses</a>, having even <a href="/wiki/Spell_creation" title="Spell creation">invented</a> many ones himself.<sup id="cite_ref-CFC_1-12" class="reference"><a href="#cite_note-CFC-1">&#91;1&#93;</a></sup></li>
+<li><b><a href="/wiki/Immortality" title="Immortality">Immortality</a></b>: Being the first know wizard to have created a Horcrux, Herpo achieved immortality, with his soul being earthbound even if his body would be destroyed.<sup id="cite_ref-Horcrux_3-3" class="reference"><a href="#cite_note-Horcrux-3">&#91;3&#93;</a></sup></li>
+<li><b><a href="/wiki/Spell_creation" title="Spell creation">Spell creation</a></b>: He invented many vile <a href="/wiki/Curse" title="Curse">curses</a>, which earned him his well-deserved malevolent reputation.<sup id="cite_ref-CFC_1-13" class="reference"><a href="#cite_note-CFC-1">&#91;1&#93;</a></sup></li>
+<li><b><a href="/wiki/Parseltongue" title="Parseltongue">Parseltongue</a></b>: One of the earliest known Parselmouths, an uncommon gift to speak with <a href="/wiki/Snake" title="Snake">snakes</a>, which has been often connected to the Dark Arts.<sup id="cite_ref-FBR_2-3" class="reference"><a href="#cite_note-FBR-2">&#91;2&#93;</a></sup></li>
+<li><b><a href="/wiki/Basilisk" title="Basilisk">Basilisk</a> breeding</b>: First wizard to have discovered that hatching a <a href="/wiki/Chicken_(animal)" title="Chicken (animal)">chicken</a> <a href="/wiki/Egg" title="Egg">egg</a> under a toad will create the <a href="/wiki/Basilisk" title="Basilisk">King of Serpents</a>. He managed to control it with Parseltongue, thus initiating one of the few cases of a wizard "domesticating" a XXXXX-classified creature (known wizard-killer that cannot be tamed).<sup id="cite_ref-FBR_2-4" class="reference"><a href="#cite_note-FBR-2">&#91;2&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Possessions">Possessions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Herpo_the_Foul?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Possessions">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Herpo_the_Foul?action=edit&amp;section=3" title="Edit section: Possessions"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tright show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/0/09/Herpo_the_Foul%27s_basilisk.jpeg/revision/latest?cb=20180826023512" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/0/09/Herpo_the_Foul%27s_basilisk.jpeg/revision/latest/scale-to-width-down/180?cb=20180826023512" decoding="async" width="180" height="188" class="thumbimage" data-image-name="Herpo the Foul&#39;s basilisk.jpeg" data-image-key="Herpo_the_Foul&#39;s_basilisk.jpeg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Herpo_the_Foul%27s_basilisk.jpeg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Herpo with his pet Basilisk</p> 		 	</figcaption> </figure>
+<ul><li><b><a href="/wiki/Herpo_the_Foul%27s_basilisk" title="Herpo the Foul&#39;s basilisk">Basilisk</a></b>: Herpo the Foul was notably the first wizard to breed a <a href="/wiki/Basilisk" title="Basilisk">Basilisk</a>, an immensely powerful dark creature, which he owned as a pet. He was able to control the monster using Parseltongue, and was believed to have lived for at least 900 years.<sup id="cite_ref-FBR_2-5" class="reference"><a href="#cite_note-FBR-2">&#91;2&#93;</a></sup></li>
+<li><b><a href="/wiki/Herpo_the_Foul%27s_Horcrux" title="Herpo the Foul&#39;s Horcrux">Horcrux</a></b>: Herpo was the first Dark Wizard in wizarding history to successfully create a <a href="/wiki/Horcrux" title="Horcrux">Horcrux</a>, although it is unknown what kind of object he used to contain a piece of his fractured <a href="/wiki/Soul" title="Soul">soul</a> inside of.<sup id="cite_ref-Horcrux_3-4" class="reference"><a href="#cite_note-Horcrux-3">&#91;3&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Herpo_the_Foul?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Herpo_the_Foul?action=edit&amp;section=4" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>In Ancient Greek, ἑρπετόν (pronounced "herpeton") means "creeping animal". In modern times, <a href="http://en.wikipedia.org/wiki/Herpetology" class="extiw" title="wikipedia:Herpetology">herpetology</a> is the study of amphibians and reptiles. Basilisks are snakes, and thus reptiles, and Parseltongue is the language of snakes.</li>
+<li>In Ancient Greek, Herpo's name would be "Ἕρπων ὁ δεινός" (pronounced "Herpōn ho deinos"). This comes from the active participle of the verb ἕρπω, which is cognate with Latin <i>serpo</i>, the active participle of which is <i>serpens</i> - the root of English "serpent."</li></ul>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Herpo_the_Foul?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Herpo_the_Foul?action=edit&amp;section=5" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>It is unknown when or under what circumstances Herpo the Foul died or his Horcrux was destroyed, assuming that these things did happen. If his Horcrux was never destroyed it is possible he is still alive, possibly as a wandering spirit (in a state that <a href="/wiki/Horace_Slughorn" title="Horace Slughorn">Horace Slughorn</a> described as being worse than death).</li>
+<li>If Herpo did indeed die, it is unknown whether his <a href="/wiki/Soul" title="Soul">soul</a> had shared a <a href="/wiki/Limbo" title="Limbo">fate</a> similar to that of <a href="/wiki/Tom_Riddle" title="Tom Riddle">Tom Riddle</a> after the latter's death in 1998, assuming he never repented to repair his damaged soul.</li>
+<li>Herpo the Foul's depiction on his Chocolate Frog Card is somewhat snakelike, though not as much as <a href="/wiki/Tom_Riddle" title="Tom Riddle">Lord Voldemort</a>'s. This could be reference to Voldemort's decaying appearance in his later life, as he became progressively less human with the more murders he committed. As Herpo does not look as snakelike as Voldemort, he likely only made one Horcrux, as it has been stated that Riddle is the only known wizard to have made multiple Horcruxes.</li>
+<li>Ironically, he bred a creature whose venom could destroy his Horcrux.</li>
+<li>Herpo the Foul might have been a distant ancestor of <a href="/wiki/Salazar_Slytherin" title="Salazar Slytherin">Salazar Slytherin</a>, as Herpo was the earliest known <a href="/wiki/Parseltongue" title="Parseltongue">Parselmouth</a>, Slytherin was a Parselmouth himself, and the gift of Parseltongue is likely hereditary, as seen in the <a href="/wiki/House_of_Gaunt" title="House of Gaunt">Gaunt</a> descendants. Though it is unlikely that the Slytherin family was the only Parselmouth family in existence.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Herpo_the_Foul?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Herpo_the_Foul?action=edit&amp;section=6" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 6 images related to <i><b><a href="/wiki/Category:Images_of_Herpo_the_Foul" title="Category:Images of Herpo the Foul">Herpo the Foul</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div><figure class="thumb tright show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/7/78/Herpo_The_Foul-11-chocFrogCard.png/revision/latest?cb=20160606202317" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/7/78/Herpo_The_Foul-11-chocFrogCard.png/revision/latest/scale-to-width-down/180?cb=20160606202317" decoding="async" width="180" height="180" class="thumbimage" data-image-name="Herpo The Foul-11-chocFrogCard.png" data-image-key="Herpo_The_Foul-11-chocFrogCard.png" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Herpo_The_Foul-11-chocFrogCard.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Herpo the Foul immortalised on a gold <a href="/wiki/Chocolate_Frog_Card" title="Chocolate Frog Card">Chocolate Frog Card</a></p> 		 	</figcaption> </figure>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(video_game)" title="Harry Potter and the Philosopher&#39;s Stone (video game)">Harry Potter and the Philosopher's Stone (video game)</a></i> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(video_game)" title="Harry Potter and the Chamber of Secrets (video game)">Harry Potter and the Chamber of Secrets (video game)</a></i> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(video_game)" title="Harry Potter and the Prisoner of Azkaban (video game)">Harry Potter and the Prisoner of Azkaban (video game)</a></i> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li>
+<li><i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(companion_book)" title="Fantastic Beasts and Where to Find Them (companion book)">Fantastic Beasts and Where to Find Them</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Herpo_the_Foul?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Herpo_the_Foul?action=edit&amp;section=7" title="Edit section: Notes and references

@@ -1,0 +1,131 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-slytherin pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/a/a6/Terrance_Higgs.png/revision/latest?cb=20131208011148" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/a/a6/Terrance_Higgs.png/revision/latest/scale-to-width-down/350?cb=20131208011148" srcset="https://static.wikia.nocookie.net/harrypotter/images/a/a6/Terrance_Higgs.png/revision/latest/scale-to-width-down/350?cb=20131208011148 1x, https://static.wikia.nocookie.net/harrypotter/images/a/a6/Terrance_Higgs.png/revision/latest/scale-to-width-down/700?cb=20131208011148 2x" class="pi-image-thumbnail" alt="" width="270" height="170"
+		     data-image-key="Terrance_Higgs.png" data-image-name="Terrance Higgs.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Terence Higgs</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/31_August" title="31 August">31 August</a> <a href="/wiki/1979" title="1979">1979</a> or earlier</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a> or <a href="/wiki/Ireland" title="Ireland">Irish</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="title">
+	
+		<h3 class="pi-data-label pi-secondary-font">Title(s)</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Seeker" title="Seeker">Seeker</a><sup id="cite_ref-PS11_2-0" class="reference"><a href="#cite_note-PS11-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-PS11_2-1" class="reference"><a href="#cite_note-PS11-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male<sup id="cite_ref-PS11_2-2" class="reference"><a href="#cite_note-PS11-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Bertie_Higgs" title="Bertie Higgs">Bertie Higgs</a> (possible relative)</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="house">
+	
+		<h3 class="pi-data-label pi-secondary-font">House</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Slytherin" title="Slytherin">Slytherin</a><sup id="cite_ref-PS11_2-3" class="reference"><a href="#cite_note-PS11-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Higgs_family" title="Higgs family">Higgs family</a></li><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a><sup id="cite_ref-PS11_2-4" class="reference"><a href="#cite_note-PS11-2">&#91;2&#93;</a></sup><ul><li><a href="/wiki/Slytherin" title="Slytherin">Slytherin</a><sup id="cite_ref-PS11_2-5" class="reference"><a href="#cite_note-PS11-2">&#91;2&#93;</a></sup></li><li><a href="/wiki/Slytherin_Quidditch_team" title="Slytherin Quidditch team">Slytherin Quidditch team</a><sup id="cite_ref-PS11_2-6" class="reference"><a href="#cite_note-PS11-2">&#91;2&#93;</a></sup></li></ul></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Philosopher&#39;s Stone">"<i>Harry saw it. In a great rush of excitement he dived downward after the streak of gold. Slytherin Seeker Terence Higgs had seen it, too. Neck and neck they hurtled toward the Snitch — all the Chasers seemed to have forgotten what they were supposed to be doing as they hung in midair to watch.</i>"</span></dd>
+<dd>&#8212;Terrence playing Quidditch against Harry Potter in 1991<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone" title="Harry Potter and the Philosopher&#39;s Stone">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Terence Higgs</b> (b. <a href="/wiki/1970s" title="1970s">1970s</a>) was a <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> and a <a href="/wiki/Slytherin" title="Slytherin">Slytherin</a> student at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a>.<sup id="cite_ref-PS11_2-7" class="reference"><a href="#cite_note-PS11-2">&#91;2&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Magical_abilities_and_skills"><span class="tocnumber">2</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Behind_the_scenes"><span class="tocnumber">3</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Etymology"><span class="tocnumber">4</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Appearances"><span class="tocnumber">5</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Notes_and_references"><span class="tocnumber">6</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Terence_Higgs?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Terence_Higgs?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>He was the <a href="/wiki/Slytherin_Quidditch_team" title="Slytherin Quidditch team">Slytherin Quidditch team</a> <a href="/wiki/Seeker" title="Seeker">Seeker</a> during the <a href="/wiki/1991%E2%80%931992_school_year" title="1991–1992 school year">1991–1992</a> season and in the first game of the year, raced <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> for the <a href="/wiki/Golden_Snitch" title="Golden Snitch">Golden Snitch</a>. Like <a href="/wiki/Adrian_Pucey" title="Adrian Pucey">Adrian Pucey</a>, he appeared to be one of the more decent Slytherin players, as he seemed to play by the rules of Quidditch and did not resort to cheating.<sup id="cite_ref-PS11_2-8" class="reference"><a href="#cite_note-PS11-2">&#91;2&#93;</a></sup> 
+</p><p>But in the <a href="/wiki/1992%E2%80%931993_school_year" title="1992–1993 school year">1992–1993 school year</a>, he was replaced by <a href="/wiki/Draco_Malfoy" title="Draco Malfoy">Draco Malfoy</a>.<sup id="cite_ref-COS7_3-0" class="reference"><a href="#cite_note-COS7-3">&#91;3&#93;</a></sup>  However, it is unknown if he was still attending <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts</a> at that time, or if he had already graduated.
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Terence_Higgs?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Terence_Higgs?action=edit&amp;section=2" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Flight" title="Flight">Flying</a></b>: As the <a href="/wiki/Seeker" title="Seeker">Seeker</a> for the <a href="/wiki/Slytherin_Quidditch_team" title="Slytherin Quidditch team">Slytherin Quidditch team</a>, Higgs was evidently a talented <a href="/wiki/Broomstick" title="Broomstick">broomstick</a> flyer and <a href="/wiki/Quidditch" title="Quidditch">Quidditch</a> player, as he was deemend good enough to be Seeker for the team.<sup id="cite_ref-PS11_2-9" class="reference"><a href="#cite_note-PS11-2">&#91;2&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Terence_Higgs?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Terence_Higgs?action=edit&amp;section=3" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Terence Higgs was portrayed by <a href="/wiki/Great_Britain" title="Great Britain">British</a> actor <a href="/wiki/Will_Theakston" title="Will Theakston">Will Theakston</a>, with the credits incorrectly stating he was played by <a href="/wiki/Scot_Fearn" title="Scot Fearn">Scot Fearn</a>. Fearn's name was also misspelled as Fern.</li>
+<li>In the <a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(film)" title="Harry Potter and the Philosopher&#39;s Stone (film)">film adaptation</a> of <i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone" title="Harry Potter and the Philosopher&#39;s Stone">Harry Potter and the Philosopher's Stone</a></i> Terence Higgs used the <a href="/wiki/Cobbing" title="Cobbing">cobbing</a> foul against <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a>, although he could have done it simply in retaliation, since Harry cobbed him first. It is unclear if this was the case, as Terence ended up cobbing Harry four times as opposed to twice.</li></ul>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Terence_Higgs?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Terence_Higgs?action=edit&amp;section=4" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Terentius was a Roman family name. It may mean "tender" or "gracious". Higgs is variation of Hicks, from old English Hicke, a nickname for the Norman French name Richard. The early English substituted an "H" because they had trouble saying the letter "R".
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Terence_Higgs?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Terence_Higgs?action=edit&amp;section=5" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 6 images related to <i><b><a href="/wiki/Category:Images_of_Terence_Higgs" title="Category:Images of Terence Higgs">Terence Higgs</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone" title="Harry Potter and the Philosopher&#39;s Stone">Harry Potter and the Philosopher's Stone</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(film)" title="Harry Potter and the Philosopher&#39;s Stone (film)">Harry Potter and the Philosopher's Stone (film)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(video_game)" title="Harry Potter and the Philosopher&#39;s Stone (video game)">Harry Potter and the Philosopher's Stone (video game)</a></i></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_Trading_Card_Game" title="Harry Potter Trading Card Game">Harry Potter Trading Card Game</a></i></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter:_Years_1-4" title="LEGO Harry Potter: Years 1-4">LEGO Harry Potter: Years 1-4</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_for_Kinect" title="Harry Potter for Kinect">Harry Potter for Kinect</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Terence_Higgs?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Terence_Higgs?action=edit&amp;section=6" title="Edit section: Notes and references

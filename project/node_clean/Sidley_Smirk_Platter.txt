@@ -1,0 +1,78 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-mom pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/9/9f/SmirkPlatterProfile.png/revision/latest?cb=20121217004133" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/9/9f/SmirkPlatterProfile.png/revision/latest/scale-to-width-down/290?cb=20121217004133" srcset="https://static.wikia.nocookie.net/harrypotter/images/9/9f/SmirkPlatterProfile.png/revision/latest/scale-to-width-down/290?cb=20121217004133 1x, https://static.wikia.nocookie.net/harrypotter/images/9/9f/SmirkPlatterProfile.png/revision/latest/scale-to-width-down/581?cb=20121217004133 2x" class="pi-image-thumbnail" alt="" width="270" height="464"
+		     data-image-key="SmirkPlatterProfile.png" data-image-name="SmirkPlatterProfile.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Sidley Smirk Platter</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">c. <a href="/wiki/1503" class="mw-redirect" title="1503">1503</a><sup id="cite_ref-portrait_1-0" class="reference"><a href="#cite_note-portrait-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="title">
+	
+		<h3 class="pi-data-label pi-secondary-font">Title(s)</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Supreme_Mugwump" title="Supreme Mugwump">Supreme Mugwump</a><sup id="cite_ref-portrait_1-1" class="reference"><a href="#cite_note-portrait-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/Grand_Sorcerer" title="Grand Sorcerer">Grand Sorcerer</a><sup id="cite_ref-portrait_1-2" class="reference"><a href="#cite_note-portrait-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/Honorific" title="Honorific">Sir</a></li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/International_Confederation_of_Wizards" title="International Confederation of Wizards">International Confederation of Wizards</a></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Sir Sidley Smirk Platter</b><sup id="cite_ref-LE_2-0" class="reference"><a href="#cite_note-LE-2">&#91;2&#93;</a></sup>, <small><a href="/wiki/Grand_Sorcerer" title="Grand Sorcerer">Grand Sorc.</a></small>, (born c. <a href="/wiki/1503" class="mw-redirect" title="1503">1503</a>) was a <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> who was appointed <a href="/wiki/Supreme_Mugwump" title="Supreme Mugwump">Supreme Mugwump</a> of the <a href="/wiki/International_Confederation_of_Wizards" title="International Confederation of Wizards">International Confederation of Wizards</a> sometime after <a href="/wiki/Pierre_Bonaccord" title="Pierre Bonaccord">Pierre Bonaccord</a>.<sup id="cite_ref-portrait_1-3" class="reference"><a href="#cite_note-portrait-1">&#91;1&#93;</a></sup>
+</p><p>Smirk Platter was depicted in a <a href="/wiki/Portrait" title="Portrait">portrait</a> that hung somewhere at <a href="/wiki/Hogwarts_Castle" title="Hogwarts Castle">Hogwarts School of Witchcraft and Wizardry</a>.<sup id="cite_ref-portrait_1-4" class="reference"><a href="#cite_note-portrait-1">&#91;1&#93;</a></sup> This portrait was painted in <a href="/wiki/1542" class="mw-redirect" title="1542">1542</a>, when he was 39 years old, as indicated by the inscription "Anno Etatis Suae 39"<sup id="cite_ref-portrait_1-5" class="reference"><a href="#cite_note-portrait-1">&#91;1&#93;</a></sup> (<i>anno aetatis suae</i> is a Latin term meaning "in the year of his age"<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>).
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Sidley_Smirk_Platter?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Sidley_Smirk_Platter?action=edit&amp;section=1" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>This portrait was made specifically for the <a href="/wiki/Harry_Potter_films" class="mw-redirect" title="Harry Potter films"><i>Harry Potter</i> films</a>, and was modelled after <a class="new" title="Matt Cooke (page does not exist)" rel="nofollow" data-uncrawlable-url="L3dpa2kvTWF0dF9Db29rZT9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=">Matt Cooke</a>,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> a member of the dressing props team since <i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(film)" title="Harry Potter and the Prisoner of Azkaban (film)">Prisoner of Azkaban</a></i>.</li>
+<li>Despite bearing Matt Cooke's likeness, this portrait seems to have been based on a <a target="_blank" rel="noreferrer noopener" class="external text" href="http://www.elizabethan-portraits.com/HenryWriothesley2.jpg">portrait of Henry Wriothesley, 3rd Earl of Southampton (c. 1600)</a>, by an unknown artist.</li>
+<li>Smirk Platter may have passed away sometime prior to the <a href="/wiki/1990s" title="1990s">1990s</a> as many portraits hung at <a href="/wiki/Hogwarts_Castle" title="Hogwarts Castle">Hogwarts Castle</a> depict deceased individuals.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Sidley_Smirk_Platter?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Sidley_Smirk_Platter?action=edit&amp;section=2" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Harry_Potter_films" class="mw-redirect" title="Harry Potter films"><i>Harry Potter</i> films</a> <small>(Appears in portrait(s))</small></li>
+<li><i><a href="/wiki/Harry_Potter:_The_Exhibition" title="Harry Potter: The Exhibition">Harry Potter: The Exhibition</a></i> <small>(Appears in portrait(s))</small></li>
+<li><i><a href="/wiki/The_Making_of_Harry_Potter" title="The Making of Harry Potter">The Making of Harry Potter</a></i> <small>(Appears in portrait(s))</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Sidley_Smirk_Platter?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Sidley_Smirk_Platter?action=edit&amp;section=3" title="Edit section: Notes and references

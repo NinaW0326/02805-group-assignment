@@ -1,0 +1,81 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-spirit pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/5/52/Cloggs.jpg/revision/latest?cb=20140611050521" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/5/52/Cloggs.jpg/revision/latest/scale-to-width-down/224?cb=20140611050521" srcset="https://static.wikia.nocookie.net/harrypotter/images/5/52/Cloggs.jpg/revision/latest/scale-to-width-down/224?cb=20140611050521 1x, https://static.wikia.nocookie.net/harrypotter/images/5/52/Cloggs.jpg/revision/latest/scale-to-width-down/448?cb=20140611050521 2x" class="pi-image-thumbnail" alt="" width="224" height="232"
+		     data-image-key="Cloggs.jpg" data-image-name="Cloggs.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Edgar Cloggs</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">No later than <a href="/wiki/1880" class="mw-redirect" title="1880">1880</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font">Before <a href="/wiki/1892" class="mw-redirect" title="1892">1892</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Human" title="Human">Human</a> (formerly)<sup id="cite_ref-QWC_3-0" class="reference"><a href="#cite_note-QWC-3">&#91;3&#93;</a></sup></li><li><a href="/wiki/Ghost" title="Ghost">Ghost</a><sup id="cite_ref-QWC_3-1" class="reference"><a href="#cite_note-QWC-3">&#91;3&#93;</a></sup></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male<sup id="cite_ref-QWC_3-2" class="reference"><a href="#cite_note-QWC-3">&#91;3&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Quidditch" title="Quidditch">Quidditch</a> player<sup id="cite_ref-QWC_3-3" class="reference"><a href="#cite_note-QWC-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a><sup id="cite_ref-QWC_3-4" class="reference"><a href="#cite_note-QWC-3">&#91;3&#93;</a></sup></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+<b>Edgar Cloggs</b> was a <a href="/wiki/Ghost" title="Ghost">ghost</a> who was often found hanging around the <a href="/wiki/Quidditch_pitch" title="Quidditch pitch">Quidditch pitch</a> at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts</a> for as long as anyone could remember. He was willing to help the <a href="/wiki/Quidditch_team" title="Quidditch team">Quidditch teams</a> of <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts</a> practise.<sup id="cite_ref-QWC_3-5" class="reference"><a href="#cite_note-QWC-3">&#91;3&#93;</a></sup> By the year of <a href="/wiki/1993" title="1993">1993</a>, he was also included on a <a href="/wiki/Chocolate_Frog_Card" title="Chocolate Frog Card">Chocolate Frog Card</a>, for his achievements in the sport.<sup id="cite_ref-POAG_4-0" class="reference"><a href="#cite_note-POAG-4">&#91;4&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Edgar_Cloggs?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Edgar_Cloggs?action=edit&amp;section=1" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Derived from the Old English elements <i>ead</i> "rich, blessed" and <i>gar</i> "spear". This was the name of a <a href="/wiki/First_millennium_A.D." title="First millennium A.D.">10th century</a> English king who is regarded as a saint. The name did not survive long after the Norman conquest, but it was revived in the 18th century, in part due to a character by this name in Sir Walter Scott's novel 'The Bride of Lammermoor' (1819). Famous bearers include author and poet Edgar Allan Poe (1809-1849), French impressionist painter Edgar Degas (1834-1917), and author Edgar Rice Burroughs (1875-1950).
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Edgar_Cloggs?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Edgar_Cloggs?action=edit&amp;section=2" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(video_game)" title="Harry Potter and the Prisoner of Azkaban (video game)">Harry Potter and the Prisoner of Azkaban (video game)</a></i> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li>
+<li><i><a href="/wiki/Harry_Potter:_Quidditch_World_Cup" title="Harry Potter: Quidditch World Cup">Harry Potter: Quidditch World Cup</a></i> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Edgar_Cloggs?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Edgar_Cloggs?action=edit&amp;section=3" title="Edit section: Notes and references

@@ -1,0 +1,103 @@
+<div class="mw-parser-output"><table class="notice metadata" id="spoiler" style="text-align: center; background: beige; margin: 1em 05%; padding: 0 1em; border: #a00 1px solid;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/8/8c/Hogwarts_Mystery.jpeg/revision/latest?cb=20180504083359" class="image"><img alt="Hogwarts Mystery.jpeg" src="https://static.wikia.nocookie.net/harrypotter/images/8/8c/Hogwarts_Mystery.jpeg/revision/latest/scale-to-width-down/175?cb=20180504083359" decoding="async" width="175" height="77" data-image-name="Hogwarts Mystery.jpeg" data-image-key="Hogwarts_Mystery.jpeg" /></a>
+</td>
+<td><b>Warning!</b>
+<p>At least some content in this article is derived from information featured in <i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i>. Spoilers will be present within the article.
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-spirit pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/7/7f/Erling_the_Great_HM.png/revision/latest?cb=20201029140857" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/7/7f/Erling_the_Great_HM.png/revision/latest/scale-to-width-down/350?cb=20201029140857" srcset="https://static.wikia.nocookie.net/harrypotter/images/7/7f/Erling_the_Great_HM.png/revision/latest/scale-to-width-down/350?cb=20201029140857 1x, https://static.wikia.nocookie.net/harrypotter/images/7/7f/Erling_the_Great_HM.png/revision/latest/scale-to-width-down/700?cb=20201029140857 2x" class="pi-image-thumbnail" alt="" width="270" height="248"
+		     data-image-key="Erling_the_Great_HM.png" data-image-name="Erling the Great HM.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Erling</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">Before <a href="/wiki/1011" class="mw-redirect" title="1011">1011</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/31_October" title="31 October">31 October</a>, Before <a href="/wiki/1985" title="1985">1985</a><sup id="cite_ref-HM_Deathday_1_2-0" class="reference"><a href="#cite_note-HM_Deathday_1-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Ghost" title="Ghost">Ghost</a> <span class="template-c">(formerly <a href="/wiki/Human" title="Human">Human</a>)</span><sup id="cite_ref-HM_3-0" class="reference"><a href="#cite_note-HM-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male<sup id="cite_ref-HM_3-1" class="reference"><a href="#cite_note-HM-3">&#91;3&#93;</a></sup></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Erling the Great</b> was a <a href="/wiki/Ghost" title="Ghost">ghost</a> who specifically told stories for <a href="/wiki/Ghost" title="Ghost">ghosts</a>. He was known for sharing stories about the most noteworthy locations in Wizarding history. Ghosts travelled far and wide to hear him speak.<sup id="cite_ref-HM_Deathday_1_2-1" class="reference"><a href="#cite_note-HM_Deathday_1-2">&#91;2&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Lifetime"><span class="tocnumber">1.1</span> <span class="toctext">Lifetime</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Post-mortem"><span class="tocnumber">1.2</span> <span class="toctext">Post-mortem</span></a>
+<ul>
+<li class="toclevel-3 tocsection-4"><a href="#Hogwarts_visit"><span class="tocnumber">1.2.1</span> <span class="toctext">Hogwarts visit</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Appearances"><span class="tocnumber">2</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Notes_and_references"><span class="tocnumber">3</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Erling_the_Great?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Erling_the_Great?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In the <a href="/wiki/12th_century" title="12th century">12th century</a>, Erling met <a href="/wiki/Gregory_the_Smarmy" title="Gregory the Smarmy">Gregory the Smarmy</a>. It's unknown whether he met him before or after his death.<sup id="cite_ref-HM_Deathday_2_4-0" class="reference"><a href="#cite_note-HM_Deathday_2-4">&#91;4&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Lifetime">Lifetime</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Erling_the_Great?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Lifetime">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Erling_the_Great?action=edit&amp;section=2" title="Edit section: Lifetime"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Erling and the <a href="/wiki/Fat_Friar" title="Fat Friar">Fat Friar</a> were friends since they were alive. He was a tastemaker among royalty during his life.<sup id="cite_ref-HM_Deathday_1_2-2" class="reference"><a href="#cite_note-HM_Deathday_1-2">&#91;2&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Post-mortem">Post-mortem</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Erling_the_Great?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Post-mortem">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Erling_the_Great?action=edit&amp;section=3" title="Edit section: Post-mortem"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Erling loved history. After death, he travelled to hundreds of museums. He also visited <a href="/wiki/Azkaban" title="Azkaban">Azkaban</a> island before it turned into a prison.<sup id="cite_ref-HM_Deathday_2_4-1" class="reference"><a href="#cite_note-HM_Deathday_2-4">&#91;4&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="Hogwarts_visit">Hogwarts visit</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Erling_the_Great?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Hogwarts visit">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Erling_the_Great?action=edit&amp;section=4" title="Edit section: Hogwarts visit"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Erling visited <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts</a> as a friend of the <a href="/wiki/Fat_Friar" title="Fat Friar">Fat Friar</a> a day ahead of previous arrangement in <a href="/wiki/October" title="October">October</a> <a href="/wiki/1985" title="1985">1985</a>. <a href="/wiki/Jacob%27s_sibling" title="Jacob&#39;s sibling">Jacob's sibling</a>, along with the Fat Friar, welcomed him by offering him the <a href="/wiki/Artefact_Room" title="Artefact Room">Artefact Room</a> as a haunting place and introducing <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts</a>. When they heard that Erling's deathday was the same as Sir <a href="/wiki/Nicholas_de_Mimsy-Porpington" title="Nicholas de Mimsy-Porpington">Nicholas de Mimsy-Porpington</a>'s, they suggested the two celebrate together, but Erling rejected this proposal, apparently wanting only himself to be in the spotlight.<sup id="cite_ref-HM_Deathday_1_2-3" class="reference"><a href="#cite_note-HM_Deathday_1-2">&#91;2&#93;</a></sup>
+</p><p>He then went to the courtyard to join in the argument between Jacob's sibling, Sir Nicholas and the Fat Friar. The conversation didn't go well, and in the end Erling and Sir Nicholas decided to throw their parties separately. The Fat Friar then showed Erling the <a href="/wiki/Charms_Classroom" title="Charms Classroom">Charms Classroom</a> where he came across Jacob's sibling and <a href="/wiki/Penny_Haywood" title="Penny Haywood">Penny Haywood</a>, so he shared a talk with them, in which he stated that he was in talks to collaborate with a writer to collect his stories into a book. After that, he continued to the <a href="/wiki/Dungeons" title="Dungeons">dungeons</a> with the Fat Friar.<sup id="cite_ref-HM_Deathday_2_4-2" class="reference"><a href="#cite_note-HM_Deathday_2-4">&#91;4&#93;</a></sup>
+</p><p>Erling wanted a sixteen-piece band, fireworks and a giant feast of rotten food for his deathday party. Along with the Fat Friar, he went to <a href="/wiki/Rolanda_Hooch" title="Rolanda Hooch">Madam Hooch</a> to demand the <a href="/wiki/Training_Grounds" title="Training Grounds">Training Grounds</a> for his party but got rejected, before cutting after the leaving Hooch for further arguments.<sup id="cite_ref-HM_Deathday_3_5-0" class="reference"><a href="#cite_note-HM_Deathday_3-5">&#91;5&#93;</a></sup>
+</p><p>Upon hearing Sir Nicholas had tried to sabotage his deathday party by preserving the food which was intended to be spoiled, Erling came down to the <a href="/wiki/Courtyard" title="Courtyard">courtyard</a> to meet him and accused him of buffoonery. Sir Nicholas, who had been spotted by <a href="/wiki/Pomona_Sprout" title="Pomona Sprout">Professor Sprout</a> and ordered to give his food to Erling, had thought about cancelling his own party, but decided to carry on after seeing Erling's pompous attitude.<sup id="cite_ref-HM_Deathday_4_6-0" class="reference"><a href="#cite_note-HM_Deathday_4-6">&#91;6&#93;</a></sup>
+</p><p>Halfway through his deathday party, Erling was brought to the courtyard by the Fat Friar, who also summoned Sir Nicholas. The Fat Friar pointed out that neither of the parties were going well, because Erling's fastidious requirements were hardly fulfilled and Sir Nicholas' had no food. He then suggested again that the two work together to salvage the evening. Erling eventually agreed to move his party to the <a href="/wiki/Deathday_Ballroom" title="Deathday Ballroom">Deathday Ballroom</a> in the dungeons where Sir Nicholas' party was being held.<sup id="cite_ref-HM_Deathday_4_6-1" class="reference"><a href="#cite_note-HM_Deathday_4-6">&#91;6&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Erling_the_Great?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Erling_the_Great?action=edit&amp;section=5" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 2 images related to <i><b><a href="/wiki/Category:Images_of_Erling_the_Great" title="Category:Images of Erling the Great">Erling the Great</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<ul><li><i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Erling_the_Great?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Erling_the_Great?action=edit&amp;section=6" title="Edit section: Notes and references

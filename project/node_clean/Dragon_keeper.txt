@@ -1,0 +1,90 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/0/00/Dragon_Handler_LEGOY1.png/revision/latest?cb=20201115204928" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/0/00/Dragon_Handler_LEGOY1.png/revision/latest/scale-to-width-down/300?cb=20201115204928" srcset="https://static.wikia.nocookie.net/harrypotter/images/0/00/Dragon_Handler_LEGOY1.png/revision/latest/scale-to-width-down/300?cb=20201115204928 1x, https://static.wikia.nocookie.net/harrypotter/images/0/00/Dragon_Handler_LEGOY1.png/revision/latest/scale-to-width-down/600?cb=20201115204928 2x" class="pi-image-thumbnail" alt="" width="270" height="265"
+		     data-image-key="Dragon_Handler_LEGOY1.png" data-image-name="Dragon Handler LEGOY1.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Dragon keeper</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-GOF19_1-0" class="reference"><a href="#cite_note-GOF19-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male<sup id="cite_ref-GOF19_1-1" class="reference"><a href="#cite_note-GOF19-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Pale<sup id="cite_ref-LEGOY1_2-0" class="reference"><a href="#cite_note-LEGOY1-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Magical characteristics</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="boggart">
+	
+		<h3 class="pi-data-label pi-secondary-font">Boggart</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Tom_Riddle" title="Tom Riddle">Lord Voldemort</a><sup id="cite_ref-LEGOY1_2-1" class="reference"><a href="#cite_note-LEGOY1-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="patronus">
+	
+		<h3 class="pi-data-label pi-secondary-font">Patronus</h3>
+	
+	<div class="pi-data-value pi-font">Non-corporeal<sup id="cite_ref-LEGOY1_2-2" class="reference"><a href="#cite_note-LEGOY1-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Dragonologist" title="Dragonologist">Dragonologist</a><sup id="cite_ref-GOF19_1-2" class="reference"><a href="#cite_note-GOF19-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Romanian_Dragon_Sanctuary" title="Romanian Dragon Sanctuary">Romanian Dragon Sanctuary</a><sup id="cite_ref-GOF19_1-3" class="reference"><a href="#cite_note-GOF19-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+This <b>Dragon keeper</b> was one of the <a href="/wiki/Dragonologist" title="Dragonologist">dragonologists</a> at the <a href="/wiki/Romanian_Dragon_Sanctuary" title="Romanian Dragon Sanctuary">Romanian Dragon Sanctuary</a>.<sup id="cite_ref-GOF19_1-4" class="reference"><a href="#cite_note-GOF19-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Dragon_keeper?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Dragon_keeper?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>He travelled along with <a href="/wiki/Charlie_Weasley%27s_colleagues" class="mw-redirect" title="Charlie Weasley&#39;s colleagues">some of his colleagues</a> to help restrain and maintain the <a href="/wiki/Dragon" title="Dragon">dragons</a> used for the <a href="/wiki/1994" title="1994">1994</a> <a href="/wiki/Triwizard_Tournament" title="Triwizard Tournament">Triwizard Tournament</a>.<sup id="cite_ref-GOF19_1-5" class="reference"><a href="#cite_note-GOF19-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Dragon_keeper?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Dragon_keeper?action=edit&amp;section=2" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire" title="Harry Potter and the Goblet of Fire">Harry Potter and the Goblet of Fire</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire_(film)" title="Harry Potter and the Goblet of Fire (film)">Harry Potter and the Goblet of Fire (film)</a></i></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter:_Years_1-4" title="LEGO Harry Potter: Years 1-4">LEGO Harry Potter: Years 1-4</a></i> <small>(First identified as Dragon keeper)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Dragon_keeper?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Dragon_keeper?action=edit&amp;section=3" title="Edit section: Notes and references

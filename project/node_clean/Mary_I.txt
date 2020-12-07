@@ -1,0 +1,165 @@
+<div class="mw-parser-output"><table class="notice metadata" cellpadding="3px" style="text-align: center; background: snow; border: #a00 1px solid; margin: 1em 10% 1em 10%;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/1/16/Mirror_of_Erised.jpeg/revision/latest?cb=20090713064057" class="image"><img alt="Mirror of Erised.jpeg" src="https://static.wikia.nocookie.net/harrypotter/images/1/16/Mirror_of_Erised.jpeg/revision/latest/scale-to-width-down/80?cb=20090713064057" decoding="async" width="80" height="67" data-image-name="Mirror of Erised.jpeg" data-image-key="Mirror_of_Erised.jpeg" /></a>
+</td>
+<td><i><b>"Is this all real? Or has this been happening inside my head?"</b></i>
+<p>The topic of this article is of a real-life subject that has been mentioned "<a href="/wiki/Harry_Potter_Wiki:Policy#.22In-universe.22_point_of_view" title="Harry Potter Wiki:Policy">in-universe</a>" in a <a href="/wiki/Harry_Potter_Wiki:Canon" title="Harry Potter Wiki:Canon">canon</a> source. The <a href="/wiki/Harry_Potter_Wiki:About" title="Harry Potter Wiki:About">Harry Potter Wiki</a> is written from the perspective that all information presented in canon is true (e.g., <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts</a> really exists), and, as such, details contained in this article may differ from real world facts.
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-portrait pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/1/1e/Mary_I.jpg/revision/latest?cb=20161001234922" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/1/1e/Mary_I.jpg/revision/latest/scale-to-width-down/350?cb=20161001234922" srcset="https://static.wikia.nocookie.net/harrypotter/images/1/1e/Mary_I.jpg/revision/latest/scale-to-width-down/350?cb=20161001234922 1x, https://static.wikia.nocookie.net/harrypotter/images/1/1e/Mary_I.jpg/revision/latest/scale-to-width-down/699?cb=20161001234922 2x" class="pi-image-thumbnail" alt="" width="270" height="319"
+		     data-image-key="Mary_I.jpg" data-image-name="Mary I.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Mary I</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/18_February" title="18 February">18 February</a> <a href="/wiki/1516" class="mw-redirect" title="1516">1516</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/17_November" title="17 November">17 November</a> <a href="/wiki/1558" class="mw-redirect" title="1558">1558</a> (aged 42)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Muggle-born" title="Muggle-born">Muggle-born</a> or <a href="/wiki/Half-blood" title="Half-blood">half-blood</a> (presumably)<sup id="cite_ref-blood_1-0" class="reference"><a href="#cite_note-blood-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="marital">
+	
+		<h3 class="pi-data-label pi-secondary-font">Marital status</h3>
+	
+	<div class="pi-data-value pi-font">Married</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/England" title="England">English</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="alias">
+	
+		<h3 class="pi-data-label pi-secondary-font">Also known as</h3>
+	
+	<div class="pi-data-value pi-font">Bloody Mary<p>Mary Tudor</p></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="title">
+	
+		<h3 class="pi-data-label pi-secondary-font">Title(s)</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>Lady</li><li>Queen of <a href="/wiki/England" title="England">England</a></li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-MHP_2-0" class="reference"><a href="#cite_note-MHP-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female<sup id="cite_ref-MHP_2-1" class="reference"><a href="#cite_note-MHP-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Brown<sup id="cite_ref-MHP_2-2" class="reference"><a href="#cite_note-MHP-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Brown<sup id="cite_ref-MHP_2-3" class="reference"><a href="#cite_note-MHP-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White<sup id="cite_ref-MHP_2-4" class="reference"><a href="#cite_note-MHP-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Henry_VIII" title="Henry VIII">Henry VIII</a> (father)</li><li>Catherine of Aragon (mother)</li><li><a href="/wiki/Anne_Boleyn" title="Anne Boleyn">Anne Boleyn</a> (stepmother)</li><li><a href="/wiki/Elizabeth_I" title="Elizabeth I">Elizabeth I</a> (half-sister)</li><li><a href="/wiki/Henry_VII" title="Henry VII">Henry VII</a> (grandfather)</li><li><a href="/wiki/William_I" title="William I">William I</a> (ancestor)</li><li><a href="/wiki/House_of_Tudor" title="House of Tudor">House of Tudor</a></li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Magical characteristics</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="wand">
+	
+		<h3 class="pi-data-label pi-secondary-font">Wand</h3>
+	
+	<div class="pi-data-value pi-font">Unknown length, wood and core<sup id="cite_ref-MHP_2-5" class="reference"><a href="#cite_note-MHP-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/House_of_Tudor" title="House of Tudor">House of Tudor</a></li><li><a href="/wiki/England" title="England">England</a></li><li><a href="/wiki/Ireland" title="Ireland">Ireland</a></li><li><a href="http://en.wikipedia.org/wiki/Catholic_Church" class="extiw" title="wikipedia:Catholic Church">Catholic Church</a></li><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Mary I</b> (<a href="/wiki/18_February" title="18 February">18 February</a>, <a href="/wiki/1516" class="mw-redirect" title="1516">1516</a> – <a href="/wiki/17_November" title="17 November">17 November</a>, <a href="/wiki/1558" class="mw-redirect" title="1558">1558</a>), also known by her sobriquet of "<b>Bloody Mary</b>", was <a href="/wiki/Queen" title="Queen">Queen</a> of <a href="/wiki/England" title="England">England</a> and <a href="/wiki/Ireland" title="Ireland">Ireland</a> from <a href="/wiki/July" title="July">July</a> <a href="/wiki/1553" class="mw-redirect" title="1553">1553</a> until her <a href="/wiki/Death" title="Death">death</a> on <a href="/wiki/17_November" title="17 November">17 November</a>, <a href="/wiki/1558" class="mw-redirect" title="1558">1558</a>.<sup id="cite_ref-wikipedia_3-0" class="reference"><a href="#cite_note-wikipedia-3">&#91;3&#93;</a></sup> 
+</p><p>Queen Mary was a <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> and had a <a href="/wiki/Wand" title="Wand">wand</a> of her own. There was a <a href="/wiki/Portrait" title="Portrait">portrait</a> of her hung at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a>.<sup id="cite_ref-MHP_2-6" class="reference"><a href="#cite_note-MHP-2">&#91;2&#93;</a></sup>
+</p><p>She was a daughter of the <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> king <a href="/wiki/Henry_VIII" title="Henry VIII">Henry VIII</a> and his first wife  Catherine of Aragon and thus a half-sister to her successor, <a href="/wiki/Elizabeth_I" title="Elizabeth I">Elizabeth I</a>.<sup id="cite_ref-wikipedia_3-1" class="reference"><a href="#cite_note-wikipedia-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mary_I?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mary_I?action=edit&amp;section=1" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The name "Mary" is the usual English form of Maria, which was the <a href="/wiki/Latin" title="Latin">Latin</a> form of the New Testament Greek names Μαριαμ (Mariam) and Μαρια (Maria) - the spellings are interchangeable - which were from the Hebrew name מִריָם (Miryam). The meaning is not known for certain, but there are several theories including "sea of bitterness", "rebelliousness", and "wished for child". However it was most likely originally an <a href="/wiki/Egypt" title="Egypt">Egyptian</a> name, perhaps derived in part from mry "beloved" or mr "<a href="/wiki/Love" title="Love">love</a>".
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mary_I?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mary_I?action=edit&amp;section=2" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Harry_Potter_films" class="mw-redirect" title="Harry Potter films"><i>Harry Potter</i> films</a> <small>(Appears in portrait(s))</small></li>
+<li><a href="/wiki/The_Wizarding_World_of_Harry_Potter" title="The Wizarding World of Harry Potter">The Wizarding World of Harry Potter</a> <small>(Appears in portrait(s))</small></li>
+<li><i><a href="/wiki/The_Making_of_Harry_Potter" title="The Making of Harry Potter">The Making of Harry Potter</a></i> <small>(Appears in portrait(s))</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mary_I?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mary_I?action=edit&amp;section=3" title="Edit section: Notes and references

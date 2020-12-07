@@ -1,0 +1,70 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-muggle pi-layout-default"><section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Brother Boniface</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Middle_Ages" title="Middle Ages">Middle Ages</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Franciscan Monk</div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Fantastic Beasts and Where to Find Them (real)">"<i>The Friar was unwillinge to believe that I had met a talking Ferret and did ask me whether I had been supping of Brother Boniface's Turnip Wine.</i>"</span></dd>
+<dd>&#8212;<a href="/wiki/Benedict" title="Benedict">Brother Benedict</a>, Middle Ages<sup class="noprint"><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(real)" class="mw-redirect" title="Fantastic Beasts and Where to Find Them (real)">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Brother Boniface</b> was a <a href="/wiki/Franciscans" title="Franciscans">Franciscan</a> monk in <a href="/wiki/Worcestershire" title="Worcestershire">Worcestershire</a> during the <a href="/wiki/Middle_Ages" title="Middle Ages">Middle Ages</a>. He was known for making <a href="/wiki/Turnip_Wine" title="Turnip Wine">turnip wine</a>, a highly <a href="/wiki/Alcohol" title="Alcohol">alcoholic</a> drink that causes the nose to bleed.
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Boniface?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Boniface?action=edit&amp;section=1" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The name "Boniface" comes from the Late Latin name Bonifatius, which meant "good fate" from bonum "good" and fatum "fate". This was the name of nine popes and also several saints, including an 8th-century Anglo-Saxon missionary to Germany (originally named Winfrid) who is now regarded as the patron saint of that country.
+</p><p>The name Boniface in connection to spirits may originate from <i><a href="http://en.wikipedia.org/wiki/Brewer%27s_Dictionary_of_Phrase_and_Fable" class="extiw" title="wikipedia:Brewer&#39;s Dictionary of Phrase and Fable">Brewer's Dictionary of Phrase and Fable</a></i>, known to be used by <a href="/wiki/J._K._Rowling" title="J. K. Rowling">J. K. Rowling</a> as a reference for names. The <i>Dictionary</i> describes a Pope Boniface who encouraged indulgence in wine so long as it was drunk to the current Pope's good health.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Boniface?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Boniface?action=edit&amp;section=2" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(companion_book)" title="Fantastic Beasts and Where to Find Them (companion book)">Fantastic Beasts and Where to Find Them</a></i> <small>(Mentioned only)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Boniface?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Boniface?action=edit&amp;section=3" title="Edit section: Notes and references

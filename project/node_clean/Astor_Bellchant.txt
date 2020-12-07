@@ -1,0 +1,124 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/8/84/AstorBellchant.png/revision/latest?cb=20161204152711" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/8/84/AstorBellchant.png/revision/latest/scale-to-width-down/350?cb=20161204152711" srcset="https://static.wikia.nocookie.net/harrypotter/images/8/84/AstorBellchant.png/revision/latest/scale-to-width-down/350?cb=20161204152711 1x, https://static.wikia.nocookie.net/harrypotter/images/8/84/AstorBellchant.png/revision/latest/scale-to-width-down/700?cb=20161204152711 2x" class="pi-image-thumbnail" alt="" width="270" height="376"
+		     data-image-key="AstorBellchant.png" data-image-name="AstorBellchant.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Astor Bellchant</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Silver<sup id="cite_ref-FBC5_1-0" class="reference"><a href="#cite_note-FBC5-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Blue<sup id="cite_ref-FBC5_1-1" class="reference"><a href="#cite_note-FBC5-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White<sup id="cite_ref-FBC5_1-2" class="reference"><a href="#cite_note-FBC5-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Albert_Bellchant" title="Albert Bellchant">Albert Bellchant</a> (son)</li><li><a href="/wiki/Bellchant_family" title="Bellchant family">Bellchant family</a></li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Bellchant_family" title="Bellchant family">Bellchant family</a></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Fantastic Beasts: Cases from the Wizarding World"><b>Mathilda Grimblehawk</b>: "<i>Hello there! I'm afraid we didn't catch your name earlier, what with all your pointing and shouting and general rudeness.</i>"</span></dd>
+<dd><b>Astor Bellchant</b>: "<i>Humph. Astor Bellchant. You should learn to show some respect!</i>"</dd>
+<dd>&#8212; <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">Ministry</a> investigator <a href="/wiki/Mathilda_Grimblehawk" title="Mathilda Grimblehawk">Mathilda Grimblehawk</a> interrogates Astor Bellchant as to <a href="/wiki/Bilius_Finbok" title="Bilius Finbok">Bilius Finbok</a>'s whereabouts<sup class="noprint"><a href="/wiki/Fantastic_Beasts:_Cases_from_the_Wizarding_World" title="Fantastic Beasts: Cases from the Wizarding World">[src]</a></sup></dd></dl>
+</div>
+<p><b>Astor Bellchant</b> was a <a href="/wiki/Great_Britain" title="Great Britain">British</a> <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> and member of the <a href="/wiki/Bellchant_family" title="Bellchant family">Bellchants</a>, a prominent wizarding family.<sup id="cite_ref-FBC5_1-3" class="reference"><a href="#cite_note-FBC5-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Possessions"><span class="tocnumber">2</span> <span class="toctext">Possessions</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Etymology"><span class="tocnumber">3</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Behind_the_scenes"><span class="tocnumber">4</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Appearances"><span class="tocnumber">5</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Notes_and_references"><span class="tocnumber">6</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Astor_Bellchant?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Astor_Bellchant?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Astor was born at some point into the respectable wizarding <a href="/wiki/Bellchant_family" title="Bellchant family">Bellchant family</a>. In his adult life, he had at least one son, <a href="/wiki/Albert_Bellchant" title="Albert Bellchant">Albert</a>, who attended <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a>.<sup id="cite_ref-FBC5_1-4" class="reference"><a href="#cite_note-FBC5-1">&#91;1&#93;</a></sup>
+</p><p>In an investigation concerning the disappearance of a wizard named <a href="/wiki/Bilius_Finbok" title="Bilius Finbok">Bilius Finbok</a>, Astor Bellchant was suspected to have blackmailed Finbok into brewing an illegal <a href="/wiki/Potion" title="Potion">potion</a>.<sup id="cite_ref-FBC5_1-5" class="reference"><a href="#cite_note-FBC5-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Possessions">Possessions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Astor_Bellchant?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Possessions">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Astor_Bellchant?action=edit&amp;section=2" title="Edit section: Possessions"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Astor_Bellchant%27s_owl" title="Astor Bellchant&#39;s owl">Owl</a></b>: Astor owned an owl to deliver his mail. Astor Bellchant used this owl to send a <a href="/wiki/Threatening_note" title="Threatening note">blackmail note</a> to <a href="/wiki/Bilius_Finbok" title="Bilius Finbok">Bilius Finbok</a>, who was hospitalised at the <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> <a href="/wiki/St_David%27s_Hospital" class="mw-redirect" title="St David&#39;s Hospital">St David's Hospital</a>. <a href="/wiki/Michael_Babatola" title="Michael Babatola">Michael Babatola</a>, who was a nurse there, noted that Finbok had run away from the hospital shortly after an owl landed on his window in the middle of the day.<sup id="cite_ref-FBC5.2_2-0" class="reference"><a href="#cite_note-FBC5.2-2">&#91;2&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Astor_Bellchant?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Astor_Bellchant?action=edit&amp;section=3" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Astor, rarely used as a given name, derives from a surname derived from Occitan <i>astur</i>, meaning "hawk". The <a href="http://en.wikipedia.org/wiki/Astor_family" class="extiw" title="wikipedia:Astor family">Astor family</a> was a very prominent family in business and politics in the United States and the United Kingdom during the 19th and 20th centuries; famous members include <a href="http://en.wikipedia.org/wiki/John_Jacob_Astor" class="extiw" title="wikipedia:John Jacob Astor">John Jacob Astor I</a>, the first multi-millionaire in the United States; <a href="http://en.wikipedia.org/wiki/William_Waldorf_Astor,_1st_Viscount_Astor" class="extiw" title="wikipedia:William Waldorf Astor, 1st Viscount Astor">William Waldorf Astor</a>, the first Viscount Astor; and <a href="http://en.wikipedia.org/wiki/John_Jacob_Astor_IV" class="extiw" title="wikipedia:John Jacob Astor IV">John Jacob Astor IV</a>, the richest passenger aboard the <a href="http://en.wikipedia.org/wiki/RMS_Titanic" class="extiw" title="wikipedia:RMS Titanic">RMS <i>Titanic</i></a>.</li></ul>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Astor_Bellchant?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Astor_Bellchant?action=edit&amp;section=4" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Before he introduces himself to the player, Bellchant's lines are identified as those of "Impatient Wizard". On the Task List, however, he is referred to as "Rude Wizard".</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Astor_Bellchant?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Astor_Bellchant?action=edit&amp;section=5" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 2 images related to <i><b><a href="/wiki/Category:Images_of_Astor_Bellchant" title="Category:Images of Astor Bellchant">Astor Bellchant</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<ul><li><i><a href="/wiki/Fantastic_Beasts:_Cases_from_the_Wizarding_World" title="Fantastic Beasts: Cases from the Wizarding World">Fantastic Beasts: Cases from the Wizarding World</a></i> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Astor_Bellchant?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Astor_Bellchant?action=edit&amp;section=6" title="Edit section: Notes and references

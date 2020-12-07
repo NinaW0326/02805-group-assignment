@@ -1,0 +1,117 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/c/c6/Euphemia_Potter_-_HPM.jpg/revision/latest?cb=20100918231630" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/c/c6/Euphemia_Potter_-_HPM.jpg/revision/latest/scale-to-width-down/221?cb=20100918231630" srcset="https://static.wikia.nocookie.net/harrypotter/images/c/c6/Euphemia_Potter_-_HPM.jpg/revision/latest/scale-to-width-down/221?cb=20100918231630 1x, https://static.wikia.nocookie.net/harrypotter/images/c/c6/Euphemia_Potter_-_HPM.jpg/revision/latest/scale-to-width-down/442?cb=20100918231630 2x" class="pi-image-thumbnail" alt="" width="221" height="409"
+		     data-image-key="Euphemia_Potter_-_HPM.jpg" data-image-name="Euphemia Potter - HPM.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Euphemia Potter</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font">Pre-<a href="/wiki/31_July" title="31 July">31 July</a>, <a href="/wiki/1980" title="1980">1980</a><sup id="cite_ref-death_1-0" class="reference"><a href="#cite_note-death-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Pure-blood" title="Pure-blood">Pure-blood</a><sup id="cite_ref-blood_2-0" class="reference"><a href="#cite_note-blood-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="marital">
+	
+		<h3 class="pi-data-label pi-secondary-font">Marital status</h3>
+	
+	<div class="pi-data-value pi-font">Married</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Fleamont_Potter" title="Fleamont Potter">Fleamont Potter</a> (husband) †</li><li><a href="/wiki/Henry_Potter" title="Henry Potter">Henry Potter</a> (father-in-law) †</li><li><a href="/wiki/James_Potter_I" title="James Potter I">James Potter</a> (son) †</li><li><a href="/wiki/Lily_J._Potter" title="Lily J. Potter">Lily Potter</a> <span class="template-c">(née <a href="/wiki/Evans_family" title="Evans family">Evans</a>)</span> (daughter-in-law) †</li><li><a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> (grandson)</li><li><a href="/wiki/Ginevra_Weasley" title="Ginevra Weasley">Ginny Potter</a> <span class="template-c">(née <a href="/wiki/Weasley_family" title="Weasley family">Weasley</a>)</span> (granddaughter-in-law)</li><li><a href="/wiki/James_Potter_II" title="James Potter II">James Potter II</a> (great-grandson)</li><li><a href="/wiki/Albus_Potter" title="Albus Potter">Albus Potter</a> (great-grandson)</li><li><a href="/wiki/Lily_L._Potter" title="Lily L. Potter">Lily Potter</a> (great-granddaughter)</li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Potter_family" title="Potter family">Potter family</a></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Euphemia Potter</b><sup id="cite_ref-PotterFamilyPottermore_3-0" class="reference"><a href="#cite_note-PotterFamilyPottermore-3">&#91;3&#93;</a></sup> (died c. <a href="/wiki/1979" title="1979">1979</a>) was a <a href="/wiki/Pure-blood" title="Pure-blood">pure-blood</a> <a href="/wiki/Wizardkind" title="Wizardkind">witch</a>. She was married to <a href="/wiki/Fleamont_Potter" title="Fleamont Potter">Fleamont Potter</a>, with whom she had one son, <a href="/wiki/James_Potter_I" title="James Potter I">James</a>, thus making her the paternal grandmother of the famous <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a>, and the great-grandmother of <a href="/wiki/James_Potter_II" title="James Potter II">James Sirius</a>, <a href="/wiki/Albus_Potter" title="Albus Potter">Albus Severus</a>, and <a href="/wiki/Lily_L._Potter" title="Lily L. Potter">Lily Luna Potter</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Etymology"><span class="tocnumber">2</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Behind_the_scenes"><span class="tocnumber">3</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Appearances"><span class="tocnumber">4</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Notes_and_references"><span class="tocnumber">5</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Euphemia_Potter?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Euphemia_Potter?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Little is known about Euphemia's early life. She and her husband <a href="/wiki/Fleamont_Potter" title="Fleamont Potter">Fleamont</a> lived a comfortable life due to his wealth. They had trouble having children and eventually gave up the hope of ever having a son or daughter of their own.<sup id="cite_ref-PotterFamilyPottermore_3-1" class="reference"><a href="#cite_note-PotterFamilyPottermore-3">&#91;3&#93;</a></sup> However, in <a href="/wiki/1959" title="1959">1959</a>, to the couple's shock and delight, Euphemia discovered she was <a href="/wiki/Pregnancy" title="Pregnancy">pregnant</a>, and gave birth to a son, <a href="/wiki/James_Potter_I" title="James Potter I">James</a>, on <a href="/wiki/27_March" title="27 March">27 March</a> <a href="/wiki/1960" title="1960">1960</a>.<sup id="cite_ref-DH16_4-0" class="reference"><a href="#cite_note-DH16-4">&#91;4&#93;</a></sup> Due to her late-in-life pregnancy, James was an only child, and was doted on quite a lot.<sup id="cite_ref-TLC_5-0" class="reference"><a href="#cite_note-TLC-5">&#91;5&#93;</a></sup>
+</p><p>When James's best friend, <a href="/wiki/Sirius_Black" title="Sirius Black">Sirius Black</a>, ran away from <a href="/wiki/12_Grimmauld_Place" title="12 Grimmauld Place">home</a> at age sixteen, he found refuge in the <a href="/wiki/Potter_family" title="Potter family">Potter</a> household. Euphemia and her husband came to regard Sirius as something of a second son. After Sirius moved into his own flat, he kept in touch with the <a href="/wiki/Potter_family" title="Potter family">Potters</a>, and was always welcome to have lunch with them on Sundays.<sup id="cite_ref-op6_6-0" class="reference"><a href="#cite_note-op6-6">&#91;6&#93;</a></sup>
+</p><p>Advancing in age, both Euphemia and her husband Fleamont succumbed to <a href="/wiki/Dragon_Pox" title="Dragon Pox">Dragon Pox</a> shortly after the marriage of their son James to <a href="/wiki/Lily_J._Potter" title="Lily J. Potter">Lily Evans</a>, in <a href="/wiki/1978" title="1978">1978</a>-<a href="/wiki/1979" title="1979">1979</a>, dying within days of each other.<sup id="cite_ref-PotterFamilyPottermore_3-2" class="reference"><a href="#cite_note-PotterFamilyPottermore-3">&#91;3&#93;</a></sup><sup id="cite_ref-TLC_5-1" class="reference"><a href="#cite_note-TLC-5">&#91;5&#93;</a></sup> Euphemia never got a chance to meet her grandson, who would only be born after his grandparents' deaths, on <a href="/wiki/31_July" title="31 July">31 July</a>, <a href="/wiki/1980" title="1980">1980</a>, but she was among the relatives who Harry saw when he looked into the <a href="/wiki/Mirror_of_Erised" title="Mirror of Erised">Mirror of Erised</a> in <a href="/wiki/1991" title="1991">1991</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Euphemia_Potter?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Euphemia_Potter?action=edit&amp;section=2" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Euphemia is a name of Greek origin. "Eu" means 'good', and "phemi" means 'to speak'; its full meaning is usually translated to mean "well-spoken, auspicious speech or good repute".<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Euphemia_Potter?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Euphemia_Potter?action=edit&amp;section=3" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>The name "Euphemia" is not unusual to see in British and Scottish ancestral trees, and has been the name of several European queens. A common nickname for those with the name is "Effie".</li>
+<li>It was once presumed that <a href="/wiki/Charlus_Potter" title="Charlus Potter">Charlus Potter</a> and <a href="/wiki/Dorea_Black" title="Dorea Black">Dorea Black</a>, who appeared on the <a href="/wiki/House_of_Black" title="House of Black">Black family tree</a>, might have been James's parents (since it was known that Charlus and Dorea also had <a href="/wiki/Charlus_Potter%27s_son" title="Charlus Potter&#39;s son">one son</a>). However, <a href="/wiki/J._K._Rowling" title="J. K. Rowling">J. K. Rowling</a> revealed via  <i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> that that was not the case. It is still more than likely, however, that Charlus Potter is somehow related to Fleamont.</li>
+<li>Euphemia Potter shares the same first name with <a href="/wiki/Euphemia_Rowle" title="Euphemia Rowle">Euphemia Rowle</a>. Whilst they share the same name, they can be considered polar opposites to each other. Euphemia Potter took in a recently-disowned <a href="/wiki/Sirius_Black" title="Sirius Black">Sirius Black</a> and was a mother figure to him, whereas Euphemia Rowle was abusive and only took <a href="/wiki/Delphini" title="Delphini">Delphini</a> in for gold.</li>
+<li>Harry's view of his paternal grandparents was the polar opposite of Voldemort's. Whereas Tom Riddle had hatred for both sides of his family, particularly his patrilineal descent, Harry, who lost his father at a young age, was also saddened by never getting the chance to meet his father's parents. The Mirror of Erised showing Harry having a family reunion reflected his love for the idea of grandparents, and of a caring family in general. As Harry knew nothing about them, whether this feeling of love and respect for Fleamont and Euphemia Potter would have born out had he known them is likely, but debatable.</li>
+<li>Euphemia's actions in taking in a young <a href="/wiki/Sirius_Black" title="Sirius Black">Sirius Black</a> and becoming a mother-figure in his life would later be echoed with her grandson <a href="/wiki/Harry_Potter" title="Harry Potter">Harry</a> being taken in by <a href="/wiki/Molly_Weasley" title="Molly Weasley">Molly Weasley</a> and treated like a son in the absence of his own family. Ironically, Molly is the maternal grandmother of Euphemia's great-grandchildren <a href="/wiki/James_Potter_II" title="James Potter II">James</a>, <a href="/wiki/Albus_Potter" title="Albus Potter">Albus</a> and <a href="/wiki/Lily_L._Potter" title="Lily L. Potter">Lily</a>.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Euphemia_Potter?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Euphemia_Potter?action=edit&amp;section=4" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone" title="Harry Potter and the Philosopher&#39;s Stone">Harry Potter and the Philosopher's Stone</a></i> <small>(Appears in flashback(s))</small> <span class="template-c">(Appears in <a href="/wiki/Mirror_of_Erised" title="Mirror of Erised">Mirror of Erised</a>)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">Harry Potter and the Order of the Phoenix</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(film)" title="Harry Potter and the Order of the Phoenix (film)">Harry Potter and the Order of the Phoenix (film)</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> <small>(First identified as Euphemia Potter)</small></li>
+<li><i><a href="/wiki/Wizarding_World_(website)" title="Wizarding World (website)">Wizarding World</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Euphemia_Potter?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Euphemia_Potter?action=edit&amp;section=5" title="Edit section: Notes and references

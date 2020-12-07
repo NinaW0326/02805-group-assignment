@@ -1,0 +1,146 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-hogwarts-staff pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/a/a7/ValeriaMyriadd.png/revision/latest?cb=20130319195634" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/a/a7/ValeriaMyriadd.png/revision/latest/scale-to-width-down/350?cb=20130319195634" srcset="https://static.wikia.nocookie.net/harrypotter/images/a/a7/ValeriaMyriadd.png/revision/latest/scale-to-width-down/350?cb=20130319195634 1x, https://static.wikia.nocookie.net/harrypotter/images/a/a7/ValeriaMyriadd.png/revision/latest/scale-to-width-down/700?cb=20130319195634 2x" class="pi-image-thumbnail" alt="" width="270" height="339"
+		     data-image-key="ValeriaMyriadd.png" data-image-name="ValeriaMyriadd.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Valeria Myriadd</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">In or prior to <a href="/wiki/1952" title="1952">1952</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font">Prior to <a href="/wiki/1991" title="1991">1991</a><sup id="cite_ref-DEATH_2-0" class="reference"><a href="#cite_note-DEATH-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a> or <a href="/wiki/Ireland" title="Ireland">Irish</a><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="title">
+	
+		<h3 class="pi-data-label pi-secondary-font">Title(s)</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Professor" title="Professor">Professor</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Black</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Head_of_Gryffindor_House" title="Head of Gryffindor House">Head of Gryffindor House</a><sup id="cite_ref-TMOHP_4-0" class="reference"><a href="#cite_note-TMOHP-4">&#91;4&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="house">
+	
+		<h3 class="pi-data-label pi-secondary-font">House</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Gryffindor" title="Gryffindor">Gryffindor</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a><ul><li><a href="/wiki/Gryffindor" title="Gryffindor">Gryffindor</a></li></ul></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Professor Valeria Myriadd</b> was a <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> and <a href="/wiki/Head_of_Gryffindor_House" title="Head of Gryffindor House">Head of Gryffindor House</a> during her life. After she died, numerous <a href="/wiki/Portrait" title="Portrait">portraits</a> were hung of her at <a href="/wiki/Hogwarts_Castle" title="Hogwarts Castle">Hogwarts Castle</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Life"><span class="tocnumber">1.1</span> <span class="toctext">Life</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#1991.E2.80.931992_school_year"><span class="tocnumber">1.2</span> <span class="toctext">1991–1992 school year</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#1992-1993_school_year"><span class="tocnumber">1.3</span> <span class="toctext">1992-1993 school year</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Etymology"><span class="tocnumber">2</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Behind_the_scenes"><span class="tocnumber">3</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Appearances"><span class="tocnumber">4</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Notes_and_references"><span class="tocnumber">5</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Valeria_Myriadd?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Valeria_Myriadd?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Life">Life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Valeria_Myriadd?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Valeria_Myriadd?action=edit&amp;section=2" title="Edit section: Life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Valeria was born someplace in either <a href="/wiki/Great_Britain" title="Great Britain">Great Britain</a> or <a href="/wiki/Ireland" title="Ireland">Ireland</a>,<sup id="cite_ref-PLACE_5-0" class="reference"><a href="#cite_note-PLACE-5">&#91;5&#93;</a></sup> and when she was eleven years old began attending <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a>, where she was sorted into <a href="/wiki/Gryffindor" title="Gryffindor">Gryffindor</a> <a href="/wiki/Hogwarts_Houses" title="Hogwarts Houses">House</a>.
+She graduated at the end of her <a href="/wiki/Seventh_year" title="Seventh year">seventh year</a> with good enough grades that she could return as a <a href="/wiki/Professor" title="Professor">professor</a>,<sup id="cite_ref-TMOHP_4-1" class="reference"><a href="#cite_note-TMOHP-4">&#91;4&#93;</a></sup> and eventually rose to the position of <a href="/wiki/Head_of_Gryffindor_House" title="Head of Gryffindor House">Head of Gryffindor House</a>.<sup id="cite_ref-TMOHP_4-2" class="reference"><a href="#cite_note-TMOHP-4">&#91;4&#93;</a></sup> She died sometime prior to <a href="/wiki/September" title="September">September</a> <a href="/wiki/1991" title="1991">1991</a><sup id="cite_ref-DEATH_2-1" class="reference"><a href="#cite_note-DEATH-2">&#91;2&#93;</a></sup>
+</p>
+<h3><span id="1991–1992_school_year"></span><span class="mw-headline" id="1991.E2.80.931992_school_year"><a href="/wiki/1991%E2%80%931992_school_year" title="1991–1992 school year">1991–1992 school year</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Valeria_Myriadd?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: 1991–1992 school year">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Valeria_Myriadd?action=edit&amp;section=3" title="Edit section: 1991–1992 school year"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>By <a href="/wiki/1991" title="1991">1991</a>, several portraits of Valeria hung at the main halls of <a href="/wiki/Hogwarts_Castle" title="Hogwarts Castle">Hogwarts Castle</a>, such as the <a href="/wiki/Grand_Staircase" title="Grand Staircase">Grand Staircase</a>. In <a href="/wiki/Gryffindor_Tower" title="Gryffindor Tower">Gryffindor Tower</a>, one of her portraits guarded a secret passage to a <a href="/wiki/Disused_seventh_floor_bathroom" title="Disused seventh floor bathroom">disused bathroom</a>. The password for said passage was "<i>Pig Snout</i>".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="1992-1993_school_year"><a href="/wiki/1992-1993_school_year" class="mw-redirect" title="1992-1993 school year">1992-1993 school year</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Valeria_Myriadd?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: 1992-1993 school year">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Valeria_Myriadd?action=edit&amp;section=4" title="Edit section: 1992-1993 school year"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>By the <a href="/wiki/1992-1993_school_year" class="mw-redirect" title="1992-1993 school year">next school year</a>, her place in the Gryffindor Tower had been taken by <a href="/wiki/Oraclitus_Spheer" title="Oraclitus Spheer">Oraclitus Spheer</a>. Her portrait was moved to the <a href="/wiki/Hogwarts_Library" title="Hogwarts Library">Hogwarts Library</a> Annexe, hiding a shortcut to a section containing the original hand-written manuscript of <i><a href="/wiki/Hogwarts:_A_History" title="Hogwarts: A History">Hogwarts: A History</a></i>, by <a href="/wiki/Chroniculus_Punnet" title="Chroniculus Punnet">Chroniculus Punnet</a>. The password was "<i>Bibliophile</i>".<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Valeria_Myriadd?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Valeria_Myriadd?action=edit&amp;section=5" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>"Valeria" is the feminine form of the name "<i>Valerius</i>", who was a Roman saint in the <a href="/wiki/1100s" title="1100s">second century</a>.<sup id="cite_ref-ETYMOLOGY_8-0" class="reference"><a href="#cite_note-ETYMOLOGY-8">&#91;8&#93;</a></sup> "<i>Myriad</i>" means "countless" or "extremely great in number".<sup id="cite_ref-ETYMOLOGY2_9-0" class="reference"><a href="#cite_note-ETYMOLOGY2-9">&#91;9&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Valeria_Myriadd?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Valeria_Myriadd?action=edit&amp;section=6" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>For reasons currently unknown, Myriadd's portrait was painted depicting her standing by some snowy mountains, with her wearing a dark blue, fur-lined cloak and holding a <a href="/wiki/Fairy" title="Fairy">fairy</a>.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Valeria_Myriadd?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Valeria_Myriadd?action=edit&amp;section=7" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(video_game)" title="Harry Potter and the Philosopher&#39;s Stone (video game)">Harry Potter and the Philosopher's Stone (video game)</a></i> <small>(Appears in portrait(s))</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(video_game)" title="Harry Potter and the Chamber of Secrets (video game)">Harry Potter and the Chamber of Secrets (video game)</a></i> <small>(Appears in portrait(s))</small> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Valeria_Myriadd?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Valeria_Myriadd?action=edit&amp;section=8" title="Edit section: Notes and references

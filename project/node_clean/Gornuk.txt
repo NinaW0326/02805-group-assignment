@@ -1,0 +1,116 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-gringotts pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/3/3b/Gornuk.jpeg/revision/latest?cb=20181209054309" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/3/3b/Gornuk.jpeg/revision/latest/scale-to-width-down/190?cb=20181209054309" srcset="https://static.wikia.nocookie.net/harrypotter/images/3/3b/Gornuk.jpeg/revision/latest/scale-to-width-down/190?cb=20181209054309 1x, https://static.wikia.nocookie.net/harrypotter/images/3/3b/Gornuk.jpeg/revision/latest/scale-to-width-down/380?cb=20181209054309 2x" class="pi-image-thumbnail" alt="" width="190" height="231"
+		     data-image-key="Gornuk.jpeg" data-image-name="Gornuk.jpeg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Gornuk</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/1998" title="1998">1998</a><sup id="cite_ref-DH22_1-0" class="reference"><a href="#cite_note-DH22-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Goblin" title="Goblin">Goblin</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Black</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Gringotts_Wizarding_Bank" title="Gringotts Wizarding Bank">Gringotts</a> employee (formerly)<sup id="cite_ref-DH14_2-0" class="reference"><a href="#cite_note-DH14-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Gringotts_Wizarding_Bank" title="Gringotts Wizarding Bank">Gringotts Wizarding Bank</a><sup id="cite_ref-DH14_2-1" class="reference"><a href="#cite_note-DH14-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Gornuk</b> was a <a href="/wiki/Goblin" title="Goblin">Goblin</a> who worked at <a href="/wiki/Gringotts_Wizarding_Bank" title="Gringotts Wizarding Bank">Gringotts</a>, but went on the run after <a href="/wiki/Tom_Riddle" title="Tom Riddle">Lord Voldemort</a>'s <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a> took over the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">Ministry of Magic</a>. He went into hiding after he was expected to work for <a href="/wiki/Wizardkind" title="Wizardkind">wizards</a>, and eventually hooked up with a small band of outcasts comprised of fellow Goblin <a href="/wiki/Griphook" title="Griphook">Griphook</a>, and the <a href="/wiki/Wizardkind" title="Wizardkind">wizards</a> <a href="/wiki/Edward_Tonks" title="Edward Tonks">Ted Tonks</a>, <a href="/wiki/Dirk_Cresswell" title="Dirk Cresswell">Dirk Cresswell</a>, and <a href="/wiki/Dean_Thomas" title="Dean Thomas">Dean Thomas</a>.<sup id="cite_ref-DH14_2-2" class="reference"><a href="#cite_note-DH14-2">&#91;2&#93;</a></sup> In <a href="/wiki/1998" title="1998">1998</a>, the group was eventually caught by <a href="/wiki/Snatchers" title="Snatchers">Snatchers</a> led by <a href="/wiki/Fenrir_Greyback" title="Fenrir Greyback">Fenrir Greyback</a>. Gornuk was killed with Dirk and Ted trying to resist capture.<sup id="cite_ref-DH22_1-1" class="reference"><a href="#cite_note-DH22-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Life_at_Gringotts"><span class="tocnumber">1.1</span> <span class="toctext">Life at Gringotts</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Ministry_take-over"><span class="tocnumber">1.2</span> <span class="toctext">Ministry take-over</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Life_on_the_Run"><span class="tocnumber">1.3</span> <span class="toctext">Life on the Run</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Death"><span class="tocnumber">1.4</span> <span class="toctext">Death</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Behind_the_scenes"><span class="tocnumber">2</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Appearances"><span class="tocnumber">3</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Notes_and_references"><span class="tocnumber">4</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gornuk?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: History">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gornuk?action=edit&amp;section=1" title="Edit section: History"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Life_at_Gringotts">Life at Gringotts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gornuk?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Life at Gringotts">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gornuk?action=edit&amp;section=2" title="Edit section: Life at Gringotts"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="thumb tleft show-info-icon" style="width: 252px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/e/e9/Gringotts_bank.jpg/revision/latest?cb=20160809180454" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/e/e9/Gringotts_bank.jpg/revision/latest/scale-to-width-down/250?cb=20160809180454" decoding="async" width="250" height="104" class="thumbimage" data-image-name="Gringotts bank.jpg" data-image-key="Gringotts_bank.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Gringotts_bank.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption"><a href="/wiki/Gringotts_Wizarding_Bank" title="Gringotts Wizarding Bank">Gringotts</a></p> 		 	</figcaption> </figure>
+<p>Little is known about Gornuk's career at <a href="/wiki/Gringotts_Wizarding_Bank" title="Gringotts Wizarding Bank">Gringotts</a>. He worked alongside other <a href="/wiki/Goblin" title="Goblin">goblins</a>, like <a href="/wiki/Griphook" title="Griphook">Griphook</a>.
+</p>
+<h3><span class="mw-headline" id="Ministry_take-over">Ministry take-over</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gornuk?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Ministry take-over">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gornuk?action=edit&amp;section=3" title="Edit section: Ministry take-over"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In <a href="/wiki/1997" title="1997">1997</a>, <a href="/wiki/Tom_Riddle" title="Tom Riddle">Lord Voldemort</a> and his <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a> took over the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">Ministry of Magic</a>. Death Eaters and Voldemort's supporters started to meddle in the <a href="/wiki/Gringotts_Wizarding_Bank" title="Gringotts Wizarding Bank">Bank</a>, much to the <a href="/wiki/Goblin" title="Goblin">Goblin</a> workers' discontent, who did not want to work for <a href="/wiki/Wizardkind" title="Wizardkind">wizards</a>. Gornuk was amongst the rebellion, since he hated the prospect of living a life like a <a href="/wiki/House-elf" title="House-elf">house-elf</a>. Some <a href="/wiki/Goblin" title="Goblin">goblins</a> escaped from the <a href="/wiki/Gringotts_Wizarding_Bank" title="Gringotts Wizarding Bank">Bank</a>; among them was Gornuk.<sup id="cite_ref-DH14_2-3" class="reference"><a href="#cite_note-DH14-2">&#91;2&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Life_on_the_Run">Life on the Run</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gornuk?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Life on the Run">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gornuk?action=edit&amp;section=4" title="Edit section: Life on the Run"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="thumb tright show-info-icon" style="width: 302px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/5/51/Dean_griphook_3.jpg/revision/latest?cb=20170914212633" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/5/51/Dean_griphook_3.jpg/revision/latest/scale-to-width-down/300?cb=20170914212633" decoding="async" width="300" height="169" class="thumbimage" data-image-name="Dean griphook 3.jpg" data-image-key="Dean_griphook_3.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Dean_griphook_3.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Gornuk's fugitive mates, <a href="/wiki/Dean_Thomas" title="Dean Thomas">Dean Thomas</a> and <a href="/wiki/Griphook" title="Griphook">Griphook</a></p> 		 	</figcaption> </figure>
+<p>After escaping the <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a>, Gornuk met up with <a href="/wiki/Muggle-born" title="Muggle-born">Muggle-born</a> wizards <a href="/wiki/Edward_Tonks" title="Edward Tonks">Ted Tonks</a> and <a href="/wiki/Dirk_Cresswell" title="Dirk Cresswell">Dirk Cresswell</a>, and <a href="/wiki/Dean_Thomas" title="Dean Thomas">Dean Thomas</a>, who were on the run from the <a href="/wiki/Muggle-Born_Registration_Commission" title="Muggle-Born Registration Commission">Muggle-Born Registration Commission</a>. He also met his fellow escapee from <a href="/wiki/Gringotts_Wizarding_Bank" title="Gringotts Wizarding Bank">Gringotts</a>, <a href="/wiki/Griphook" title="Griphook">Griphook</a>. At one of their campsites, <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a>, <a href="/wiki/Hermione_Granger" title="Hermione Granger">Hermione Granger</a> and <a href="/wiki/Ronald_Weasley" title="Ronald Weasley">Ron Weasley</a> overheard the group talking about everything going on in the open wizarding world.<sup id="cite_ref-DH14_2-4" class="reference"><a href="#cite_note-DH14-2">&#91;2&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Death">Death</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gornuk?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Death">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gornuk?action=edit&amp;section=5" title="Edit section: Death"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Gornuk, <a href="/wiki/Griphook" title="Griphook">Griphook</a>, <a href="/wiki/Edward_Tonks" title="Edward Tonks">Ted Tonks</a>, <a href="/wiki/Dirk_Cresswell" title="Dirk Cresswell">Dirk Cresswell</a> and <a href="/wiki/Dean_Thomas" title="Dean Thomas">Dean Thomas</a> were eventually caught by a group of <a href="/wiki/Snatchers" title="Snatchers">Snatchers</a>. They tried to escape, but failed; Gornuk was killed during the struggle, along with Ted and Dirk. <a href="/wiki/Dean_Thomas" title="Dean Thomas">Dean Thomas</a> and <a href="/wiki/Griphook" title="Griphook">Griphook</a> were captured by the <a href="/wiki/Snatchers" title="Snatchers">Snatchers</a>. The death of Gornuk was announced on <a href="/wiki/Potterwatch" title="Potterwatch">Potterwatch</a> by <a href="/wiki/Lee_Jordan" title="Lee Jordan">Lee Jordan</a>.<sup id="cite_ref-DH22_1-2" class="reference"><a href="#cite_note-DH22-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gornuk?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gornuk?action=edit&amp;section=6" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Gornuk is mentioned on the radio in <i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1" title="Harry Potter and the Deathly Hallows: Part 1">Harry Potter and the Deathly Hallows: Part 1</a></i>; the radio announcer says two of his companions may have escaped capture after Gornuk was killed. The film, however, reports his death far sooner. It says that he died around the time of the murder of <a href="/wiki/Mykew_Gregorovitch" title="Mykew Gregorovitch">Mykew Gregorovitch</a>, not the arrest of <a href="/wiki/Xenophilius_Lovegood" title="Xenophilius Lovegood">Xenophilius Lovegood</a>. Because Gornuk's conversation with his fellow fugitives (book only) happens after Gregorovitch is found by <a href="/wiki/Tom_Riddle" title="Tom Riddle">Voldemort</a>, this timing is not <a href="/wiki/Canon" title="Canon">canon</a>.</li>
+<li>Gornuk appears in the DS version of <i><a href="/wiki/LEGO_Harry_Potter:_Years_5-7" title="LEGO Harry Potter: Years 5-7">LEGO Harry Potter: Years 5-7</a></i> despite not appearing in the film.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gornuk?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gornuk?action=edit&amp;section=7" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">Harry Potter and the Deathly Hallows</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1" title="Harry Potter and the Deathly Hallows: Part 1">Harry Potter and the Deathly Hallows: Part 1</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1_(video_game)" title="Harry Potter and the Deathly Hallows: Part 1 (video game)">Harry Potter and the Deathly Hallows: Part 1 (video game)</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter:_Years_5-7" title="LEGO Harry Potter: Years 5-7">LEGO Harry Potter: Years 5-7</a></i> <span class="template-c">(DS version)</span></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gornuk?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gornuk?action=edit&amp;section=8" title="Edit section: Notes and references

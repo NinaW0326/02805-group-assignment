@@ -1,0 +1,45 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/a/a0/Lambus.jpg/revision/latest?cb=20170310064827" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/a/a0/Lambus.jpg/revision/latest/scale-to-width-down/326?cb=20170310064827" srcset="https://static.wikia.nocookie.net/harrypotter/images/a/a0/Lambus.jpg/revision/latest/scale-to-width-down/326?cb=20170310064827 1x, https://static.wikia.nocookie.net/harrypotter/images/a/a0/Lambus.jpg/revision/latest/scale-to-width-down/652?cb=20170310064827 2x" class="pi-image-thumbnail" alt="" width="270" height="298"
+		     data-image-key="Lambus.jpg" data-image-name="Lambus.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Raymund Lambus</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Raymund Lambus</b> was an <a href="/wiki/United_States_of_America" title="United States of America">American</a> <a href="/wiki/Wizardkind" title="Wizardkind">wizarding</a> criminal who operated in the <a href="/wiki/1920s" title="1920s">1920s</a>.<sup id="cite_ref-wanted_1-0" class="reference"><a href="#cite_note-wanted-1">&#91;1&#93;</a></sup> His partner in crime was <a href="/wiki/Herschel_Haesito" title="Herschel Haesito">Herschel Haesito</a>.<sup id="cite_ref-wanted_1-1" class="reference"><a href="#cite_note-wanted-1">&#91;1&#93;</a></sup> The pair were collectively known as The Brothers.<sup id="cite_ref-wanted_1-2" class="reference"><a href="#cite_note-wanted-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Raymund_Lambus?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Raymund_Lambus?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In <a href="/wiki/1926" title="1926">1926</a>, the <a href="/wiki/International_Wizarding_Police" title="International Wizarding Police">International Wizarding Police</a> issued a double wanted poster for Lambus and Haesito, which stated they were wanted for "money laundering" and "<a href="/wiki/Muggle" class="mw-redirect" title="Muggle">No-Maj</a> murder in <a href="/wiki/Europe" title="Europe">Europe</a> and <a href="/wiki/Africa" title="Africa">Africa</a>."<sup id="cite_ref-wanted_1-3" class="reference"><a href="#cite_note-wanted-1">&#91;1&#93;</a></sup> It described them as "powerful wizards" who were "<a href="/wiki/Wand" title="Wand">wanded</a> and extremely dangerous."<sup id="cite_ref-wanted_1-4" class="reference"><a href="#cite_note-wanted-1">&#91;1&#93;</a></sup> A reward of 5000 <a href="/wiki/Dragot" title="Dragot">Dragots</a> was offered for information leading to their capture.<sup id="cite_ref-wanted_1-5" class="reference"><a href="#cite_note-wanted-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Raymund_Lambus?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Raymund_Lambus?action=edit&amp;section=2" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(film)" title="Fantastic Beasts and Where to Find Them (film)">Fantastic Beasts and Where to Find Them (film)</a></i> <small>(Appears in photographs)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Raymund_Lambus?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Raymund_Lambus?action=edit&amp;section=3" title="Edit section: Notes and references

@@ -1,0 +1,116 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/e/e6/Arnold_Guzman.png/revision/latest?cb=20200506031810" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/e/e6/Arnold_Guzman.png/revision/latest/scale-to-width-down/350?cb=20200506031810" srcset="https://static.wikia.nocookie.net/harrypotter/images/e/e6/Arnold_Guzman.png/revision/latest/scale-to-width-down/350?cb=20200506031810 1x, https://static.wikia.nocookie.net/harrypotter/images/e/e6/Arnold_Guzman.png/revision/latest/scale-to-width-down/700?cb=20200506031810 2x" class="pi-image-thumbnail" alt="" width="270" height="359"
+		     data-image-key="Arnold_Guzman.png" data-image-name="Arnold Guzman.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Arnold Guzman</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">before <a href="/wiki/1927" title="1927">1927</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/United_States_of_America" title="United States of America">American</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Brown</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Brown</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">American Emissary to the <a href="/wiki/International_Confederation_of_Wizards" title="International Confederation of Wizards">International Confederation of Wizards</a><sup id="cite_ref-mugglenet_1-0" class="reference"><a href="#cite_note-mugglenet-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/International_Confederation_of_Wizards" title="International Confederation of Wizards">International Confederation of Wizards</a></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Fantastic Beasts: The Crimes of Grindelwald - The Original Screenplay">"<i>Mr Scamander. The wizarding and non-wizarding worlds have been at peace for over a century. Grindelwald wants to see that peace destroyed and for certain members of our community his message is very seductive. Many purebloods believe it is their birthright to rule not only our world but the non-magic world as well.</i>"</span></dd>
+<dd>&#8212;Arnold Guzman's concerns about <a href="/wiki/Gellert_Grindelwald" title="Gellert Grindelwald">Gellert Grindelwald</a><sup class="noprint"><a href="/wiki/Fantastic_Beasts:_The_Crimes_of_Grindelwald_-_The_Original_Screenplay" title="Fantastic Beasts: The Crimes of Grindelwald - The Original Screenplay">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Arnold Guzman</b> was an <a href="/wiki/United_States_of_America" title="United States of America">American</a> <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> who was the <a href="/wiki/United_States_of_America" title="United States of America">American</a> Emissary to the <a href="/wiki/International_Confederation_of_Wizards" title="International Confederation of Wizards">International Confederation of Wizards</a> in <a href="/wiki/1927" title="1927">1927</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Personality_and_traits"><span class="tocnumber">2</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Behind_the_scenes"><span class="tocnumber">3</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Appearances"><span class="tocnumber">4</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Notes_and_references"><span class="tocnumber">5</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Arnold_Guzman?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Arnold_Guzman?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In 1927, Guzman attended a hearing at the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">British Ministry of Magic</a>, being a part of a committee comprised of himself, the <a href="/wiki/Department_of_Magical_Law_Enforcement" title="Department of Magical Law Enforcement">Head of the Department of Magical Law Enforcement</a>, <a href="/wiki/Torquil_Travers" title="Torquil Travers">Torquil Travers</a>, and <a href="/wiki/Rudolph_Spielman" title="Rudolph Spielman">Rudolph Spielman</a> of the International Confederation Wizards. The subject of the hearing being over the possible appeal of <a href="/wiki/Newton_Scamander" title="Newton Scamander">Newt Scamander</a>'s international travel ban. Scamander's appeal was ultimately denied by Guzman and the other committee members.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Arnold_Guzman?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Personality and traits">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Arnold_Guzman?action=edit&amp;section=2" title="Edit section: Personality and traits"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Arnold was a calm, but prim and very determined person, fearing the <a href="/wiki/Global_Wizarding_War" class="mw-redirect" title="Global Wizarding War">Global Wizarding War</a> that <a href="/wiki/Gellert_Grindelwald" title="Gellert Grindelwald">Gellert Grindelwald</a> had begun, as Arnold valued peace and diplomacy.
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Arnold_Guzman?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Arnold_Guzman?action=edit&amp;section=3" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Guzman is played by <a href="/wiki/Cornell_John" title="Cornell John">Cornell John</a> in the <a href="/wiki/Fantastic_Beasts:_The_Crimes_of_Grindelwald" title="Fantastic Beasts: The Crimes of Grindelwald">second instalment</a> of the <i><a href="/wiki/Fantastic_Beasts_(film_series)" title="Fantastic Beasts (film series)">Fantastic Beasts</a></i> film series.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Arnold_Guzman?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Arnold_Guzman?action=edit&amp;section=4" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Fantastic_Beasts:_The_Crimes_of_Grindelwald_-_The_Original_Screenplay" title="Fantastic Beasts: The Crimes of Grindelwald - The Original Screenplay">Fantastic Beasts: The Crimes of Grindelwald - The Original Screenplay</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Fantastic_Beasts:_The_Crimes_of_Grindelwald" title="Fantastic Beasts: The Crimes of Grindelwald">Fantastic Beasts: The Crimes of Grindelwald</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Arnold_Guzman?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Arnold_Guzman?action=edit&amp;section=5" title="Edit section: Notes and references

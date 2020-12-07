@@ -1,0 +1,144 @@
+<div class="mw-parser-output"><table class="notice metadata" id="spoiler" style="text-align: center; background: beige; margin: 1em 05%; padding: 0 1em; border: #a00 1px solid;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/8/8c/Hogwarts_Mystery.jpeg/revision/latest?cb=20180504083359" class="image"><img alt="Hogwarts Mystery.jpeg" src="https://static.wikia.nocookie.net/harrypotter/images/8/8c/Hogwarts_Mystery.jpeg/revision/latest/scale-to-width-down/175?cb=20180504083359" decoding="async" width="175" height="77" data-image-name="Hogwarts Mystery.jpeg" data-image-key="Hogwarts_Mystery.jpeg" /></a>
+</td>
+<td><b>Warning!</b>
+<p>At least some content in this article is derived from information featured in <i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i>. Spoilers will be present within the article.
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-creature pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/f/f4/Sphinx_FBCFWW.png/revision/latest?cb=20170413064440" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/f/f4/Sphinx_FBCFWW.png/revision/latest/scale-to-width-down/350?cb=20170413064440" srcset="https://static.wikia.nocookie.net/harrypotter/images/f/f4/Sphinx_FBCFWW.png/revision/latest/scale-to-width-down/350?cb=20170413064440 1x, https://static.wikia.nocookie.net/harrypotter/images/f/f4/Sphinx_FBCFWW.png/revision/latest/scale-to-width-down/700?cb=20170413064440 2x" class="pi-image-thumbnail" alt="" width="270" height="270"
+		     data-image-key="Sphinx_FBCFWW.png" data-image-name="Sphinx FBCFWW.png"/>
+		
+	</a>
+	
+</figure>
+
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Sphinx</h2>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Species information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>Almond-shaped</li><li>Hazel</li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Brown</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="native">
+	
+		<h3 class="pi-data-label pi-secondary-font">Native to</h3>
+	
+	<div class="pi-data-value pi-font">Egypt</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="distinction">
+	
+		<h3 class="pi-data-label pi-secondary-font">Distinction</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Human" title="Human">Human</a> head and face</li><li><a href="/wiki/Lion" title="Lion">Lion</a> body</li><li>Highly intelligent</li><li>Capable of human speech</li><li>Delights in puzzles and riddles</li><li>Violent nature</li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="class">
+	
+		<h3 class="pi-data-label pi-secondary-font"><a href="/wiki/Department_for_the_Regulation_and_Control_of_Magical_Creatures#Ministry_Classification_of_Magical_Creatures" title="Department for the Regulation and Control of Magical Creatures">Ministry of Magic Classification</a></h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Beast" title="Beast">Beast</a><br/><a href="/wiki/XXXX" class="mw-redirect" title="XXXX">XXXX</a><sup id="cite_ref-FBR_1-0" class="reference"><a href="#cite_note-FBR-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="status">
+	
+		<h3 class="pi-data-label pi-secondary-font">Status</h3>
+	
+	<div class="pi-data-value pi-font">Extant</div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Creature_infobox" title="Template:Creature infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Fantastic Beasts and Where to Find Them">"<i>The Egyptian sphinx has a human head on a lion’s body. For over a thousand years it has been used by witches and wizards to guard valuables and secret hideaways. Highly intelligent, the sphinx delights in puzzles and riddles. It is usually dangerous only when what it is guarding is threatened.</i>"</span></dd>
+<dd>&#8212;Description of a Sphinx<sup class="noprint"><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them" title="Fantastic Beasts and Where to Find Them">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p>The <b>Sphinx</b> is a <a href="/wiki/Magic" title="Magic">magical</a> <a href="/wiki/Beast" title="Beast">beast</a> native to <a href="/wiki/Egypt" title="Egypt">Egypt</a>.<sup id="cite_ref-FBR_1-1" class="reference"><a href="#cite_note-FBR-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Abilities"><span class="tocnumber">3</span> <span class="toctext">Abilities</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Behind_the_scenes"><span class="tocnumber">4</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Appearances"><span class="tocnumber">5</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Notes_and_references"><span class="tocnumber">7</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Description">Description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Sphinx?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Description">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Sphinx?action=edit&amp;section=1" title="Edit section: Description"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tright show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/d/d4/SphinxFBE.png/revision/latest?cb=20190820001452" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/d/d4/SphinxFBE.png/revision/latest/scale-to-width-down/180?cb=20190820001452" decoding="async" width="180" height="117" class="thumbimage" data-image-name="SphinxFBE.png" data-image-key="SphinxFBE.png" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:SphinxFBE.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">A female Sphinx</p> 		 	</figcaption> </figure>
+<p>It has the head of <a href="/wiki/Human" title="Human">human</a>, and the body of <a href="/wiki/Lion" title="Lion">lion</a>. Sphinxes are highly intelligent and capable of <a href="/wiki/Human" title="Human">human</a> speech, and are known for their love of puzzles, riddles, and enigmas. When the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">Ministry of Magic</a> began categorising magical creatures, the Sphinx was placed in the <a href="/wiki/Beast" title="Beast">Beast</a> category rather than the <a href="/wiki/Being" title="Being">Being</a> category due to their violent tendencies.<sup id="cite_ref-FBR_1-2" class="reference"><a href="#cite_note-FBR-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Sphinx?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: History">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Sphinx?action=edit&amp;section=2" title="Edit section: History"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Goblet of Fire">"<i>It had the body of an over-large lion: great clawed paws and a long yellowish tail ending in a brown tuft. Its head, however, was that of a woman. She turned her long, almond-shaped eyes upon Harry as he approached.</i>"</span></dd>
+<dd>&#8212;Description of the Sphinx in the <a href="/wiki/Triwizard_Maze" title="Triwizard Maze">maze</a><sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire" title="Harry Potter and the Goblet of Fire">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<figure class="thumb tright show-info-icon" style="width: 222px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/0/0e/Sphinx.png/revision/latest?cb=20161128061106" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/0/0e/Sphinx.png/revision/latest/scale-to-width-down/220?cb=20161128061106" decoding="async" width="220" height="190" class="thumbimage" data-image-name="Sphinx.png" data-image-key="Sphinx.png" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Sphinx.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">The Triwizard Maze Sphinx</p> 		 	</figcaption> </figure>
+<p>The Sphinx has been used for centuries to guard treasures and has been noted for violence when something threatens that treasure.<sup id="cite_ref-FBR_1-3" class="reference"><a href="#cite_note-FBR-1">&#91;1&#93;</a></sup>
+</p><p><a href="/wiki/Crispin_Cronk" title="Crispin Cronk">Crispin Cronk</a> (<a href="/wiki/1795" class="mw-redirect" title="1795">1795</a>-<a href="/wiki/1872" class="mw-redirect" title="1872">1872</a>) once kept <a href="/wiki/Crispin_Cronk%27s_sphinxes" title="Crispin Cronk&#39;s sphinxes">several sphinxes</a> in his backyard. Apparently, the private ownership of sphinxes is (or was) illegal, as the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">Ministry of Magic</a> sent him to <a href="/wiki/Azkaban" title="Azkaban">Azkaban</a> for it after he ignored their repeated warnings.<sup id="cite_ref-COSG_2-0" class="reference"><a href="#cite_note-COSG-2">&#91;2&#93;</a></sup>
+</p><p>A female Sphinx was stationed in the maze during the <a href="/wiki/Triwizard_Tournament" title="Triwizard Tournament">Third Task</a> of the <a href="/wiki/Triwizard_Tournament" title="Triwizard Tournament">Triwizard Tournament</a> of <a href="/wiki/1994%E2%80%931995_school_year" title="1994–1995 school year">1994-1995</a>. The Sphinx guarded the closest route to the <a href="/wiki/Triwizard_Cup" title="Triwizard Cup">Triwizard Cup</a>, and also gave a clue to <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> concerning the last creature that was guarding the Cup. <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> had to cross the Sphinx, and this was the riddle that was given to him:<sup id="cite_ref-GOF31_3-0" class="reference"><a href="#cite_note-GOF31-3">&#91;3&#93;</a></sup>
+</p>
+<center>
+<p><i>First think of the person who lives in disguise,</i><br />
+<i>Who deals in secrets and tells naught but lies.</i><br />
+<i>Next, tell me what's always the last thing to mend,</i><br />
+<i>The middle of middle and end of the end?</i><br />
+<i>And finally give me the sound often heard,</i><br />
+<i>During the search for a hard-to-find word.</i><br />
+<i>Now string them together and answer me this,</i><br />
+<i>Which creature would you be unwilling to kiss?</i><br />
+</p>
+</center>
+<p>The clue in the first two lines refers to a spy, the next clue indicates the letter 'd', and the last clue means '-er'. String them together, and the answer is '<a href="/wiki/Spider" title="Spider">spyder</a>' or '<a href="/wiki/Spider" title="Spider">spider</a>'. The final creature in the maze guarding the <a href="/wiki/Triwizard_Cup" title="Triwizard Cup">Triwizard Cup</a> was an <a href="/wiki/Acromantula" title="Acromantula">Acromantula</a>. The Sphinx gave Harry three options — he could choose to remain silent and she would allow him to walk away unscathed. If he answered correctly, she would move aside, but if he gave an incorrect answer, she would attack.<sup id="cite_ref-GOF31_3-1" class="reference"><a href="#cite_note-GOF31-3">&#91;3&#93;</a></sup>
+</p><p><a href="/wiki/Gringotts_Wizarding_Bank" title="Gringotts Wizarding Bank">Gringotts Wizarding Bank</a> has been known to place Sphinxes to guard some of the vaults, much to the annoyance of those customers who want to access their valuables but who are not that good at riddles.<sup id="cite_ref-DP_4-0" class="reference"><a href="#cite_note-DP-4">&#91;4&#93;</a></sup>
+</p><p>The Sphinx Club at Hogwarts was named for this deadly beast and accepted students who excelled in academic pursuits, likely a nod to the Sphinxes intelligence and penchant for riddles.
+</p>
+<h2><span class="mw-headline" id="Abilities">Abilities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Sphinx?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Abilities">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Sphinx?action=edit&amp;section=3" title="Edit section: Abilities"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Sphinxes are renowned for being extremely intelligent (they are capable of human speech, and are known for their love of puzzles, riddles, and enigmas), with the only reason for their exclusion from the <a href="/wiki/Being" title="Being">Beings</a> class being their aggressive behaviour towards humans. Their riddles are normally extremely long and complicated, with profusely subtle references to the answer that most people would almost certainly miss. They also possess <a href="/wiki/Superhuman_strength" title="Superhuman strength">superhuman strength</a>, especially in their brutally powerful paws — this makes them very dangerous to human beings, and is why they are classed so high in terms of dangerous species.<sup id="cite_ref-FBR_1-4" class="reference"><a href="#cite_note-FBR-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Sphinx?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Sphinx?action=edit&amp;section=4" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tright show-info-icon" style="width: 222px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/2/21/15214.jpg/revision/latest?cb=20190605130903" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="220" height="155" class="thumbimage lazyload" data-image-name="15214.jpg" data-image-key="15214.jpg" data-src="https://static.wikia.nocookie.net/harrypotter/images/2/21/15214.jpg/revision/latest/scale-to-width-down/220?cb=20190605130903" /></a> 	<noscript><a href="https://static.wikia.nocookie.net/harrypotter/images/2/21/15214.jpg/revision/latest?cb=20190605130903" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/2/21/15214.jpg/revision/latest/scale-to-width-down/220?cb=20190605130903" decoding="async" width="220" height="155" class="thumbimage" data-image-name="15214.jpg" data-image-key="15214.jpg" data-src="https://static.wikia.nocookie.net/harrypotter/images/2/21/15214.jpg/revision/latest/scale-to-width-down/220?cb=20190605130903" /></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:15214.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Concept art of Sphinxes for <i><a href="/wiki/Wonderbook:_Book_of_Spells" title="Wonderbook: Book of Spells">Wonderbook: Book of Spells</a></i></p> 		 	</figcaption> </figure>
+<ul><li>The <a href="http://en.wikipedia.org/wiki/sphinx" class="extiw" title="wikipedia:sphinx">sphinx</a> is a <a href="/wiki/Creature" title="Creature">creature</a> from Greek mythology, though the term would later come to be applied to ancient Egyptian statues of similar appearance, most famously the <a href="http://en.wikipedia.org/wiki/Great_Sphinx_of_Giza" class="extiw" title="wikipedia:Great Sphinx of Giza">Great Sphinx of Giza</a>. The association of sphinxes with riddles comes from the sphinx appointed to guard the city of Thebes by asking a riddle and killing any who could not answer.</li>
+<li>In <i><a href="/wiki/LEGO_Harry_Potter:_Years_1-4" title="LEGO Harry Potter: Years 1-4">LEGO Harry Potter: Years 1-4</a></i>, the sphinx in the maze is a statue instead of a real one, and the player must lure the spider to come near it with a fly, which sends away the statue and allows entry. However, in the DS and IPhone versions you have to pick the right barrel and find the Lego-brick, if you find it the Sphinx will open a door-hedge next to it.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Sphinx?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Sphinx?action=edit&amp;section=5" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" class="lazyload" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 8 images related to <i><b><a href="/wiki/Category:Images_of_Sphinxes" title="Category:Images of Sphinxes">Sphinx</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(video_game)" title="Harry Potter and the Philosopher&#39;s Stone (video game)">Harry Potter and the Philosopher's Stone (video game)</a></i> <small>(Appears as statue)</small> <span class="template-c">(Mentioned on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(film)" title="Harry Potter and the Chamber of Secrets (film)">Harry Potter and the Chamber of Secrets (film)</a></i> <span class="template-c">(Disc 2<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>, mentioned only)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(video_game)" title="Harry Potter and the Chamber of Secrets (video game)">Harry Potter and the Chamber of Secrets (video game)</a></i> <span class="template-c">(Mentioned on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span> <small>(Appears in portrait(s))</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(video_game)" title="Harry Potter and the Prisoner of Azkaban (video game)">Harry Potter and the Prisoner of Azkaban (video game)</a></i> <span class="template-c">(Mentioned on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire" title="Harry Potter and the Goblet of Fire">Harry Potter and the Goblet of Fire</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">Harry Potter and the Order of the Phoenix</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">Harry Potter and the Half-Blood Prince</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(companion_book)" title="Fantastic Beasts and Where to Find Them (companion book)">Fantastic Beasts and Where to Find Them</a></i></li>
+<li><i><a href="/wiki/Fantastic_Beasts:_Cases_from_the_Wizarding_World" title="Fantastic Beasts: Cases from the Wizarding World">Fantastic Beasts: Cases from the Wizarding World</a></i></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter:_Years_1-4" title="LEGO Harry Potter: Years 1-4">LEGO Harry Potter: Years 1-4</a></i></li>
+<li><i><a href="/wiki/Wonderbook:_Book_of_Spells" title="Wonderbook: Book of Spells">Wonderbook: Book of Spells</a></i></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i></li>
+<li><i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i> <small>(Mentioned only)</small></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Sphinx?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: External links">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Sphinx?action=edit&amp;section=6" title="Edit section: External links"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="http://en.wikipedia.org/wiki/Sphinx" title="wikipedia:Sphinx"><img alt="WP favicon.PNG" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="18" height="14" data-image-name="WP favicon.PNG" data-image-key="WP_favicon.PNG" data-src="https://static.wikia.nocookie.net/harrypotter/images/7/7c/WP_favicon.PNG/revision/latest/scale-to-width-down/18?cb=20110518111852" class="lazyload" /></a> <a href="http://en.wikipedia.org/wiki/Sphinx" class="extiw" title="wikipedia:Sphinx">Sphinx</a> on  <a href="http://en.wikipedia.org/wiki/Wikipedia" class="extiw" title="wikipedia:Wikipedia">Wikipedia</a></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Sphinx?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Sphinx?action=edit&amp;section=7" title="Edit section: Notes and references

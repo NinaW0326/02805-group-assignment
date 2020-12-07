@@ -1,0 +1,207 @@
+<div class="mw-parser-output"><table class="notice metadata" id="spoiler" style="text-align: center; background: beige; margin: 1em 05%; padding: 0 1em; border: #a00 1px solid;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/e/ea/Wizards_Unite_logo.jpg/revision/latest?cb=20181114170049" class="image"><img alt="Wizards Unite logo.jpg" src="https://static.wikia.nocookie.net/harrypotter/images/e/ea/Wizards_Unite_logo.jpg/revision/latest/scale-to-width-down/175?cb=20181114170049" decoding="async" width="175" height="98" data-image-name="Wizards Unite logo.jpg" data-image-key="Wizards_Unite_logo.jpg" /></a>
+</td>
+<td><b>Warning!</b>
+<p>At least some content in this article is derived from information featured in <i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i>. As such, spoilers will be present within the article.
+</p><p>For gameplay-specific information, please see the relevant article on <a href="https://harrypotterwizardsunite.fandom.com/wiki/Constance_Pickering" class="extiw" title="w:c:harrypotterwizardsunite:Constance Pickering">the Harry Potter: Wizards Unite Wiki!</a>
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-mom pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/b/bd/Constance_Pickering.png/revision/latest?cb=20190427194250" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/b/bd/Constance_Pickering.png/revision/latest/scale-to-width-down/287?cb=20190427194250" srcset="https://static.wikia.nocookie.net/harrypotter/images/b/bd/Constance_Pickering.png/revision/latest/scale-to-width-down/287?cb=20190427194250 1x, https://static.wikia.nocookie.net/harrypotter/images/b/bd/Constance_Pickering.png/revision/latest/scale-to-width-down/574?cb=20190427194250 2x" class="pi-image-thumbnail" alt="" width="270" height="331"
+		     data-image-key="Constance_Pickering.png" data-image-name="Constance Pickering.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Constance Pickering</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">between <a href="/wiki/1987" title="1987">1987</a> and <a href="/wiki/2001" title="2001">2001</a> (most likely)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Half-blood" title="Half-blood">Half-blood</a><sup id="cite_ref-blood_2-0" class="reference"><a href="#cite_note-blood-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="title">
+	
+		<h3 class="pi-data-label pi-secondary-font">Title(s)</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Junior_Undersecretary" title="Junior Undersecretary">Junior Undersecretary</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-appearance_3-0" class="reference"><a href="#cite_note-appearance-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female<sup id="cite_ref-appearance_3-1" class="reference"><a href="#cite_note-appearance-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Black<sup id="cite_ref-appearance_3-2" class="reference"><a href="#cite_note-appearance-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Blue<sup id="cite_ref-appearance_3-3" class="reference"><a href="#cite_note-appearance-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White<sup id="cite_ref-appearance_3-4" class="reference"><a href="#cite_note-appearance-3">&#91;3&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Constance_Pickering%27s_grandmother" title="Constance Pickering&#039;s grandmother">Grandmother</a><sup id="cite_ref-ChristmasCalamity_4-0" class="reference"><a href="#cite_note-ChristmasCalamity-4">&#91;4&#93;</a></sup></li><li><a href="/wiki/Constance_Pickering%27s_grandfather" title="Constance Pickering&#039;s grandfather">Grandfather</a><sup id="cite_ref-FirstYearAtHogwarts_5-0" class="reference"><a href="#cite_note-FirstYearAtHogwarts-5">&#91;5&#93;</a></sup></li><li><a href="/wiki/Constance_Pickering%27s_muggle_grandfather" title="Constance Pickering&#039;s muggle grandfather">Grandfather</a><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup></li><li><a href="/wiki/Constance_Pickering%27s_mother" title="Constance Pickering&#039;s mother">Mother</a><sup id="cite_ref-ChristmasCalamity_4-1" class="reference"><a href="#cite_note-ChristmasCalamity-4">&#91;4&#93;</a></sup></li><li><a href="/wiki/Constance_Pickering%27s_sister" title="Constance Pickering&#039;s sister">Sister</a><sup id="cite_ref-ChristmasCalamity_4-2" class="reference"><a href="#cite_note-ChristmasCalamity-4">&#91;4&#93;</a></sup></li><li><a href="/wiki/Constance_Pickering%27s_brother" class="mw-redirect" title="Constance Pickering&#039;s brother">Brother</a><sup id="cite_ref-BabyBeasts_7-0" class="reference"><a href="#cite_note-BabyBeasts-7">&#91;7&#93;</a></sup></li><li><a href="/wiki/Constance_Pickering%27s_brother_(II)" title="Constance Pickering&#039;s brother (II)">Brother</a><sup id="cite_ref-FirstYearAtHogwarts_5-1" class="reference"><a href="#cite_note-FirstYearAtHogwarts-5">&#91;5&#93;</a></sup></li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Magical characteristics</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="patronus">
+	
+		<h3 class="pi-data-label pi-secondary-font">Patronus</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Unicorn" title="Unicorn">Unicorn</a><sup id="cite_ref-BabyBeasts_7-1" class="reference"><a href="#cite_note-BabyBeasts-7">&#91;7&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Leader of the <a href="/wiki/Statute_of_Secrecy_Task_Force" title="Statute of Secrecy Task Force">Statute of Secrecy Task Force</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Pickering_family" title="Pickering family">Pickering family</a></li><li><a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">British Ministry of Magic</a><ul><li><a href="/wiki/Statute_of_Secrecy_Task_Force" title="Statute of Secrecy Task Force">Statute of Secrecy Task Force</a></li></ul></li><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter: Wizards Unite">"<i>This Calamity is, well, quite calamitous. Everything that anyone has ever feared, revered, or held dear in the <a href="/wiki/Wizarding_world" title="Wizarding world">wizarding world</a> — people, things, even <a href="/wiki/Memory" title="Memory">memories</a> — have been stolen and displaced, tossed about across the world. We've got to return what is lost, and quickly. The <a href="/wiki/International_Statute_of_Wizarding_Secrecy" title="International Statute of Wizarding Secrecy">Statute of Secrecy</a> is in danger of being broken.</i>"</span></dd>
+<dd>&#8212;Constance Pickering regarding the <a href="/wiki/Calamity" title="Calamity">Calamity</a><sup class="noprint"><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Constance Pickering</b> was a <a href="/wiki/Great_Britain" title="Great Britain">British</a> <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> who worked for the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">British Ministry of Magic</a>, and was the leader of the <a href="/wiki/Statute_of_Secrecy_Task_Force" title="Statute of Secrecy Task Force">Statute of Secrecy Task Force</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_life"><span class="tocnumber">1.1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Hogwarts_years"><span class="tocnumber">1.2</span> <span class="toctext">Hogwarts years</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Career"><span class="tocnumber">1.3</span> <span class="toctext">Career</span></a>
+<ul>
+<li class="toclevel-3 tocsection-5"><a href="#Working_for_the_Ministry"><span class="tocnumber">1.3.1</span> <span class="toctext">Working for the Ministry</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#The_Calamity"><span class="tocnumber">1.3.2</span> <span class="toctext">The Calamity</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Magical_abilities_and_skills"><span class="tocnumber">2</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Possessions"><span class="tocnumber">3</span> <span class="toctext">Possessions</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Appearances"><span class="tocnumber">4</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Notes_and_references"><span class="tocnumber">5</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Constance_Pickering?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Constance_Pickering?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Constance_Pickering?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Early life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Constance_Pickering?action=edit&amp;section=2" title="Edit section: Early life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Born somewhere in the <a href="/wiki/Great_Britain" title="Great Britain">British Isles</a> to parents (one of whom was at least magical) around the dawn of the <a href="/wiki/20th_century" title="20th century">20th century</a>.
+</p><p>As a child, she lived next door to a <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> girl, <a href="/wiki/Silvia" title="Silvia">Silvia</a>. Constance convinced her that "<a href="/wiki/Knarl" title="Knarl">hedgehogs</a>" loved it when you left them snacks overnight. Silvia left out a plate and and the next day her garden was destroyed, leaving Constance feeling guilty.<sup id="cite_ref-BabyBeasts_7-2" class="reference"><a href="#cite_note-BabyBeasts-7">&#91;7&#93;</a></sup>
+</p><p>She once had a <a href="/wiki/Crup" title="Crup">Crup</a> named <a href="/wiki/Ross" title="Ross">Ross</a>, but her family had to give him away when Constance's brother turned out to be a <a href="/wiki/Squib" title="Squib">squib</a>, and Ross just wouldn't stop nipping his bum, which scarred him for life.<sup id="cite_ref-BabyBeasts_7-3" class="reference"><a href="#cite_note-BabyBeasts-7">&#91;7&#93;</a></sup>
+</p><p>When Constance was a girl, her family took her to a <a href="/wiki/Norwegian_Dragon_Sanctuary" title="Norwegian Dragon Sanctuary">Dragon sanctuary</a> in <a href="/wiki/Norway" title="Norway">Norway</a>. They got to see the baby <a href="/wiki/Dragon" title="Dragon">dragons</a> up close and one of them bit Constance's finger, which hurt for a month.<sup id="cite_ref-BabyBeasts_7-4" class="reference"><a href="#cite_note-BabyBeasts-7">&#91;7&#93;</a></sup>
+</p><p>Constance always thought <a href="/wiki/Christmas_cracker" title="Christmas cracker">Christmas crackers</a> looked like loads of fun when her <a href="/wiki/Constance_Pickering%27s_mother" title="Constance Pickering&#39;s mother">mother</a> and <a href="/wiki/Constance_Pickering%27s_sister" title="Constance Pickering&#39;s sister">sister</a> pulled them together. The pop always made her squeal with delight. But they were never able to have a tree at they house. Constance's mum said she was “allergic” to decorating. Therefore Constance loved looking in their neighbours' windows and seeing their trees, all bright and shiny.<sup id="cite_ref-ChristmasCalamity_4-3" class="reference"><a href="#cite_note-ChristmasCalamity-4">&#91;4&#93;</a></sup>
+</p><p>When Constance was ten years old, her <a href="/wiki/Constance_Pickering%27s_grandmother" title="Constance Pickering&#39;s grandmother">grandmother</a> came over for Christmas. She wore a <a href="/wiki/Badger" title="Badger">badger</a> brooch that Constance pilfered to play with. As punishment, Constance spent the rest of Christmas locked in the attic.<sup id="cite_ref-ChristmasCalamity_4-4" class="reference"><a href="#cite_note-ChristmasCalamity-4">&#91;4&#93;</a></sup>
+</p><p>As a little girl, Constance used to adore vintage circus posters. However, during a wave of the <a href="/wiki/Calamity" title="Calamity">Calamity</a> focusing on the <a href="/wiki/Circus_Arcanus" title="Circus Arcanus">Circus Arcanus</a>, she finally saw the old-time circus up close and lost the desire to go to one. She also hated clowns.<sup id="cite_ref-CircusCalamitous_8-0" class="reference"><a href="#cite_note-CircusCalamitous-8">&#91;8&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Hogwarts_years">Hogwarts years</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Constance_Pickering?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Hogwarts years">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Constance_Pickering?action=edit&amp;section=3" title="Edit section: Hogwarts years"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Constance displayed signs of <a href="/wiki/Magic" title="Magic">magical</a> ability at some point in her early childhood and was subsequently admitted to <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a>, which issued her a <a href="/wiki/Hogwarts_Acceptance_letter" class="mw-redirect" title="Hogwarts Acceptance letter">letter of acceptance</a> on her eleventh birthday. Her <a href="/wiki/Constance_Pickering%27s_mother" title="Constance Pickering&#39;s mother">mother</a> wouldn't buy her a new cauldron. She gave Constance <a href="/wiki/Constance_Pickering%27s_brother_(II)" title="Constance Pickering&#39;s brother (II)">her brother</a>'s old, used one and bought him a new one.<sup id="cite_ref-FirstYearAtHogwarts_5-2" class="reference"><a href="#cite_note-FirstYearAtHogwarts-5">&#91;5&#93;</a></sup> She later boarded the <a href="/wiki/Hogwarts_Express" title="Hogwarts Express">Hogwarts Express</a> from <a href="/wiki/Platform_Nine_and_Three-Quarters" title="Platform Nine and Three-Quarters">Platform 9¾</a> at <a href="/wiki/King%27s_Cross_Station" title="King&#39;s Cross Station">King's Cross Station</a> in order to embark on her first year of magical education.
+</p><p>At the time of her attendance, which began no earlier than <a href="/wiki/September" title="September">September</a> <a href="/wiki/1998" title="1998">1998</a>, the school was under the firm stewardship of <a href="/wiki/Professor" title="Professor">Professor</a> <a href="/wiki/Minerva_McGonagall" title="Minerva McGonagall">Minerva McGonagall</a>. Also she never met <a href="/wiki/Horace_Slughorn" title="Horace Slughorn">Professor Slughorn</a>, but always thought she would have been a perfect candidate for the "<a href="/wiki/Slug_Club" title="Slug Club">Slug Club</a>".<sup id="cite_ref-FirstYearAtHogwarts_5-3" class="reference"><a href="#cite_note-FirstYearAtHogwarts-5">&#91;5&#93;</a></sup> Throughout her childhood, she heard stories about the <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a> that the school's inspirational <a href="/wiki/Hogwarts_Headmaster" title="Hogwarts Headmaster">Headmistress</a> and her allies had fought against at the legendary <a href="/wiki/Battle_of_Hogwarts" title="Battle of Hogwarts">Battle of Hogwarts</a>, and found the group to be terrifying.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p><p>As a student, one of her favourite things about school life was the <a href="/wiki/Christmas" title="Christmas">Christmas</a> <a href="/wiki/Christmas_Feast" title="Christmas Feast">celebration</a> at the <a href="/wiki/Hogwarts_Castle" title="Hogwarts Castle">Hogwarts Castle</a>, and would later go on to leave the school with many fond memories about spending the <a href="/wiki/Christmas_holidays" title="Christmas holidays">holidays</a> at the school; marvelling at the pudding, the baubles, the trees and the fairy lights. At some point, she also learned that there had been a <a href="/wiki/Yule_Ball" title="Yule Ball">Yule Ball</a> that took place during the <a href="/wiki/Triwizard_Tournament" title="Triwizard Tournament">Triwizard Tournament</a> in <a href="/wiki/1994" title="1994">1994</a> and later admitted to having harboured high hopes that the competition would be held once more just so her generation got one of their own.<sup id="cite_ref-ChristmasCalamity_4-5" class="reference"><a href="#cite_note-ChristmasCalamity-4">&#91;4&#93;</a></sup>
+</p><p>Constance loathe the <a href="/wiki/The_Monster_Book_of_Monsters" title="The Monster Book of Monsters">Monster Book of Monsters</a>, because her copy bit her once.<sup id="cite_ref-FirstYearAtHogwarts_5-4" class="reference"><a href="#cite_note-FirstYearAtHogwarts-5">&#91;5&#93;</a></sup>
+</p><p>She was never quite as adept at <a href="/wiki/Charms_(class)" title="Charms (class)">Charms</a> as she would have liked. She failed in Charms, and never really got over it. They had a parent's meeting which included <a href="/wiki/Headmaster" title="Headmaster">Headmistress</a> <a href="/wiki/Minerva_McGonagall" title="Minerva McGonagall">McGonagall</a>. It was awful, and Constance spent the time between classes practising various <a href="/wiki/Charm" title="Charm">charms</a> on her pet <a href="/wiki/Newt" title="Newt">newt</a>, <a href="/wiki/Nevin" title="Nevin">Nevin</a>.<sup id="cite_ref-FirstYearAtHogwarts_5-5" class="reference"><a href="#cite_note-FirstYearAtHogwarts-5">&#91;5&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Career">Career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Constance_Pickering?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Career">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Constance_Pickering?action=edit&amp;section=4" title="Edit section: Career"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Constance almost became a <a href="/wiki/Magizoologist" title="Magizoologist">Magizoologist</a> when she graduated Hogwarts. But she didn't have the stomach for it. One cold night hiding in a bramble bush by a <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> field, waiting for a <a href="/wiki/Mooncalf" title="Mooncalf">Mooncalf</a> to do its dance was all it took. Constance was out looking for a new post by morning.<sup id="cite_ref-WU_10-0" class="reference"><a href="#cite_note-WU-10">&#91;10&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="Working_for_the_Ministry">Working for the Ministry</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Constance_Pickering?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Working for the Ministry">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Constance_Pickering?action=edit&amp;section=5" title="Edit section: Working for the Ministry"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h4>
+<figure class="thumb tright show-info-icon" style="width: 127px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/9/96/HPWU_BE_Stronger_United_-_Constance_Pickering.png/revision/latest?cb=20200704054650" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/9/96/HPWU_BE_Stronger_United_-_Constance_Pickering.png/revision/latest/scale-to-width-down/125?cb=20200704054650" decoding="async" width="125" height="441" class="thumbimage" data-image-name="HPWU BE Stronger United - Constance Pickering.png" data-image-key="HPWU_BE_Stronger_United_-_Constance_Pickering.png" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:HPWU_BE_Stronger_United_-_Constance_Pickering.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Constance as a Ministry employee</p> 		 	</figcaption> </figure>
+<p>Seeing her as an icon, there was nothing Constance wanted more upon graduating from Hogwarts than the chance to work with <a href="/wiki/Hermione_Granger" title="Hermione Granger">Hermione Granger</a>, a high-ranking official in the <a href="/wiki/Department_of_Magical_Law_Enforcement" title="Department of Magical Law Enforcement">Department of Magical Law Enforcement</a> and famously progressive voice that had played no small part in the eradication of oppressive, <a href="/wiki/Pure-blood_supremacy" title="Pure-blood supremacy">pro-pureblood</a> laws following her death-defying participation in the legendary <a href="/wiki/Battle_of_Hogwarts" title="Battle of Hogwarts">Battle of Hogwarts</a>. As such, when she applied for the position as a <a href="/wiki/Junior_Undersecretary" title="Junior Undersecretary">Junior Undersecretary</a> in the <a href="/wiki/Department_of_Magical_Law_Enforcement" title="Department of Magical Law Enforcement">Department of Magical Law Enforcement</a>, where her hero worked, Constance discreetly slipped her application into the pile that she knew Mrs Granger would draw her future assistant from, and to her delight found herself picked for the job.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="The_Calamity">The Calamity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Constance_Pickering?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: The Calamity">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Constance_Pickering?action=edit&amp;section=6" title="Edit section: The Calamity"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In the <a href="/wiki/2010s" title="2010s">2010s</a>, during the series of large-scale breaches of the <a href="/wiki/International_Statute_of_Wizarding_Secrecy" title="International Statute of Wizarding Secrecy">Statute of Wizarding Secrecy</a> that became known as <a href="/wiki/Calamity" title="Calamity">The Calamity</a>, the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">British Ministry of Magic</a> and the <a href="/wiki/International_Confederation_of_Wizards" title="International Confederation of Wizards">International Confederation of Wizards</a> worked together to set up an <a href="/wiki/International_Task_Force" title="International Task Force">International Task Force</a> whose job it would be to track down and contain the chaotic outbreaks of <a href="/wiki/Magic" title="Magic">magic</a> from being noticed by <a href="/wiki/Non-magic_people" title="Non-magic people">Muggles</a>. To this end, Ms Pickering was asked by <a href="/wiki/Hermione_Granger" title="Hermione Granger">Hermione Granger</a> upon its sanction to set up what would become known as the <a href="/wiki/Statute_of_Secrecy_Task_Force" title="Statute of Secrecy Task Force">Statute of Secrecy Task Force</a>.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup> At some point, presumably in her capacity as the leader of the <a href="/wiki/Statute_of_Secrecy_Task_Force" title="Statute of Secrecy Task Force">Statute of Secrecy Task Force</a>, she verified the casting of a <a href="/wiki/Muggle-Repelling_Charm" title="Muggle-Repelling Charm">Muggle-Repelling Charm</a> over an undisclosed object or location.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup> She was also the one who suggested using banners to identify areas of high concentration of <a href="/wiki/Foundable" title="Foundable">Foundables</a> that seemed to be somehow related to one another, at which point her boyfriend, <a href="/wiki/Lucas_Sparrowvale" title="Lucas Sparrowvale">Lucas Sparrowvale</a>, proceeded to spend no less than six months travelling the world and placing them.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>
+</p><p>In <a href="/wiki/2019" title="2019">2019</a>, the <a href="/wiki/Pickering_family" title="Pickering family">Pickering family</a> had Christmas at the new house Constance's sister, but they did not send Constance any details or address. As a result, Constance was invited to a Christmas dinner at the <a href="/wiki/Potter_family" title="Potter family">Potter family</a>.<sup id="cite_ref-ChristmasCalamity_4-6" class="reference"><a href="#cite_note-ChristmasCalamity-4">&#91;4&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Constance_Pickering?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Constance_Pickering?action=edit&amp;section=7" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>An accomplished witch, Constance Pickering became an important member of the <a href="/wiki/Calamity_Management_Team" title="Calamity Management Team">Calamity Management Team</a> and was eventually tasked with heading up the <a href="/wiki/Statute_of_Secrecy_Task_Force" title="Statute of Secrecy Task Force">Statute of Secrecy Task Force</a>, whose job it was to investigate and contain the outbreaks of chaotic magic unleashed by the <a href="/wiki/Calamity" title="Calamity">Calamity</a>, showing the trust that the Ministry had in her abilities, both as a leader and where her magical prowess was concerned.
+</p>
+<ul><li><b><a href="/wiki/Charm" title="Charm">Charms</a></b>: Constance appeared to be highly accomplished with charms, as she was able to conjure a corporeal <a href="/wiki/Patronus_Charm" title="Patronus Charm">Patronus</a> in the form of a <a href="/wiki/Unicorn" title="Unicorn">Unicorn</a>.<sup id="cite_ref-BabyBeasts_7-5" class="reference"><a href="#cite_note-BabyBeasts-7">&#91;7&#93;</a></sup> <a href="/wiki/Magic" title="Magic">Magical</a> <a href="/wiki/Creature" title="Creature">creatures</a> were among the rarer Patronus forms.<sup id="cite_ref-WW_15-0" class="reference"><a href="#cite_note-WW-15">&#91;15&#93;</a></sup> As leader of the <a href="/wiki/Statute_of_Secrecy_Task_Force" title="Statute of Secrecy Task Force">Statute of Secrecy Task Force</a>, she was also involved in returning <a href="/wiki/Foundable" title="Foundable">Foundables</a>.</li></ul>
+<h2><span class="mw-headline" id="Possessions">Possessions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Constance_Pickering?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Possessions">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Constance_Pickering?action=edit&amp;section=8" title="Edit section: Possessions"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Nevin" title="Nevin">Nevin</a></b>: Constance owned a pet <a href="/wiki/Newt" title="Newt">newt</a> named Nevin, whom she often practised <a href="/wiki/Charm" title="Charm">charms</a> on whilst at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts</a>.</li>
+<li><b><a href="/wiki/Ross" title="Ross">Ross</a></b>: Constance owned a pet <a href="/wiki/Crup" title="Crup">Crup</a> called Ross in her youth, whom she had to give up to due to the Crup's aggression towards her <a href="/wiki/Squib" title="Squib">Squib</a> <a href="/wiki/Constance_Pickering%27s_brother_(I)" title="Constance Pickering&#39;s brother (I)">brother</a>.<sup id="cite_ref-BabyBeasts_7-6" class="reference"><a href="#cite_note-BabyBeasts-7">&#91;7&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Constance_Pickering?veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Constance_Pickering?action=edit&amp;section=9" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 8 images related to <i><b><a href="/wiki/Category:Images_of_Constance_Pickering" title="Category:Images of Constance Pickering">Constance Pickering</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<ul><li><i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Constance_Pickering?veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Constance_Pickering?action=edit&amp;section=10" title="Edit section: Notes and references

@@ -1,0 +1,150 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/a/a1/Victoire_Weasley.png/revision/latest?cb=20170816213657" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/a/a1/Victoire_Weasley.png/revision/latest/scale-to-width-down/350?cb=20170816213657" srcset="https://static.wikia.nocookie.net/harrypotter/images/a/a1/Victoire_Weasley.png/revision/latest/scale-to-width-down/350?cb=20170816213657 1x, https://static.wikia.nocookie.net/harrypotter/images/a/a1/Victoire_Weasley.png/revision/latest/scale-to-width-down/700?cb=20170816213657 2x" class="pi-image-thumbnail" alt="" width="270" height="293"
+		     data-image-key="Victoire_Weasley.png" data-image-name="Victoire Weasley.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Victoire Weasley</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/2_May" title="2 May">2 May</a>,<sup id="cite_ref-JKRV_1-0" class="reference"><a href="#cite_note-JKRV-1">&#91;1&#93;</a></sup> early <a href="/wiki/2000s" title="2000s">2000s</a><sup id="cite_ref-birthyear_2-0" class="reference"><a href="#cite_note-birthyear-2">&#91;2&#93;</a></sup> <a href="/wiki/Great_Britain" title="Great Britain">Great Britain</a> or <a href="/wiki/France" title="France">France</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Half-Veela" title="Half-Veela">One-eighth Veela</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a> (<a href="/wiki/Veela" title="Veela">Veela</a> ancestry)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Blonde<sup id="cite_ref-PMRS_3-0" class="reference"><a href="#cite_note-PMRS-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Septimus_Weasley" title="Septimus Weasley">Septimus Weasley</a><sup id="cite_ref-note_4-0" class="reference"><a href="#cite_note-note-4">&#91;4&#93;</a></sup> (paternal great-grandfather)</li><li><a href="/wiki/Cedrella_Black" title="Cedrella Black">Cedrella Weasley</a><sup id="cite_ref-note_4-1" class="reference"><a href="#cite_note-note-4">&#91;4&#93;</a></sup> <span class="template-c">(née <a href="/wiki/House_of_Black" title="House of Black">Black</a>)</span> (paternal great-grandmother)</li><li><a href="/wiki/Arthur_Weasley" title="Arthur Weasley">Arthur Weasley</a> (paternal grandfather)</li><li><a href="/wiki/Molly_Weasley" title="Molly Weasley">Molly Weasley</a> <span class="template-c">(née <a href="/wiki/Prewett_family" title="Prewett family">Prewett</a>)</span> (paternal grandmother)</li><li><a href="/wiki/Delacour_sisters%27_father" title="Delacour sisters&#039; father">Monsieur Delacour</a> (maternal grandfather)</li><li><a href="/wiki/Apolline_Delacour" title="Apolline Delacour">Apolline Delacour</a> (maternal grandmother)</li><li><a href="/wiki/William_Weasley" title="William Weasley">Bill Weasley</a> (father)</li><li><a href="/wiki/Fleur_Delacour" title="Fleur Delacour">Fleur Weasley</a>  <span class="template-c">(née <a href="/wiki/Delacour_family" title="Delacour family">Delacour</a>)</span> (mother)</li><li><a href="/wiki/Louis_Weasley" title="Louis Weasley">Louis Weasley</a> (brother)</li><li><a href="/wiki/Dominique_Weasley" title="Dominique Weasley">Dominique Weasley</a> (sister)</li><li><a href="/wiki/Gabrielle_Delacour" title="Gabrielle Delacour">Gabrielle Delacour</a> (maternal aunt)</li><li><a href="/wiki/Ginevra_Weasley" title="Ginevra Weasley">Ginevra Potter</a> <span class="template-c">(née Weasley)</span> (aunt)</li><li><a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> (uncle)</li><li><a href="/wiki/James_Potter_II" title="James Potter II">James Sirius Potter</a> (cousin)</li><li><a href="/wiki/Albus_Potter" title="Albus Potter">Albus Severus Potter</a> (cousin)</li><li><a href="/wiki/Lily_Potter" title="Lily Potter">Lily Luna Potter</a> (cousin)</li><li><a href="/wiki/Ronald_Weasley" title="Ronald Weasley">Ron Weasley</a> (uncle)</li><li><a href="/wiki/Hermione_Granger" title="Hermione Granger">Hermione Granger</a> (aunt)</li><li><a href="/wiki/Rose_Granger-Weasley" title="Rose Granger-Weasley">Rose Granger-Weasley</a> (cousin)</li><li><a href="/wiki/Hugo_Granger-Weasley" title="Hugo Granger-Weasley">Hugo Granger-Weasley</a> (cousin)</li><li><a href="/wiki/Fred_Weasley" title="Fred Weasley">Fred Weasley</a> (uncle) †</li><li><a href="/wiki/George_Weasley" title="George Weasley">George Weasley</a> (uncle)</li><li><a href="/wiki/Angelina_Johnson" title="Angelina Johnson">Angelina Weasley</a> <span class="template-c">(née <a href="/wiki/Johnson_family" title="Johnson family">Johnson</a>)</span> (aunt)</li><li><a href="/wiki/Fred_Weasley_II" title="Fred Weasley II">Fred Weasley II</a> (cousin)</li><li><a href="/wiki/Roxanne_Weasley" title="Roxanne Weasley">Roxanne Weasley</a> (cousin)</li><li><a href="/wiki/Percy_Weasley" title="Percy Weasley">Percy Weasley</a> (uncle)</li><li><a href="/wiki/Audrey_Weasley" title="Audrey Weasley">Audrey Weasley</a> (aunt)</li><li><a href="/wiki/Molly_Weasley_II" title="Molly Weasley II">Molly Weasley II</a> (cousin)</li><li><a href="/wiki/Lucy_Weasley" title="Lucy Weasley">Lucy Weasley</a> (cousin)</li><li><a href="/wiki/Charles_Weasley" title="Charles Weasley">Charles Weasley</a> (uncle)</li><li><a href="/wiki/Delacour_family" title="Delacour family">Delacour family</a></li><li><a href="/wiki/Weasley_family" title="Weasley family">Weasley family</a></li><li><a href="/wiki/Prewett_family" title="Prewett family">Prewett family</a></li><li><a href="/wiki/House_of_Black" title="House of Black">House of Black</a></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="romances">
+	
+		<h3 class="pi-data-label pi-secondary-font">Romances</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Edward_Lupin" title="Edward Lupin">Edward Lupin</a> (Boyfriend)</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a></li><li><a href="/wiki/Weasley_family" title="Weasley family">Weasley family</a></li><li><a href="/wiki/Delacour_family" title="Delacour family">Delacour family</a></li><li><a href="/wiki/Prewett_family" title="Prewett family">Prewett family</a></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Deathly Hallows">"<i>Our Teddy! </i><a href="/wiki/Edward_Lupin" title="Edward Lupin">Teddy Lupin</a><i>! Snogging </i>our<i> Victoire! </i>Our<i> cousin! And I asked Teddy what he was doing... and he said he had come to see her off! And then he told me to go away! He was </i>snogging<i> her!</i>"</span></dd>
+<dd>&#8212;Victoire's blossoming relationship<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Victoire Weasley</b> (b. <a href="/wiki/2_May" title="2 May">2 May</a>,<sup id="cite_ref-JKRV_1-1" class="reference"><a href="#cite_note-JKRV-1">&#91;1&#93;</a></sup> early <a href="/wiki/2000s" title="2000s">2000s</a>)<sup id="cite_ref-birthyear_2-1" class="reference"><a href="#cite_note-birthyear-2">&#91;2&#93;</a></sup> was a <a href="/wiki/Half-Veela" title="Half-Veela">part</a>-<a href="/wiki/Veela" title="Veela">veela</a> <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> and the eldest child of <a href="/wiki/William_Weasley" title="William Weasley">Bill</a> and <a href="/wiki/Fleur_Delacour" title="Fleur Delacour">Fleur Weasley</a> <span class="template-c">(née <a href="/wiki/Delacour_family" title="Delacour family">Delacour</a>)</span>.<sup id="cite_ref-msnbc_5-0" class="reference"><a href="#cite_note-msnbc-5">&#91;5&#93;</a></sup> She has two younger siblings, <a href="/wiki/Dominique_Weasley" title="Dominique Weasley">Dominique</a> and <a href="/wiki/Louis_Weasley" title="Louis Weasley">Louis Weasley</a>. Victoire started her education at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> in the early-to-mid <a href="/wiki/2010s" title="2010s">2010s</a>. She was also the girlfriend of <a href="/wiki/Edward_Lupin" title="Edward Lupin">Edward Lupin</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_life"><span class="tocnumber">1.1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Hogwarts_years"><span class="tocnumber">1.2</span> <span class="toctext">Hogwarts years</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Physical_appearance"><span class="tocnumber">2</span> <span class="toctext">Physical appearance</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Etymology"><span class="tocnumber">3</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Behind_the_scenes"><span class="tocnumber">4</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Appearances"><span class="tocnumber">5</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Notes_and_references"><span class="tocnumber">6</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Victoire_Weasley?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Victoire_Weasley?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Victoire_Weasley?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Early life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Victoire_Weasley?action=edit&amp;section=2" title="Edit section: Early life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Victoire was born on 2 May<sup id="cite_ref-JKRV_1-2" class="reference"><a href="#cite_note-JKRV-1">&#91;1&#93;</a></sup> in the early 2000s. She was given her name, which means "victory" in French, because her date of birth fell on the anniversary of the <a href="/wiki/Battle_of_Hogwarts" title="Battle of Hogwarts">Battle of Hogwarts</a>, in which <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a>, the <a href="/wiki/Order_of_the_Phoenix" title="Order of the Phoenix">Order of the Phoenix</a>, and allies prevailed against <a href="/wiki/Tom_Riddle" title="Tom Riddle">Lord Voldemort</a> and his <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a>.<sup id="cite_ref-JKRV_1-3" class="reference"><a href="#cite_note-JKRV-1">&#91;1&#93;</a></sup>
+</p><p>Victoire has two younger siblings: a sister, <a href="/wiki/Dominique_Weasley" title="Dominique Weasley">Dominique</a>, and a brother, <a href="/wiki/Louis_Weasley" title="Louis Weasley">Louis</a>.<sup id="cite_ref-WFT_6-0" class="reference"><a href="#cite_note-WFT-6">&#91;6&#93;</a></sup> Through her maternal great-grandmother, Victoire is <a href="/wiki/Half-Veela" title="Half-Veela">one-eighth</a> <a href="/wiki/Veela" title="Veela">Veela</a>. It is possible she lived at <a href="/wiki/Shell_Cottage" title="Shell Cottage">Shell Cottage</a> with her family.
+</p>
+<h3><span class="mw-headline" id="Hogwarts_years">Hogwarts years</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Victoire_Weasley?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Hogwarts years">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Victoire_Weasley?action=edit&amp;section=3" title="Edit section: Hogwarts years"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Victoire began attending <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> in the early-to-mid <a href="/wiki/2010s" title="2010s">2010s</a>.
+</p><p>When Victoire accompanied the rest of her family to the <a href="/wiki/Quidditch_World_Cup" title="Quidditch World Cup">Quidditch World Cup</a> in 2014, presumably she and Teddy Lupin were already in a relationship, as Rita Skeeter wrote of them snogging often. So much, in fact, they had their own section in Rita's article. The two of them sat together during the final match between <a href="/wiki/Bulgaria" title="Bulgaria">Bulgaria</a> and <a href="/wiki/Brazil" title="Brazil">Brazil</a>, but seemed more interested in talking than watching the match. Victoire's father finally swapped places with her and directed her attention to the pitch, although she sulked about it. Later, she and Teddy managed to "<i>find their way back into adjacent seats</i>".<sup id="cite_ref-PMRS_3-1" class="reference"><a href="#cite_note-PMRS-3">&#91;3&#93;</a></sup>
+</p><p>On 1 September, 2017, Victoire's by-then-graduated boyfriend came to see her off for another year at <a href="/wiki/King%27s_Cross_Station" title="King&#39;s Cross Station">King's Cross Station</a>. Victoire's cousin, <a href="/wiki/James_Potter_II" title="James Potter II">James Potter</a>, saw the couple snogging and interrupted them. When Teddy told him to leave, James returned to tell his family what he had seen, and his younger sister, <a href="/wiki/Lily_Potter" title="Lily Potter">Lily</a>, expressed her wish that Teddy and Victoire would marry someday, making Teddy an official part of the extended <a href="/wiki/Weasley_family" title="Weasley family">Weasley</a>-<a href="/wiki/Potter_family" title="Potter family">Potter</a> clan.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Physical_appearance">Physical appearance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Victoire_Weasley?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Physical appearance">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Victoire_Weasley?action=edit&amp;section=4" title="Edit section: Physical appearance"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Victoire was described as <i>"very good-looking,"</i><sup id="cite_ref-msnbc_5-1" class="reference"><a href="#cite_note-msnbc-5">&#91;5&#93;</a></sup> which presumably indicates that she took after either her mother, <a href="/wiki/Fleur_Delacour" title="Fleur Delacour">Fleur</a>, or her father, <a href="/wiki/William_Weasley" title="William Weasley">Bill</a>, or both, in appearance. It could also link to her Veela ancestry, which might consequently make her beauty more profound. <a href="/wiki/Rita_Skeeter" title="Rita Skeeter">Rita Skeeter</a> described her as blonde and beautiful.<sup id="cite_ref-PMRS_3-2" class="reference"><a href="#cite_note-PMRS-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Victoire_Weasley?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Victoire_Weasley?action=edit&amp;section=5" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Victoire means "victory" in <a href="/wiki/France" title="France">French</a>, the native language of her mother <a href="/wiki/Fleur_Delacour" title="Fleur Delacour">Fleur Delacour</a>, probably chosen because she was born on the anniversary of the <a href="/wiki/Battle_of_Hogwarts" title="Battle of Hogwarts">Battle of Hogwarts</a>.
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Victoire_Weasley?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Victoire_Weasley?action=edit&amp;section=6" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Both Victoire and <a href="/wiki/Edward_Lupin" title="Edward Lupin">Teddy Lupin</a> have fathers who were attacked by the werewolf <a href="/wiki/Fenrir_Greyback" title="Fenrir Greyback">Fenrir Greyback</a>.</li>
+<li>Both Victoire and Teddy Lupin have mothers with unique traits related to their physical appearances — <a href="/wiki/Fleur_Delacour" title="Fleur Delacour">Fleur Delacour</a> has <a href="/wiki/Veela" title="Veela">Veela</a> blood, and <a href="/wiki/Nymphadora_Tonks" title="Nymphadora Tonks">Nymphadora Tonks</a> was a <a href="/wiki/Metamorphmagus" title="Metamorphmagus">Metamorphmagus</a>.</li>
+<li>Victoire and Teddy are fourth cousins once removed as they are both distant descendants of <a href="/wiki/Phineas_Nigellus_Black" title="Phineas Nigellus Black">Phineas Nigellus Black</a>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup></li>
+<li>In <a href="/wiki/J.K._Rowling:_A_Year_in_the_Life" title="J.K. Rowling: A Year in the Life">J.K. Rowling: A Year in the Life</a>, when sketching the Weasley Family Tree, Rowling stated that Victoire was so named because she was born on the anniversary of the day the <a href="/wiki/Second_Wizarding_War" title="Second Wizarding War">Second Wizarding War</a> <a href="/wiki/2_May" title="2 May">ended</a>.</li>
+<li>Victoire is the last character introduced during the Harry Potter series.</li>
+<li>Victoire is likely an homage to Elanor Gamgee from <i><a href="http://en.wikipedia.org/wiki/The_Lord_of_the_Rings" class="extiw" title="wikipedia:The Lord of the Rings">The Lord of the Rings</a></i>, who was born on the anniversary of the downfall of Sauron. Both were noted to be very beautiful.</li>
+<li>Victoire is similar to her aunt, Ginny Weasley, in that both are women (last and first of their generations), both fell in love and have a relationship with war-orphaned men (Teddy Lupin and Harry Potter, respectively) and both were considered to be extremely beautiful from a young age.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Victoire_Weasley?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Victoire_Weasley?action=edit&amp;section=7" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">Harry Potter and the Deathly Hallows</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/J.K._Rowling:_A_Year_in_the_Life" title="J.K. Rowling: A Year in the Life">J.K. Rowling: A Year in the Life</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Victoire_Weasley?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Victoire_Weasley?action=edit&amp;section=8" title="Edit section: Notes and references

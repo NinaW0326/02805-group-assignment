@@ -1,0 +1,119 @@
+<div class="mw-parser-output"><table class="notice metadata" cellpadding="3px" style="text-align: center; background: snow; border: #a00 1px solid; margin: 1em 10% 1em 10%;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/1/16/Mirror_of_Erised.jpeg/revision/latest?cb=20090713064057" class="image"><img alt="Mirror of Erised.jpeg" src="https://static.wikia.nocookie.net/harrypotter/images/1/16/Mirror_of_Erised.jpeg/revision/latest/scale-to-width-down/80?cb=20090713064057" decoding="async" width="80" height="67" data-image-name="Mirror of Erised.jpeg" data-image-key="Mirror_of_Erised.jpeg" /></a>
+</td>
+<td><i><b>"Is this all real? Or has this been happening inside my head?"</b></i>
+<p>The topic of this article is of a real-life subject that has been mentioned "<a href="/wiki/Harry_Potter_Wiki:Policy#.22In-universe.22_point_of_view" title="Harry Potter Wiki:Policy">in-universe</a>" in a <a href="/wiki/Harry_Potter_Wiki:Canon" title="Harry Potter Wiki:Canon">canon</a> source. The <a href="/wiki/Harry_Potter_Wiki:About" title="Harry Potter Wiki:About">Harry Potter Wiki</a> is written from the perspective that all information presented in canon is true (e.g., <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts</a> really exists), and, as such, details contained in this article may differ from real world facts.
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-muggle pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/f/f2/Stephen_Hawking.jpg/revision/latest?cb=20091004232241" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/f/f2/Stephen_Hawking.jpg/revision/latest/scale-to-width-down/159?cb=20091004232241" srcset="https://static.wikia.nocookie.net/harrypotter/images/f/f2/Stephen_Hawking.jpg/revision/latest/scale-to-width-down/159?cb=20091004232241 1x, https://static.wikia.nocookie.net/harrypotter/images/f/f2/Stephen_Hawking.jpg/revision/latest/scale-to-width-down/318?cb=20091004232241 2x" class="pi-image-thumbnail" alt="" width="159" height="182"
+		     data-image-key="Stephen_Hawking.jpg" data-image-name="Stephen Hawking.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Stephen Hawking</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/8_January" title="8 January">8 January</a> <a href="/wiki/1942" title="1942">1942</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/14_March" title="14 March">14 March</a> <a href="/wiki/2018" title="2018">2018</a> (aged 76)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/England" title="England">English</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Brown</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>Theoretical physicist</li><li>Author</li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p><p><b>Stephen William Hawking</b> (<a href="/wiki/8_January" title="8 January">8 January</a> <a href="/wiki/1942" title="1942">1942</a> — <a href="/wiki/14_March" title="14 March">14 March</a> <a href="/wiki/2018" title="2018">2018</a>) was an <a href="/wiki/England" title="England">English</a> <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> theoretical physicist internationally considered the best since <a href="/wiki/Albert_Einstein" title="Albert Einstein">Albert Einstein</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup><sup id="cite_ref-poa-film_2-0" class="reference"><a href="#cite_note-poa-film-2">&#91;2&#93;</a></sup> He died on the 14th of March 2018.
+</p>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Stephen_Hawking?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Stephen_Hawking?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>When <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> arrived at <a href="/wiki/Leaky_Cauldron" title="Leaky Cauldron">The Leaky Cauldron</a> after fleeing the <a href="/wiki/Dursley_family" title="Dursley family">Dursley</a> <a href="/wiki/4_Privet_Drive" title="4 Privet Drive">house</a> in <a href="/wiki/1993" title="1993">1993</a>, there was a <a href="/wiki/Wizard_in_the_Leaky_Cauldron" title="Wizard in the Leaky Cauldron">wizard</a> sitting at a table reading <i><a href="/wiki/A_Brief_History_of_Time" title="A Brief History of Time">A Brief History of Time</a></i>, a best-selling popular science book written by Hawking.<sup id="cite_ref-poa-film_2-1" class="reference"><a href="#cite_note-poa-film-2">&#91;2&#93;</a></sup>
+</p><p>At the time of this book's publication, Hawking had been living with <a href="/wiki/Lou_Gehrig%27s_disease" title="Lou Gehrig&#39;s disease">Lou Gehrig's disease</a> for over twenty years, requiring him to use a <a href="/wiki/Wheelchair" title="Wheelchair">wheelchair</a>.<sup id="cite_ref-poa-film_2-2" class="reference"><a href="#cite_note-poa-film-2">&#91;2&#93;</a></sup>
+</p><p>Coincidentally, Hawking died on the same date (14 March) as Albert Einstein was born, and at the same age (76) at which Einstein died.
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Stephen_Hawking?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Stephen_Hawking?action=edit&amp;section=2" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The name "Stephen" comes from the Greek name Στεφανος (Stephanos) meaning "crown".
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Stephen_Hawking?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Stephen_Hawking?action=edit&amp;section=3" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Stephen Hawking was portrayed by <a href="/wiki/Eddie_Redmayne" title="Eddie Redmayne">Eddie Redmayne</a>, who portrayed <a href="/wiki/Newton_Scamander" title="Newton Scamander">Newt Scamander</a> in the film <i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(film)" title="Fantastic Beasts and Where to Find Them (film)">Fantastic Beasts and Where to Find Them</a></i>, in the 2014 film <i>The Theory of Everything</i>. For his performance, Redmayne won the <a href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Actor" class="extiw" title="wikipedia:Academy Award for Best Actor">Academy Award for Best Actor</a>.</li>
+<li>Stephen Hawking was also played by <a href="http://en.wikipedia.org/wiki/Benedict_Cumberbatch" class="extiw" title="wikipedia:Benedict Cumberbatch">Benedict Cumberbatch</a> in the 2004 BBC television film <i><a href="http://en.wikipedia.org/wiki/Hawking_(2004_film)" class="extiw" title="wikipedia:Hawking (2004 film)">Hawking</a></i>. Cumberbatch voiced a spoof of <a href="/wiki/Alan_Rickman" title="Alan Rickman">Alan Rickman</a>'s portrayal of <a href="/wiki/Severus_Snape" title="Severus Snape">Severus Snape</a> in an episode of <i><a href="/wiki/The_Simpsons" title="The Simpsons">The Simpsons</a></i>.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Stephen_Hawking?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Stephen_Hawking?action=edit&amp;section=4" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(film)" title="Harry Potter and the Prisoner of Azkaban (film)">Harry Potter and the Prisoner of Azkaban (film)</a></i> <small>(Appears in photographs)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Stephen_Hawking?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Stephen_Hawking?action=edit&amp;section=5" title="Edit section: Notes and references

@@ -1,0 +1,154 @@
+<div class="mw-parser-output"><table class="notice metadata" id="spoiler" style="text-align: center; background: beige; margin: 1em 05%; padding: 0 1em; border: #a00 1px solid;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/e/ea/Wizards_Unite_logo.jpg/revision/latest?cb=20181114170049" class="image"><img alt="Wizards Unite logo.jpg" src="https://static.wikia.nocookie.net/harrypotter/images/e/ea/Wizards_Unite_logo.jpg/revision/latest/scale-to-width-down/175?cb=20181114170049" decoding="async" width="175" height="98" data-image-name="Wizards Unite logo.jpg" data-image-key="Wizards_Unite_logo.jpg" /></a>
+</td>
+<td><b>Warning!</b>
+<p>At least some content in this article is derived from information featured in <i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i>. As such, spoilers will be present within the article.
+</p><p>For gameplay-specific information, please see the relevant article on <a href="https://harrypotterwizardsunite.fandom.com/wiki/Gethsemane_Prickle" class="extiw" title="w:c:harrypotterwizardsunite:Gethsemane Prickle">the Harry Potter: Wizards Unite Wiki!</a>
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-mom pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/d/d9/Gethsemane_Prickle.png/revision/latest?cb=20161027072744" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/d/d9/Gethsemane_Prickle.png/revision/latest/scale-to-width-down/350?cb=20161027072744" srcset="https://static.wikia.nocookie.net/harrypotter/images/d/d9/Gethsemane_Prickle.png/revision/latest/scale-to-width-down/350?cb=20161027072744 1x, https://static.wikia.nocookie.net/harrypotter/images/d/d9/Gethsemane_Prickle.png/revision/latest/scale-to-width-down/700?cb=20161027072744 2x" class="pi-image-thumbnail" alt="" width="270" height="379"
+		     data-image-key="Gethsemane_Prickle.png" data-image-name="Gethsemane Prickle.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Gethsemane Prickle</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Grey</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Green</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Light</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Magical characteristics</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="wand">
+	
+		<h3 class="pi-data-label pi-secondary-font">Wand</h3>
+	
+	<div class="pi-data-value pi-font">Unknown length, wood and core</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Herbologist" title="Herbologist">Herbologist</a></li><li><a href="/wiki/Potioneer" title="Potioneer">Potioneer</a></li><li><a href="/wiki/Head_of_Department" title="Head of Department">Head</a> of the <a href="/wiki/Department_for_the_Regulation_and_Control_of_Magical_Creatures" title="Department for the Regulation and Control of Magical Creatures">Department for the Regulation and Control of Magical Creatures</a></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">British Ministry of Magic</a><ul><li><a href="/wiki/Department_for_the_Regulation_and_Control_of_Magical_Creatures" title="Department for the Regulation and Control of Magical Creatures">Department for the Regulation and Control of Magical Creatures</a></li></ul></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Fantastic Beasts: Cases from the Wizarding World">"<i>I'm Gethsemane Prickle, Herbologist and Potioneer. Pay attention and you'll do fine.</i>"</span></dd>
+<dd>&#8212;Gethsemane Prickle<sup class="noprint"><a href="/wiki/Fantastic_Beasts:_Cases_from_the_Wizarding_World" title="Fantastic Beasts: Cases from the Wizarding World">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Gethsemane Prickle</b> was a <a href="/wiki/Great_Britain" title="Great Britain">British</a>&#160;<a href="/wiki/Wizardkind" title="Wizardkind">witch</a> and specialist in <a href="/wiki/Herbology" title="Herbology">Herbology</a> and <a href="/wiki/Potion" title="Potion">Potions</a> who, in the course of her work for the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">British Ministry of Magic</a>, became Head of the <a href="/wiki/Department_for_the_Regulation_and_Control_of_Magical_Creatures" title="Department for the Regulation and Control of Magical Creatures">Department for the Regulation and Control of Magical Creatures</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> Gethsemane Prickle lived to be at least 61 years old.<sup id="cite_ref-FBC9-1_2-0" class="reference"><a href="#cite_note-FBC9-1-2">&#91;2&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Physical_appearance"><span class="tocnumber">2</span> <span class="toctext">Physical appearance</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Personality_and_traits"><span class="tocnumber">3</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Magical_abilities_and_skills"><span class="tocnumber">4</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Possessions"><span class="tocnumber">5</span> <span class="toctext">Possessions</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Etymology"><span class="tocnumber">6</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Appearances"><span class="tocnumber">7</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Notes_and_references"><span class="tocnumber">8</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gethsemane_Prickle?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gethsemane_Prickle?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The scion of a family of unknown wizarding descent, Gethsemane Prickle was born somewhere in the <a href="/wiki/Great_Britain" title="Great Britain">British Isles</a> and presumably attended <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> during her formative years, as is the case with nearly all magical children born in the wizarding community of Great Britain.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> In adulthood, Madam Prickle became an accomplished <a href="/wiki/Herbologist" title="Herbologist">Herbologist</a> and <a href="/wiki/Potioneer" title="Potioneer">Potioneer</a>, and eventually, she found employment at the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">British Ministry of Magic</a>, where she was hired by the Ministry's <a href="/wiki/Ministry_of_Magic_research_wing" title="Ministry of Magic research wing">research wing</a> and was assigned to the <a href="/wiki/Department_for_the_Regulation_and_Control_of_Magical_Creatures" title="Department for the Regulation and Control of Magical Creatures">Department for the Regulation and Control of Magical Creatures</a>. She was not invited to join the <a href="/wiki/Order_of_the_Phoenix" title="Order of the Phoenix">Order of the Phoenix</a> during the two uprisings of <a href="/wiki/Tom_Riddle" title="Tom Riddle">Lord Voldemort</a>, but she would later point out that even so; "there were other - and some might say better - ways to combat the Dark Lord," showing that she did indeed participate in the anti-Voldemort movement.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p><p>Later in her career, she would eventually find herself called in for consultation by the <a href="/wiki/Beast_Division" title="Beast Division">Beast Division</a> more than once, and assist among others <a href="/wiki/Mathilda_Grimblehawk" title="Mathilda Grimblehawk">Mathilda Grimblehawk</a> and <a href="/wiki/Mathilda_Grimblehawk%27s_partner" title="Mathilda Grimblehawk&#39;s partner">her partner</a> in solving investigations tied to creature-related incidents.<sup id="cite_ref-FBC9-12_5-0" class="reference"><a href="#cite_note-FBC9-12-5">&#91;5&#93;</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p><p>At some point prior to <a href="/wiki/2006" title="2006">2006</a>, she learned that a woman by the name of <a href="/wiki/Penelope_Fawley" title="Penelope Fawley">Penelope Padgett</a> had joined the <a href="/wiki/Department_of_Magical_Law_Enforcement" title="Department of Magical Law Enforcement">Department of Magical Law Enforcement</a> and sent a <a href="/wiki/Interdepartmental_memo" title="Interdepartmental memo">memo</a> to the Head of the <a href="/wiki/Auror_Office" title="Auror Office">Auror Office</a>, <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a>, and tried unsuccessfully to warn him about her, suspecting that she had ill-intentions, as her parents had been strong and outspoken supporters of <a href="/wiki/Tom_Riddle" title="Tom Riddle">Lord Voldemort</a> during the <a href="/wiki/Second_Wizarding_War" title="Second Wizarding War">Second Wizarding War</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> Having carried out her duties to the satisfaction of her superiors for a number of years, she was eventually promoted to <a href="/wiki/Head_of_Department" title="Head of Department">Head of Department</a> by <a href="/wiki/2019" title="2019">2019</a>.<sup id="cite_ref-:1_9-0" class="reference"><a href="#cite_note-:1-9">&#91;9&#93;</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p><p>After the Ministry of Magic became the Calamity World Centre in the wizarding world, she went on to help prepare members of the newly-created <a href="/wiki/Statute_of_Secrecy_Task_Force" title="Statute of Secrecy Task Force">Statute of Secrecy Task Force</a> who sought a career as <a href="/wiki/Magizoologist" title="Magizoologist">Magizoologist</a> prepare for the threat they would be facing. Apparently occupying a role of leadership, she he was in a position to demand that such individuals had to build an immunity to the <a href="/wiki/Billywig_sting" title="Billywig sting">stings</a> from a <a href="/wiki/Billywig" title="Billywig">Billywig</a> in order to "earn their stripes" and join the task force.<sup id="cite_ref-:0_11-0" class="reference"><a href="#cite_note-:0-11">&#91;11&#93;</a></sup> She would later on task one of them with sorting out an infestation of <a href="/wiki/Doxy" title="Doxy">Doxies</a> from the drapes somewhere at the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">Calamity World Centre</a>, which would improve their <a href="/wiki/Spell" title="Spell">spell</a>-casting to the point of making it easier to hit evasive foes.<sup id="cite_ref-:0_11-1" class="reference"><a href="#cite_note-:0-11">&#91;11&#93;</a></sup> At some point, she would also advise at least one of the members of the aforementioned task force to live among <a href="/wiki/Centaur" title="Centaur">Centaurs</a>. While this went horribly wrong, it did help said individual in acquiring many important survival skills.<sup id="cite_ref-:0_11-2" class="reference"><a href="#cite_note-:0-11">&#91;11&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Physical_appearance">Physical appearance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gethsemane_Prickle?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Physical appearance">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gethsemane_Prickle?action=edit&amp;section=2" title="Edit section: Physical appearance"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Gethsemane had medium length grey hair, white skin and green eyes with thin brown-rimmed glasses. She often wore a bright red beaded necklace with many brightly coloured bangles and rings on her arms and hands.
+</p>
+<h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gethsemane_Prickle?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Personality and traits">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gethsemane_Prickle?action=edit&amp;section=3" title="Edit section: Personality and traits"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>While rather stern compared to associates such as <a href="/wiki/Myra_Curio" title="Myra Curio">Myra Curio</a> and <a href="/wiki/Sage_Bragnam" title="Sage Bragnam">Sage Bragnam</a>, being often brief and to-the-point and impersonally addressing those around her by their surnames, Gethsemane nevertheless maintained a fairly courteous and very professional demeanour around her co-workers, and was even known to have exchanged the occasional quip with those she got well along well with, such as <a href="/wiki/Mathilda_Grimblehawk" title="Mathilda Grimblehawk">Mathilda Grimblehawk</a>,<sup id="cite_ref-:2_12-0" class="reference"><a href="#cite_note-:2-12">&#91;12&#93;</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup> A straight-laced, conventional woman, she was known to have a strong dislike of aberrant developments during the course of her duties, such as when he passive-aggressively voiced her discontent to Grimblehawk and her <a href="/wiki/Mathilda_Grimblehawk%27s_partner" title="Mathilda Grimblehawk&#39;s partner">partner</a> with being sent a "bag of bones" to examine, only letting it slide without rebuking them because the former Magizoologist complimented her intellect.<sup id="cite_ref-:2_12-1" class="reference"><a href="#cite_note-:2-12">&#91;12&#93;</a></sup> Secure in her own judgement and never shy about letting her voice be heard, she did not allow <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a>'s celebrity status to colour her opinion, as seen by how openly critical she was of his decision to vouch for <a href="/wiki/Penelope_Fawley" title="Penelope Fawley">Penelope Padgett</a>'s promotion to the <a href="/wiki/Auror_Office" title="Auror Office">Auror Office</a>, given her parents' status as <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a>.<sup id="cite_ref-:1_9-1" class="reference"><a href="#cite_note-:1-9">&#91;9&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gethsemane_Prickle?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gethsemane_Prickle?action=edit&amp;section=4" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Herbology" title="Herbology">Herbology</a></b>: An authority on the subject of <a href="/wiki/Herbology" title="Herbology">Herbology</a> and a professional <a href="/wiki/Herbologist" title="Herbologist">Herbologist</a>, Madam Prickle was a certified expert on the topic of <a href="/wiki/Magic" title="Magic">magical</a> plants and fungi, and are as such highly familiar with their characteristics, classification, properties and their usages. She was also knowledgeable when it came to their roles as ingredients to various potions.</li>
+<li><b><a href="/wiki/Potion" title="Potion">Potions</a></b>: Madam Prickle was extremely proficient in the subtle art and <a href="/wiki/Science" title="Science">science</a> of potion-making, being able to brew a wide variety of such concoctions for the colleagues when called upon to do so, without fail. She was also was able to identify different&#160;potions&#160;and their effects by examining their appearance and smell, even when she had only residue to work with. She also possessed an encyclopedic knowledge on potion ingredients and which ones were used in which potions, being even able to recognise if a given combination of ingredients could produce a viable potion known to <a href="/wiki/Wizardkind" title="Wizardkind">Wizardkind</a> or not.</li>
+<li><b><a href="/wiki/Magizoology" title="Magizoology">Magizoology</a></b>: As a consultant to the <a href="/wiki/Beast_Division" title="Beast Division">Beast Division</a>, and later as the <a href="/wiki/Head_of_Department" title="Head of Department">Head</a> of the <a href="/wiki/Department_for_the_Regulation_and_Control_of_Magical_Creatures" title="Department for the Regulation and Control of Magical Creatures">Department for the Regulation and Control of Magical Creatures</a>, Madam Prickle had&#160;a very high level of knowledge regarding&#160;<a href="/wiki/Magic" title="Magic">magical</a>&#160;<a href="/wiki/Creature" title="Creature">creatures</a>, knowing how to&#160;classify&#160;them and the various laws regulating the ownership of such creatures.</li></ul>
+<h2><span class="mw-headline" id="Possessions">Possessions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gethsemane_Prickle?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Possessions">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gethsemane_Prickle?action=edit&amp;section=5" title="Edit section: Possessions"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Wand" title="Wand">Wand</a></b>: Gesthemane owned a wand, which was of an unknown length, <a href="/wiki/Wand_wood" title="Wand wood">wand wood</a> and <a href="/wiki/Wand_core" title="Wand core">wand core</a>.</li>
+<li><b><a href="/wiki/Augurey" title="Augurey">Augurey</a></b>: Gethsemane owned an Augurey that was always perched on her shoulder.</li></ul>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gethsemane_Prickle?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gethsemane_Prickle?action=edit&amp;section=6" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="http://en.wikipedia.org/wiki/Gethsemane" class="extiw" title="wikipedia:Gethsemane">Gethsemane</a> is a location in ancient <a href="http://en.wikipedia.org/wiki/Jerusalem" class="extiw" title="wikipedia:Jerusalem">Jerusalem</a>, a garden at the foot of <a href="http://en.wikipedia.org/wiki/Mount_Olivet" class="extiw" title="wikipedia:Mount Olivet">Mount Olivet</a>, most famous as the place where, according to the biblical narrative, <a href="/wiki/Jesus" title="Jesus">Jesus</a> prayed and his disciples slept the night before His crucifixion.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gethsemane_Prickle?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gethsemane_Prickle?action=edit&amp;section=7" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 3 images related to <i><b><a href="/wiki/Category:Images_of_Gethsemane_Prickle" title="Category:Images of Gethsemane Prickle">Gethsemane Prickle</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<ul><li><i><a href="/wiki/Fantastic_Beasts:_Cases_from_the_Wizarding_World" title="Fantastic Beasts: Cases from the Wizarding World">Fantastic Beasts: Cases from the Wizarding World</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gethsemane_Prickle?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gethsemane_Prickle?action=edit&amp;section=8" title="Edit section: Notes and references

@@ -1,0 +1,122 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-individual pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/9/9e/Irma_Dugard.png/revision/latest?cb=20190102134738" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/9/9e/Irma_Dugard.png/revision/latest/scale-to-width-down/239?cb=20190102134738" srcset="https://static.wikia.nocookie.net/harrypotter/images/9/9e/Irma_Dugard.png/revision/latest/scale-to-width-down/239?cb=20190102134738 1x, https://static.wikia.nocookie.net/harrypotter/images/9/9e/Irma_Dugard.png/revision/latest/scale-to-width-down/478?cb=20190102134738 2x" class="pi-image-thumbnail" alt="" width="239" height="318"
+		     data-image-key="Irma_Dugard.png" data-image-name="Irma Dugard.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Irma Dugard</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">before <a href="/wiki/1901" title="1901">1901</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font">Early September <a href="/wiki/1927" title="1927">1927</a>, <a href="/wiki/18_Rue_Philippe_Lorand" title="18 Rue Philippe Lorand">18 Rue Philippe Lorand</a>, <a href="/wiki/Paris" title="Paris">Paris</a>, <a href="/wiki/France" title="France">France</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Part_elf" title="Part elf">Half-elf</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/France" title="France">French</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Part_elf" title="Part elf">Half-elf</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Housekeeper of the Lestrange family</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Lestrange_family" title="Lestrange family">Lestrange family</a></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+<b>Irma Dugard</b> was a <a href="/wiki/France" title="France">French</a> <a href="/wiki/Part_elf" title="Part elf">half-elf</a> who worked as a housekeeper for the <a href="/wiki/Lestrange_family" title="Lestrange family">Lestrange family</a>. She took care of the young <a href="/wiki/Aurelius_Dumbledore" class="mw-redirect" title="Aurelius Dumbledore">Credence Barebone</a>, signing his adoption paper.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#1901"><span class="tocnumber">1.1</span> <span class="toctext">1901</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#1927"><span class="tocnumber">1.2</span> <span class="toctext">1927</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Etymology"><span class="tocnumber">2</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Behind_the_scenes"><span class="tocnumber">3</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Appearances"><span class="tocnumber">4</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Notes_and_references"><span class="tocnumber">5</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Irma_Dugard?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Irma_Dugard?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="1901">1901</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Irma_Dugard?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: 1901">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Irma_Dugard?action=edit&amp;section=2" title="Edit section: 1901"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In c. <a href="/wiki/1901" title="1901">1901</a> Irma Dugard was working for <a href="/wiki/Corvus_Lestrange_(IV)" title="Corvus Lestrange (IV)">Corvus Lestrange</a>. After the birth of his son, <a href="/wiki/Corvus_Lestrange_(V)" title="Corvus Lestrange (V)">Corvus</a>, the former sent the half-elf with his two children, the other being <a href="/wiki/Leta_Lestrange" title="Leta Lestrange">Leta Lestrange</a>, to <a href="/wiki/New_York" title="New York">New York</a> for them to be adopted by <a href="/wiki/Mary_Lou_Barebone" title="Mary Lou Barebone">Mary Lou Barebone</a>. Corvus was being targeted by Yusuf Kama, and he was sent away for his safety. Irma and the children posed as a grandmother with two grandchildren. They boarded a ship, where Irma met a woman travelling with her nephew. Presumably they became acquainted with each other, since the woman would call her by her given name. On the trip however, there was a commotion and Irma left her cabin to investigate it. Meanwhile frustrated with Corvus' constant screaming, <a href="/wiki/Leta_Lestrange" title="Leta Lestrange">Leta Lestrange</a> exchanged her half-brother with another baby, the woman's nephew, who turned out to be <a href="/wiki/Credence_Barebone" title="Credence Barebone">Credence Barebone</a>, saving the latter's life as the ship they were travelling on sunk during a storm. When Irma realised the ship was sinking, she went back to the cabin for the children, only to find Leta in the corridor with a baby, whom she presumed to be Corvus. She took the child from Leta and dragged her along as they left the ship. They escaped in lifeboats, but Irma never learn that Corvus died.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="1927">1927</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Irma_Dugard?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: 1927">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Irma_Dugard?action=edit&amp;section=3" title="Edit section: 1927"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In <a href="/wiki/1927" title="1927">1927</a>, she was visited by Credence, who wanted to learn the truth about his family.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> After an unfortunately short meeting, she was killed by <a href="/wiki/Gunnar_Grimmson" title="Gunnar Grimmson">Gunnar Grimmson</a> on <a href="/wiki/Gellert_Grindelwald" title="Gellert Grindelwald">Gellert Grindelwald</a>'s orders.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Irma_Dugard?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Irma_Dugard?action=edit&amp;section=4" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Dugard is likely derived from the French "du garde" which translates to "of the guard".</li></ul>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Irma_Dugard?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Irma_Dugard?action=edit&amp;section=5" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Irma Dugard was portrayed by <a href="/wiki/Daniele_Hugues" title="Daniele Hugues">Daniele Hugues</a></li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Irma_Dugard?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Irma_Dugard?action=edit&amp;section=6" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 7 images related to <i><b><a href="/wiki/Category:Images_of_Irma_Dugard" title="Category:Images of Irma Dugard">Irma Dugard</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<ul><li><i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them:_The_Original_Screenplay" title="Fantastic Beasts and Where to Find Them: The Original Screenplay">Fantastic Beasts and Where to Find Them: The Original Screenplay</a></i> <small>(Indirectly mentioned only)</small></li>
+<li><i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(film)" title="Fantastic Beasts and Where to Find Them (film)">Fantastic Beasts and Where to Find Them (film)</a></i> <small>(Indirectly mentioned only)</small></li>
+<li><i><a href="/wiki/Fantastic_Beasts:_The_Crimes_of_Grindelwald_-_The_Original_Screenplay" title="Fantastic Beasts: The Crimes of Grindelwald - The Original Screenplay">Fantastic Beasts: The Crimes of Grindelwald - The Original Screenplay</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Fantastic_Beasts:_The_Crimes_of_Grindelwald" title="Fantastic Beasts: The Crimes of Grindelwald">Fantastic Beasts: The Crimes of Grindelwald</a></i></li>
+<li><i><a href="/wiki/The_Archive_of_Magic:_The_Film_Wizardry_of_Fantastic_Beasts:_The_Crimes_of_Grindelwald" title="The Archive of Magic: The Film Wizardry of Fantastic Beasts: The Crimes of Grindelwald">The Archive of Magic: The Film Wizardry of Fantastic Beasts: The Crimes of Grindelwald</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Irma_Dugard?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Irma_Dugard?action=edit&amp;section=7" title="Edit section: Notes and references

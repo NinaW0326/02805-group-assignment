@@ -1,0 +1,101 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default"><section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Geraint Ollivander</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">Middle Ages</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Pure-blood" title="Pure-blood">Pure-blood</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Ollivander_(382_B.C._era)" title="Ollivander (382 B.C. era)">Ollivander</a> (ancestor)</li><li><a href="/wiki/Gerbold_Ollivander" title="Gerbold Ollivander">Gerbold Ollivander</a> (descendant)</li><li><a href="/wiki/Gervaise_Ollivander" title="Gervaise Ollivander">Gervaise Ollivander</a> (descendant)</li><li><a href="/wiki/Garrick_Ollivander" title="Garrick Ollivander">Garrick Ollivander</a> (descendant)</li><li><a href="/wiki/Garrick_Ollivander%27s_son" title="Garrick Ollivander&#039;s son">Mr Ollivander</a> (descendant)</li><li><a href="/wiki/Garrick_Ollivander%27s_daughter" title="Garrick Ollivander&#039;s daughter">Ms. Ollivander</a> (descendant) †</li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Wandmaker" title="Wandmaker">Wandmaker</a></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Pottermore">"<i>The great mediaeval wandmaker, Geraint Ollivander, wrote that he was always honoured to match a cypress wand, for he knew he was meeting a witch or wizard who would die a heroic death.</i>"</span></dd>
+<dd>&#8212;<a href="/wiki/Garrick_Ollivander" title="Garrick Ollivander">Garrick Ollivander</a>.<sup class="noprint"><a href="/wiki/Pottermore" title="Pottermore">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Geraint Ollivander</b> was a great <a href="/wiki/Wandmaker" title="Wandmaker">wandmaker</a> who lived in the Middle Ages. Geraint came from a <a href="/wiki/Ollivander_family" title="Ollivander family">long line</a> of <a href="/wiki/Wizardkind" title="Wizardkind">wizards</a> who began <a href="/wiki/Ollivanders" title="Ollivanders">selling wands</a> in <a href="/wiki/B.C._era" title="B.C. era">382 B.C</a>.<sup id="cite_ref-pottermore_2-0" class="reference"><a href="#cite_note-pottermore-2">&#91;2&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_life"><span class="tocnumber">1.1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Career_as_a_wandmaker"><span class="tocnumber">1.2</span> <span class="toctext">Career as a wandmaker</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Etymology"><span class="tocnumber">2</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Appearances"><span class="tocnumber">3</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Notes_and_references"><span class="tocnumber">4</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Geraint_Ollivander?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Geraint_Ollivander?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Geraint_Ollivander?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Early life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Geraint_Ollivander?action=edit&amp;section=2" title="Edit section: Early life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Geraint Ollivander was born in the Middle Ages, somewhere in <a href="/wiki/Great_Britain" title="Great Britain">Great Britain</a>. He was born into the <a href="/wiki/Wizardkind" title="Wizardkind">wizarding</a> <a href="/wiki/Ollivander_family" title="Ollivander family">Ollivander family</a>, who had been in the <a href="/wiki/Ollivanders" title="Ollivanders">wand-making business</a> since <a href="/wiki/B.C._era" title="B.C. era">382 B.C</a>.<sup id="cite_ref-pottermore_2-1" class="reference"><a href="#cite_note-pottermore-2">&#91;2&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Career_as_a_wandmaker">Career as a wandmaker</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Geraint_Ollivander?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Career as a wandmaker">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Geraint_Ollivander?action=edit&amp;section=3" title="Edit section: Career as a wandmaker"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Geraint took up the <a href="/wiki/Ollivanders" title="Ollivanders">family business</a> in <a href="/wiki/London" title="London">London</a>, studying further into <a href="/wiki/Wandlore" title="Wandlore">wandlore</a> and becoming an accomplished wandmaker. He considered it an honour to match a <a href="/wiki/Wizardkind" title="Wizardkind">witch or wizard</a> with a wand made from the <a href="/wiki/Wand_wood" title="Wand wood">wood</a> of the <a href="/wiki/Cypress" title="Cypress">cypress</a> tree because it indicated he had met someone who was going to die heroically, and left that fact in his writings.<sup id="cite_ref-pottermore_2-2" class="reference"><a href="#cite_note-pottermore-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Geraint_Ollivander?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Geraint_Ollivander?action=edit&amp;section=4" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>"Geraint" is a name of unknown origin, possibly a Welsh form of the Late Roman name "Gerontius" deriving from Greek γερων (geron), meaning "old man". <a href="http://en.wikipedia.org/wiki/Geraint" class="extiw" title="wikipedia:Geraint">Geraint</a> was the name of a figure various Welsh legends. He was also incorprorated into later Arthurian tales as one of the knights of the Round Table and the husband of <a href="http://en.wikipedia.org/wiki/Enide" class="extiw" title="wikipedia:Enide">Enid</a>.<sup id="cite_ref-BTN_3-0" class="reference"><a href="#cite_note-BTN-3">&#91;3&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Geraint_Ollivander?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Geraint_Ollivander?action=edit&amp;section=5" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Wizarding_World_(website)" title="Wizarding World (website)">Wizarding World</a></i> <small>(Mentioned only)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Geraint_Ollivander?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Geraint_Ollivander?action=edit&amp;section=6" title="Edit section: Notes and references

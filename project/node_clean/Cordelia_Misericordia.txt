@@ -1,0 +1,109 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-hag pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/7/71/Cordelia_Misericordia.jpg/revision/latest?cb=20090725233953" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/7/71/Cordelia_Misericordia.jpg/revision/latest/scale-to-width-down/350?cb=20090725233953" srcset="https://static.wikia.nocookie.net/harrypotter/images/7/71/Cordelia_Misericordia.jpg/revision/latest/scale-to-width-down/350?cb=20090725233953 1x, https://static.wikia.nocookie.net/harrypotter/images/7/71/Cordelia_Misericordia.jpg/revision/latest/scale-to-width-down/700?cb=20090725233953 2x" class="pi-image-thumbnail" alt="" width="270" height="345"
+		     data-image-key="Cordelia_Misericordia.jpg" data-image-name="Cordelia Misericordia.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Cordelia Misericordia</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/1298" class="mw-redirect" title="1298">1298</a><sup id="cite_ref-POAG_1-0" class="reference"><a href="#cite_note-POAG-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/1401" class="mw-redirect" title="1401">1401</a> (aged 102-103)<sup id="cite_ref-POAG_1-1" class="reference"><a href="#cite_note-POAG-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a><sup id="cite_ref-POAG_1-2" class="reference"><a href="#cite_note-POAG-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Hag" title="Hag">Hag</a><sup id="cite_ref-POAG_1-3" class="reference"><a href="#cite_note-POAG-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female<sup id="cite_ref-POAG_1-4" class="reference"><a href="#cite_note-POAG-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Brown<sup id="cite_ref-POAG_1-5" class="reference"><a href="#cite_note-POAG-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Green<sup id="cite_ref-POAG_1-6" class="reference"><a href="#cite_note-POAG-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Pale<sup id="cite_ref-POAG_1-7" class="reference"><a href="#cite_note-POAG-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Representative<sup id="cite_ref-POAG_1-8" class="reference"><a href="#cite_note-POAG-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Wizards%27_Council" title="Wizards&#039; Council">Wizards' Council</a><sup id="cite_ref-POAG_1-9" class="reference"><a href="#cite_note-POAG-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Cordelia Misericordia</b> (<a href="/wiki/1298" class="mw-redirect" title="1298">1298</a>-<a href="/wiki/1401" class="mw-redirect" title="1401">1401</a>) was a <a href="/wiki/Great_Britain" title="Great Britain">British</a> <a href="/wiki/Hag" title="Hag">hag</a> who lived in the <a href="/wiki/Middle_Ages" title="Middle Ages">Middle Ages</a>. She represented the <a href="/wiki/Hag" title="Hag">hags</a> at a fourteenth century summit of the <a href="/wiki/Wizards%27_Council" title="Wizards&#39; Council">Wizards' Council</a>.<sup id="cite_ref-POAG_1-10" class="reference"><a href="#cite_note-POAG-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Cordelia_Misericordia?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Cordelia_Misericordia?action=edit&amp;section=1" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i>Misericordia</i> is a <a href="/wiki/Latin" title="Latin">Latin</a> word meaning "mercy", "pity", "compassion" or "sympathy".<sup id="cite_ref-GT_2-0" class="reference"><a href="#cite_note-GT-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Cordelia_Misericordia?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Cordelia_Misericordia?action=edit&amp;section=2" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(video_game)" title="Harry Potter and the Prisoner of Azkaban (video game)">Harry Potter and the Prisoner of Azkaban (video game)</a></i> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Cordelia_Misericordia?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Cordelia_Misericordia?action=edit&amp;section=3" title="Edit section: Notes and references

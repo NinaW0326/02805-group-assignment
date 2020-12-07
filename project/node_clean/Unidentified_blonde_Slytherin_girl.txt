@@ -1,0 +1,138 @@
+<div class="mw-parser-output"><table class="notice metadata" cellpadding="3px" style="text-align: center; background: snow; border: #a00 1px solid; margin: 1em 10% 1em 10%;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/1/11/Hermione_Granger_%28HBP_promo%29_5.jpg/revision/latest?cb=20090817203540" class="image"><img alt="Hermione Granger (HBP promo) 5.jpg" src="https://static.wikia.nocookie.net/harrypotter/images/1/11/Hermione_Granger_%28HBP_promo%29_5.jpg/revision/latest/scale-to-width-down/60?cb=20090817203540" decoding="async" width="60" height="80" data-image-name="Hermione Granger (HBP promo) 5.jpg" data-image-key="Hermione_Granger_(HBP_promo)_5.jpg" /></a>
+</td>
+<td><i><b>"Are you a wizard or not?"</b></i>
+<p>The title of this article is conjectural.  Although it is based on <a href="/wiki/Canon" title="Canon">canonical information</a>, the actual name is a conjecture and may be supplanted at any time by additional information released from canonical sources.  If this occurs, please move this page to the appropriate title.
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-slytherin pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/3/3c/Blonde_Slytherin_girl.jpg/revision/latest?cb=20160730165239" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/3/3c/Blonde_Slytherin_girl.jpg/revision/latest/scale-to-width-down/317?cb=20160730165239" srcset="https://static.wikia.nocookie.net/harrypotter/images/3/3c/Blonde_Slytherin_girl.jpg/revision/latest/scale-to-width-down/317?cb=20160730165239 1x, https://static.wikia.nocookie.net/harrypotter/images/3/3c/Blonde_Slytherin_girl.jpg/revision/latest/scale-to-width-down/634?cb=20160730165239 2x" class="pi-image-thumbnail" alt="" width="270" height="394"
+		     data-image-key="Order-of-the-phoenix-daphne.jpg" data-image-name="Order-of-the-phoenix-daphne.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Unidentified Slytherin student</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">between <a href="/wiki/1_September" title="1 September">1 September</a> <a href="/wiki/1979" title="1979">1979</a> and <a href="/wiki/31_August" title="31 August">31 August</a> <a href="/wiki/1980" title="1980">1980</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Pure-blood" title="Pure-blood">Pure-blood</a> or <a href="/wiki/Half-blood" title="Half-blood">Half-blood</a><sup id="cite_ref-blood_1-0" class="reference"><a href="#cite_note-blood-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a> or <a href="/wiki/Ireland" title="Ireland">Irish</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-OOTPF_3-0" class="reference"><a href="#cite_note-OOTPF-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female<sup id="cite_ref-OOTPF_3-1" class="reference"><a href="#cite_note-OOTPF-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Blonde<sup id="cite_ref-OOTPF_3-2" class="reference"><a href="#cite_note-OOTPF-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Light<sup id="cite_ref-OOTPF_3-3" class="reference"><a href="#cite_note-OOTPF-3">&#91;3&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="house">
+	
+		<h3 class="pi-data-label pi-secondary-font">House</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Slytherin" title="Slytherin">Slytherin</a><sup id="cite_ref-OOTPF_3-4" class="reference"><a href="#cite_note-OOTPF-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a><sup id="cite_ref-OOTPF_3-5" class="reference"><a href="#cite_note-OOTPF-3">&#91;3&#93;</a></sup><ul><li><a href="/wiki/Slytherin" title="Slytherin">Slytherin</a><sup id="cite_ref-OOTPF_3-6" class="reference"><a href="#cite_note-OOTPF-3">&#91;3&#93;</a></sup></li></ul></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+This <b>individual</b> was a <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> and a student at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> who was <a href="/wiki/Sorting_ceremony" title="Sorting ceremony">sorted</a> into <a href="/wiki/Slytherin" title="Slytherin">Slytherin</a> in <a href="/wiki/1991" title="1991">1991</a>.<sup id="cite_ref-OOTPF_3-7" class="reference"><a href="#cite_note-OOTPF-3">&#91;3&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Fifth_year"><span class="tocnumber">1.1</span> <span class="toctext">Fifth year</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Seventh_year_and_the_Battle_of_Hogwarts"><span class="tocnumber">1.2</span> <span class="toctext">Seventh year and the Battle of Hogwarts</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Later_life"><span class="tocnumber">1.3</span> <span class="toctext">Later life</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Behind_the_scenes"><span class="tocnumber">2</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Appearances"><span class="tocnumber">3</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Notes_and_references"><span class="tocnumber">4</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Unidentified_blonde_Slytherin_girl?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Unidentified_blonde_Slytherin_girl?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Fifth_year">Fifth year</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Unidentified_blonde_Slytherin_girl?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Fifth year">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Unidentified_blonde_Slytherin_girl?action=edit&amp;section=2" title="Edit section: Fifth year"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>During the <a href="/wiki/1995%E2%80%931996_school_year" title="1995–1996 school year">1995–1996 school year</a>, when <a href="/wiki/Fred_Weasley" title="Fred Weasley">Fred</a> and <a href="/wiki/George_Weasley" title="George Weasley">George Weasley</a> set off fireworks in the castle, she was seen looking at a <a href="/wiki/Weasleys%27_Wildfire_Whiz-bangs" title="Weasleys&#39; Wildfire Whiz-bangs">Whiz-Bang</a> that followed and hit <a href="/wiki/Vincent_Crabbe" title="Vincent Crabbe">Vincent Crabbe</a> in the rear end. She later attended her <a href="/wiki/Charms_(class)" title="Charms (class)">Charms</a> <a href="/wiki/Ordinary_Wizarding_Level" title="Ordinary Wizarding Level">O.W.L.</a> exam.<sup id="cite_ref-OOTPF_3-8" class="reference"><a href="#cite_note-OOTPF-3">&#91;3&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Seventh_year_and_the_Battle_of_Hogwarts">Seventh year and the Battle of Hogwarts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Unidentified_blonde_Slytherin_girl?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Seventh year and the Battle of Hogwarts">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Unidentified_blonde_Slytherin_girl?action=edit&amp;section=3" title="Edit section: Seventh year and the Battle of Hogwarts"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="thumb tleft show-info-icon" style="width: 142px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/f/f3/HP_0130.jpg/revision/latest?cb=20120111144241" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/f/f3/HP_0130.jpg/revision/latest/scale-to-width-down/140?cb=20120111144241" decoding="async" width="140" height="214" class="thumbimage" data-image-name="HP 0130.jpg" data-image-key="HP_0130.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:HP_0130.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">The girl fleeing the school before the <a href="/wiki/Battle_of_Hogwarts" title="Battle of Hogwarts">Battle of Hogwarts</a></p> 		 	</figcaption> </figure>
+<p>During the <a href="/wiki/1997%E2%80%931998_school_year" title="1997–1998 school year">1997–1998 school year</a> she was forced to leave the school along with her fellow Slytherins before the start of the <a href="/wiki/Battle_of_Hogwarts" title="Battle of Hogwarts">Battle of Hogwarts</a>.<sup id="cite_ref-DHF2_4-0" class="reference"><a href="#cite_note-DHF2-4">&#91;4&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Later_life">Later life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Unidentified_blonde_Slytherin_girl?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Later life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Unidentified_blonde_Slytherin_girl?action=edit&amp;section=4" title="Edit section: Later life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>It is unknown if she survived the <a href="/wiki/Second_Wizarding_War" title="Second Wizarding War">Second Wizarding War</a>.
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Unidentified_blonde_Slytherin_girl?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Unidentified_blonde_Slytherin_girl?action=edit&amp;section=5" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>She could be <a href="/wiki/Daphne_Greengrass" title="Daphne Greengrass">Daphne Greengrass</a>, <a href="/wiki/Tracey_Davis" title="Tracey Davis">Tracey Davis</a>, or an unnamed Slytherin girl.</li>
+<li>The girl was played by <a href="/wiki/Chloe_Rich" title="Chloe Rich">Chloe Rich</a> in the <a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(film)" title="Harry Potter and the Order of the Phoenix (film)">film adaptation</a> of <i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">Harry Potter and the Order of the Phoenix</a></i>, and in <i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_2" title="Harry Potter and the Deathly Hallows: Part 2">Harry Potter and the Deathly Hallows: Part 2</a></i>.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Unidentified_blonde_Slytherin_girl?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Unidentified_blonde_Slytherin_girl?action=edit&amp;section=6" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(film)" title="Harry Potter and the Order of the Phoenix (film)">Harry Potter and the Order of the Phoenix (film)</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_2" title="Harry Potter and the Deathly Hallows: Part 2">Harry Potter and the Deathly Hallows: Part 2</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Unidentified_blonde_Slytherin_girl?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Unidentified_blonde_Slytherin_girl?action=edit&amp;section=7" title="Edit section: Notes and references

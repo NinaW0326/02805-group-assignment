@@ -1,0 +1,109 @@
+<div class="mw-parser-output"><table class="notice metadata" cellpadding="3px" style="text-align: center; background: snow; border: #a00 1px solid; margin: 1em 10% 1em 10%;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/1/11/Hermione_Granger_%28HBP_promo%29_5.jpg/revision/latest?cb=20090817203540" class="image"><img alt="Hermione Granger (HBP promo) 5.jpg" src="https://static.wikia.nocookie.net/harrypotter/images/1/11/Hermione_Granger_%28HBP_promo%29_5.jpg/revision/latest/scale-to-width-down/60?cb=20090817203540" decoding="async" width="60" height="80" data-image-name="Hermione Granger (HBP promo) 5.jpg" data-image-key="Hermione_Granger_(HBP_promo)_5.jpg" /></a>
+</td>
+<td><i><b>"Are you a wizard or not?"</b></i>
+<p>The title of this article is conjectural.  Although it is based on <a href="/wiki/Canon" title="Canon">canonical information</a>, the actual name is a conjecture and may be supplanted at any time by additional information released from canonical sources.  If this occurs, please move this page to the appropriate title.
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-gringotts pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/e/e3/Gringotts_Head_Goblin.jpg/revision/latest?cb=20100214234030" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/e/e3/Gringotts_Head_Goblin.jpg/revision/latest/scale-to-width-down/350?cb=20100214234030" srcset="https://static.wikia.nocookie.net/harrypotter/images/e/e3/Gringotts_Head_Goblin.jpg/revision/latest/scale-to-width-down/350?cb=20100214234030 1x, https://static.wikia.nocookie.net/harrypotter/images/e/e3/Gringotts_Head_Goblin.jpg/revision/latest/scale-to-width-down/700?cb=20100214234030 2x" class="pi-image-thumbnail" alt="" width="270" height="258"
+		     data-image-key="Gringotts_Head_Goblin.jpg" data-image-name="Gringotts Head Goblin.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Gringotts Head Goblin</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a><sup id="cite_ref-PS5_1-0" class="reference"><a href="#cite_note-PS5-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Goblin" title="Goblin">Goblin</a><sup id="cite_ref-PS5_1-1" class="reference"><a href="#cite_note-PS5-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male<sup id="cite_ref-PS5_1-2" class="reference"><a href="#cite_note-PS5-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Head Goblin of <a href="/wiki/Gringotts_Wizarding_Bank" title="Gringotts Wizarding Bank">Gringotts Wizarding Bank</a><sup id="cite_ref-PS5_1-3" class="reference"><a href="#cite_note-PS5-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Gringotts_Wizarding_Bank" title="Gringotts Wizarding Bank">Gringotts Wizarding Bank</a><sup id="cite_ref-PS5_1-4" class="reference"><a href="#cite_note-PS5-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Philosopher&#39;s Stone"><b>Hagrid</b>: "<i>Morning. We’ve come ter take some money outta Mr Harry Potter’s safe.</i>"</span></dd>
+<dd><b>Head Goblin</b>: "<i>You have his <a href="/wiki/Gringotts_vault_key" title="Gringotts vault key">key</a>, sir?</i>"</dd>
+<dd><b>Hagrid</b>: "<i>Got it here somewhere... Got it.</i>"</dd>
+<dd><b>Head Goblin</b>: "<i>That seems to be in order.</i>"</dd>
+<dd><b>Hagrid</b>: "<i>An’ I’ve also got a letter here from <a href="/wiki/Albus_Dumbledore" title="Albus Dumbledore">Professor Dumbledore</a>. It’s about the <a href="/wiki/Philosopher%27s_Stone" title="Philosopher&#39;s Stone">You-Know-What</a> in <a href="/wiki/Vault_713" title="Vault 713">vault seven hundred and thirteen</a>.</i>"</dd>
+<dd><b>Head Goblin</b>: "<i>Very well, I will have someone take you down to both vaults. <a href="/wiki/Griphook" title="Griphook">Griphook</a>!</i>"</dd>
+<dd>&#8212; <a href="/wiki/Rubeus_Hagrid" title="Rubeus Hagrid">Rubeus Hagrid</a> talking with the goblin in Gringotts<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone" title="Harry Potter and the Philosopher&#39;s Stone">[src]</a></sup></dd></dl>
+</div>
+<p>This <b>unidentified goblin</b> worked in the capacity of Head <a href="/wiki/Goblin" title="Goblin">Goblin</a> of <a href="/wiki/Gringotts_Wizarding_Bank" title="Gringotts Wizarding Bank">Gringotts Wizarding Bank</a> in the early <a href="/wiki/1990s" title="1990s">1990s</a>.<sup id="cite_ref-PS5_1-5" class="reference"><a href="#cite_note-PS5-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Behind_the_scenes"><span class="tocnumber">2</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Appearances"><span class="tocnumber">3</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Notes_and_references"><span class="tocnumber">4</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gringotts_Head_Goblin?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gringotts_Head_Goblin?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tright show-info-icon" style="width: 142px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/c/c0/HeadGoblin_Gringotts.jpg/revision/latest?cb=20110712002754" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/c/c0/HeadGoblin_Gringotts.jpg/revision/latest/scale-to-width-down/140?cb=20110712002754" decoding="async" width="140" height="92" class="thumbimage" data-image-name="HeadGoblin Gringotts.jpg" data-image-key="HeadGoblin_Gringotts.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:HeadGoblin_Gringotts.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">The Head Goblin at Gringotts</p> 		 	</figcaption> </figure>
+<p>On <a href="/wiki/31_July" title="31 July">31 July</a>, <a href="/wiki/1991" title="1991">1991</a>, this goblin summoned <a href="/wiki/Griphook" title="Griphook">Griphook</a> to aid <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> and <a href="/wiki/Rubeus_Hagrid" title="Rubeus Hagrid">Rubeus Hagrid</a> in performing their withdrawals in Gringotts.<sup id="cite_ref-PS5_1-6" class="reference"><a href="#cite_note-PS5-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gringotts_Head_Goblin?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gringotts_Head_Goblin?action=edit&amp;section=2" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>It is unknown if he was still employed at Gringotts, because he was not seen among the other Goblins when Harry and his friends broke into the bank on <a href="/wiki/1_May" title="1 May">1 May</a>, <a href="/wiki/1998" title="1998">1998</a>.<sup id="cite_ref-DH26_2-0" class="reference"><a href="#cite_note-DH26-2">&#91;2&#93;</a></sup></li>
+<li>The Head Goblin was portrayed by <a href="/wiki/Warwick_Davis" title="Warwick Davis">Warwick Davis</a>, who also portrayed <a href="/wiki/Professor" title="Professor">Professor</a> <a href="/wiki/Filius_Flitwick" title="Filius Flitwick">Filius Flitwick</a>. Davis went on to play <a href="/wiki/Griphook" title="Griphook">Griphook</a> in the <a href="/wiki/Harry_Potter_and_the_Deathly_Hallows_(film)" title="Harry Potter and the Deathly Hallows (film)">film adaptation</a> of <i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">Harry Potter and the Deathly Hallows</a></i>.</li>
+<li>This goblin's role in the story is replaced by <a href="/wiki/Griphook" title="Griphook">Griphook</a> in most <a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(video_game)" title="Harry Potter and the Philosopher&#39;s Stone (video game)">video game adaptations</a>.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gringotts_Head_Goblin?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gringotts_Head_Goblin?action=edit&amp;section=3" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone" title="Harry Potter and the Philosopher&#39;s Stone">Harry Potter and the Philosopher's Stone</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(film)" title="Harry Potter and the Philosopher&#39;s Stone (film)">Harry Potter and the Philosopher's Stone (film)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter:_The_Creature_Vault" title="Harry Potter: The Creature Vault">Harry Potter: The Creature Vault</a></i> <small>(Mentioned only)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gringotts_Head_Goblin?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gringotts_Head_Goblin?action=edit&amp;section=4" title="Edit section: Notes and references

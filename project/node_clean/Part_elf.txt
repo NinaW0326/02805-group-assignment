@@ -1,0 +1,84 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-creature pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/9/9e/Irma_Dugard.png/revision/latest?cb=20190102134738" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/9/9e/Irma_Dugard.png/revision/latest/scale-to-width-down/239?cb=20190102134738" srcset="https://static.wikia.nocookie.net/harrypotter/images/9/9e/Irma_Dugard.png/revision/latest/scale-to-width-down/239?cb=20190102134738 1x, https://static.wikia.nocookie.net/harrypotter/images/9/9e/Irma_Dugard.png/revision/latest/scale-to-width-down/478?cb=20190102134738 2x" class="pi-image-thumbnail" alt="" width="239" height="318"
+		     data-image-key="Irma_Dugard.png" data-image-name="Irma Dugard.png"/>
+		
+	</a>
+	
+</figure>
+
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Part elf</h2>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Species information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="related">
+	
+		<h3 class="pi-data-label pi-secondary-font">Related to</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/House-elf" title="House-elf">House elves</a></li><li><a href="/wiki/Human" title="Human">Humans</a></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="mortality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Mortality</h3>
+	
+	<div class="pi-data-value pi-font">Mortal</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="distinction">
+	
+		<h3 class="pi-data-label pi-secondary-font">Distinction</h3>
+	
+	<div class="pi-data-value pi-font">Possess weak <a href="/wiki/Magic" title="Magic">magic</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="class">
+	
+		<h3 class="pi-data-label pi-secondary-font"><a href="/wiki/Department_for_the_Regulation_and_Control_of_Magical_Creatures#Ministry_Classification_of_Magical_Creatures" title="Department for the Regulation and Control of Magical Creatures">Ministry of Magic Classification</a></h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Being" title="Being">Being</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="status">
+	
+		<h3 class="pi-data-label pi-secondary-font">Status</h3>
+	
+	<div class="pi-data-value pi-font">Extant</div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Creature_infobox" title="Template:Creature infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+A <b>part elf</b> is, presumably, an individual with both <a href="/wiki/Human" title="Human">human</a> and <a href="/wiki/House-elf" title="House-elf">house-elf</a> ancestry.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Known_part_elfs"><span class="tocnumber">1</span> <span class="toctext">Known part elfs</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Behind_the_scenes"><span class="tocnumber">4</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Appearances"><span class="tocnumber">5</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Notes_and_references"><span class="tocnumber">6</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Known_part_elfs">Known part elfs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Part_elf?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Known part elfs">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Part_elf?action=edit&amp;section=1" title="Edit section: Known part elfs"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Irma_Dugard" title="Irma Dugard">Irma Dugard</a> - half-elf</li>
+<li>Circus Arcanus half-elves<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Part_elf?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: History">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Part_elf?action=edit&amp;section=2" title="Edit section: History"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In the <a href="/wiki/1990s" title="1990s">1990s</a>, some <a href="/wiki/Ravenclaw" title="Ravenclaw">Ravenclaw</a> students, including <a href="/wiki/Robert_Hilliard" title="Robert Hilliard">Robert Hilliard</a>, speculated that <a href="/wiki/Filius_Flitwick" title="Filius Flitwick">Filius Flitwick</a> was part elf because of his stature, although they never asked him about it.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> In fact, he was <a href="/wiki/Half-goblin" title="Half-goblin">part-goblin</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Part_elf?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: See also">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Part_elf?action=edit&amp;section=3" title="Edit section: See also"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Half-goblin" title="Half-goblin">Half-goblin</a></li></ul>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Part_elf?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Part_elf?action=edit&amp;section=4" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>It is also unknown if they inherited the special form of <a href="/wiki/House-elf_magic" title="House-elf magic">elf magic</a> from their non-human ancestor. Irma Dugard possessed a weak form of magic, though it is unclear if it was of the human or house-elf kind.</li>
+<li>It is likely interbreeding between humans and&#160;<a href="/wiki/Erkling" title="Erkling">erklings</a>&#160;or&#160;<a href="/wiki/Yumbo" title="Yumbo">yumboes</a>&#160;is possible as well, as both species are described as "elvish" (and thus presumably closely related to normal elves). Moreover, it would also be possible that humans could cross-breed with&#160;<a href="/wiki/Red_Cap" title="Red Cap">Red Caps</a>,&#160;<a href="/wiki/Leprechaun" title="Leprechaun">Leprechauns</a>&#160;and&#160;<a href="/wiki/Imp" title="Imp">Imps</a>, as all three, while not explicitly stated to be related to elves, are markedly similar to them.</li>
+<li>Students confusing Flitwick for a part-elf may have been inspired by&#160;<a href="/wiki/J._K._Rowling" title="J. K. Rowling">J. K. Rowling</a>'s earlier comment that she thought the early movies' version of Flitwick "looked like an elf" (and thus far more non-human than she initially intended).</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Part_elf?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Part_elf?action=edit&amp;section=5" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> <small>(First mentioned)</small></li>
+<li><i><a href="/wiki/Fantastic_Beasts:_The_Crimes_of_Grindelwald_-_The_Original_Screenplay" title="Fantastic Beasts: The Crimes of Grindelwald - The Original Screenplay">Fantastic Beasts: The Crimes of Grindelwald - The Original Screenplay</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Fantastic_Beasts:_The_Crimes_of_Grindelwald" title="Fantastic Beasts: The Crimes of Grindelwald">Fantastic Beasts: The Crimes of Grindelwald</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Part_elf?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Part_elf?action=edit&amp;section=6" title="Edit section: Notes and references

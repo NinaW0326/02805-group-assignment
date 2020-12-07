@@ -1,0 +1,94 @@
+<div class="mw-parser-output"><table class="notice metadata" cellpadding="3px" style="text-align: center; background: snow; border: #a00 1px solid; margin: 1em 10% 1em 10%;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/1/11/Hermione_Granger_%28HBP_promo%29_5.jpg/revision/latest?cb=20090817203540" class="image"><img alt="Hermione Granger (HBP promo) 5.jpg" src="https://static.wikia.nocookie.net/harrypotter/images/1/11/Hermione_Granger_%28HBP_promo%29_5.jpg/revision/latest/scale-to-width-down/60?cb=20090817203540" decoding="async" width="60" height="80" data-image-name="Hermione Granger (HBP promo) 5.jpg" data-image-key="Hermione_Granger_(HBP_promo)_5.jpg" /></a>
+</td>
+<td><i><b>"Are you a wizard or not?"</b></i>
+<p>The title of this article is conjectural.  Although it is based on <a href="/wiki/Canon" title="Canon">canonical information</a>, the actual name is a conjecture and may be supplanted at any time by additional information released from canonical sources.  If this occurs, please move this page to the appropriate title.
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-snatcher pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/2/21/Unidentifiedsanthecr.jpg/revision/latest?cb=20110629071404" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/2/21/Unidentifiedsanthecr.jpg/revision/latest/scale-to-width-down/350?cb=20110629071404" srcset="https://static.wikia.nocookie.net/harrypotter/images/2/21/Unidentifiedsanthecr.jpg/revision/latest/scale-to-width-down/350?cb=20110629071404 1x, https://static.wikia.nocookie.net/harrypotter/images/2/21/Unidentifiedsanthecr.jpg/revision/latest/scale-to-width-down/700?cb=20110629071404 2x" class="pi-image-thumbnail" alt="" width="270" height="368"
+		     data-image-key="Unidentifiedsanthecr.jpg" data-image-name="Unidentifiedsanthecr.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Unidentified Snatcher</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Pure-blood" title="Pure-blood">Pure-blood</a> or <a href="/wiki/Half-blood" title="Half-blood">Half-blood</a><sup id="cite_ref-blood_1-0" class="reference"><a href="#cite_note-blood-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-DH23_2-0" class="reference"><a href="#cite_note-DH23-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male<sup id="cite_ref-DH23_2-1" class="reference"><a href="#cite_note-DH23-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Snatchers" title="Snatchers">Snatcher</a><sup id="cite_ref-DH23_2-2" class="reference"><a href="#cite_note-DH23-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Snatchers" title="Snatchers">Snatchers</a><sup id="cite_ref-DH23_2-3" class="reference"><a href="#cite_note-DH23-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Deathly Hallows"><b>Bellatrix Lestrange</b>: "<i>What is that?</i>"</span></dd>
+<dd><b>Snatcher</b>: "<i>Sword.</i>"</dd>
+<dd><b>Bellatrix Lestrange</b>: "<i>Give it to me.</i>"</dd>
+<dd><b>Snatcher</b>: "<i>It’s not yours, missus, it's mine, I reckon I found it.</i>"</dd>
+<dd>&#8212; The <a href="/wiki/Snatchers" title="Snatchers">Snatcher</a> and <a href="/wiki/Bellatrix_Lestrange" title="Bellatrix Lestrange">Bellatrix Lestrange</a>.<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">[src]</a></sup></dd></dl>
+</div>
+<p>This <b><a href="/wiki/Wizardkind" title="Wizardkind">wizard</a></b> was a <a href="/wiki/Snatchers" title="Snatchers">Snatcher</a> who served under <a href="/wiki/Fenrir_Greyback" title="Fenrir Greyback">Fenrir Greyback</a> during the <a href="/wiki/Second_Wizarding_War" title="Second Wizarding War">Second Wizarding War</a>. He was part of the group that captured <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a>, <a href="/wiki/Ronald_Weasley" title="Ronald Weasley">Ron Weasley</a> and <a href="/wiki/Hermione_Granger" title="Hermione Granger">Hermione Granger</a> and took them to <a href="/wiki/Malfoy_Manor" title="Malfoy Manor">Malfoy Manor</a>. <a href="/wiki/Bellatrix_Lestrange" title="Bellatrix Lestrange">Bellatrix Lestrange</a> was shocked when she saw him holding the <a href="/wiki/Godric_Gryffindor%27s_Sword" class="mw-redirect" title="Godric Gryffindor&#39;s Sword">sword</a> of <a href="/wiki/Godric_Gryffindor" title="Godric Gryffindor">Gryffindor</a>, and demanded to know where he had gotten it (believing it to have been in her <a href="/wiki/Lestrange_Vault" title="Lestrange Vault">vault</a> at <a href="/wiki/Gringotts_Wizarding_Bank" title="Gringotts Wizarding Bank">Gringotts</a>). He most unwisely refused her demand to hand it over and was <a href="/wiki/Stunning_Spell" title="Stunning Spell">stunned</a> by the enraged witch.<sup id="cite_ref-DH23_2-4" class="reference"><a href="#cite_note-DH23-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Unidentified_Snatcher?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Unidentified_Snatcher?action=edit&amp;section=1" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>This Snatcher was portrayed by <a href="/wiki/Samuel_Roukin" title="Samuel Roukin">Samuel Roukin</a> in <i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1" title="Harry Potter and the Deathly Hallows: Part 1">Harry Potter and the Deathly Hallows: Part 1</a></i>.</li>
+<li>In the film, the Snatcher tells Bellatrix that the sword was in Hermione's bag when they searched her and reckons that it belongs to him now. In response, Bellatrix hits him with a spell which blasts him backwards onto the stairs, killing him. He is also shown to have the Snitch in his possession, but it flutters out of his pocket and returns to Harry when he passes his corpse on the stairs.</li>
+<li>In <i><a href="/wiki/LEGO_Harry_Potter:_Years_5-7" title="LEGO Harry Potter: Years 5-7">LEGO Harry Potter: Years 5-7</a></i>, the Snatcher is omitted. Instead, <a href="/wiki/Bellatrix_Lestrange" title="Bellatrix Lestrange">Bellatrix Lestrange</a> finds the <a href="/wiki/Sword_of_Gryffindor" title="Sword of Gryffindor">Sword of Gryffindor</a> in <a href="/wiki/Hermione_Granger%27s_beaded_handbag" title="Hermione Granger&#39;s beaded handbag">Hermione's handbag</a>.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Unidentified_Snatcher?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Unidentified_Snatcher?action=edit&amp;section=2" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">Harry Potter and the Deathly Hallows</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1" title="Harry Potter and the Deathly Hallows: Part 1">Harry Potter and the Deathly Hallows: Part 1</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1_(video_game)" title="Harry Potter and the Deathly Hallows: Part 1 (video game)">Harry Potter and the Deathly Hallows: Part 1 (video game)</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Unidentified_Snatcher?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Unidentified_Snatcher?action=edit&amp;section=3" title="Edit section: Notes and references

@@ -1,0 +1,131 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-pet pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/d/d8/Ripper.jpg/revision/latest?cb=20100409165801" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/d/d8/Ripper.jpg/revision/latest/scale-to-width-down/300?cb=20100409165801" srcset="https://static.wikia.nocookie.net/harrypotter/images/d/d8/Ripper.jpg/revision/latest/scale-to-width-down/300?cb=20100409165801 1x, https://static.wikia.nocookie.net/harrypotter/images/d/d8/Ripper.jpg/revision/latest/scale-to-width-down/601?cb=20100409165801 2x" class="pi-image-thumbnail" alt="" width="270" height="449"
+		     data-image-key="Ripper.jpg" data-image-name="Ripper.jpg"/>
+		
+	</a>
+	
+</figure>
+
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Ripper</h2>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">c. <a href="/wiki/1980s" title="1980s">1980s</a><sup id="cite_ref-age_1-0" class="reference"><a href="#cite_note-age-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="alias">
+	
+		<h3 class="pi-data-label pi-secondary-font">Also known as</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>Rippy</li><li>Rippy-pooh</li><li>Rippy-pippy-pooh</li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Dog" title="Dog">Dog</a> (breed: <a href="/wiki/Bulldog" title="Bulldog">bulldog</a>)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Brown and white</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Black</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Marjorie_Dursley" title="Marjorie Dursley">Marjorie Dursley</a></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Pet_individual_infobox" title="Template:Pet individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Prisoner of Azkaban">"<i>Ripper just pines when I'm away.</i>"</span></dd>
+<dd>&#8212;<a href="/wiki/Marjorie_Dursley" title="Marjorie Dursley">Marjorie Dursley</a><sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban" title="Harry Potter and the Prisoner of Azkaban">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Ripper</b> was one of <a href="/wiki/Marjorie_Dursley" title="Marjorie Dursley">Marjorie Dursley</a>'s twelve <a href="/wiki/Bulldog" title="Bulldog">bulldogs</a>. He was her personal favourite and accompanied her on visits to <a href="/wiki/4_Privet_Drive" title="4 Privet Drive">4 Privet Drive</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Background"><span class="tocnumber">1.1</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Visits_with_the_Dursleys"><span class="tocnumber">1.2</span> <span class="toctext">Visits with the Dursleys</span></a>
+<ul>
+<li class="toclevel-3 tocsection-4"><a href="#1990_visit"><span class="tocnumber">1.2.1</span> <span class="toctext">1990 visit</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#1993_visit"><span class="tocnumber">1.2.2</span> <span class="toctext">1993 visit</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Behind_the_scenes"><span class="tocnumber">2</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Appearances"><span class="tocnumber">3</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Notes_and_references"><span class="tocnumber">4</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Ripper?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Ripper?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Ripper?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Background">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Ripper?action=edit&amp;section=2" title="Edit section: Background"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Ripper was most likely born in the mid-to-late <a href="/wiki/1980s" title="1980s">1980s</a>.<sup id="cite_ref-age_1-1" class="reference"><a href="#cite_note-age-1">&#91;1&#93;</a></sup> He was one of twelve <a href="/wiki/Bulldog" title="Bulldog">bulldogs</a> kept by <a href="/wiki/Marjorie_Dursley" title="Marjorie Dursley">Marjorie Dursley</a> and was her favourite.<sup id="cite_ref-pa2_2-0" class="reference"><a href="#cite_note-pa2-2">&#91;2&#93;</a></sup> Whenever Marjorie was away, he "pine[d]" for her, leading her to take him with her on trips, while the others were left in the care of <a href="/wiki/Fubster" title="Fubster">Colonel Fubster</a>.<sup id="cite_ref-pa2_2-1" class="reference"><a href="#cite_note-pa2-2">&#91;2&#93;</a></sup>
+</p><p>Although described as "evil-tempered,"<sup id="cite_ref-pa2_2-2" class="reference"><a href="#cite_note-pa2-2">&#91;2&#93;</a></sup> Marjorie lavished affection on Ripper, referring to him by twee nicknames like "Rippy-pooh."<sup id="cite_ref-poa-f_3-0" class="reference"><a href="#cite_note-poa-f-3">&#91;3&#93;</a></sup> She often spoiled him with food, allowing him to lick her plate clean after meals,<sup id="cite_ref-poa-f_3-1" class="reference"><a href="#cite_note-poa-f-3">&#91;3&#93;</a></sup> and sharing her <a href="/wiki/Tea" title="Tea">tea</a><sup id="cite_ref-pa2_2-3" class="reference"><a href="#cite_note-pa2-2">&#91;2&#93;</a></sup> and <a href="/wiki/Brandy" title="Brandy">brandy</a><sup id="cite_ref-poa-f_3-2" class="reference"><a href="#cite_note-poa-f-3">&#91;3&#93;</a></sup> with him.
+</p>
+<h3><span class="mw-headline" id="Visits_with_the_Dursleys">Visits with the Dursleys</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Ripper?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Visits with the Dursleys">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Ripper?action=edit&amp;section=3" title="Edit section: Visits with the Dursleys"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="1990_visit">1990 visit</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Ripper?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: 1990 visit">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Ripper?action=edit&amp;section=4" title="Edit section: 1990 visit"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In <a href="/wiki/1990" title="1990">1990</a>, while Marjorie was visiting her <a href="/wiki/Vernon_Dursley" title="Vernon Dursley">brother's</a> <a href="/wiki/Dursley_family" title="Dursley family">family</a> at <a href="/wiki/4_Privet_Drive" title="4 Privet Drive">4 Privet Drive</a>, <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> accidentally stepped on one of Ripper's paws.<sup id="cite_ref-pa2_2-4" class="reference"><a href="#cite_note-pa2-2">&#91;2&#93;</a></sup> Ripper proceeded to chase Harry up a tree in the Dursleys' yard.<sup id="cite_ref-pa2_2-5" class="reference"><a href="#cite_note-pa2-2">&#91;2&#93;</a></sup> Harry was stuck there until Marjorie called Ripper off after midnight.<sup id="cite_ref-pa2_2-6" class="reference"><a href="#cite_note-pa2-2">&#91;2&#93;</a></sup> The incident still made <a href="/wiki/Dudley_Dursley" title="Dudley Dursley">Dudley Dursley</a> laugh years later.<sup id="cite_ref-pa2_2-7" class="reference"><a href="#cite_note-pa2-2">&#91;2&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="1993_visit">1993 visit</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Ripper?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: 1993 visit">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Ripper?action=edit&amp;section=5" title="Edit section: 1993 visit"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h4>
+<figure class="thumb tleft show-info-icon" style="width: 252px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/4/44/Ripper.png/revision/latest?cb=20161218044800" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/4/44/Ripper.png/revision/latest/scale-to-width-down/250?cb=20161218044800" decoding="async" width="250" height="169" class="thumbimage" data-image-name="Ripper.png" data-image-key="Ripper.png" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Ripper.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Ripper in <a href="/wiki/1993" title="1993">1993</a></p> 		 	</figcaption> </figure>
+<p>By <a href="/wiki/1993" title="1993">1993</a>, Ripper was in the later part of his life, being described as "old."<sup id="cite_ref-pa2_2-8" class="reference"><a href="#cite_note-pa2-2">&#91;2&#93;</a></sup> Marjorie brought him with her when she paid visit to her brother's family that year.<sup id="cite_ref-pa2_2-9" class="reference"><a href="#cite_note-pa2-2">&#91;2&#93;</a></sup> After they were welcomed inside, <a href="/wiki/Petunia_Dursley" title="Petunia Dursley">Petunia Dursley</a> offered Marjorie <a href="/wiki/Tea" title="Tea">tea</a>, asking her what Ripper would like.<sup id="cite_ref-pa2_2-10" class="reference"><a href="#cite_note-pa2-2">&#91;2&#93;</a></sup> Marjorie asked that he be given his own helping of tea in her saucer.<sup id="cite_ref-pa2_2-11" class="reference"><a href="#cite_note-pa2-2">&#91;2&#93;</a></sup> Petunia followed this request.<sup id="cite_ref-pa2_2-12" class="reference"><a href="#cite_note-pa2-2">&#91;2&#93;</a></sup> However, she was noted to wince as Ripper "noisily" drank, as he got drool and tea on the clean floor in the process.<sup id="cite_ref-pa2_2-13" class="reference"><a href="#cite_note-pa2-2">&#91;2&#93;</a></sup> When Harry sat down at the table, Ripper growled at him, directing Marjorie's attention to the boy.<sup id="cite_ref-pa2_2-14" class="reference"><a href="#cite_note-pa2-2">&#91;2&#93;</a></sup>
+</p><p>On the fourth day of Marjorie's stay, Marjorie upset Harry at dinner to the point that he had an <a href="/wiki/Underage_magic" title="Underage magic">unintentional magical outburst</a>, causing her to <a href="/wiki/Blowing-up_of_Marjorie_Dursley" class="mw-redirect" title="Blowing-up of Marjorie Dursley">inflate like a balloon</a>.<sup id="cite_ref-pa2_2-15" class="reference"><a href="#cite_note-pa2-2">&#91;2&#93;</a></sup> In the ensuing panic, Ripper charged into the room, barking "madly."<sup id="cite_ref-pa2_2-16" class="reference"><a href="#cite_note-pa2-2">&#91;2&#93;</a></sup> He bit <a href="/wiki/Vernon_Dursley" title="Vernon Dursley">Vernon Dursley</a>'s leg when he grabbed Marjorie's foot in a desperate attempt to keep her from floating away.<sup id="cite_ref-pa2_2-17" class="reference"><a href="#cite_note-pa2-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Ripper?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Ripper?action=edit&amp;section=6" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>In <a href="/wiki/December" title="December">December</a> <a href="/wiki/2012" title="2012">2012</a> comments written for  <i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i>, <a href="/wiki/J._K._Rowling" title="J. K. Rowling">Rowling</a> stated that she regretted making Marge a breeder of bulldogs, as she now knows them to be a non-aggressive breed, and her sister owns one. She does note, however, that they do look grumpy, and thus suited Marge.<sup id="cite_ref-pottermorerowling_4-0" class="reference"><a href="#cite_note-pottermorerowling-4">&#91;4&#93;</a></sup></li>
+<li>In the American version, Harry treads on Ripper's tail, but in the British version he treads on his paw.</li>
+<li>In the film version, Marge let Ripper taste some brandy Vernon poured for her. In real life, this is bad as alcohol is poisonous to dogs.
+<ul><li>In addition, Ripper's actions to Vernon was, albeit unintentionally, the reason why he ultimately was forced to release the newly-inflated Marge outside despite his attempts at rescuing her, as he bit onto Vernon's leg and the pain from this and the gradually increasing height had him reluctantly disobeying Marge and letting go of her.</li></ul></li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Ripper?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Ripper?action=edit&amp;section=7" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 9 images related to <i><b><a href="/wiki/Category:Images_of_Ripper" title="Category:Images of Ripper">Ripper</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban" title="Harry Potter and the Prisoner of Azkaban">Harry Potter and the Prisoner of Azkaban</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(film)" title="Harry Potter and the Prisoner of Azkaban (film)">Harry Potter and the Prisoner of Azkaban (film)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">Harry Potter and the Order of the Phoenix</a></i> <small>(Appears in flashback(s))</small></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i></li>
+<li><i><a href="/wiki/Wizarding_World_(website)" title="Wizarding World (website)">Wizarding World</a></i></li>
+<li><i><a href="/wiki/Harry_Potter:_The_Character_Vault" title="Harry Potter: The Character Vault">Harry Potter: The Character Vault</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Ripper?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Ripper?action=edit&amp;section=8" title="Edit section: Notes and references

@@ -1,0 +1,100 @@
+<div class="mw-parser-output"><table class="notice metadata" id="spoiler" style="text-align: center; background: beige; margin: 1em 05%; padding: 0 1em; border: #a00 1px solid;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/4/4f/Harry_Potter_-_Magic_Awakened_title.jpg/revision/latest?cb=20191031005324" class="image"><img alt="Harry Potter - Magic Awakened title.jpg" src="https://static.wikia.nocookie.net/harrypotter/images/4/4f/Harry_Potter_-_Magic_Awakened_title.jpg/revision/latest/scale-to-width-down/175?cb=20191031005324" decoding="async" width="175" height="99" data-image-name="Harry Potter - Magic Awakened title.jpg" data-image-key="Harry_Potter_-_Magic_Awakened_title.jpg" /></a>
+</td>
+<td><b>Warning!</b>
+<p>At least some content in this article is derived from information featured in <i><a href="/wiki/Harry_Potter:_Magic_Awakened" title="Harry Potter: Magic Awakened">Harry Potter: Magic Awakened</a></i>. As such, spoilers will be present within the article.
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-muggle pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/8/88/MrPage.jpeg/revision/latest?cb=20200804143422" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/8/88/MrPage.jpeg/revision/latest/scale-to-width-down/350?cb=20200804143422" srcset="https://static.wikia.nocookie.net/harrypotter/images/8/88/MrPage.jpeg/revision/latest/scale-to-width-down/350?cb=20200804143422 1x, https://static.wikia.nocookie.net/harrypotter/images/8/88/MrPage.jpeg/revision/latest/scale-to-width-down/700?cb=20200804143422 2x" class="pi-image-thumbnail" alt="" width="270" height="248"
+		     data-image-key="MrPage.jpeg" data-image-name="MrPage.jpeg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Mr Page</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="marital">
+	
+		<h3 class="pi-data-label pi-secondary-font">Marital status</h3>
+	
+	<div class="pi-data-value pi-font">Married</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Light</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Page_siblings%27_mother" title="Page siblings&#039; mother">Wife</a></li><li><a href="/wiki/Reggie_Page" title="Reggie Page">Reggie Page</a> (son)</li><li><a href="/wiki/Daniel_Page%27s_sister" title="Daniel Page&#039;s sister">Daughter</a></li><li><a href="/wiki/Daniel_Page" title="Daniel Page">Daniel Page</a> (son)</li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Page_family" title="Page family">Page family</a></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Mr Page</b> was a <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> who married <a href="/wiki/Page_siblings%27_mother" title="Page siblings&#39; mother">a witch</a> and had three children. They had a <a href="/wiki/Daniel_Page%27s_sister" title="Daniel Page&#39;s sister">a daughter</a> and two sons, <a href="/wiki/Squib" title="Squib">squib</a> <a href="/wiki/Reggie_Page" title="Reggie Page">Reggie</a> and <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> <a href="/wiki/Daniel_Page" title="Daniel Page">Daniel</a>.<sup id="cite_ref-MA_1-0" class="reference"><a href="#cite_note-MA-1">&#91;1&#93;</a></sup>
+Mr Page was involved in illicit situations, and he involved their elder son in such activities. They were eventually caught by Muggle police, and the wife tried to use her magic to help the two escape. She frightened the police and violated the <a href="/wiki/International_Statute_of_Wizarding_Secrecy" title="International Statute of Wizarding Secrecy">International Statute of Wizarding Secrecy</a> in doing so.<sup id="cite_ref-MA_1-1" class="reference"><a href="#cite_note-MA-1">&#91;1&#93;</a></sup>
+Her efforts didn't help, and she was sentenced to <a href="/wiki/Azkaban" title="Azkaban">Azkaban</a> while Mr Page and their son were taken to a Muggle prison. The incident was put in a Muggle newspaper under the heading, "The Bloody Pages". Their younger son, Daniel was put under the guardianship of their daughter.<sup id="cite_ref-MA_1-2" class="reference"><a href="#cite_note-MA-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Page_siblings%27_father?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Page_siblings%27_father?action=edit&amp;section=1" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter:_Magic_Awakened" title="Harry Potter: Magic Awakened">Harry Potter: Magic Awakened</a></i> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Page_siblings%27_father?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Page_siblings%27_father?action=edit&amp;section=2" title="Edit section: Notes and references

@@ -1,0 +1,124 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-slytherin pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/5/58/Corvinus_Gaunt.png/revision/latest?cb=20180102194055" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/5/58/Corvinus_Gaunt.png/revision/latest/scale-to-width-down/350?cb=20180102194055" srcset="https://static.wikia.nocookie.net/harrypotter/images/5/58/Corvinus_Gaunt.png/revision/latest/scale-to-width-down/350?cb=20180102194055 1x, https://static.wikia.nocookie.net/harrypotter/images/5/58/Corvinus_Gaunt.png/revision/latest/scale-to-width-down/700?cb=20180102194055 2x" class="pi-image-thumbnail" alt="" width="270" height="330"
+		     data-image-key="Corvinus_Gaunt.png" data-image-name="Corvinus Gaunt.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Corvinus Gaunt</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">Between late 1683 and 1783<sup id="cite_ref-age_1-0" class="reference"><a href="#cite_note-age-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Pure-blood" title="Pure-blood">Pure-blood</a><sup id="cite_ref-HBP10_2-0" class="reference"><a href="#cite_note-HBP10-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a> or <a href="/wiki/Ireland" title="Ireland">Irish</a><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup><sup id="cite_ref-Irish_4-0" class="reference"><a href="#cite_note-Irish-4">&#91;4&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-Pottermore_5-0" class="reference"><a href="#cite_note-Pottermore-5">&#91;5&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male<sup id="cite_ref-Pottermore_5-1" class="reference"><a href="#cite_note-Pottermore-5">&#91;5&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Salazar_Slytherin" title="Salazar Slytherin">Salazar Slytherin</a> (ancestor) †<sup id="cite_ref-Pottermore_5-2" class="reference"><a href="#cite_note-Pottermore-5">&#91;5&#93;</a></sup></li><li><a href="/wiki/Gormlaith_Gaunt" title="Gormlaith Gaunt">Gormlaith Gaunt</a> (relative) †</li><li><a href="/wiki/Rionach_Sayre" title="Rionach Sayre">Rionach Sayre</a> (relative) †</li><li><a href="/wiki/Marvolo_Gaunt" title="Marvolo Gaunt">Marvolo Gaunt</a> (descendant) †</li><li><a href="/wiki/Morfin_Gaunt" title="Morfin Gaunt">Morfin Gaunt</a> (descendant) †</li><li><a href="/wiki/Cadmus_Peverell" title="Cadmus Peverell">Cadmus Peverell</a> (ancestor)</li><li><a href="/wiki/Merope_Riddle" title="Merope Riddle">Merope Gaunt</a> (descendant) †</li><li><a href="/wiki/Tom_Riddle" title="Tom Riddle">Tom Riddle</a> (descendant) †</li><li><a href="/wiki/Delphini" title="Delphini">Delphini</a> (descendant)</li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="house">
+	
+		<h3 class="pi-data-label pi-secondary-font">House</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Slytherin" title="Slytherin">Slytherin</a><sup id="cite_ref-Pottermore_5-3" class="reference"><a href="#cite_note-Pottermore-5">&#91;5&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a><sup id="cite_ref-Pottermore_5-4" class="reference"><a href="#cite_note-Pottermore-5">&#91;5&#93;</a></sup><ul><li><a href="/wiki/Slytherin" title="Slytherin">Slytherin</a><sup id="cite_ref-Pottermore_5-5" class="reference"><a href="#cite_note-Pottermore-5">&#91;5&#93;</a></sup></li></ul></li><li><a href="/wiki/House_of_Gaunt" title="House of Gaunt">House of Gaunt</a><sup id="cite_ref-Pottermore_5-6" class="reference"><a href="#cite_note-Pottermore-5">&#91;5&#93;</a></sup></li><li><a href="/wiki/Slytherin_family" title="Slytherin family">Slytherin family</a><sup id="cite_ref-Pottermore_5-7" class="reference"><a href="#cite_note-Pottermore-5">&#91;5&#93;</a></sup></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Corvinus Gaunt</b> (fl. <a href="/wiki/18th_century" title="18th century">18th century</a>) was a <a href="/wiki/Pure-blood" title="Pure-blood">pure-blood</a><sup id="cite_ref-HBP10_2-1" class="reference"><a href="#cite_note-HBP10-2">&#91;2&#93;</a></sup> <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a>, and a member of the <a href="/wiki/Pure-blood" title="Pure-blood">pure-blood</a> <a href="/wiki/House_of_Gaunt" title="House of Gaunt">House of Gaunt</a>. As such, he was one of the direct descendants of <a href="/wiki/Salazar_Slytherin" title="Salazar Slytherin">Salazar Slytherin</a> and was a <a href="/wiki/Parseltongue" title="Parseltongue">Parselmouth</a>, as well as being presumably very inbred and rich (assuming their wealth has yet to be completely squandered from grandeur and lack of sense). Gaunt knew about the <a href="/wiki/Chamber_of_Secrets" title="Chamber of Secrets">Chamber of Secrets</a>, and he was instrumental in keeping the entrance to the Chamber a secret.<sup id="cite_ref-Pottermore_5-8" class="reference"><a href="#cite_note-Pottermore-5">&#91;5&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Personality_and_Traits"><span class="tocnumber">2</span> <span class="toctext">Personality and Traits</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Magical_abilities_and_skills"><span class="tocnumber">3</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Etymology"><span class="tocnumber">4</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Behind_the_scenes"><span class="tocnumber">5</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Appearances"><span class="tocnumber">6</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Notes_and_references"><span class="tocnumber">7</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Corvinus_Gaunt?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Corvinus_Gaunt?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In the <a href="/wiki/18th_century" title="18th century">1700s</a>, there was a proposal to install an elaborate <a href="/wiki/Plumbing" title="Plumbing">plumbing</a> system at <a href="/wiki/Hogwarts_Castle" title="Hogwarts Castle">Hogwarts Castle</a>. This, of course, threatened the secrecy around the entrance to the <a href="/wiki/Chamber_of_Secrets" title="Chamber of Secrets">Chamber of Secrets</a> which, at the time, still had its original appearance — a concealed trapdoor and a series of magical tunnels — and which was located on the site where a <a href="/wiki/Moaning_Myrtle%27s_Bathroom" title="Moaning Myrtle&#39;s Bathroom">girls' bathroom</a> would be set up.<sup id="cite_ref-Pottermore_5-9" class="reference"><a href="#cite_note-Pottermore-5">&#91;5&#93;</a></sup>
+</p><p>Corvinus Gaunt was, at the time, a student at Hogwarts and, as a descendant of <a href="/wiki/Salazar_Slytherin" title="Salazar Slytherin">Salazar Slytherin</a> himself, knew where the entrance to the Chamber was and how to open it. Corvinus was responsible for secretly protecting the entrance, having concealed it behind plumbing fixtures and a sink (which today are part of <a href="/wiki/Moaning_Myrtle%27s_Bathroom" title="Moaning Myrtle&#39;s Bathroom">Moaning Myrtle's Bathroom</a>), so that those who knew how could still access the Chamber.<sup id="cite_ref-Pottermore_5-10" class="reference"><a href="#cite_note-Pottermore-5">&#91;5&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Personality_and_Traits">Personality and Traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Corvinus_Gaunt?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Personality and Traits">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Corvinus_Gaunt?action=edit&amp;section=2" title="Edit section: Personality and Traits"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Corvinus appeared to be sufficiently intelligent, as he was able to learn the location of the Chamber of Secrets that has not been found by centuries of searching. He was also able to adapt the new plumbing system into hiding the Chamber from the school staff in a discreet manner. Likewise, he seemed to be mentally stable despite inbreeding (at least the early stages of the practise not enough to damage Corvinus' genes), enough to attend Hogwarts that his later descendants within the 20th century did not.<sup id="cite_ref-Pottermore_5-11" class="reference"><a href="#cite_note-Pottermore-5">&#91;5&#93;</a></sup>
+</p><p>His willingness to hide the Chamber that was meant to drive off all Muggle-borns from Hogwarts indicate his belief in <a href="/wiki/Pure-blood_supremacy" title="Pure-blood supremacy">pure-blood supremacy</a>.<sup id="cite_ref-Pottermore_5-12" class="reference"><a href="#cite_note-Pottermore-5">&#91;5&#93;</a></sup> Despite this he never sought to open the Chamber himself suggesting that, while ill-intentioned, he was unwilling to be the one responsible for the deaths of all the Muggle-borns.
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Corvinus_Gaunt?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Corvinus_Gaunt?action=edit&amp;section=3" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Parseltongue" title="Parseltongue">Parseltongue</a></b>: Being a descendant of <a href="/wiki/Salazar_Slytherin" title="Salazar Slytherin">Salazar Slytherin</a>, Corvinus was a natural born Parselmouth, being able to <a href="/wiki/Magic" title="Magic">magically</a> communicate with <a href="/wiki/Snake" title="Snake">snakes</a> along with most of his ancestors and relatives. He was able to use his ability to speak Parseltongue allowed him to cleverly conceal the opening to the <a href="/wiki/Chamber_of_Secrets" title="Chamber of Secrets">Chamber of Secrets</a> and would have even allowed him to open it himself, the latter of which he never actually did.<sup id="cite_ref-Pottermore_5-13" class="reference"><a href="#cite_note-Pottermore-5">&#91;5&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Corvinus_Gaunt?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Corvinus_Gaunt?action=edit&amp;section=4" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>"Corvinus" is the diminutive of "Corvus", which derives from Latin <i>corvus</i>, "raven". <a href="http://en.wikipedia.org/wiki/Matthias_Corvinus" class="extiw" title="wikipedia:Matthias Corvinus">Matthias Corvinus</a> was a 15th-century Hungarian king, possibly referring to Corvinus' status as a <a href="/wiki/Pure-blood" title="Pure-blood">pure-blood</a>, as many pure-bloods consider themselves akin to royalty. Also, <a href="http://en.wikipedia.org/wiki/Marcus_Valerius_Messalla_Corvinus" class="extiw" title="wikipedia:Marcus Valerius Messalla Corvinus">Marcus Valerius Messalla Corvinus</a> was a Roman general, author and patron of literature and art.</li>
+<li>The word <i>gaunt</i> is defined as "haggard, drawn and emaciated" and "bleak, desolate".</li></ul>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Corvinus_Gaunt?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Corvinus_Gaunt?action=edit&amp;section=5" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>As a member of the House of Gaunt, Corvinus presumably owned <a href="/wiki/Salazar_Slytherin%27s_Locket" class="mw-redirect" title="Salazar Slytherin&#39;s Locket">Salazar Slytherin's Locket</a>, and possibly owned <a href="/wiki/Marvolo_Gaunt%27s_Ring" title="Marvolo Gaunt&#39;s Ring">Marvolo Gaunt's Ring</a>, assuming the latter had passed into the family's possession by this time.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Corvinus_Gaunt?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Corvinus_Gaunt?action=edit&amp;section=6" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> <small>(First mentioned)</small></li>
+<li><i><a href="/wiki/Wizarding_World_(website)" title="Wizarding World (website)">Wizarding World</a></i> <small>(Mentioned only)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Corvinus_Gaunt?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Corvinus_Gaunt?action=edit&amp;section=7" title="Edit section: Notes and references

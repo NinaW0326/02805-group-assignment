@@ -1,0 +1,152 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-mom pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/a/af/Torquil_Travers.png/revision/latest?cb=20180315000822" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/a/af/Torquil_Travers.png/revision/latest/scale-to-width-down/350?cb=20180315000822" srcset="https://static.wikia.nocookie.net/harrypotter/images/a/af/Torquil_Travers.png/revision/latest/scale-to-width-down/350?cb=20180315000822 1x, https://static.wikia.nocookie.net/harrypotter/images/a/af/Torquil_Travers.png/revision/latest/scale-to-width-down/699?cb=20180315000822 2x" class="pi-image-thumbnail" alt="" width="270" height="344"
+		     data-image-key="Torquil_Travers.png" data-image-name="Torquil Travers.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Torquil Travers</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">Before <a href="/wiki/1910" title="1910">1910</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Pure-blood" title="Pure-blood">Pure-blood</a> or <a href="/wiki/Half-blood" title="Half-blood">half-blood</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="title">
+	
+		<h3 class="pi-data-label pi-secondary-font">Title(s)</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Minister" title="Minister">Minister</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Brown</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Travers" title="Travers">Travers</a> (possibly)</li><li><a href="/wiki/Travers_family" title="Travers family">Travers family</a></li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Head_of_Department" title="Head of Department">Head</a> of the <a href="/wiki/Department_of_Magical_Law_Enforcement" title="Department of Magical Law Enforcement">Department of Magical Law Enforcement</a><sup id="cite_ref-mugglenet_2-0" class="reference"><a href="#cite_note-mugglenet-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">British Ministry of Magic</a><ul><li><a href="/wiki/Department_of_Magical_Law_Enforcement" title="Department of Magical Law Enforcement">Department of Magical Law Enforcement</a></li></ul></li><li><a href="/wiki/Travers_family" title="Travers family">Travers family</a></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Torquil Travers</b> was a <a href="/wiki/Great_Britain" title="Great Britain">British</a> <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> and a member of the <a href="/wiki/Pure-blood" title="Pure-blood">Pure-blood</a> <a href="/wiki/Travers_family" title="Travers family">Travers family</a>. He served as the <a href="/wiki/Head_of_Department" title="Head of Department">Head</a> of the <a href="/wiki/Department_of_Magical_Law_Enforcement" title="Department of Magical Law Enforcement">Department of Magical Law Enforcement</a> for the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">British Ministry of Magic</a> in the <a href="/wiki/1920s" title="1920s">1920s</a>.<sup id="cite_ref-mugglenet_2-1" class="reference"><a href="#cite_note-mugglenet-2">&#91;2&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Personality_and_traits"><span class="tocnumber">2</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Magical_abilities_and_skills"><span class="tocnumber">3</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Etymology"><span class="tocnumber">4</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Behind_the_scenes"><span class="tocnumber">5</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Appearances"><span class="tocnumber">6</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Notes_and_references"><span class="tocnumber">7</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Torquil_Travers?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Torquil_Travers?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Torquil Travers was born into the <a href="/wiki/Travers_family" title="Travers family">Travers family</a>, one of the "<a href="/wiki/Sacred_Twenty-Eight" title="Sacred Twenty-Eight">Sacred Twenty-Eight</a>", a number of families that were judged to be still "truly pure-blood" by the author of the <i><a href="/wiki/Pure-Blood_Directory" title="Pure-Blood Directory">Pure-Blood Directory</a></i> published in the 1930s.
+</p><p>He ended up joining the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">British Ministry of Magic</a> and eventually became the <a href="/wiki/Head_of_Department" title="Head of Department">Head</a> of the <a href="/wiki/Department_of_Magical_Law_Enforcement" title="Department of Magical Law Enforcement">Department of Magical Law Enforcement</a>. In <a href="/wiki/1927" title="1927">1927</a>, he, accompanied by a number of Ministry wizards that included <a href="/wiki/Theseus_Scamander" title="Theseus Scamander">Theseus Scamander</a>, Head of the <a href="/wiki/Auror_Office" title="Auror Office">Auror Office</a>, and <a href="/wiki/Leta_Lestrange" title="Leta Lestrange">Leta Lestrange</a>, arrived at <a href="/wiki/Hogwarts_Castle" title="Hogwarts Castle">Hogwarts Castle</a> to question then <a href="/wiki/Defence_Against_the_Dark_Arts" title="Defence Against the Dark Arts">Defence Against the Dark Arts</a> <a href="/wiki/Professor" title="Professor">Professor</a>, <a href="/wiki/Albus_Dumbledore" title="Albus Dumbledore">Albus Dumbledore</a> in his own <a href="/wiki/Classroom_3C" title="Classroom 3C">classroom</a> regarding <a href="/wiki/Newton_Scamander" title="Newton Scamander">Newt Scamander</a>'s rumoured voyage to <a href="/wiki/Paris" title="Paris">Paris</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Torquil_Travers?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Personality and traits">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Torquil_Travers?action=edit&amp;section=2" title="Edit section: Personality and traits"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Torquil Travers was described as a "harsh, mean-spirited man".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p><p>Having risen to a high position of power within the Ministry of Magic, Travers enjoyed the authority he possessed and disliked being contradicted or contested on any subject. He considered his place as the wizard in charge of the security of the Bristish community as giving him the ability to pursue any course of action he saw fit, whether it was interrupting a <a href="/wiki/Defence_Against_the_Dark_Arts" title="Defence Against the Dark Arts">Defence Against the Dark Arts</a> class at Hogwarts while Dumbledore was still teaching (and in spite of Professor <a href="/wiki/Minerva_McGonagall" title="Minerva McGonagall">McGonagall</a>'s protests) or ordering the arrest of people for merely coming into contact with criminals like Gellert Grindelwald and his <a href="/wiki/Gellert_Grindelwald%27s_acolytes" title="Gellert Grindelwald&#39;s acolytes">followers</a>. His immediate reaction to any problem seemed to be attempting to remove it, leading Dumbledore to criticise the policies he had introduced while at the Ministry as those of 'suppression and violence'.
+</p><p>His position has also led him to expect instant obedience or submission to his demands or orders. Although he seemed to agree to compromise about lifting Newt Scamander's travel ban in exchange for him tracking down Credence Barebone and killing him, he refused to accept any negotiations about the terms of the deal, rejecting Newt's request as soon as he refused the deal. He also <i>demanded </i>that Dumbledore fight Grindelwald for the Ministry rather than ask, all the while ignoring the Hogwarts teacher's advice regarding his approach to dealing with the threat. He also refused to listen to <a href="/wiki/Theseus_Scamander" title="Theseus Scamander">Theseus</a>'s advice about arresting the entire crowd present at Grindelwald's rally and instead ordered him to follow his orders instead of questioning them.
+</p><p>He was also a very blunt man who made minimal effort to hide his opinions and feelings. He remained convinced, despite clear&#160;evidence to the contrary, that Newt was responsible for the partial destruction of New York during the <a href="/wiki/Obscurus" title="Obscurus">Obscurus</a> Incident. While this led him to express his dislike of certain people and their opinions (he never hid&#160;his disdain for Dumbledore), he didn't let his feelings blind him to the fact that Dumbledore was a far more powerful wizard than he was and that he was the only one who had the skill necessary to defeat Grindelwald. He also seemed to have a soft spot for Theseus Scamander, who served under him as the Head of the <a href="/wiki/Auror_Office" title="Auror Office">Auror Office</a>, trusting him with the lead of the <a href="/wiki/Gellert_Grindelwald%27s_Paris_rally" title="Gellert Grindelwald&#39;s Paris rally">intervention</a> to arrest the Paris rally. His trust or favour Theseus was enough to accept to include his fiancé, <a href="/wiki/Leta_Lestrange" title="Leta Lestrange">Leta Lestrange</a>, as a member of his own staff when he expressed a desire for her to work at the Ministry.
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Torquil_Travers?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Torquil_Travers?action=edit&amp;section=3" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b>Leadership skills</b>: Torquil Travers, as the Head of the <a href="/wiki/Department_of_Magical_Law_Enforcement" title="Department of Magical Law Enforcement">Department of Magical Law Enforcement</a> in the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">British Ministry of Magic</a>, had some effective leadership skills, though Travers' arrogance and abrasive attitude occasionally made him less effective, as evident in his conversation with <a href="/wiki/Albus_Dumbledore" title="Albus Dumbledore">Albus Dumbledore</a>, and hence Travers required the assistance of <a href="/wiki/Leta_Lestrange" title="Leta Lestrange">Leta Lestrange</a>. As a result, it is possible that Travers being a member of a <a href="/wiki/Sacred_Twenty-Eight" title="Sacred Twenty-Eight">Sacred Twenty-Eight</a> family played a bigger role in him attaining his extremely high position, than an aptitude for leadership.</li>
+<li><b><a href="/wiki/Transfiguration" title="Transfiguration">Transfiguration</a></b>: Travers was proficient in <a href="/wiki/Conjuration" title="Conjuration">Conjuration</a>, a very advanced branch of transfiguration, as he was able to swiftly conjure two highly complex <a href="/wiki/Admonitor" title="Admonitor">Admonitor</a> cuffs onto Dumbledore's wrists, items which allowed him to document his spell activity.</li>
+<li><b><a href="/wiki/Divination" title="Divination">Divination</a></b>: Travers had at least some knowledge of the subject, given his familiarity with <a href="/wiki/The_Predictions_of_Tycho_Dodonus" title="The Predictions of Tycho Dodonus">The Predictions of Tycho Dodonus</a>.</li>
+<li><b><a href="/wiki/Nonverbal_spell" title="Nonverbal spell">Nonverbal magic</a></b>: Travers was skilled at nonverbal spells, as he very swiftly cuffed Dumbledore's wrists into <a href="/wiki/Admonitor" title="Admonitor">Admonitors</a> without saying a word.</li>
+<li><b><a href="/wiki/Apparition" title="Apparition">Apparition</a></b>: Travers, like most adult wizards, could Apparate at will, as shown when he was able to Apparate to <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a>, along with <a href="/wiki/Theseus_Scamander" title="Theseus Scamander">Theseus Scamander</a>, <a href="/wiki/Leta_Lestrange" title="Leta Lestrange">Leta Lestrange</a>, and some other <a href="/wiki/Auror" title="Auror">Aurors</a>.</li></ul>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Torquil_Travers?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Torquil_Travers?action=edit&amp;section=4" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Torquil is an&#160;Anglicised&#160;form of the&#160;Norwegian&#160;and&#160;Swedish&#160;masculine name&#160;<i>Torkel</i>, and the&#160;Scottish Gaelic&#160;name&#160;<i><b>Torcall</b>, </i>ultimately stemming from the Old Norse name <i>Þorkell</i>. This Old Norse name is made up of the two elements:&#160;<i>Þór</i>, meaning "Thor" the&#160;Norse god&#160;of thunder; and&#160;<i>kell</i>&#160;(in some variants&#160;<i>ketill</i>), meaning "(sacrificial) cauldron".</li>
+<li>Travers is an English and Irish surname that means "toll or tolltaker" (as on bridges), "traverser" (Norman: "to cross"), "skillful", or (in French) "from the crossroads."</li></ul>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Torquil_Travers?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Torquil_Travers?action=edit&amp;section=5" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Torquil Travers is played by <a href="/wiki/Derek_Riddell" title="Derek Riddell">Derek Riddell</a> in the <a href="/wiki/Fantastic_Beasts:_The_Crimes_of_Grindelwald" title="Fantastic Beasts: The Crimes of Grindelwald">second instalment</a> of the <i><a href="/wiki/Fantastic_Beasts_(film_series)" title="Fantastic Beasts (film series)">Fantastic Beasts</a></i> film franchise.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Torquil_Travers?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Torquil_Travers?action=edit&amp;section=6" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Fantastic_Beasts:_The_Crimes_of_Grindelwald_-_The_Original_Screenplay" title="Fantastic Beasts: The Crimes of Grindelwald - The Original Screenplay">Fantastic Beasts: The Crimes of Grindelwald - The Original Screenplay</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Fantastic_Beasts:_The_Crimes_of_Grindelwald" title="Fantastic Beasts: The Crimes of Grindelwald">Fantastic Beasts: The Crimes of Grindelwald</a></i></li>
+<li><i><a href="/wiki/The_Archive_of_Magic:_The_Film_Wizardry_of_Fantastic_Beasts:_The_Crimes_of_Grindelwald" title="The Archive of Magic: The Film Wizardry of Fantastic Beasts: The Crimes of Grindelwald">The Archive of Magic: The Film Wizardry of Fantastic Beasts: The Crimes of Grindelwald</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Torquil_Travers?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Torquil_Travers?action=edit&amp;section=7" title="Edit section: Notes and references

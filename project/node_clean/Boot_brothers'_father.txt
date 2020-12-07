@@ -1,0 +1,90 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default"><section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Mr Boot</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font">Mid-<a href="/wiki/1620s" title="1620s">1620s</a> to early <a href="/wiki/1630s" title="1630s">1630s</a><sup id="cite_ref-Pottermore_1-2" class="reference"><a href="#cite_note-Pottermore-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Ireland" title="Ireland">Irish</a><sup id="cite_ref-Pottermore_1-11" class="reference"><a href="#cite_note-Pottermore-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-Pottermore_1-0" class="reference"><a href="#cite_note-Pottermore-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male<sup id="cite_ref-Pottermore_1-1" class="reference"><a href="#cite_note-Pottermore-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Boot_brothers%27_mother" title="Boot brothers&#039; mother">Mrs Boot</a> (wife)<sup id="cite_ref-Pottermore_1-3" class="reference"><a href="#cite_note-Pottermore-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/Chadwick_Boot" title="Chadwick Boot">Chadwick Boot</a> (son)<sup id="cite_ref-Pottermore_1-4" class="reference"><a href="#cite_note-Pottermore-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/Webster_Boot" title="Webster Boot">Webster Boot</a> (son)<sup id="cite_ref-Pottermore_1-5" class="reference"><a href="#cite_note-Pottermore-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/Josefina_Calderon" title="Josefina Calderon">Josefina Calderon</a> (daughter-in-law)<sup id="cite_ref-Pottermore_1-6" class="reference"><a href="#cite_note-Pottermore-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/Webster_Boot%27s_wife" title="Webster Boot&#039;s wife">Mrs Boot</a> (daughter-in-law)<sup id="cite_ref-Pottermore_1-7" class="reference"><a href="#cite_note-Pottermore-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/Terry_Boot" title="Terry Boot">Terry Boot</a> (descendant)<sup id="cite_ref-Pottermore_1-8" class="reference"><a href="#cite_note-Pottermore-1">&#91;1&#93;</a></sup></li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Magical characteristics</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="wand">
+	
+		<h3 class="pi-data-label pi-secondary-font">Wand</h3>
+	
+	<div class="pi-data-value pi-font">Unknown wood and length, <a href="/wiki/Dragon_heartstring" title="Dragon heartstring">dragon heartstring</a><sup id="cite_ref-Pottermore_1-9" class="reference"><a href="#cite_note-Pottermore-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Boot_family" title="Boot family">Boot family</a><sup id="cite_ref-Pottermore_1-10" class="reference"><a href="#cite_note-Pottermore-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+<b>Mr Boot</b> (d. mid-<a href="/wiki/1620s" title="1620s">1620s</a> to early <a href="/wiki/1630s" title="1630s">1630s</a>) was an <a href="/wiki/Ireland" title="Ireland">Irish</a> <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> who travelled to the <a href="/wiki/United_States_of_America" title="United States of America">New World</a> with the <a href="/wiki/Plymouth_settlement" title="Plymouth settlement">Plymouth settlement</a> in the <a href="/wiki/17th_century" title="17th century">17th century</a>. He was the father of <a href="/wiki/Chadwick_Boot" title="Chadwick Boot">Chadwick</a> and <a href="/wiki/Webster_Boot" title="Webster Boot">Webster Boot</a>, two founders of <a href="/wiki/Ilvermorny_School_of_Witchcraft_and_Wizardry" title="Ilvermorny School of Witchcraft and Wizardry">Ilvermorny School of Witchcraft and Wizardry</a>.<sup id="cite_ref-Pottermore_1-12" class="reference"><a href="#cite_note-Pottermore-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Boot_brothers%27_father?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Boot_brothers%27_father?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Mr Boot and <a href="/wiki/Boot_brothers%27_mother" title="Boot brothers&#39; mother">his wife</a> were originally from <a href="/wiki/Ireland" title="Ireland">Ireland</a>. In the <a href="/wiki/1620s" title="1620s">1620s</a>, they decided to move to the <a href="/wiki/North_America" title="North America">New World</a> with their young sons, <a href="/wiki/Chadwick_Boot" title="Chadwick Boot">Chadwick</a> and <a href="/wiki/Webster_Boot" title="Webster Boot">Webster</a>, in search of an adventure. They travelled with the <a href="/wiki/Plymouth_settlement" title="Plymouth settlement">Plymouth settlement</a>, and became friends with a <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> stonemason, <a href="/wiki/James_Steward" title="James Steward">James Steward</a>, on their journey across the <a href="/wiki/Atlantic_Ocean" title="Atlantic Ocean">Atlantic</a>.<sup id="cite_ref-Pottermore_1-13" class="reference"><a href="#cite_note-Pottermore-1">&#91;1&#93;</a></sup>
+</p><p>However, when the family left the settlement to venture into the nearby woods for their adventure, they were attacked by a <a href="/wiki/Hidebehind" title="Hidebehind">Hidebehind</a>. Mr Boot and his wife were killed, but <a href="/wiki/Isolt_Sayre" title="Isolt Sayre">Isolt Sayre</a> and <a href="/wiki/William_(Pukwudgie)" title="William (Pukwudgie)">William the Pukwudgie</a> intervened, and managed to save their sons' lives. The boys were subsequently nursed back to health by Isolt.<sup id="cite_ref-Pottermore_1-14" class="reference"><a href="#cite_note-Pottermore-1">&#91;1&#93;</a></sup>
+</p><p>Two weeks later, Isolt returned to the place the Mr and Mrs Boot were killed, intending to give the couple a decent burial. She found that James Steward was already in the process of digging graves himself. James had become concerned when his friends went missing, and thus went looking for them in the woods.<sup id="cite_ref-Pottermore_1-15" class="reference"><a href="#cite_note-Pottermore-1">&#91;1&#93;</a></sup>
+</p><p>Mr Boot's sons were adopted by Isolt and James. Isolt took Mr Boot's <a href="/wiki/Wand" title="Wand">wand</a> (which had a <a href="/wiki/Dragon" title="Dragon">dragon</a> <a href="/wiki/Dragon_heartstring" title="Dragon heartstring">heartstring</a> <a href="/wiki/Wand_core" title="Wand core">core</a>), along with that of his wife. However, both wands were broken and their cores eventually died, meaning they could not be passed on to the couple's sons. Nonetheless, Isolt was able to study the couple's wands, and this helped her to craft new wands for her adopted sons.<sup id="cite_ref-Pottermore_1-16" class="reference"><a href="#cite_note-Pottermore-1">&#91;1&#93;</a></sup>
+</p><p>Mr Boot's sons would go on to help found <a href="/wiki/Ilvermorny_School_of_Witchcraft_and_Wizardry" title="Ilvermorny School of Witchcraft and Wizardry">Ilvermorny School of Witchcraft and Wizardry</a>. Through his son Chadwick, he become an ancestor of <a href="/wiki/Calderon-Boot_family" title="Calderon-Boot family">Calderon-Boot family</a>, and through his son Webster, an ancestor of later British Boots (including <a href="/wiki/Terry_Boot" title="Terry Boot">Terry Boot</a>).<sup id="cite_ref-Pottermore_1-17" class="reference"><a href="#cite_note-Pottermore-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Boot_brothers%27_father?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Boot_brothers%27_father?action=edit&amp;section=2" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> <small>(First mentioned)</small></li>
+<li><i><a href="/wiki/Wizarding_World_(website)" title="Wizarding World (website)">Wizarding World</a></i> <small>(Mentioned only)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Boot_brothers%27_father?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Boot_brothers%27_father?action=edit&amp;section=3" title="Edit section: Notes and references

@@ -1,0 +1,61 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-muggle pi-layout-default"><section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Jim McGuffin</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a><sup id="cite_ref-PS1_1-0" class="reference"><a href="#cite_note-PS1-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-PS1_1-1" class="reference"><a href="#cite_note-PS1-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male<sup id="cite_ref-PS1_1-2" class="reference"><a href="#cite_note-PS1-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Meteorologist<sup id="cite_ref-PS1_1-3" class="reference"><a href="#cite_note-PS1-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Philosopher&#39;s Stone">"<i>And now, over to Jim McGuffin for the weather. Going to be any more showers of owls, tonight, Jim?</i>"<br />"<i>Well, Ted, I don’t know about that, but it’s not only the owls that have been acting oddly today. Viewers as far apart as <a href="/wiki/Kent" title="Kent">Kent</a>, <a href="/wiki/Yorkshire" title="Yorkshire">Yorkshire</a>, and <a href="/wiki/Dundee" title="Dundee">Dundee</a> have been phoning in to tell me that instead of the rain I promised yesterday, they’ve had a downpour of shooting stars! Perhaps people have been celebrating <a href="/wiki/Bonfire_Night" title="Bonfire Night">Bonfire Night</a> early — it’s not until next week, folks! But I can promise a wet night tonight.</i>"</span></dd>
+<dd>&#8212;Ted and Jim McGuffin<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone" title="Harry Potter and the Philosopher&#39;s Stone">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Jim McGuffin</b> was a <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> <a href="/wiki/Television" title="Television">television</a> weatherman in <a href="/wiki/1981" title="1981">1981</a>, working alongside <a href="/wiki/Ted" title="Ted">Ted</a>. McGuffin had predicted <a href="/wiki/Water" title="Water">rain</a> for <a href="/wiki/1_November" title="1 November">November 1st</a>, but due to the downfall of <a href="/wiki/Tom_Riddle" title="Tom Riddle">Lord Voldemort</a> and celebrations by the <a href="/wiki/Wizarding_world" title="Wizarding world">Wizarding community</a>, his forecasted rain became shooting stars across some areas of <a href="/wiki/Great_Britain" title="Great Britain">Great Britain</a>. Obviously unaware of the true reason, McGuffin wondered on air if people had been <a href="/wiki/Fall_of_Lord_Voldemort_celebrations" title="Fall of Lord Voldemort celebrations">celebrating</a> <a href="/wiki/Bonfire_Night" title="Bonfire Night">Bonfire Night</a> early. <a href="/wiki/Vernon_Dursley" title="Vernon Dursley">Vernon Dursley</a> watched the broadcast, prompting him to ask his wife, <a href="/wiki/Petunia_Dursley" title="Petunia Dursley">Petunia</a>, if the peculiar weather had anything to do with her <a href="/wiki/Lily_J._Potter" title="Lily J. Potter">sister's</a> "<a href="/wiki/Wizardkind" title="Wizardkind">people</a>."<sup id="cite_ref-PS1_1-4" class="reference"><a href="#cite_note-PS1-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Jim_McGuffin?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Jim_McGuffin?action=edit&amp;section=1" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>In fiction, a <b>MacGuffin</b> (sometimes <b>McGuffin</b> or <b>maguffin</b>) is a plot device in the form of some goal, desired object, or other motivator that the protagonist pursues, often with little or no narrative explanation. The specific nature of a MacGuffin is typically unimportant to the overall plot. The most common type of MacGuffin is a person, place, or thing (such as money or an object of value). Other more abstract types include victory, glory, survival, power, love, or some unexplained driving force.<sup id="cite_ref-Wikipedia_2-0" class="reference"><a href="#cite_note-Wikipedia-2">&#91;2&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Jim_McGuffin?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Jim_McGuffin?action=edit&amp;section=2" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone" title="Harry Potter and the Philosopher&#39;s Stone">Harry Potter and the Philosopher's Stone</a></i> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Jim_McGuffin?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Jim_McGuffin?action=edit&amp;section=3" title="Edit section: Notes and references

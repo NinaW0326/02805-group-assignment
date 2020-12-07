@@ -1,0 +1,36 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-iu-book pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name"><i>Hocus-Pocus</i></h2>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Book information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="released">
+	
+		<h3 class="pi-data-label pi-secondary-font">Released</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/1996" title="1996">1996</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="publisher">
+	
+		<h3 class="pi-data-label pi-secondary-font">Publisher</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/Daily_Prophet" title="Daily Prophet">Daily Prophet</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="subject">
+	
+		<h3 class="pi-data-label pi-secondary-font">Subject</h3>
+	
+	<div class="pi-data-value pi-font">Newspaper segment</div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Book_infobox" title="Template:Book infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<i><b>Hocus-Pocus</b></i> was a <i><a href="/wiki/Daily_Prophet" title="Daily Prophet">Daily Prophet</a></i> newspaper segment that covered <a href="/wiki/Spell" title="Spell">spells</a>. It was featured on page eight of the periodical.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Hocus-Pocus_(Daily_Prophet_segment)?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Hocus-Pocus_(Daily_Prophet_segment)?action=edit&amp;section=1" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(film)" title="Harry Potter and the Order of the Phoenix (film)">Harry Potter and the Order of the Phoenix (film)</a></i> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Hocus-Pocus_(Daily_Prophet_segment)?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Hocus-Pocus_(Daily_Prophet_segment)?action=edit&amp;section=2" title="Edit section: Notes and references

@@ -1,0 +1,83 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-dark-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/b/ba/Loxias.jpg/revision/latest?cb=20200408201427" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/b/ba/Loxias.jpg/revision/latest/scale-to-width-down/350?cb=20200408201427" srcset="https://static.wikia.nocookie.net/harrypotter/images/b/ba/Loxias.jpg/revision/latest/scale-to-width-down/350?cb=20200408201427 1x, https://static.wikia.nocookie.net/harrypotter/images/b/ba/Loxias.jpg/revision/latest/scale-to-width-down/700?cb=20200408201427 2x" class="pi-image-thumbnail" alt="" width="270" height="280"
+		     data-image-key="Loxias.jpg" data-image-name="Loxias.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Loxias</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Pale<sup id="cite_ref-TBB_1-0" class="reference"><a href="#cite_note-TBB-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Loxias%27s_mother" title="Loxias&#039;s mother">Mother</a></li><li><a href="/wiki/Loxias%27s_family" title="Loxias&#039;s family">Family</a></li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Magical characteristics</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="wand">
+	
+		<h3 class="pi-data-label pi-secondary-font">Wand</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>Unknown wand<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></li><li><a href="/wiki/Elder_Wand" title="Elder Wand">Elder, Thestral tail hair core</a></li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Elder_Wand" title="Elder Wand">Elder Wand</a></li><li><a href="/wiki/Dark_Arts" title="Dark Arts">Dark Arts</a></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Loxias</b> was a <a href="/wiki/Dark_wizard" class="mw-redirect" title="Dark wizard">Dark wizard</a> who became Master of the <a href="/wiki/Elder_Wand" title="Elder Wand">Elder Wand</a> after he murdered <a href="/wiki/Barnabas_Deverill" title="Barnabas Deverill">Barnabas Deverill</a>. Loxias gave it the name of <i>"<a href="/wiki/Elder_Wand" title="Elder Wand">the Deathstick</a>"</i>, and used it to vanquish his enemies. It is unknown who killed him, as—according to Dumbledore—many claimed to have finished him off, including <a href="/wiki/Loxias%27s_mother" title="Loxias&#39;s mother">his own mother</a>,<sup id="cite_ref-TBB_1-1" class="reference"><a href="#cite_note-TBB-1">&#91;1&#93;</a></sup> but from <a href="/wiki/Xenophilius_Lovegood" title="Xenophilius Lovegood">Xenophilius Lovegood</a>'s understanding of history, either <a href="/wiki/Arcus" title="Arcus">Arcus</a> or <a href="/wiki/Livius" title="Livius">Livius</a> seems to have done it, and thus became the next master of the Elder Wand.<sup id="cite_ref-DH21_3-0" class="reference"><a href="#cite_note-DH21-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Loxias?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Loxias?action=edit&amp;section=1" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">Harry Potter and the Deathly Hallows</a></i> <small>(First mentioned)</small></li>
+<li><i><a href="/wiki/The_Tales_of_Beedle_the_Bard_(real)" title="The Tales of Beedle the Bard (real)">The Tales of Beedle the Bard</a></i> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Loxias?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Loxias?action=edit&amp;section=2" title="Edit section: Notes and references

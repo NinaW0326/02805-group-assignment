@@ -1,0 +1,195 @@
+<div class="mw-parser-output"><table class="notice metadata" id="spoiler" style="text-align: center; background: beige; margin: 1em 05%; padding: 0 1em; border: #a00 1px solid;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/8/8c/Hogwarts_Mystery.jpeg/revision/latest?cb=20180504083359" class="image"><img alt="Hogwarts Mystery.jpeg" src="https://static.wikia.nocookie.net/harrypotter/images/8/8c/Hogwarts_Mystery.jpeg/revision/latest/scale-to-width-down/175?cb=20180504083359" decoding="async" width="175" height="77" data-image-name="Hogwarts Mystery.jpeg" data-image-key="Hogwarts_Mystery.jpeg" /></a>
+</td>
+<td><b>Warning!</b>
+<p>At least some content in this article is derived from information featured in <i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i>. Spoilers will be present within the article.
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-ravenclaw pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/1/1c/Andre_Egwu.png/revision/latest?cb=20200402223905" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/1/1c/Andre_Egwu.png/revision/latest/scale-to-width-down/350?cb=20200402223905" srcset="https://static.wikia.nocookie.net/harrypotter/images/1/1c/Andre_Egwu.png/revision/latest/scale-to-width-down/350?cb=20200402223905 1x, https://static.wikia.nocookie.net/harrypotter/images/1/1c/Andre_Egwu.png/revision/latest/scale-to-width-down/700?cb=20200402223905 2x" class="pi-image-thumbnail" alt="" width="270" height="378"
+		     data-image-key="Andre_Egwu.png" data-image-name="Andre Egwu.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Andre Egwu</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">Between <a href="/wiki/1_September" title="1 September">1 September</a> <a href="/wiki/1972" title="1972">1972</a> and <a href="/wiki/31_August" title="31 August">31 August</a> <a href="/wiki/1973" title="1973">1973</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Pure-blood" title="Pure-blood">Pure-blood</a> or <a href="/wiki/Half-blood" title="Half-blood">half-blood</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a> or <a href="/wiki/Ireland" title="Ireland">Irish</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="title">
+	
+		<h3 class="pi-data-label pi-secondary-font">Title(s)</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>Reserve <a href="/wiki/Seeker" title="Seeker">Seeker</a><sup id="cite_ref-Q22_3-0" class="reference"><a href="#cite_note-Q22-3">&#91;3&#93;</a></sup></li><li><a href="/wiki/Keeper" title="Keeper">Keeper</a><sup id="cite_ref-owl_4-0" class="reference"><a href="#cite_note-owl-4">&#91;4&#93;</a></sup></li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Black</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Brown</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Dark</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Andre_Egwu%27s_grandmother" title="Andre Egwu&#039;s grandmother">Grandmother</a><sup id="cite_ref-yr4ch5_5-0" class="reference"><a href="#cite_note-yr4ch5-5">&#91;5&#93;</a></sup></li><li><a href="/wiki/Andre_Egwu%27s_sister" title="Andre Egwu&#039;s sister">Sister</a><sup id="cite_ref-yr3ch3_6-0" class="reference"><a href="#cite_note-yr3ch3-6">&#91;6&#93;</a></sup></li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="house">
+	
+		<h3 class="pi-data-label pi-secondary-font">House</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Ravenclaw" title="Ravenclaw">Ravenclaw</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a><ul><li><a href="/wiki/Ravenclaw" title="Ravenclaw">Ravenclaw</a></li><li><a href="/wiki/Ravenclaw_Quidditch_team" title="Ravenclaw Quidditch team">Ravenclaw Quidditch team</a></li><li><a href="/wiki/Dragon_Club" title="Dragon Club">Dragon Club</a><sup id="cite_ref-Poster_7-0" class="reference"><a href="#cite_note-Poster-7">&#91;7&#93;</a></sup></li></ul></li><li><a href="/wiki/Pride_of_Portree" title="Pride of Portree">Pride of Portree</a></li><li><a href="/wiki/Circle_of_Khanna" title="Circle of Khanna">Circle of Khanna</a><sup id="cite_ref-hm20_8-0" class="reference"><a href="#cite_note-hm20-8">&#91;8&#93;</a></sup></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Andre Egwu</b> (born c. <a href="/wiki/1973" title="1973">1973</a>) was a <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> who began attending <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> in <a href="/wiki/1984" title="1984">1984</a> and was <a href="/wiki/Sorting_ceremony" title="Sorting ceremony">Sorted</a> into <a href="/wiki/Ravenclaw" title="Ravenclaw">Ravenclaw</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> He was a devoted fan of the <a href="/wiki/Pride_of_Portree" title="Pride of Portree">Pride of Portree</a> <a href="/wiki/Quidditch_team" title="Quidditch team">Quidditch team</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Hogwarts_years_.281984-1990.29"><span class="tocnumber">1.1</span> <span class="toctext">Hogwarts years <span>(1984-1990)</span></span></a>
+<ul>
+<li class="toclevel-3 tocsection-3"><a href="#Second_year"><span class="tocnumber">1.1.1</span> <span class="toctext">Second year</span></a></li>
+<li class="toclevel-3 tocsection-4"><a href="#Third_year"><span class="tocnumber">1.1.2</span> <span class="toctext">Third year</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#Fourth_year"><span class="tocnumber">1.1.3</span> <span class="toctext">Fourth year</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Fifth_year"><span class="tocnumber">1.1.4</span> <span class="toctext">Fifth year</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#Sixth_year"><span class="tocnumber">1.1.5</span> <span class="toctext">Sixth year</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Physical_appearance"><span class="tocnumber">2</span> <span class="toctext">Physical appearance</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Magical_abilities_and_skills"><span class="tocnumber">3</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Behind_the_scenes"><span class="tocnumber">4</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Appearances"><span class="tocnumber">5</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Notes_and_references"><span class="tocnumber">6</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Andre_Egwu?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Andre_Egwu?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="Hogwarts_years_(1984-1990)"></span><span class="mw-headline" id="Hogwarts_years_.281984-1990.29">Hogwarts years <span class="template-c">(1984-1990)</span></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Andre_Egwu?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Hogwarts years (1984-1990)">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Andre_Egwu?action=edit&amp;section=2" title="Edit section: Hogwarts years (1984-1990)"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="thumb tright show-info-icon" style="width: 122px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/2/29/Andre_Egwu_HM.jpeg/revision/latest?cb=20180429094827" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/2/29/Andre_Egwu_HM.jpeg/revision/latest/scale-to-width-down/120?cb=20180429094827" decoding="async" width="120" height="309" class="thumbimage" data-image-name="Andre Egwu HM.jpeg" data-image-key="Andre_Egwu_HM.jpeg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Andre_Egwu_HM.jpeg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Andre during <a href="/wiki/Transfiguration_(class)" title="Transfiguration (class)">Transfiguration class</a></p> 		 	</figcaption> </figure>
+<p>During his time at Hogwarts, Andre was in the same <a href="/wiki/Transfiguration_(class)" title="Transfiguration (class)">Transfiguration class</a> with <a href="/wiki/Jacob%27s_sibling" title="Jacob&#39;s sibling">Jacob's sibling</a> and <a href="/wiki/Rowan_Khanna" title="Rowan Khanna">Rowan Khanna</a>, in which he expressed liking animals.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="Second_year">Second year</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Andre_Egwu?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Second year">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Andre_Egwu?action=edit&amp;section=3" title="Edit section: Second year"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In the <a href="/wiki/1985%E2%80%931986_school_year" title="1985–1986 school year">1985–1986 school year</a>, Andre was asked by <a href="/wiki/Rolanda_Hooch" title="Rolanda Hooch">Madam Hooch</a> to show the other students in his year how to weave during <a href="/wiki/Flying_(class)" title="Flying (class)">Flying class</a>.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</p><p>Andre joined the <a href="/wiki/Ravenclaw_Quidditch_team" title="Ravenclaw Quidditch team">Ravenclaw Quidditch team</a>, initially as a reserve <a href="/wiki/Seeker" title="Seeker">Seeker</a>. He was exceptionally skilled at flying, but was not good at playing as a Seeker.<sup id="cite_ref-Q22_3-1" class="reference"><a href="#cite_note-Q22-3">&#91;3&#93;</a></sup> Despite this, he was considered the best <a href="/wiki/Quidditch" title="Quidditch">Quidditch</a> player at the school by some, though he himself thought that <a href="/wiki/Charles_Weasley" title="Charles Weasley">Charles Weasley</a> was better. He was among the team members trapped by <a href="/wiki/Cursed_ice" title="Cursed ice">cursed ice</a> in the <a href="/wiki/Quidditch_Changing_Rooms" title="Quidditch Changing Rooms">Quidditch Changing Rooms</a>.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup><sup id="cite_ref-yr3ch3_6-1" class="reference"><a href="#cite_note-yr3ch3-6">&#91;6&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="Third_year">Third year</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Andre_Egwu?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Third year">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Andre_Egwu?action=edit&amp;section=4" title="Edit section: Third year"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In the <a href="/wiki/1986%E2%80%931987_school_year" title="1986–1987 school year">1986–1987 school year</a>, Andre was asked by Madam Hooch to show the other students in his year how to roll during Flying class.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup>
+</p><p>Andre properly introduced himself to <a href="/wiki/Jacob%27s_sibling" title="Jacob&#39;s sibling">Jacob's sibling</a> on their first <a href="/wiki/Hogsmeade_weekend_trips" title="Hogsmeade weekend trips">Hogsmeade weekend trips</a>,<sup id="cite_ref-yr3ch3_6-2" class="reference"><a href="#cite_note-yr3ch3-6">&#91;6&#93;</a></sup> though they had met in Transfiguration and Flying classes before. During this year, Andre also revealed to <a href="/wiki/Jacob%27s_sibling" title="Jacob&#39;s sibling">Jacob's sibling</a> that despite what people had heard of him, he was only a reserve Seeker, not an actual player on the team.<sup id="cite_ref-Q22_3-2" class="reference"><a href="#cite_note-Q22-3">&#91;3&#93;</a></sup>
+</p><p>Andre eventually became the <a href="/wiki/Keeper" title="Keeper">Keeper</a> of the Ravenclaw Quidditch team, a position at which he proved to be more talented. He replaced previous Keeper <a href="/wiki/Brennan_Doyle" title="Brennan Doyle">Brennan Doyle</a>.<sup id="cite_ref-_14-0" class="reference"><a href="#cite_note--14">&#91;14&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="Fourth_year">Fourth year</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Andre_Egwu?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Fourth year">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Andre_Egwu?action=edit&amp;section=5" title="Edit section: Fourth year"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In the <a href="/wiki/1987%E2%80%931988_school_year" title="1987–1988 school year">1987–1988 school year</a>, Andre expressed needing new buttons for his cloaks during the <a href="/wiki/Beetle_Buttons" title="Beetle Buttons">Button to Beetle</a> Transfiguration lesson.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup> During the lesson on the <a href="/wiki/Snake_Summons_Spell" title="Snake Summons Spell">Snake Summons Spell</a>, he wondered if he would have been judged should he wear <a href="/wiki/Snake_skin" title="Snake skin">snakeskin</a> trousers.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="Fifth_year">Fifth year</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Andre_Egwu?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Fifth year">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Andre_Egwu?action=edit&amp;section=6" title="Edit section: Fifth year"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In the <a href="/wiki/1988%E2%80%931989_school_year" title="1988–1989 school year">1988–1989 school year</a>, after finishing the <a href="/wiki/Potions_(class)" title="Potions (class)">Potions</a> <a href="/wiki/Ordinary_Wizarding_Level" title="Ordinary Wizarding Level">O.W.L.</a>, <a href="/wiki/Charles_Weasley" title="Charles Weasley">Charles Weasley</a> asked <a href="/wiki/Jacob%27s_sibling" title="Jacob&#39;s sibling">Jacob's sibling</a> for help, for Andre apparently didn't think revisions were needed.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup> The three met up at the <a href="/wiki/Three_Broomsticks_Inn" title="Three Broomsticks Inn">Three Broomsticks Inn</a>, where Andre's dream to become a professional <a href="/wiki/Keeper" title="Keeper">Keeper</a> was revealed to be his reason for disregarding preparations for the exam. After Jacob's sibling persuaded Andre to take the exam a little more seriously, the three chatted about <a href="/wiki/Jobs_in_the_wizarding_world" title="Jobs in the wizarding world">careers</a> over <a href="/wiki/Butterbeer" title="Butterbeer">Butterbeer</a>.<sup id="cite_ref-owl_4-1" class="reference"><a href="#cite_note-owl-4">&#91;4&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="Sixth_year">Sixth year</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Andre_Egwu?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Sixth year">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Andre_Egwu?action=edit&amp;section=7" title="Edit section: Sixth year"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Sometime during his sixth year, Andre became a founding member of the <a href="/wiki/Circle_of_Khanna" title="Circle of Khanna">Circle of Khanna</a>, a group devoted to avenging <a href="/wiki/Rowan_Khanna" title="Rowan Khanna">Rowan Khanna</a> and locating the final <a href="/wiki/Cursed_Vaults" title="Cursed Vaults">cursed vault</a>. It was at the groups first meeting in the <a href="/wiki/Hog%27s_Head_Inn" title="Hog&#39;s Head Inn">Hog's Head Inn</a> that he learned of the malevolent organisation "<a href="/wiki/R" title="R">R</a>" and it's <a href="/wiki/Plot_to_find_the_Cursed_Vaults" title="Plot to find the Cursed Vaults">motives</a> to locate the final Cursed Vault before them.<sup id="cite_ref-hm20_8-1" class="reference"><a href="#cite_note-hm20-8">&#91;8&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Physical_appearance">Physical appearance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Andre_Egwu?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Physical appearance">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Andre_Egwu?action=edit&amp;section=8" title="Edit section: Physical appearance"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Andre had short black hair, dark skin and handsome brown eyes. He also usually wore a <a href="/wiki/Pride_of_Portree" title="Pride of Portree">Pride of Portree</a> scarf.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Andre_Egwu?veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Andre_Egwu?action=edit&amp;section=9" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tright show-info-icon" style="width: 142px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/7/7a/Andre_Flying_Class.jpeg/revision/latest?cb=20180726184639" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/7/7a/Andre_Flying_Class.jpeg/revision/latest/scale-to-width-down/140?cb=20180726184639" decoding="async" width="140" height="50" class="thumbimage" data-image-name="Andre Flying Class.jpeg" data-image-key="Andre_Flying_Class.jpeg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Andre_Flying_Class.jpeg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Andre during a Flying Lesson</p> 		 	</figcaption> </figure>
+<ul><li><b><a href="/wiki/Flight" title="Flight">Flying</a></b>: Andre was a highly talented and accomplished <a href="/wiki/Broomstick" title="Broomstick">broomstick</a> flyer from an early age, quickly mastering various flying techniques during <a href="/wiki/Flying_(class)" title="Flying (class)">Flying class</a> and being proficient enough to be selected on the <a href="/wiki/Ravenclaw_Quidditch_team" title="Ravenclaw Quidditch team">Ravenclaw Quidditch team</a> as <a href="/wiki/Keeper" title="Keeper">Keeper</a>. Some at Hogwarts considered him the best <a href="/wiki/Quidditch" title="Quidditch">Quidditch</a> player in the school, which clearly shows his impressive skill in this <a href="/wiki/Magic" title="Magic">magical</a> sport.</li></ul>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Andre_Egwu?veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Andre_Egwu?action=edit&amp;section=10" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tright show-info-icon" style="width: 157px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/b/b2/Andre%27s_clothing_item.jpg/revision/latest?cb=20180630140456" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="155" height="160" class="thumbimage lazyload" data-image-name="Andre&#39;s clothing item.jpg" data-image-key="Andre&#39;s_clothing_item.jpg" data-src="https://static.wikia.nocookie.net/harrypotter/images/b/b2/Andre%27s_clothing_item.jpg/revision/latest/scale-to-width-down/155?cb=20180630140456" /></a> 	<noscript><a href="https://static.wikia.nocookie.net/harrypotter/images/b/b2/Andre%27s_clothing_item.jpg/revision/latest?cb=20180630140456" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/b/b2/Andre%27s_clothing_item.jpg/revision/latest/scale-to-width-down/155?cb=20180630140456" decoding="async" width="155" height="160" class="thumbimage" data-image-name="Andre&#39;s clothing item.jpg" data-image-key="Andre&#39;s_clothing_item.jpg" data-src="https://static.wikia.nocookie.net/harrypotter/images/b/b2/Andre%27s_clothing_item.jpg/revision/latest/scale-to-width-down/155?cb=20180630140456" /></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Andre%27s_clothing_item.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Pride Of Portree shirt</p> 		 	</figcaption> </figure>
+<ul><li>In <i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i>, Andre is unlocked as a friend upon the completion of Chapter 1 of Year 4.
+<ul><li>Upon reaching maximum friendship at level 10 with Andre, a unique clothing item is gifted to the player: a Pride of Portree shirt.</li>
+<li>He is one of the four characters (along with <a href="/wiki/Merula_Snyde" title="Merula Snyde">Merula Snyde</a>, <a href="/wiki/Penny_Haywood" title="Penny Haywood">Penny Haywood</a>, and <a href="/wiki/Barnaby_Lee" title="Barnaby Lee">Barnaby Lee</a>) available as romance options for all four dating side quests: Celestial Ball, First Date, Valentine's Day, and Festival Fun. As with all other options, this can be done regardless of Jacob's sibling's gender.</li></ul></li>
+<li>In <i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i>, when <a href="/wiki/Jacob%27s_sibling" title="Jacob&#39;s sibling">Jacob's sibling</a> needed to secure a <a href="/wiki/Broomstick" title="Broomstick">broomstick</a> to fly into the <a href="/wiki/Forbidden_Forest" title="Forbidden Forest">Forbidden Forest</a>, the player got to choose between Andre, <a href="/wiki/Merula_Snyde" title="Merula Snyde">Merula Snyde</a>, and <a href="/wiki/Ismelda_Murk" title="Ismelda Murk">Ismelda Murk</a>. If Andre was chosen, his concern was that he might get kicked off the Ravenclaw Quidditch team, Jacob's sibling getting hurt, and his broom, given to him by <a href="/wiki/Andre_Egwu%27s_grandmother" title="Andre Egwu&#39;s grandmother">his grandmother</a>, getting broken.<sup id="cite_ref-yr4ch5_5-1" class="reference"><a href="#cite_note-yr4ch5-5">&#91;5&#93;</a></sup></li>
+<li>In <i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i>, when Jacob's sibling needed an additional helper alongside <a href="/wiki/Charles_Weasley" title="Charles Weasley">Charlie Weasley</a> and <a href="/wiki/Sickleworth" title="Sickleworth">Sickleworth</a> to search for the missing half of <a href="/wiki/Torvus" title="Torvus">Torvus</a>' family heirloom in the <a href="/wiki/Forbidden_Forest" title="Forbidden Forest">Forbidden Forest</a>, the player got to choose between Andre, <a href="/wiki/Ben_Copper" title="Ben Copper">Ben Copper</a>, and Ismelda Murk. If Andre was chosen, Charlie would respond having to always think it cool should they be on the same team, as they are both Qudditch players but for different House.<sup id="cite_ref-yr4ch10_19-0" class="reference"><a href="#cite_note-yr4ch10-19">&#91;19&#93;</a></sup>
+<ul><li>The statement may imply Andre being less likely a <a href="/wiki/Seeker" title="Seeker">Seeker</a>, for it'd make little sense for Charlie to imagine them being on the same team were they both playing for the same position.</li>
+<li>Andre's actual Quidditch position was only revealed in Year 5, as Keeper.<sup id="cite_ref-owl_4-2" class="reference"><a href="#cite_note-owl-4">&#91;4&#93;</a></sup></li></ul></li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Andre_Egwu?veaction=edit&amp;section=11" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Andre_Egwu?action=edit&amp;section=11" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" class="lazyload" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 25 images related to <i><b><a href="/wiki/Category:Images_of_Andre_Egwu" title="Category:Images of Andre Egwu">Andre Egwu</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<ul><li><i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Andre_Egwu?veaction=edit&amp;section=12" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Andre_Egwu?action=edit&amp;section=12" title="Edit section: Notes and references

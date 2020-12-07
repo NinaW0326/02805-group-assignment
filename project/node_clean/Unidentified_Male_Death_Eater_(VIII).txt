@@ -1,0 +1,159 @@
+<div class="mw-parser-output"><table class="notice metadata" cellpadding="3px" style="text-align: center; background: snow; border: #a00 1px solid; margin: 1em 10% 1em 10%;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/1/11/Hermione_Granger_%28HBP_promo%29_5.jpg/revision/latest?cb=20090817203540" class="image"><img alt="Hermione Granger (HBP promo) 5.jpg" src="https://static.wikia.nocookie.net/harrypotter/images/1/11/Hermione_Granger_%28HBP_promo%29_5.jpg/revision/latest/scale-to-width-down/60?cb=20090817203540" decoding="async" width="60" height="80" data-image-name="Hermione Granger (HBP promo) 5.jpg" data-image-key="Hermione_Granger_(HBP_promo)_5.jpg" /></a>
+</td>
+<td><i><b>"Are you a wizard or not?"</b></i>
+<p>The title of this article is conjectural.  Although it is based on <a href="/wiki/Canon" title="Canon">canonical information</a>, the actual name is a conjecture and may be supplanted at any time by additional information released from canonical sources.  If this occurs, please move this page to the appropriate title.
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-death-eater pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/c/ca/Joncampling.jpg/revision/latest?cb=20110705073008" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/c/ca/Joncampling.jpg/revision/latest/scale-to-width-down/266?cb=20110705073008" srcset="https://static.wikia.nocookie.net/harrypotter/images/c/ca/Joncampling.jpg/revision/latest/scale-to-width-down/266?cb=20110705073008 1x, https://static.wikia.nocookie.net/harrypotter/images/c/ca/Joncampling.jpg/revision/latest/scale-to-width-down/532?cb=20110705073008 2x" class="pi-image-thumbnail" alt="" width="266" height="376"
+		     data-image-key="Joncampling.jpg" data-image-name="Joncampling.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Unidentified Death Eater</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/1_May" title="1 May">1 May</a>, <a href="/wiki/1998" title="1998">1998</a><br/><a href="/wiki/Malfoy_Manor" title="Malfoy Manor">Malfoy Manor</a>, <a href="/wiki/Wiltshire" title="Wiltshire">Wiltshire</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Pure-blood" title="Pure-blood">Pure-blood</a> or <a href="/wiki/Half-blood" title="Half-blood">Half-blood</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="title">
+	
+		<h3 class="pi-data-label pi-secondary-font">Title(s)</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Death_Eaters" title="Death Eaters">Death Eater</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Grey</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Magical characteristics</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="patronus">
+	
+		<h3 class="pi-data-label pi-secondary-font">Patronus</h3>
+	
+	<div class="pi-data-value pi-font">None<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a><ul><li><a href="/wiki/Tom_Riddle" title="Tom Riddle">Lord Voldemort</a></li></ul></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Deathly Hallows: Part 1">"<i>Hey, losers, <a href="/wiki/Harry_Potter" title="Harry Potter">he</a> isn't here.</i>"</span></dd>
+<dd>&#8212;<a href="/wiki/Neville_Longbottom" title="Neville Longbottom">Neville Longbottom</a> to this and another <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eater</a><sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1" title="Harry Potter and the Deathly Hallows: Part 1">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p>This <b>individual<a href="/wiki/Wizardkind" title="Wizardkind"></a>&#160;</b>(d. <a href="/wiki/1_May" title="1 May">1 May</a>, <a href="/wiki/1998" title="1998">1998</a>) was a <a href="/wiki/Dark_Wizard" title="Dark Wizard">Dark Wizard</a> and one of <a href="/wiki/Tom_Riddle" title="Tom Riddle">Lord Voldemort</a>'s <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a> who participated in the <a href="/wiki/Second_Wizarding_War" title="Second Wizarding War">Second Wizarding War</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_life"><span class="tocnumber">1.1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Second_Wizarding_War"><span class="tocnumber">1.2</span> <span class="toctext">Second Wizarding War</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Magical_Abilities_and_Skills"><span class="tocnumber">2</span> <span class="toctext">Magical Abilities and Skills</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Behind_the_scenes"><span class="tocnumber">3</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Appearances"><span class="tocnumber">4</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Notes_and_references"><span class="tocnumber">5</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Unidentified_Male_Death_Eater_(VIII)?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Unidentified_Male_Death_Eater_(VIII)?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Unidentified_Male_Death_Eater_(VIII)?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Early life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Unidentified_Male_Death_Eater_(VIII)?action=edit&amp;section=2" title="Edit section: Early life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>This Death Eater was presumably born prior to <a href="/wiki/1981" title="1981">1981</a>. He would have been a <a href="/wiki/Half-blood" title="Half-blood">half-blood</a> or <a href="/wiki/Pure-blood" title="Pure-blood">pure-blood</a> <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a>, as his master <a href="/wiki/Tom_Riddle" title="Tom Riddle">Lord Voldemort</a> was an extreme <a href="/wiki/Pure-blood_supremacy" title="Pure-blood supremacy">pure-blood supremacist</a> who despised and sought to eradicate <a href="/wiki/Non-magic_people" title="Non-magic people">Muggles</a> and <a href="/wiki/Muggle-born" title="Muggle-born">Muggle-borns</a>, along with <a href="/wiki/Blood_traitor" title="Blood traitor">blood traitors</a>. It is also highly possible that he fought for Voldemort during the <a href="/wiki/First_Wizarding_War" title="First Wizarding War">First Wizarding War</a>. 
+</p>
+<h3><span class="mw-headline" id="Second_Wizarding_War">Second Wizarding War</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Unidentified_Male_Death_Eater_(VIII)?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Second Wizarding War">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Unidentified_Male_Death_Eater_(VIII)?action=edit&amp;section=3" title="Edit section: Second Wizarding War"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>This Death Eater <a href="/wiki/Raid_on_the_Hogwarts_Express" title="Raid on the Hogwarts Express">raided</a> the <a href="/wiki/Hogwarts_Express" title="Hogwarts Express">Hogwarts Express</a> on <a href="/wiki/1_September" title="1 September">1 September</a>, <a href="/wiki/1997" title="1997">1997</a>, in order to search the train for <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> with <a href="/wiki/Unidentified_male_bald_Death_Eater" title="Unidentified male bald Death Eater">another Death Eater</a>. At the time, both the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">Ministry of Magic</a> and <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts</a> were under the control of <a href="/wiki/Tom_Riddle" title="Tom Riddle">Lord Voldemort</a>. He was, however, unsuccessful in his search for Potter, as he, along with <a href="/wiki/Hermione_Granger" title="Hermione Granger">Hermione Granger</a> and <a href="/wiki/Ronald_Weasley" title="Ronald Weasley">Ron Weasley</a>, were on a mission to find and destroy Voldemort's <a href="/wiki/Horcrux" title="Horcrux">Horcruxes</a> at the time, and did not return to Hogwarts for their <a href="/wiki/Seventh_year" title="Seventh year">final year</a> of education at the school.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p>
+<figure class="thumb tleft show-info-icon" style="width: 202px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/8/87/Unidentified_death_eater_in_hogwarts_express.JPG/revision/latest?cb=20110430153703" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/8/87/Unidentified_death_eater_in_hogwarts_express.JPG/revision/latest/scale-to-width-down/200?cb=20110430153703" decoding="async" width="200" height="88" class="thumbimage" data-image-name="Unidentified death eater in hogwarts express.JPG" data-image-key="Unidentified_death_eater_in_hogwarts_express.JPG" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Unidentified_death_eater_in_hogwarts_express.JPG" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">The Death Eater and another searching for Harry Potter on the Hogwarts Express</p> 		 	</figcaption> </figure>
+<p>This Death Eater was at <a href="/wiki/Gringotts_Wizarding_Bank" title="Gringotts Wizarding Bank">Gringotts Wizarding Bank</a> as <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a>, <a href="/wiki/Ronald_Weasley" title="Ronald Weasley">Ronald Weasley</a>, <a href="/wiki/Hermione_Granger" title="Hermione Granger">Hermione Granger</a> and <a href="/wiki/Griphook" title="Griphook">Griphook</a> staged a <a href="/wiki/Break-in_of_Gringotts_Wizarding_Bank_(1998)" title="Break-in of Gringotts Wizarding Bank (1998)">break-in</a> to retrieve <a href="/wiki/Helga_Hufflepuff%27s_Cup" class="mw-redirect" title="Helga Hufflepuff&#39;s Cup">Helga Hufflepuff's Cup</a> from the <a href="/wiki/Lestrange_Vault" title="Lestrange Vault">Lestrange Vault</a>.
+</p>
+<figure class="thumb tright show-info-icon" style="width: 202px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/6/6b/Unidentified_death_eater_in_hogwarts_express2.JPG/revision/latest?cb=20110430160241" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/6/6b/Unidentified_death_eater_in_hogwarts_express2.JPG/revision/latest/scale-to-width-down/200?cb=20110430160241" decoding="async" width="200" height="84" class="thumbimage" data-image-name="Unidentified death eater in hogwarts express2.JPG" data-image-key="Unidentified_death_eater_in_hogwarts_express2.JPG" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Unidentified_death_eater_in_hogwarts_express2.JPG" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">The Death Eater and another in Gringotts bank after the trio's escape</p> 		 	</figcaption> </figure>
+<p>Later that day, he was <a href="/wiki/Killing_Curse" title="Killing Curse">killed</a>&#160;by <a href="/wiki/Tom_Riddle" title="Tom Riddle">Lord Voldemort</a> in a fit of rage at <a href="/wiki/Malfoy_Manor" title="Malfoy Manor">Malfoy Manor</a>, after the Dark Lord&#160;was informed by the <a href="/wiki/Goblin" title="Goblin">goblins</a> working at Gringotts that <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> had managed to steal <a href="/wiki/Helga_Hufflepuff%27s_Cup" class="mw-redirect" title="Helga Hufflepuff&#39;s Cup">Helga Hufflepuff's Cup</a> from the bank.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Magical_Abilities_and_Skills">Magical Abilities and Skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Unidentified_Male_Death_Eater_(VIII)?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Magical Abilities and Skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Unidentified_Male_Death_Eater_(VIII)?action=edit&amp;section=4" title="Edit section: Magical Abilities and Skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Wandless_Magic" class="mw-redirect" title="Wandless Magic">Wandless Magic</a></b>: This Death Eater was highly skilled at using <a href="/wiki/Magic" title="Magic">magic</a> without a <a href="/wiki/Wand" title="Wand">wand</a>. When searching for <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> he was able to halt the <a href="/wiki/Hogwarts_Express" title="Hogwarts Express">Hogwarts Express</a> simply with a hand gesture.</li>
+<li><b><a href="/wiki/Apparition" title="Apparition">Apparition</a></b>: He was able to apparate in front of the <a href="/wiki/Hogwarts_Express" title="Hogwarts Express">Hogwarts Express</a>.</li>
+<li><b><a href="/wiki/Dark_Arts" title="Dark Arts">Dark Arts</a></b>: Being a Death Eater, he would have been highly proficient in the dark arts and the casting of <a href="/wiki/Dark_charm" title="Dark charm">dark spells</a>&#160;and most likely the <a href="/wiki/Unforgivable_Curses" title="Unforgivable Curses">Unforgivable Curses</a>.</li></ul>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Unidentified_Male_Death_Eater_(VIII)?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Unidentified_Male_Death_Eater_(VIII)?action=edit&amp;section=5" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>The Death Eater is portrayed by <a href="/wiki/Jon_Campling" title="Jon Campling">Jon Campling</a> in <i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1" title="Harry Potter and the Deathly Hallows: Part 1">Harry Potter and the Deathly Hallows: Part 1</a></i> and in <i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_2" title="Harry Potter and the Deathly Hallows: Part 2">Part 2</a></i>.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Unidentified_Male_Death_Eater_(VIII)?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Unidentified_Male_Death_Eater_(VIII)?action=edit&amp;section=6" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1" title="Harry Potter and the Deathly Hallows: Part 1">Harry Potter and the Deathly Hallows: Part 1</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_2" title="Harry Potter and the Deathly Hallows: Part 2">Harry Potter and the Deathly Hallows: Part 2</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Unidentified_Male_Death_Eater_(VIII)?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Unidentified_Male_Death_Eater_(VIII)?action=edit&amp;section=7" title="Edit section: Notes and references

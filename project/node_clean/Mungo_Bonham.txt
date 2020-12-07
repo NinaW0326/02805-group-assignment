@@ -1,0 +1,129 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-st-mungo-employee pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/3/3f/MungoBonham.png/revision/latest?cb=20130318132505" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/3/3f/MungoBonham.png/revision/latest/scale-to-width-down/350?cb=20130318132505" srcset="https://static.wikia.nocookie.net/harrypotter/images/3/3f/MungoBonham.png/revision/latest/scale-to-width-down/350?cb=20130318132505 1x, https://static.wikia.nocookie.net/harrypotter/images/3/3f/MungoBonham.png/revision/latest/scale-to-width-down/700?cb=20130318132505 2x" class="pi-image-thumbnail" alt="" width="270" height="378"
+		     data-image-key="MungoBonham.png" data-image-name="MungoBonham.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Mungo Bonham</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/1560" class="mw-redirect" title="1560">1560</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/1659" class="mw-redirect" title="1659">1659</a> (aged 98-99)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="title">
+	
+		<h3 class="pi-data-label pi-secondary-font">Title(s)</h3>
+	
+	<div class="pi-data-value pi-font">Saint</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Brown</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Brown</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Dark</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Healer" title="Healer">Healer</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/St_Mungo%27s_Hospital_for_Magical_Maladies_and_Injuries" title="St Mungo&#039;s Hospital for Magical Maladies and Injuries">St Mungo's Hospital for Magical Maladies and Injuries</a></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Saint Mungo Bonham</b> (<a href="/wiki/1560" class="mw-redirect" title="1560">1560</a> – <a href="/wiki/1659" class="mw-redirect" title="1659">1659</a>) was a <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> and <a href="/wiki/Healer" title="Healer">Healer</a> who founded <a href="/wiki/St_Mungo%27s_Hospital_for_Magical_Maladies_and_Injuries" title="St Mungo&#39;s Hospital for Magical Maladies and Injuries">St Mungo's Hospital for Magical Maladies and Injuries</a> in the <a href="/wiki/1600s" title="1600s">1600s</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Behind_the_scenes"><span class="tocnumber">1</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Etymology"><span class="tocnumber">2</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Appearances"><span class="tocnumber">3</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Notes_and_references"><span class="tocnumber">4</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mungo_Bonham?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mungo_Bonham?action=edit&amp;section=1" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>In reality, Saint Mungo is the commonly used name for <a href="http://en.wikipedia.org/wiki/Saint_Mungo" class="extiw" title="wikipedia:Saint Mungo">Saint Kentigern</a> of the <a href="http://en.wikipedia.org/wiki/Catholic" class="extiw" title="wikipedia:Catholic">Catholic church</a> who lived in the sixth century <a href="/wiki/Scotland" title="Scotland">Scotland</a> and <a href="/wiki/England" title="England">England</a>. He was also known as a founder of the <a href="http://en.wikipedia.org/wiki/Glasgow_Cathedral" class="extiw" title="wikipedia:Glasgow Cathedral">Glasgow Cathedral</a>. A Feast day for St Mungo, also known as St Mungo's Day,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> is observed on the <a href="/wiki/13_January" title="13 January">13th of January</a> every year after he was canonised.</li>
+<li>Interestingly, Lula Landry, the victim in <a href="/wiki/J._K._Rowling" title="J. K. Rowling">Robert Galbraith</a>'s first Cormoran Strike novel <i><a href="http://en.wikipedia.org/wiki/The_Cuckoo%27s_Calling" class="extiw" title="wikipedia:The Cuckoo&#39;s Calling">The Cuckoo's Calling</a></i>, lives in the fictional Kentigern Gardens, in <a href="http://en.wikipedia.org/wiki/Mayfair" class="extiw" title="wikipedia:Mayfair">Mayfair</a>. Kentigern, as noted above, in the real name of the real-life Saint Mungo.</li>
+<li>Mungo also shares part of his name with <a href="/wiki/Helena_Bonham_Carter" title="Helena Bonham Carter">Helena Bonham Carter</a>, the actress who portrays <a href="/wiki/Bellatrix_Lestrange" title="Bellatrix Lestrange">Bellatrix Lestrange</a> in the <a href="/wiki/Harry_Potter_(film_series)" title="Harry Potter (film series)">Harry Potter films</a>.</li></ul>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mungo_Bonham?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mungo_Bonham?action=edit&amp;section=2" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The name "Mungo" is possibly derived from Welsh <i>mwyn</i> "gentle, kind". This was a nickname of the 6th-century Saint Kentigern.
+</p><p>The surname "Bonham" is an Anglicisation of the French surname "Bonhomme", which itself is derived from the Old French "bon homme" meaning "good man".
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mungo_Bonham?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mungo_Bonham?action=edit&amp;section=3" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(video_game)" title="Harry Potter and the Philosopher&#39;s Stone (video game)">Harry Potter and the Philosopher's Stone (video game)</a></i> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(video_game)" title="Harry Potter and the Chamber of Secrets (video game)">Harry Potter and the Chamber of Secrets (video game)</a></i> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(video_game)" title="Harry Potter and the Prisoner of Azkaban (video game)">Harry Potter and the Prisoner of Azkaban (video game)</a></i> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">Harry Potter and the Order of the Phoenix</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(video_game)" title="Harry Potter and the Order of the Phoenix (video game)">Harry Potter and the Order of the Phoenix (video game)</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">Harry Potter and the Half-Blood Prince</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Wizard_of_the_Month" title="Wizard of the Month">Wizard of the Month</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mungo_Bonham?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mungo_Bonham?action=edit&amp;section=4" title="Edit section: Notes and references

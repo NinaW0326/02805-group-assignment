@@ -1,0 +1,79 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-pet pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/1/16/ANTONIO.jpg/revision/latest?cb=20181202222221" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/1/16/ANTONIO.jpg/revision/latest/scale-to-width-down/350?cb=20181202222221" srcset="https://static.wikia.nocookie.net/harrypotter/images/1/16/ANTONIO.jpg/revision/latest/scale-to-width-down/350?cb=20181202222221 1x, https://static.wikia.nocookie.net/harrypotter/images/1/16/ANTONIO.jpg/revision/latest/scale-to-width-down/700?cb=20181202222221 2x" class="pi-image-thumbnail" alt="" width="270" height="324"
+		     data-image-key="GRt9Wfx0_o.jpeg" data-image-name="GRt9Wfx0 o.jpeg"/>
+		
+	</a>
+	
+</figure>
+
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Antonio</h2>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">Pre <a href="/wiki/1927" title="1927">1927</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Chupacabra" title="Chupacabra">Chupacabra</a><sup id="cite_ref-COG2_1-0" class="reference"><a href="#cite_note-COG2-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Blue and red</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Gellert_Grindelwald" title="Gellert Grindelwald">Gellert Grindelwald</a></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Pet_individual_infobox" title="Template:Pet individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Fantastic Beasts: The Crimes of Grindelwald - The Original Screenplay">"<i>I know. Okay. I know, Antonio. So needy.</i>"</span></dd>
+<dd>&#8212;<a href="/wiki/Gellert_Grindelwald" title="Gellert Grindelwald">Gellert Grindelwald</a><sup class="noprint"><a href="/wiki/Fantastic_Beasts:_The_Crimes_of_Grindelwald_-_The_Original_Screenplay" title="Fantastic Beasts: The Crimes of Grindelwald - The Original Screenplay">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Antonio</b> was a baby <a href="/wiki/Chupacabra" title="Chupacabra">Chupacabra</a> chained to <a href="/wiki/Gellert_Grindelwald" title="Gellert Grindelwald">Gellert Grindelwald</a>'s chair in his cell during his brief imprisonment at the <a href="/wiki/Magical_Congress_of_the_United_States_of_America" title="Magical Congress of the United States of America">Magical Congress of the United States of America</a> in <a href="/wiki/1926" title="1926">1926</a>-<a href="/wiki/1927" title="1927">1927</a>. Most notably, it participated in <a href="/wiki/Gellert_Grindelwald%27s_escape" title="Gellert Grindelwald&#39;s escape">Gellert Grindelwald's escape</a>.<sup id="cite_ref-COG2_1-1" class="reference"><a href="#cite_note-COG2-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Antonio?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Antonio?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Shortly before Grindelwald's attempted <a href="/wiki/Gellert_Grindelwald%27s_escape" title="Gellert Grindelwald&#39;s escape">extradition to Europe</a>, under escort by several <a href="/wiki/Auror" title="Auror">Aurors</a> and <a href="/wiki/Rudolph_Spielman" title="Rudolph Spielman">Rudolph Spielman</a> (the <a href="/wiki/International_Confederation_of_Wizards" title="International Confederation of Wizards">International Confederation of Wizards</a>'s <a href="/wiki/Head_of_Incarceration" title="Head of Incarceration">Head of Incarceration</a>) Grindelwald managed to switch places with MACUSA official <a href="/wiki/Abernathy" title="Abernathy">Abernathy</a> using the <a href="/wiki/Polyjuice_Potion" title="Polyjuice Potion">Polyjuice Potion</a>. After the <a href="/wiki/Incarceration_Carriage" title="Incarceration Carriage">high-security flying carriage</a> set off from the <a href="/wiki/Woolworth_Building" title="Woolworth Building">Woolworth Building</a>, the real Grindelwald <a href="/wiki/Apparition" title="Apparition">Apparated</a> onto the carriage, eliminated all the <a href="/wiki/Auror" title="Auror">Aurors</a>, and destroyed <a href="/wiki/Rudolph_Spielman" title="Rudolph Spielman">Rudolph Spielman</a>'s <a href="/wiki/Rudolph_Spielman%27s_wand" title="Rudolph Spielman&#39;s wand">wand</a>, who - panicking - opened the box that had been handed to him supposedly containing <a href="/wiki/Elder_Wand" title="Elder Wand">Grindelwald's wand</a>, only to have Antonio jump up from inside the opened box and sink his fangs deep into Spielman’s neck.<sup id="cite_ref-COG11_2-0" class="reference"><a href="#cite_note-COG11-2">&#91;2&#93;</a></sup>
+</p><p>Once Grindelwald clambered inside the carriage, he grabbed Antonio from Spielman and rubbed him affectionately; but suddenly, Grindelwald looked at Antonio with distaste and judged the Chupacabra to be "<i>so needy</i>", throwing him out the door of the flying carriage.<sup id="cite_ref-COG15_3-0" class="reference"><a href="#cite_note-COG15-3">&#91;3&#93;</a></sup> It is unknown if Antonio managed to survive the fall or not.
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Antonio?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Antonio?action=edit&amp;section=2" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 5 images related to <i><b><a href="/wiki/Category:Images_of_Antonio" title="Category:Images of Antonio">Antonio</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div><figure class="thumb tright show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/d/d3/AntonioPOP.jpg/revision/latest?cb=20190608000503" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/d/d3/AntonioPOP.jpg/revision/latest/scale-to-width-down/180?cb=20190608000503" decoding="async" width="180" height="180" class="thumbimage" data-image-name="AntonioPOP.jpg" data-image-key="AntonioPOP.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:AntonioPOP.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Antonio as a <a href="/wiki/POP!_Vinyl" title="POP! Vinyl">POP! Vinyl</a></p> 		 	</figcaption> </figure>
+<ul><li><i><a href="/wiki/Fantastic_Beasts:_The_Crimes_of_Grindelwald_-_The_Original_Screenplay" title="Fantastic Beasts: The Crimes of Grindelwald - The Original Screenplay">Fantastic Beasts: The Crimes of Grindelwald - The Original Screenplay</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Fantastic_Beasts:_The_Crimes_of_Grindelwald" title="Fantastic Beasts: The Crimes of Grindelwald">Fantastic Beasts: The Crimes of Grindelwald</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Antonio?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Antonio?action=edit&amp;section=3" title="Edit section: Notes and references

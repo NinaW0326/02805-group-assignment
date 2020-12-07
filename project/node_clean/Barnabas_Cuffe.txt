@@ -1,0 +1,112 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-daily-prophet pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/2/27/BarnabusCuffe.jpg/revision/latest?cb=20111221001441" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/2/27/BarnabusCuffe.jpg/revision/latest/scale-to-width-down/274?cb=20111221001441" srcset="https://static.wikia.nocookie.net/harrypotter/images/2/27/BarnabusCuffe.jpg/revision/latest/scale-to-width-down/274?cb=20111221001441 1x, https://static.wikia.nocookie.net/harrypotter/images/2/27/BarnabusCuffe.jpg/revision/latest/scale-to-width-down/548?cb=20111221001441 2x" class="pi-image-thumbnail" alt="" width="270" height="458"
+		     data-image-key="BarnabusCuffe.jpg" data-image-name="BarnabusCuffe.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Barnabas Cuffe</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">between <a href="/wiki/1914" title="1914">1914</a> and <a href="/wiki/1970" title="1970">1970</a><sup id="cite_ref-age_1-0" class="reference"><a href="#cite_note-age-1">&#91;1&#93;</a></sup>,</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a> or <a href="/wiki/Ireland" title="Ireland">Irish</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="signature">
+	
+		<h3 class="pi-data-label pi-secondary-font">Signature</h3>
+	
+	<div class="pi-data-value pi-font"><a href="https://static.wikia.nocookie.net/harrypotter/images/f/f8/Barnabas_Cuffe_sig.png/revision/latest?cb=20111220021529" class="image"><img alt="Barnabas Cuffe sig.png" src="https://static.wikia.nocookie.net/harrypotter/images/f/f8/Barnabas_Cuffe_sig.png/revision/latest/scale-to-width-down/150?cb=20111220021529" decoding="async" width="150" height="40" data-image-name="Barnabas Cuffe sig.png" data-image-key="Barnabas_Cuffe_sig.png" /></a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-HBP4_3-0" class="reference"><a href="#cite_note-HBP4-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male<sup id="cite_ref-HBP4_3-1" class="reference"><a href="#cite_note-HBP4-3">&#91;3&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Editor of the <i><a href="/wiki/Daily_Prophet" title="Daily Prophet">Daily Prophet</a></i><sup id="cite_ref-HBP4_3-2" class="reference"><a href="#cite_note-HBP4-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><i><a href="/wiki/Daily_Prophet" title="Daily Prophet">Daily Prophet</a></i><sup id="cite_ref-HBP4_3-3" class="reference"><a href="#cite_note-HBP4-3">&#91;3&#93;</a></sup></li><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a><sup id="cite_ref-HBP4_3-4" class="reference"><a href="#cite_note-HBP4-3">&#91;3&#93;</a></sup><ul><li><a href="/wiki/Slug_Club" title="Slug Club">Slug Club</a><sup id="cite_ref-HBP4_3-5" class="reference"><a href="#cite_note-HBP4-3">&#91;3&#93;</a></sup></li></ul></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Barnabas Cuffe</b> was a <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> who was the editor-in-chief of the <i><a href="/wiki/Daily_Prophet" title="Daily Prophet">Daily Prophet</a></i>, working in their <a href="/wiki/Daily_Prophet%27s_main_office" title="Daily Prophet&#39;s main office">main offices</a> in <a href="/wiki/Diagon_Alley" title="Diagon Alley">Diagon Alley</a>.<sup id="cite_ref-HBP4_3-6" class="reference"><a href="#cite_note-HBP4-3">&#91;3&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Etymology"><span class="tocnumber">2</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Behind_the_scenes"><span class="tocnumber">3</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Appearances"><span class="tocnumber">4</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Notes_and_references"><span class="tocnumber">5</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Barnabas_Cuffe?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Barnabas_Cuffe?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>While studying at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a>, Cuffe must have either been a very good student, or possibly come from money, power, or has good stories to tell, as <a href="/wiki/Horace_Slughorn" title="Horace Slughorn">Horace Slughorn</a> chose Barnabas to join his <a href="/wiki/Slug_Club" title="Slug Club">Slug Club</a>. As a child, he was very interested in the news, and enjoyed Slughorn's exaggerated outakes on the <i>Daily Prophet</i>. He maintained a good relationship with Slughorn as he stated that Cuffe was always ready to take his <a href="/wiki/Owl" title="Owl">owl</a> on the day's news. He also enjoyed receiving <a href="/wiki/Vibe" title="Vibe">vibes</a> as a means of communication.<sup id="cite_ref-HBP4_3-7" class="reference"><a href="#cite_note-HBP4-3">&#91;3&#93;</a></sup>
+</p><p>During Cuffe's leadership, the <i>Daily Prophet</i> was under a strong influence by the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">Ministry of Magic</a>, which highly relied on the newspaper to assure the support of the British wizarding community.<sup id="cite_ref-WW_4-0" class="reference"><a href="#cite_note-WW-4">&#91;4&#93;</a></sup>
+</p><p>Aside from being the paper's editor, Cuffe occasionally wrote articles for the <i>Prophet</i>. One such article, entitled "The Wizarding World in Mourning", covered the then-recent death of <a href="/wiki/Albus_Dumbledore" title="Albus Dumbledore">Albus Dumbledore</a>.<sup id="cite_ref-HPLE_5-0" class="reference"><a href="#cite_note-HPLE-5">&#91;5&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Barnabas_Cuffe?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Barnabas_Cuffe?action=edit&amp;section=2" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The name "Barnabas" is the Greek form of an Aramaic name. In Acts in the New Testament the byname Barnabas was given to a man named Joseph, a companion of Paul on his missionary journeys. The original Aramaic is unattested, but it may be from בּר נביא (bar naviya') meaning "son of the prophet", though in Acts 4:36 it is claimed that the name means "son of encouragement". As an English name, it came into occasional use after the 12th century.
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Barnabas_Cuffe?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Barnabas_Cuffe?action=edit&amp;section=3" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Barnabas Cuffe was portrayed by <a href="/wiki/Roger_C._Bailey" title="Roger C. Bailey">Roger C. Bailey</a> in the <a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince_(film)" title="Harry Potter and the Half-Blood Prince (film)">film adaptation</a> of <i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">Harry Potter and the Half-Blood Prince</a></i>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup></li>
+<li>It is possible, as he was a former <a href="/wiki/Slug_Club" title="Slug Club">Slug Club</a> member, that he attended the <a href="/wiki/Slug_Club_Christmas_party" title="Slug Club Christmas party">Christmas party</a>.</li>
+<li>In the original script from the <a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince_(film)" title="Harry Potter and the Half-Blood Prince (film)">film adaptation</a> of <i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">Harry Potter and the Half-Blood Prince</a></i> his first name is misspelled <i>Barnubas</i>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Barnabas_Cuffe?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Barnabas_Cuffe?action=edit&amp;section=4" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">Harry Potter and the Half-Blood Prince</a></i> <small>(First appearance)</small> <span class="template-c">(Appears in photograph)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince_(film)" title="Harry Potter and the Half-Blood Prince (film)">Harry Potter and the Half-Blood Prince (film)</a></i> <span class="template-c">(Appears in photograph)</span></li>
+<li><i><a href="/wiki/Harry_Potter_Limited_Edition" title="Harry Potter Limited Edition">Harry Potter Limited Edition</a></i> <small>(Mentioned only)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Barnabas_Cuffe?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Barnabas_Cuffe?action=edit&amp;section=5" title="Edit section: Notes and references

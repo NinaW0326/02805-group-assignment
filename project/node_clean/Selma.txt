@@ -1,0 +1,88 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-creature pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/e/ee/Selma.png/revision/latest?cb=20180318013257" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/e/ee/Selma.png/revision/latest/scale-to-width-down/350?cb=20180318013257" srcset="https://static.wikia.nocookie.net/harrypotter/images/e/ee/Selma.png/revision/latest/scale-to-width-down/350?cb=20180318013257 1x, https://static.wikia.nocookie.net/harrypotter/images/e/ee/Selma.png/revision/latest/scale-to-width-down/700?cb=20180318013257 2x" class="pi-image-thumbnail" alt="" width="270" height="322"
+		     data-image-key="Selma.png" data-image-name="Selma.png"/>
+		
+	</a>
+	
+</figure>
+
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Selma</h2>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Species information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="related">
+	
+		<h3 class="pi-data-label pi-secondary-font">Related to</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Sea_serpent" title="Sea serpent">Sea serpent</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="native">
+	
+		<h3 class="pi-data-label pi-secondary-font">Native to</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Norway" title="Norway">Norway</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="mortality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Mortality</h3>
+	
+	<div class="pi-data-value pi-font">Mortal</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="distinction">
+	
+		<h3 class="pi-data-label pi-secondary-font">Distinction</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>Aggressive temperament</li><li>Carnivorous, feeds on fish and <a href="/wiki/Human" title="Human">human</a> <a href="/wiki/Flesh" title="Flesh">flesh</a></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="affiliation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Affiliation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Norwegian_National_Quidditch_team" title="Norwegian National Quidditch team">Norwegian National Quidditch team</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="class">
+	
+		<h3 class="pi-data-label pi-secondary-font"><a href="/wiki/Department_for_the_Regulation_and_Control_of_Magical_Creatures#Ministry_Classification_of_Magical_Creatures" title="Department for the Regulation and Control of Magical Creatures">Ministry of Magic Classification</a></h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Beast" title="Beast">Beast</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="status">
+	
+		<h3 class="pi-data-label pi-secondary-font">Status</h3>
+	
+	<div class="pi-data-value pi-font">Extant</div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Creature_infobox" title="Template:Creature infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+The <b>Selma</b> is a gigantic <a href="/wiki/Snake" title="Snake">serpent</a> native to the icy <a href="/wiki/Water" title="Water">freshwater</a> lakes of <a href="/wiki/Norway" title="Norway">Norway</a>. Unlike the peaceful <a href="/wiki/Sea_serpent" title="Sea serpent">sea serpent</a>, the Selma is a ferocious and carnivorous <a href="/wiki/Beast" title="Beast">beast</a>, consisting on a diet of fish and <a href="/wiki/Human" title="Human">human</a> <a href="/wiki/Flesh" title="Flesh">flesh</a>.<sup id="cite_ref-PM_1-0" class="reference"><a href="#cite_note-PM-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Behind_the_scenes"><span class="tocnumber">2</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Appearances"><span class="tocnumber">3</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Notes_and_references"><span class="tocnumber">4</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Selma?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: History">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Selma?action=edit&amp;section=1" title="Edit section: History"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Rather than their usual group of preforming <a href="/wiki/Troll" title="Troll">trolls</a>, the <a href="/wiki/Norwegian_National_Quidditch_team" title="Norwegian National Quidditch team">Norwegian National Quidditch team</a> elected to bring a Selma as their mascot for the <a href="/wiki/2014_Quidditch_World_Cup" title="2014 Quidditch World Cup">2014 Quidditch World Cup</a>, a decision defended by team manager <a href="/wiki/Arnulf_Moe" title="Arnulf Moe">Arnulf Moe</a> as reflecting the <i>"steely determination and ferocity"</i> of his team. The Selma was placed in a magical lake in the <a href="/wiki/Patagonian_Desert" title="Patagonian Desert">Patagonian Desert</a> where it engaged in a fight with the <a href="/wiki/Fiji" title="Fiji">Fijian</a> <a href="/wiki/Dukuwaqa" title="Dukuwaqa">Dukuwaqa</a>, which eventually escalated into a conflict between many of the team mascots.<sup id="cite_ref-PM_1-1" class="reference"><a href="#cite_note-PM-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Selma?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Selma?action=edit&amp;section=2" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>The <a href="http://en.wikipedia.org/wiki/Selma_(lake_monster)" class="extiw" title="wikipedia:Selma (lake monster)">Selma</a> is a cryptid said to live in the Norwegian lake <a href="http://en.wikipedia.org/wiki/Seljordsvatnet" class="extiw" title="wikipedia:Seljordsvatnet">Seljordsvatnet</a>, and could be considered Norway's <a href="/wiki/Loch_Ness_Monster" title="Loch Ness Monster">Loch Ness Monster</a>.</li>
+<li>Curiously, <a href="/wiki/Newton_Scamander" title="Newton Scamander">Newt Scamander</a> did not mention Selmas in his sea serpent entry in the fifty-second edition of <a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them" title="Fantastic Beasts and Where to Find Them"><i>Fantastic Beasts and Where To Find Them</i></a>. It is possible that the species had not yet been discovered by <a href="/wiki/1991" title="1991">1991</a>.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Selma?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Selma?action=edit&amp;section=3" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Selma?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Selma?action=edit&amp;section=4" title="Edit section: Notes and references

@@ -1,0 +1,95 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default"><section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Charlus Potter</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font">Pre <a href="/wiki/31_October" title="31 October">31 October</a>, <a href="/wiki/1981" title="1981">1981</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Pure-blood" title="Pure-blood">Pure-blood</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="marital">
+	
+		<h3 class="pi-data-label pi-secondary-font">Marital status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Charlus_and_Dorea_Potter" title="Charlus and Dorea Potter">Married</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Henry_Potter%27s_mother" title="Henry Potter&#039;s mother">Henry Potter's mother</a> †</li><li><a href="/wiki/Henry_Potter" title="Henry Potter">Henry Potter</a> †</li><li><a href="/wiki/Dorea_Black" title="Dorea Black">Dorea Black</a> (wife) †</li><li><a href="/wiki/Charlus_Potter%27s_son" title="Charlus Potter&#039;s son">Son</a></li><li><a href="/wiki/Cygnus_Black_II" title="Cygnus Black II">Cygnus Black II</a> (father-in-law) †</li><li><a href="/wiki/Violetta_Bulstrode" title="Violetta Bulstrode">Violetta Bulstrode</a> (mother-in-law)</li><li><a href="/wiki/Pollux_Black" title="Pollux Black">Pollux Black</a> (brother-in-law) †</li><li><a href="/wiki/Irma_Crabbe" title="Irma Crabbe">Irma Crabbe</a> (sister-in-law)</li><li><a href="/wiki/Cassiopeia_Black" title="Cassiopeia Black">Cassiopeia Black</a> (sister-in-law) †</li><li><a href="/wiki/Marius_Black" title="Marius Black">Marius Black</a> (brother-in-law)</li><li><a href="/wiki/Walburga_Black" title="Walburga Black">Walburga Black</a> (niece) †</li><li><a href="/wiki/Cygnus_Black_III" title="Cygnus Black III">Cygnus Black III</a> (nephew) †</li><li><a href="/wiki/Alphard_Black" title="Alphard Black">Alphard Black</a> (nephew) †</li><li><a href="/wiki/Potter_family" title="Potter family">Potter family</a></li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Potter_family" title="Potter family">Potter family</a></li><li><a href="/wiki/House_of_Black" title="House of Black">House of Black</a></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Charlus Potter</b> was a <a href="/wiki/Pure-blood" title="Pure-blood">pure-blood</a><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> and a member of the <a href="/wiki/Potter_family" title="Potter family">Potter family</a>. He married <a href="/wiki/Dorea_Black" title="Dorea Black">Dorea Black</a> and together they had <a href="/wiki/Charlus_Potter%27s_son" title="Charlus Potter&#39;s son">a son</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Etymology"><span class="tocnumber">1</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Behind_the_scenes"><span class="tocnumber">2</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Appearances"><span class="tocnumber">3</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Notes_and_references"><span class="tocnumber">4</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Charlus_Potter?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Charlus_Potter?action=edit&amp;section=1" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i>Charlus</i> could refer back to the name <i>Charles</i>. It is derived from the Germanic <i>karl </i>or <i>hari</i>. It can mean "man", "army" or "warrior". This can relate to many members of the Potter family.</li>
+<li>Potter is a very common surname of English origin. It traditionally refers to the occupation of making pottery. <a href="http://en.wikipedia.org/wiki/Beatrix_Potter" class="extiw" title="wikipedia:Beatrix Potter">Beatrix Potter</a> was a well-known English children's author. <a href="http://en.wikipedia.org/wiki/Potter%27s_field" class="extiw" title="wikipedia:Potter&#39;s field">Potter's field</a> is the name for a burial ground for the unknown or unclaimed dead, particularly soldiers and orphans. The Potter family had many members that fit that description. The <a href="http://en.wikipedia.org/wiki/Potter_Box" class="extiw" title="wikipedia:Potter Box">Potter Box</a> is a model for making ethical decisions developed at Harvard University. J. K. Rowling has also commented that she has liked the name since childhood, as a family that had lived near her carried this surname.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Charlus_Potter?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Charlus_Potter?action=edit&amp;section=2" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>There was some speculation that Charlus Potter was the father of <a href="/wiki/James_Potter_I" title="James Potter I">James Potter</a> and the paternal grandfather of <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a>. Later,  <i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> has revealed that <a href="/wiki/Fleamont_Potter" title="Fleamont Potter">Fleamont Potter</a>, not Charlus, is Harry's grandfather. In spite of this, it is still more than likely that Charlus was an uncle or cousin of James Potter and his descendants, or perhaps a more distant relative of <a href="/wiki/Abraham_Potter" title="Abraham Potter">Abraham Potter</a>.</li>
+<li>Charlus was not Featured on the Potter family tree on Pottermore. So it is possible he is not closely related to any of the Potters that are featured on that tree.</li>
+<li>Rowling has stated that Harry had no family remaining other than the Durselys at the time of Lord Voldemort's attack on Godric's Hallow, suggesting that Charlus, and any descendants he might have had otherwise, were dead by this time.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Charlus_Potter?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Charlus_Potter?action=edit&amp;section=3" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(film)" title="Harry Potter and the Order of the Phoenix (film)">Harry Potter and the Order of the Phoenix (film)</a></i> <span class="template-c">(Appears on Black family tree tapestry)</span></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Charlus_Potter?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Charlus_Potter?action=edit&amp;section=4" title="Edit section: Notes and references

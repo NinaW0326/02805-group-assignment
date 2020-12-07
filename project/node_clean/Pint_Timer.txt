@@ -1,0 +1,49 @@
+<div class="mw-parser-output"><table class="notice metadata" id="spoiler" style="text-align: center; background: beige; margin: 1em 05%; padding: 0 1em; border: #a00 1px solid;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/e/ea/Wizards_Unite_logo.jpg/revision/latest?cb=20181114170049" class="image"><img alt="Wizards Unite logo.jpg" src="https://static.wikia.nocookie.net/harrypotter/images/e/ea/Wizards_Unite_logo.jpg/revision/latest/scale-to-width-down/175?cb=20181114170049" decoding="async" width="175" height="98" data-image-name="Wizards Unite logo.jpg" data-image-key="Wizards_Unite_logo.jpg" /></a>
+</td>
+<td><b>Warning!</b>
+<p>At least some content in this article is derived from information featured in <i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i>. As such, spoilers will be present within the article.
+</p><p>For gameplay-specific information, please see the relevant article on <a href="https://harrypotterwizardsunite.fandom.com/wiki/Pint_Timer" class="extiw" title="w:c:harrypotterwizardsunite:Pint Timer">the Harry Potter: Wizards Unite Wiki!</a>
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-object pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Pint Timer</h2>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Object information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="manufacturer">
+	
+		<h3 class="pi-data-label pi-secondary-font">Manufacturer</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Calamity_Investigator" title="Calamity Investigator">Calamity Investigator</a> from the <a href="/wiki/Statute_of_Secrecy_Task_Force" title="Statute of Secrecy Task Force">Statute of Secrecy Task Force</a><sup id="cite_ref-WU_1-0" class="reference"><a href="#cite_note-WU-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="made">
+	
+		<h3 class="pi-data-label pi-secondary-font">Made</h3>
+	
+	<div class="pi-data-value pi-font">By at least the <a href="/wiki/2010s" title="2010s">2010s</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="usage">
+	
+		<h3 class="pi-data-label pi-secondary-font">Usage</h3>
+	
+	<div class="pi-data-value pi-font">Immediately ejects any wizard or witch who remains inside a pub for more than two hours<sup id="cite_ref-WU_1-1" class="reference"><a href="#cite_note-WU-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Object_infobox" title="Template:Object infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Pint Timers</b> were <a href="/wiki/Magic" title="Magic">magical</a> devices created to ensure that <a href="/wiki/Wizardkind" title="Wizardkind">wizards and witches</a> belonging to the <a href="/wiki/Statute_of_Secrecy_Task_Force" title="Statute of Secrecy Task Force">Statute of Secrecy Task Force</a> did not linger in pubs for too long. If any wizard stayed inside a pub for more than two hours, the pint timer would immediately eject them from the pub.<sup id="cite_ref-WU_1-2" class="reference"><a href="#cite_note-WU-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Pint_Timer?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: History">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Pint_Timer?action=edit&amp;section=1" title="Edit section: History"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Upon noticing that many members of the Statute of Secrecy Task Force would mysteriously linger in pubs for hours after eating, <a href="/wiki/Constance_Pickering" title="Constance Pickering">Constance Pickering</a> asked a <a href="/wiki/Calamity_Investigator" title="Calamity Investigator">Calamity Investigator</a> in the task force to help come up with a way to force them to return to work. The Calamity Investigator ended up creating the pint timer, which was soon put into effect and ensured that the errant task force members would return to their jobs immediately after finishing their meals.<sup id="cite_ref-WU_1-3" class="reference"><a href="#cite_note-WU-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Pint_Timer?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Pint_Timer?action=edit&amp;section=2" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i> <small>(First mentioned)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Pint_Timer?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Pint_Timer?action=edit&amp;section=3" title="Edit section: Notes and references

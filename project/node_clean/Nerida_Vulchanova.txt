@@ -1,0 +1,111 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-durmstrang pi-layout-default"><section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Nerida Vulchanova</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">Before <a href="/wiki/1294" class="mw-redirect" title="1294">1294</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>, <a href="/wiki/Bulgaria" title="Bulgaria">Bulgaria</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Pure-blood" title="Pure-blood">Pure-blood</a> or <a href="/wiki/Half-blood" title="Half-blood">Half-blood</a><sup id="cite_ref-Blood_2-0" class="reference"><a href="#cite_note-Blood-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Bulgaria" title="Bulgaria">Bulgarian</a><sup id="cite_ref-Pottermore_3-8" class="reference"><a href="#cite_note-Pottermore-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="title">
+	
+		<h3 class="pi-data-label pi-secondary-font">Title(s)</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>Founder<sup id="cite_ref-Pottermore_3-0" class="reference"><a href="#cite_note-Pottermore-3">&#91;3&#93;</a></sup></li><li><a href="/wiki/Headmaster" title="Headmaster">Headmistress</a><sup id="cite_ref-Pottermore_3-1" class="reference"><a href="#cite_note-Pottermore-3">&#91;3&#93;</a></sup></li><li><a href="/wiki/Professor" title="Professor">Professor</a><sup id="cite_ref-Pottermore_3-2" class="reference"><a href="#cite_note-Pottermore-3">&#91;3&#93;</a></sup></li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-Pottermore_3-3" class="reference"><a href="#cite_note-Pottermore-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female<sup id="cite_ref-Pottermore_3-4" class="reference"><a href="#cite_note-Pottermore-3">&#91;3&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Pyotr_Vulchanov" title="Pyotr Vulchanov">Pyotr Vulchanov</a> (possibly)</li><li><a href="/wiki/Boris_Vulchanov" title="Boris Vulchanov">Boris Vulchanov</a> (possibly)</li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Founder and <a href="/wiki/Headmistress" class="mw-redirect" title="Headmistress">Headmistress</a> of <a href="/wiki/Durmstrang_Institute" title="Durmstrang Institute">Durmstrang Institute</a><sup id="cite_ref-Pottermore_3-5" class="reference"><a href="#cite_note-Pottermore-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Durmstrang_Institute" title="Durmstrang Institute">Durmstrang Institute</a><sup id="cite_ref-Pottermore_3-6" class="reference"><a href="#cite_note-Pottermore-3">&#91;3&#93;</a></sup></li><li><a href="/wiki/Vulchanov_family" title="Vulchanov family">Vulchanov family</a><sup id="cite_ref-Pottermore_3-7" class="reference"><a href="#cite_note-Pottermore-3">&#91;3&#93;</a></sup></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Professor Nerida Vulchanova</b> was the great <a href="/wiki/Bulgaria" title="Bulgaria">Bulgarian</a> <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> who founded <a href="/wiki/Durmstrang_Institute" title="Durmstrang Institute">Durmstrang Institute</a>, serving as its first <a href="/wiki/Headmaster" title="Headmaster">Headmistress</a>,<sup id="cite_ref-Pottermore_3-9" class="reference"><a href="#cite_note-Pottermore-3">&#91;3&#93;</a></sup> in the Middle Ages.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Behind_the_scenes"><span class="tocnumber">2</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Etymology"><span class="tocnumber">3</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Appearances"><span class="tocnumber">4</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Notes_and_references"><span class="tocnumber">5</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Nerida_Vulchanova?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Nerida_Vulchanova?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>At some point, Vulchanova suffered a mysterious <a href="/wiki/Death" title="Death">death</a>, and shortly afterwards <a href="/wiki/Harfang_Munter" title="Harfang Munter">Harfang Munter</a> took over the school, in what was later to be considered a dark period in the history of the school: Munter substantially altered the curriculum to focus on <a href="/wiki/Duelling" title="Duelling">duelling</a> and <a href="/wiki/Martial_magic" title="Martial magic">martial magic</a>.<sup id="cite_ref-Pottermore_3-10" class="reference"><a href="#cite_note-Pottermore-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Nerida_Vulchanova?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Nerida_Vulchanova?action=edit&amp;section=2" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>In the <a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire_(film)" title="Harry Potter and the Goblet of Fire (film)">film adaptation</a> of <i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire" title="Harry Potter and the Goblet of Fire">Harry Potter and the Goblet of Fire</a></i>, the Durmstrang Institute is portrayed as an all male school. However according to  <i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i>, the school was founded by Nerida Vulchanova; a witch. In <i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire" title="Harry Potter and the Goblet of Fire">Harry Potter and the Goblet of Fire</a></i>, at least one <a href="/wiki/Durmstrang_girl" title="Durmstrang girl">female</a> is known to have attend Durmstrang during the <a href="/wiki/1994-1995_school_year" class="mw-redirect" title="1994-1995 school year">1994-1995 school year</a>.</li></ul>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Nerida_Vulchanova?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Nerida_Vulchanova?action=edit&amp;section=3" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i>Nerida</i> is an uncommon variant of the female Nereida (Spanish, Greek) or Nerine (Greek), which can be translated as <i>sea nymph</i>.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Nerida_Vulchanova?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Nerida_Vulchanova?action=edit&amp;section=4" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> <small>(First mentioned)</small></li>
+<li><i><a href="/wiki/Wizarding_World_(website)" title="Wizarding World (website)">Wizarding World</a></i> <small>(Mentioned only)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Nerida_Vulchanova?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Nerida_Vulchanova?action=edit&amp;section=5" title="Edit section: Notes and references

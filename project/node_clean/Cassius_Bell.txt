@@ -1,0 +1,121 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/4/4d/Cassius_Bell.png/revision/latest?cb=20190325230024" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/4/4d/Cassius_Bell.png/revision/latest/scale-to-width-down/350?cb=20190325230024" srcset="https://static.wikia.nocookie.net/harrypotter/images/4/4d/Cassius_Bell.png/revision/latest/scale-to-width-down/350?cb=20190325230024 1x, https://static.wikia.nocookie.net/harrypotter/images/4/4d/Cassius_Bell.png/revision/latest/scale-to-width-down/700?cb=20190325230024 2x" class="pi-image-thumbnail" alt="" width="270" height="372"
+		     data-image-key="Cassius_Bell.png" data-image-name="Cassius Bell.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Cassius Bell</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">Before <a href="/wiki/1927" title="1927">1927</a><sup id="cite_ref-COG_1-0" class="reference"><a href="#cite_note-COG-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male<sup id="cite_ref-COG_1-1" class="reference"><a href="#cite_note-COG-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Brown<sup id="cite_ref-COG_1-2" class="reference"><a href="#cite_note-COG-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Green<sup id="cite_ref-COG_1-3" class="reference"><a href="#cite_note-COG-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White<sup id="cite_ref-COG_1-4" class="reference"><a href="#cite_note-COG-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Auror" title="Auror">Auror</a><sup id="cite_ref-spotlight_2-0" class="reference"><a href="#cite_note-spotlight-2">&#91;2&#93;</a></sup><sup id="cite_ref-actor_3-0" class="reference"><a href="#cite_note-actor-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Bell_family" title="Bell family">Bell family</a></li><li><a href="/wiki/Gellert_Grindelwald" title="Gellert Grindelwald">Gellert Grindelwald</a><ul><li><a href="/wiki/Alliance" title="Alliance">The Alliance</a></li></ul></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Cassius Bell</b><sup id="cite_ref-spotlight_2-1" class="reference"><a href="#cite_note-spotlight-2">&#91;2&#93;</a></sup><sup id="cite_ref-actor_3-1" class="reference"><a href="#cite_note-actor-3">&#91;3&#93;</a></sup> was a <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> and <a href="/wiki/Auror" title="Auror">Auror</a> who lived in the early 20th century who eventually joined the <a href="/wiki/Dark_Wizard" title="Dark Wizard">Dark Wizard</a>, <a href="/wiki/Gellert_Grindelwald" title="Gellert Grindelwald">Gellert Grindelwald</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_life"><span class="tocnumber">1.1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Global_wizarding_war"><span class="tocnumber">1.2</span> <span class="toctext">Global wizarding war</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Behind_the_scenes"><span class="tocnumber">2</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Appearances"><span class="tocnumber">3</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Notes_and_references"><span class="tocnumber">4</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Cassius_Bell?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Cassius_Bell?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Cassius_Bell?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Early life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Cassius_Bell?action=edit&amp;section=2" title="Edit section: Early life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Cassius Bell was presumably born at some point prior to <a href="/wiki/1910" title="1910">1910</a> and became an <a href="/wiki/Auror" title="Auror">Auror</a> at some point after his seventeenth birthday, though it is unclear which wizarding government he served.
+</p>
+<h3><span class="mw-headline" id="Global_wizarding_war">Global wizarding war</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Cassius_Bell?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Global wizarding war">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Cassius_Bell?action=edit&amp;section=3" title="Edit section: Global wizarding war"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In <a href="/wiki/1927" title="1927">1927</a>, Cassius Bell was part of the group of Aurors, led by British Auror <a href="/wiki/Theseus_Scamander" title="Theseus Scamander">Theseus Scamander</a>, who attempted to break up a rally held by the <a href="/wiki/Dark_wizard" class="mw-redirect" title="Dark wizard">dark wizard</a> <a href="/wiki/Gellert_Grindelwald" title="Gellert Grindelwald">Gellert Grindelwald</a> in the <a href="/wiki/Lestrange_Mausoleum" title="Lestrange Mausoleum">Lestrange Mausoleum</a> in the <a href="/wiki/Paris" title="Paris">Parisian</a> cemetery <a href="/wiki/Cimeti%C3%A8re_du_P%C3%A8re-Lachaise" title="Cimetière du Père-Lachaise">Cimetière du Père-Lachaise</a>. Before entering the mausoleum, Scamander ordered his men to go easy on the crowd, reminding them it was not illegal to simply listen to Grindelwald's speech. The group then marched inside, with Bell close behind Scamander.<sup id="cite_ref-COG_1-5" class="reference"><a href="#cite_note-COG-1">&#91;1&#93;</a></sup>
+</p><p>Upon entering the sunken auditorium like space in which Grindelwald was addressing his supporters, Bell and the other Aurors silently spread out along the wall of the chamber's upper most level. The dark wizard spotted the group's arrival and invited them to come closer. Bell looked around at the other Aurors in shock upon hearing this, but Scamander began making his way down one of the stairways in the auditorium toward Grindelwald, and Bell followed suit, descending first down a separate stairway with his wand drawn.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p><p>As the group moved forward, Grindelwald riled the crowd against the Aurors, prompting a <a href="/wiki/Red-haired_young_witch" title="Red-haired young witch">young witch</a> to attack Bell. The Auror defended himself with the <a href="/wiki/Killing_Curse" title="Killing Curse">Killing Curse</a>, immediately killing his assailant and causing the crowd in the auditorium to cry out in shock. As they moved in around him he panicked and stumbled back up the stairway away from the witch's corpse.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> Grindelwald then approached the woman's body and told his supporters to <a href="/wiki/Apparition" title="Apparition">apparate</a> away and spread the word that it was law enforcement who was violent, not he. After the crowd had escaped, Grindelwald created a ring of <a href="/wiki/Protego_Diabolica" title="Protego Diabolica">dark magical fire</a> around himself that only his loyal followers could pass through unharmed.<sup id="cite_ref-COG_1-6" class="reference"><a href="#cite_note-COG-1">&#91;1&#93;</a></sup>
+</p><p>Theseus gave the order to attack as Grindelwald's followers escaped into the circle of fire and Apparated away. The <a href="/wiki/Dark_Wizard" title="Dark Wizard">Dark Wizard</a> then began manipulating the black <a href="/wiki/Fire" title="Fire">flames</a> to lash out at the attacking Aurors, killing many of them. Bell watched the flame kill two Aurors as they attempted to apparate away, then turned calmly toward Grindelwald's ring of fire and descended towards it.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> Grindelwald ultimately escaped, leaving his foes to battle the flame, which he had left to destroy Paris.
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Cassius_Bell?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Cassius_Bell?action=edit&amp;section=4" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Cassius Bell is played by <a href="/wiki/Christopher_Birks" title="Christopher Birks">Christopher Birks</a> in <i><a href="/wiki/Fantastic_Beasts:_The_Crimes_of_Grindelwald" title="Fantastic Beasts: The Crimes of Grindelwald">Fantastic Beasts: The Crimes of Grindelwald</a></i>.<sup id="cite_ref-spotlight_2-2" class="reference"><a href="#cite_note-spotlight-2">&#91;2&#93;</a></sup><sup id="cite_ref-actor_3-2" class="reference"><a href="#cite_note-actor-3">&#91;3&#93;</a></sup> The name of the character is occasionally omitted in credits, with the role referred as "Young Auror".</li>
+<li>It is possible that he is related to <a href="/wiki/Katie_Bell" title="Katie Bell">Katie Bell</a>.</li>
+<li>Given the second instalment of the <a href="/wiki/Fantastic_Beasts_(film_series)" title="Fantastic Beasts (film series)"><i>Fantastic Beasts</i> films</a> is set in <a href="/wiki/New_York" title="New York">New York</a>, <a href="/wiki/Paris" title="Paris">Paris</a> and <a href="/wiki/London" title="London">London</a>, he may have worked for the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">British</a> or <a href="/wiki/French_Ministry_of_Magic" title="French Ministry of Magic">French</a> <a href="/wiki/Ministry_of_Magic" title="Ministry of Magic">Ministries of Magic</a>, or the <a href="/wiki/Magical_Congress_of_the_United_States_of_America" title="Magical Congress of the United States of America">Magical Congress of the United States of America</a>. It is also possible that he worked for another wizarding government.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Cassius_Bell?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Cassius_Bell?action=edit&amp;section=5" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Fantastic_Beasts:_The_Crimes_of_Grindelwald_-_The_Original_Screenplay" title="Fantastic Beasts: The Crimes of Grindelwald - The Original Screenplay">Fantastic Beasts: The Crimes of Grindelwald - The Original Screenplay</a></i> <small>(First identified as YOUNG AUROR)</small></li>
+<li><i><a href="/wiki/Fantastic_Beasts:_The_Crimes_of_Grindelwald" title="Fantastic Beasts: The Crimes of Grindelwald">Fantastic Beasts: The Crimes of Grindelwald</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Cassius_Bell?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Cassius_Bell?action=edit&amp;section=6" title="Edit section: Notes and references

@@ -1,0 +1,56 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default"><section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Oliver Cartwright</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="signature">
+	
+		<h3 class="pi-data-label pi-secondary-font">Signature</h3>
+	
+	<div class="pi-data-value pi-font"><a href="https://static.wikia.nocookie.net/harrypotter/images/d/d1/Oliver_Cartwright_sig.png/revision/latest?cb=20111221152337" class="image"><img alt="Oliver Cartwright sig.png" src="https://static.wikia.nocookie.net/harrypotter/images/d/d1/Oliver_Cartwright_sig.png/revision/latest/scale-to-width-down/165?cb=20111221152337" decoding="async" width="165" height="57" data-image-name="Oliver Cartwright sig.png" data-image-key="Oliver_Cartwright_sig.png" /></a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Painter</div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+<b>Oliver Cartwright</b><sup id="cite_ref-LE_1-0" class="reference"><a href="#cite_note-LE-1">&#91;1&#93;</a></sup> was a <a href="/wiki/Wizardkind" title="Wizardkind">wizarding</a> painter. He painted the <a href="/wiki/Portrait" title="Portrait">portrait</a> of <a href="/wiki/Tobias_Misslethorpe" title="Tobias Misslethorpe">Tobias Misslethorpe</a> that hung at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a>.<sup id="cite_ref-LE_1-1" class="reference"><a href="#cite_note-LE-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Oliver_Cartwright?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Oliver_Cartwright?action=edit&amp;section=1" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>"Oliver" is from <i>Olivier</i>, a Norman French form of a Germanic name such as <i>Alfher</i> or an Old Norse name such as <i>Áleifr</i>. The spelling was altered by association with Latin <i>oliva</i> "olive tree". In the <a href="/wiki/Middle_Ages" title="Middle Ages">Middle Ages</a> the name became well-known in Western Europe because of the French epic <i>La Chanson de Roland</i>, in which Olivier was a friend and advisor of the hero Roland.
+</p><p>In England Oliver was a common medieval name, however it became rare after the 17th century because of the military commander Oliver Cromwell, who ruled the country following the civil war. The name was revived in the <a href="/wiki/19th_century" title="19th century">19th century</a>, perhaps in part due to the title character in <a href="/wiki/Charles_Dickens" title="Charles Dickens">Charles Dickens</a>' novel <i>Oliver Twist</i> (<a href="/wiki/1838" class="mw-redirect" title="1838">1838</a>).
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Oliver_Cartwright?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Oliver_Cartwright?action=edit&amp;section=2" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_(film_series)" title="Harry Potter (film series)">Harry Potter</a></i> films <span class="template-c">(Name seen on portrait)</span></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Oliver_Cartwright?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Oliver_Cartwright?action=edit&amp;section=3" title="Edit section: Notes and references

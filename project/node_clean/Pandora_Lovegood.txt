@@ -1,0 +1,167 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/9/9a/LovegoodFamilyPortrait.png/revision/latest?cb=20160105224434" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/9/9a/LovegoodFamilyPortrait.png/revision/latest/scale-to-width-down/128?cb=20160105224434" srcset="https://static.wikia.nocookie.net/harrypotter/images/9/9a/LovegoodFamilyPortrait.png/revision/latest/scale-to-width-down/128?cb=20160105224434 1x, https://static.wikia.nocookie.net/harrypotter/images/9/9a/LovegoodFamilyPortrait.png/revision/latest/scale-to-width-down/256?cb=20160105224434 2x" class="pi-image-thumbnail" alt="" width="128" height="135"
+		     data-image-key="LovegoodFamilyPortrait.png" data-image-name="LovegoodFamilyPortrait.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Pandora Lovegood</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font">Between <a href="/wiki/13_February" title="13 February">13 February</a>, <a href="/wiki/1990" title="1990">1990</a> and <a href="/wiki/12_February" title="12 February">12 February</a>, <a href="/wiki/1991" title="1991">1991</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="marital">
+	
+		<h3 class="pi-data-label pi-secondary-font">Marital status</h3>
+	
+	<div class="pi-data-value pi-font">Married</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Dirty-blonde (possibly)<sup id="cite_ref-appearance_2-0" class="reference"><a href="#cite_note-appearance-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Pale silvery (possibly)<sup id="cite_ref-appearance_2-1" class="reference"><a href="#cite_note-appearance-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White (possibly)</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Xenophilius_Lovegood" title="Xenophilius Lovegood">Xenophilius Lovegood</a> (husband)</li><li><a href="/wiki/Luna_Lovegood" title="Luna Lovegood">Luna Lovegood</a> (daughter)</li><li><a href="/wiki/Rolf_Scamander" title="Rolf Scamander">Rolf Scamander</a> (son-in-law)</li><li><a href="/wiki/Lorcan_Scamander" title="Lorcan Scamander">Lorcan</a> (grandson)</li><li><a href="/wiki/Lysander_Scamander" title="Lysander Scamander">Lysander</a> (grandson)</li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Spell_creation" title="Spell creation">Spell inventor</a><sup id="cite_ref-OOTP38_3-0" class="reference"><a href="#cite_note-OOTP38-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="house">
+	
+		<h3 class="pi-data-label pi-secondary-font">House</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Ravenclaw" title="Ravenclaw">Ravenclaw</a> (possibly)<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Lovegood_family" title="Lovegood family">Lovegood family</a></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Order of the Phoenix">"<i>She was a quite extraordinary witch, you know, but she did like to experiment and one of her spells went rather badly wrong one day. Yes, it was rather horrible.</i>"</span></dd>
+<dd>&#8212;<a href="/wiki/Luna_Lovegood" title="Luna Lovegood">Luna Lovegood</a> explaining her mother's tragic death<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Pandora</b><sup id="cite_ref-illness_5-0" class="reference"><a href="#cite_note-illness-5">&#91;5&#93;</a></sup> <b>Lovegood</b> (died c. <a href="/wiki/1990" title="1990">1990</a>) was a <a href="/wiki/Great_Britain" title="Great Britain">British</a> <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> who was married to <a href="/wiki/Xenophilius_Lovegood" title="Xenophilius Lovegood">Xenophilius Lovegood</a>, the editor of <i><a href="/wiki/The_Quibbler" title="The Quibbler">The Quibbler</a></i>, and with him had one child, <a href="/wiki/Luna_Lovegood" title="Luna Lovegood">Luna Lovegood</a>.
+</p><p>Pandora died in either <a href="/wiki/1990" title="1990">1990</a> or <a href="/wiki/1991" title="1991">1991</a> when her own spell backfired, when Luna was nine.<sup id="cite_ref-illness_5-1" class="reference"><a href="#cite_note-illness-5">&#91;5&#93;</a></sup> Harry saw a photo of Luna and Pandora while visiting the <a href="/wiki/Lovegood_House" title="Lovegood House">Lovegoods' house</a> in which Luna looked more well-groomed than he had ever seen her, which suggested that Pandora was not as absent minded as Xenophilius, or that Luna's mother was more demanding about her personal appearance, as opposed to Luna's father, who was generally known as a scruffy, unkempt man.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Physical_appearance"><span class="tocnumber">2</span> <span class="toctext">Physical appearance</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Magical_abilities_and_skills"><span class="tocnumber">3</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Etymology"><span class="tocnumber">4</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Appearances"><span class="tocnumber">5</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Notes_and_references"><span class="tocnumber">6</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Pandora_Lovegood?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Pandora_Lovegood?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tleft show-info-icon" style="width: 202px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/5/52/Xenophilius_Lovegood_promo_image.jpg/revision/latest?cb=20141103133955" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/5/52/Xenophilius_Lovegood_promo_image.jpg/revision/latest/scale-to-width-down/200?cb=20141103133955" decoding="async" width="200" height="267" class="thumbimage" data-image-name="Xenophilius Lovegood promo image.jpg" data-image-key="Xenophilius_Lovegood_promo_image.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Xenophilius_Lovegood_promo_image.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption"><a href="/wiki/Xenophilius_Lovegood" title="Xenophilius Lovegood">Xenophilius Lovegood</a>, her husband</p> 		 	</figcaption> </figure>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Order of the Phoenix (film)">"<i>The things we lose always have a way of coming back to us in the end.</i>"</span></dd>
+<dd>&#8212;Luna's perspective on death and loss<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(film)" title="Harry Potter and the Order of the Phoenix (film)">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p>According to her daughter, Pandora was an extraordinary <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> who liked to experiment with <a href="/wiki/Spell" title="Spell">spells</a>. One day in <a href="/wiki/1990" title="1990">1990</a> or <a href="/wiki/1991" title="1991">1991</a>, <a href="/wiki/Pandora_Lovegood%27s_unknown_spell" title="Pandora Lovegood&#39;s unknown spell">one of these experiments</a> went wrong, killing her in a "horrible" manner in front of Luna, who was subsequently able to see <a href="/wiki/Thestral" title="Thestral">Thestrals</a> because of it. Luna told <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> that she continued to feel sad about her mother's death from time to time and believed that she would see her again after death.<sup id="cite_ref-OOTP38_3-1" class="reference"><a href="#cite_note-OOTP38-3">&#91;3&#93;</a></sup>
+</p><p>Luna apparently had a large photograph beside her bed at <a href="/wiki/Lovegood_House" title="Lovegood House">home</a> depicting her and her mother hugging. She was described as looking very much like her daughter.<sup id="cite_ref-DH21_6-0" class="reference"><a href="#cite_note-DH21-6">&#91;6&#93;</a></sup> Many years later, Pandora Lovegood would posthumously become the maternal grandmother to <a href="/wiki/Lorcan_Scamander" title="Lorcan Scamander">Lorcan</a> and <a href="/wiki/Lysander_Scamander" title="Lysander Scamander">Lysander</a>, the sons of Luna and <a href="/wiki/Rolf_Scamander" title="Rolf Scamander">Rolf Scamander</a>.<sup id="cite_ref-PM_7-0" class="reference"><a href="#cite_note-PM-7">&#91;7&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Physical_appearance">Physical appearance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Pandora_Lovegood?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Physical appearance">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Pandora_Lovegood?action=edit&amp;section=2" title="Edit section: Physical appearance"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Pandora closely resembled her daughter in appearance.<sup id="cite_ref-appearance_2-2" class="reference"><a href="#cite_note-appearance-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Pandora_Lovegood?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Pandora_Lovegood?action=edit&amp;section=3" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Pandora Lovegood was described as being an extraordinary <a href="/wiki/Wizardkind" title="Wizardkind">witch</a>&#160;by her daughter Luna, implying she was very talented, skilled and creative in terms of her <a href="/wiki/Magic" title="Magic">magical</a> abilities.<sup id="cite_ref-OOTP38_3-2" class="reference"><a href="#cite_note-OOTP38-3">&#91;3&#93;</a></sup>
+</p>
+<ul><li><b><a href="/wiki/Spell_creation" title="Spell creation">Spell creation</a></b>: Pandora was noted to enjoy experimenting with and inventing new <a href="/wiki/Spell" title="Spell">spells</a>, showing she was a powerful witch in her own right, as spell creation requires immense magical knowledge and skill. However, one of her experimental spells one day backfired and accidentally killed her.<sup id="cite_ref-OOTP38_3-3" class="reference"><a href="#cite_note-OOTP38-3">&#91;3&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Pandora_Lovegood?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Pandora_Lovegood?action=edit&amp;section=4" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i>Pandora</i> is of the Ancient Greek and derived from πᾶν (= pān) =&gt; i.e. "all" and δῶρον (= dōron) =&gt; "gift", thus <i>"the all-endowed"</i>, <i>"the all-gifted"</i> or <i>"the all-giving"</i>. <i>Pandora</i> is said to be the first woman created by the gods in Greek mythology. She was given a box by them, and was told never to open it. Pandora, known for her intense curiosity, opened the box releasing things such as misery, sadness, etc. into the world, hence the phrase "<i>do not open Pandora's box"</i>. This could relate to her experimenting with spells, thus her curiosity, and her death, the consequence.
+</p><p><i>Lovegood</i>&#160;is a real surname and a compound word (Love and Good). This could be translated to "loving the good" or "chivalry".
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Pandora_Lovegood?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Pandora_Lovegood?action=edit&amp;section=5" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">Harry Potter and the Order of the Phoenix</a></i> <small>(First mentioned)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(film)" title="Harry Potter and the Order of the Phoenix (film)">Harry Potter and the Order of the Phoenix (film)</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">Harry Potter and the Deathly Hallows</a></i> <small>(Appears in photographs)</small></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> <small>(First identified as Pandora Lovegood)</small></li>
+<li><i><a href="/wiki/Wizarding_World_(website)" title="Wizarding World (website)">Wizarding World</a></i></li>
+<li><i><a href="/wiki/Harry_Potter:_The_Character_Vault" title="Harry Potter: The Character Vault">Harry Potter: The Character Vault</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/LEGO_Dimensions" title="LEGO Dimensions">LEGO Dimensions</a></i> <small>(Mentioned only)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Pandora_Lovegood?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Pandora_Lovegood?action=edit&amp;section=6" title="Edit section: Notes and references

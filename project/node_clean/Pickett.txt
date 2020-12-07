@@ -1,0 +1,122 @@
+<div class="mw-parser-output"><table class="notice metadata" id="spoiler" style="text-align: center; background: beige; margin: 1em 05%; padding: 0 1em; border: #a00 1px solid;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/e/ea/Wizards_Unite_logo.jpg/revision/latest?cb=20181114170049" class="image"><img alt="Wizards Unite logo.jpg" src="https://static.wikia.nocookie.net/harrypotter/images/e/ea/Wizards_Unite_logo.jpg/revision/latest/scale-to-width-down/175?cb=20181114170049" decoding="async" width="175" height="98" data-image-name="Wizards Unite logo.jpg" data-image-key="Wizards_Unite_logo.jpg" /></a>
+</td>
+<td><b>Warning!</b>
+<p>At least some content in this article is derived from information featured in <i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i>. As such, spoilers will be present within the article.
+</p><p>For gameplay-specific information, please see the relevant article on <a href="https://harrypotterwizardsunite.fandom.com/wiki/Pickett" class="extiw" title="w:c:harrypotterwizardsunite:Pickett">the Harry Potter: Wizards Unite Wiki!</a>
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-pet pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/d/df/Pickett.jpeg/revision/latest?cb=20181226212927" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/d/df/Pickett.jpeg/revision/latest/scale-to-width-down/350?cb=20181226212927" srcset="https://static.wikia.nocookie.net/harrypotter/images/d/df/Pickett.jpeg/revision/latest/scale-to-width-down/350?cb=20181226212927 1x, https://static.wikia.nocookie.net/harrypotter/images/d/df/Pickett.jpeg/revision/latest/scale-to-width-down/700?cb=20181226212927 2x" class="pi-image-thumbnail" alt="" width="270" height="330"
+		     data-image-key="Pickett.jpeg" data-image-name="Pickett.jpeg"/>
+		
+	</a>
+	
+</figure>
+
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Pickett</h2>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">Pre <a href="/wiki/1926" title="1926">1926</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="alias">
+	
+		<h3 class="pi-data-label pi-secondary-font">Also known as</h3>
+	
+	<div class="pi-data-value pi-font">Pick<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Bowtruckle" title="Bowtruckle">Bowtruckle</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Black</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Family information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Titus" title="Titus">Titus</a><sup id="cite_ref-bowtruckles_2-0" class="reference"><a href="#cite_note-bowtruckles-2">&#91;2&#93;</a></sup></li><li><a href="/wiki/Finn" title="Finn">Finn</a><sup id="cite_ref-bowtruckles_2-1" class="reference"><a href="#cite_note-bowtruckles-2">&#91;2&#93;</a></sup></li><li><a href="/wiki/Poppy" title="Poppy">Poppy</a><sup id="cite_ref-bowtruckles_2-2" class="reference"><a href="#cite_note-bowtruckles-2">&#91;2&#93;</a></sup></li><li><a href="/wiki/Marlow" title="Marlow">Marlow</a><sup id="cite_ref-bowtruckles_2-3" class="reference"><a href="#cite_note-bowtruckles-2">&#91;2&#93;</a></sup></li><li><a href="/wiki/Tom" title="Tom">Tom</a><sup id="cite_ref-bowtruckles_2-4" class="reference"><a href="#cite_note-bowtruckles-2">&#91;2&#93;</a></sup></li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Newton_Scamander" title="Newton Scamander">Newt Scamander</a></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Pet_individual_infobox" title="Template:Pet individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Pickett</b> was a male <a href="/wiki/Bowtruckle" title="Bowtruckle">Bowtruckle</a> that was kept by <a href="/wiki/Newton_Scamander" title="Newton Scamander">Newt Scamander</a> as a pet. Although he had at least six Bowtruckles<sup id="cite_ref-EW2016-08-12_3-0" class="reference"><a href="#cite_note-EW2016-08-12-3">&#91;3&#93;</a></sup> (Pickett, <a href="/wiki/Titus" title="Titus">Titus</a>, <a href="/wiki/Finn" title="Finn">Finn</a>, <a href="/wiki/Poppy" title="Poppy">Poppy</a>, <a href="/wiki/Marlow" title="Marlow">Marlow</a>, and <a href="/wiki/Tom_(Bowtruckle)" title="Tom (Bowtruckle)">Tom</a><sup id="cite_ref-bowtruckles_2-5" class="reference"><a href="#cite_note-bowtruckles-2">&#91;2&#93;</a></sup>), Newt was especially fond of Pickett, and even carried him around in his top pocket,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> first because Pickett had a cold and needed body warmth, and also because Pickett had attachment issues.<sup id="cite_ref-EW2016-08-12_3-1" class="reference"><a href="#cite_note-EW2016-08-12-3">&#91;3&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Skills"><span class="tocnumber">2</span> <span class="toctext">Skills</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Appearances"><span class="tocnumber">3</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Notes_and_references"><span class="tocnumber">4</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Pickett?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Pickett?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In <a href="/wiki/1926" title="1926">1926</a>, Pickett accompanied Newt on his journey to <a href="/wiki/New_York" title="New York">New York</a>, sitting inside his top pocket. He was present when the <a href="/wiki/Niffler" title="Niffler">Niffler</a> escaped at the <a href="/wiki/Steen_National_Bank" title="Steen National Bank">Steen National Bank</a> and when Newt was taken to the <a href="/wiki/Magical_Congress_of_the_United_States_of_America" title="Magical Congress of the United States of America">Magical Congress of the United States of America</a> by <a href="/wiki/Porpentina_Goldstein" title="Porpentina Goldstein">Tina Goldstein</a>.
+</p><p>Pickett was still hidden in Newt's pocket when <a href="/wiki/Gellert_Grindelwald" title="Gellert Grindelwald">Gellert Grindelwald</a>, in the guise of <a href="/wiki/Percival_Graves" title="Percival Graves">Percival Graves</a>, wrongfully sentenced them to death.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> As bowtruckles are able to <a href="/wiki/Lock_picking" title="Lock picking">pick locks</a>, Pickett was able to release Newt from his shackles and help Newt and Tina escape from the <a href="/wiki/Death_Cell" title="Death Cell">Death Cell</a>.<sup id="cite_ref-FB69_6-0" class="reference"><a href="#cite_note-FB69-6">&#91;6&#93;</a></sup>
+</p><p>Later, when Newt met the goblin gangster <a href="/wiki/Gnarlak" title="Gnarlak">Gnarlak</a>, Newt agreed to give Pickett to him as part of a deal to obtain information about the last missing beasts. Gnarlak betrayed them and turned them in to <a href="/wiki/Magical_Congress_of_the_United_States_of_America" title="Magical Congress of the United States of America">MACUSA</a>. In the resulting fray, Jacob punched Gnarlak out so Newt was able to rescue Pickett and escape.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> Pickett was not pleased with Newt for giving him away and expressed it by sulking and blowing raspberries.<sup id="cite_ref-FB92_8-0" class="reference"><a href="#cite_note-FB92-8">&#91;8&#93;</a></sup>
+</p><p>In <a href="/wiki/1927" title="1927">1927</a> Pickett was present while Newt was waiting for an interrogation at the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">British</a> <a href="/wiki/British_Ministry_of_Magic_Headquarters" title="British Ministry of Magic Headquarters">Ministry of Magic</a> regarding his international travel ban.<sup id="cite_ref-COGS_9-0" class="reference"><a href="#cite_note-COGS-9">&#91;9&#93;</a></sup>
+</p><p>Pickett also accompanied Newt on his journey to <a href="/wiki/Paris" title="Paris">Paris</a>. When Newt and <a href="/wiki/Jacob_Kowalski" title="Jacob Kowalski">Jacob Kowalski</a> found Tina imprisoned by <a href="/wiki/Yusuf_Kama" title="Yusuf Kama">Yusuf Kama</a> in his hideout in the Paris' sewers, they were also imprisoned by him. When Yusuf fainted, due <a href="/wiki/Water_dragon" title="Water dragon">water dragon</a> <a href="/wiki/Water_dragon_parasite" title="Water dragon parasite">parasite</a> in his eye, Pickett opened the lock in the gate and helped get them out of the room.<sup id="cite_ref-COGS_9-1" class="reference"><a href="#cite_note-COGS-9">&#91;9&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Skills">Skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Pickett?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Pickett?action=edit&amp;section=2" title="Edit section: Skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Lock_picking" title="Lock picking">Lock picking</a></b>: Pickett was named for his uncanny skill for picking locks, unlocking Newt's shackles in the Death Cell,<sup id="cite_ref-FB69_6-1" class="reference"><a href="#cite_note-FB69-6">&#91;6&#93;</a></sup> and unlocking the gate in Yusuf Kama's hideout in the sewers.<sup id="cite_ref-COGS_9-2" class="reference"><a href="#cite_note-COGS-9">&#91;9&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Pickett?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Pickett?action=edit&amp;section=3" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tright show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/9/93/PickpettPOP.jpg/revision/latest?cb=20190608001102" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/9/93/PickpettPOP.jpg/revision/latest/scale-to-width-down/180?cb=20190608001102" decoding="async" width="180" height="135" class="thumbimage" data-image-name="PickpettPOP.jpg" data-image-key="PickpettPOP.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:PickpettPOP.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Pickett as a <a href="/wiki/POP!_Vinyl" title="POP! Vinyl">POP! Vinyl</a></p> 		 	</figcaption> </figure>
+<figure class="thumb tright show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/f/f3/PickettWU.png/revision/latest?cb=20200718191636" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/f/f3/PickettWU.png/revision/latest/scale-to-width-down/180?cb=20200718191636" decoding="async" width="180" height="305" class="thumbimage" data-image-name="PickettWU.png" data-image-key="PickettWU.png" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:PickettWU.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Pickett as seen in <i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i></p> 		 	</figcaption> </figure>
+<ul><li><i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them:_The_Original_Screenplay" title="Fantastic Beasts and Where to Find Them: The Original Screenplay">Fantastic Beasts and Where to Find Them: The Original Screenplay</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(film)" title="Fantastic Beasts and Where to Find Them (film)">Fantastic Beasts and Where to Find Them (film)</a></i></li>
+<li><i><a href="/wiki/Fantastic_Beasts:_The_Crimes_of_Grindelwald_-_The_Original_Screenplay" title="Fantastic Beasts: The Crimes of Grindelwald - The Original Screenplay">Fantastic Beasts: The Crimes of Grindelwald - The Original Screenplay</a></i></li>
+<li><i><a href="/wiki/Fantastic_Beasts:_The_Crimes_of_Grindelwald" title="Fantastic Beasts: The Crimes of Grindelwald">Fantastic Beasts: The Crimes of Grindelwald</a></i><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup></li>
+<li><i><a href="/wiki/The_Archive_of_Magic:_The_Film_Wizardry_of_Fantastic_Beasts:_The_Crimes_of_Grindelwald" title="The Archive of Magic: The Film Wizardry of Fantastic Beasts: The Crimes of Grindelwald">The Archive of Magic: The Film Wizardry of Fantastic Beasts: The Crimes of Grindelwald</a></i></li>
+<li><i><a href="/wiki/LEGO_Dimensions" title="LEGO Dimensions">LEGO Dimensions</a></i></li>
+<li><i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Pickett?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Pickett?action=edit&amp;section=4" title="Edit section: Notes and references

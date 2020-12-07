@@ -1,0 +1,113 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-quidditch-player pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/c/c7/Peter_Hansen.png/revision/latest?cb=20190712070811" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/c/c7/Peter_Hansen.png/revision/latest/scale-to-width-down/350?cb=20190712070811" srcset="https://static.wikia.nocookie.net/harrypotter/images/c/c7/Peter_Hansen.png/revision/latest/scale-to-width-down/350?cb=20190712070811 1x, https://static.wikia.nocookie.net/harrypotter/images/c/c7/Peter_Hansen.png/revision/latest/scale-to-width-down/700?cb=20190712070811 2x" class="pi-image-thumbnail" alt="" width="270" height="205"
+		     data-image-key="Peter_Hansen.png" data-image-name="Peter Hansen.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Peter Hansen</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="title">
+	
+		<h3 class="pi-data-label pi-secondary-font">Title(s)</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Chaser" title="Chaser">Chaser</a><sup id="cite_ref-QWC_1-0" class="reference"><a href="#cite_note-QWC-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-QWC_1-1" class="reference"><a href="#cite_note-QWC-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male<sup id="cite_ref-QWC_1-2" class="reference"><a href="#cite_note-QWC-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Blond<sup id="cite_ref-QWC_1-3" class="reference"><a href="#cite_note-QWC-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Blue-green<sup id="cite_ref-QWC_1-4" class="reference"><a href="#cite_note-QWC-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White<sup id="cite_ref-QWC_1-5" class="reference"><a href="#cite_note-QWC-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Chaser" title="Chaser">Chaser</a> for the <a href="/wiki/Nordic_National_Quidditch_team" title="Nordic National Quidditch team">Nordic National Quidditch team</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Nordic_National_Quidditch_team" title="Nordic National Quidditch team">Nordic National Quidditch team</a></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Peter Hansen</b> was a <a href="/wiki/Scandinavia" title="Scandinavia">Scandinavian</a> <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> who played as the <a href="/wiki/Chaser" title="Chaser">Chaser</a> for the <a href="/wiki/Nordic_National_Quidditch_team" title="Nordic National Quidditch team">Nordic National Quidditch team</a> in the <a href="/wiki/1990" title="1990">1990s</a>.<sup id="cite_ref-QWC_1-6" class="reference"><a href="#cite_note-QWC-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Magical_abilities_and_skills"><span class="tocnumber">2</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Etymology"><span class="tocnumber">3</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Appearances"><span class="tocnumber">4</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Notes_and_references"><span class="tocnumber">5</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Peter_Hansen?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Peter_Hansen?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>He played as the <a href="/wiki/Chaser" title="Chaser">Chaser</a> on the <a href="/wiki/Nordic_National_Quidditch_team" title="Nordic National Quidditch team">Nordic National Quidditch team</a> during the four-hundred and twenty-second <a href="/wiki/Quidditch_World_Cup" title="Quidditch World Cup">Quidditch World Cup</a>, in <a href="/wiki/1994" title="1994">1994</a>.<sup id="cite_ref-QWC_1-7" class="reference"><a href="#cite_note-QWC-1">&#91;1&#93;</a></sup> He was possibly <a href="/wiki/Denmark" title="Denmark">Danish</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p><p>During the <a href="/wiki/1996%E2%80%931997_school_year" title="1996–1997 school year">1996–1997 school year</a>, Hansen's <a href="/wiki/Chocolate_Frog_Card" title="Chocolate Frog Card">Chocolate Frog Card</a> was able to be won by beating <a href="/wiki/Helen_Dawlish" title="Helen Dawlish">Helen Dawlish</a> at a <a href="/wiki/Duelling" title="Duelling">duelling</a> challenge.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Peter_Hansen?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Peter_Hansen?action=edit&amp;section=2" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Flight" title="Flight">Flying</a></b>: As a <a href="/wiki/Chaser" title="Chaser">Chaser</a> of the <a href="/wiki/Nordic_National_Quidditch_team" title="Nordic National Quidditch team">Nordic National Quidditch team</a>, he was a highly proficient and talented <a href="/wiki/Broomstick" title="Broomstick">broomstick</a> flyer and <a href="/wiki/Quidditch" title="Quidditch">Quidditch</a>, with his skill and experience in the <a href="/wiki/Magic" title="Magic">magical</a> sport clearly being demonstrated on the pitch and with his esteemed position.</li></ul>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Peter_Hansen?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Peter_Hansen?action=edit&amp;section=3" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tright show-info-icon" style="width: 252px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/e/e5/Peter_Hansen.jpeg/revision/latest?cb=20121021025014" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/e/e5/Peter_Hansen.jpeg/revision/latest/scale-to-width-down/250?cb=20121021025014" decoding="async" width="250" height="188" class="thumbimage" data-image-name="Peter Hansen.jpeg" data-image-key="Peter_Hansen.jpeg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Peter_Hansen.jpeg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Peter Hansen with Quaffle</p> 		 	</figcaption> </figure>
+<p>The name "Peter" is derived from the Greek Πετρος (<i>Petros</i>) meaning "stone". This is a translation used in most versions of the New Testament of the name <i>Cephas</i>, meaning "stone" in Aramaic, which was given to the apostle Simon by Jesus'. Simon Peter was the most prominent of the apostles during Jesus's ministry and is often considered the first pope.
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Peter_Hansen?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Peter_Hansen?action=edit&amp;section=4" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter:_Quidditch_World_Cup" title="Harry Potter: Quidditch World Cup">Harry Potter: Quidditch World Cup</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince_(video_game)" title="Harry Potter and the Half-Blood Prince (video game)">Harry Potter and the Half-Blood Prince (video game)</a></i> <span class="template-c">(NDS edition)</span> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Peter_Hansen?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Peter_Hansen?action=edit&amp;section=5" title="Edit section: Notes and references

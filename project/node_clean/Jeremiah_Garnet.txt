@@ -1,0 +1,97 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/0/0f/Jeremiah_Garnet.png/revision/latest?cb=20161230025922" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/0/0f/Jeremiah_Garnet.png/revision/latest/scale-to-width-down/350?cb=20161230025922" srcset="https://static.wikia.nocookie.net/harrypotter/images/0/0f/Jeremiah_Garnet.png/revision/latest/scale-to-width-down/350?cb=20161230025922 1x, https://static.wikia.nocookie.net/harrypotter/images/0/0f/Jeremiah_Garnet.png/revision/latest/scale-to-width-down/699?cb=20161230025922 2x" class="pi-image-thumbnail" alt="" width="270" height="312"
+		     data-image-key="Jeremiah_Garnet.png" data-image-name="Jeremiah Garnet.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Jeremiah Garnet</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Blond</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Grey</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Reporter for the <a href="/wiki/Wizarding_Wireless_Network" title="Wizarding Wireless Network">Wizarding Wireless Network</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Wizarding_Wireless_Network" title="Wizarding Wireless Network">Wizarding Wireless Network</a></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Jeremiah Garnet</b> was a <a href="/wiki/Great_Britain" title="Great Britain">British</a> <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> and radio reporter for the <a href="/wiki/Wizarding_Wireless_Network" title="Wizarding Wireless Network">Wizarding Wireless Network</a>.
+</p>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Jeremiah_Garnet?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Jeremiah_Garnet?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>He was investigating a <a href="/wiki/Fire" title="Fire">fire</a> at the <a href="/wiki/Boathouse" title="Boathouse">Boathouse</a> of <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> and believed it to be caused by a <a href="/wiki/Dragon" title="Dragon">dragon</a>. His zealousness to develop this story led him to fake a <a class="new" title="Jeremiah Garnet&#39;s photograph (page does not exist)" rel="nofollow" data-uncrawlable-url="L3dpa2kvSmVyZW1pYWhfR2FybmV0JTI3c19waG90b2dyYXBoP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">photograph</a> of a dragon flying over Hogwarts. This forgery was discovered by <a href="/wiki/Mathilda_Grimblehawk" title="Mathilda Grimblehawk">Mathilda Grimblehawk</a> and <a href="/wiki/Mathilda_Grimblehawk%27s_partner" title="Mathilda Grimblehawk&#39;s partner">her partner</a> during their investigation of the fire.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p><p>Garnet managed to capture the beast responsible for the fire and sent it to the <a href="/wiki/Wizarding_Wireless_Network" title="Wizarding Wireless Network">Wizarding Wireless Network</a> for an exclusive report, but Mathilda and her partner managed to rescue the beast and relocate it.
+In addition to reporting, Garnet was also working on <i><a class="new" title="Hogwarts Castle: A History of Cultivated Fungus (page does not exist)" rel="nofollow" data-uncrawlable-url="L3dpa2kvSG9nd2FydHNfQ2FzdGxlOl9BX0hpc3Rvcnlfb2ZfQ3VsdGl2YXRlZF9GdW5ndXM/YWN0aW9uPWVkaXQmcmVkbGluaz0x">Hogwarts Castle: A History of Cultivated Fungus</a></i>.
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Jeremiah_Garnet?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Jeremiah_Garnet?action=edit&amp;section=2" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Fantastic_Beasts:_Cases_from_the_Wizarding_World" title="Fantastic Beasts: Cases from the Wizarding World">Fantastic Beasts: Cases from the Wizarding World</a></i> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Jeremiah_Garnet?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Jeremiah_Garnet?action=edit&amp;section=3" title="Edit section: Notes and references

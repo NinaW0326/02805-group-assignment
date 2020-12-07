@@ -1,0 +1,184 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-hogwarts-staff pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/2/25/Wilhelmina_Grubbly-Plank.jpg/revision/latest?cb=20170904131230" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/2/25/Wilhelmina_Grubbly-Plank.jpg/revision/latest/scale-to-width-down/241?cb=20170904131230" srcset="https://static.wikia.nocookie.net/harrypotter/images/2/25/Wilhelmina_Grubbly-Plank.jpg/revision/latest/scale-to-width-down/241?cb=20170904131230 1x, https://static.wikia.nocookie.net/harrypotter/images/2/25/Wilhelmina_Grubbly-Plank.jpg/revision/latest/scale-to-width-down/482?cb=20170904131230 2x" class="pi-image-thumbnail" alt="" width="241" height="321"
+		     data-image-key="Wilhelmina_Grubbly-Plank.jpg" data-image-name="Wilhelmina Grubbly-Plank.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Wilhelmina Grubbly-Plank</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a> or <a href="/wiki/Ireland" title="Ireland">Irish</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="title">
+	
+		<h3 class="pi-data-label pi-secondary-font">Title(s)</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Professor" title="Professor">Professor</a><sup id="cite_ref-GOF24_2-0" class="reference"><a href="#cite_note-GOF24-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-GOF24_2-1" class="reference"><a href="#cite_note-GOF24-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female<sup id="cite_ref-GOF24_2-2" class="reference"><a href="#cite_note-GOF24-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Grey<sup id="cite_ref-OOTP10_3-0" class="reference"><a href="#cite_note-OOTP10-3">&#91;3&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Magical characteristics</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="patronus">
+	
+		<h3 class="pi-data-label pi-secondary-font">Patronus</h3>
+	
+	<div class="pi-data-value pi-font">Non-corporeal<sup id="cite_ref-LEGOY2_4-0" class="reference"><a href="#cite_note-LEGOY2-4">&#91;4&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Professor" title="Professor">Substitute professor</a> of <a href="/wiki/Care_of_Magical_Creatures" title="Care of Magical Creatures">Care of Magical Creatures</a> at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts</a> (pre <a href="/wiki/1994" title="1994">1994</a>-?)<sup id="cite_ref-GOF24_2-3" class="reference"><a href="#cite_note-GOF24-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a><sup id="cite_ref-OOTP13_5-0" class="reference"><a href="#cite_note-OOTP13-5">&#91;5&#93;</a></sup></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Goblet of Fire">"<i>I hope she stays, that woman! That's more of what I thought Care of Magical Creatures would be like... proper creatures like unicorns, not monsters...</i>"</span></dd>
+<dd>&#8212;<a href="/wiki/Parvati_Patil" title="Parvati Patil">Parvati Patil</a>, on Grubbly-Plank's first lesson<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire" title="Harry Potter and the Goblet of Fire">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Professor Wilhelmina Grubbly-Plank</b> was a <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> who worked as a substitute <a href="/wiki/Care_of_Magical_Creatures" title="Care of Magical Creatures">Care of Magical Creatures</a> teacher at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a>.  She was first met by <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a>'s batch in <a href="/wiki/1994" title="1994">1994</a>, taking over lessons when <a href="/wiki/Rubeus_Hagrid" title="Rubeus Hagrid">Professor Rubeus Hagrid</a> was unable to teach.<sup id="cite_ref-GOF24_2-4" class="reference"><a href="#cite_note-GOF24-2">&#91;2&#93;</a></sup> She taught the class again in part of the next school year when Hagrid was away on a mission for <a href="/wiki/Albus_Dumbledore" title="Albus Dumbledore">Albus Dumbledore</a>.<sup id="cite_ref-OOTP13_5-1" class="reference"><a href="#cite_note-OOTP13-5">&#91;5&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_life"><span class="tocnumber">1.1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Hogwarts_substitute_teacher"><span class="tocnumber">1.2</span> <span class="toctext">Hogwarts substitute teacher</span></a>
+<ul>
+<li class="toclevel-3 tocsection-4"><a href="#1994-1995"><span class="tocnumber">1.2.1</span> <span class="toctext">1994-1995</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#1995-1996"><span class="tocnumber">1.2.2</span> <span class="toctext">1995-1996</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Physical_appearance"><span class="tocnumber">2</span> <span class="toctext">Physical appearance</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Personality_and_traits"><span class="tocnumber">3</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Magical_abilities_and_skills"><span class="tocnumber">4</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Behind_the_scenes"><span class="tocnumber">5</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Appearances"><span class="tocnumber">6</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Notes_and_references"><span class="tocnumber">7</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Wilhelmina_Grubbly-Plank?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Wilhelmina_Grubbly-Plank?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Wilhelmina_Grubbly-Plank?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Early life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Wilhelmina_Grubbly-Plank?action=edit&amp;section=2" title="Edit section: Early life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Wilhelmina Grubbly-Plank was born in or before 1930. She presumably sat for <a href="/wiki/Ordinary_Wizarding_Level" title="Ordinary Wizarding Level">O.W.L.s</a> and <a href="/wiki/Nastily_Exhausting_Wizarding_Test" title="Nastily Exhausting Wizarding Test">N.E.W.T.s</a> in her youth, in order to have her current job, and likely achieved a high grade in <a href="/wiki/Care_of_Magical_Creatures" title="Care of Magical Creatures">Care of Magical Creatures</a>.
+</p>
+<h3><span class="mw-headline" id="Hogwarts_substitute_teacher">Hogwarts substitute teacher</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Wilhelmina_Grubbly-Plank?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Hogwarts substitute teacher">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Wilhelmina_Grubbly-Plank?action=edit&amp;section=3" title="Edit section: Hogwarts substitute teacher"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="1994-1995"><a href="/wiki/1994%E2%80%931995_school_year" title="1994–1995 school year">1994-1995</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Wilhelmina_Grubbly-Plank?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: 1994-1995">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Wilhelmina_Grubbly-Plank?action=edit&amp;section=4" title="Edit section: 1994-1995"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Goblet of Fire"><b>Professor Grubbly Plank</b>: "<i>Hurry up, now, the bell rang five minutes ago.</i>"</span></dd>
+<dd><b><a href="/wiki/Ronald_Weasley" title="Ronald Weasley">Ron Weasley</a></b>: "<i>Who’re you? Where’s Hagrid?</i>"</dd>
+<dd><b>Professor Grubbly Plank</b>: "<i>My name is Professor Grubbly-Plank. I am your temporary Care of Magical Creatures teacher</i>"</dd>
+<dd>&#8212; Professor Grubbply plank introducing herself to <a href="/wiki/Fourth_year" title="Fourth year">fourth year</a> students in 1995<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire" title="Harry Potter and the Goblet of Fire">[src]</a></sup></dd></dl>
+</div>
+<figure class="thumb tleft show-info-icon" style="width: 253px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/3/39/Unicorn_Students_pm.jpg/revision/latest?cb=20170904130520" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/3/39/Unicorn_Students_pm.jpg/revision/latest/scale-to-width-down/251?cb=20170904130520" decoding="async" width="251" height="108" class="thumbimage" data-image-name="Unicorn Students pm.jpg" data-image-key="Unicorn_Students_pm.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Unicorn_Students_pm.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Professor Grubbly-Plank introduces students to the unicorns</p> 		 	</figcaption> </figure>
+<p>Professor Grubbly-Plank took over <a href="/wiki/Rubeus_Hagrid" title="Rubeus Hagrid">Rubeus Hagrid</a>'s lessons during <a href="/wiki/January" title="January">January</a> <a href="/wiki/1995" title="1995">1995</a>, because Hagrid was indisposed after the defamatory article about him written by <a href="/wiki/Rita_Skeeter" title="Rita Skeeter">Rita Skeeter</a>, about his status as a <a href="/wiki/Half-giant" title="Half-giant">Half-giant</a>. In the first lesson of the year, she taught the students about <a href="/wiki/Unicorn" title="Unicorn">Unicorns</a>. When Hagrid resumed teaching in early <a href="/wiki/February" title="February">February</a>, Grubbly-Plank was no longer required and she left the school. All the students present in her Care of Magical Creature lessons found her to be a good teacher.<sup id="cite_ref-GOF24_2-5" class="reference"><a href="#cite_note-GOF24-2">&#91;2&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="1995-1996"><a href="/wiki/1995%E2%80%931996_school_year" title="1995–1996 school year">1995-1996</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Wilhelmina_Grubbly-Plank?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: 1995-1996">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Wilhelmina_Grubbly-Plank?action=edit&amp;section=5" title="Edit section: 1995-1996"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Order of the Phoenix">"<i>Everyone here? Let’s crack on then — who can tell me what these things are called?</i>"</span></dd>
+<dd>&#8212;Professor Grubbly Plank teaching fifth years about <a href="/wiki/Bowtruckle" title="Bowtruckle">Bowtruckles</a><sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p>As Hagrid was absent in the beginning of the next school year, Grubbly-Plank was temporarily put in charge of <a href="/wiki/Care_of_Magical_Creatures" title="Care of Magical Creatures">Care of Magical Creatures</a> again. She led the <a href="/wiki/First_year" title="First year">first years</a> across the <a href="/wiki/Great_Lake" title="Great Lake">Lake</a> on the enchanted boats, which was usually Hagrid's responsibility.<sup id="cite_ref-OOTP10_3-1" class="reference"><a href="#cite_note-OOTP10-3">&#91;3&#93;</a></sup>
+</p>
+<figure class="thumb tright show-info-icon" style="width: 248px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/3/3d/Staff.PNG/revision/latest?cb=20180724075026" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/3/3d/Staff.PNG/revision/latest/scale-to-width-down/246?cb=20180724075026" decoding="async" width="246" height="115" class="thumbimage" data-image-name="Staff.PNG" data-image-key="Staff.PNG" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Staff.PNG" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Professor Grubbly-Plank and other teachers listen to a new teacher for the <a href="/wiki/Defence_Against_the_Dark_Arts" title="Defence Against the Dark Arts">Defence Against the Dark Arts</a>, <a href="/wiki/Dolores_Umbridge" title="Dolores Umbridge">Dolores Umbridge</a></p> 		 	</figcaption> </figure>
+<p>When <a href="/wiki/Hedwig" title="Hedwig">Hedwig</a> was hurt when returning from <a href="/wiki/London" title="London">London</a> on <a href="/wiki/7_October" title="7 October">7 October</a> <a href="/wiki/1995" title="1995">1995</a>, Harry asked Grubbly-Plank to heal her, which she did without much difficulty.<sup id="cite_ref-OOTP17_6-0" class="reference"><a href="#cite_note-OOTP17-6">&#91;6&#93;</a></sup> However she was brusque in her replies to inquiries regarding Hagrid's whereabouts when Harry asked her about him, not wanting to inform Harry of his true highly classified and dangerous <a href="/wiki/Mission_to_the_Giant_colony" title="Mission to the Giant colony">mission</a>.<sup id="cite_ref-OOTP13_5-2" class="reference"><a href="#cite_note-OOTP13-5">&#91;5&#93;</a></sup> Grubbly-Plank passed <a href="/wiki/Dolores_Umbridge" title="Dolores Umbridge">Dolores Umbridge</a>'s (then-<a href="/wiki/Hogwarts_High_Inquisitor" title="Hogwarts High Inquisitor">High Inquisitor of Hogwarts</a>) inspection without incident while she taught her students about <a href="/wiki/Bowtruckle" title="Bowtruckle">Bowtruckles</a> and gave out a homework assignments, to sketch and label a drawing of one.<sup id="cite_ref-OOTP15_7-0" class="reference"><a href="#cite_note-OOTP15-7">&#91;7&#93;</a></sup>
+</p><p>After <a href="/wiki/Rubeus_Hagrid" title="Rubeus Hagrid">Hagrid</a>'s return on <a href="/wiki/7_November" title="7 November">7 November</a>, Grubbly-Plank was relieved of her duties again. When Hagrid planned to leave Hogwarts at the end of this school year, he implied that Grubbly-Plank would take on the class full-time.<sup id="cite_ref-OOTP21_8-0" class="reference"><a href="#cite_note-OOTP21-8">&#91;8&#93;</a></sup> When he ran away from Umbridge and the Aurors,<sup id="cite_ref-OOTP31_9-0" class="reference"><a href="#cite_note-OOTP31-9">&#91;9&#93;</a></sup> it is unknown whether she returned to teach Care of Magical Creatures for the remainder of that school year, though following the <a href="/wiki/Battle_of_the_Department_of_Mysteries" title="Battle of the Department of Mysteries">Battle of the Department of Mysteries</a>, Dumbledore did order <a href="/wiki/Cornelius_Fudge" title="Cornelius Fudge">Cornelius Fudge</a> to have his <a href="/wiki/Auror" title="Auror">Aurors</a> call off the search for Hagrid so that he could return to work, indicating that he resumed the position following that event.<sup id="cite_ref-OP36_10-0" class="reference"><a href="#cite_note-OP36-10">&#91;10&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Physical_appearance">Physical appearance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Wilhelmina_Grubbly-Plank?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Physical appearance">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Wilhelmina_Grubbly-Plank?action=edit&amp;section=6" title="Edit section: Physical appearance"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Professor Grubbly-Plank was described as an elderly witch with short grey hair and a very prominent pointed chin.<sup id="cite_ref-OOTP10_3-2" class="reference"><a href="#cite_note-OOTP10-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Wilhelmina_Grubbly-Plank?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Personality and traits">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Wilhelmina_Grubbly-Plank?action=edit&amp;section=7" title="Edit section: Personality and traits"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Order of the Phoenix"><b>Professor Grubbly Plank</b>: "<i>I should be able to sort this out if you leave her with me, Potter. She shouldn’t be flying long distances for a few days, in any case.</i>"</span></dd>
+<dd><b>Harry Potter</b>: "<i>Er — right — thanks.</i>"</dd>
+<dd><b>Professor Grubbly Plank</b>: "<i>No problem.</i>"</dd>
+<dd>&#8212; Professor Grubbly Plank kindly healing Hedwig for Harry Potter<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">[src]</a></sup></dd></dl>
+</div>
+<p>Wilhelmina Grubbly-Plank was a very competent teacher, passing even <a href="/wiki/Dolores_Umbridge" title="Dolores Umbridge">Dolores Umbridge</a>'s inspection without incident (though Umbridge was disappointed by her expressing approval of Dumbledore). She always seemed level-headed, cheerful and efficient, and claimed to be very happy with the way <a href="/wiki/Albus_Dumbledore" title="Albus Dumbledore">Dumbledore</a> governed <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts</a>. She also appeared to be kind-hearted and caring towards her students, as she helped nurse Harry Potter's pet owl Hedwig back to health after she was injured, showing her respect for animal life forms.<sup id="cite_ref-OOTP17_6-1" class="reference"><a href="#cite_note-OOTP17-6">&#91;6&#93;</a></sup>
+</p><p>Many of her students (<a href="/wiki/Gryffindor" title="Gryffindor">Gryffindors</a> included) felt that Professor Grubbly-Plank was a somewhat better teacher than Hagrid. Harry, <a href="/wiki/Ronald_Weasley" title="Ronald Weasley">Ron</a>, and <a href="/wiki/Hermione_Granger" title="Hermione Granger">Hermione</a> never admitted this though however, simply because of their very close friendship with Hagrid. Professor Grubbly-Plank also seemed to be very respectful towards <a href="/wiki/Rubeus_Hagrid" title="Rubeus Hagrid">Hagrid</a> as she never criticised his teaching skills and even complimented his training of the school <a href="/wiki/Thestral" title="Thestral">Thestrals</a>. She further showed her respect for Hagrid when she brusquely refused to inform Harry Potter of his whereabouts, thoughtfully regarding his highly important and classified <a href="/wiki/Mission_to_the_Giant_colony" title="Mission to the Giant colony">mission</a> with the <a href="/wiki/Giant" title="Giant">Giants</a>. She was also known to smoke a pipe in her free time.<sup id="cite_ref-OOTP13_5-3" class="reference"><a href="#cite_note-OOTP13-5">&#91;5&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Wilhelmina_Grubbly-Plank?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Wilhelmina_Grubbly-Plank?action=edit&amp;section=8" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Order of the Phoenix"><b>Dolores Umbridge</b>: "<i>And what are you planning to cover with this class this year — assuming, of course, that Professor Hagrid does not return?</i>"</span></dd>
+<dd><b>Professor Grubbly Plank</b>: "<i>Oh, I’ll take them through the creatures that most often come up in O.W.L.. Not much left to do — they’ve studied unicorns and nifflers, I thought we’d cover porlocks and kneazles, make sure they can recognize crups and knarls, you know. . . .</i>"</dd>
+<dd><b>Dolores Umbridge</b>: "<i>Well, you seem to know what you’re doing, at any rate.</i>"</dd>
+<dd>&#8212; Professor Grubbly Plank's competency as a teacher<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">[src]</a></sup></dd></dl>
+</div>
+<ul><li><b><a href="/wiki/Care_of_Magical_Creatures" title="Care of Magical Creatures">Care of Magical Creatures</a></b>: Professor Grubbly-Plank was very knowledgeable and skilful in the field of <a href="/wiki/Magizoology" title="Magizoology">Magizoology</a>. Her knowledge and expertise in her field meant she was appointed replacement Professor at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts</a> at least twice and passed <a href="/wiki/Dolores_Umbridge" title="Dolores Umbridge">Dolores Umbridge</a>'s Ministry of Magic inspection. She was also considered a highly competent teacher by both Umbridge and students, many of whom considered her a superior teacher to Hagrid.<sup id="cite_ref-GOF24_2-6" class="reference"><a href="#cite_note-GOF24-2">&#91;2&#93;</a></sup><sup id="cite_ref-OOTP13_5-4" class="reference"><a href="#cite_note-OOTP13-5">&#91;5&#93;</a></sup><sup id="cite_ref-OOTP15_7-1" class="reference"><a href="#cite_note-OOTP15-7">&#91;7&#93;</a></sup></li>
+<li><b><a href="/wiki/Healing_magic" title="Healing magic">Healing magic</a></b>: She was skilled in healing magic to at least a reasonable degree, as she was able to heal <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a>'s pet <a href="/wiki/Owl" title="Owl">owl</a> <a href="/wiki/Hedwig" title="Hedwig">Hedwig</a> when she was injured, presumably using magical means.<sup id="cite_ref-OOTP17_6-2" class="reference"><a href="#cite_note-OOTP17-6">&#91;6&#93;</a></sup><sup id="cite_ref-OOTP18_11-0" class="reference"><a href="#cite_note-OOTP18-11">&#91;11&#93;</a></sup></li>
+<li><b><a href="/wiki/Charm" title="Charm">Charms</a></b>: She was capable of conjuring a non-corporeal <a href="/wiki/Patronus_Charm" title="Patronus Charm">Patronus</a>,<sup id="cite_ref-LEGOY2_4-1" class="reference"><a href="#cite_note-LEGOY2-4">&#91;4&#93;</a></sup> a highly advanced piece of <a href="/wiki/Magic" title="Magic">magic</a> and a mark of superior <a href="/wiki/Magic" title="Magic">magical</a> ability given the immense difficulty of casting the charm.</li></ul>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Wilhelmina_Grubbly-Plank?veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Wilhelmina_Grubbly-Plank?action=edit&amp;section=9" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Wilhelmina Grubbly-Plank is portrayed by <a href="/wiki/Great_Britain" title="Great Britain">British</a> actress <a href="/wiki/Apple_Brook" title="Apple Brook">Apple Brook</a> in the <a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(film)" title="Harry Potter and the Order of the Phoenix (film)">film adaptation</a> of <i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">Harry Potter and the Order of the Phoenix</a></i>.</li>
+<li>In the final cut of the <a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(film)" title="Harry Potter and the Order of the Phoenix (film)">film</a>, she only appears in the background of one scene and has no dialogue parts. It is unknown if more scenes with her were filmed.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Wilhelmina_Grubbly-Plank?veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Wilhelmina_Grubbly-Plank?action=edit&amp;section=10" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 18 images related to <i><b><a href="/wiki/Category:Images_of_Wilhelmina_Grubbly-Plank" title="Category:Images of Wilhelmina Grubbly-Plank">Wilhelmina Grubbly-Plank</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<figure class="thumb tright show-info-icon" style="width: 109px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/6/61/Grubbly-Plank.PNG/revision/latest?cb=20111216184124" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="107" height="206" class="thumbimage lazyload" data-image-name="Grubbly-Plank.PNG" data-image-key="Grubbly-Plank.PNG" data-src="https://static.wikia.nocookie.net/harrypotter/images/6/61/Grubbly-Plank.PNG/revision/latest/scale-to-width-down/107?cb=20111216184124" /></a> 	<noscript><a href="https://static.wikia.nocookie.net/harrypotter/images/6/61/Grubbly-Plank.PNG/revision/latest?cb=20111216184124" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/6/61/Grubbly-Plank.PNG/revision/latest/scale-to-width-down/107?cb=20111216184124" decoding="async" width="107" height="206" class="thumbimage" data-image-name="Grubbly-Plank.PNG" data-image-key="Grubbly-Plank.PNG" data-src="https://static.wikia.nocookie.net/harrypotter/images/6/61/Grubbly-Plank.PNG/revision/latest/scale-to-width-down/107?cb=20111216184124" /></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Grubbly-Plank.PNG" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Wilhelmina Grubbly Plank as she appears in <i><a href="/wiki/LEGO_Harry_Potter:_Years_5-7" title="LEGO Harry Potter: Years 5-7">LEGO Harry Potter: Years 5-7</a></i></p> 		 	</figcaption> </figure>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire" title="Harry Potter and the Goblet of Fire">Harry Potter and the Goblet of Fire</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">Harry Potter and the Order of the Phoenix</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(film)" title="Harry Potter and the Order of the Phoenix (film)">Harry Potter and the Order of the Phoenix (film)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(video_game)" title="Harry Potter and the Order of the Phoenix (video game)">Harry Potter and the Order of the Phoenix (video game)</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">Harry Potter and the Half-Blood Prince</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter:_Years_5-7" title="LEGO Harry Potter: Years 5-7">LEGO Harry Potter: Years 5-7</a></i></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i></li>
+<li><i><a href="/wiki/Wizarding_World_(website)" title="Wizarding World (website)">Wizarding World</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Wilhelmina_Grubbly-Plank?veaction=edit&amp;section=11" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Wilhelmina_Grubbly-Plank?action=edit&amp;section=11" title="Edit section: Notes and references

@@ -1,0 +1,78 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/6/69/RoxanneWeasley.png/revision/latest?cb=20170816213445" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/6/69/RoxanneWeasley.png/revision/latest/scale-to-width-down/311?cb=20170816213445" srcset="https://static.wikia.nocookie.net/harrypotter/images/6/69/RoxanneWeasley.png/revision/latest/scale-to-width-down/311?cb=20170816213445 1x, https://static.wikia.nocookie.net/harrypotter/images/6/69/RoxanneWeasley.png/revision/latest/scale-to-width-down/621?cb=20170816213445 2x" class="pi-image-thumbnail" alt="" width="270" height="434"
+		     data-image-key="RoxanneWeasley.png" data-image-name="RoxanneWeasley.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Roxanne Weasley</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/2000s" title="2000s">2000s</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Arthur_Weasley" title="Arthur Weasley">Arthur Weasley</a> (paternal grandfather)</li><li><a href="/wiki/Molly_Weasley" title="Molly Weasley">Molly Weasley</a> (paternal grandmother)</li><li><a href="/wiki/Angelina_Johnson%27s_father" title="Angelina Johnson&#039;s father">Mr Johnson</a> (maternal grandfather)</li><li><a href="/wiki/George_Weasley" title="George Weasley">George Weasley</a> (father)</li><li><a href="/wiki/Angelina_Johnson" title="Angelina Johnson">Angelina Johnson</a> (mother)</li><li><a href="/wiki/Fred_Weasley_II" title="Fred Weasley II">Fred Weasley II</a> (brother)</li><li><a href="/wiki/William_Weasley" title="William Weasley">Bill Weasley</a> (uncle)</li><li><a href="/wiki/Fleur_Delacour" title="Fleur Delacour">Fleur Weasley</a> <span class="template-c">(née <a href="/wiki/Delacour_family" title="Delacour family">Delacour</a>)</span> (aunt)</li><li><a href="/wiki/Victoire_Weasley" title="Victoire Weasley">Victoire Weasley</a> (cousin)</li><li><a href="/wiki/Dominique_Weasley" title="Dominique Weasley">Dominique Weasley</a> (cousin)</li><li><a href="/wiki/Louis_Weasley" title="Louis Weasley">Louis Weasley</a> (cousin)</li><li><a href="/wiki/Percy_Weasley" title="Percy Weasley">Percy Weasley</a> (uncle)</li><li><a href="/wiki/Audrey_Weasley" title="Audrey Weasley">Audrey Weasley</a> (aunt)</li><li><a href="/wiki/Molly_Weasley_II" title="Molly Weasley II">Molly Weasley II</a> (cousin)</li><li><a href="/wiki/Lucy_Weasley" title="Lucy Weasley">Lucy Weasley</a> (cousin)</li><li><a href="/wiki/Charles_Weasley" title="Charles Weasley">Charles Weasley</a> (uncle)</li><li><a href="/wiki/Fred_Weasley" title="Fred Weasley">Fred Weasley</a> (uncle) †</li><li><a href="/wiki/Ronald_Weasley" title="Ronald Weasley">Ronald Weasley</a> (uncle)</li><li><a href="/wiki/Hermione_Granger" title="Hermione Granger">Hermione Granger</a> (aunt)</li><li><a href="/wiki/Rose_Granger-Weasley" title="Rose Granger-Weasley">Rose Granger-Weasley</a> (cousin)</li><li><a href="/wiki/Hugo_Granger-Weasley" title="Hugo Granger-Weasley">Hugo Granger-Weasley</a> (cousin)</li><li><a href="/wiki/Ginevra_Weasley" title="Ginevra Weasley">Ginny Potter</a> <span class="template-c">(née <a href="/wiki/Weasley_family" title="Weasley family">Weasley</a>)</span> (aunt)</li><li><a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> (uncle)</li><li><a href="/wiki/James_Potter_II" title="James Potter II">James Sirius Potter</a> (cousin)</li><li><a href="/wiki/Albus_Potter" title="Albus Potter">Albus Severus Potter</a> (cousin)</li><li><a href="/wiki/Lily_Potter" title="Lily Potter">Lily Luna Potter</a> (cousin)</li><li><a href="/wiki/House_of_Black" title="House of Black">House of Black</a></li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Weasley_family" title="Weasley family">Weasley family</a></li><li>Johnson family</li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+<b>Roxanne Weasley</b> (b. <a href="/wiki/2000s" title="2000s">2000s</a>) is the daughter of <a href="/wiki/George_Weasley" title="George Weasley">George Weasley</a> and <a href="/wiki/Angelina_Johnson" title="Angelina Johnson">Angelina Weasley</a> (née Johnson). She has an older brother, <a href="/wiki/Fred_Weasley_II" title="Fred Weasley II">Fred</a>, who was named after her <a href="/wiki/Fred_Weasley" title="Fred Weasley">late uncle</a>.<sup id="cite_ref-WFT_1-0" class="reference"><a href="#cite_note-WFT-1">&#91;1&#93;</a></sup> She may have shared her parents' love of <a href="/wiki/Quidditch" title="Quidditch">Quidditch</a>, playing as either a <a href="/wiki/Beater" title="Beater">Beater</a> or a <a href="/wiki/Chaser" title="Chaser">Chaser</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Roxanne_Weasley?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Roxanne_Weasley?action=edit&amp;section=1" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="http://en.wikipedia.org/wiki/Roxanne" class="extiw" title="wikipedia:Roxanne">Roxanne</a> is an English spelling of the French name <i>Roxane</i>, which in turn comes from the Greek name <i>Roxana</i>, derived from the Persian <i>Roshanak</i>, meaning "bright" or "dawn". Roxana was the name of <a href="http://en.wikipedia.org/wiki/Alexander_the_Great" class="extiw" title="wikipedia:Alexander the Great">Alexander the Great</a>'s first wife.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> Also, Roxanne is the name of a main character in Edmond Rostand's play <i><a href="http://en.wikipedia.org/wiki/Cyrano_de_Bergerac" class="extiw" title="wikipedia:Cyrano de Bergerac">Cyrano de Bergerac</a></i>, who is the love interest of the eponymous hero.
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Roxanne_Weasley?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Roxanne_Weasley?action=edit&amp;section=2" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/J.K._Rowling:_A_Year_in_the_Life" title="J.K. Rowling: A Year in the Life">J.K. Rowling: A Year in the Life</a></i> <small>(First mentioned)</small></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Roxanne_Weasley?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Roxanne_Weasley?action=edit&amp;section=3" title="Edit section: Notes and references

@@ -1,0 +1,65 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default"><section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Euphemia Rowle</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font">Human</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Rowle_family" title="Rowle family">Rowle family</a></li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Rowle_family" title="Rowle family">Rowle family</a></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Cursed Child"><b>Delphini</b>: "<i>Wizards used to believe that the Augurey's cry foretold death. When I was growing up, my guardian kept one in a cage.</i>"</span></dd>
+<dd><b>Scorpius Malfoy</b>: "<i>Your... guardian?</i>"</dd>
+<dd><b>Delphini</b>: "<i>She used to say it was crying because it could see I was going to come to a sticky end. She didn't like me much. Euphemia Rowle... she only took me in for the gold.</i>"</dd>
+<dd>&#8212; <a href="/wiki/Delphini" title="Delphini">Delphini</a> explains her Augurey-shaped mark<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Cursed_Child" title="Harry Potter and the Cursed Child">[src]</a></sup></dd></dl>
+</div>
+<p><b>Euphemia Rowle</b> was the <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> who raised her following the end of the <a href="/wiki/Second_Wizarding_War" title="Second Wizarding War">Second Wizarding War</a>. According to <a href="/wiki/Delphini" title="Delphini">Delphini</a>, she did not care much for her ward, only taking her in for the gold. Rowle kept an <a href="/wiki/Augurey" title="Augurey">augurey</a> in a cage, and said that the creature kept crying because it could see Delphini was going to come to a "sticky end."<sup id="cite_ref-Act3Scene16_1-0" class="reference"><a href="#cite_note-Act3Scene16-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Euphemia_Rowle?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Euphemia_Rowle?action=edit&amp;section=1" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Delphini mentions Euphemia Rowle only took her in for the gold. While it is unclear who would pay Rowle to raise her, it may have been <a href="/wiki/Rodolphus_Lestrange" title="Rodolphus Lestrange">Rodolphus Lestrange</a>, Delphini's stepfather, who is known to have contacted her at least on one occasion.<sup id="cite_ref-Act4Scene11_2-0" class="reference"><a href="#cite_note-Act4Scene11-2">&#91;2&#93;</a></sup></li>
+<li>Euphemia Rowle shares the same first name with <a href="/wiki/Euphemia_Potter" title="Euphemia Potter">Euphemia Potter</a>, Harry Potter's grandmother.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Euphemia_Rowle?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Euphemia_Rowle?action=edit&amp;section=2" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Cursed_Child" title="Harry Potter and the Cursed Child">Harry Potter and the Cursed Child</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Cursed_Child_(play)" title="Harry Potter and the Cursed Child (play)">Harry Potter and the Cursed Child (play)</a></i> <small>(Mentioned only)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Euphemia_Rowle?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Euphemia_Rowle?action=edit&amp;section=3" title="Edit section: Notes and references

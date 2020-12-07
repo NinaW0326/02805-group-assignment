@@ -1,0 +1,192 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-slytherin pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/8/86/Orion_Black.jpg/revision/latest?cb=20170322223908" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/8/86/Orion_Black.jpg/revision/latest/scale-to-width-down/321?cb=20170322223908" srcset="https://static.wikia.nocookie.net/harrypotter/images/8/86/Orion_Black.jpg/revision/latest/scale-to-width-down/321?cb=20170322223908 1x, https://static.wikia.nocookie.net/harrypotter/images/8/86/Orion_Black.jpg/revision/latest/scale-to-width-down/642?cb=20170322223908 2x" class="pi-image-thumbnail" alt="" width="270" height="417"
+		     data-image-key="Orion_Black.jpg" data-image-name="Orion Black.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Orion Black</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/1929" title="1929">1929</a><sup id="cite_ref-BFT_1-0" class="reference"><a href="#cite_note-BFT-1">&#91;1&#93;</a></sup><br/><a href="/wiki/Great_Britain" title="Great Britain">Great Britain</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/1979" title="1979">1979</a><sup id="cite_ref-BFT_1-1" class="reference"><a href="#cite_note-BFT-1">&#91;1&#93;</a></sup> (aged 49 - 50)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Pure-blood" title="Pure-blood">Pure-blood</a><sup id="cite_ref-BFT_1-2" class="reference"><a href="#cite_note-BFT-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="marital">
+	
+		<h3 class="pi-data-label pi-secondary-font">Marital status</h3>
+	
+	<div class="pi-data-value pi-font">Married</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Arcturus_Black_III" title="Arcturus Black III">Arcturus Black III</a><sup id="cite_ref-BFT_1-3" class="reference"><a href="#cite_note-BFT-1">&#91;1&#93;</a></sup> (father)</li><li><a href="/wiki/Melania_Macmillan" title="Melania Macmillan">Melania Black</a><sup id="cite_ref-BFT_1-4" class="reference"><a href="#cite_note-BFT-1">&#91;1&#93;</a></sup> <span class="template-c">(née <a href="/wiki/Macmillan_family" title="Macmillan family">Macmillan</a>)</span> (mother) †</li><li><a href="/wiki/Lucretia_Black" title="Lucretia Black">Lucretia Prewett</a><sup id="cite_ref-BFT_1-5" class="reference"><a href="#cite_note-BFT-1">&#91;1&#93;</a></sup> <span class="template-c">(née <a href="/wiki/House_of_Black" title="House of Black">Black</a>)</span> (sister) †</li><li><a href="/wiki/Walburga_Black" title="Walburga Black">Walburga Black</a><sup id="cite_ref-BFT_1-6" class="reference"><a href="#cite_note-BFT-1">&#91;1&#93;</a></sup> (wife/second cousin) †</li><li><a href="/wiki/Sirius_Black_III" class="mw-redirect" title="Sirius Black III">Sirius Black III</a><sup id="cite_ref-BFT_1-7" class="reference"><a href="#cite_note-BFT-1">&#91;1&#93;</a></sup> (son/second cousin once removed) †</li><li><a href="/wiki/Regulus_Black" title="Regulus Black">Regulus Black</a><sup id="cite_ref-BFT_1-8" class="reference"><a href="#cite_note-BFT-1">&#91;1&#93;</a></sup> (son/second cousin once removed) †</li><li><a href="/wiki/Sirius_Black_II" title="Sirius Black II">Sirius Black II</a><sup id="cite_ref-BFT_1-9" class="reference"><a href="#cite_note-BFT-1">&#91;1&#93;</a></sup> (grandfather) †</li><li><a href="/wiki/Hesper_Gamp" title="Hesper Gamp">Hesper Black</a><sup id="cite_ref-BFT_1-10" class="reference"><a href="#cite_note-BFT-1">&#91;1&#93;</a></sup> <span class="template-c">(née <a href="/wiki/Gamp" title="Gamp">Gamp</a>)</span> (grandmother) †</li><li><a href="/wiki/Pollux_Black" title="Pollux Black">Pollux Black</a><sup id="cite_ref-BFT_1-11" class="reference"><a href="#cite_note-BFT-1">&#91;1&#93;</a></sup> (father-in-law/first cousin once removed)</li><li><a href="/wiki/Irma_Crabbe" title="Irma Crabbe">Irma Black</a><sup id="cite_ref-BFT_1-12" class="reference"><a href="#cite_note-BFT-1">&#91;1&#93;</a></sup> <span class="template-c">(née <a href="/wiki/Crabbe" title="Crabbe">Crabbe</a>)</span> (mother-in-law) †</li><li><a href="/wiki/Ignatius_Prewett" title="Ignatius Prewett">Ignatius Prewett</a><sup id="cite_ref-BFT_1-13" class="reference"><a href="#cite_note-BFT-1">&#91;1&#93;</a></sup> (brother-in-law)</li><li><a href="/wiki/Alphard_Black" title="Alphard Black">Alphard Black</a><sup id="cite_ref-BFT_1-14" class="reference"><a href="#cite_note-BFT-1">&#91;1&#93;</a></sup> (brother-in-law/second cousin) †</li><li><a href="/wiki/Cygnus_Black_III" title="Cygnus Black III">Cygnus Black III</a><sup id="cite_ref-BFT_1-15" class="reference"><a href="#cite_note-BFT-1">&#91;1&#93;</a></sup> (brother-in-law/second cousin) †</li><li><a href="/wiki/Bellatrix_Lestrange" title="Bellatrix Lestrange">Bellatrix Lestrange</a><sup id="cite_ref-BFT_1-16" class="reference"><a href="#cite_note-BFT-1">&#91;1&#93;</a></sup> <span class="template-c">(née <a href="/wiki/House_of_Black" title="House of Black">Black</a>)</span> (niece) †</li><li><a href="/wiki/Andromeda_Tonks" title="Andromeda Tonks">Andromeda Tonks</a><sup id="cite_ref-BFT_1-17" class="reference"><a href="#cite_note-BFT-1">&#91;1&#93;</a></sup> <span class="template-c">(née <a href="/wiki/House_of_Black" title="House of Black">Black</a>)</span> (niece)</li><li><a href="/wiki/Narcissa_Malfoy" title="Narcissa Malfoy">Narcissa Malfoy</a><sup id="cite_ref-BFT_1-18" class="reference"><a href="#cite_note-BFT-1">&#91;1&#93;</a></sup> <span class="template-c">(née <a href="/wiki/House_of_Black" title="House of Black">Black</a>)</span> (niece)</li><li><a href="/wiki/Regulus_Black_I" title="Regulus Black I">Regulus Black I</a><sup id="cite_ref-BFT_1-19" class="reference"><a href="#cite_note-BFT-1">&#91;1&#93;</a></sup> (uncle)</li><li><a href="/wiki/Lycoris_Black" title="Lycoris Black">Lycoris Black</a><sup id="cite_ref-BFT_1-20" class="reference"><a href="#cite_note-BFT-1">&#91;1&#93;</a></sup> (aunt)</li><li><a href="/wiki/House_of_Black" title="House of Black">House of Black</a></li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="house">
+	
+		<h3 class="pi-data-label pi-secondary-font">House</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Slytherin" title="Slytherin">Slytherin</a><sup id="cite_ref-slytherin_2-0" class="reference"><a href="#cite_note-slytherin-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/House_of_Black" title="House of Black">House of Black</a><sup id="cite_ref-BFT_1-21" class="reference"><a href="#cite_note-BFT-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a><ul><li><a href="/wiki/Slytherin" title="Slytherin">Slytherin</a><sup id="cite_ref-slytherin_2-1" class="reference"><a href="#cite_note-slytherin-2">&#91;2&#93;</a></sup></li></ul></li><li><a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a> (indirectly)</li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Order of the Phoenix"><b>Harry Potter</b>: "<i>Were — were your parents <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a> as well?</i>"</span></dd>
+<dd><b>Sirius Black</b>: "<i>No, no, but believe me, they thought <a href="/wiki/Tom_Riddle" title="Tom Riddle">Voldemort</a> had the right idea, they were all for the purification of the wizarding race, getting rid of <a href="/wiki/Muggle-born" title="Muggle-born">Muggle-borns</a> and having <a href="/wiki/Pure-blood" title="Pure-blood">pure-bloods</a> in charge.</i>"</dd>
+<dd>&#8212; The Black family’s views<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">[src]</a></sup></dd></dl>
+</div>
+<p><b>Orion Black</b> (<a href="/wiki/1929" title="1929">1929</a> – <a href="/wiki/1979" title="1979">1979</a>) was a <a href="/wiki/Great_Britain" title="Great Britain">British</a> <a href="/wiki/Pure-blood" title="Pure-blood">pure-blood</a> <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a>. He was the only son of <a href="/wiki/Arcturus_Black_III" title="Arcturus Black III">Arcturus Black III</a> and <a href="/wiki/Melania_Macmillan" title="Melania Macmillan">Melania Macmillan</a>. He was the senior male-line descendant of the <a href="/wiki/House_of_Black" title="House of Black">House of Black</a>, a family which could trace its magical ancestors back to at least the <a href="/wiki/Middle_Ages" title="Middle Ages">Middle Ages</a> and which was recognised as one of the <a href="/wiki/Sacred_Twenty-Eight" title="Sacred Twenty-Eight">Sacred Twenty-Eight</a><i>. </i>
+</p><p>He married his second cousin, <a href="/wiki/Walburga_Black" title="Walburga Black">Walburga Black</a>, and the couple had two sons: <a href="/wiki/Sirius_Black" title="Sirius Black">Sirius</a> and <a href="/wiki/Regulus_Black" title="Regulus Black">Regulus Black</a>.<sup id="cite_ref-BFT_1-22" class="reference"><a href="#cite_note-BFT-1">&#91;1&#93;</a></sup> Both his sons were heroes of the <a href="/wiki/Wizarding_Wars" title="Wizarding Wars">Wizarding Wars</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_life"><span class="tocnumber">1.1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Family_life"><span class="tocnumber">1.2</span> <span class="toctext">Family life</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Death"><span class="tocnumber">1.3</span> <span class="toctext">Death</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Magical_abilities_and_skills"><span class="tocnumber">2</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Possessions"><span class="tocnumber">3</span> <span class="toctext">Possessions</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Relationships"><span class="tocnumber">4</span> <span class="toctext">Relationships</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Black_family"><span class="tocnumber">4.1</span> <span class="toctext">Black family</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Kreacher"><span class="tocnumber">4.2</span> <span class="toctext">Kreacher</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Etymology"><span class="tocnumber">5</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Behind_the_scenes"><span class="tocnumber">6</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Appearances"><span class="tocnumber">7</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Notes_and_references"><span class="tocnumber">8</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Orion_Black?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Orion_Black?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Orion_Black?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Early life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Orion_Black?action=edit&amp;section=2" title="Edit section: Early life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Order of the Phoenix">"<i>My father put every security measure known to <a href="/wiki/Wizardkind" title="Wizardkind">wizardkind</a> on it when he lived here.</i>"</span></dd>
+<dd>&#8212;<a href="/wiki/Sirius_Black" title="Sirius Black">Sirius</a> about the protection his father put on <a href="/wiki/Grimmauld_Place" title="Grimmauld Place">Grimmauld Place</a><sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">[src]</a></sup></dd>
+<dd></dd></dl></div><p>Orion was born to <a href="/wiki/Arcturus_Black_III" title="Arcturus Black III">Arcturus Black III</a> and his wife, <a href="/wiki/Melania_Macmillan" title="Melania Macmillan">Melania Macmillan</a>, in <a href="/wiki/1929" title="1929">1929</a>. He attended <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> and was sorted into <a href="/wiki/Slytherin" title="Slytherin">Slytherin</a> house<sup id="cite_ref-slytherin_2-2" class="reference"><a href="#cite_note-slytherin-2">&#91;2&#93;</a></sup>, like most members of the <a href="/wiki/House_of_Black" title="House of Black">House of Black</a>.
+</p><p>At some point, he married his second cousin <a href="/wiki/Walburga_Black" title="Walburga Black">Walburga Black</a>. The two lived in their family home at <a href="/wiki/12_Grimmauld_Place" title="12 Grimmauld Place">12 Grimmauld Place</a> in <a href="/wiki/London" title="London">London</a>, <a href="/wiki/England" title="England">England</a>. Orion erected a vast array of magical security measures on the house while he lived there.<sup id="cite_ref-Security_3-0" class="reference"><a href="#cite_note-Security-3">&#91;3&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Family_life">Family life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Orion_Black?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Family life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Orion_Black?action=edit&amp;section=3" title="Edit section: Family life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Order of the Phoenix">"<i>It was my father's. Kreacher wasn't quite as devoted to him as to my mother, but I still caught him snogging a pair of my father's old trousers last week.</i>"</span></dd>
+<dd>&#8212;Sirius regarding Orion's ring<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">[src]</a></sup></dd>
+<dd></dd></dl></div><figure class="thumb tleft show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/5/5c/The_Blacks_-_Pottermore.png/revision/latest?cb=20181024041658" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/5/5c/The_Blacks_-_Pottermore.png/revision/latest/scale-to-width-down/180?cb=20181024041658" decoding="async" width="180" height="205" class="thumbimage" data-image-name="The Blacks - Pottermore.png" data-image-key="The_Blacks_-_Pottermore.png" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:The_Blacks_-_Pottermore.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">The Blacks in the early <a href="/wiki/1970s" title="1970s">1970s</a>. From left to right: Orion, <a href="/wiki/Regulus_Black" title="Regulus Black">Regulus</a>, <a href="/wiki/Walburga_Black" title="Walburga Black">Walburga</a>, and <a href="/wiki/Sirius_Black" title="Sirius Black">Sirius</a></p> 		 	</figcaption> </figure>
+<p>Orion and his wife, like many members of the Black family, believed strongly in <a href="/wiki/Blood_status" title="Blood status">blood purity</a>. Their older son <a href="/wiki/Sirius_Black" title="Sirius Black">Sirius</a> disagreed with their bigotry, and when he was about sixteen, he ran away from home rather than remain with the family. Sirius moved in with the <a href="/wiki/Potter_family" title="Potter family">Potter family</a>, and in retaliation, Walburga burned his name off the family tapestry.
+</p><p>Orion and Walburga favoured their younger son, <a href="/wiki/Regulus_Black" title="Regulus Black">Regulus</a>, who echoed their belief system, and they approved when he joined the <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a>. They were not members of the organisation themselves, but they agreed with <a href="/wiki/Tom_Riddle" title="Tom Riddle">Lord Voldemort</a>'s values and goals. However, according to Sirius, they became dismayed when they realised how far Voldemort was willing to go to achieve his aims.<sup id="cite_ref-Ootp_4-0" class="reference"><a href="#cite_note-Ootp-4">&#91;4&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Death">Death</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Orion_Black?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Death">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Orion_Black?action=edit&amp;section=4" title="Edit section: Death"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Orion died in the same year as his son Regulus.<sup id="cite_ref-BFT_1-23" class="reference"><a href="#cite_note-BFT-1">&#91;1&#93;</a></sup> It is not known whether he died before or after Regulus did. Kreacher did not mention him in his recounting of Regulus's death, but considering the great influence that Walburga had over her house-elf and younger son, that could mean nothing.
+</p><p>Orion died two years before Sirius was falsely accused of mass murder and thrown in Azkaban.
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Orion_Black?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Orion_Black?action=edit&amp;section=5" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Protective_enchantment" title="Protective enchantment">Defensive charms</a>/Security</b>: Orion Black must have had an extensive knowledge of defensive magic. While he resided at <a href="/wiki/12_Grimmauld_Place" title="12 Grimmauld Place">12 Grimmauld Place</a>, he cast on it every single security measure known to wizardkind, including a <a href="/wiki/Repello_Muggletum" class="mw-redirect" title="Repello Muggletum">Muggle-Repelling charm</a>. These charms were still effective long after Orion's death.</li></ul>
+<h2><span class="mw-headline" id="Possessions">Possessions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Orion_Black?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Possessions">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Orion_Black?action=edit&amp;section=6" title="Edit section: Possessions"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Order of the Phoenix">"<i>When <a href="/wiki/Sirius_Black" title="Sirius Black">Sirius</a> wrested a large golden ring bearing the Black crest from his grip, Kreacher actually burst into furious tears and left the room sobbing under his breath and calling Sirius names <a href="/wiki/Harry_Potter" title="Harry Potter">Harry</a> had never heard before.</i>"</span></dd>
+<dd>&#8212;Orion's <a href="/wiki/Sirius_Black" title="Sirius Black">eldest son</a> throwing out his ring<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<ul><li><b>Ring</b>: Orion owned <a href="/wiki/Orion_Black%27s_ring" title="Orion Black&#39;s ring">a big, golden ring</a> with the <a href="/wiki/House_of_Black" title="House of Black">House of Black</a> family crest. During the efforts to clean <a href="/wiki/12_Grimmauld_Place" title="12 Grimmauld Place">12 Grimmauld Place</a>, Kreacher tried to smuggle the ring to <a href="/wiki/Kreacher%27s_den" title="Kreacher&#39;s den">his den</a>, but Sirius caught him and wrestled it from his hands. Kreacher then cried furiously and cursed at Sirius under his breath. Sirius threw the ring out regardless.</li></ul>
+<ul><li><b>Trousers</b>: Sirius once caught Kreacher snogging a pair of Orion Black's <a href="/wiki/Orion_Black%27s_old_trousers" title="Orion Black&#39;s old trousers">old trousers</a>.</li></ul>
+<h2><span class="mw-headline" id="Relationships">Relationships</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Orion_Black?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Relationships">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Orion_Black?action=edit&amp;section=7" title="Edit section: Relationships"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Black_family">Black family</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Orion_Black?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Black family">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Orion_Black?action=edit&amp;section=8" title="Edit section: Black family"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>It is unknown what kind of relationship Orion had with his wife Walburga, but it is was probably at least civil since the couple shared similar opinions on blood purity and the rise of Voldemort. Walburga was the main parental figure in Sirius and Regulus's life, but Orion did not protest her decision to disown their son Sirius after he ran away or her brother Alphard when he left Sirius gold in his will.
+</p><p>He had a bad relationship with his elder son Sirius, who disagreed with Orion's bigotry. When Sirius ran away at the age of sixteen, Orion and his wife disowned him and seemingly had no further contact with him. His relationship with his younger son Regulus was better due to their shared beliefs in <a href="/wiki/Wizarding_supremacy" title="Wizarding supremacy">wizarding supremacy</a>, and Sirius believes he was proud when Regulus joined the Death Eaters.
+</p>
+<h3><span class="mw-headline" id="Kreacher">Kreacher</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Orion_Black?veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Edit section: Kreacher">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Orion_Black?action=edit&amp;section=9" title="Edit section: Kreacher"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Kreacher wasn't as devoted to Orion as he was to Walburga, but he remained loyal enough to him after his death to try and save <a href="/wiki/Orion_Black%27s_ring" title="Orion Black&#39;s ring">his ring</a> and to kiss <a href="/wiki/Orion_Black%27s_old_trousers" title="Orion Black&#39;s old trousers">his trousers</a>.
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Orion_Black?veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Orion_Black?action=edit&amp;section=10" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Orion, like many members of the <a href="/wiki/House_of_Black" title="House of Black">House of Black</a>, is named after a <a href="http://en.wikipedia.org/wiki/Orion_(constellation)" class="extiw" title="wikipedia:Orion (constellation)">constellation</a>. Orion is a very prominent constellation, known as the Hunter. Contemporary astronomical imagery has Orion next to the "river" Eridanus and two hunting dogs, one of which contains the star Sirius, the name of Orion Black's older son. In Greek mythology, Orion was a giant huntsman who angered the gods, and was subsequently killed by the great scorpion after which the constellation <a href="http://en.wikipedia.org/wiki/Scorpius_(constellation)" class="extiw" title="wikipedia:Scorpius (constellation)">Scorpius</a> is named.
+</p><p>In other versions of the tale, Orion is actually killed by Artemis, Goddess of the Hunt, when she is tricked by her brother, Apollo, who is jealous of her love. Apollo bet Artemis that she couldn't hit a small mark down in a river, which was actually Orion's head, visible above the <a href="/wiki/Water" title="Water">water</a> as he was swimming. Artemis, not realising what her brother was making her do, shot Orion in the head. She then became distraught upon finding out about her mistake.
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Orion_Black?veaction=edit&amp;section=11" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Orion_Black?action=edit&amp;section=11" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>According to <a href="/wiki/Horace_Slughorn" title="Horace Slughorn">Horace Slughorn</a>, who taught at Hogwarts while Orion was a student, every member of the House of Black except Sirius was Sorted in <a href="/wiki/Slytherin" title="Slytherin">Slytherin</a>. This would include Orion.</li>
+<li>On the family tree in the film Orion has got a large blue turban, but on the 2nd DVD of <i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(film)" title="Harry Potter and the Order of the Phoenix (film)">Harry Potter and the Order of the Phoenix</a></i> his turban is red.</li>
+<li>Orion might have known his fellow Slytherin <a href="/wiki/Tom_Riddle" title="Tom Riddle">Tom Riddle</a> during their Hogwarts years. Orion attended the school from either 1940-1947 or 1941-1948 while Riddle attended from 1938-1945.</li>
+<li>Orion and his son <a href="/wiki/Regulus_Black" title="Regulus Black">Regulus</a> died in the same year: <a href="/wiki/1979" title="1979">1979</a>. It is possible that Orion and Regulus's deaths, Regulus's defection from the Death Eaters, Orion and Walburga's disillusionment with Voldemort's methods, and Orion's preoccupation with the defences of <a href="/wiki/12_Grimmauld_Place" title="12 Grimmauld Place">12 Grimmauld Place</a> coincide.</li>
+<li>It is unknown why Orion put so much effort into magically protecting Grimmauld Place; he might have feared what Voldemort would do to the family once they began distancing himself from his methods, he might have feared the incursion of muggles and muggle-borns, or he might have simply been paranoid.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Orion_Black?veaction=edit&amp;section=12" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Orion_Black?action=edit&amp;section=12" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 5 images related to <i><b><a href="/wiki/Category:Images_of_Orion_Black" title="Category:Images of Orion Black">Orion Black</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">Harry Potter and the Order of the Phoenix</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(film)" title="Harry Potter and the Order of the Phoenix (film)">Harry Potter and the Order of the Phoenix (film)</a></i> <span class="template-c">(Appears on <a href="/wiki/Black_Family_Tapestry" title="Black Family Tapestry">Black Family Tapestry</a>)</span></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter:_Years_5-7" title="LEGO Harry Potter: Years 5-7">LEGO Harry Potter: Years 5-7</a></i> <small>(Appears in portrait(s))</small></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> <small>(Mentioned only)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Orion_Black?veaction=edit&amp;section=13" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Orion_Black?action=edit&amp;section=13" title="Edit section: Notes and references

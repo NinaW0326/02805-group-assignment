@@ -1,0 +1,106 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/1/14/Newunidentified.jpg/revision/latest?cb=20100606184805" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/1/14/Newunidentified.jpg/revision/latest/scale-to-width-down/350?cb=20100606184805" srcset="https://static.wikia.nocookie.net/harrypotter/images/1/14/Newunidentified.jpg/revision/latest/scale-to-width-down/350?cb=20100606184805 1x, https://static.wikia.nocookie.net/harrypotter/images/1/14/Newunidentified.jpg/revision/latest/scale-to-width-down/700?cb=20100606184805 2x" class="pi-image-thumbnail" alt="" width="270" height="360"
+		     data-image-key="Newunidentified.jpg" data-image-name="Newunidentified.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Wandkeeper</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">c. <a href="/wiki/1920s" title="1920s">1920s</a>-<a href="/wiki/1940s" title="1940s">1940s</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Pure-blood" title="Pure-blood">Pure-blood</a> or <a href="/wiki/Half-blood" title="Half-blood">Half-blood</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="title">
+	
+		<h3 class="pi-data-label pi-secondary-font">Title(s)</h3>
+	
+	<div class="pi-data-value pi-font">Wandkeeper</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-WWHP_3-0" class="reference"><a href="#cite_note-WWHP-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male<sup id="cite_ref-WWHP_3-1" class="reference"><a href="#cite_note-WWHP-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Brown<sup id="cite_ref-WWHP_3-2" class="reference"><a href="#cite_note-WWHP-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White<sup id="cite_ref-WWHP_3-3" class="reference"><a href="#cite_note-WWHP-3">&#91;3&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Ollivanders" title="Ollivanders">Ollivanders Wand Shop</a> branch proprietor<sup id="cite_ref-WWHP_3-4" class="reference"><a href="#cite_note-WWHP-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Ollivanders" title="Ollivanders">Ollivanders Wand Shop</a><sup id="cite_ref-WWHP_3-5" class="reference"><a href="#cite_note-WWHP-3">&#91;3&#93;</a></sup></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Wandkeepers</b> are individuals employed by <a href="/wiki/Garrick_Ollivander" title="Garrick Ollivander">Garrick Ollivander</a><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> to run the various branches of <a href="/wiki/Ollivanders" title="Ollivanders">Ollivanders</a> located throughout wizarding <a href="/wiki/Great_Britain" title="Great Britain">Britain</a>, especially <a href="/wiki/Hogsmeade" title="Hogsmeade">Hogsmeade</a>, and to a further extent, the main store in <a href="/wiki/Diagon_Alley" title="Diagon Alley">Diagon Alley</a>, while the <a href="/wiki/Wandmaker" title="Wandmaker">wandmaker</a> is away.<sup id="cite_ref-WWHP_3-6" class="reference"><a href="#cite_note-WWHP-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Wandkeeper?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Wandkeeper?action=edit&amp;section=1" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In order to be eligible for the job title of Wandkeeper, the person in question must have an expertise in the following:
+</p>
+<ul><li><b><a href="/wiki/Charm" title="Charm">Charms</a></b>: Must be able to cast many charms such as the <a href="/wiki/Mending_Charm" title="Mending Charm">Mending Charm</a>,<sup id="cite_ref-cody_5-0" class="reference"><a href="#cite_note-cody-5">&#91;5&#93;</a></sup> <a href="/wiki/Meteolojinx_Recanto" title="Meteolojinx Recanto">weather-related charms</a>,<sup id="cite_ref-cody_5-1" class="reference"><a href="#cite_note-cody-5">&#91;5&#93;</a></sup> the <a href="/wiki/Freezing_Charm" title="Freezing Charm">Freezing Charm</a><sup id="cite_ref-immobulus_6-0" class="reference"><a href="#cite_note-immobulus-6">&#91;6&#93;</a></sup> and the <a href="/wiki/Herbivicus_Charm" title="Herbivicus Charm">Herbivicus Charm</a>;<sup id="cite_ref-hayley_7-0" class="reference"><a href="#cite_note-hayley-7">&#91;7&#93;</a></sup> as well as the <a href="/wiki/Levitation_Charm" title="Levitation Charm">Levitation Charm</a>,<sup id="cite_ref-cody_5-2" class="reference"><a href="#cite_note-cody-5">&#91;5&#93;</a></sup> the <a href="/wiki/Water-Making_Spell" title="Water-Making Spell">Water-Making Spell</a>,<sup id="cite_ref-hayley_7-1" class="reference"><a href="#cite_note-hayley-7">&#91;7&#93;</a></sup> the <a href="/wiki/Wand-Lighting_Charm" title="Wand-Lighting Charm">Wand-Lighting Charm</a>,<sup id="cite_ref-cody_5-3" class="reference"><a href="#cite_note-cody-5">&#91;5&#93;</a></sup> the <i><a href="/wiki/Descendo" title="Descendo">Descendo</a></i> charm<sup id="cite_ref-hayley_7-2" class="reference"><a href="#cite_note-hayley-7">&#91;7&#93;</a></sup> and the <a href="/wiki/Summoning_Charm" title="Summoning Charm">Summoning Charm</a>.<sup id="cite_ref-Katie_8-0" class="reference"><a href="#cite_note-Katie-8">&#91;8&#93;</a></sup></li>
+<li><b><a href="/wiki/Divination" title="Divination">Divination</a></b>: Must be able to foresee costumers arriving in the shop.<sup id="cite_ref-cody_5-4" class="reference"><a href="#cite_note-cody-5">&#91;5&#93;</a></sup></li>
+<li><b><a href="/wiki/Nonverbal_spell" title="Nonverbal spell">Nonverbal magic</a></b>: Must be able to produce nonverbal spells smoothly, such as the <a href="/wiki/Herbivicus_Charm" title="Herbivicus Charm">Herbivicus Charm</a><sup id="cite_ref-hayley_7-3" class="reference"><a href="#cite_note-hayley-7">&#91;7&#93;</a></sup> and the <a href="/wiki/Freezing_Charm" title="Freezing Charm">Freezing Charm</a>.<sup id="cite_ref-Katie_8-1" class="reference"><a href="#cite_note-Katie-8">&#91;8&#93;</a></sup></li>
+<li><b><a href="/wiki/Wandlore" title="Wandlore">Wandlore</a></b>: Must be knowledgeable in the complex science and <a href="/wiki/Magic" title="Magic">magic</a> of wandlore.<sup id="cite_ref-wandlore_9-0" class="reference"><a href="#cite_note-wandlore-9">&#91;9&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Wandkeeper?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Wandkeeper?action=edit&amp;section=2" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/The_Wizarding_World_of_Harry_Potter" title="The Wizarding World of Harry Potter">The Wizarding World of Harry Potter</a> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Wandkeeper?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Wandkeeper?action=edit&amp;section=3" title="Edit section: Notes and references

@@ -1,0 +1,148 @@
+<div class="mw-parser-output"><table class="notice metadata" id="spoiler" style="text-align: center; background: beige; margin: 1em 05%; padding: 0 1em; border: #a00 1px solid;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/e/ea/Wizards_Unite_logo.jpg/revision/latest?cb=20181114170049" class="image"><img alt="Wizards Unite logo.jpg" src="https://static.wikia.nocookie.net/harrypotter/images/e/ea/Wizards_Unite_logo.jpg/revision/latest/scale-to-width-down/175?cb=20181114170049" decoding="async" width="175" height="98" data-image-name="Wizards Unite logo.jpg" data-image-key="Wizards_Unite_logo.jpg" /></a>
+</td>
+<td><b>Warning!</b>
+<p>At least some content in this article is derived from information featured in <i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i>. As such, spoilers will be present within the article.
+</p><p>For gameplay-specific information, please see the relevant article on <a href="https://harrypotterwizardsunite.fandom.com/wiki/Skender" class="extiw" title="w:c:harrypotterwizardsunite:Skender">the Harry Potter: Wizards Unite Wiki!</a>
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/1/17/Skender.png/revision/latest?cb=20181026163454" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/1/17/Skender.png/revision/latest/scale-to-width-down/344?cb=20181026163454" srcset="https://static.wikia.nocookie.net/harrypotter/images/1/17/Skender.png/revision/latest/scale-to-width-down/344?cb=20181026163454 1x, https://static.wikia.nocookie.net/harrypotter/images/1/17/Skender.png/revision/latest/scale-to-width-down/688?cb=20181026163454 2x" class="pi-image-thumbnail" alt="" width="270" height="392"
+		     data-image-key="Skender.png" data-image-name="Skender.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Skender</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">Before <a href="/wiki/1927" title="1927">1927</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Magical characteristics</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="wand">
+	
+		<h3 class="pi-data-label pi-secondary-font">Wand</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Skender%27s_wand" title="Skender&#039;s wand">Unknown wood, core material and length</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Owner of <a href="/wiki/Circus_Arcanus" title="Circus Arcanus">Circus Arcanus</a><sup id="cite_ref-COGS_1-0" class="reference"><a href="#cite_note-COGS-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Circus_Arcanus" title="Circus Arcanus">Circus Arcanus</a></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Skender</b> (fl. <a href="/wiki/1927" title="1927">1927</a>) was a <a href="/wiki/Europe" title="Europe">European</a> <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> and the owner and ringmaster of the <a href="/wiki/Circus_Arcanus" title="Circus Arcanus">Circus Arcanus</a>.<sup id="cite_ref-pmn_2-0" class="reference"><a href="#cite_note-pmn-2">&#91;2&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Physical_Description"><span class="tocnumber">2</span> <span class="toctext">Physical Description</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Personality_and_Traits"><span class="tocnumber">3</span> <span class="toctext">Personality and Traits</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Magical_abilities_and_skills"><span class="tocnumber">4</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Possessions"><span class="tocnumber">5</span> <span class="toctext">Possessions</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Etymology"><span class="tocnumber">6</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Behind_the_scenes"><span class="tocnumber">7</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Appearances"><span class="tocnumber">8</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Notes_and_references"><span class="tocnumber">9</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Skender?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Skender?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Skender was the cruel and exploitative owner of the <a href="/wiki/Circus_Arcanus" title="Circus Arcanus">Circus Arcanus</a>, a travelling <a href="/wiki/Magic" title="Magic">magical</a>&#160;<a href="/wiki/Circus" title="Circus">circus</a>&#160;and freak show, which toured the <a href="/wiki/Wizarding_world" title="Wizarding world">wizarding world</a>, with its wondrous and weird display of magical oddities and attractions.<sup id="cite_ref-COGS_1-1" class="reference"><a href="#cite_note-COGS-1">&#91;1&#93;</a></sup>
+</p>
+<figure class="thumb tleft show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/0/01/Nagini_attacks_Skender.gif/revision/latest?cb=20190325190545" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/0/01/Nagini_attacks_Skender.gif/revision/latest/scale-to-width-down/180?cb=20190325190545" decoding="async" width="180" height="75" class="thumbimage" data-image-name="Nagini attacks Skender.gif" data-image-key="Nagini_attacks_Skender.gif" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Nagini_attacks_Skender.gif" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Skender being attacked by Nagini</p> 		 	</figcaption> </figure>
+<figure class="thumb tright show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/4/49/Circus_Arcanus_House-elf.gif/revision/latest?cb=20200713123623" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/4/49/Circus_Arcanus_House-elf.gif/revision/latest/scale-to-width-down/180?cb=20200713123623" decoding="async" width="180" height="75" class="thumbimage" data-image-name="Circus Arcanus House-elf.gif" data-image-key="Circus_Arcanus_House-elf.gif" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Circus_Arcanus_House-elf.gif" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Skender leaving Paris by carriage with his House-elf</p> 		 	</figcaption> </figure>
+<p>In <a href="/wiki/1927" title="1927">1927</a>, Skender and the Circus Arcanus were set up in the wizarding street of <a href="/wiki/Place_Cach%C3%A9e" title="Place Cachée">Place Cachée</a> of <a href="/wiki/Paris" title="Paris">Paris</a>. After announcing the <a href="/wiki/Snake" title="Snake">snake</a> <a href="/wiki/Trans-species_Transformation" class="mw-redirect" title="Trans-species Transformation">transformation</a> of <a href="/wiki/Nagini" title="Nagini">Nagini</a>, the circus' <a href="/wiki/Maledictus" title="Maledictus">Maledictus</a>, and forcing her to perform in front of the live audience, Skender was attacked by the snake, giving <a href="/wiki/Credence_Barebone" title="Credence Barebone">Credence Barebone</a> time to cause a distraction so he and Nagini could leave the circus and find the former's birth mother. This distraction caused the <a href="/wiki/Zouwu" title="Zouwu">Zouwu</a> to escape and the entire circus was engulfed in <a href="/wiki/Fire" title="Fire">fire</a>&#160;following Credence's release of several caged <a href="/wiki/Firedrake" title="Firedrake">Firedrakes</a>, creating mass panic and horror in the crowd. After <a href="/wiki/Auror" title="Auror">Auror</a> <a href="/wiki/Porpentina_Goldstein" title="Porpentina Goldstein">Tina Goldstein</a> took care of the situation and questioned him about what had just happened, Skender promptly and unhappily fled Paris with his magical circus and <a href="/wiki/House-elf" title="House-elf">House-elf</a>, after magically packing away and shrinking his entire circus into his suitcase.<sup id="cite_ref-COGS_1-2" class="reference"><a href="#cite_note-COGS-1">&#91;1&#93;</a></sup>
+</p><p>During the <a href="/wiki/2020s" title="2020s">2020s</a>, Skender appeared as a <a href="/wiki/Foundable" title="Foundable">Foundable</a> during the <a href="/wiki/Calamity" title="Calamity">Calamity</a>. Volunteer members of the <a href="/wiki/Statute_of_Secrecy_Task_Force" title="Statute of Secrecy Task Force">Statute of Secrecy Task Force</a> were able to free him, allowing Skender to return to his original time.<sup id="cite_ref-WU_3-0" class="reference"><a href="#cite_note-WU-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Physical_Description">Physical Description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Skender?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Physical Description">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Skender?action=edit&amp;section=2" title="Edit section: Physical Description"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Skender was a large, overweight man with brown hair and a thick beard. Being the Owner of the Circus Arcanus, he wore the traditional clothing of a showman, wearing a red velvet blazer with gold buckles, underneath a black tailcoat and trousers with a black and brown geometric diamond design pattern.<sup id="cite_ref-COG_4-0" class="reference"><a href="#cite_note-COG-4">&#91;4&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Personality_and_Traits">Personality and Traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Skender?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Personality and Traits">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Skender?action=edit&amp;section=3" title="Edit section: Personality and Traits"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>As owner of the Circus Arcanus, Skender was highly exploitative of his magical oddities and creatures and mistreated them often with cruelty, keeping many imprisoned with chains or in cages. He thought of his Circus oddities as only valuable in terms of their profitability to an audience. He was very greedy and unethical in his pursuit for profit as a businessman. He had no qualms about exploiting his oddities on display, such as when he forced Nagini to transform against her will which caused her obvious discomfort, showing he was disrespectful and callous towards&#160;the welfare of his oddities, viewing them as no more than circus freaks, simply to be observed by others. &#160;&#160;
+</p><p>However, following the burning down of his Circus and the escape of most of his creatures, he was very disappointed at his failure, and gloomily accepted he had to move on, showing he was logical and self-aware to an extent, at least regarding his business actions. He also addressed Porpentina Goldstein respectfully after she asked him about the chaos at the Circus and the whereabouts of Credence, showing he was not incapable of treating others as equals.&#160;
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Skender?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Skender?action=edit&amp;section=4" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Charm" title="Charm">Charms</a></b>: Skender appeared to be highly proficient in charm-work, as he was able to magically shrink the entirety of the equipment used in his Circus Arcanus into a small chest.<sup id="cite_ref-COGS_1-3" class="reference"><a href="#cite_note-COGS-1">&#91;1&#93;</a></sup></li>
+<li><b><a href="/wiki/Transfiguration" title="Transfiguration">Transfiguration</a></b>: Skender was shown to have been skilled in this notably difficult branch of magic, as he was able to transfigure his wand into a walking stick and back.<sup id="cite_ref-COGS_1-4" class="reference"><a href="#cite_note-COGS-1">&#91;1&#93;</a></sup></li>
+<li><b><a href="/wiki/Nonverbal_spell" title="Nonverbal spell">Nonverbal magic</a></b>: Skender was capable of casting nonverbal spells effortlessly, a sign of superior <a href="/wiki/Magic" title="Magic">magical</a> ability given the high level of difficulty required in the casting of <a href="/wiki/Spell" title="Spell">spells</a> non-verbally.</li>
+<li><b><a href="/wiki/Magizoology" title="Magizoology">Magizoology</a></b>: Skender was able to procure and handle numerous <a href="/wiki/Magic" title="Magic">magical</a>&#160;<a href="/wiki/Beast" title="Beast">beasts</a> as part of his Circus Arcanus, such as <a href="/wiki/Firedrake" title="Firedrake">Firedrakes</a>, a <a href="/wiki/Kappa" title="Kappa">Kappa</a>, an <a href="/wiki/Oni" title="Oni">Oni</a>, a <a href="/wiki/Zouwu" title="Zouwu">Zouwu</a>, an&#160;<a href="/wiki/Abarimon" title="Abarimon">Abarimon</a>&#160;and even a <a href="/wiki/Hippogriff" title="Hippogriff">Hippogriff</a>, meaning he would have had reasonable knowledge and understanding of them. However, he treated many of his&#160;creatures abusively and poorly, meaning his skills in adequately caring for magical creatures were very limited indeed.</li></ul>
+<h2><span class="mw-headline" id="Possessions">Possessions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Skender?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Possessions">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Skender?action=edit&amp;section=5" title="Edit section: Possessions"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tright show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/d/d6/Cda1a93b6a5d4550b8c5036e760d5330_Original.jpg/revision/latest?cb=20181125171844" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="180" height="180" class="thumbimage lazyload" data-image-name="Cda1a93b6a5d4550b8c5036e760d5330 Original.jpg" data-image-key="Cda1a93b6a5d4550b8c5036e760d5330_Original.jpg" data-src="https://static.wikia.nocookie.net/harrypotter/images/d/d6/Cda1a93b6a5d4550b8c5036e760d5330_Original.jpg/revision/latest/scale-to-width-down/180?cb=20181125171844" /></a> 	<noscript><a href="https://static.wikia.nocookie.net/harrypotter/images/d/d6/Cda1a93b6a5d4550b8c5036e760d5330_Original.jpg/revision/latest?cb=20181125171844" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/d/d6/Cda1a93b6a5d4550b8c5036e760d5330_Original.jpg/revision/latest/scale-to-width-down/180?cb=20181125171844" decoding="async" width="180" height="180" class="thumbimage" data-image-name="Cda1a93b6a5d4550b8c5036e760d5330 Original.jpg" data-image-key="Cda1a93b6a5d4550b8c5036e760d5330_Original.jpg" data-src="https://static.wikia.nocookie.net/harrypotter/images/d/d6/Cda1a93b6a5d4550b8c5036e760d5330_Original.jpg/revision/latest/scale-to-width-down/180?cb=20181125171844" /></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Cda1a93b6a5d4550b8c5036e760d5330_Original.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Skender's wand</p> 		 	</figcaption> </figure>
+<ul><li><b><a href="/wiki/Skender%27s_wand" title="Skender&#39;s wand">Wand</a></b>: Skender owned a <a href="/wiki/Wand" title="Wand">wand</a> that was of an unknown length, <a href="/wiki/Wand_wood" title="Wand wood">wand wood</a>&#160;and <a href="/wiki/Wand_core" title="Wand core">core</a>. He was capable of transforming his wand into a walking stick and back, and was also highly talented with the casting of spells non-verbally.</li>
+<li><b><a href="/wiki/Circus_Arcanus" title="Circus Arcanus">Circus Arcanus</a></b>: Skender was the owner and ringmaster of the Circus Arcanus, a magical travelling <a href="/wiki/Circus" title="Circus">circus</a> and freak show, which boasted multiple strange and wondrous attractions and performers.&#160;</li>
+<li><b><a href="/wiki/Circus_Arcanus_House-elf" class="mw-redirect" title="Circus Arcanus House-elf">House-elf</a></b>: Skender owned a male house-elf, which helped him in the running of the Circus Arcanus and with the packing up of circus equipment.</li></ul>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Skender?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Skender?action=edit&amp;section=6" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>The name Skender is a masculine first name commonly found in various Southeastern European countries whose historic origins are unclear, but has several theories:
+<ul><li>The origin of the name Skender in the Balkan region is from the closely related Turkish name Iskender, Persian Iskandar and Arabic Al-Iskandar, which are all in turn derived from Alexander (meaning "defender of men").</li>
+<li>Johann Pokorny gives two possible original meanings of the name, using the roots "skend" and "skand":
+<ul><li>Pokorny lists the root "skend" as the separating of skin, scale or rind. "Sken-tr" is the act of cutting and "sken-to" is the part that has been cut off.</li>
+<li>In modern German, one finds the expansion of this root as schinnen, which comes from the same Celtic origin and means to skin one's enemy, plunder and mishandle him. Thus, Pokorny notes the word "skan-do", meaning "land laying in waste" (that is, plundered or "skinned") is the Celto-Germanic root.</li>
+<li>Pokorny also notes the second root "skend-" as meaning "illuminated, glowing or bright," This root has more of a visual or "seeing" connotation.</li></ul></li></ul></li>
+<li>Skender is also found in the old German and <a href="/wiki/Saxon" title="Saxon">Saxon</a> word <i>Skander</i>, which means <a href="/wiki/Scandinavia" title="Scandinavia">Scandinavian</a> or Viking raider. It may be the origin of the <a href="/wiki/Gaelic" title="Gaelic">Gaelic</a> word <i>Skene</i> and <i>Skene-to</i>, which is the traditional knife the Scots carry in their stockings, as well as the source of the Latvian name, Skenders, which is believed to have come to that land via the Teutonic Knights who would have had this ancient German word meaning "violent or scandalous behavior".</li></ul>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Skender?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Skender?action=edit&amp;section=7" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Skender was played by <a href="/wiki/%C3%93lafur_Darri_%C3%93lafsson" title="Ólafur Darri Ólafsson">Ólafur Darri Ólafsson</a> in <i><a href="/wiki/Fantastic_Beasts:_The_Crimes_of_Grindelwald" title="Fantastic Beasts: The Crimes of Grindelwald">Fantastic Beasts: The Crimes of Grindelwald</a></i>.<sup id="cite_ref-pmn_2-1" class="reference"><a href="#cite_note-pmn-2">&#91;2&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Skender?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Skender?action=edit&amp;section=8" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" class="lazyload" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 6 images related to <i><b><a href="/wiki/Category:Images_of_Skender" title="Category:Images of Skender">Skender</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<figure class="thumb tright show-info-icon" style="width: 111px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/8/85/Skender_the_Ringmaster_WU.png/revision/latest?cb=20200712121001" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="109" height="250" class="thumbimage lazyload" data-image-name="Skender the Ringmaster WU.png" data-image-key="Skender_the_Ringmaster_WU.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/8/85/Skender_the_Ringmaster_WU.png/revision/latest/scale-to-width-down/109?cb=20200712121001" /></a> 	<noscript><a href="https://static.wikia.nocookie.net/harrypotter/images/8/85/Skender_the_Ringmaster_WU.png/revision/latest?cb=20200712121001" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/8/85/Skender_the_Ringmaster_WU.png/revision/latest/scale-to-width-down/109?cb=20200712121001" decoding="async" width="109" height="250" class="thumbimage" data-image-name="Skender the Ringmaster WU.png" data-image-key="Skender_the_Ringmaster_WU.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/8/85/Skender_the_Ringmaster_WU.png/revision/latest/scale-to-width-down/109?cb=20200712121001" /></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Skender_the_Ringmaster_WU.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Skender as he appears in <i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i></p> 		 	</figcaption> </figure>
+<ul><li><i><a href="/wiki/Fantastic_Beasts:_The_Crimes_of_Grindelwald_-_The_Original_Screenplay" title="Fantastic Beasts: The Crimes of Grindelwald - The Original Screenplay">Fantastic Beasts: The Crimes of Grindelwald - The Original Screenplay</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Fantastic_Beasts:_The_Crimes_of_Grindelwald" title="Fantastic Beasts: The Crimes of Grindelwald">Fantastic Beasts: The Crimes of Grindelwald</a></i></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Wizarding_World_(website)" title="Wizarding World (website)">Wizarding World</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/The_Archive_of_Magic:_The_Film_Wizardry_of_Fantastic_Beasts:_The_Crimes_of_Grindelwald" title="The Archive of Magic: The Film Wizardry of Fantastic Beasts: The Crimes of Grindelwald">The Archive of Magic: The Film Wizardry of Fantastic Beasts: The Crimes of Grindelwald</a></i></li>
+<li><i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Skender?veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Skender?action=edit&amp;section=9" title="Edit section: Notes and references

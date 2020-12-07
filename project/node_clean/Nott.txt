@@ -1,0 +1,160 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-death-eater pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/1/19/Death_Eater_Nott.jpeg/revision/latest?cb=20181125030328" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/1/19/Death_Eater_Nott.jpeg/revision/latest/scale-to-width-down/304?cb=20181125030328" srcset="https://static.wikia.nocookie.net/harrypotter/images/1/19/Death_Eater_Nott.jpeg/revision/latest/scale-to-width-down/304?cb=20181125030328 1x, https://static.wikia.nocookie.net/harrypotter/images/1/19/Death_Eater_Nott.jpeg/revision/latest/scale-to-width-down/608?cb=20181125030328 2x" class="pi-image-thumbnail" alt="" width="270" height="444"
+		     data-image-key="A5B5487C-CB1D-4740-9F0B-AA3EE5FED40A.jpeg" data-image-name="A5B5487C-CB1D-4740-9F0B-AA3EE5FED40A.jpeg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Nott</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Pure-blood" title="Pure-blood">Pure-blood</a> or <a href="/wiki/Half-blood" title="Half-blood">Half-blood</a><sup id="cite_ref-rowling_1-0" class="reference"><a href="#cite_note-rowling-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="marital">
+	
+		<h3 class="pi-data-label pi-secondary-font">Marital status</h3>
+	
+	<div class="pi-data-value pi-font">Widowed</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Cantankerus_Nott" title="Cantankerus Nott">Cantankerus Nott</a> (possibly)</li><li><a href="/wiki/Theodore_Nott%27s_mother" title="Theodore Nott&#039;s mother">Mrs Nott</a> (wife) †</li><li><a href="/wiki/Theodore_Nott" title="Theodore Nott">Theodore Nott</a> (son)</li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Magical characteristics</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="patronus">
+	
+		<h3 class="pi-data-label pi-secondary-font">Patronus</h3>
+	
+	<div class="pi-data-value pi-font">None<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Nott_family" title="Nott family">Nott family</a></li><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a></li><li><a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a><ul><li><a href="/wiki/Tom_Riddle" title="Tom Riddle">Lord Voldemort</a></li></ul></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Goblet of Fire">"<i>My Lord, I prostrate myself before you, I am your most faithful —</i>"</span></dd>
+<dd>&#8212;Nott professing his devotion to Voldemort<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire" title="Harry Potter and the Goblet of Fire">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Nott</b> (fl. 1965 – 1996) was a <a href="/wiki/Dark_Wizard" title="Dark Wizard">Dark Wizard</a> and one of the earliest <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a> of <a href="/wiki/Tom_Riddle" title="Tom Riddle">Lord Voldemort</a>, having joined by around 1965.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> He fought in the <a href="/wiki/First_Wizarding_War" title="First Wizarding War">First Wizarding War</a>, and travelled to <a href="/wiki/Hogsmeade" title="Hogsmeade">Hogsmeade</a> in order to "wish good luck" to <a href="/wiki/Tom_Riddle" title="Tom Riddle">Tom Riddle</a> in him trying to get a teaching position at Hogwarts.
+</p><p>He was the husband of <a href="/wiki/Theodore_Nott%27s_mother" title="Theodore Nott&#39;s mother">Mrs Nott</a>, who died in the 1980s, and the father of <a href="/wiki/Theodore_Nott" title="Theodore Nott">Theodore Nott</a>, a <a href="/wiki/Slytherin" title="Slytherin">Slytherin</a> student at Hogwarts from <a href="/wiki/1991" title="1991">1991</a>-<a href="/wiki/1998" title="1998">1998</a>. Nott did not search for Voldemort after his downfall, but this was forgiven after Voldemort's <a href="/wiki/Return_of_Lord_Voldemort" title="Return of Lord Voldemort">return</a> in <a href="/wiki/1995" title="1995">1995</a>. Nott fought at several battles of the <a href="/wiki/Second_Wizarding_War" title="Second Wizarding War">Second Wizarding War</a>, including the <a href="/wiki/Battle_of_the_Department_of_Mysteries" title="Battle of the Department of Mysteries">Battle of the Department of Mysteries</a>, in which he was injured. After the <a href="/wiki/Battle_of_Hogwarts" title="Battle of Hogwarts">Battle of Hogwarts</a> and Voldemort's final defeat, he was presumably killed or imprisoned in <a href="/wiki/Azkaban" title="Azkaban">Azkaban</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_life"><span class="tocnumber">1.1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#First_Wizarding_War"><span class="tocnumber">1.2</span> <span class="toctext">First Wizarding War</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Second_Wizarding_War"><span class="tocnumber">1.3</span> <span class="toctext">Second Wizarding War</span></a>
+<ul>
+<li class="toclevel-3 tocsection-5"><a href="#Battle_of_the_Department_of_Mysteries"><span class="tocnumber">1.3.1</span> <span class="toctext">Battle of the Department of Mysteries</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-6"><a href="#Post-war"><span class="tocnumber">1.4</span> <span class="toctext">Post-war</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Physical_appearance"><span class="tocnumber">2</span> <span class="toctext">Physical appearance</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Personality_and_traits"><span class="tocnumber">3</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Magical_abilities_and_skills"><span class="tocnumber">4</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Behind_the_scenes"><span class="tocnumber">5</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Appearances"><span class="tocnumber">6</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Notes_and_references"><span class="tocnumber">7</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Nott?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Nott?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Nott?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Early life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Nott?action=edit&amp;section=2" title="Edit section: Early life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Nott was born into the <a href="/wiki/Pure-blood" title="Pure-blood">pure-blood</a> <a href="/wiki/Nott_family" title="Nott family">Nott family</a>, which placed much interest in purity of blood, and was listed as one of the <a href="/wiki/Sacred_Twenty-Eight" title="Sacred Twenty-Eight">Sacred Twenty-Eight</a>.<sup id="cite_ref-PM_4-0" class="reference"><a href="#cite_note-PM-4">&#91;4&#93;</a></sup> He attended <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> and may have been a classmate of <a href="/wiki/Tom_Riddle" title="Tom Riddle">Tom Riddle</a>, as well as a member of his <a href="/wiki/Tom_Riddle%27s_gang" title="Tom Riddle&#39;s gang">gang</a>. While part of the student body, he seems to have become a friend of <a href="/wiki/Horace_Slughorn" title="Horace Slughorn">Horace Slughorn</a>, and as such was likely part of the <a href="/wiki/Slug_Club" title="Slug Club">Slug Club</a>, although the <a href="/wiki/Professor" title="Professor">professor</a> denied this connection in later years, after Nott was revealed to have become one of the first <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a>.<sup id="cite_ref-HBP7_5-0" class="reference"><a href="#cite_note-HBP7-5">&#91;5&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="First_Wizarding_War">First Wizarding War</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Nott?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: First Wizarding War">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Nott?action=edit&amp;section=3" title="Edit section: First Wizarding War"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Half-Blood Prince">"<i>...-Nott, <a href="/wiki/Rosier" title="Rosier">Rosier</a>, <a href="/wiki/Mulciber_(Riddle-era)" class="mw-redirect" title="Mulciber (Riddle-era)">Mulciber</a>, <a href="/wiki/Antonin_Dolohov" title="Antonin Dolohov">Dolohov</a>- waiting for <a href="/wiki/Tom_Riddle" title="Tom Riddle">your</a> return... What devoted friends, travelling so far away in the <a href="/wiki/Water" title="Water">snow</a> and the night just to wish you good luck in trying to get a teacher position!</i>"</span></dd>
+<dd>&#8212;<a href="/wiki/Albus_Dumbledore" title="Albus Dumbledore">Albus Dumbledore</a> to <a href="/wiki/Tom_Riddle" title="Tom Riddle">Lord Voldemort</a>.<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">[src]</a></sup></dd>
+<dd></dd></dl></div><p> Nott fought in the <a href="/wiki/First_Wizarding_War" title="First Wizarding War">First Wizarding War</a>, and, along with <a href="/wiki/Mulciber_(Riddle-era)" class="mw-redirect" title="Mulciber (Riddle-era)">Mulciber</a>, <a href="/wiki/Rosier" title="Rosier">Rosier</a> and <a href="/wiki/Antonin_Dolohov" title="Antonin Dolohov">Dolohov</a>, he had travelled to <a href="/wiki/Hogsmeade" title="Hogsmeade">Hogsmeade</a> , to "say <i>good luck</i> to Voldemort, during his attempt to ask for work at Hogwarts.<sup id="cite_ref-HBP20_6-0" class="reference"><a href="#cite_note-HBP20-6">&#91;6&#93;</a></sup> Nott was able to avoid being sent to <a href="/wiki/Azkaban" title="Azkaban">Azkaban</a> after the downfall of <a href="/wiki/Tom_Riddle" title="Tom Riddle">Lord Voldemort</a> in <a href="/wiki/1981" title="1981">1981</a>. An elderly widower, Nott raised his son, <a href="/wiki/Theodore_Nott" title="Theodore Nott">Theodore</a>, after the death of <a href="/wiki/Theodore_Nott%27s_mother" title="Theodore Nott&#39;s mother">his wife</a> sometime before <a href="/wiki/1991" title="1991">1991</a>.<sup id="cite_ref-rowling_1-1" class="reference"><a href="#cite_note-rowling-1">&#91;1&#93;</a></sup> Nott was also one of the <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a> who did not search for Voldemort after his downfall.<sup id="cite_ref-GOF33_7-0" class="reference"><a href="#cite_note-GOF33-7">&#91;7&#93;</a></sup>
+</p><h3><span class="mw-headline" id="Second_Wizarding_War">Second Wizarding War</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Nott?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Second Wizarding War">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Nott?action=edit&amp;section=4" title="Edit section: Second Wizarding War"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>When Voldemort <a href="/wiki/Return_of_Lord_Voldemort" title="Return of Lord Voldemort">returned</a>  to power in <a href="/wiki/1995" title="1995">1995</a>, Nott <a href="/wiki/Apparition" title="Apparition">Apparated</a> to his side in the <a href="/wiki/Little_Hangleton_graveyard" title="Little Hangleton graveyard">Little Hangleton graveyard</a> when summoned and professed to be Voldemort's most faithful servant.<sup id="cite_ref-GOF33_7-1" class="reference"><a href="#cite_note-GOF33-7">&#91;7&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="Battle_of_the_Department_of_Mysteries">Battle of the Department of Mysteries</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Nott?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Battle of the Department of Mysteries">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Nott?action=edit&amp;section=5" title="Edit section: Battle of the Department of Mysteries"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The <a href="/wiki/1996" title="1996">following year</a>, Nott participated in the <a href="/wiki/Battle_of_the_Department_of_Mysteries" title="Battle of the Department of Mysteries">Battle of the Department of Mysteries</a>. He grabbed hold of <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> as he and his friends fled the <a href="/wiki/Hall_of_Prophecy" title="Hall of Prophecy">Hall of Prophecy</a>, but was <a href="/wiki/Stunning_Spell" title="Stunning Spell">stunned</a> by <a href="/wiki/Hermione_Granger" title="Hermione Granger">Hermione Granger</a>, leaving him incapacitated as shelves filled with <a href="/wiki/Prophecy" title="Prophecy">prophecies</a> collapsed around him. The group leader, <a href="/wiki/Lucius_Malfoy" title="Lucius Malfoy">Lucius Malfoy</a>, ordered the other Death Eaters to leave Nott behind, stating that his injuries would be considered nothing by Voldemort compared to the loss of the particular prophecy which Voldemort sought.<sup id="cite_ref-OOTP35_8-0" class="reference"><a href="#cite_note-OOTP35-8">&#91;8&#93;</a></sup> It's possible (though unlikely) that Nott recovered to fight against the <a href="/wiki/Order_of_the_Phoenix" title="Order of the Phoenix">Order of the Phoenix</a> later on in the battle, though it's more likely that he was one of the two who were too incapacitated to take part. After the battle, Nott was exposed as a Death Eater and imprisoned in <a href="/wiki/Azkaban" title="Azkaban">Azkaban</a>.
+</p><p>After this, Nott most likely <a href="/wiki/Azkaban_escapes#1997" title="Azkaban escapes">escaped from Azkaban</a> along with many other Death Eaters in the summer of <a href="/wiki/1997" title="1997">1997</a> and served Voldemort during the height of the <a href="/wiki/Second_Wizarding_War" title="Second Wizarding War">Second Wizarding War</a>. He possibly fought in several battles, including the <a href="/wiki/Battle_of_Hogwarts" title="Battle of Hogwarts">Battle of Hogwarts</a>.
+</p>
+<h3><span class="mw-headline" id="Post-war">Post-war</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Nott?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Post-war">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Nott?action=edit&amp;section=6" title="Edit section: Post-war"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>If Nott survived the <a href="/wiki/Second_Wizarding_War" title="Second Wizarding War">Second Wizarding War</a>, it is likely he was re-imprisoned in <a href="/wiki/Azkaban" title="Azkaban">Azkaban</a> for his crimes. 
+</p>
+<h2><span class="mw-headline" id="Physical_appearance">Physical appearance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Nott?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Physical appearance">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Nott?action=edit&amp;section=7" title="Edit section: Physical appearance"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>He was described as a stooped man, although it is unknown if his stooped appearance was due to old age, injury, or because he often bowed down to <a href="/wiki/Tom_Riddle" title="Tom Riddle">Lord Voldemort</a>. He was said to be a relatively small <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a>, especially compared to the likes of <a href="/wiki/Crabbe" title="Crabbe">Crabbe</a> and <a href="/wiki/Goyle" title="Goyle">Goyle</a>.<sup id="cite_ref-GOF33_7-2" class="reference"><a href="#cite_note-GOF33-7">&#91;7&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Nott?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Personality and traits">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Nott?action=edit&amp;section=8" title="Edit section: Personality and traits"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Nott was shown to be incredibly sycophantic towards Voldemort, as he desperately and disingenuously claimed that he was his most faithful servant, before being silenced by his master for his dishonesty.<sup id="cite_ref-GOF33_7-3" class="reference"><a href="#cite_note-GOF33-7">&#91;7&#93;</a></sup> Despite this he is not known to have searched for his master, suggesting that he was not as faithful as he claimed to be though it was equally likely that he merely believed his master was <a href="/wiki/Death" title="Death">dead</a> and gone forever. As a longtime and devoted Death Eater it can be assumed that he held <a href="/wiki/Non-magic_people" title="Non-magic people">Muggles</a>, <a href="/wiki/Blood_traitor" title="Blood traitor">blood traitors</a> and anyone not considered a <a href="/wiki/Pure-blood" title="Pure-blood">pure-blood</a> in hatred and that he was a <a href="/wiki/Pure-blood_supremacy" title="Pure-blood supremacy">pure-blood supremacist</a>. It is likely that he was a skilled, important, or otherwise influential <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> as he was deemed a valuable connection by <a href="/wiki/Horace_Slughorn" title="Horace Slughorn">Horace Slughorn</a>. 
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Nott?veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Nott?action=edit&amp;section=9" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Dark_Arts" title="Dark Arts">Dark Arts</a></b>: Being a <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eater</a>, Nott would have been highly accomplished with dark magic and with the casting of <a href="/wiki/Dark_charm" title="Dark charm">Dark charms</a>, most likely including the <a href="/wiki/Unforgivable_Curses" title="Unforgivable Curses">Unforgivable Curses</a>.</li>
+<li><b><a href="/wiki/Duelling" title="Duelling">Duelling</a></b>: Being a Death Eater, Nott would have been competent with <a href="/wiki/Martial_magic" title="Martial magic">Martial magic</a> and a fairly talented duellist, given how he participated in the <a href="/wiki/Battle_of_the_Department_of_Mysteries" title="Battle of the Department of Mysteries">Battle of the Department of Mysteries</a><sup id="cite_ref-OOTP35_8-1" class="reference"><a href="#cite_note-OOTP35-8">&#91;8&#93;</a></sup> and likely other battles with his fellow Death Eaters.</li>
+<li><b><a href="/wiki/Apparition" title="Apparition">Apparition</a></b>: Nott was capable of Apparition, as he was able to apparate successfully to his master's side in the <a href="/wiki/Little_Hangleton_graveyard" title="Little Hangleton graveyard">Little Hangleton graveyard</a>.<sup id="cite_ref-GOF33_7-4" class="reference"><a href="#cite_note-GOF33-7">&#91;7&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Nott?veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Nott?action=edit&amp;section=10" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>While <a href="/wiki/Paschal_Friel" title="Paschal Friel">Paschal Friel</a> is credited as playing Knott [sic], he may also have been played by <a href="/wiki/Philip_Rham" title="Philip Rham">Philip Rham</a> in <i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire_(film)" title="Harry Potter and the Goblet of Fire (film)">Harry Potter and the Goblet of Fire</a></i><sup id="cite_ref-role_9-0" class="reference"><a href="#cite_note-role-9">&#91;9&#93;</a></sup>.</li>
+<li>In the film he is shown carrying a walking stick not unlike the <a href="/wiki/Lucius_Malfoy%27s_walking_stick" title="Lucius Malfoy&#39;s walking stick">one</a> owned by <a href="/wiki/Lucius_Malfoy" title="Lucius Malfoy">Lucius Malfoy</a>. It is possible that it possesses <a href="/wiki/Magic" title="Magic">magical</a> properties like Malfoy's.</li>
+<li>It is possible that he is <a href="/wiki/Cantankerus_Nott" title="Cantankerus Nott">Cantankerus Nott</a>.</li>
+<li>It's possible that he was one of the boys with Tom Riddle seen in <a href="/wiki/Horace_Slughorn" title="Horace Slughorn">Horace Slughorn</a>'s memory. Given that we know that Nott was an old favourite of Slughorn's adds to this possibility.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Nott?veaction=edit&amp;section=11" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Nott?action=edit&amp;section=11" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire" title="Harry Potter and the Goblet of Fire">Harry Potter and the Goblet of Fire</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire_(film)" title="Harry Potter and the Goblet of Fire (film)">Harry Potter and the Goblet of Fire (film)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire_(video_game)" title="Harry Potter and the Goblet of Fire (video game)">Harry Potter and the Goblet of Fire (video game)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">Harry Potter and the Order of the Phoenix</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">Harry Potter and the Half-Blood Prince</a></i> <small>(Mentioned only)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Nott?veaction=edit&amp;section=12" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Nott?action=edit&amp;section=12" title="Edit section: Notes and references

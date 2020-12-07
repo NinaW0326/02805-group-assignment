@@ -1,0 +1,142 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default"><section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Isobel McGonagall (née Ross)</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">Pre <a href="/wiki/1918" title="1918">1918</a><br/><a href="/wiki/Scotland" title="Scotland">Scotland</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Pure-blood" title="Pure-blood">Pure-blood</a> or <a href="/wiki/Half-blood" title="Half-blood">half-blood</a><sup id="cite_ref-blood_1-0" class="reference"><a href="#cite_note-blood-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="marital">
+	
+		<h3 class="pi-data-label pi-secondary-font">Marital status</h3>
+	
+	<div class="pi-data-value pi-font">Married</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Scotland" title="Scotland">Scottish</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="title">
+	
+		<h3 class="pi-data-label pi-secondary-font">Title(s)</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Quidditch_Captain#Hogwarts_Quidditch_Captains" title="Quidditch Captain">Quidditch Captain</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Minerva" title="Minerva">Minerva</a> (grandmother)</li><li><a href="/wiki/Isobel_Ross%27s_father" title="Isobel Ross&#039;s father">Mr Ross</a> (father)</li><li><a href="/wiki/Isobel_Ross%27s_mother" title="Isobel Ross&#039;s mother">Mrs Ross</a> (mother)</li><li><a href="/wiki/Robert_McGonagall" title="Robert McGonagall">Robert McGonagall</a> (husband)</li><li><a href="/wiki/Minerva_McGonagall" title="Minerva McGonagall">Minerva McGonagall</a> (daughter)</li><li><a href="/wiki/Malcolm_McGonagall" title="Malcolm McGonagall">Malcolm McGonagall</a> (son)</li><li><a href="/wiki/Robert_McGonagall_Junior" title="Robert McGonagall Junior">Robert McGonagall Jnr</a> (son)</li><li><a href="/wiki/Robert_McGonagall_Snr%27s_father" class="mw-redirect" title="Robert McGonagall Snr&#039;s father">Mr McGonagall</a> (father-in-law)</li><li><a href="/wiki/Robert_McGonagall_Snr%27s_mother" class="mw-redirect" title="Robert McGonagall Snr&#039;s mother">Mrs McGonagall</a> (mother-in-law)</li><li><a href="/wiki/Elphinstone_Urquart" title="Elphinstone Urquart">Elphinstone Urquart</a> (son-in-law) †</li><li>More than one grandchild</li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Magical characteristics</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="wand">
+	
+		<h3 class="pi-data-label pi-secondary-font">Wand</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Isobel_Ross%27s_wand" title="Isobel Ross&#039;s wand">Unknown</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Ross_family" title="Ross family">Ross family</a> (formerly)</li><li><a href="/wiki/McGonagall_family" title="McGonagall family">McGonagall family</a></li><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Pottermore">"<i>Isobel could not bring herself to mar the bliss of the honeymoon by telling her smitten new husband that she had graduated top of her class in <a href="/wiki/Charm" title="Charm">Charms</a> at Hogwarts, nor that she had been Captain of the school Quidditch team.</i>"</span></dd>
+<dd>&#8212;Isobel's talents and secrecy<sup class="noprint"><a href="/wiki/Pottermore" title="Pottermore">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Isobel McGonagall</b> (née <b>Ross</b>) (fl. <a href="/wiki/1917" title="1917">1917</a> – <a href="/wiki/1981" title="1981">1981</a>) was a <a href="/wiki/Scotland" title="Scotland">Scottish</a> <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> and daughter of <a href="/wiki/Isobel_Ross%27s_father" title="Isobel Ross&#39;s father">Mr</a> and <a href="/wiki/Isobel_Ross%27s_mother" title="Isobel Ross&#39;s mother">Mrs Ross</a>. She married <a href="/wiki/Robert_McGonagall_Senior" title="Robert McGonagall Senior">Robert McGonagall</a> and became the mother of <a href="/wiki/Minerva_McGonagall" title="Minerva McGonagall">Minerva</a>, <a href="/wiki/Malcolm_McGonagall" title="Malcolm McGonagall">Malcolm</a>, and <a href="/wiki/Robert_McGonagall_Junior" title="Robert McGonagall Junior">Robert Jnr</a>.<sup id="cite_ref-pottermore_2-0" class="reference"><a href="#cite_note-pottermore-2">&#91;2&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_life"><span class="tocnumber">1.1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Marriage_and_family"><span class="tocnumber">1.2</span> <span class="toctext">Marriage and family</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Magical_abilities_and_skills"><span class="tocnumber">2</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Appearances"><span class="tocnumber">3</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Notes_and_references"><span class="tocnumber">4</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Isobel_Ross?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Isobel_Ross?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Isobel_Ross?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Early life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Isobel_Ross?action=edit&amp;section=2" title="Edit section: Early life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Isobel was born to <a href="/wiki/Isobel_Ross%27s_father" title="Isobel Ross&#39;s father">Mr</a> and <a href="/wiki/Isobel_Ross%27s_mother" title="Isobel Ross&#39;s mother">Mrs Ross</a>, a wizard and witch, and grew up in a village in <a href="/wiki/Scotland" title="Scotland">Scotland</a> alongside many <a href="/wiki/Non-magic_people" title="Non-magic people">Muggles</a>. When she turned eleven, she started attending <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a>. Her Muggle neighbours were under the impression that she had been sent off to an exclusive all-girls boarding school in England. During her time at Hogwarts she excelled in <a href="/wiki/Charms_(class)" title="Charms (class)">Charms</a>, graduating top of her class in the subject. She was also <a href="/wiki/Quidditch_Captain#Hogwarts_Quidditch_Captains" title="Quidditch Captain">Captain</a> of the school <a href="/wiki/Quidditch" title="Quidditch">Quidditch</a> <a href="/wiki/Quidditch_team" title="Quidditch team">team</a>.<sup id="cite_ref-pottermore_2-1" class="reference"><a href="#cite_note-pottermore-2">&#91;2&#93;</a></sup>
+</p><p>At some point during her teens, Isobel became romantically involved with <a href="/wiki/Robert_McGonagall" title="Robert McGonagall">Robert McGonagall</a>, a <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> who lived in the same village. However, since she knew her parents would disapprove of the relationship, she kept it a secret from them.<sup id="cite_ref-pottermore_2-2" class="reference"><a href="#cite_note-pottermore-2">&#91;2&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Marriage_and_family">Marriage and family</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Isobel_Ross?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Marriage and family">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Isobel_Ross?action=edit&amp;section=3" title="Edit section: Marriage and family"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Deeply in love, Isobel (then aged eighteen) and Robert decided to elope, angering both sets of parents. Mr and Mrs Ross were so upset that they completely severed ties with their daughter. On the honeymoon, Isobel could not bear to tell her new husband she was a witch, and so the fact remained a secret.<sup id="cite_ref-pottermore_2-3" class="reference"><a href="#cite_note-pottermore-2">&#91;2&#93;</a></sup>
+</p><p>Isobel moved with Robert to a manse on the edge of <a href="/wiki/Caithness" title="Caithness">Caithness</a>. She proved skilled at making the most of the small income he earned as a Presbyterian minister.<sup id="cite_ref-pottermore_2-4" class="reference"><a href="#cite_note-pottermore-2">&#91;2&#93;</a></sup>
+</p><p>The couple's first child, a daughter, arrived on <a href="/wiki/4_October" title="4 October">4 October</a>. Isobel, missing her family and the <a href="/wiki/Wizarding_world" title="Wizarding world">magical world</a> she left behind in the name of love, named the baby Minerva in honour of her own grandmother, a powerful witch. The residents of Caithness found this name extremely unusual and Reverend McGonagall found it very difficult to explain to the members of his congregation why Isobel had chosen it.<sup id="cite_ref-pottermore_2-5" class="reference"><a href="#cite_note-pottermore-2">&#91;2&#93;</a></sup>
+</p><p>After Minerva's birth, Isobel became moody, alarming her husband. When Robert consulted his friends, they told him that post-partum depression was not uncommon for new mothers to go through, and that it would soon pass. However, Isobel only grew more withdrawn, sometimes hiding away with Minerva for days on end.<sup id="cite_ref-pottermore_2-6" class="reference"><a href="#cite_note-pottermore-2">&#91;2&#93;</a></sup>
+</p><p>What Isobel was actually trying to do was keep Robert from catching sight of any of the subtle signs of being magic that Minerva had displayed from her very first hours of life. One night, she finally broke down under her husband's gentle questioning, and, in tears, retrieved her <a href="/wiki/Isobel_McGonagall%27s_wand" class="mw-redirect" title="Isobel McGonagall&#39;s wand">wand</a> from where it was hidden and showed him she was a witch. Robert, while shocked by this revelation, did not love Isobel any less after it. Isobel also explained how she was bound to keep the existence of the wizarding world secret from Muggles by <a href="/wiki/International_Statute_of_Wizarding_Secrecy" title="International Statute of Wizarding Secrecy">International Statute of Wizarding Secrecy</a>.<sup id="cite_ref-pottermore_2-7" class="reference"><a href="#cite_note-pottermore-2">&#91;2&#93;</a></sup>
+</p><p>While the couple still loved each other afterwards, they never regained the sense of trust they once shared, something which Minerva, a very bright, observant child, recognised.<sup id="cite_ref-pottermore_2-8" class="reference"><a href="#cite_note-pottermore-2">&#91;2&#93;</a></sup>
+</p><p>Isobel and her husband eventually welcomed two more children: <a href="/wiki/Malcolm_McGonagall" title="Malcolm McGonagall">Malcolm</a> and <a href="/wiki/Robert_McGonagall_Junior" title="Robert McGonagall Junior">Robert Jnr</a>. In time, both proved to be magical, and Minerva readily helped her mother teach them that they could not go around showing off their magical powers, and helped her cover up the accidents their magic sometimes caused.<sup id="cite_ref-pottermore_2-9" class="reference"><a href="#cite_note-pottermore-2">&#91;2&#93;</a></sup>
+</p><p>Isobel wept when Minerva's Hogwarts acceptance letter came, not only from pride, but envy. While Minerva was closest to her father due to their similarities in temperament, she sympathised with the difficulty her mother faced in having to blend into an all-Muggle village, and in being apart from other people like herself and having to restrain the use of her powers.<sup id="cite_ref-pottermore_2-10" class="reference"><a href="#cite_note-pottermore-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Isobel_Ross?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Isobel_Ross?action=edit&amp;section=4" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Charm" title="Charm">Charms</a></b>: Isobel graduated <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts</a> at the top of her <a href="/wiki/Charms_(class)" title="Charms (class)">Charms</a> class,<sup id="cite_ref-pottermore_2-11" class="reference"><a href="#cite_note-pottermore-2">&#91;2&#93;</a></sup> meaning she must have achieved excellent results in this subject and been highly proficient with this branch of <a href="/wiki/Magic" title="Magic">magic</a>.</li>
+<li><b><a href="/wiki/Flight" title="Flight">Flying</a></b>: Isobel played as a Quidditch Captain in her youth at Hogwarts,<sup id="cite_ref-pottermore_2-12" class="reference"><a href="#cite_note-pottermore-2">&#91;2&#93;</a></sup> meaning she would have been an excellent <a href="/wiki/Broomstick" title="Broomstick">broomstick</a> flyer and <a href="/wiki/Quidditch" title="Quidditch">Quidditch</a> player.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Isobel_Ross?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Isobel_Ross?action=edit&amp;section=5" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> <small>(First mentioned)</small></li>
+<li><i><a href="/wiki/Wizarding_World_(website)" title="Wizarding World (website)">Wizarding World</a></i> <small>(Mentioned only)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Isobel_Ross?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Isobel_Ross?action=edit&amp;section=6" title="Edit section: Notes and references

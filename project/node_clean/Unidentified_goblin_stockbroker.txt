@@ -1,0 +1,134 @@
+<div class="mw-parser-output"><table class="notice metadata" cellpadding="3px" style="text-align: center; background: snow; border: #a00 1px solid; margin: 1em 10% 1em 10%;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/1/11/Hermione_Granger_%28HBP_promo%29_5.jpg/revision/latest?cb=20090817203540" class="image"><img alt="Hermione Granger (HBP promo) 5.jpg" src="https://static.wikia.nocookie.net/harrypotter/images/1/11/Hermione_Granger_%28HBP_promo%29_5.jpg/revision/latest/scale-to-width-down/60?cb=20090817203540" decoding="async" width="60" height="80" data-image-name="Hermione Granger (HBP promo) 5.jpg" data-image-key="Hermione_Granger_(HBP_promo)_5.jpg" /></a>
+</td>
+<td><i><b>"Are you a wizard or not?"</b></i>
+<p>The title of this article is conjectural.  Although it is based on <a href="/wiki/Canon" title="Canon">canonical information</a>, the actual name is a conjecture and may be supplanted at any time by additional information released from canonical sources.  If this occurs, please move this page to the appropriate title.
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-gringotts pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/4/41/Goblin_potions_market.jpg/revision/latest?cb=20181231012026" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/4/41/Goblin_potions_market.jpg/revision/latest/scale-to-width-down/350?cb=20181231012026" srcset="https://static.wikia.nocookie.net/harrypotter/images/4/41/Goblin_potions_market.jpg/revision/latest/scale-to-width-down/350?cb=20181231012026 1x, https://static.wikia.nocookie.net/harrypotter/images/4/41/Goblin_potions_market.jpg/revision/latest/scale-to-width-down/700?cb=20181231012026 2x" class="pi-image-thumbnail" alt="" width="270" height="270"
+		     data-image-key="Goblin_potions_market.jpg" data-image-name="Goblin potions market.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Unidentified goblin</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Goblin" title="Goblin">Goblin</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Brown</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Black</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Stockbroker (presumably)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Gringotts_Wizarding_Bank" title="Gringotts Wizarding Bank">Gringotts Wizarding Bank</a></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Order of the Phoenix (film)">"<i>Terrible day yesterday. Lost a lot of <a href="/wiki/Wizarding_currency" title="Wizarding currency">Galleons</a> trading on the <a href="/wiki/Potion" title="Potion">potions</a> market.</i>"</span></dd>
+<dd>&#8212;Unidentified goblin<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(film)" title="Harry Potter and the Order of the Phoenix (film)">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p>This <b>goblin</b> was apparently a stockbroker and worked for <a href="/wiki/Gringotts_Wizarding_Bank" title="Gringotts Wizarding Bank">Gringotts Wizarding Bank</a>.<sup id="cite_ref-Rusty_Goffe_1-0" class="reference"><a href="#cite_note-Rusty_Goffe-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#1991"><span class="tocnumber">1.1</span> <span class="toctext">1991</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#1993"><span class="tocnumber">1.2</span> <span class="toctext">1993</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#1995"><span class="tocnumber">1.3</span> <span class="toctext">1995</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#1996"><span class="tocnumber">1.4</span> <span class="toctext">1996</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#1998"><span class="tocnumber">1.5</span> <span class="toctext">1998</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Behind_the_scenes"><span class="tocnumber">2</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Appearances"><span class="tocnumber">3</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Notes_and_references"><span class="tocnumber">4</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Unidentified_goblin_stockbroker?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Unidentified_goblin_stockbroker?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="1991">1991</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Unidentified_goblin_stockbroker?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: 1991">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Unidentified_goblin_stockbroker?action=edit&amp;section=2" title="Edit section: 1991"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>By the end of the summer of <a href="/wiki/1991" title="1991">1991</a>, this goblin worked at <a href="/wiki/Gringotts_Wizarding_Bank" title="Gringotts Wizarding Bank">Gringotts Wizarding Bank</a>.<sup id="cite_ref-Rusty_Goffe_1-1" class="reference"><a href="#cite_note-Rusty_Goffe-1">&#91;1&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="1993">1993</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Unidentified_goblin_stockbroker?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: 1993">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Unidentified_goblin_stockbroker?action=edit&amp;section=3" title="Edit section: 1993"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>During the <a href="/wiki/Christmas_holidays" title="Christmas holidays">Christmas holidays</a> in <a href="/wiki/1993" title="1993">1993</a>, this goblin was among a group of carollers in <a href="/wiki/Hogsmeade" title="Hogsmeade">Hogsmeade Village</a>.<sup id="cite_ref-Rusty_Goffe_1-2" class="reference"><a href="#cite_note-Rusty_Goffe-1">&#91;1&#93;</a></sup> He was rudely pushed aside by an angry and <a href="/wiki/Cloak_of_Invisibility" title="Cloak of Invisibility">Invisibility Cloaked</a>-<a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a>.<sup id="cite_ref-POA_2-0" class="reference"><a href="#cite_note-POA-2">&#91;2&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="1995">1995</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Unidentified_goblin_stockbroker?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: 1995">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Unidentified_goblin_stockbroker?action=edit&amp;section=4" title="Edit section: 1995"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>On <a href="/wiki/11_August" title="11 August">11 August</a> <a href="/wiki/1995" title="1995">1995</a>, this goblin lost a large amount of gold trading on the <a href="/wiki/Potions_market" title="Potions market">potions market</a>. The <a href="/wiki/12_August" title="12 August">following day</a>, he went to the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">Ministry of Magic</a> Headquarters, in <a href="/wiki/London" title="London">London</a>, to take care of business, where he told a <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> the "terrible day" he had the day before.<sup id="cite_ref-OP_3-0" class="reference"><a href="#cite_note-OP-3">&#91;3&#93;</a></sup>
+</p>
+<figure class="thumb tright show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/f/f1/HBP_Narcissa_Draco_goblin_Diagon_Alley_1.jpg/revision/latest?cb=20091103192111" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/f/f1/HBP_Narcissa_Draco_goblin_Diagon_Alley_1.jpg/revision/latest/scale-to-width-down/180?cb=20091103192111" decoding="async" width="180" height="258" class="thumbimage" data-image-name="HBP Narcissa Draco goblin Diagon Alley 1.jpg" data-image-key="HBP_Narcissa_Draco_goblin_Diagon_Alley_1.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:HBP_Narcissa_Draco_goblin_Diagon_Alley_1.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">This goblin passing by <a href="/wiki/Draco_Malfoy" title="Draco Malfoy">Draco</a> and <a href="/wiki/Narcissa_Malfoy" title="Narcissa Malfoy">Narcissa Malfoy</a> in <a href="/wiki/Diagon_Alley" title="Diagon Alley">Diagon Alley</a>, in <a href="/wiki/1996" title="1996">1996</a></p> 		 	</figcaption> </figure>
+<h3><span class="mw-headline" id="1996">1996</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Unidentified_goblin_stockbroker?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: 1996">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Unidentified_goblin_stockbroker?action=edit&amp;section=5" title="Edit section: 1996"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>By <a href="/wiki/1996" title="1996">1996</a>, this goblin still worked at <a href="/wiki/Gringotts_Wizarding_Bank" title="Gringotts Wizarding Bank">Gringotts</a>, on the then-almost deserted <a href="/wiki/Diagon_Alley" title="Diagon Alley">Diagon Alley</a>.<sup id="cite_ref-Rusty_Goffe_1-3" class="reference"><a href="#cite_note-Rusty_Goffe-1">&#91;1&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="1998">1998</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Unidentified_goblin_stockbroker?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: 1998">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Unidentified_goblin_stockbroker?action=edit&amp;section=6" title="Edit section: 1998"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>It is unknown what happened to him after when <a href="/wiki/Tom_Riddle" title="Tom Riddle">Lord Voldemort</a> took over the <a href="/wiki/Ministry_of_Magic" title="Ministry of Magic">Ministry of Magic</a> and took control over <a href="/wiki/Gringotts_Wizarding_Bank" title="Gringotts Wizarding Bank">Gringotts</a>.
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Unidentified_goblin_stockbroker?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Unidentified_goblin_stockbroker?action=edit&amp;section=7" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>The goblin was portrayed by <a href="/wiki/Rusty_Goffe" title="Rusty Goffe">Rusty Goffe</a> in <i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(film)" title="Harry Potter and the Order of the Phoenix (film)">Harry Potter and the Order of the Phoenix</a> and</i> <i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince_(film)" title="Harry Potter and the Half-Blood Prince (film)">Harry Potter and the Half-Blood Prince</a>.</i></li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Unidentified_goblin_stockbroker?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Unidentified_goblin_stockbroker?action=edit&amp;section=8" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(film)" title="Harry Potter and the Philosopher&#39;s Stone (film)">Harry Potter and the Philosopher's Stone (film)</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(film)" title="Harry Potter and the Prisoner of Azkaban (film)">Harry Potter and the Prisoner of Azkaban (film)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(film)" title="Harry Potter and the Order of the Phoenix (film)">Harry Potter and the Order of the Phoenix (film)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince_(film)" title="Harry Potter and the Half-Blood Prince (film)">Harry Potter and the Half-Blood Prince (film)</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Unidentified_goblin_stockbroker?veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Unidentified_goblin_stockbroker?action=edit&amp;section=9" title="Edit section: Notes and references

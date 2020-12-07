@@ -1,0 +1,49 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-object pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/e/ed/HoppingCauldron.png/revision/latest?cb=20151214194804" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/e/ed/HoppingCauldron.png/revision/latest/scale-to-width-down/350?cb=20151214194804" srcset="https://static.wikia.nocookie.net/harrypotter/images/e/ed/HoppingCauldron.png/revision/latest/scale-to-width-down/350?cb=20151214194804 1x, https://static.wikia.nocookie.net/harrypotter/images/e/ed/HoppingCauldron.png/revision/latest/scale-to-width-down/700?cb=20151214194804 2x" class="pi-image-thumbnail" alt="" width="270" height="285"
+		     data-image-key="HoppingCauldron.png" data-image-name="HoppingCauldron.png"/>
+		
+	</a>
+	
+</figure>
+
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Hopping cauldron</h2>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Object information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="usage">
+	
+		<h3 class="pi-data-label pi-secondary-font">Usage</h3>
+	
+	<div class="pi-data-value pi-font">Brewing <a href="/wiki/Potion" title="Potion">potions</a><sup id="cite_ref-BOP_1-0" class="reference"><a href="#cite_note-BOP-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="owners">
+	
+		<h3 class="pi-data-label pi-secondary-font">Owners</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Zygmunt_Budge" title="Zygmunt Budge">Zygmunt Budge</a><sup id="cite_ref-BOP_1-1" class="reference"><a href="#cite_note-BOP-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Object_infobox" title="Template:Object infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Wonderbook: Book of Potions">"<i>A hopping cauldron! A faithful friend to any potioneer, at least until you try mixing fluxweed and Exploding Fluid in them. After that, they tend to be less cooperative.</i>"</span></dd>
+<dd>&#8212;<a href="/wiki/Zygmunt_Budge" title="Zygmunt Budge">Zygmunt Budge</a>, <i><a href="/wiki/Book_of_Potions" title="Book of Potions">Book of Potions</a></i><sup class="noprint"><a href="/wiki/Wonderbook:_Book_of_Potions" title="Wonderbook: Book of Potions">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p>A <b>hopping cauldron</b> is a type of sentient <a href="/wiki/Cauldron" title="Cauldron">cauldron</a>, so named because it has a single leg underneath the base of the cauldron allowing for locomotion. Hopping cauldrons have a certain degree of personality; while they are faithful to most <a href="/wiki/Potioneer" title="Potioneer">potioneers</a>, they will lose their faith if unpleasant concoctions are mixed in them.<sup id="cite_ref-BOP_1-2" class="reference"><a href="#cite_note-BOP-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Hopping_cauldron?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: History">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Hopping_cauldron?action=edit&amp;section=1" title="Edit section: History"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>During his lifetime, <a href="/wiki/Zygmunt_Budge" title="Zygmunt Budge">Zygmunt Budge</a> owned a hopping cauldron which he used in his <a href="/wiki/Potion" title="Potion">potion</a> experiments. It was faithful to him at first, though it became "less cooperative" after an attempt by Budge to mix <a href="/wiki/Fluxweed" title="Fluxweed">fluxweed</a> and <a href="/wiki/Exploding_Fluid" title="Exploding Fluid">Exploding Fluid</a> in it. A hopping cauldron, perhaps Budge's own, was included in his masterwork <i><a href="/wiki/Book_of_Potions" title="Book of Potions">Book of Potions</a></i>.<sup id="cite_ref-BOP_1-3" class="reference"><a href="#cite_note-BOP-1">&#91;1&#93;</a></sup>
+</p><p><a href="/wiki/Beedle_the_Bard" title="Beedle the Bard">Beedle the Bard</a> included a hopping cauldron, known as <a href="/wiki/The_Hopping_Pot" title="The Hopping Pot">the Hopping Pot</a>, in his story <i><a href="/wiki/The_Wizard_and_the_Hopping_Pot" title="The Wizard and the Hopping Pot">The Wizard and the Hopping Pot</a></i>.<sup id="cite_ref-TBBR_2-0" class="reference"><a href="#cite_note-TBBR-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Hopping_cauldron?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Hopping_cauldron?action=edit&amp;section=2" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/The_Tales_of_Beedle_the_Bard_(real)" title="The Tales of Beedle the Bard (real)">The Tales of Beedle the Bard</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Wonderbook:_Book_of_Potions" title="Wonderbook: Book of Potions">Wonderbook: Book of Potions</a></i> <small>(First identified as Hopping cauldron)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Hopping_cauldron?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Hopping_cauldron?action=edit&amp;section=3" title="Edit section: Notes and references

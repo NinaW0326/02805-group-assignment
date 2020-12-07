@@ -1,0 +1,124 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-mom pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/2/25/Radford.png/revision/latest?cb=20130316152502" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/2/25/Radford.png/revision/latest/scale-to-width-down/224?cb=20130316152502" srcset="https://static.wikia.nocookie.net/harrypotter/images/2/25/Radford.png/revision/latest/scale-to-width-down/224?cb=20130316152502 1x, https://static.wikia.nocookie.net/harrypotter/images/2/25/Radford.png/revision/latest/scale-to-width-down/448?cb=20130316152502 2x" class="pi-image-thumbnail" alt="" width="224" height="303"
+		     data-image-key="Radford.png" data-image-name="Radford.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Mnemone Radford</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/1562" class="mw-redirect" title="1562">1562</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/1649" class="mw-redirect" title="1649">1649</a> (aged 86 - 87)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">White</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Blue</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Obliviator" title="Obliviator">Obliviator</a>, <a href="/wiki/Spell_creation" title="Spell creation">Spell inventor</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">British Ministry of Magic</a></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Mnemone Radford</b> (<a href="/wiki/1562" class="mw-redirect" title="1562">1562</a> - <a href="/wiki/1649" class="mw-redirect" title="1649">1649</a>) was a <a href="/wiki/Great_Britain" title="Great Britain">British</a> <a href="/wiki/Wizardkind" title="Wizardkind">witch</a>, who first developed <a href="/wiki/Memory_Charm" title="Memory Charm">Memory Modifying Charms</a>. She became the first <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">British Ministry of Magic</a> <a href="/wiki/Obliviator" title="Obliviator">Obliviator</a>, due to her skill and expertise with casting the <a href="/wiki/Charm" title="Charm">charm</a>.<sup id="cite_ref-WotM_1-0" class="reference"><a href="#cite_note-WotM-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Magical_abilities_and_skills"><span class="tocnumber">1</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Behind_the_scenes"><span class="tocnumber">2</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Etymology"><span class="tocnumber">3</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Appearances"><span class="tocnumber">4</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Notes_and_references"><span class="tocnumber">5</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mnemone_Radford?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mnemone_Radford?action=edit&amp;section=1" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Spell_creation" title="Spell creation">Spell creation</a></b>: Radford had succeeded in the incredibly difficult and complex <a href="/wiki/Magic" title="Magic">magical</a> art of inventing new <a href="/wiki/Spell" title="Spell">spells</a>, as she successfully invented the <a href="/wiki/Memory_Charm" title="Memory Charm">Memory Charm</a>, a particularly useful and practical charm.</li>
+<li><b><a href="/wiki/Charm" title="Charm">Charms</a></b>: Radford was highly accomplished and talented with charm-work, given how she successfully invented the <a href="/wiki/Memory_Charm" title="Memory Charm">Memory Charm</a> and was highly skilled with the casting of it, given how she was the first <a href="/wiki/Obliviator" title="Obliviator">Obliviator</a> who worked for the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">British Ministry of Magic</a>.</li></ul>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mnemone_Radford?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mnemone_Radford?action=edit&amp;section=2" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>There are a few issues with this character's chronological timeframe. For one,  <i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> reveals that the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">Ministry of Magic</a> was only formally established in <a href="/wiki/1707" class="mw-redirect" title="1707">1707</a>, 58 years after Mnemone Radford died, so it is uncertain exactly how she could have worked for the Ministry. Even if one considers that the phrase "Ministry of Magic" used on <i><a href="/wiki/Wizard_of_the_Month" title="Wizard of the Month">Wizard of the Month</a></i> is an over-simplification of "<a href="/wiki/Wizards%27_Council" title="Wizards&#39; Council">Wizards' Council</a>", it is still left unexplained what use would an <a href="/wiki/Obliviator" title="Obliviator">Obliviator</a> have in the days before the establishment of the <a href="/wiki/International_Statute_of_Wizarding_Secrecy" title="International Statute of Wizarding Secrecy">International Statute of Wizarding Secrecy</a> in <a href="/wiki/1692" class="mw-redirect" title="1692">1692</a>.</li></ul>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mnemone_Radford?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mnemone_Radford?action=edit&amp;section=3" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Mnemone Radford is described as inventing the <a href="/wiki/Memory_Charm" title="Memory Charm">Memory Modifying Charm</a>. <a href="http://en.wikipedia.org/wiki/Mnemosyne" class="extiw" title="wikipedia:Mnemosyne">Mnemosyne</a> was an ancient Greek goddess of memory. Her daughter, <a href="http://en.wikipedia.org/wiki/Mneme" class="extiw" title="wikipedia:Mneme">Mneme</a> was the <a href="http://en.wikipedia.org/wiki/Boeotian_muses" class="extiw" title="wikipedia:Boeotian muses">muse</a> of memory.
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mnemone_Radford?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mnemone_Radford?action=edit&amp;section=4" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Wizard_of_the_Month" title="Wizard of the Month">Wizard of the Month</a></i> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mnemone_Radford?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mnemone_Radford?action=edit&amp;section=5" title="Edit section: Notes and references

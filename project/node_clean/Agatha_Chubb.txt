@@ -1,0 +1,51 @@
+<div class="mw-parser-output"><p><br />
+
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default"><section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Agatha Chubb</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Ancient Wizarding Artefacts Researcher</div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Agatha Chubb</b> was a <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> and an expert in ancient wizarding artefacts.
+</p>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Agatha_Chubb?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Agatha_Chubb?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>While researching <a href="/wiki/Quidditch" title="Quidditch">Quidditch</a> practises of the <a href="/wiki/16th_century" title="16th century">16th century</a>, she recovered no fewer than twelve lead <a href="/wiki/Bludger" title="Bludger">Bludgers</a> from marshes and peat bogs in <a href="/wiki/Great_Britain" title="Great Britain">Great Britain</a> and <a href="/wiki/Ireland" title="Ireland">Ireland</a>. She used this discovery to demonstrate how modern <a href="/wiki/Wizardkind" title="Wizardkind">wizards</a> developed Bludgers from lead and then iron, as lead was determined too soft a metal for the purpose of the balls.<sup id="cite_ref-QTA6_1-0" class="reference"><a href="#cite_note-QTA6-1">&#91;1&#93;</a></sup>
+</p><p>She wrote, <i>"They are undoubtedly Bludgers rather than cannon balls. The faint indentations of magically reinforced <a href="/wiki/Beater" title="Beater">Beaters</a>' <a href="/wiki/Beater%27s_bat" title="Beater&#39;s bat">bats</a> are visible and one can see the distinctive hallmarks of manufacture by a wizard (as opposed to a <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a>) - the smoothness of line, the perfect symmetry. A final clue was the fact that each and every one of them whizzed around my study and attempted to knock me to the floor when released from its case."</i><sup id="cite_ref-QTA6_1-1" class="reference"><a href="#cite_note-QTA6-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Agatha_Chubb?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Agatha_Chubb?action=edit&amp;section=2" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>"Agatha" is a Latinized form of the Greek name Αγαθη (<i>Agathe</i>), derived from Greek αγαθος (<i>agathos</i>) meaning "good". Saint Agatha was a 3rd-century martyr from Sicily who was tortured and killed after spurning the advances of a Roman official. The saint was widely revered in the Middle Ages, and her name has been used throughout Christian Europe (in various spellings). The mystery writer Agatha Christie (1890–1976) was a famous modern bearer of this name.
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Agatha_Chubb?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Agatha_Chubb?action=edit&amp;section=3" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Quidditch_Through_the_Ages_(real)" title="Quidditch Through the Ages (real)">Quidditch Through the Ages</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Agatha_Chubb?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Agatha_Chubb?action=edit&amp;section=4" title="Edit section: Notes and references

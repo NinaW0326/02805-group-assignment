@@ -1,0 +1,112 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-ilvermorny pi-layout-default"><section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Dorcus Twelvetrees</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">Before <a href="/wiki/1773" class="mw-redirect" title="1773">1773</a>,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> <a href="/wiki/North_America" title="North America">North America</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/United_States_of_America" title="United States of America">American</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Aristotle_Twelvetrees" title="Aristotle Twelvetrees">Aristotle Twelvetrees</a> (father)</li><li><a href="/wiki/Twelvetrees_family" title="Twelvetrees family">Twelvetrees family</a></li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Magical characteristics</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="wand">
+	
+		<h3 class="pi-data-label pi-secondary-font">Wand</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Dorcus_Twelvetrees%27s_wand" title="Dorcus Twelvetrees&#039;s wand">Unknown length, wood and wand core</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Ilvermorny_School_of_Witchcraft_and_Wizardry" title="Ilvermorny School of Witchcraft and Wizardry">Ilvermorny School of Witchcraft and Wizardry</a></li><li><a href="/wiki/Twelvetrees_family" title="Twelvetrees family">Twelvetrees family</a></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+<b>Dorcus Twelvetrees</b> was an <a href="/wiki/United_States_of_America" title="United States of America">American</a> <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> who lived during the <a href="/wiki/18th_century" title="18th century">18th century</a>.<sup id="cite_ref-pottermore-rappaport_2-0" class="reference"><a href="#cite_note-pottermore-rappaport-2">&#91;2&#93;</a></sup> The daughter of <a href="/wiki/Aristotle_Twelvetrees" title="Aristotle Twelvetrees">Aristotle Twelvetrees</a>, she was responsible for one of the greatest ever breaches of the <a href="/wiki/International_Statute_of_Wizarding_Secrecy" title="International Statute of Wizarding Secrecy">International Statute of Secrecy</a>, which led to the passage of <a href="/wiki/Rappaport%27s_Law" title="Rappaport&#39;s Law">Rappaport's Law</a>.<sup id="cite_ref-pottermore-rappaport_2-1" class="reference"><a href="#cite_note-pottermore-rappaport-2">&#91;2&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_life"><span class="tocnumber">1.1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Bartholomew_Barebone_affair"><span class="tocnumber">1.2</span> <span class="toctext">Bartholomew Barebone affair</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Imprisonment_and_later_life"><span class="tocnumber">1.3</span> <span class="toctext">Imprisonment and later life</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Appearances"><span class="tocnumber">2</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Notes_and_references"><span class="tocnumber">3</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Dorcus_Twelvetrees?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Dorcus_Twelvetrees?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Dorcus_Twelvetrees?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Early life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Dorcus_Twelvetrees?action=edit&amp;section=2" title="Edit section: Early life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Dorcus was born into a <a href="/wiki/Twelvetrees_family" title="Twelvetrees family">wizarding family</a> sometime in the <a href="/wiki/18th_century" title="18th century">18th century</a>.<sup id="cite_ref-pottermore-rappaport_2-2" class="reference"><a href="#cite_note-pottermore-rappaport-2">&#91;2&#93;</a></sup> She attended <a href="/wiki/Ilvermorny_School_of_Witchcraft_and_Wizardry" title="Ilvermorny School of Witchcraft and Wizardry">Ilvermorny School of Witchcraft and Wizardry</a>, but did not do well academically, and apparently did not go on to pursue a career afterwards.<sup id="cite_ref-pottermore-rappaport_2-3" class="reference"><a href="#cite_note-pottermore-rappaport-2">&#91;2&#93;</a></sup> At the time her father, <a href="/wiki/Aristotle_Twelvetrees" title="Aristotle Twelvetrees">Aristotle Twelvetrees</a>, rose to the office of <a href="/wiki/Keeper_of_Treasure_and_Dragots" title="Keeper of Treasure and Dragots">Keeper of Treasure and Dragots</a> under <a href="/wiki/President_of_the_Magical_Congress_of_the_United_States_of_America" title="President of the Magical Congress of the United States of America">President</a> <a href="/wiki/Emily_Rappaport" title="Emily Rappaport">Emily Rappaport</a>, Dorcus was still living with her parents, and rarely used <a href="/wiki/Magic" title="Magic">magic</a>.<sup id="cite_ref-pottermore-rappaport_2-4" class="reference"><a href="#cite_note-pottermore-rappaport-2">&#91;2&#93;</a></sup> Described as "pretty" but "dim", her primary interests included fashion, styling her hair, and organising parties.<sup id="cite_ref-pottermore-rappaport_2-5" class="reference"><a href="#cite_note-pottermore-rappaport-2">&#91;2&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Bartholomew_Barebone_affair">Bartholomew Barebone affair</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Dorcus_Twelvetrees?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Bartholomew Barebone affair">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Dorcus_Twelvetrees?action=edit&amp;section=3" title="Edit section: Bartholomew Barebone affair"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Dorcus met <a href="/wiki/Bartholomew_Barebone" title="Bartholomew Barebone">Bartholomew Barebone</a>, a handsome <a href="/wiki/Muggle" class="mw-redirect" title="Muggle">No-Maj</a> at a neighbourhood <a href="/wiki/Picnic" title="Picnic">picnic</a> one day. She was instantly smitten and performed "<a href="/wiki/Spell" title="Spell">little tricks</a>" for him.<sup id="cite_ref-pottermore-rappaport_2-6" class="reference"><a href="#cite_note-pottermore-rappaport-2">&#91;2&#93;</a></sup> Interpreting his interest as nothing more than politeness and curiosity, she duly answered his "artless" queries.<sup id="cite_ref-pottermore-rappaport_2-7" class="reference"><a href="#cite_note-pottermore-rappaport-2">&#91;2&#93;</a></sup> In the course of these interactions, she revealed to him the locations of Ilvermorny and the headquarters of the <a href="/wiki/Magical_Congress_of_the_United_States_of_America" title="Magical Congress of the United States of America">Magical Congress of the United States of America</a>. She also provided him information about the <a href="/wiki/International_Confederation_of_Wizards" title="International Confederation of Wizards">International Confederation of Wizards</a> and the manners in which the wizarding community endeavoured to hide itself from the <a href="/wiki/Muggle_world" title="Muggle world">No-Maj world</a>.<sup id="cite_ref-pottermore-rappaport_2-8" class="reference"><a href="#cite_note-pottermore-rappaport-2">&#91;2&#93;</a></sup>
+</p><p>Unbeknownst to her, Bartholomew was in fact descended from a <a href="/wiki/Scourers" title="Scourers">Scourer</a> line, meaning that he vehemently believed in the existence of <a href="/wiki/Magic" title="Magic">magic</a>, and that all witches and wizards were evil.<sup id="cite_ref-pottermore-rappaport_2-9" class="reference"><a href="#cite_note-pottermore-rappaport-2">&#91;2&#93;</a></sup> Having manipulated Dorcus into revealing as much about the <a href="/wiki/Wizarding_world" title="Wizarding world">wizarding world</a> as he could, he proceeded to steal her <a href="/wiki/Wand" title="Wand">wand</a>.<sup id="cite_ref-pottermore-rappaport_2-10" class="reference"><a href="#cite_note-pottermore-rappaport-2">&#91;2&#93;</a></sup> He showed the wand to as many newspaper reporters as possible, and a few were motivated to publish pictures of it, describing it as having a "kick like a <a href="/wiki/Mule" title="Mule">mule</a>" when waved.<sup id="cite_ref-pottermore-rappaport_2-11" class="reference"><a href="#cite_note-pottermore-rappaport-2">&#91;2&#93;</a></sup> He also printed and distributed leaflets listing the wizarding addresses Dorcus had revealed to him, and sent letters to important No-Majs, prompting some to investigate whether the "evil occult parties" he described were actually occurring.<sup id="cite_ref-pottermore-rappaport_2-12" class="reference"><a href="#cite_note-pottermore-rappaport-2">&#91;2&#93;</a></sup>
+</p><p>After shooting at a group of No-Majs he wrongly assumed to be <a href="/wiki/Magical_Congress_of_the_United_States_of_America" title="Magical Congress of the United States of America">Magical Congress of the United States of America</a> employees, Bartholomew was arrested by No-Maj authorities, but the damage had already been done.<sup id="cite_ref-pottermore-rappaport_2-13" class="reference"><a href="#cite_note-pottermore-rappaport-2">&#91;2&#93;</a></sup> The MACUSA was left struggling to cope with one of the most massive breaches of the <a href="/wiki/International_Statute_of_Wizarding_Secrecy" title="International Statute of Wizarding Secrecy">International Statute of Secrecy</a> in history.<sup id="cite_ref-pottermore-rappaport_2-14" class="reference"><a href="#cite_note-pottermore-rappaport-2">&#91;2&#93;</a></sup> They attempted to <a href="/wiki/Memory_Charm" title="Memory Charm">modify</a> the memories of all No-Majs exposed to the leaked information, but, as President Rappaport testified at a public inquiry, there was no way to be certain they had obliviated everyone.<sup id="cite_ref-pottermore-rappaport_2-15" class="reference"><a href="#cite_note-pottermore-rappaport-2">&#91;2&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Imprisonment_and_later_life">Imprisonment and later life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Dorcus_Twelvetrees?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Imprisonment and later life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Dorcus_Twelvetrees?action=edit&amp;section=4" title="Edit section: Imprisonment and later life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Many within the magical community advocated imprisoning Dorcus for life for her actions.<sup id="cite_ref-pottermore-rappaport_2-16" class="reference"><a href="#cite_note-pottermore-rappaport-2">&#91;2&#93;</a></sup> Some even called for her to be executed.<sup id="cite_ref-pottermore-rappaport_2-17" class="reference"><a href="#cite_note-pottermore-rappaport-2">&#91;2&#93;</a></sup> However, she ultimately spent only a year in prison, emerging a traumatised and thoroughly disgraced woman.<sup id="cite_ref-pottermore-rappaport_2-18" class="reference"><a href="#cite_note-pottermore-rappaport-2">&#91;2&#93;</a></sup> She lived out the rest of her days in isolation, with only a mirror and a <a href="/wiki/Parrot" title="Parrot">parrot</a> to keep her company.<sup id="cite_ref-pottermore-rappaport_2-19" class="reference"><a href="#cite_note-pottermore-rappaport-2">&#91;2&#93;</a></sup>
+</p><p>The Twelvetrees-Barebone affair prompted the passage of <a href="/wiki/Rappaport%27s_Law" title="Rappaport&#39;s Law">Rappaport's Law</a> in <a href="/wiki/1790" class="mw-redirect" title="1790">1790</a>.<sup id="cite_ref-pottermore-rappaport_2-20" class="reference"><a href="#cite_note-pottermore-rappaport-2">&#91;2&#93;</a></sup> This law banned American wizards and witches from <a href="/wiki/Marriage" title="Marriage">marrying</a> or befriending No-Majs, and led to the total segregation of the No-Maj and wizarding communities in the United States.<sup id="cite_ref-pottermore-rappaport_2-21" class="reference"><a href="#cite_note-pottermore-rappaport-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Dorcus_Twelvetrees?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Dorcus_Twelvetrees?action=edit&amp;section=5" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> <small>(First mentioned)</small></li>
+<li><i><a href="/wiki/Wizarding_World_(website)" title="Wizarding World (website)">Wizarding World</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(film)" title="Fantastic Beasts and Where to Find Them (film)">Fantastic Beasts and Where to Find Them (film)</a></i> <span class="template-c">(Mentioned on a newspaper)</span></li>
+<li><i><a href="/wiki/LEGO_Dimensions" title="LEGO Dimensions">LEGO Dimensions</a></i> <small>(Mentioned only)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Dorcus_Twelvetrees?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Dorcus_Twelvetrees?action=edit&amp;section=6" title="Edit section: Notes and references

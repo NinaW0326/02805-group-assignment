@@ -1,0 +1,98 @@
+<div class="mw-parser-output"><table class="notice metadata" cellpadding="3px" style="text-align: center; background: snow; border: #a00 1px solid; margin: 1em 10% 1em 10%;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/1/11/Hermione_Granger_%28HBP_promo%29_5.jpg/revision/latest?cb=20090817203540" class="image"><img alt="Hermione Granger (HBP promo) 5.jpg" src="https://static.wikia.nocookie.net/harrypotter/images/1/11/Hermione_Granger_%28HBP_promo%29_5.jpg/revision/latest/scale-to-width-down/60?cb=20090817203540" decoding="async" width="60" height="80" data-image-name="Hermione Granger (HBP promo) 5.jpg" data-image-key="Hermione_Granger_(HBP_promo)_5.jpg" /></a>
+</td>
+<td><i><b>"Are you a wizard or not?"</b></i>
+<p>The title of this article is conjectural.  Although it is based on <a href="/wiki/Canon" title="Canon">canonical information</a>, the actual name is a conjecture and may be supplanted at any time by additional information released from canonical sources.  If this occurs, please move this page to the appropriate title.
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-mom pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/4/40/Auror_Entrance_Hall.png/revision/latest?cb=20100619183700" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/4/40/Auror_Entrance_Hall.png/revision/latest/scale-to-width-down/311?cb=20100619183700" srcset="https://static.wikia.nocookie.net/harrypotter/images/4/40/Auror_Entrance_Hall.png/revision/latest/scale-to-width-down/311?cb=20100619183700 1x, https://static.wikia.nocookie.net/harrypotter/images/4/40/Auror_Entrance_Hall.png/revision/latest/scale-to-width-down/623?cb=20100619183700 2x" class="pi-image-thumbnail" alt="" width="270" height="433"
+		     data-image-key="Auror_Entrance_Hall.png" data-image-name="Auror Entrance Hall.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Unidentified Auror</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a><sup id="cite_ref-HBPF_1-0" class="reference"><a href="#cite_note-HBPF-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-HBPF_1-1" class="reference"><a href="#cite_note-HBPF-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male<sup id="cite_ref-HBPF_1-2" class="reference"><a href="#cite_note-HBPF-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Brown<sup id="cite_ref-HBPF_1-3" class="reference"><a href="#cite_note-HBPF-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White<sup id="cite_ref-HBPF_1-4" class="reference"><a href="#cite_note-HBPF-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Auror" title="Auror">Auror</a><sup id="cite_ref-HBPF_1-5" class="reference"><a href="#cite_note-HBPF-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">British Ministry of Magic</a><sup id="cite_ref-HBPF_1-6" class="reference"><a href="#cite_note-HBPF-1">&#91;1&#93;</a></sup><ul><li><a href="/wiki/Department_of_Magical_Law_Enforcement" title="Department of Magical Law Enforcement">Department of Magical Law Enforcement</a><sup id="cite_ref-HBPF_1-7" class="reference"><a href="#cite_note-HBPF-1">&#91;1&#93;</a></sup><ul><li><a href="/wiki/Auror_Office" title="Auror Office">Auror Department</a><sup id="cite_ref-HBPF_1-8" class="reference"><a href="#cite_note-HBPF-1">&#91;1&#93;</a></sup></li></ul></li></ul></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+This <b>male <a href="/wiki/Auror" title="Auror">Auror</a></b> was stationed at <a href="/wiki/Hogwarts_Castle" title="Hogwarts Castle">Hogwarts Castle</a>'s <a href="/wiki/Entrance_Hall" title="Entrance Hall">Entrance Hall</a> during <a href="/wiki/June" title="June">June</a> of <a href="/wiki/1997" title="1997">1997</a>. During the <a href="/wiki/Battle_of_the_Astronomy_Tower" title="Battle of the Astronomy Tower">Battle of the Astronomy Tower</a>, when the <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a> burst through the <a href="/wiki/Entrance_Hall" title="Entrance Hall">Entrance Hall</a> in their escape, this <a href="/wiki/Auror" title="Auror">Auror</a> was blown away by <a href="/wiki/Severus_Snape" title="Severus Snape">Severus Snape</a> with a <a href="/wiki/Spell" title="Spell">spell</a> when his back was turned. He apparently had not noticed the <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a> in the <a href="/wiki/Hogwarts_Castle" title="Hogwarts Castle">Castle</a>.<sup id="cite_ref-HBPF_1-9" class="reference"><a href="#cite_note-HBPF-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Unidentified_male_Auror_at_Hogwarts?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Unidentified_male_Auror_at_Hogwarts?action=edit&amp;section=1" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>In the <a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince_(film)" title="Harry Potter and the Half-Blood Prince (film)">film adaptation</a> of <i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">Harry Potter and the Half-Blood Prince</a></i>, this Auror is the only resistance Hogwarts offers to the rampaging group of <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a> who had moments earlier witnessed the murder of <a href="/wiki/Albus_Dumbledore" title="Albus Dumbledore">Albus Dumbledore</a>.</li>
+<li>He may also be either <a href="/wiki/Proudfoot" title="Proudfoot">Proudfoot</a> or <a href="/wiki/Savage" title="Savage">Savage</a>, considering that Tonks was stationed in Hogsmeade alongside them and was called up to defend Hogwarts.</li>
+<li>Considering how quickly he was defeated when caught off guard by Severus Snape, it is also possible that this is a recast of <a href="/wiki/John_Dawlish" title="John Dawlish">John Dawlish</a>.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Unidentified_male_Auror_at_Hogwarts?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Unidentified_male_Auror_at_Hogwarts?action=edit&amp;section=2" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince_(film)" title="Harry Potter and the Half-Blood Prince (film)">Harry Potter and the Half-Blood Prince (film)</a></i> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Unidentified_male_Auror_at_Hogwarts?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Unidentified_male_Auror_at_Hogwarts?action=edit&amp;section=3" title="Edit section: Notes and references

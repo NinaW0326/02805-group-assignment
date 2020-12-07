@@ -1,0 +1,73 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-muggle pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/5/5d/BobHitchens.png/revision/latest?cb=20151219030117" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/5/5d/BobHitchens.png/revision/latest/scale-to-width-down/350?cb=20151219030117" srcset="https://static.wikia.nocookie.net/harrypotter/images/5/5d/BobHitchens.png/revision/latest/scale-to-width-down/350?cb=20151219030117 1x, https://static.wikia.nocookie.net/harrypotter/images/5/5d/BobHitchens.png/revision/latest/scale-to-width-down/699?cb=20151219030117 2x" class="pi-image-thumbnail" alt="" width="270" height="230"
+		     data-image-key="BobHitchens.png" data-image-name="BobHitchens.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Bob Hitchens</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="marital">
+	
+		<h3 class="pi-data-label pi-secondary-font">Marital status</h3>
+	
+	<div class="pi-data-value pi-font">Married</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Iola_Black" title="Iola Black">Iola Black</a> (wife) †</li><li><a href="/wiki/Phineas_Nigellus_Black" title="Phineas Nigellus Black">Phineas Nigellus Black</a> (brother-in-law) †</li><li><a href="/wiki/Sirius_Black_I" title="Sirius Black I">Sirius Black I</a> (brother-in-law) †</li><li><a href="/wiki/Elladora_Black" title="Elladora Black">Elladora Black</a> (sister-in-law) †</li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Bob Hitchens</b> was a <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>&#160;who married the <a href="/wiki/Wizardkind" title="Wizardkind">pure-blood witch</a> <a href="/wiki/Iola_Black" title="Iola Black">Iola Black</a>, the youngest sister of famous <a href="/wiki/Phineas_Nigellus_Black" title="Phineas Nigellus Black">Phineas Nigellus Black</a>. Their <a href="/wiki/Marriage" title="Marriage">marriage</a> caused her to be struck off the <a href="/wiki/Black_Family_Tapestry" title="Black Family Tapestry">Black family tree tapestry</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Bob_Hitchens?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Bob_Hitchens?action=edit&amp;section=1" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>It was not clear at first whether Hitchens was a <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> or a <a href="/wiki/Muggle-born" title="Muggle-born">Muggle-born</a> <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a>. Although the partial family tree on the Harry Potter Lexicon lists him as a <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a>, it does the same for <a href="/wiki/Muggle-born" title="Muggle-born">Muggle-born</a> wizard <a href="/wiki/Edward_Tonks" title="Edward Tonks">Ted Tonks</a>, possibly indicating that the <a href="/wiki/House_of_Black" title="House of Black">Blacks</a> did not draw a distinction between Muggles and Muggle-borns. However, in the partial tree&#160;written by <a href="/wiki/J._K._Rowling" title="J. K. Rowling">J. K. Rowling</a>&#160;given&#160;in the <i><a href="/wiki/Harry_Potter_Film_Wizardry" title="Harry Potter Film Wizardry">Harry Potter Film Wizardry</a></i>, Ted Tonks is listed&#160;as a Muggle-born and Hitchens as a Muggle.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Bob_Hitchens?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Bob_Hitchens?action=edit&amp;section=2" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(film)" title="Harry Potter and the Order of the Phoenix (film)">Harry Potter and the Order of the Phoenix (film)</a></i> <span class="template-c">(Appears on Black family tapestry)</span></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Bob_Hitchens?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Bob_Hitchens?action=edit&amp;section=3" title="Edit section: Notes and references

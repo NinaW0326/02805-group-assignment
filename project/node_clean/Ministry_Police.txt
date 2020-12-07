@@ -1,0 +1,70 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-organisation pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/e/e8/Sc61.jpg/revision/latest?cb=20101216114346" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/e/e8/Sc61.jpg/revision/latest/scale-to-width-down/185?cb=20101216114346" srcset="https://static.wikia.nocookie.net/harrypotter/images/e/e8/Sc61.jpg/revision/latest/scale-to-width-down/185?cb=20101216114346 1x, https://static.wikia.nocookie.net/harrypotter/images/e/e8/Sc61.jpg/revision/latest/scale-to-width-down/370?cb=20101216114346 2x" class="pi-image-thumbnail" alt="" width="185" height="389"
+		     data-image-key="Sc61.jpg" data-image-name="Sc61.jpg"/>
+		
+	</a>
+	
+</figure>
+
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Ministry Police</h2>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Organisation information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="leader">
+	
+		<h3 class="pi-data-label pi-secondary-font">Leader(s)</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Director_of_the_Ministry_Police_No._41041" title="Director of the Ministry Police No. 41041">Director of the Ministry Police No. 41041</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="headquarters">
+	
+		<h3 class="pi-data-label pi-secondary-font">Headquarters</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">Ministry of Magic</a>, <a href="/wiki/Whitehall" title="Whitehall">Whitehall</a>, <a href="/wiki/London" title="London">London</a>, <a href="/wiki/England" title="England">England</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="intentions">
+	
+		<h3 class="pi-data-label pi-secondary-font">Intentions</h3>
+	
+	<div class="pi-data-value pi-font">Provide security within the Ministry</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="affiliation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Affiliation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">Ministry of Magic</a></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Organisation_infobox" title="Template:Organisation infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+The <b>Ministry Police</b> were a body in charge of law enforcement and providing security services within the headquarters of the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">Ministry of Magic</a>.<sup id="cite_ref-poster_1-0" class="reference"><a href="#cite_note-poster-1">&#91;1&#93;</a></sup>
+</p><p>After the <a href="/wiki/Fall_of_the_Ministry_of_Magic" title="Fall of the Ministry of Magic">fall of the Ministry of Magic</a>, the Ministry Police came under the control of Death Eaters and issued the <a href="/wiki/Undesirable" title="Undesirable">Undesirable</a> No. 1 posters for information on the whereabouts of <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a>.<sup id="cite_ref-poster_1-1" class="reference"><a href="#cite_note-poster-1">&#91;1&#93;</a></sup> During the <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eater</a> regime, members of the Ministry Police were stationed at the <a href="/wiki/Atrium" title="Atrium">Atrium</a> and arrested <a href="/wiki/Muggle-born" title="Muggle-born">Muggle-borns</a> who arrived at the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">Ministry</a>. They were also in charge of transporting convicted <a href="/wiki/Muggle-born" title="Muggle-born">Muggle-borns</a> from the courtrooms. Each member wore a dark red strip of fabric around his or her left arm, signifying their position. These armbands were also worn by Snatchers, suggesting a possible connection between the two groups.<sup id="cite_ref-DHpt1_2-0" class="reference"><a href="#cite_note-DHpt1-2">&#91;2&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Behind_the_scenes"><span class="tocnumber">1</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Appearances"><span class="tocnumber">2</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Sources"><span class="tocnumber">3</span> <span class="toctext">Sources</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Notes_and_references"><span class="tocnumber">4</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Ministry_Police?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Ministry_Police?action=edit&amp;section=1" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>While it is likely that the Ministry of Magic indeed have some sort of unit of security wizards tasked with providing security services, the existence of a Ministry <i>Police</i> can not be considered canon, due to the fact that <a href="/wiki/Amos_Diggory" title="Amos Diggory">Amos Diggory</a> was unfamiliar with the word "policemen", something that would not have been the case if the Ministry, where he worked, had their own inter-ministerial 'police' force.</li>
+<li>They may in actuality be <a href="/wiki/Watchwizard" title="Watchwizard">watchwizards and/or watchwitches</a>, like <a href="/wiki/Eric_Munch" title="Eric Munch">Eric Munch</a>.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Ministry_Police?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Ministry_Police?action=edit&amp;section=2" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1" title="Harry Potter and the Deathly Hallows: Part 1">Harry Potter and the Deathly Hallows: Part 1</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter:_Years_5-7" title="LEGO Harry Potter: Years 5-7">LEGO Harry Potter: Years 5-7</a></i> <span class="template-c">(As "Ministry Guard")</span></li>
+<li><i><a href="/wiki/Harry_Potter:_The_Character_Vault" title="Harry Potter: The Character Vault">Harry Potter: The Character Vault</a></i> (mentioned only)</li></ul>
+<h2><span class="mw-headline" id="Sources">Sources</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Ministry_Police?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Sources">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Ministry_Police?action=edit&amp;section=3" title="Edit section: Sources"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter:_A_Pop-Up_Book" title="Harry Potter: A Pop-Up Book">Harry Potter: A Pop-Up Book</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Ministry_Police?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Ministry_Police?action=edit&amp;section=4" title="Edit section: Notes and references

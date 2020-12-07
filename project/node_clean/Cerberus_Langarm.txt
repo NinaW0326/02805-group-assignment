@@ -1,0 +1,146 @@
+<div class="mw-parser-output"><table class="notice metadata" id="spoiler" style="text-align: center; background: beige; margin: 1em 05%; padding: 0 1em; border: #a00 1px solid;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/e/ea/Wizards_Unite_logo.jpg/revision/latest?cb=20181114170049" class="image"><img alt="Wizards Unite logo.jpg" src="https://static.wikia.nocookie.net/harrypotter/images/e/ea/Wizards_Unite_logo.jpg/revision/latest/scale-to-width-down/175?cb=20181114170049" decoding="async" width="175" height="98" data-image-name="Wizards Unite logo.jpg" data-image-key="Wizards_Unite_logo.jpg" /></a>
+</td>
+<td><b>Warning!</b>
+<p>At least some content in this article is derived from information featured in <i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i>. As such, spoilers will be present within the article.
+</p><p>For gameplay-specific information, please see the relevant article on <a href="https://harrypotterwizardsunite.fandom.com/wiki/Cerberus_Langarm" class="extiw" title="w:c:harrypotterwizardsunite:Cerberus Langarm">the Harry Potter: Wizards Unite Wiki!</a>
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-mom pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/b/b4/Cerberus_Langarm.png/revision/latest?cb=20161027051223" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/b/b4/Cerberus_Langarm.png/revision/latest/scale-to-width-down/350?cb=20161027051223" srcset="https://static.wikia.nocookie.net/harrypotter/images/b/b4/Cerberus_Langarm.png/revision/latest/scale-to-width-down/350?cb=20161027051223 1x, https://static.wikia.nocookie.net/harrypotter/images/b/b4/Cerberus_Langarm.png/revision/latest/scale-to-width-down/700?cb=20161027051223 2x" class="pi-image-thumbnail" alt="" width="270" height="352"
+		     data-image-key="Cerberus_Langarm.png" data-image-name="Cerberus Langarm.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Cerberus Langarm</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a><sup id="cite_ref-FBC_1-0" class="reference"><a href="#cite_note-FBC-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="title">
+	
+		<h3 class="pi-data-label pi-secondary-font">Title(s)</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Officer" class="mw-redirect" title="Officer">Officer</a><sup id="cite_ref-FBC_1-1" class="reference"><a href="#cite_note-FBC-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-FBC_1-2" class="reference"><a href="#cite_note-FBC-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male<sup id="cite_ref-FBC_1-3" class="reference"><a href="#cite_note-FBC-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Black<sup id="cite_ref-FBC_1-4" class="reference"><a href="#cite_note-FBC-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Dark green<sup id="cite_ref-FBC_1-5" class="reference"><a href="#cite_note-FBC-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Dark<sup id="cite_ref-FBC_1-6" class="reference"><a href="#cite_note-FBC-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Hit_Wizard" title="Hit Wizard">Hit Wizard</a> (formerly)</li><li><a href="/wiki/Auror" title="Auror">Auror</a></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">British Ministry of Magic</a><ul><li><a href="/wiki/Auror_Office" title="Auror Office">Auror Office</a></li><li><a href="/wiki/Department_of_Magical_Law_Enforcement" title="Department of Magical Law Enforcement">Department of Magical Law Enforcement</a></li><li><a href="/wiki/Statute_of_Secrecy_Task_Force" title="Statute of Secrecy Task Force">Statute of Secrecy Task Force</a></li></ul></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Officer</b> <b>Cerberus Langarm</b> was a <a href="/wiki/Great_Britain" title="Great Britain">British</a> <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> and an <a href="/wiki/Officer" class="mw-redirect" title="Officer">Officer</a> in the <a href="/wiki/Department_of_Magical_Law_Enforcement" title="Department of Magical Law Enforcement">Department of Magical Law Enforcement</a> at the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">Ministry of Magic</a> in <a href="/wiki/London" title="London">London</a>, where he worked as an <a href="/wiki/Auror" title="Auror">Auror</a><sup id="cite_ref-WU_2-0" class="reference"><a href="#cite_note-WU-2">&#91;2&#93;</a></sup> under the command of <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a>. Considered a 'celebrated' one, he took great pride in his position.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_life"><span class="tocnumber">1.1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Career_as_an_Auror"><span class="tocnumber">1.2</span> <span class="toctext">Career as an Auror</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Personality_and_traits"><span class="tocnumber">2</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Magical_abilities_and_skills"><span class="tocnumber">3</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Etymology"><span class="tocnumber">4</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Appearances"><span class="tocnumber">5</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Notes_and_references"><span class="tocnumber">6</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Cerberus_Langarm?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Cerberus_Langarm?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Cerberus_Langarm?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Early life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Cerberus_Langarm?action=edit&amp;section=2" title="Edit section: Early life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Born somewhere in the <a href="/wiki/Great_Britain" title="Great Britain">British Isles</a>, Cerberus Langarm was the scion of a family of unknown wizarding descent. Like nearly all other magical children born in the wizarding community of Great Britain, Cerberus presumably attended <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> A gifted student, he earned good marks on his exams, earning at least an 'Exceeds Expectations' mark in five of his <a href="/wiki/Ordinary_Wizarding_Level" title="Ordinary Wizarding Level">O.W.L.</a><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> examinations and graduating with similar results on his <a href="/wiki/Nastily_Exhausting_Wizarding_Test" title="Nastily Exhausting Wizarding Test">N.E.W.T.s</a>.<sup id="cite_ref-OOTP29_5-0" class="reference"><a href="#cite_note-OOTP29-5">&#91;5&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Career_as_an_Auror">Career as an Auror</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Cerberus_Langarm?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Career as an Auror">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Cerberus_Langarm?action=edit&amp;section=3" title="Edit section: Career as an Auror"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Sometime after his seventeenth birthday, Cerberus joined the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">Ministry of Magic</a> in <a href="/wiki/London" title="London">London</a>, where he worked as an <a href="/wiki/Officer" class="mw-redirect" title="Officer">Officer</a> in the <a href="/wiki/Magical_Law_Enforcement_Patrol" title="Magical Law Enforcement Patrol">Magical Law Enforcement Squad</a>. A fully trained <a href="/wiki/Hit_Wizard" title="Hit Wizard">Hit Wizard</a>,<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> he nevertheless had to resign himself to less dangerous assignments in between high-risk ones. As such, he was known to have been actively pursuing petty criminals such as <a href="/wiki/Silas_Crump" title="Silas Crump">Silas Crump</a>, making investigative inquiries and retrieving and examining evidence,<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> and do liaison work with other departments when necessary. For a time, he worked closely with the <a href="/wiki/Beast_Division" title="Beast Division">Beast Division</a> in the <a href="/wiki/Department_for_the_Regulation_and_Control_of_Magical_Creatures" title="Department for the Regulation and Control of Magical Creatures">Department for the Regulation and Control of Magical Creatures</a>, to whom he passed on intelligence regarding reports of creature-related incidents, examining evidence they found in the field as well as securing the area in which the <a href="/wiki/Beast" title="Beast">beast</a> in question was believed to be located in order to prevent further injuries.<sup id="cite_ref-FBC_1-7" class="reference"><a href="#cite_note-FBC-1">&#91;1&#93;</a></sup>
+</p><p>At some point in his career, Cerberus would go on to complete a stringent series of character and aptitude tests in order to be accepted into the comprehensive, three year long <a href="/wiki/Auror_training" title="Auror training">training programme</a> required to finalise his transfer to <a href="/wiki/Auror_Office" title="Auror Office">Auror Office</a>. Eventually, after serving as an&#160;Auror&#160;for some time and having fought&#160;<a href="/wiki/Dark_Wizard" title="Dark Wizard">Dark wizards</a> alongside among others <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a>, <a href="/wiki/Mordecai_Berrycloth" title="Mordecai Berrycloth">Mordecai Berrycloth</a>, <a href="/wiki/Dorian_Fungbury" title="Dorian Fungbury">Dorian Fungbury</a> and <a href="/wiki/Penelope_Fawley" title="Penelope Fawley">Penelope Fawley</a>, he became a quite well-respected one himself.<sup id="cite_ref-WU_2-1" class="reference"><a href="#cite_note-WU-2">&#91;2&#93;</a></sup> In <a href="/wiki/2019" title="2019">2019</a>, he hosted the <a href="/wiki/Forum_Quorum" title="Forum Quorum">Forum Quorum</a>, where his advice on the health benefits of proper rest before and after battle benefited <a href="/wiki/Magizoologist" title="Magizoologist">at least some</a> members of the <a href="/wiki/Statute_of_Secrecy_Task_Force" title="Statute of Secrecy Task Force">Statute of Secrecy Task Force</a> in attendance. He would also eventually hold a <a href="/wiki/Wilderness_Wards" title="Wilderness Wards">course</a> in self-defensive spellwork that would give them an advantage in the <a href="/wiki/Calamity" title="Calamity">field</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> He also was assigned with overseeing the <a href="/wiki/Resilience_Training" title="Resilience Training">Resilience Training</a> of Aurors-in-training.
+</p>
+<h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Cerberus_Langarm?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Personality and traits">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Cerberus_Langarm?action=edit&amp;section=4" title="Edit section: Personality and traits"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Known to take great pride in his position as an <a href="/wiki/Officer" class="mw-redirect" title="Officer">officer</a> of the <a href="/wiki/Department_of_Magical_Law_Enforcement" title="Department of Magical Law Enforcement">Department of Magical Law Enforcement</a>, Cerberus Langarm is a diligent, tough-minded individual, known to take his duties seriously and maintained an overall professional and largely courteous demeanour. Decisive in both thought and deed, he was above all else a man of action, often reaching for his wand to solve a problem rather than reason his way around it. One such example took place during his time working with the <a href="/wiki/Beast_Division" title="Beast Division">Beast Division</a>, whereupon Cerberus agreed to help to investigate the secret owlery of <a href="/wiki/Bilius_Finbok" title="Bilius Finbok">Bilius Finbok</a>, and was so quick to instinctively break down the door with <a href="/wiki/Portaberto" title="Portaberto">a spell</a> that he failed to realise that his co-workers had already <a href="/wiki/Unlocking_Charm" title="Unlocking Charm">unlocked it</a>.<sup id="cite_ref-FBC5_10-0" class="reference"><a href="#cite_note-FBC5-10">&#91;10&#93;</a></sup> He also had a somewhat old-fashioned and naive outlook on magical creatures, employing a "<a href="/wiki/Curse-to-kill" title="Curse-to-kill">curse-to-kill</a>" policy similar to the one for which the <a href="/wiki/Magical_Congress_of_the_United_States_of_America" title="Magical Congress of the United States of America">MACUSA</a> used to be well-known for back in the <a href="/wiki/1920s" title="1920s">1920s</a> when facing those he regarded as particularly dangerous.<sup id="cite_ref-FBC5_10-1" class="reference"><a href="#cite_note-FBC5-10">&#91;10&#93;</a></sup> He also possessed a dry wit, and was not immune to the finding of amusements at other people's expense, as seen when he delegated the task of going through the accounts ledger from <a href="/wiki/Slug_%26_Jiggers_Apothecary" title="Slug &amp; Jiggers Apothecary">Slug &amp; Jiggers Apothecary</a> in <a href="/wiki/Diagon_Alley" title="Diagon Alley">Diagon Alley</a> to Mathilda and her partner, telling her to "enjoy", despite the fact that he knew she was no more fond of paperwork than himself.<sup id="cite_ref-FBC5_10-2" class="reference"><a href="#cite_note-FBC5-10">&#91;10&#93;</a></sup> Proud to a fault, he was also embarrassed about some of his own shortcomings and hence, reluctant to acknowledge them in front of other people, such as his fear of snakes.<sup id="cite_ref-FBC5_10-3" class="reference"><a href="#cite_note-FBC5-10">&#91;10&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Cerberus_Langarm?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Cerberus_Langarm?action=edit&amp;section=5" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Highly skilled, incredibly well-trained and rather powerful, Cerberus Langarm was a very accomplished wizard, being more than proficient in both the theory of at least <a href="/wiki/Potion" title="Potion">Potions</a>, <a href="/wiki/Defence_Against_the_Dark_Arts" title="Defence Against the Dark Arts">Defence Against the Dark Arts</a>, <a href="/wiki/Transfiguration" title="Transfiguration">Transfiguration</a>, <a href="/wiki/Herbology" title="Herbology">Herbology</a>, and <a href="/wiki/Charm" title="Charm">Charms</a>,<sup id="cite_ref-OOTP29_5-1" class="reference"><a href="#cite_note-OOTP29-5">&#91;5&#93;</a></sup> as well as adept in the application of that knowledge.
+</p>
+<ul><li><b><a href="/wiki/Auror" title="Auror">Auror</a> skills: </b>As an official Dark Wizard catcher, Cerberus Langarm was a very capable investigator trained extensively as to become a well-respected expert in his line of work, and responsible for his fair share of captures and arrests of dangerous <a href="/wiki/Dark_Wizard" title="Dark Wizard">Dark Wizards</a> over the course of his career at the <a href="/wiki/Auror_Office" title="Auror Office">Auror Office</a>.</li>
+<li><b><a href="/wiki/Martial_magic" title="Martial magic">Martial magic</a></b>: As an Auror, Officer Langarm was an accomplished <a href="/wiki/Duelling" title="Duelling">duellist</a>, and had seen combat more than once in his time at the Ministry, and would go on to share his experiences with the Aurors-in-training working for the <a href="/wiki/Statute_of_Secrecy_Task_Force" title="Statute of Secrecy Task Force">Statute of Secrecy Task Force</a> in order to help them contain <a href="/wiki/Calamity" title="Calamity">The Calamity</a>.<sup id="cite_ref-WU_2-2" class="reference"><a href="#cite_note-WU-2">&#91;2&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Cerberus_Langarm?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Cerberus_Langarm?action=edit&amp;section=6" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>His first name is the Latin version of <a href="http://en.wikipedia.org/wiki/Cerberus" class="extiw" title="wikipedia:Cerberus">Kerberos</a> (<i>Κέρβερος</i>), the three-headed <a href="/wiki/Dog" title="Dog">dog</a> which in <a href="/wiki/Greece" title="Greece">Greek</a>&#160;legend guarded the entrance to Hades. His last name appear to be a pun on "long arm", as in the idiom <a target="_blank" rel="noreferrer noopener" class="external text" href="http://idioms.thefreedictionary.com/long+arm+of+the+law">long arm of the law</a>, used to refer to the police
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Cerberus_Langarm?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Cerberus_Langarm?action=edit&amp;section=7" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 2 images related to <i><b><a href="/wiki/Category:Images_of_Cerberus_Langarm" title="Category:Images of Cerberus Langarm">Cerberus Langarm</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<ul><li><i><a href="/wiki/Fantastic_Beasts:_Cases_from_the_Wizarding_World" title="Fantastic Beasts: Cases from the Wizarding World">Fantastic Beasts: Cases from the Wizarding World</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Cerberus_Langarm?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Cerberus_Langarm?action=edit&amp;section=8" title="Edit section: Notes and references

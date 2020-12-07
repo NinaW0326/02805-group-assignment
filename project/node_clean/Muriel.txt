@@ -1,0 +1,192 @@
+<div class="mw-parser-output"><table class="notice metadata" id="spoiler" style="text-align: center; background: beige; margin: 1em 05%; padding: 0 1em; border: #a00 1px solid;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/8/8c/Hogwarts_Mystery.jpeg/revision/latest?cb=20180504083359" class="image"><img alt="Hogwarts Mystery.jpeg" src="https://static.wikia.nocookie.net/harrypotter/images/8/8c/Hogwarts_Mystery.jpeg/revision/latest/scale-to-width-down/175?cb=20180504083359" decoding="async" width="175" height="77" data-image-name="Hogwarts Mystery.jpeg" data-image-key="Hogwarts_Mystery.jpeg" /></a>
+</td>
+<td><b>Warning!</b>
+<p>At least some content in this article is derived from information featured in <i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i>. Spoilers will be present within the article.
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/2/26/Aunt_Muriel.jpg/revision/latest?cb=20101023105136" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/2/26/Aunt_Muriel.jpg/revision/latest/scale-to-width-down/350?cb=20101023105136" srcset="https://static.wikia.nocookie.net/harrypotter/images/2/26/Aunt_Muriel.jpg/revision/latest/scale-to-width-down/350?cb=20101023105136 1x, https://static.wikia.nocookie.net/harrypotter/images/2/26/Aunt_Muriel.jpg/revision/latest/scale-to-width-down/699?cb=20101023105136 2x" class="pi-image-thumbnail" alt="" width="270" height="378"
+		     data-image-key="Tumblr_laprunzs6E1qc3fxzo1_1280.jpg" data-image-name="Tumblr laprunzs6E1qc3fxzo1 1280.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Muriel</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">Between <a href="/wiki/2_August" title="2 August">2 August</a>, <a href="/wiki/1889" class="mw-redirect" title="1889">1889</a> and <a href="/wiki/31_July" title="31 July">31 July</a>, <a href="/wiki/1890" class="mw-redirect" title="1890">1890</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Pure-blood" title="Pure-blood">Pure-blood</a> or <a href="/wiki/Half-blood" title="Half-blood">Half-blood</a><sup id="cite_ref-blood_2-0" class="reference"><a href="#cite_note-blood-2">&#91;2&#93;</a></sup><sup id="cite_ref-mb_3-0" class="reference"><a href="#cite_note-mb-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/England" title="England">English</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>White</li><li>Red (possibly, formally)<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Light</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Muriel%27s_mother" title="Muriel&#039;s mother">Mother</a></li><li><a href="/wiki/Molly_Weasley%27s_father" title="Molly Weasley&#039;s father">Mr Prewett</a> (nephew or nephew-in-law)<sup id="cite_ref-PM_5-0" class="reference"><a href="#cite_note-PM-5">&#91;5&#93;</a></sup><sup id="cite_ref-dh4_6-0" class="reference"><a href="#cite_note-dh4-6">&#91;6&#93;</a></sup></li><li><a href="/wiki/Molly_Weasley%27s_mother" title="Molly Weasley&#039;s mother">Mrs Prewett</a> (niece or niece-in-law)<sup id="cite_ref-dh4_6-1" class="reference"><a href="#cite_note-dh4-6">&#91;6&#93;</a></sup></li><li><a href="/wiki/Fabian_Prewett" title="Fabian Prewett">Fabian Prewett</a> (great-nephew<sup id="cite_ref-PM_5-1" class="reference"><a href="#cite_note-PM-5">&#91;5&#93;</a></sup>) †</li><li><a href="/wiki/Gideon_Prewett" title="Gideon Prewett">Gideon Prewett</a> (great-nephew<sup id="cite_ref-PM_5-2" class="reference"><a href="#cite_note-PM-5">&#91;5&#93;</a></sup>) †</li><li><a href="/wiki/Molly_Weasley" title="Molly Weasley">Molly Prewett</a> (great-niece<sup id="cite_ref-PM_5-3" class="reference"><a href="#cite_note-PM-5">&#91;5&#93;</a></sup>)</li><li><a href="/wiki/Lancelot_(Healer)" title="Lancelot (Healer)">Lancelot</a> (cousin)</li><li><a href="/wiki/Tessie" title="Tessie">Tessie</a> (possible niece)</li><li><a href="/wiki/Ignatius_Prewett" title="Ignatius Prewett">Ignatius Prewett</a> (possible nephew)</li><li><a href="/wiki/Lucretia_Black" title="Lucretia Black">Lucretia Black</a> (possible niece-in-law)</li><li><a href="/wiki/Weasley_family" title="Weasley family">Weasley family</a></li><li><a href="/wiki/Prewett_family" title="Prewett family">Prewett family</a></li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Order_of_the_Phoenix" title="Order of the Phoenix">Order of the Phoenix</a> (indirectly)</li><li><a href="/wiki/Prewett_family" title="Prewett family">Prewett family</a></li><li><a href="/wiki/Weasley_family" title="Weasley family">Weasley family</a></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Deathly Hallows">"<i>Nightmare, Muriel is.</i>"</span></dd>
+<dd>&#8212;<a href="/wiki/Ronald_Weasley" title="Ronald Weasley">Ron Weasley</a>, describing Muriel's unpleasantness<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Muriel</b> (born c. <a href="/wiki/1890" class="mw-redirect" title="1890">1890</a>) was an <a href="/wiki/England" title="England">English</a> <a href="/wiki/Pure-blood" title="Pure-blood">pure</a> or <a href="/wiki/Half-blood" title="Half-blood">half-blood</a><sup id="cite_ref-blood_2-1" class="reference"><a href="#cite_note-blood-2">&#91;2&#93;</a></sup> <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> and the great-aunt<sup id="cite_ref-PM_5-4" class="reference"><a href="#cite_note-PM-5">&#91;5&#93;</a></sup> of <a href="/wiki/Molly_Weasley" title="Molly Weasley">Molly Weasley (née Prewett)</a>.<sup id="cite_ref-dh4_6-2" class="reference"><a href="#cite_note-dh4-6">&#91;6&#93;</a></sup> Thus, the abrasive, gossip-loving centenarian was a great-great aunt of the <a href="/wiki/Weasley_family#Molly_and_Arthur_Weasley.27s_Family" title="Weasley family">Weasley children</a>, much to their dismay.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_life_.28late_1800s-1899.29"><span class="tocnumber">1.1</span> <span class="toctext">Early life <span>(late 1800s-1899)</span></span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Second_Wizarding_War_.281997-1998.29"><span class="tocnumber">1.2</span> <span class="toctext">Second Wizarding War <span>(1997-1998)</span></span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Physical_appearance"><span class="tocnumber">2</span> <span class="toctext">Physical appearance</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Personality_and_traits"><span class="tocnumber">3</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Relationships"><span class="tocnumber">4</span> <span class="toctext">Relationships</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Weasley_family"><span class="tocnumber">4.1</span> <span class="toctext">Weasley family</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Etymology"><span class="tocnumber">5</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Behind_the_scenes"><span class="tocnumber">6</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Appearances"><span class="tocnumber">7</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Notes_and_references"><span class="tocnumber">8</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Muriel?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Muriel?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="Early_life_(late_1800s-1899)"></span><span class="mw-headline" id="Early_life_.28late_1800s-1899.29">Early life <span class="template-c">(late 1800s-1899)</span></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Muriel?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Early life (late 1800s-1899)">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Muriel?action=edit&amp;section=2" title="Edit section: Early life (late 1800s-1899)"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Muriel was born sometime between <a href="/wiki/31_July" title="31 July">31 July</a>, <a href="/wiki/1889" class="mw-redirect" title="1889">1889</a> and <a href="/wiki/2_August" title="2 August">2 August</a>, <a href="/wiki/1890" class="mw-redirect" title="1890">1890</a> to <a href="/wiki/Muriel%27s_mother" title="Muriel&#39;s mother">a woman</a> who was good friends with <a href="/wiki/Bathilda_Bagshot" title="Bathilda Bagshot">Bathilda Bagshot</a>. Her surname is unknown. It may be <a href="/wiki/Prewett_family" title="Prewett family">Prewett</a>, but only if she is related to <a href="/wiki/Molly_Weasley" title="Molly Weasley">Molly</a> on her father's side.
+</p><p>During her youth, Muriel eavesdropped on a conversation between her <a href="/wiki/Muriel%27s_mother" title="Muriel&#39;s mother">mother</a> and <a href="/wiki/Bathilda_Bagshot" title="Bathilda Bagshot">Bathilda Bagshot</a>, listening in secretly from behind a door. She learned that the <a href="/wiki/Dumbledore_family" title="Dumbledore family">Dumbledore</a> brothers had an altercation at their sister Ariana's funeral.<sup id="cite_ref-dh8_7-0" class="reference"><a href="#cite_note-dh8-7">&#91;7&#93;</a></sup>
+</p>
+<h3><span id="Second_Wizarding_War_(1997-1998)"></span><span class="mw-headline" id="Second_Wizarding_War_.281997-1998.29">Second Wizarding War <span class="template-c">(1997-1998)</span></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Muriel?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Second Wizarding War (1997-1998)">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Muriel?action=edit&amp;section=3" title="Edit section: Second Wizarding War (1997-1998)"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Deathly Hallows">"<i>...and your hair's much too long, Ronald, for a moment I thought you were <a href="/wiki/Ginevra_Weasley" title="Ginevra Weasley">Ginevra</a>. Merlin's beard, what is <a href="/wiki/Xenophilius_Lovegood" title="Xenophilius Lovegood">Xenophilius Lovegood</a> wearing? He looks like an omelette... Isn't <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> here? I was hoping to meet him. I thought he was a friend of yours, Ronald, or have you merely been boasting?</i>"</span></dd>
+<dd>&#8212;Muriel's unpleasant demeanour<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">[src]</a></sup></dd>
+<dd></dd></dl></div><p>Muriel allowed the <a href="/wiki/Order_of_the_Phoenix" title="Order of the Phoenix">Order of the Phoenix</a> to use her <a href="/wiki/Muriel%27s_house" title="Muriel&#39;s house">home</a> as a safe house during the <a href="/wiki/Second_Wizarding_War" title="Second Wizarding War">Second Wizarding War</a>.<sup id="cite_ref-dh4_6-3" class="reference"><a href="#cite_note-dh4-6">&#91;6&#93;</a></sup> In the <a href="/wiki/Battle_of_the_Seven_Potters" title="Battle of the Seven Potters">Battle of the Seven Potters</a> on <a href="/wiki/27_July" title="27 July">27 July</a>, <a href="/wiki/1997" title="1997">1997</a>, this house was the planned destination for <a href="/wiki/Nymphadora_Tonks" title="Nymphadora Tonks">Tonks</a> and <a href="/wiki/Ronald_Weasley" title="Ronald Weasley">Ron Weasley</a>.<sup id="cite_ref-dh5_8-0" class="reference"><a href="#cite_note-dh5-8">&#91;8&#93;</a></sup> Muriel attended to the pair upon their arrival there.<sup id="cite_ref-dh5_8-1" class="reference"><a href="#cite_note-dh5-8">&#91;8&#93;</a></sup>
+</p><p>Muriel owned a <a href="/wiki/Goblin" title="Goblin">goblin</a>-made <a href="/wiki/Muriel%27s_tiara" title="Muriel&#39;s tiara">tiara</a> which she claimed had been in her family for centuries.<sup id="cite_ref-dh8_7-1" class="reference"><a href="#cite_note-dh8-7">&#91;7&#93;</a></sup> After being persuaded by her great-niece, <a href="/wiki/Molly_Weasley" title="Molly Weasley">Molly Weasley</a>,<sup id="cite_ref-hbp29_9-0" class="reference"><a href="#cite_note-hbp29-9">&#91;9&#93;</a></sup> she lent the tiara to <a href="/wiki/Fleur_Delacour" title="Fleur Delacour">Fleur Delacour</a>, who wore it at her wedding to Molly's son, <a href="/wiki/William_Weasley" title="William Weasley">Bill</a>.<sup id="cite_ref-dh8_7-2" class="reference"><a href="#cite_note-dh8-7">&#91;7&#93;</a></sup>
+</p>
+<figure class="thumb tleft show-info-icon" style="width: 254px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/7/7b/HarryMurielDoge1.jpg/revision/latest?cb=20180531210224" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/7/7b/HarryMurielDoge1.jpg/revision/latest/scale-to-width-down/252?cb=20180531210224" decoding="async" width="252" height="104" class="thumbimage" data-image-name="HarryMurielDoge1.jpg" data-image-key="HarryMurielDoge1.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:HarryMurielDoge1.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Harry Potter, Elphias Doge and Muriel sitting at Bill and Fleur's wedding in 1997</p> 		 	</figcaption> </figure>
+<p>Muriel was invited to the <a href="/wiki/Wedding_of_William_Weasley_and_Fleur_Delacour" title="Wedding of William Weasley and Fleur Delacour">wedding</a>, but was a rather unpleasant presence, drinking copious amounts of <a href="/wiki/Champagne" title="Champagne">champagne</a> and belittling the other guests.<sup id="cite_ref-dh8_7-3" class="reference"><a href="#cite_note-dh8-7">&#91;7&#93;</a></sup> At the wedding, she also interrupted a conversation <a href="/wiki/Elphias_Doge" title="Elphias Doge">Elphias Doge</a> and <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> (disguised as "Barny Weasley") were having about <a href="/wiki/Albus_Dumbledore" title="Albus Dumbledore">Albus Dumbledore</a>, which she had overheard as she was walking past. Muriel and Doge proceeded to have a heated argument regarding Dumbledore. Doge, being a childhood friend of Albus, defended him passionately, while Muriel accused Albus based on evidence supplied by <a href="/wiki/Rita_Skeeter" title="Rita Skeeter">Rita Skeeter</a>'s new book, <i><a href="/wiki/The_Life_and_Lies_of_Albus_Dumbledore" title="The Life and Lies of Albus Dumbledore">The Life and Lies of Albus Dumbledore</a></i> and what she had heard <a href="/wiki/Bathilda_Bagshot" title="Bathilda Bagshot">Bathilda Bagshot</a> tell her <a href="/wiki/Muriel%27s_mother" title="Muriel&#39;s mother">mother</a>.<sup id="cite_ref-dh8_7-4" class="reference"><a href="#cite_note-dh8-7">&#91;7&#93;</a></sup>
+</p>
+<figure class="thumb tright show-info-icon" style="width: 253px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/d/dc/Wedding_of_William_Weasley_and_Fleur_Delacour.jpg/revision/latest?cb=20161216052837" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/d/dc/Wedding_of_William_Weasley_and_Fleur_Delacour.jpg/revision/latest/scale-to-width-down/251?cb=20161216052837" decoding="async" width="251" height="98" class="thumbimage" data-image-name="Wedding of William Weasley and Fleur Delacour.jpg" data-image-key="Wedding_of_William_Weasley_and_Fleur_Delacour.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Wedding_of_William_Weasley_and_Fleur_Delacour.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Muriel (bottom right) attending Bill and Fleur's wedding</p> 		 	</figcaption> </figure>
+<p>In early <a href="/wiki/1998" title="1998">1998</a>, Muriel allowed most of the <a href="/wiki/Weasley_family" title="Weasley family">Weasley family</a> to take refuge in her house, as they had become targets of the <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a>.<sup id="cite_ref-dh24_10-0" class="reference"><a href="#cite_note-dh24-10">&#91;10&#93;</a></sup> <a href="/wiki/Fred_and_George_Weasley" title="Fred and George Weasley">Fred and George Weasley</a>, unable to run their <a href="/wiki/Weasleys%27_Wizard_Wheezes" title="Weasleys&#39; Wizard Wheezes">shop</a> in <a href="/wiki/Diagon_Alley" title="Diagon Alley">Diagon Alley</a>, began selling their products by owl out of Muriel's back room, much to her chagrin.<sup id="cite_ref-dh25_11-0" class="reference"><a href="#cite_note-dh25-11">&#91;11&#93;</a></sup> She also took in <a href="/wiki/Garrick_Ollivander" title="Garrick Ollivander">Garrick Ollivander</a>, who returned the tiara to her, at <a href="/wiki/Fleur_Delacour" title="Fleur Delacour">Fleur</a>'s request.<sup id="cite_ref-dh25_11-1" class="reference"><a href="#cite_note-dh25-11">&#91;11&#93;</a></sup> She also may have owned Shell Cottage before Bill and Fleur.&#160;
+</p>
+<h2><span class="mw-headline" id="Physical_appearance">Physical appearance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Muriel?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Physical appearance">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Muriel?action=edit&amp;section=4" title="Edit section: Physical appearance"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>At age one hundred and seven, Muriel had a beaky nose, red-rimmed, bloodshot eyes, and bony fingers. She wore a feathery pink hat that was described as giving her the appearance of a "bad-tempered flamingo."<sup id="cite_ref-dh8_7-5" class="reference"><a href="#cite_note-dh8-7">&#91;7&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Muriel?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Personality and traits">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Muriel?action=edit&amp;section=5" title="Edit section: Personality and traits"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Deathly Hallows"><b>Ron Weasley</b>: "<i>Wow. You look great!</i>"</span></dd>
+<dd><b>Hermione Granger</b>: "<i>Your Great-Aunt Muriel doesn't agree. I just met her upstairs while she was giving Fleur the <a href="/wiki/Muriel%27s_tiara" title="Muriel&#39;s tiara">tiara</a>. She said, ‘Oh dear, is this the Muggle-born?' and then, ‘Bad posture and skinny ankles'.</i>"</dd>
+<dd><b>Ron Weasley</b>: "<i>Don't take it personally, she's rude to everyone.</i>"</dd>
+<dd>&#8212; <a href="/wiki/Ronald_Weasley" title="Ronald Weasley">Ron Weasley</a> and <a href="/wiki/Hermione_Granger" title="Hermione Granger">Hermione Granger</a> in <a href="/wiki/1997" title="1997">1997</a><sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">[src]</a></sup></dd></dl>
+</div><p>Muriel was a loud, ill-mannered, and extremely rude woman who seemed to find fault with everything and everyone. When she insulted <a href="/wiki/Hermione_Granger" title="Hermione Granger">Hermione Granger</a> in 1997, Ron urged her not to take it personally, since Muriel was rude to everybody. Among her other insulting remarks were that <a href="/wiki/Xenophilius_Lovegood" title="Xenophilius Lovegood">Xenophilius Lovegood</a> looked "like an omelette" in his yellow robes, that Ron's long hair made him nearly indistinguishable from his sister, that George's ears were "lopsided" after his right ear had been magically cut off, and that <a href="/wiki/Ginevra_Weasley" title="Ginevra Weasley">Ginny</a>'s dress was "far too low cut." She also seemed slightly disdainful of Hermione's <a href="/wiki/Muggle-born" title="Muggle-born">Muggle-born</a> status<sup id="cite_ref-mb_3-1" class="reference"><a href="#cite_note-mb-3">&#91;3&#93;</a></sup> and of <a href="/wiki/Fleur_Delacour" title="Fleur Delacour">Fleur</a> being <a href="/wiki/France" title="France">French</a>.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup> Muriel liked to use her advanced age as a justification for her impolite actions, in spite of the fact that she seemed quite strong for her age.<sup id="cite_ref-dh8_7-6" class="reference"><a href="#cite_note-dh8-7">&#91;7&#93;</a></sup>
+</p><p>Muriel enjoyed gossip and was a fan of <a href="/wiki/Rita_Skeeter" title="Rita Skeeter">Rita Skeeter</a>, stating that she "always" read Rita's work, and that she was eager to pre-order a copy of her book <i><a href="/wiki/The_Life_and_Lies_of_Albus_Dumbledore" title="The Life and Lies of Albus Dumbledore">The Life and Lies of Albus Dumbledore</a>.</i><sup id="cite_ref-dh8_7-7" class="reference"><a href="#cite_note-dh8-7">&#91;7&#93;</a></sup>
+</p><p>Despite her rude behaviour, Muriel did have a soft side, as she lent her goblin-forged tiara to Fleur for her wedding with Bill and, more importantly, when the Weasley family was in danger of being arrested by Death Eaters, allowed them to hide in her home.
+</p>
+<h2><span class="mw-headline" id="Relationships">Relationships</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Muriel?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Relationships">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Muriel?action=edit&amp;section=6" title="Edit section: Relationships"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Weasley_family">Weasley family</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Muriel?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Weasley family">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Muriel?action=edit&amp;section=7" title="Edit section: Weasley family"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="thumb tright show-info-icon" style="width: 232px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/5/50/Weasley_Wizarding_Vacation_in_Egypt.png/revision/latest?cb=20170104011643" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="230" height="153" class="thumbimage lazyload" data-image-name="Weasley Wizarding Vacation in Egypt.png" data-image-key="Weasley_Wizarding_Vacation_in_Egypt.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/5/50/Weasley_Wizarding_Vacation_in_Egypt.png/revision/latest/scale-to-width-down/230?cb=20170104011643" /></a> 	<noscript><a href="https://static.wikia.nocookie.net/harrypotter/images/5/50/Weasley_Wizarding_Vacation_in_Egypt.png/revision/latest?cb=20170104011643" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/5/50/Weasley_Wizarding_Vacation_in_Egypt.png/revision/latest/scale-to-width-down/230?cb=20170104011643" decoding="async" width="230" height="153" class="thumbimage" data-image-name="Weasley Wizarding Vacation in Egypt.png" data-image-key="Weasley_Wizarding_Vacation_in_Egypt.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/5/50/Weasley_Wizarding_Vacation_in_Egypt.png/revision/latest/scale-to-width-down/230?cb=20170104011643" /></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Weasley_Wizarding_Vacation_in_Egypt.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">The Weasley family in Egypt in the summer</p> 		 	</figcaption> </figure>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Deathly Hallows">"<i>Another Weasley? You breed like <a href="/wiki/Gnome" title="Gnome">gnomes</a>.</i>"</span></dd>
+<dd>&#8212;Muriel upon her introduction to "<a href="/wiki/Harry_Potter" title="Harry Potter">Barny Weasley</a>"<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p>Muriel was not fond of her great-<a href="/wiki/Molly_Weasley" title="Molly Weasley">niece</a>'s family, the <a href="/wiki/Weasley_family" title="Weasley family">Weasleys</a>, but nonetheless opened her home to them when they were in danger. She came to <a href="/wiki/The_Burrow" title="The Burrow">the Burrow</a> for dinner every Christmas until <a href="/wiki/Fred_and_George_Weasley" title="Fred and George Weasley">Fred and George</a> set off a <a href="/wiki/Dungbomb" title="Dungbomb">Dungbomb</a> under her chair. She likely wrote them both out of her will for this stunt.<sup id="cite_ref-dh8_7-8" class="reference"><a href="#cite_note-dh8-7">&#91;7&#93;</a></sup> According to Molly Weasley, however, Muriel had a soft spot for <a href="/wiki/William_Weasley" title="William Weasley">Bill</a>.<sup id="cite_ref-hbp29_9-1" class="reference"><a href="#cite_note-hbp29-9">&#91;9&#93;</a></sup> It seems she had a distant relationship with Ron and Ginny, as she seemed to insult Ron, and only called Ginny by her given name, rather than her preferred name. She also disapproved of her great-great niece's dress at the wedding, thinking it was inappropriate.
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Muriel?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Muriel?action=edit&amp;section=8" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The name "Muriel" is the Medieval English form of a Celtic name which was probably related to the Irish name Muirgel. It was brought to England from Brittany by the Normans. In the modern era, it was popularised by a character from Dinah Craik's novel, <i>John Halifax, Gentleman </i>(1856). It is also of Gaelic origin.
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Muriel?veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Muriel?action=edit&amp;section=9" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Muriel was played by <a href="/wiki/Matyelok_Gibbs" title="Matyelok Gibbs">Matyelok Gibbs</a> in the <a href="/wiki/Harry_Potter_and_the_Deathly_Hallows_(film)" title="Harry Potter and the Deathly Hallows (film)">film adaptations</a> of <i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">Harry Potter and the Deathly Hallows</a></i>.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup></li>
+<li>In <i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1" title="Harry Potter and the Deathly Hallows: Part 1">Harry Potter and the Deathly Hallows: Part 1</a></i>, Muriel's scene is much smaller than in the book, and it is not introduced as to who she is.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Muriel?veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Muriel?action=edit&amp;section=10" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" class="lazyload" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 5 images related to <i><b><a href="/wiki/Category:Images_of_Muriel" title="Category:Images of Muriel">Muriel</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">Harry Potter and the Half-Blood Prince</a></i> <small>(First mentioned)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">Harry Potter and the Deathly Hallows</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1" title="Harry Potter and the Deathly Hallows: Part 1">Harry Potter and the Deathly Hallows: Part 1</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1_(video_game)" title="Harry Potter and the Deathly Hallows: Part 1 (video game)">Harry Potter and the Deathly Hallows: Part 1 (video game)</a></i> <span class="template-c">(Voice and mention only)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_2" title="Harry Potter and the Deathly Hallows: Part 2">Harry Potter and the Deathly Hallows: Part 2</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i></li>
+<li><i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i> <small>(Mentioned only)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Muriel?veaction=edit&amp;section=11" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Muriel?action=edit&amp;section=11" title="Edit section: Notes and references

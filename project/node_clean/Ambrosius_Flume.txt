@@ -1,0 +1,164 @@
+<div class="mw-parser-output"><table class="notice metadata" id="spoiler" style="text-align: center; background: beige; margin: 1em 05%; padding: 0 1em; border: #a00 1px solid;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/0/0c/Hand_pointing_right_transparent.png/revision/latest?cb=20181112005815" class="image"><img alt="Hand pointing right transparent.png" src="https://static.wikia.nocookie.net/harrypotter/images/0/0c/Hand_pointing_right_transparent.png/revision/latest/scale-to-width-down/150?cb=20181112005815" decoding="async" width="150" height="75" data-image-name="Hand pointing right transparent.png" data-image-key="Hand_pointing_right_transparent.png" /></a>
+</td>
+<td><b>Warning!</b>
+<p>At least some content in this article is derived from information featured in <i><a href="/wiki/Harry_Potter:_Puzzles_%26_Spells" title="Harry Potter: Puzzles &amp; Spells">Harry Potter: Puzzles &amp; Spells</a></i>&#32; and <i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i>.<br />As such, spoilers will be present within the article.
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/2/2c/Ambrosius_Flume.jpg/revision/latest?cb=20091105224450" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/2/2c/Ambrosius_Flume.jpg/revision/latest/scale-to-width-down/312?cb=20091105224450" srcset="https://static.wikia.nocookie.net/harrypotter/images/2/2c/Ambrosius_Flume.jpg/revision/latest/scale-to-width-down/312?cb=20091105224450 1x, https://static.wikia.nocookie.net/harrypotter/images/2/2c/Ambrosius_Flume.jpg/revision/latest/scale-to-width-down/624?cb=20091105224450 2x" class="pi-image-thumbnail" alt="" width="270" height="405"
+		     data-image-key="Ambrosius_Flume.jpg" data-image-name="Ambrosius Flume.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Ambrosius Flume</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">between <a href="/wiki/1914" title="1914">1914</a> and   <a href="/wiki/1970" title="1970">1970</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="marital">
+	
+		<h3 class="pi-data-label pi-secondary-font">Marital status</h3>
+	
+	<div class="pi-data-value pi-font">Married</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a> or <a href="/wiki/Ireland" title="Ireland">Irish</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Bald<sup id="cite_ref-PA10_3-0" class="reference"><a href="#cite_note-PA10-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Ambrosius_Flume%27s_wife" title="Ambrosius Flume&#039;s wife">Mrs Flume</a> (wife)</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Co-owner of <a href="/wiki/Honeydukes" title="Honeydukes">Honeydukes</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a></li><li><a href="/wiki/Slug_Club" title="Slug Club">Slug Club</a></li><li><a href="/wiki/Honeydukes" title="Honeydukes">Honeydukes</a></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Ambrosius Flume</b> was a <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> who, by the <a href="/wiki/1990s" title="1990s">1990s</a>, ran <a href="/wiki/Honeydukes" title="Honeydukes">Honeydukes Sweetshop</a> in <a href="/wiki/Hogsmeade" title="Hogsmeade">Hogsmeade</a>, a very popular shop among Hogwarts students during the <a href="/wiki/Hogsmeade_weekend_trips" title="Hogsmeade weekend trips">school's weekend trips</a> to <a href="/wiki/Hogsmeade" title="Hogsmeade">the village</a>, with <a href="/wiki/Ambrosius_Flume%27s_wife" title="Ambrosius Flume&#39;s wife">his wife</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_life"><span class="tocnumber">1.1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Employment"><span class="tocnumber">1.2</span> <span class="toctext">Employment</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Marriage_and_Honeydukes"><span class="tocnumber">1.3</span> <span class="toctext">Marriage and Honeydukes</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Battle_of_Hogwarts"><span class="tocnumber">1.4</span> <span class="toctext">Battle of Hogwarts</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Etymology"><span class="tocnumber">2</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Behind_the_scenes"><span class="tocnumber">3</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Appearances"><span class="tocnumber">4</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Notes_and_references"><span class="tocnumber">5</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Ambrosius_Flume?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Ambrosius_Flume?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Ambrosius_Flume?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Early life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Ambrosius_Flume?action=edit&amp;section=2" title="Edit section: Early life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Ambrosius Flume attended <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School</a> in his youth and was taught <a href="/wiki/Potions_(class)" title="Potions (class)">Potions</a> by <a href="/wiki/Horace_Slughorn" title="Horace Slughorn">Horace Slughorn</a>. Ambrosius became a member of the <a href="/wiki/Slug_Club" title="Slug Club">Slug Club</a>.<sup id="cite_ref-HBP4_4-0" class="reference"><a href="#cite_note-HBP4-4">&#91;4&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Employment">Employment</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Ambrosius_Flume?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Employment">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Ambrosius_Flume?action=edit&amp;section=3" title="Edit section: Employment"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>As he was a member of the <a href="/wiki/Slug_Club" title="Slug Club">Slug Club</a>, <a href="/wiki/Horace_Slughorn" title="Horace Slughorn">Horace Slughorn</a> introduced Ambrosius to <a href="/wiki/Ciceron_Harkiss" title="Ciceron Harkiss">Ciceron Harkiss</a> and thus had him employed. As repayment for Horace's kindness, Flume sent a hamper of Slughorn's favourite sweets (<a href="/wiki/Crystallised_Pineapple" title="Crystallised Pineapple">Crystallised pineapple</a>) to him annually on his birthday.<sup id="cite_ref-HBP4_4-1" class="reference"><a href="#cite_note-HBP4-4">&#91;4&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Marriage_and_Honeydukes">Marriage and Honeydukes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Ambrosius_Flume?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Marriage and Honeydukes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Ambrosius_Flume?action=edit&amp;section=4" title="Edit section: Marriage and Honeydukes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>At some point in his life, Ambrosius married <a href="/wiki/Ambrosius_Flume%27s_wife" title="Ambrosius Flume&#39;s wife">Mrs Flume</a>.<sup id="cite_ref-HBP4_4-2" class="reference"><a href="#cite_note-HBP4-4">&#91;4&#93;</a></sup> By <a href="/wiki/1993" title="1993">1993</a>, the couple lived in a flat above <a href="/wiki/Honeydukes" title="Honeydukes">Honeydukes Sweetshop</a> and together ran said shop. In <a href="/wiki/1993" title="1993">1993</a>, during one of the weekend trips to Hogsmeade, <a href="/wiki/Ambrosius_Flume%27s_wife" title="Ambrosius Flume&#39;s wife">Mrs Flume</a> asked Ambrosius to get some <a href="/wiki/Jelly_Slug" title="Jelly Slug">Jelly Slugs</a>, as the shop was filled with Hogwarts students.<sup id="cite_ref-PA10_3-1" class="reference"><a href="#cite_note-PA10-3">&#91;3&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Battle_of_Hogwarts">Battle of Hogwarts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Ambrosius_Flume?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Battle of Hogwarts">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Ambrosius_Flume?action=edit&amp;section=5" title="Edit section: Battle of Hogwarts"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>It is most likely that as a former Hogwarts student Ambrosius participated in the <a href="/wiki/Battle_of_Hogwarts" title="Battle of Hogwarts">Battle of Hogwarts</a> alongside his <a href="/wiki/Ambrosius_Flume%27s_wife" title="Ambrosius Flume&#39;s wife">wife</a>, and fellow <a href="/wiki/Hogsmeade" title="Hogsmeade">Hogsmeade</a> residents <a href="/wiki/Aberforth_Dumbledore" title="Aberforth Dumbledore">Aberforth Dumbledore</a>, <a href="/wiki/Rosmerta" title="Rosmerta">Madam Rosmerta</a> and <a href="/wiki/Puddifoot" title="Puddifoot">Madam Puddifoot</a>.
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Ambrosius_Flume?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Ambrosius_Flume?action=edit&amp;section=6" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i>Ambrosius</i> comes from the Greek word "ambrosia" meaning food or drink of the deities. It is also referred as nectar, which is sweet and bestows immortality. A flume is an artificial channel for the flow of <a href="/wiki/Water" title="Water">water</a>.
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Ambrosius_Flume?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Ambrosius_Flume?action=edit&amp;section=7" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Flume may have been the one who told <a href="/wiki/Tom_Riddle" title="Tom Riddle">Tom Riddle</a> that <a href="/wiki/Horace_Slughorn" title="Horace Slughorn">Horace Slughorn</a> was quite fond of <a href="/wiki/Crystallised_Pineapple" title="Crystallised Pineapple">Crystallised Pineapple</a>. Tom used this sweet as a casual bribe the night he asked Slughorn on the method and effects of creating <a href="/wiki/Horcrux" title="Horcrux">Horcruxes</a>.</li>
+<li>It is possible, as he was a former <a href="/wiki/Slug_Club" title="Slug Club">Slug Club</a> member, that he attended the <a href="/wiki/Slug_Club_Christmas_party" title="Slug Club Christmas party">Christmas party</a> in <a href="/wiki/1996" title="1996">1996</a>.</li>
+<li>On the <a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince_(film)" title="Harry Potter and the Half-Blood Prince (film)">film adaptation</a> of <i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">Harry Potter and the Half-Blood Prince</a></i> Ambrosius only appears in a flashback on disc 2 from <i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(film)" title="Harry Potter and the Prisoner of Azkaban (film)">Harry Potter and the Prisoner of Azkaban (film)</a></i> and is mentioned on the original script.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+<ul><li>Also in the novel Slughorn said that Ambrosius sent a hamper of his favourite sweets, which were <a href="/wiki/Crystallised_Pineapple" title="Crystallised Pineapple">Crystallised Pineapple</a>, every birthday, while on the original script from the film Slughorn said that Ambrosius sent him a hamper of chocolate each birthday. This is possibly why it was cut from the film, as it contradicts the novel and would totally ruin later events, such as Slughorn's memory about the <a href="/wiki/Slug_Club" title="Slug Club">Slug Club</a> dinner with <a href="/wiki/Tom_Riddle" title="Tom Riddle">Tom Riddle</a>, in which Tom gave Slughorn crystallised pineapple.</li></ul></li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Ambrosius_Flume?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Ambrosius_Flume?action=edit&amp;section=8" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban" title="Harry Potter and the Prisoner of Azkaban">Harry Potter and the Prisoner of Azkaban</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(film)" title="Harry Potter and the Prisoner of Azkaban (film)">Harry Potter and the Prisoner of Azkaban (film)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">Harry Potter and the Half-Blood Prince</a></i> <small>(First identified as Ambrosius Flume)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince_(film)" title="Harry Potter and the Half-Blood Prince (film)">Harry Potter and the Half-Blood Prince (film)</a></i> <span class="template-c">(Mentioned on script only)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">Harry Potter and the Deathly Hallows</a></i></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter:_Years_1-4" title="LEGO Harry Potter: Years 1-4">LEGO Harry Potter: Years 1-4</a></i> <span class="template-c">(Mentioned only in DS version)</span></li>
+<li><i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Harry_Potter:_Puzzles_%26_Spells" title="Harry Potter: Puzzles &amp; Spells">Harry Potter: Puzzles &amp; Spells</a></i> <small>(Mentioned only)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Ambrosius_Flume?veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Ambrosius_Flume?action=edit&amp;section=9" title="Edit section: Notes and references

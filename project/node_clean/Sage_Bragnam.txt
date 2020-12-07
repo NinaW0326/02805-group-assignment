@@ -1,0 +1,157 @@
+<div class="mw-parser-output"><table class="notice metadata" id="spoiler" style="text-align: center; background: beige; margin: 1em 05%; padding: 0 1em; border: #a00 1px solid;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/e/ea/Wizards_Unite_logo.jpg/revision/latest?cb=20181114170049" class="image"><img alt="Wizards Unite logo.jpg" src="https://static.wikia.nocookie.net/harrypotter/images/e/ea/Wizards_Unite_logo.jpg/revision/latest/scale-to-width-down/175?cb=20181114170049" decoding="async" width="175" height="98" data-image-name="Wizards Unite logo.jpg" data-image-key="Wizards_Unite_logo.jpg" /></a>
+</td>
+<td><b>Warning!</b>
+<p>At least some content in this article is derived from information featured in <i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i>. As such, spoilers will be present within the article.
+</p><p>For gameplay-specific information, please see the relevant article on <a href="https://harrypotterwizardsunite.fandom.com/wiki/Sage_Bragnam" class="extiw" title="w:c:harrypotterwizardsunite:Sage Bragnam">the Harry Potter: Wizards Unite Wiki!</a>
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-mom pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/d/da/SageBragnam.png/revision/latest?cb=20161205214444" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/d/da/SageBragnam.png/revision/latest/scale-to-width-down/350?cb=20161205214444" srcset="https://static.wikia.nocookie.net/harrypotter/images/d/da/SageBragnam.png/revision/latest/scale-to-width-down/350?cb=20161205214444 1x, https://static.wikia.nocookie.net/harrypotter/images/d/da/SageBragnam.png/revision/latest/scale-to-width-down/700?cb=20161205214444 2x" class="pi-image-thumbnail" alt="" width="270" height="369"
+		     data-image-key="SageBragnam.png" data-image-name="SageBragnam.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Sage Bragnam</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Scotland" title="Scotland">Scottish</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Reddish brown</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Brown</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Magical characteristics</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="wand">
+	
+		<h3 class="pi-data-label pi-secondary-font">Wand</h3>
+	
+	<div class="pi-data-value pi-font"><a class="new" title="Sage Bragnam&#039;s wand (page does not exist)" rel="nofollow" data-uncrawlable-url="L3dpa2kvU2FnZV9CcmFnbmFtJTI3c193YW5kP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">Unknown length, wood and core</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Magic" title="Magic">Magical</a> historian</li><li><a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">British Ministry of Magic</a> official</li><li>Head Curator of the Department of Magical Artefacts</li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="house">
+	
+		<h3 class="pi-data-label pi-secondary-font">House</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Ravenclaw" title="Ravenclaw">Ravenclaw</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">British Ministry of Magic</a><ul><li><a href="/wiki/Department_of_Magical_Artefacts" title="Department of Magical Artefacts">Department of Magical Artefacts</a></li><li><a href="/wiki/Department_for_the_Regulation_and_Control_of_Magical_Creatures" title="Department for the Regulation and Control of Magical Creatures">Department for the Regulation and Control of Magical Creatures</a></li></ul></li><li><a href="/wiki/Tutshill_Tornados" title="Tutshill Tornados">Tutshill Tornados</a></li><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a><ul><li><a href="/wiki/Ravenclaw" title="Ravenclaw">Ravenclaw</a></li></ul></li><li><a href="/wiki/Witches%27_Holistic_Institute_for_Friends_of_Fairies" title="Witches&#039; Holistic Institute for Friends of Fairies">Witches' Holistic Institute for Friends of Fairies</a></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Fantastic Beasts: Cases from the Wizarding World">"<i>Nice to meet you! Sage Bragnam, magical historian, at your service.</i>"</span></dd>
+<dd>&#8212;Sage Bragnam<sup class="noprint"><a href="/wiki/Fantastic_Beasts:_Cases_from_the_Wizarding_World" title="Fantastic Beasts: Cases from the Wizarding World">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Sage Bragnam</b> was a <a href="/wiki/Scotland" title="Scotland">Scottish</a> <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> and a <a href="/wiki/Magic" title="Magic">magical</a> historian specialising in examining artefacts and <a href="/wiki/Rune" title="Rune">runes</a>; he worked in the capacity of Head Curator of the <a href="/wiki/Department_of_Magical_Artefacts" title="Department of Magical Artefacts">Department of Magical Artefacts</a> at the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">British Ministry of Magic</a>.<sup id="cite_ref-WU_1-0" class="reference"><a href="#cite_note-WU-1">&#91;1&#93;</a></sup>
+</p><p>He assisted the <a href="/wiki/Department_for_the_Regulation_and_Control_of_Magical_Creatures" title="Department for the Regulation and Control of Magical Creatures">Department for the Regulation and Control of Magical Creatures</a> with expert opinion during their investigations related to <a href="/wiki/Magic" title="Magic">magical</a> <a href="/wiki/Beast" title="Beast">beasts</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Physical_appearance"><span class="tocnumber">2</span> <span class="toctext">Physical appearance</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Personality_and_traits"><span class="tocnumber">3</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Magical_abilities_and_skills"><span class="tocnumber">4</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Appearances"><span class="tocnumber">5</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Notes_and_references"><span class="tocnumber">6</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Sage_Bragnam?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Sage_Bragnam?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Born into a family of unverified magical pedigree, Sage Bragham was born in <a href="/wiki/Scotland" title="Scotland">Scotland</a> and attended <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> during his formative years where he was <a href="/wiki/Sorting_ceremony" title="Sorting ceremony">sorted</a> into <a href="/wiki/Ravenclaw" title="Ravenclaw">Ravenclaw House</a>.<sup id="cite_ref-:0_3-0" class="reference"><a href="#cite_note-:0-3">&#91;3&#93;</a></sup> He was a good student, and took a particular interest in more theoretical studies, such as <a href="/wiki/History_of_Magic" title="History of Magic">History of Magic</a> and the <a href="/wiki/Study_of_Ancient_Runes" title="Study of Ancient Runes">Study of Ancient Runes</a>, both of which he would later specialise in as an adult. He was also known to have studied <a href="/wiki/Arithmancy" title="Arithmancy">Arithmancy</a> during this time.
+</p><p>In adulthood, Sage became an accomplished magical historian, specialising in examining magical artefacts and the interpretation of <a href="/wiki/Rune" title="Rune">runes</a>. Eventually, he found employment at the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">British Ministry of Magic</a>, where he was hired by the Ministry's <a href="/wiki/Ministry_of_Magic_research_wing" title="Ministry of Magic research wing">research wing</a> and, due to his deep knowledge on magical creatures, was assigned to the <a href="/wiki/Beast_Division" title="Beast Division">Beast Division</a> in the <a href="/wiki/Department_for_the_Regulation_and_Control_of_Magical_Creatures" title="Department for the Regulation and Control of Magical Creatures">Department for the Regulation and Control of Magical Creatures</a>. Eventually, he was transferred to the <a href="/wiki/Department_of_Magical_Artefacts" title="Department of Magical Artefacts">Department of Magical Artefacts</a>, eventually raising to the position of its Head Curator.
+</p><p>Having held onto his old house tie, at some point, he placed it in his office.<sup id="cite_ref-:0_3-1" class="reference"><a href="#cite_note-:0-3">&#91;3&#93;</a></sup> An avid <a href="/wiki/Quidditch" title="Quidditch">Quidditch</a> fan, he was a strong supporter of the <a href="/wiki/England" title="England">English</a> team <a href="/wiki/Tutshill_Tornados" title="Tutshill Tornados">Tutshill Tornados</a>, owning a souvenir programme signed by no less a person than the famed <a href="/wiki/Seeker" title="Seeker">seeker</a> <a href="/wiki/Roderick_Plumpton" title="Roderick Plumpton">Roderick Plumpton</a> himself.<sup id="cite_ref-:1_4-0" class="reference"><a href="#cite_note-:1-4">&#91;4&#93;</a></sup> He eventually also found himself becoming a slightly reclusive activist in the <a href="/wiki/Witches%27_Holistic_Institute_for_Friends_of_Fairies" title="Witches&#39; Holistic Institute for Friends of Fairies">Witches' Holistic Institute for Friends of Fairies</a>, of which only he and <a href="/wiki/Winifred_Whittle" title="Winifred Whittle">Winifred Whittle</a> were members.
+</p>
+<h2><span class="mw-headline" id="Physical_appearance">Physical appearance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Sage_Bragnam?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Physical appearance">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Sage_Bragnam?action=edit&amp;section=2" title="Edit section: Physical appearance"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Sage had short reddish-brown hair with a fairly large bushy beard, with brown eyes and white skin. He often wore a brightly coloured striped scarf with a beige coat.
+</p>
+<h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Sage_Bragnam?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Personality and traits">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Sage_Bragnam?action=edit&amp;section=3" title="Edit section: Personality and traits"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Sage was a fairly sociable individual, and was friendly with many of his colleagues and co-workers, such as <a href="/wiki/Mathilda_Grimblehawk" title="Mathilda Grimblehawk">Mathilda Grimblehawk</a> and <a href="/wiki/Mathilda_Grimblehawk%27s_partner" title="Mathilda Grimblehawk&#39;s partner">her partner</a>, and was always happy to help them if called upon to do so, having more than once been called in for consultation by the <a href="/wiki/Beast_Division" title="Beast Division">Beast Division</a> during investigations into creature-related incidents, once even agreeing to go through the entire accounts ledger from <a href="/wiki/Slug_%26_Jiggers_Apothecary" title="Slug &amp; Jiggers Apothecary">Slug &amp; Jiggers Apothecary</a> in <a href="/wiki/Diagon_Alley" title="Diagon Alley">Diagon Alley</a> for them.<sup id="cite_ref-:1_4-1" class="reference"><a href="#cite_note-:1-4">&#91;4&#93;</a></sup> He had a very dry sense of humour, being amused by bad puns relating to the objects he was called in to examine and proved himself to be open-minded, as seen by how, rather than being prejudiced against non-wizards, on the contrary was rather fascinated by the creative ingenuity of <a href="/wiki/Non-magic_people" title="Non-magic people">Muggles</a>.<sup id="cite_ref-:2_5-0" class="reference"><a href="#cite_note-:2-5">&#91;5&#93;</a></sup> A compassionate man, he proved himself to have a vested interest in the well-being of his peers, telling Grimblehawk to be careful while she was looking for dangerous creatures.<sup id="cite_ref-:2_5-1" class="reference"><a href="#cite_note-:2-5">&#91;5&#93;</a></sup> He was also a man of action, at least to the extent where he was wiling to go to great lengths to help bring a resolution to catastrophe, as shown when he joined the council tasked with overseeing the investigation into the <a href="/wiki/London_Five" title="London Five">London Five</a>.
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Sage_Bragnam?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Sage_Bragnam?action=edit&amp;section=4" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/History_of_Magic" title="History of Magic">History of Magic</a></b>: An authority in <a href="/wiki/History_of_Magic" title="History of Magic">History of Magic</a>, Sage was often called upon to use his expertise to help shred light on obscure findings during the investigations during his time in working with <a href="/wiki/Mathilda_Grimblehawk" title="Mathilda Grimblehawk">Mathilda Grimblehawk</a>.<sup id="cite_ref-:2_5-2" class="reference"><a href="#cite_note-:2-5">&#91;5&#93;</a></sup></li>
+<li><b><a href="/wiki/Study_of_Ancient_Runes" title="Study of Ancient Runes">Study of Ancient Runes</a></b>: Specialising on the study and examination of <a href="/wiki/Rune" title="Rune">runes</a>, Sage was very well versed and knowledgeable in the study of Runology, and hence often called upon to able to interpret or translate complex runic scriptures, alphabets and symbols found in the field during investigations.<sup id="cite_ref-:2_5-3" class="reference"><a href="#cite_note-:2-5">&#91;5&#93;</a></sup></li>
+<li><b><a href="/wiki/Magizoology" title="Magizoology">Magizoology</a></b>: According to <a href="/wiki/Magizoologist" title="Magizoologist">Magizoologist</a> <a href="/wiki/Mathilda_Grimblehawk" title="Mathilda Grimblehawk">Mathilda Grimblehawk</a>, Sage possessed a "profound" knowledge on magical creatures, and was often called upon to examine everything from claw marks to bits and bobs of magical creatures found during the course of the investigations of the <a href="/wiki/Beast_Division" title="Beast Division">Beast Division</a>, and once successfully identified a feather retrieved from such a scene as that of a Golden Eagle rather than a magical creature.<sup id="cite_ref-:2_5-4" class="reference"><a href="#cite_note-:2-5">&#91;5&#93;</a></sup></li>
+<li><b><a href="/wiki/Healing_magic" title="Healing magic">Healing magic</a></b>: Sage was also proficient with medical spells and brews, as he was sometimes set to not only examine the creatures brought back to the Ministry in the wake of <a href="/wiki/Beast_Division" title="Beast Division">beast</a>-related investigations, but also treated their injuries and saw to it that they were relocated somewhere on a safe distance from <a href="/wiki/Non-magic_people" title="Non-magic people">Muggles</a> afterwards.</li>
+<li><b><a href="/wiki/Arithmancy" title="Arithmancy">Arithmancy</a></b>: A former student of the <a href="/wiki/Arithmancy_(class)" title="Arithmancy (class)">subject</a> at Hogwarts and a professional <a href="/wiki/Arithmancer" title="Arithmancer">Arithmancer</a> in his adult life, he was known to have utilise his knowledge and expertise in the field to figure out number-related conundrums, such as the accounts ledger from <a href="/wiki/Slug_%26_Jiggers_Apothecary" title="Slug &amp; Jiggers Apothecary">Slug &amp; Jiggers Apothecary</a>.<sup id="cite_ref-:2_5-5" class="reference"><a href="#cite_note-:2-5">&#91;5&#93;</a></sup></li>
+<li><b>Knowledge of <a href="/wiki/Magical_Law" title="Magical Law">Magical Law</a></b>: Sage was able to ascertain that nothing <a href="/wiki/Bilius_Finbok" title="Bilius Finbok">Bilius Finbok</a> had purchased from <a href="/wiki/Slug_%26_Jiggers_Apothecary" title="Slug &amp; Jiggers Apothecary">Slug &amp; Jiggers Apothecary</a> was illegal or could be used to make something illegal, showing he had a strong understanding of Magical Law and the various applications it cut across the <a href="/wiki/Wizarding_world" title="Wizarding world">Wizarding world</a> and with <a href="/wiki/Wizardkind" title="Wizardkind">Wizardkind</a>.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Sage_Bragnam?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Sage_Bragnam?action=edit&amp;section=5" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 3 images related to <i><b><a href="/wiki/Category:Images_of_Sage_Bragnam" title="Category:Images of Sage Bragnam">Sage Bragnam</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<ul><li><i><a href="/wiki/Fantastic_Beasts:_Cases_from_the_Wizarding_World" title="Fantastic Beasts: Cases from the Wizarding World">Fantastic Beasts: Cases from the Wizarding World</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Sage_Bragnam?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Sage_Bragnam?action=edit&amp;section=6" title="Edit section: Notes and references

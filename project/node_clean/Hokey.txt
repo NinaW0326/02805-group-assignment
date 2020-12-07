@@ -1,0 +1,125 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-house-elf pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/d/d0/Hokey.png/revision/latest?cb=20141219192100" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/d/d0/Hokey.png/revision/latest/scale-to-width-down/120?cb=20141219192100" srcset="https://static.wikia.nocookie.net/harrypotter/images/d/d0/Hokey.png/revision/latest/scale-to-width-down/120?cb=20141219192100 1x, https://static.wikia.nocookie.net/harrypotter/images/d/d0/Hokey.png/revision/latest/scale-to-width-down/240?cb=20141219192100 2x" class="pi-image-thumbnail" alt="" width="120" height="196"
+		     data-image-key="Hokey.png" data-image-name="Hokey.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Hokey</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">Before <a href="/wiki/1940s" title="1940s">1940s</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font">1950s-1960s<sup id="cite_ref-HBP_2-0" class="reference"><a href="#cite_note-HBP-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/House-elf" title="House-elf">House-elf</a><sup id="cite_ref-HBP20_3-0" class="reference"><a href="#cite_note-HBP20-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female<sup id="cite_ref-HBP20_3-1" class="reference"><a href="#cite_note-HBP20-3">&#91;3&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Servant of <a href="/wiki/Hepzibah_Smith" title="Hepzibah Smith">Hepzibah Smith</a><sup id="cite_ref-HBP20_3-2" class="reference"><a href="#cite_note-HBP20-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Hepzibah_Smith" title="Hepzibah Smith">Hepzibah Smith</a><sup id="cite_ref-HBP20_3-3" class="reference"><a href="#cite_note-HBP20-3">&#91;3&#93;</a></sup></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Half-Blood Prince">"<i>She remembered putting something in her mistress’s cocoa that turned out not to be sugar, but a lethal and little-known poison, It was concluded that she had not meant to do it, but being old and confused —</i>"</span></dd>
+<dd>&#8212;Hokey's false memory of having killed her mistress<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Hokey</b> was a female&#160;<a href="/wiki/House-elf" title="House-elf">house-elf</a> that belonged to <a href="/wiki/Hepzibah_Smith" title="Hepzibah Smith">Hepzibah Smith</a>. She was framed in the murder of her mistress by <a href="/wiki/Tom_Riddle" title="Tom Riddle">Tom Riddle</a>.<sup id="cite_ref-HBP20_3-4" class="reference"><a href="#cite_note-HBP20-3">&#91;3&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Serving_Hepzibah_Smith"><span class="tocnumber">1.1</span> <span class="toctext">Serving Hepzibah Smith</span></a>
+<ul>
+<li class="toclevel-3 tocsection-3"><a href="#Hepzibah_Smith.27s_death"><span class="tocnumber">1.1.1</span> <span class="toctext">Hepzibah Smith's death</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-4"><a href="#Death"><span class="tocnumber">1.2</span> <span class="toctext">Death</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Physical_appearance"><span class="tocnumber">2</span> <span class="toctext">Physical appearance</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Behind_the_scenes"><span class="tocnumber">3</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Appearances"><span class="tocnumber">4</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Notes_and_references"><span class="tocnumber">5</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Hokey?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Hokey?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Serving_Hepzibah_Smith">Serving Hepzibah Smith</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Hokey?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Serving Hepzibah Smith">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Hokey?action=edit&amp;section=2" title="Edit section: Serving Hepzibah Smith"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Half-Blood Prince"><b>Hepzibah Smith</b>: "<i>How do I look?</i>"</span></dd>
+<dd><b>Hokey</b>: "<i>Lovely, Madam.</i>"</dd>
+<dd>&#8212; Hokey flattering her mistress<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">[src]</a></sup></dd></dl>
+</div>
+<p>Hokey was an old <a href="/wiki/House-elf" title="House-elf">house-elf</a> that served <a href="/wiki/Hepzibah_Smith" title="Hepzibah Smith">Hepzibah Smith</a>. She used to flatter her mistress, and it was speculated (albeit sarcastically) that this was among her tasks as a house-elf.<sup id="cite_ref-HBP20_3-5" class="reference"><a href="#cite_note-HBP20-3">&#91;3&#93;</a></sup>
+</p>
+<h4><span id="Hepzibah_Smith's_death"></span><span class="mw-headline" id="Hepzibah_Smith.27s_death">Hepzibah Smith's death</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Hokey?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Hepzibah Smith&#039;s death">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Hokey?action=edit&amp;section=3" title="Edit section: Hepzibah Smith&#039;s death"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Sometime after 1945, Hokey met <a href="/wiki/Tom_Riddle" title="Tom Riddle">Tom Riddle</a>, a handsome boy who appeared to be friendly with Hokey's mistress. Tom visited many times.<sup id="cite_ref-HBP20_3-6" class="reference"><a href="#cite_note-HBP20-3">&#91;3&#93;</a></sup>
+</p><p>On one such visit, Hepzibah ordered Hokey to bring out her two most valuable magical antiques: <a href="/wiki/Helga_Hufflepuff%27s_Cup" class="mw-redirect" title="Helga Hufflepuff&#39;s Cup">Helga Hufflepuff's Cup</a> and <a href="/wiki/Salazar_Slytherin%27s_Locket" class="mw-redirect" title="Salazar Slytherin&#39;s Locket">Salazar Slytherin's Locket</a>, to show to Tom as a treat. This proved to be a fatal mistake on Hepzibah's behalf, as Riddle could barely hide his true nature when seeing such rare artefacts, especially the locket which once belonged to <a href="/wiki/House_of_Gaunt" title="House of Gaunt">his family</a>.<sup id="cite_ref-HBP20_3-7" class="reference"><a href="#cite_note-HBP20-3">&#91;3&#93;</a></sup>
+</p><p>After Hepzibah's death, Hokey was accused of poisoning her mistress's evening cocoa. Hokey later remembered putting something into the cocoa that turned out not to be sugar, but a little-known lethal poison. The Ministry decided it was an accident given the fact that Hokey was old and probably confused. However, it was actually <a href="/wiki/Tom_Riddle" title="Tom Riddle">Tom Riddle</a> who poisoned Hepzibah (in order to steal <a href="/wiki/Helga_Hufflepuff%27s_Cup" class="mw-redirect" title="Helga Hufflepuff&#39;s Cup">Helga Hufflepuff's Cup</a> and <a href="/wiki/Salazar_Slytherin%27s_Locket" class="mw-redirect" title="Salazar Slytherin&#39;s Locket">Salazar Slytherin's Locket</a>), and then magically changed Hokey's memory with a <a href="/wiki/False_memory_charm" class="mw-redirect" title="False memory charm">False memory charm</a>, to make her look like the guilty party.<sup id="cite_ref-HBP20_3-8" class="reference"><a href="#cite_note-HBP20-3">&#91;3&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Death">Death</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Hokey?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Death">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Hokey?action=edit&amp;section=4" title="Edit section: Death"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">Ministry</a> convicted Hokey of manslaughter. It was concluded that Hokey's superannuated state had caused forgetfulness and lack of mental alertness. The <a href="/wiki/Wizengamot" title="Wizengamot">Wizengamot</a> believed that Hokey's loyalty to her mistress was never in doubt and there was never any signs of malice to Hepzibah; rather Hokey's weakened mind was not able to discriminate the poison from sugar. What happened to her career as a house-elf after that incident is unknown, but before she died, <a href="/wiki/Albus_Dumbledore" title="Albus Dumbledore">Albus Dumbledore</a> found her and took a memory from her, in which Tom Riddle showed his interest towards Hepzibah's magical antiques. This memory was not sufficient enough to show Hokey's innocence, as it only proved that Riddle was aware of the artefacts' existence and that Hepzibah had them.<sup id="cite_ref-HBP20_3-9" class="reference"><a href="#cite_note-HBP20-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Physical_appearance">Physical appearance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Hokey?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Physical appearance">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Hokey?action=edit&amp;section=5" title="Edit section: Physical appearance"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In a memory seen through the <a href="/wiki/Pensieve" title="Pensieve">Pensieve</a>, <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> describes Hokey as "the tiniest and oldest house-elf [he] had ever seen." Her head did not reach the seat of Mrs Smith's chair and when she carried Hepzibah's most precious heirlooms the boxes went over her head. She had papery skin and wore a linen sheet as a toga.<sup id="cite_ref-HBP20_3-10" class="reference"><a href="#cite_note-HBP20-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Hokey?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Hokey?action=edit&amp;section=6" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Hokey's memory was cut from the <a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince_(film)" title="Harry Potter and the Half-Blood Prince (film)">film adaptation</a> of <i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">Harry Potter and the Half-Blood Prince</a></i>. Therefore, Hokey and <a href="/wiki/Hepzibah_Smith" title="Hepzibah Smith">Hepzibah Smith</a> were also cut.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Hokey?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Hokey?action=edit&amp;section=7" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">Harry Potter and the Half-Blood Prince</a></i> <small>(First appearance)</small> <small>(Appears in flashback(s))</small></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> <small>(Appears in flashback(s))</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Hokey?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Hokey?action=edit&amp;section=8" title="Edit section: Notes and references

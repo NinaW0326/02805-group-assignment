@@ -1,0 +1,103 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-individual pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/9/96/Loch_Ness_Kelpie.jpg/revision/latest?cb=20180513192043" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/9/96/Loch_Ness_Kelpie.jpg/revision/latest/scale-to-width-down/350?cb=20180513192043" srcset="https://static.wikia.nocookie.net/harrypotter/images/9/96/Loch_Ness_Kelpie.jpg/revision/latest/scale-to-width-down/350?cb=20180513192043 1x, https://static.wikia.nocookie.net/harrypotter/images/9/96/Loch_Ness_Kelpie.jpg/revision/latest/scale-to-width-down/700?cb=20180513192043 2x" class="pi-image-thumbnail" alt="" width="270" height="224"
+		     data-image-key="Loch_Ness_Kelpie.jpg" data-image-name="Loch Ness Kelpie.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Loch Ness Monster</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Scotland" title="Scotland">Scottish</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="alias">
+	
+		<h3 class="pi-data-label pi-secondary-font">Also known as</h3>
+	
+	<div class="pi-data-value pi-font">Nessie</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="title">
+	
+		<h3 class="pi-data-label pi-secondary-font">Title(s)</h3>
+	
+	<div class="pi-data-value pi-font">"World's largest <a href="/wiki/Kelpie" title="Kelpie">kelpie</a>"</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Kelpie" title="Kelpie">Kelpie</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="height">
+	
+		<h3 class="pi-data-label pi-secondary-font">Height</h3>
+	
+	<div class="pi-data-value pi-font">100 feet or less</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Loch_Ness" title="Loch Ness">Loch Ness</a></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Fantastic Beasts and Where to Find Them (real)">"<i>The world’s largest <a href="/wiki/Kelpie" title="Kelpie">kelpie</a> is found in <a href="/wiki/Loch_Ness" title="Loch Ness">Loch Ness</a>, <a href="/wiki/Scotland" title="Scotland">Scotland</a>. Its favourite form is that of a <a href="/wiki/Sea_serpent" title="Sea serpent">sea serpent</a>. <a href="/wiki/International_Confederation_of_Wizards" title="International Confederation of Wizards">International Confederation of Wizard</a> observers realised that they were not dealing with a true serpent when they saw it turn into an <a href="/wiki/Otter" title="Otter">otter</a> on the approach of a team of <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> investigators and then transform back into a serpent when the coast was clear.</i>"</span></dd>
+<dd>&#8212;<a href="/wiki/Newton_Scamander" title="Newton Scamander">Newt Scamander</a>, <i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them" title="Fantastic Beasts and Where to Find Them">Fantastic Beasts and Where to Find Them</a></i><sup class="noprint"><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(real)" class="mw-redirect" title="Fantastic Beasts and Where to Find Them (real)">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p>The <b>Loch Ness Monster</b><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>, as it is popularly known, is the world's largest <a href="/wiki/Kelpie" title="Kelpie">Kelpie</a>, that inhabits the deep <a href="/wiki/Water" title="Water">waters</a>&#160;of <a href="/wiki/Loch_Ness" title="Loch Ness">Loch Ness</a> in the <a href="/wiki/Scotland" title="Scotland">Scottish</a> Highlands. 
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Behind_the_scenes"><span class="tocnumber">2</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Appearances"><span class="tocnumber">3</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Notes_and_references"><span class="tocnumber">4</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Loch_Ness_Monster?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Loch_Ness_Monster?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Its favourite shape is that of a <a href="/wiki/Sea_serpent" title="Sea serpent">Sea serpent</a>. Wizard observers from the <a href="/wiki/International_Confederation_of_Wizards" title="International Confederation of Wizards">International Confederation of Wizards</a> discovered it was a Kelpie when they observed it changing into an otter on the approach of a team of <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> investigators, then back into a Sea Serpent. The <a href="/wiki/Office_of_Misinformation" title="Office of Misinformation">Office of Misinformation</a> has worked diligently, convincing the Muggles that all photographic evidence of "Nessie" is actually fake.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p><p><a href="/wiki/Rubeus_Hagrid" title="Rubeus Hagrid">Rubeus Hagrid</a> once offered the use of the <a href="/wiki/Great_Lake" title="Great Lake">lake</a> at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> to house the <a href="/wiki/Creature" title="Creature">creature</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Loch_Ness_Monster?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Loch_Ness_Monster?action=edit&amp;section=2" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>The <a href="http://en.wikipedia.org/wiki/Loch_Ness_Monster" class="extiw" title="wikipedia:Loch Ness Monster">Loch Ness Monster</a> is a creature believed by some to live in Loch Ness, Scotland. Though it is most commonly identified as a <a href="http://en.wikipedia.org/wiki/Plesiosauria" class="extiw" title="wikipedia:Plesiosauria">plesiosaur</a>-like creature, sea serpent depictions are not uncommon either. The reference to the Office of Misinformation discounting photographic evidence may be in reference to the "sturgeon's photograph", which was once considered plausible evidence of the Loch Ness Monster's existence but is in more recent years believed to have been a hoax.</li>
+<li>It is possible that the kelpie seen in <i><a href="/wiki/Wonderbook:_Book_of_Spells" title="Wonderbook: Book of Spells">Wonderbook: Book of Spells</a></i> is intended to be the Loch Ness Monster, as it is rather large, lives in a Scottish loch, and takes the form of what appears to be a sea serpent, rather than the horse form the species generally takes.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Loch_Ness_Monster?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Loch_Ness_Monster?action=edit&amp;section=3" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(companion_book)" title="Fantastic Beasts and Where to Find Them (companion book)">Fantastic Beasts and Where to Find Them</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/The_Daily_Prophet_(real-world)" title="The Daily Prophet (real-world)">Daily Prophet Newsletters</a> </i><small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Wonderbook:_Book_of_Spells" title="Wonderbook: Book of Spells">Wonderbook: Book of Spells</a></i> <small>(Possible appearance)</small></li>
+<li><i><a href="/wiki/Fantastic_Beasts:_Cases_from_the_Wizarding_World" title="Fantastic Beasts: Cases from the Wizarding World">Fantastic Beasts: Cases from the Wizarding World</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Loch_Ness_Monster?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Loch_Ness_Monster?action=edit&amp;section=4" title="Edit section: Notes and references

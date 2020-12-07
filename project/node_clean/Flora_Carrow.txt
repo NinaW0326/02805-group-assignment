@@ -1,0 +1,163 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-slytherin pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/6/6f/Halfblood-01673.jpg/revision/latest?cb=20141225181159" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/6/6f/Halfblood-01673.jpg/revision/latest/scale-to-width-down/307?cb=20141225181159" srcset="https://static.wikia.nocookie.net/harrypotter/images/6/6f/Halfblood-01673.jpg/revision/latest/scale-to-width-down/307?cb=20141225181159 1x, https://static.wikia.nocookie.net/harrypotter/images/6/6f/Halfblood-01673.jpg/revision/latest/scale-to-width-down/615?cb=20141225181159 2x" class="pi-image-thumbnail" alt="" width="270" height="439"
+		     data-image-key="Halfblood-01673.jpg" data-image-name="Halfblood-01673.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Flora Carrow</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/31_August" title="31 August">31 August</a> <a href="/wiki/1985" title="1985">1985</a> or earlier<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Pure-blood" title="Pure-blood">Pure-blood</a> or <a href="/wiki/Half-blood" title="Half-blood">Half-blood</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a> or <a href="/wiki/Ireland" title="Ireland">Irish</a><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-HBPF_4-0" class="reference"><a href="#cite_note-HBPF-4">&#91;4&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female<sup id="cite_ref-HBPF_4-1" class="reference"><a href="#cite_note-HBPF-4">&#91;4&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Brown<sup id="cite_ref-HBPF_4-2" class="reference"><a href="#cite_note-HBPF-4">&#91;4&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Blue-Grey<sup id="cite_ref-HBPF_4-3" class="reference"><a href="#cite_note-HBPF-4">&#91;4&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White<sup id="cite_ref-HBPF_4-4" class="reference"><a href="#cite_note-HBPF-4">&#91;4&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Hestia_Carrow" title="Hestia Carrow">Hestia Carrow</a> (twin sister)</li><li><a href="/wiki/Amycus_Carrow" title="Amycus Carrow">Amycus Carrow</a> (likely)</li><li><a href="/wiki/Alecto_Carrow" title="Alecto Carrow">Alecto Carrow</a> (likely)</li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="house">
+	
+		<h3 class="pi-data-label pi-secondary-font">House</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Slytherin" title="Slytherin">Slytherin</a><sup id="cite_ref-house_5-0" class="reference"><a href="#cite_note-house-5">&#91;5&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a><ul><li><a href="/wiki/Slytherin" title="Slytherin">Slytherin</a></li><li><a href="/wiki/Slug_Club" title="Slug Club">Slug Club</a></li></ul></li><li><a href="/wiki/Carrow_family" title="Carrow family">Carrow family</a></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Flora Carrow</b> was a <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> and <a href="/wiki/Slytherin" title="Slytherin">Slytherin</a> student who attended <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> in the <a href="/wiki/1990s" title="1990s">1990s</a>. She and her twin sister <a href="/wiki/Hestia_Carrow" title="Hestia Carrow">Hestia</a> were both members of the <a href="/wiki/Slug_Club" title="Slug Club">Slug Club</a>.<sup id="cite_ref-HBPF_4-5" class="reference"><a href="#cite_note-HBPF-4">&#91;4&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#1996-1997_school_year"><span class="tocnumber">1.1</span> <span class="toctext">1996-1997 school year</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#1997-1998_school_year"><span class="tocnumber">1.2</span> <span class="toctext">1997-1998 school year</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Etymology"><span class="tocnumber">2</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Behind_the_scenes"><span class="tocnumber">3</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Appearances"><span class="tocnumber">4</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Notes_and_references"><span class="tocnumber">5</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Flora_Carrow?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Flora_Carrow?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="1996-1997_school_year">1996-1997 school year</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Flora_Carrow?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: 1996-1997 school year">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Flora_Carrow?action=edit&amp;section=2" title="Edit section: 1996-1997 school year"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Half-Blood Prince">"<i>The ceiling and walls had been draped with emerald, crimson and gold hangings, so that it looked as though they were all inside a vast tent. The room was crowded and stuffy and bathed in the red light cast by an ornate golden lamp dangling from the centre of the ceiling in which real fairies were fluttering, each a brilliant speck of light.</i>"</span></dd>
+<dd>&#8212;Slug Club Christmas party that Flora attended<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<figure class="thumb tleft show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/a/a0/Flora_and_Hestia_Carrow_studying_at_Transfiguration_Courtyard.JPG/revision/latest?cb=20091123025609" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/a/a0/Flora_and_Hestia_Carrow_studying_at_Transfiguration_Courtyard.JPG/revision/latest/scale-to-width-down/180?cb=20091123025609" decoding="async" width="180" height="118" class="thumbimage" data-image-name="Flora and Hestia Carrow studying at Transfiguration Courtyard.JPG" data-image-key="Flora_and_Hestia_Carrow_studying_at_Transfiguration_Courtyard.JPG" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Flora_and_Hestia_Carrow_studying_at_Transfiguration_Courtyard.JPG" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">The Carrow twins taking notes and reading <i>"Magical Theory" by Adalbert Waffling</i></p> 		 	</figcaption> </figure>
+<p>Flora was <a href="/wiki/Sorting_ceremony" title="Sorting ceremony">sorted</a> into <a href="/wiki/Slytherin" title="Slytherin">Slytherin House</a> along with her identical twin sister, <a href="/wiki/Hestia_Carrow" title="Hestia Carrow">Hestia</a>, at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> at the age of eleven, and became a member of the <a href="/wiki/Slug_Club" title="Slug Club">Slug Club</a> in the <a href="/wiki/1996%E2%80%931997_school_year" title="1996–1997 school year">1996–1997 school year</a>.<sup id="cite_ref-SnitchSeekerCarrowTwins_6-0" class="reference"><a href="#cite_note-SnitchSeekerCarrowTwins-6">&#91;6&#93;</a></sup>
+</p>
+<figure class="thumb tright show-info-icon" style="width: 252px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/4/4a/Halfblood-02123.jpg/revision/latest?cb=20140814205540" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/4/4a/Halfblood-02123.jpg/revision/latest/scale-to-width-down/250?cb=20140814205540" decoding="async" width="250" height="116" class="thumbimage" data-image-name="Halfblood-02123.jpg" data-image-key="Halfblood-02123.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Halfblood-02123.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Flora and Hestia at the Slug Club Christmas party</p> 		 	</figcaption> </figure>
+<p>Flora and her sister were seemingly quiet at Slug Club meetings, and both had a fondness for the colour green, which they wore not only as part of their House robes, but by their choosing, as reflected by the formal dresses they wore to the <a href="/wiki/Slug_Club_Christmas_party" title="Slug Club Christmas party">Slug Club Christmas party</a>.<sup id="cite_ref-HBPF_4-6" class="reference"><a href="#cite_note-HBPF-4">&#91;4&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="1997-1998_school_year">1997-1998 school year</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Flora_Carrow?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: 1997-1998 school year">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Flora_Carrow?action=edit&amp;section=3" title="Edit section: 1997-1998 school year"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Deathly Hallows">"<i>Before Harry could speak, there was a massive movement. The Gryffindors in front of him had risen and stood facing, not Harry, but the Slytherins. Then the Hufflepuffs stood, and almost at the same moment, the Ravenclaws, all of them with their backs to Harry, all of them looking towards Pansy instead, and Harry, awestruck, saw wands emerging everywhere, pulled from beneath cloaks and under sleeves.</i>"</span></dd>
+<dd>&#8212;Wands being turned on the Slytherin students before the battle<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">[src]</a></sup></dd>
+<dd></dd></dl></div><figure class="thumb tleft show-info-icon" style="width: 253px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/8/8c/Slytherins_battle.jpg/revision/latest?cb=20160608163216" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/8/8c/Slytherins_battle.jpg/revision/latest/scale-to-width-down/251?cb=20160608163216" decoding="async" width="251" height="106" class="thumbimage" data-image-name="Slytherins battle.jpg" data-image-key="Slytherins_battle.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Slytherins_battle.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Flora and Hestia standing behind Pansy Parkinson</p> 		 	</figcaption> </figure>
+<p>Flora was present in the Great Hall prior to the <a href="/wiki/Battle_of_Hogwarts" title="Battle of Hogwarts">Battle of Hogwarts</a> when classmate <a href="/wiki/Pansy_Parkinson" title="Pansy Parkinson">Pansy Parkinson</a> urged students to hand over <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> to <a href="/wiki/Tom_Riddle" title="Tom Riddle">Lord Voldemort</a>.<sup id="cite_ref-DHF2_7-0" class="reference"><a href="#cite_note-DHF2-7">&#91;7&#93;</a></sup> As she and her sister were underage to fight in the battle, they likely departed the school along with most other members of their house before the battle started.
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Flora_Carrow?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Flora_Carrow?action=edit&amp;section=4" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>"Flora" comes from the Latin <i>flōs</i> (meaning "flower"). Flora was also the name of a Roman fertility goddess whose domain was flowers, Spring, and youth. This goddess was not of Greek origin, unlike many Roman gods, instead coming from the lore of the Italic Sabine folk.
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Flora_Carrow?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Flora_Carrow?action=edit&amp;section=5" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>This character is only introduced in the <a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince_(film)" title="Harry Potter and the Half-Blood Prince (film)">film adaptation</a> of <i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">Harry Potter and the Half-Blood Prince</a></i> and <i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1" title="Harry Potter and the Deathly Hallows: Part 1">Part 1</a></i> and <i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_2" title="Harry Potter and the Deathly Hallows: Part 2">Part 2</a></i> of <i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">Harry Potter and the Deathly Hallows</a></i>.</li>
+<li>Flora Carrow is portrayed by actress <a href="/wiki/Amber_and_Ruby_Evans" title="Amber and Ruby Evans">Amber Evans</a>.<sup id="cite_ref-SnitchSeekerCarrowTwins_6-1" class="reference"><a href="#cite_note-SnitchSeekerCarrowTwins-6">&#91;6&#93;</a></sup></li>
+<li>Both she and her sister <a href="/wiki/Hestia_Carrow" title="Hestia Carrow">Hestia</a> were likely invited to join the <a href="/wiki/Slug_Club" title="Slug Club">Slug Club</a> due to their pure-blood heritage (and perhaps a devotion to Slytherin House, possibly indicated by their fondness for green). The Carrow family are one of the <a href="/wiki/Sacred_Twenty-Eight" title="Sacred Twenty-Eight">Sacred Twenty-Eight</a>, meaning they are one of the twenty-eight pure-blooded families left in Great Britain.</li>
+<li>It is likely that the Carrow twins are related to <a href="/wiki/Alecto_and_Amycus_Carrow" title="Alecto and Amycus Carrow">Alecto and Amycus Carrow</a>, as all four of them have Greco-Roman forenames and the same surname.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Flora_Carrow?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Flora_Carrow?action=edit&amp;section=6" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" class="lazyload" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 25 images related to <i><b><a href="/wiki/Category:Images_of_Flora_and_Hestia_Carrow" title="Category:Images of Flora and Hestia Carrow">Flora Carrow</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince_(film)" title="Harry Potter and the Half-Blood Prince (film)">Harry Potter and the Half-Blood Prince (film)</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1" title="Harry Potter and the Deathly Hallows: Part 1">Harry Potter and the Deathly Hallows: Part 1</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_2" title="Harry Potter and the Deathly Hallows: Part 2">Harry Potter and the Deathly Hallows: Part 2</a></i></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter:_Years_5-7" title="LEGO Harry Potter: Years 5-7">LEGO Harry Potter: Years 5-7</a></i> <span class="template-c">(As "Slytherin Twin #1")</span></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Flora_Carrow?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Flora_Carrow?action=edit&amp;section=7" title="Edit section: Notes and references

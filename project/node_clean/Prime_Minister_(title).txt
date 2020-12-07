@@ -1,0 +1,32 @@
+<div class="mw-parser-output"><table class="notice metadata" cellpadding="3px" id="merge" style="text-align: center; background: snow; margin: 1em 10%; border: #a00 1px solid;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/6/66/Harry_and_Voldy_part_2.jpg/revision/latest?cb=20200413010634" class="image"><img alt="Harry and Voldy part 2.jpg" src="https://static.wikia.nocookie.net/harrypotter/images/6/66/Harry_and_Voldy_part_2.jpg/revision/latest/scale-to-width-down/80?cb=20200413010634" decoding="async" width="80" height="63" data-image-name="Harry and Voldy part 2.jpg" data-image-key="Harry_and_Voldy_part_2.jpg" /></a>
+</td>
+<td><i><b>"Neither can live while the other survives..."</b></i>
+<p>This page has been suggested to be <a href="http://en.wikipedia.org/wiki/Help:Merging" class="extiw" title="wikipedia:Help:Merging">merged</a> with <a href="/wiki/Prime_Minister" title="Prime Minister">Prime Minister</a>.
+</p>
+<dl><dd></dd></dl>
+<p>If you disagree with its merge, please explain why at <a href="/wiki/Category_talk:Articles_to_be_merged" title="Category talk:Articles to be merged">Category talk:Articles to be merged</a> or improve the page and remove this {{merge}} tag.
+</p>
+</td></tr></tbody></table>
+<p>A <b>Prime Minister</b> is the most senior minister of cabinet in the executive branch of a form of <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> government in a parliamentary system.<sup id="cite_ref-HBP1_1-0" class="reference"><a href="#cite_note-HBP1-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="British_Prime_Ministers">British Prime Ministers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Prime_Minister_(title)?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: British Prime Ministers">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Prime_Minister_(title)?action=edit&amp;section=1" title="Edit section: British Prime Ministers"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Lord_North" title="Lord North">Lord North</a><sup id="cite_ref-PM_2-0" class="reference"><a href="#cite_note-PM-2">&#91;2&#93;</a></sup></li>
+<li><a href="/wiki/Duke_of_Wellington" title="Duke of Wellington">Duke of Wellington</a><sup id="cite_ref-PM_2-1" class="reference"><a href="#cite_note-PM-2">&#91;2&#93;</a></sup></li>
+<li><a href="/wiki/Lord_Palmerston" title="Lord Palmerston">Lord Palmerston</a><sup id="cite_ref-PM_2-2" class="reference"><a href="#cite_note-PM-2">&#91;2&#93;</a></sup></li>
+<li><a href="/wiki/Winston_Churchill" title="Winston Churchill">Winston Churchill</a><sup id="cite_ref-PM_2-3" class="reference"><a href="#cite_note-PM-2">&#91;2&#93;</a></sup></li>
+<li><a href="/wiki/Prime_Minister%27s_predecessor" title="Prime Minister&#39;s predecessor">Prime Minister's predecessor</a><sup id="cite_ref-HBP1_1-1" class="reference"><a href="#cite_note-HBP1-1">&#91;1&#93;</a></sup></li>
+<li><a href="/wiki/British_Prime_Minister_in_1996" title="British Prime Minister in 1996">Prime Minister</a><sup id="cite_ref-HBP1_1-2" class="reference"><a href="#cite_note-HBP1-1">&#91;1&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Prime_Minister_(title)?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Prime_Minister_(title)?action=edit&amp;section=2" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban" title="Harry Potter and the Prisoner of Azkaban">Harry Potter and the Prisoner of Azkaban</a></i> <small>(First mentioned)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">Harry Potter and the Order of the Phoenix</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(film)" title="Harry Potter and the Order of the Phoenix (film)">Harry Potter and the Order of the Phoenix (film)</a></i> <span class="template-c">(Mentioned on the <i>Daily Prophet</i>)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">Harry Potter and the Half-Blood Prince</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">Harry Potter and the Deathly Hallows</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1" title="Harry Potter and the Deathly Hallows: Part 1">Harry Potter and the Deathly Hallows: Part 1</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/The_Queen%27s_Handbag" title="The Queen&#39;s Handbag">The Queen's Handbag</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Harry_Potter:_The_Character_Vault" title="Harry Potter: The Character Vault">Harry Potter: The Character Vault</a></i> <small>(Mentioned only)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Prime_Minister_(title)?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Prime_Minister_(title)?action=edit&amp;section=3" title="Edit section: Notes and references

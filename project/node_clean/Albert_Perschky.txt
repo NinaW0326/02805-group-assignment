@@ -1,0 +1,77 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-macusa pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/d/dc/Albert_V_Perschky.png/revision/latest?cb=20161212201639" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/d/dc/Albert_V_Perschky.png/revision/latest/scale-to-width-down/184?cb=20161212201639" srcset="https://static.wikia.nocookie.net/harrypotter/images/d/dc/Albert_V_Perschky.png/revision/latest/scale-to-width-down/184?cb=20161212201639 1x, https://static.wikia.nocookie.net/harrypotter/images/d/dc/Albert_V_Perschky.png/revision/latest/scale-to-width-down/368?cb=20161212201639 2x" class="pi-image-thumbnail" alt="" width="184" height="234"
+		     data-image-key="Albert_V_Perschky.png" data-image-name="Albert V Perschky.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Albert Perschky</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="signature">
+	
+		<h3 class="pi-data-label pi-secondary-font">Signature</h3>
+	
+	<div class="pi-data-value pi-font"><a href="https://static.wikia.nocookie.net/harrypotter/images/1/19/Albert_Perschky_sig.svg/revision/latest?cb=20161212233225" class="image"><img alt="Albert Perschky sig.svg" src="https://static.wikia.nocookie.net/harrypotter/images/1/19/Albert_Perschky_sig.svg/revision/latest/scale-to-width-down/125?cb=20161212233225" decoding="async" width="125" height="54" data-image-name="Albert Perschky sig.svg" data-image-key="Albert_Perschky_sig.svg" /></a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Bald</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Apparition_Examiner" title="Apparition Examiner">Apparition Examiner</a><sup id="cite_ref-ID_1-0" class="reference"><a href="#cite_note-ID-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Magical_Congress_of_the_United_States_of_America" title="Magical Congress of the United States of America">Magical Congress of the United States of America</a></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p><p><b>Albert V. Perschky</b> was an American <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> who worked as an <a href="/wiki/Apparition_Examiner" title="Apparition Examiner">Apparition Examiner</a> for the <a href="/wiki/Magical_Congress_of_the_United_States_of_America" title="Magical Congress of the United States of America">Magical Congress of the United States of America</a> in <a href="/wiki/1926" title="1926">1926</a>.<sup id="cite_ref-ID_1-1" class="reference"><a href="#cite_note-ID-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Albert_Perschky?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Albert_Perschky?action=edit&amp;section=1" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(film)" title="Fantastic Beasts and Where to Find Them (film)">Fantastic Beasts and Where to Find Them (film)</a></i> <small>(Appears in photographs)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Albert_Perschky?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Albert_Perschky?action=edit&amp;section=2" title="Edit section: Notes and references

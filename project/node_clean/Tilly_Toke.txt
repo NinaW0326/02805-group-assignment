@@ -1,0 +1,129 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-portrait pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/2/21/Tilly_Toke_2.jpg/revision/latest?cb=20170730213427" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/2/21/Tilly_Toke_2.jpg/revision/latest/scale-to-width-down/350?cb=20170730213427" srcset="https://static.wikia.nocookie.net/harrypotter/images/2/21/Tilly_Toke_2.jpg/revision/latest/scale-to-width-down/350?cb=20170730213427 1x, https://static.wikia.nocookie.net/harrypotter/images/2/21/Tilly_Toke_2.jpg/revision/latest/scale-to-width-down/700?cb=20170730213427 2x" class="pi-image-thumbnail" alt="" width="270" height="306"
+		     data-image-key="Tilly_Toke_2.jpg" data-image-name="Tilly Toke 2.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Tilly Toke</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/1903" title="1903">1903</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/1991" title="1991">1991</a> (aged 87&ndash;88)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Blonde</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Blue</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Order_of_Merlin" title="Order of Merlin">Order of Merlin</a></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Tilly Toke</b>, <span class="template-c"><a href="/wiki/Order_of_Merlin" title="Order of Merlin">O.M. (First Class)</a></span>, (<a href="/wiki/1903" title="1903">1903</a>-<a href="/wiki/1991" title="1991">1991</a>) was a <a href="/wiki/Great_Britain" title="Great Britain">British</a> <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> who saved the lives of several <a href="/wiki/Non-magic_people" title="Non-magic people">Muggles</a> during the <a href="/wiki/Ilfracombe_Incident" title="Ilfracombe Incident">Ilfracombe Incident</a> in <a href="/wiki/1932" title="1932">1932</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Holidaying_in_Ilfracombe"><span class="tocnumber">1.1</span> <span class="toctext">Holidaying in Ilfracombe</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Postmortem"><span class="tocnumber">1.2</span> <span class="toctext">Postmortem</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Magical_abilities_and_skills"><span class="tocnumber">2</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Appearances"><span class="tocnumber">3</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Notes_and_references"><span class="tocnumber">4</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Tilly_Toke?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Tilly_Toke?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Holidaying_in_Ilfracombe">Holidaying in Ilfracombe</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Tilly_Toke?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Holidaying in Ilfracombe">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Tilly_Toke?action=edit&amp;section=2" title="Edit section: Holidaying in Ilfracombe"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Tilly had been holidaying with her family in <a href="/wiki/Ilfracombe" title="Ilfracombe">Ilfracombe</a>, in <a href="/wiki/Devon" title="Devon">Devon</a> in <a href="/wiki/1932" title="1932">1932</a>. One day, a rogue <a href="/wiki/Common_Welsh_Green" title="Common Welsh Green">Common Welsh Green</a> <a href="/wiki/Dragon" title="Dragon">dragon</a> swooped down upon the beach, full of sunbathing <a href="/wiki/Non-magic_people" title="Non-magic people">Muggles</a>. Along with her family, Tilly fended off the attack, thus preventing any fatalities. The family then proceeded to perform "the largest batch of <a href="/wiki/Memory_Charm" title="Memory Charm">Memory Charms</a> this century" on the inhabitants of Ilfracombe.<sup id="cite_ref-FBaWtFT_1-0" class="reference"><a href="#cite_note-FBaWtFT-1">&#91;1&#93;</a></sup>
+</p><p>The Toke family were all awarded <a href="/wiki/Order_of_Merlin" title="Order of Merlin">Order of Merlin</a>, First Class, for their heroic actions in Ilfracombe.<sup id="cite_ref-FBaWtFT_1-1" class="reference"><a href="#cite_note-FBaWtFT-1">&#91;1&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Postmortem">Postmortem</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Tilly_Toke?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Postmortem">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Tilly_Toke?action=edit&amp;section=3" title="Edit section: Postmortem"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In <a href="/wiki/1993" title="1993">1993</a>, a Portrait of Tilly was hung at the first-floor corridor of Hogwarts Castle, protecting a secret area. A password was needed to access it. The password to said portrait was <i>Dirigible</i>.<sup id="cite_ref-POAG_2-0" class="reference"><a href="#cite_note-POAG-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Tilly_Toke?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Tilly_Toke?action=edit&amp;section=4" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Charm" title="Charm">Charms</a></b>: Toke was shown to be highly proficient with charm-work, in particular with the advanced <a href="/wiki/Memory_Charm" title="Memory Charm">Memory Charm</a>, for which she used along with her family to erase all the memories of all the residents of <a href="/wiki/Ilfracombe" title="Ilfracombe">Ilfracombe</a> after the <a href="/wiki/Ilfracombe_Incident" title="Ilfracombe Incident">Ilfracombe Incident</a>, a remarkable <a href="/wiki/Magic" title="Magic">magical</a> achievement which gained her recognition on a <a href="/wiki/Chocolate_Frog_Card" title="Chocolate Frog Card">Chocolate Frog Card</a> and gained her an <a href="/wiki/Order_of_Merlin" title="Order of Merlin">Order of Merlin</a> first class award, for upholding the <a href="/wiki/International_Statute_of_Wizarding_Secrecy" title="International Statute of Wizarding Secrecy">International Statute of Wizarding Secrecy</a>.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Tilly_Toke?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Tilly_Toke?action=edit&amp;section=5" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 3 images related to <i><b><a href="/wiki/Category:Images_of_Tilly_Toke" title="Category:Images of Tilly Toke">Tilly Toke</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<figure class="thumb tright show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/d/d6/Tilly_Toke-28-chocFrogCard.png/revision/latest?cb=20160606202429" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/d/d6/Tilly_Toke-28-chocFrogCard.png/revision/latest/scale-to-width-down/180?cb=20160606202429" decoding="async" width="180" height="180" class="thumbimage" data-image-name="Tilly Toke-28-chocFrogCard.png" data-image-key="Tilly_Toke-28-chocFrogCard.png" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Tilly_Toke-28-chocFrogCard.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Tilly Toke immortalised on a bronze <a href="/wiki/Chocolate_Frog_Card" title="Chocolate Frog Card">Chocolate Frog Card</a></p> 		 	</figcaption> </figure>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(video_game)" title="Harry Potter and the Philosopher&#39;s Stone (video game)">Harry Potter and the Philosopher's Stone (video game)</a></i> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(video_game)" title="Harry Potter and the Chamber of Secrets (video game)">Harry Potter and the Chamber of Secrets (video game)</a></i> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(video_game)" title="Harry Potter and the Prisoner of Azkaban (video game)">Harry Potter and the Prisoner of Azkaban (video game)</a></i> <small>(Appears in portrait(s))</small></li>
+<li><i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(companion_book)" title="Fantastic Beasts and Where to Find Them (companion book)">Fantastic Beasts and Where to Find Them</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Tilly_Toke?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Tilly_Toke?action=edit&amp;section=6" title="Edit section: Notes and references

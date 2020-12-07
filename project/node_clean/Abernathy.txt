@@ -1,0 +1,146 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-grindelwald-acolyte pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/f/f5/Abernathy.jpeg/revision/latest?cb=20181130071211" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/f/f5/Abernathy.jpeg/revision/latest/scale-to-width-down/350?cb=20181130071211" srcset="https://static.wikia.nocookie.net/harrypotter/images/f/f5/Abernathy.jpeg/revision/latest/scale-to-width-down/350?cb=20181130071211 1x, https://static.wikia.nocookie.net/harrypotter/images/f/f5/Abernathy.jpeg/revision/latest/scale-to-width-down/700?cb=20181130071211 2x" class="pi-image-thumbnail" alt="" width="270" height="270"
+		     data-image-key="Abernathy.jpeg" data-image-name="Abernathy.jpeg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Abernathy</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">Before <a href="/wiki/1909" title="1909">1909</a> (likely)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/United_States_of_America" title="United States of America">American</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Brown</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Fair</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Magical characteristics</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="wand">
+	
+		<h3 class="pi-data-label pi-secondary-font">Wand</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Abernathy%27s_wand" title="Abernathy&#039;s wand">Unknown length, wood and core</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Supervisor for the <a href="/wiki/Wand_Permit_Office" title="Wand Permit Office">Wand Permit Office</a> of the <a href="/wiki/Magical_Congress_of_the_United_States_of_America" title="Magical Congress of the United States of America">Magical Congress of the United States of America</a> (formerly)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Magical_Congress_of_the_United_States_of_America" title="Magical Congress of the United States of America">Magical Congress of the United States of America</a> (formerly)<ul><li><a href="/wiki/Wand_Permit_Office" title="Wand Permit Office">Wand Permit Office</a> (formerly)</li></ul></li><li><a href="/wiki/Gellert_Grindelwald" title="Gellert Grindelwald">Gellert Grindelwald</a><ul><li><a href="/wiki/Alliance" title="Alliance">The Alliance</a></li></ul></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Abernathy</b> (fl. <a href="/wiki/1920s" title="1920s">1920s</a>) was an <a href="/wiki/United_States_of_America" title="United States of America">American</a> <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a>, employee for the <a href="/wiki/Magical_Congress_of_the_United_States_of_America" title="Magical Congress of the United States of America">Magical Congress of the United States of America</a> and eventual follower and <a href="/wiki/Gellert_Grindelwald%27s_acolytes" title="Gellert Grindelwald&#39;s acolytes">acolyte</a> of <a href="/wiki/Gellert_Grindelwald" title="Gellert Grindelwald">Gellert Grindelwald</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Personality_and_traits"><span class="tocnumber">2</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Magical_abilities_and_skills"><span class="tocnumber">3</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Possessions"><span class="tocnumber">4</span> <span class="toctext">Possessions</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Behind_the_scenes"><span class="tocnumber">5</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Appearances"><span class="tocnumber">6</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Notes_and_references"><span class="tocnumber">7</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Abernathy?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Abernathy?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In <a href="/wiki/1926" title="1926">1926</a>, he served as a supervisor to both <a href="/wiki/Porpentina_Goldstein" title="Porpentina Goldstein">Tina</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> and <a href="/wiki/Queenie_Goldstein" title="Queenie Goldstein">Queenie Goldstein</a><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> in the <a href="/wiki/Wand_Permit_Office" title="Wand Permit Office">Wand Permit Office</a> and was responsible for overseeing their activities and whereabouts. He was unhappy when he found out that Tina had interrupted a meeting held by the Investigative Team again and admonished her. He asked her whether she was investigating the <a href="/wiki/New_Salem_Philanthropic_Society" title="New Salem Philanthropic Society">New Salem Philanthropic Society</a> again, but when <a href="/wiki/Percival_Graves" title="Percival Graves">Percival Graves</a> showed up, he immediately brightened up and politely said hello.
+</p><p>Later, he questioned Queenie where she was going and what she had in her <a href="/wiki/Newton_Scamander%27s_suitcase" title="Newton Scamander&#39;s suitcase">suitcase</a>, while she was attempting to transport Tina, <a href="/wiki/Newton_Scamander" title="Newton Scamander">Newt Scamander</a> and <a href="/wiki/Jacob_Kowalski" title="Jacob Kowalski">Jacob Kowalski</a> from the MACUSA building unnoticed. Queenie replied that she was ill and that the luggage contained women's things. When asked if he wanted to take a look, Abernathy immediately and uncomfortably replied that he would not, and wished her to get well.
+</p>
+<figure class="thumb tleft show-info-icon" style="width: 202px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/6/6d/Grindelwald_turns_into_Abernathy.png/revision/latest?cb=20181226015204" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/6/6d/Grindelwald_turns_into_Abernathy.png/revision/latest/scale-to-width-down/200?cb=20181226015204" decoding="async" width="200" height="94" class="thumbimage" data-image-name="Grindelwald turns into Abernathy.png" data-image-key="Grindelwald_turns_into_Abernathy.png" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Grindelwald_turns_into_Abernathy.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Abernathy in the Incarceration Carriage</p> 		 	</figcaption> </figure>
+<p>A few months later, early in <a href="/wiki/1927" title="1927">1927</a>, Abernathy assisted with the escape of <a href="/wiki/Gellert_Grindelwald" title="Gellert Grindelwald">Gellert Grindelwald</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> He helped Grindelwald escape by temporarily switching appearances with the <a href="/wiki/Dark_Wizard" title="Dark Wizard">Dark Wizard</a> using <a href="/wiki/Human_Transfiguration" title="Human Transfiguration">Human Transfiguration</a>, and boarding the <a href="/wiki/Incarceration_Carriage" title="Incarceration Carriage">Incarceration Carriage</a> together with a team of <a href="/wiki/Auror" title="Auror">Aurors</a> and <a href="/wiki/Rudolph_Spielman" title="Rudolph Spielman">Rudolph Spielman</a>. Grindelwald (still bearing Abernathy's appearance) then <a href="/wiki/Apparition" title="Apparition">apparated</a> onto the carriage, killed the <a href="/wiki/Auror" title="Auror">Aurors</a>, sent Spielman flying down from the carriage (although he survived thanks to a <a href="/wiki/Slowing_Charm" title="Slowing Charm">Slowing Charm</a>), and <a href="/wiki/Conjuration" title="Conjuration">conjured</a> Abernathy (now restored to his true appearance) a new tongue, while Abernathy gave Grindelwald the salvaged <a href="/wiki/Blood_pact" title="Blood pact">blood pact</a> vial. The two rogue wizards then flew away to <a href="/wiki/Europe" title="Europe">Europe</a>, probably to <a href="/wiki/Nurmengard_Castle" title="Nurmengard Castle">Nurmengard</a>.<sup id="cite_ref-COGS_5-0" class="reference"><a href="#cite_note-COGS-5">&#91;5&#93;</a></sup>
+</p>
+<figure class="thumb tright show-info-icon" style="width: 222px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/0/04/Abernathy_joining_Grindelwald.gif/revision/latest?cb=20190820210621" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/0/04/Abernathy_joining_Grindelwald.gif/revision/latest/scale-to-width-down/220?cb=20190820210621" decoding="async" width="220" height="92" class="thumbimage" data-image-name="Abernathy joining Grindelwald.gif" data-image-key="Abernathy_joining_Grindelwald.gif" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Abernathy_joining_Grindelwald.gif" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Abernathy in the circle of flames</p> 		 	</figcaption> </figure>
+<p>Three months later, Abernathy travelled with Grindelwald and other <a href="/wiki/Gellert_Grindelwald%27s_acolytes" title="Gellert Grindelwald&#39;s acolytes">acolytes</a> to <a href="/wiki/Paris" title="Paris">Paris</a>, intending to find <a href="/wiki/Credence_Barebone" title="Credence Barebone">Credence Barebone</a> and to spread word of their <a href="/wiki/Wizarding_supremacy" title="Wizarding supremacy">cause</a>. Abernathy took part in the <a href="/wiki/Killing_Curse" title="Killing Curse">murdering</a> of a Non-Magical family in Paris with his fellow acolytes, which allowed them to take over the now unoccupied <a href="/wiki/Unidentified_home_used_by_Gellert_Grindelwald" title="Unidentified home used by Gellert Grindelwald">home</a> as a safe haven and base for them. In this house, he keenly listened to how Grindelwald expressed the utmost need to find Credence Barebone, as Credence was the only key which would allow him to kill his former friend <a href="/wiki/Albus_Dumbledore" title="Albus Dumbledore">Albus Dumbledore</a>, the biggest threat to their cause. Using <a href="/wiki/Magic" title="Magic">magic</a>, he took on the appearance of an elderly witch to take a <a href="/wiki/Lestrange_family" title="Lestrange family">Lestrange family</a> box from <a href="/wiki/French_Ministry_of_Magic_Records_Room" title="French Ministry of Magic Records Room">Records Room</a> in the <a href="/wiki/French_Ministry_of_Magic" title="French Ministry of Magic">French Ministry of Magic</a>, with the assistance of fellow devoted acolyte <a href="/wiki/Vinda_Rosier" title="Vinda Rosier">Vinda Rosier</a>. He later left the box in the Lestrange tomb for Credence to find. Abernathy attended the subsequent <a href="/wiki/Gellert_Grindelwald%27s_Paris_rally" title="Gellert Grindelwald&#39;s Paris rally">rally of Grindelwald's</a> at the <a href="/wiki/Lestrange_Mausoleum" title="Lestrange Mausoleum">Lestrange Mausoleum</a> as one of his acolytes. When Grindelwald conjured <a href="/wiki/Protego_Diabolica" title="Protego Diabolica">a circle of protective fire around himself</a> to test the loyalty of his followers, he stepped into the black <a href="/wiki/Fire" title="Fire">flames</a> unharmed and also disapparated away along with his fellow acolytes (with the sole exception of <a href="/wiki/Krall" title="Krall">Krall</a>, who was incinerated in the flames for his disloyalty), showing his intense and unwavering loyalty to Grindelwald and his cause.<sup id="cite_ref-COGS_5-1" class="reference"><a href="#cite_note-COGS-5">&#91;5&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Abernathy?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Personality and traits">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Abernathy?action=edit&amp;section=2" title="Edit section: Personality and traits"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Abernathy was originally a diligent employee at MACUSA holding a position of minor leadership. Notably, he was charged with overseeing the activities of several minor MACUSA functionaries, including the Goldstein sisters. He upheld the conventions of the time and was rather curt towards former Auror <a href="/wiki/Porpentina_Goldstein" title="Porpentina Goldstein">Porpentina Goldstein</a> following her demotion to the <a href="/wiki/Wand_Permit_Office" title="Wand Permit Office">Wand Permit Office</a> for using magic against <a href="/wiki/Mary_Lou_Barebone" title="Mary Lou Barebone">a non-wizard</a> in front of several equally non-magical witnesses. He also respected authority, falling back while in the middle of reprimanding the aforementioned employee when what appeared to be <a href="/wiki/Percival_Graves" title="Percival Graves">Percival Graves</a> entered the room. Despite his largely strict and conscientious attitude, however, he was not a completely inflexible man, prone to let his feelings get the better of him like any other.
+</p><p>This was seen when he allowed the beauty of <a href="/wiki/Queenie_Goldstein" title="Queenie Goldstein">Queenie Goldstein</a> to cloud his judgement, letting her steal the recently impounded <a href="/wiki/Newton_Scamander%27s_suitcase" title="Newton Scamander&#39;s suitcase">suitcase</a> of <a href="/wiki/Newton_Scamander" title="Newton Scamander">Newt Scamander</a> before it could be investigated. Following the arrest of <a href="/wiki/Gellert_Grindelwald" title="Gellert Grindelwald">Gellert Grindelwald</a>, he took on additional responsibilities at MACUSA, being directly involved in overseeing Grindelwald's containment. This clearly displays what a determined and achievement-oriented person Abernathy was, could be, successfully securing the confidence of (and concealing his new allegiances from) <a href="/wiki/President_of_the_Magical_Congress_of_the_United_States_of_America" title="President of the Magical Congress of the United States of America">President</a> <a href="/wiki/Seraphina_Picquery" title="Seraphina Picquery">Seraphina Picquery</a>, a keenly intelligent and gifted witch, up until the time he and Grindelwald swapped places.
+</p><p>Even more impressive was the fact that he did so in light of the fact that trained members of the <a href="/wiki/Department_of_Aurors" title="Department of Aurors">Department of Aurors</a> set to guard Grindelwald's cell had had to be rotated because Grindelwald's charisma was known to persuade them to join his cause. Like so many other witches and wizards in the <a href="/wiki/Rappaport%27s_Law" title="Rappaport&#39;s Law">segregated</a> wizarding community of America, Abernathy mistrusted <a href="/wiki/No-Majs" class="mw-redirect" title="No-Majs">No-Majs</a>, evidently sharing the sort of 'us versus them' mentality that lead to the introduction of Rappaport's Law and would make the prospect of devoting all his energies to the <a href="/wiki/For_the_Greater_Good" title="For the Greater Good">Greater Good</a> seem appealing. This was most clearly shown by how when he, unlike the <a href="/wiki/Gellert_Grindelwald%27s_army" class="mw-redirect" title="Gellert Grindelwald&#39;s army">rabble</a> of Grindelwald's supporters, became counted among the <a href="/wiki/Gellert_Grindelwald%27s_acolytes" title="Gellert Grindelwald&#39;s acolytes">selected few</a> whom their revolutionary leader was utterly unconcerned about showing his ruthless streak in front of, and Abernathy even witnessed the murder of non-wizards and remained staunchly loyal.
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Abernathy?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Abernathy?action=edit&amp;section=3" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Apparition" title="Apparition">Apparition</a></b>: Abernathy was capable of apparition, as he was able to successfully apparate away from the <a href="/wiki/Lestrange_Mausoleum" title="Lestrange Mausoleum">Lestrange Mausoleum</a>.<sup id="cite_ref-COGS_5-2" class="reference"><a href="#cite_note-COGS-5">&#91;5&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Possessions">Possessions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Abernathy?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Possessions">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Abernathy?action=edit&amp;section=4" title="Edit section: Possessions"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tright show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/3/3e/Abernathy%27s_wand.jpg/revision/latest?cb=20181125171432" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/3/3e/Abernathy%27s_wand.jpg/revision/latest/scale-to-width-down/180?cb=20181125171432" decoding="async" width="180" height="180" class="thumbimage" data-image-name="Abernathy&#39;s wand.jpg" data-image-key="Abernathy&#39;s_wand.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Abernathy%27s_wand.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Abernathy's wand</p> 		 	</figcaption> </figure>
+<ul><li><b><a href="/wiki/Abernathy%27s_wand" title="Abernathy&#39;s wand">Wand</a></b>: Abernathy's <a href="/wiki/Wand" title="Wand">wand</a> was of unknown length, <a href="/wiki/Wand_wood" title="Wand wood">wood</a> and <a href="/wiki/Wand_core" title="Wand core">core</a> material.</li></ul>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Abernathy?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Abernathy?action=edit&amp;section=5" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Abernathy was portrayed by <a href="/wiki/Kevin_Guthrie" title="Kevin Guthrie">Kevin Guthrie</a> in <i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(film)" title="Fantastic Beasts and Where to Find Them (film)">Fantastic Beasts and Where to Find Them</a></i> and <i><a href="/wiki/Fantastic_Beasts:_The_Crimes_of_Grindelwald" title="Fantastic Beasts: The Crimes of Grindelwald">Fantastic Beasts: The Crimes of Grindelwald</a></i>.</li>
+<li>It is currently unconfirmed whether Abernathy joined Gellert Grindelwald before or after the latter's arrest by MACUSA, or what role he played, if any, in Grindelwald's infiltration under the guise of <a href="/wiki/Percival_Graves" title="Percival Graves">Percival Graves</a>.</li>
+<li>Abernathy's participation in <a href="/wiki/Gellert_Grindelwald%27s_escape" title="Gellert Grindelwald&#39;s escape">Grindelwald's escape</a> resembles <a href="/wiki/Peter_Pettigrew" title="Peter Pettigrew">Peter Pettigrew</a>'s participation in <a href="/wiki/Return_of_Lord_Voldemort" title="Return of Lord Voldemort">Voldemort's rebirth</a>. They were both followers of <a href="/wiki/Dark_wizard" class="mw-redirect" title="Dark wizard">Dark wizards</a> (<a href="/wiki/Gellert_Grindelwald" title="Gellert Grindelwald">Gellert Grindelwald</a> and <a href="/wiki/Tom_Riddle" title="Tom Riddle">Lord Voldemort</a>) and helped them return. To this end, they sacrificed a part of the body (Abernathy's tongue, and Peter's hand) that had been disenchanted by their masters for helping them.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Abernathy?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Abernathy?action=edit&amp;section=6" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them:_The_Original_Screenplay" title="Fantastic Beasts and Where to Find Them: The Original Screenplay">Fantastic Beasts and Where to Find Them: The Original Screenplay</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(film)" title="Fantastic Beasts and Where to Find Them (film)">Fantastic Beasts and Where to Find Them (film)</a></i></li>
+<li><i><a href="/wiki/Fantastic_Beasts:_The_Crimes_of_Grindelwald_-_The_Original_Screenplay" title="Fantastic Beasts: The Crimes of Grindelwald - The Original Screenplay">Fantastic Beasts: The Crimes of Grindelwald - The Original Screenplay</a></i></li>
+<li><i><a href="/wiki/Fantastic_Beasts:_The_Crimes_of_Grindelwald" title="Fantastic Beasts: The Crimes of Grindelwald">Fantastic Beasts: The Crimes of Grindelwald</a></i></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i></li>
+<li><i><a href="/wiki/Wizarding_World_(website)" title="Wizarding World (website)">Wizarding World</a></i></li>
+<li><i><a href="/wiki/LEGO_Dimensions" title="LEGO Dimensions">LEGO Dimensions</a></i></li>
+<li><i><a href="/wiki/The_Archive_of_Magic:_The_Film_Wizardry_of_Fantastic_Beasts:_The_Crimes_of_Grindelwald" title="The Archive of Magic: The Film Wizardry of Fantastic Beasts: The Crimes of Grindelwald">The Archive of Magic: The Film Wizardry of Fantastic Beasts: The Crimes of Grindelwald</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Abernathy?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Abernathy?action=edit&amp;section=7" title="Edit section: Notes and references

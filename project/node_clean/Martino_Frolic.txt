@@ -1,0 +1,43 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/6/62/MartinoFrolic-BraveryAgainstFantasticBeasts.png/revision/latest?cb=20151231155417" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/6/62/MartinoFrolic-BraveryAgainstFantasticBeasts.png/revision/latest/scale-to-width-down/350?cb=20151231155417" srcset="https://static.wikia.nocookie.net/harrypotter/images/6/62/MartinoFrolic-BraveryAgainstFantasticBeasts.png/revision/latest/scale-to-width-down/350?cb=20151231155417 1x, https://static.wikia.nocookie.net/harrypotter/images/6/62/MartinoFrolic-BraveryAgainstFantasticBeasts.png/revision/latest/scale-to-width-down/700?cb=20151231155417 2x" class="pi-image-thumbnail" alt="" width="270" height="354"
+		     data-image-key="MartinoFrolic-BraveryAgainstFantasticBeasts.png" data-image-name="MartinoFrolic-BraveryAgainstFantasticBeasts.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Martino Frolic</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Martino Frolic</b> was a <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> who, in <a href="/wiki/1921" title="1921">1921</a>, received the <a href="/wiki/Bravery_Against_Fantastic_Beasts_Award" title="Bravery Against Fantastic Beasts Award">Bravery Against Fantastic Beasts Award</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Martino_Frolic?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Martino_Frolic?action=edit&amp;section=1" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Harry_Potter_(film_series)" title="Harry Potter (film series)"><i>Harry Potter</i> films</a> <span class="template-c">(Mentioned on cup)</span></li>
+<li><i><a href="/wiki/The_Making_of_Harry_Potter" title="The Making of Harry Potter">The Making of Harry Potter</a></i> <span class="template-c">(Mentioned on cup)</span></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Martino_Frolic?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Martino_Frolic?action=edit&amp;section=2" title="Edit section: Notes and references

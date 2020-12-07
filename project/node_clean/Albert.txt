@@ -1,0 +1,104 @@
+<div class="mw-parser-output"><table class="notice metadata" cellpadding="3px" style="text-align: center; background: snow; border: #a00 1px solid; margin: 1em 10% 1em 10%;">
+
+<tbody><tr>
+<td><div class="floatleft"><a href="https://static.wikia.nocookie.net/harrypotter/images/1/13/Erised.PNG/revision/latest?cb=20060611045014" class="image"><img alt="Erised.PNG" src="https://static.wikia.nocookie.net/harrypotter/images/1/13/Erised.PNG/revision/latest/scale-to-width-down/30?cb=20060611045014" decoding="async" width="30" height="63" data-image-name="Erised.PNG" data-image-key="Erised.PNG" /></a></div>
+</td>
+<td><i><b>"I show not your face but your heart's desire."</b></i>
+<p>This page "shows not" an image, but just a written article. Please help the <a href="/wiki/Harry_Potter_Wiki:Introduction" title="Harry Potter Wiki:Introduction">Harry Potter Wiki</a> by <a href="/wiki/Special:Upload" title="Special:Upload">uploading</a> and adding an image to this article and then removing this template.
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-hufflepuff pi-layout-default"><section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Albert</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">on or prior to <a href="/wiki/31_August" title="31 August">31 August</a> <a href="/wiki/1981" title="1981">1981</a>,<sup id="cite_ref-age_1-0" class="reference"><a href="#cite_note-age-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a> or <a href="/wiki/Ireland" title="Ireland">Irish</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-COSG_3-0" class="reference"><a href="#cite_note-COSG-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male<sup id="cite_ref-COSG_3-1" class="reference"><a href="#cite_note-COSG-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Blond<sup id="cite_ref-COSG_3-2" class="reference"><a href="#cite_note-COSG-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Light<sup id="cite_ref-COSG_3-3" class="reference"><a href="#cite_note-COSG-3">&#91;3&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Marilyn" title="Marilyn">Marilyn</a> (possibly)</li><li><a href="/wiki/Arthur_(Hufflepuff_student)" title="Arthur (Hufflepuff student)">Arthur</a> (possibly)</li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="house">
+	
+		<h3 class="pi-data-label pi-secondary-font">House</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Hufflepuff" title="Hufflepuff">Hufflepuff</a><sup id="cite_ref-COSG_3-4" class="reference"><a href="#cite_note-COSG-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a><sup id="cite_ref-COSG_3-5" class="reference"><a href="#cite_note-COSG-3">&#91;3&#93;</a></sup><ul><li><a href="/wiki/Hufflepuff" title="Hufflepuff">Hufflepuff</a><sup id="cite_ref-COSG_3-6" class="reference"><a href="#cite_note-COSG-3">&#91;3&#93;</a></sup></li></ul></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Albert</b> was a <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> and student at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a>, who was <a href="/wiki/Sorting_ceremony" title="Sorting ceremony">sorted</a> into <a href="/wiki/Hufflepuff" title="Hufflepuff">Hufflepuff</a> in the <a href="/wiki/1990s" title="1990s">1990s</a>. He said that <a href="/wiki/Argus_Filch" title="Argus Filch">Argus Filch</a> talked to his <a href="/wiki/Mrs_Norris" title="Mrs Norris">cat</a> suggesting that he was a character in the <a href="/wiki/Plot_to_open_the_Chamber_of_Secrets" title="Plot to open the Chamber of Secrets">plot</a> to open the <a href="/wiki/Chamber_of_Secrets" title="Chamber of Secrets">Chamber of Secrets</a>, and that Filch punished him for being out of bed at night time. He said that he wished there would be an Heir of Hufflepuff and asked <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> if he could say Albert in <a href="/wiki/Parseltongue" title="Parseltongue">Parseltongue</a>. He once got a bag of beetle pincers by <a href="/wiki/Owl" title="Owl">owl</a>.<sup id="cite_ref-COSG_3-7" class="reference"><a href="#cite_note-COSG-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Albert?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Albert?action=edit&amp;section=1" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>He may be related to <a href="/wiki/Marilyn" title="Marilyn">Marilyn</a> and <a href="/wiki/Arthur_(Hufflepuff_student)" title="Arthur (Hufflepuff student)">Arthur</a> by the fact that he is a <a href="/wiki/Hufflepuff" title="Hufflepuff">Hufflepuff</a>, shared the same love for beetle pincers and the out-of-universe fact that he only appeared in the PC version of the game.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Albert?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Albert?action=edit&amp;section=2" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(video_game)" title="Harry Potter and the Chamber of Secrets (video game)">Harry Potter and the Chamber of Secrets (video game)</a></i> <small>(First mentioned)</small> <span class="template-c">(PC version only)</span></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Albert?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Albert?action=edit&amp;section=3" title="Edit section: Notes and references

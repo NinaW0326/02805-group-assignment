@@ -1,0 +1,116 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-creature pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/7/74/Apolline_Delacour.jpg/revision/latest?cb=20110416193109" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/7/74/Apolline_Delacour.jpg/revision/latest/scale-to-width-down/239?cb=20110416193109" srcset="https://static.wikia.nocookie.net/harrypotter/images/7/74/Apolline_Delacour.jpg/revision/latest/scale-to-width-down/239?cb=20110416193109 1x, https://static.wikia.nocookie.net/harrypotter/images/7/74/Apolline_Delacour.jpg/revision/latest/scale-to-width-down/478?cb=20110416193109 2x" class="pi-image-thumbnail" alt="" width="239" height="447"
+		     data-image-key="Apolline_Delacour.jpg" data-image-name="Apolline Delacour.jpg"/>
+		
+	</a>
+	
+</figure>
+
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Half-Veela</h2>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Species information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Often light<sup id="cite_ref-GOF15_1-0" class="reference"><a href="#cite_note-GOF15-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="related">
+	
+		<h3 class="pi-data-label pi-secondary-font">Related to</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Veela" title="Veela">Veela</a><sup id="cite_ref-PM_2-0" class="reference"><a href="#cite_note-PM-2">&#91;2&#93;</a></sup></li><li><a href="/wiki/Wizardkind" title="Wizardkind">Wizards</a><sup id="cite_ref-PM_2-1" class="reference"><a href="#cite_note-PM-2">&#91;2&#93;</a></sup></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="mortality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Mortality</h3>
+	
+	<div class="pi-data-value pi-font">Mortal</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="distinction">
+	
+		<h3 class="pi-data-label pi-secondary-font">Distinction</h3>
+	
+	<div class="pi-data-value pi-font">Cross-breed between <a href="/wiki/Human" title="Human">human</a> and <a href="/wiki/Veela" title="Veela">Veela</a><sup id="cite_ref-PM_2-2" class="reference"><a href="#cite_note-PM-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="class">
+	
+		<h3 class="pi-data-label pi-secondary-font"><a href="/wiki/Department_for_the_Regulation_and_Control_of_Magical_Creatures#Ministry_Classification_of_Magical_Creatures" title="Department for the Regulation and Control of Magical Creatures">Ministry of Magic Classification</a></h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Being" title="Being">Being</a><sup id="cite_ref-PM_2-3" class="reference"><a href="#cite_note-PM-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="status">
+	
+		<h3 class="pi-data-label pi-secondary-font">Status</h3>
+	
+	<div class="pi-data-value pi-font">Extant</div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Creature_infobox" title="Template:Creature infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+A <b>half-Veela</b> is a cross-breed between a <a href="/wiki/Human" title="Human">human</a> (normally a <a href="/wiki/Wizardkind" title="Wizardkind">wizard or witch</a>) and a <a href="/wiki/Veela" title="Veela">Veela</a>.<sup id="cite_ref-PM_2-4" class="reference"><a href="#cite_note-PM-2">&#91;2&#93;</a></sup> It is unknown if Veela can breed with <a href="/wiki/Non-magic_people" title="Non-magic people">Muggles</a>, and it is unlikely that a Muggle would ever learn of their existence, thus most or all half-Veela will inherit <a href="/wiki/Magic" title="Magic">magical</a> ability from their human parent.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Inheritance_of_Veela_abilities"><span class="tocnumber">1</span> <span class="toctext">Inheritance of Veela abilities</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Prejudice"><span class="tocnumber">2</span> <span class="toctext">Prejudice</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Gender"><span class="tocnumber">3</span> <span class="toctext">Gender</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Examples"><span class="tocnumber">4</span> <span class="toctext">Examples</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Appearances"><span class="tocnumber">6</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Notes_and_references"><span class="tocnumber">7</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Inheritance_of_Veela_abilities">Inheritance of Veela abilities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Half-Veela?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Inheritance of Veela abilities">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Half-Veela?action=edit&amp;section=1" title="Edit section: Inheritance of Veela abilities"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tright show-info-icon" style="width: 142px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/a/a6/Fleur_Dealcour_promo.jpg/revision/latest?cb=20131203090347" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/a/a6/Fleur_Dealcour_promo.jpg/revision/latest/scale-to-width-down/140?cb=20131203090347" decoding="async" width="140" height="210" class="thumbimage" data-image-name="Fleur Dealcour promo.jpg" data-image-key="Fleur_Dealcour_promo.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Fleur_Dealcour_promo.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption"><a href="/wiki/Fleur_Delacour" title="Fleur Delacour">Fleur Delacour</a>, a part-Veela</p> 		 	</figcaption> </figure>
+<p>From their Veela parent, they gain some Veela traits, such as breathtaking beauty and the ability to <a href="/wiki/Veela_Magic" title="Veela Magic">entrance</a> men <a href="/wiki/Magic" title="Magic">magically</a>.<sup id="cite_ref-GOF15_1-1" class="reference"><a href="#cite_note-GOF15-1">&#91;1&#93;</a></sup> It is unknown if half-Veela are able to shape-shift into <a href="/wiki/Bird" title="Bird">bird</a>-like creatures as full Veela can.<sup id="cite_ref-GOF8_3-0" class="reference"><a href="#cite_note-GOF8-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Prejudice">Prejudice</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Half-Veela?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Prejudice">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Half-Veela?action=edit&amp;section=2" title="Edit section: Prejudice"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Because they are <a href="/wiki/Half-breed" title="Half-breed">half-breeds</a>, half-Veela may experience the same prejudices that befall other half-breeds, though they are more difficult to detect than other half-breeds, such as <a href="/wiki/Half-giant" title="Half-giant">Half-giants</a>, because apart from their great physical beauty, they are otherwise identical to humans.
+</p>
+<h2><span class="mw-headline" id="Gender">Gender</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Half-Veela?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Gender">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Half-Veela?action=edit&amp;section=3" title="Edit section: Gender"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The only known male with Veela ancestry is <a href="/wiki/Louis_Weasley" title="Louis Weasley">Louis Weasley</a>, who was one-eighth Veela through his <a href="/wiki/Fleur_Delacour" title="Fleur Delacour">mother</a>.<sup id="cite_ref-PM_2-5" class="reference"><a href="#cite_note-PM-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Examples">Examples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Half-Veela?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Examples">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Half-Veela?action=edit&amp;section=4" title="Edit section: Examples"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Half-Veela: <a href="/wiki/Apolline_Delacour" title="Apolline Delacour">Apolline Delacour</a>.<sup id="cite_ref-DH8_4-0" class="reference"><a href="#cite_note-DH8-4">&#91;4&#93;</a></sup></li>
+<li>One-quarter Veela: <a href="/wiki/Fleur_Delacour" title="Fleur Delacour">Fleur Delacour</a>, <a href="/wiki/Gabrielle_Delacour" title="Gabrielle Delacour">Gabrielle Delacour</a><sup id="cite_ref-GOF15_1-2" class="reference"><a href="#cite_note-GOF15-1">&#91;1&#93;</a></sup></li>
+<li>One-eighth Veela: <a href="/wiki/Victoire_Weasley" title="Victoire Weasley">Victoire Weasley</a>, <a href="/wiki/Dominique_Weasley" title="Dominique Weasley">Dominique Weasley</a>, <a href="/wiki/Louis_Weasley" title="Louis Weasley">Louis Weasley</a><sup id="cite_ref-PM_2-6" class="reference"><a href="#cite_note-PM-2">&#91;2&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Half-Veela?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: See also">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Half-Veela?action=edit&amp;section=5" title="Edit section: See also"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Veela" title="Veela">Veela</a></li>
+<li><a href="/wiki/Half-breed" title="Half-breed">Half-breeds</a></li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Half-Veela?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Half-Veela?action=edit&amp;section=6" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire" title="Harry Potter and the Goblet of Fire">Harry Potter and the Goblet of Fire</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire_(film)" title="Harry Potter and the Goblet of Fire (film)">Harry Potter and the Goblet of Fire (film)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire_(video_game)" title="Harry Potter and the Goblet of Fire (video game)">Harry Potter and the Goblet of Fire (video game)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">Harry Potter and the Order of the Phoenix</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">Harry Potter and the Half-Blood Prince</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince_(film)" title="Harry Potter and the Half-Blood Prince (film)">Harry Potter and the Half-Blood Prince (film)</a></i> <small>(Appears in flashback(s))</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">Harry Potter and the Deathly Hallows</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1" title="Harry Potter and the Deathly Hallows: Part 1">Harry Potter and the Deathly Hallows: Part 1</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1_(video_game)" title="Harry Potter and the Deathly Hallows: Part 1 (video game)">Harry Potter and the Deathly Hallows: Part 1 (video game)</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_2" title="Harry Potter and the Deathly Hallows: Part 2">Harry Potter and the Deathly Hallows: Part 2</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Cursed_Child" title="Harry Potter and the Cursed Child">Harry Potter and the Cursed Child</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Cursed_Child_(play)" title="Harry Potter and the Cursed Child (play)">Harry Potter and the Cursed Child (play)</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter:_Years_1-4" title="LEGO Harry Potter: Years 1-4">LEGO Harry Potter: Years 1-4</a></i></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter:_Years_5-7" title="LEGO Harry Potter: Years 5-7">LEGO Harry Potter: Years 5-7</a></i></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter" title="LEGO Harry Potter">LEGO Harry Potter</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_for_Kinect" title="Harry Potter for Kinect">Harry Potter for Kinect</a></i></li>
+<li><i><a href="/wiki/J.K._Rowling:_A_Year_in_the_Life" title="J.K. Rowling: A Year in the Life">J.K. Rowling: A Year in the Life</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Harry_Potter:_The_Character_Vault" title="Harry Potter: The Character Vault">Harry Potter: The Character Vault</a></i></li>
+<li><i><a href="/wiki/Harry_Potter:_The_Creature_Vault" title="Harry Potter: The Creature Vault">Harry Potter: The Creature Vault</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i></li>
+<li><i><a href="/wiki/Wizarding_World_(website)" title="Wizarding World (website)">Wizarding World</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Half-Veela?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Half-Veela?action=edit&amp;section=7" title="Edit section: Notes and references

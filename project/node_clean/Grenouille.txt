@@ -1,0 +1,72 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/2/24/Grenouille.png/revision/latest?cb=20121122214023" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/2/24/Grenouille.png/revision/latest/scale-to-width-down/202?cb=20121122214023" srcset="https://static.wikia.nocookie.net/harrypotter/images/2/24/Grenouille.png/revision/latest/scale-to-width-down/202?cb=20121122214023 1x, https://static.wikia.nocookie.net/harrypotter/images/2/24/Grenouille.png/revision/latest/scale-to-width-down/404?cb=20121122214023 2x" class="pi-image-thumbnail" alt="" width="202" height="259"
+		     data-image-key="Grenouille.png" data-image-name="Grenouille.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Grenouille</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font">French</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="title">
+	
+		<h3 class="pi-data-label pi-secondary-font">Title(s)</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Keeper" title="Keeper">Keeper</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Quidditch Through the Ages (real)"><b>Grenouille</b>: "<i>I cannot go with you to the market today, Crapaud.</i>"</span></dd>
+<dd><b>Crapaud</b>: "<i>But Grenouille, I cannot carry the cow alone.</i>"</dd>
+<dd><b>Grenouille</b>: "<i>You know, Crapaud, that I am to be Keeper this morning.  Who will stop the Quaffle if I do not?</i>"</dd>
+<dd>&#8212; Extract from <i>Hélas, Je me suis Transfiguré Les Pieds</i><sup class="noprint"><a href="/wiki/Quidditch_Through_the_Ages_(real)" title="Quidditch Through the Ages (real)">[src]</a></sup></dd></dl>
+</div>
+<p><b>Grenouille</b> is a character in the <a href="/wiki/15th_century" title="15th century">15th century</a> play <i><a href="/wiki/H%C3%A9las,_Je_me_suis_Transfigur%C3%A9_Les_Pieds" title="Hélas, Je me suis Transfiguré Les Pieds">Hélas, Je me suis Transfiguré Les Pieds</a></i> ("Alas, I have Transfigured My Feet") by the French writer, <a href="/wiki/Malecrit" title="Malecrit">Malecrit</a>.
+</p><p>In the play, Grenouille has to refuse help to <a href="/wiki/Crapaud" title="Crapaud">Crapaud</a> since he is to play as a <a href="/wiki/Keeper" title="Keeper">Keeper</a> in a <a href="/wiki/Quidditch" title="Quidditch">Quidditch</a> match.<sup id="cite_ref-QA8_1-0" class="reference"><a href="#cite_note-QA8-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Grenouille?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Grenouille?action=edit&amp;section=1" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i>"Grenouille"</i> is the French word for <i>"frog"</i>.
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Grenouille?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Grenouille?action=edit&amp;section=2" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Quidditch_Through_the_Ages_(real)" title="Quidditch Through the Ages (real)">Quidditch Through the Ages</a></i> <small>(First mentioned)</small></li>
+<li><i><a href="/wiki/Wonderbook:_Book_of_Spells" title="Wonderbook: Book of Spells">Wonderbook: Book of Spells</a></i> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Grenouille?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Grenouille?action=edit&amp;section=3" title="Edit section: Notes and references

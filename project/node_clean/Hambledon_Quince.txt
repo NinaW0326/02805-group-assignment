@@ -1,0 +1,104 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/8/8d/HambledonQuince.png/revision/latest?cb=20130316121835" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/8/8d/HambledonQuince.png/revision/latest/scale-to-width-down/251?cb=20130316121835" srcset="https://static.wikia.nocookie.net/harrypotter/images/8/8d/HambledonQuince.png/revision/latest/scale-to-width-down/251?cb=20130316121835 1x, https://static.wikia.nocookie.net/harrypotter/images/8/8d/HambledonQuince.png/revision/latest/scale-to-width-down/502?cb=20130316121835 2x" class="pi-image-thumbnail" alt="" width="251" height="320"
+		     data-image-key="HambledonQuince.png" data-image-name="HambledonQuince.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Hambledon Quince</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/1936" title="1936">1936</a><sup id="cite_ref-JKRS_1-0" class="reference"><a href="#cite_note-JKRS-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-JKRS_1-1" class="reference"><a href="#cite_note-JKRS-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male<sup id="cite_ref-JKRS_1-2" class="reference"><a href="#cite_note-JKRS-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Grey<sup id="cite_ref-JKRS_1-3" class="reference"><a href="#cite_note-JKRS-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Blue<sup id="cite_ref-JKRS_1-4" class="reference"><a href="#cite_note-JKRS-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White<sup id="cite_ref-JKRS_1-5" class="reference"><a href="#cite_note-JKRS-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Author and <a href="/wiki/Magic" title="Magic">magical</a> theoretician<sup id="cite_ref-JKRS_1-6" class="reference"><a href="#cite_note-JKRS-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Wizard of the Month">"<i>Hambledon Quince (1936—present): Author of controversial theory that wizards originate from Mars, Muggles from mushrooms.</i>"</span></dd>
+<dd>&#8212;<a href="/wiki/Wizard_of_the_Month" title="Wizard of the Month">Wizard of the Month</a>.<sup class="noprint"><a href="/wiki/Wizard_of_the_Month" title="Wizard of the Month">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Hambledon Quince</b> (b. <a href="/wiki/1936" title="1936">1936</a>) was a <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a>, <a href="/wiki/Magic" title="Magic">magical</a> theoretician and author.<sup id="cite_ref-JKRS_1-7" class="reference"><a href="#cite_note-JKRS-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Behind_the_scenes"><span class="tocnumber">2</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Appearances"><span class="tocnumber">3</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Notes_and_references"><span class="tocnumber">4</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Hambledon_Quince?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Hambledon_Quince?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In his lifetime, he proposed the rather <a href="/wiki/The_Evolution_of_Muggles_From_Mushrooms" title="The Evolution of Muggles From Mushrooms">controversial theory</a> that <a href="/wiki/Wizardkind" title="Wizardkind">wizards</a> originally originated from the planet <a href="/wiki/Mars" title="Mars">Mars</a>, and that <a href="/wiki/Non-magic_people" title="Non-magic people">Muggles</a> originated from mushrooms. It is unknown if he was a <a href="/wiki/Wizarding_supremacy" title="Wizarding supremacy">Wizard supremacist</a> or a <a href="/wiki/Pure-blood_supremacy" title="Pure-blood supremacy">pure-blood supremacist</a>, however his controversial theories were readily accepted by both groups as proof of the inferiority of Muggles.<sup id="cite_ref-JKRS_1-8" class="reference"><a href="#cite_note-JKRS-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Hambledon_Quince?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Hambledon_Quince?action=edit&amp;section=2" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>The idea of Wizards being from Mars and Muggles being from mushrooms may be referential of the phrase "Men are from Mars, women are from Venus," which was used as the title of a best-selling relationship-advice <a href="http://en.wikipedia.org/wiki/Men_Are_from_Mars,_Women_Are_from_Venus" class="extiw" title="wikipedia:Men Are from Mars, Women Are from Venus">book</a> by John Gray, and has since passed into popular culture. There is also a wizarding book titled <i><a href="/wiki/Wizards_Are_from_Neptune,_Witches_Are_from_Saturn" title="Wizards Are from Neptune, Witches Are from Saturn">Wizards Are from Neptune, Witches Are from Saturn</a></i>.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Hambledon_Quince?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Hambledon_Quince?action=edit&amp;section=3" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/J._K._Rowling%27s_official_site" title="J. K. Rowling&#39;s official site">J. K. Rowling's official site</a> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Hambledon_Quince?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Hambledon_Quince?action=edit&amp;section=4" title="Edit section: Notes and references

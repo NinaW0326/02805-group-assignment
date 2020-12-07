@@ -1,0 +1,92 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-portrait pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/9/91/MordicusEgg.jpg/revision/latest?cb=20091230223840" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/9/91/MordicusEgg.jpg/revision/latest/scale-to-width-down/339?cb=20091230223840" srcset="https://static.wikia.nocookie.net/harrypotter/images/9/91/MordicusEgg.jpg/revision/latest/scale-to-width-down/339?cb=20091230223840 1x, https://static.wikia.nocookie.net/harrypotter/images/9/91/MordicusEgg.jpg/revision/latest/scale-to-width-down/678?cb=20091230223840 2x" class="pi-image-thumbnail" alt="" width="270" height="378"
+		     data-image-key="MordicusEgg.jpg" data-image-name="MordicusEgg.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Mordicus Egg</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="title">
+	
+		<h3 class="pi-data-label pi-secondary-font">Title(s)</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Professor" title="Professor">Professor</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Brown</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Dark</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> expert</li><li><a href="/wiki/Author" class="mw-redirect" title="Author">Author</a></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+<b>Professor Mordicus Egg</b> (fl. <a href="/wiki/1963" title="1963">1963</a>) was a <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> and an expert on <a href="/wiki/Non-magic_people" title="Non-magic people">Muggles</a>. He authored <i><a href="/wiki/The_Philosophy_of_the_Mundane:_Why_the_Muggles_Prefer_Not_to_Know" title="The Philosophy of the Mundane: Why the Muggles Prefer Not to Know">The Philosophy of the Mundane: Why the Muggles Prefer Not to Know</a></i><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> and <i><a href="/wiki/Cooking_the_Muggle_Way" title="Cooking the Muggle Way">Cooking the Muggle Way</a></i>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> He was at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> in the winter of <a href="/wiki/1993" title="1993">1993</a>,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> and his name was carved into the wall of the <a href="/wiki/Divination_Classroom" title="Divination Classroom">Divination Classroom</a> in <a href="/wiki/North_Tower" title="North Tower">North Tower</a>.<sup id="cite_ref-HPLE_4-0" class="reference"><a href="#cite_note-HPLE-4">&#91;4&#93;</a></sup>. He may also have been appointed Headmaster of Hogwarts at some unknown point in time.
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mordicus_Egg?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mordicus_Egg?action=edit&amp;section=1" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>It is possible that he was the <a href="/wiki/Unidentified_male_Muggle_Studies_teacher" title="Unidentified male Muggle Studies teacher">male Muggle Studies teacher</a> replaced by <a href="/wiki/Charity_Burbage" title="Charity Burbage">Charity Burbage</a>, thus explaining both his knowledge of Muggles and his presence at Hogwarts. Another possibility is that he gained his title through his work at the <a href="/wiki/Institute_of_Muggle_Studies" title="Institute of Muggle Studies">Institute of Muggle Studies</a>.</li>
+<li>The portrait of an older Mordicus Egg appears in the Headmaster's Office indicating that he served at Headmaster of Hogwarts at some point. Alternatively, this portrait may be of a possible relative that shares the same name as the author Mordicus Egg.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mordicus_Egg?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mordicus_Egg?action=edit&amp;section=2" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tright show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/b/b9/MordicusEggOlder.jpg/revision/latest?cb=20120915082402" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/b/b9/MordicusEggOlder.jpg/revision/latest/scale-to-width-down/180?cb=20120915082402" decoding="async" width="180" height="180" class="thumbimage" data-image-name="MordicusEggOlder.jpg" data-image-key="MordicusEggOlder.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:MordicusEggOlder.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Portrait of Mordicus Egg in the Headmaster's Office</p> 		 	</figcaption> </figure>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(film)" title="Harry Potter and the Prisoner of Azkaban (film)">Harry Potter and the Prisoner of Azkaban (film)</a></i> <span class="template-c">(Appears on the <a href="/wiki/Marauder%27s_Map" title="Marauder&#39;s Map">Marauder's Map</a>)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(film)" title="Harry Potter and the Order of the Phoenix (film)">Harry Potter and the Order of the Phoenix (film)</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(companion_book)" title="Fantastic Beasts and Where to Find Them (companion book)">Fantastic Beasts and Where to Find Them</a></i> <small>(First appearance)</small> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them" title="Fantastic Beasts and Where to Find Them">Fantastic Beasts and Where to Find Them</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Harry_Potter_Limited_Edition" title="Harry Potter Limited Edition">Harry Potter Limited Edition</a></i> <small>(Appears in portrait(s))</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mordicus_Egg?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mordicus_Egg?action=edit&amp;section=3" title="Edit section: Notes and references

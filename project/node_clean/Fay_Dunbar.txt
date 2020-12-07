@@ -1,0 +1,158 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-gryffindor pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/8/8b/Fay_Dunbar.jpg/revision/latest?cb=20100212231425" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/8/8b/Fay_Dunbar.jpg/revision/latest/scale-to-width-down/234?cb=20100212231425" srcset="https://static.wikia.nocookie.net/harrypotter/images/8/8b/Fay_Dunbar.jpg/revision/latest/scale-to-width-down/234?cb=20100212231425 1x, https://static.wikia.nocookie.net/harrypotter/images/8/8b/Fay_Dunbar.jpg/revision/latest/scale-to-width-down/468?cb=20100212231425 2x" class="pi-image-thumbnail" alt="" width="234" height="370"
+		     data-image-key="Fay_Dunbar.jpg" data-image-name="Fay Dunbar.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Fay Dunbar</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">Between <a href="/wiki/1_September" title="1 September">1 September</a> <a href="/wiki/1978" title="1978">1978</a> and <a href="/wiki/31_August" title="31 August">31 August</a> <a href="/wiki/1979" title="1979">1979</a> (most likey)<sup id="cite_ref-Birth_1-0" class="reference"><a href="#cite_note-Birth-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Pure-blood" title="Pure-blood">Pure-blood</a> or <a href="/wiki/Half-blood" title="Half-blood">Half-blood</a> (possibly)<sup id="cite_ref-Blood_2-0" class="reference"><a href="#cite_note-Blood-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a> or <a href="/wiki/Ireland" title="Ireland">Irish</a><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-HBPG_4-0" class="reference"><a href="#cite_note-HBPG-4">&#91;4&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female<sup id="cite_ref-HBPG_4-1" class="reference"><a href="#cite_note-HBPG-4">&#91;4&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Blonde<sup id="cite_ref-HBPG_4-2" class="reference"><a href="#cite_note-HBPG-4">&#91;4&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Light<sup id="cite_ref-HBPG_4-3" class="reference"><a href="#cite_note-HBPG-4">&#91;4&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="house">
+	
+		<h3 class="pi-data-label pi-secondary-font">House</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Gryffindor" title="Gryffindor">Gryffindor</a><sup id="cite_ref-HBPG_4-4" class="reference"><a href="#cite_note-HBPG-4">&#91;4&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a><sup id="cite_ref-HBPG_4-5" class="reference"><a href="#cite_note-HBPG-4">&#91;4&#93;</a></sup><ul><li><a href="/wiki/Gryffindor" title="Gryffindor">Gryffindor</a><sup id="cite_ref-HBPG_4-6" class="reference"><a href="#cite_note-HBPG-4">&#91;4&#93;</a></sup></li><li><a href="/wiki/Gobstones" title="Gobstones">Gobstones Club</a> <span class="template-c">(possibly)</span><sup id="cite_ref-HBPG_4-7" class="reference"><a href="#cite_note-HBPG-4">&#91;4&#93;</a></sup></li></ul></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Fay Dunbar</b> (b. c. <a href="/wiki/1978" title="1978">1978</a>/<a href="/wiki/1979" title="1979">1979</a>) was a <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> and <a href="/wiki/Gryffindor" title="Gryffindor">Gryffindor</a> student who aspired to become a <a href="/wiki/Auror" title="Auror">member</a> of the <a href="/wiki/Auror_Office" title="Auror Office">Auror Office</a>. She attended <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> in the <a href="/wiki/1990s" title="1990s">1990s</a>.<sup id="cite_ref-HBPG_4-8" class="reference"><a href="#cite_note-HBPG-4">&#91;4&#93;</a></sup>
+</p><p>Fay hoped to become an <a href="/wiki/Auror" title="Auror">Auror</a>.<sup id="cite_ref-HBPG_4-9" class="reference"><a href="#cite_note-HBPG-4">&#91;4&#93;</a></sup> It is unknown if she fulfilled her dream after graduating from Hogwarts.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_life"><span class="tocnumber">1.1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Hogwarts_years"><span class="tocnumber">1.2</span> <span class="toctext">Hogwarts years</span></a>
+<ul>
+<li class="toclevel-3 tocsection-4"><a href="#Fifth_year"><span class="tocnumber">1.2.1</span> <span class="toctext">Fifth year</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#Sixth_and_seventh_years"><span class="tocnumber">1.2.2</span> <span class="toctext">Sixth and seventh years</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Personality_and_traits"><span class="tocnumber">2</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Magical_abilities_and_skills"><span class="tocnumber">3</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Etymology"><span class="tocnumber">4</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Behind_the_scenes"><span class="tocnumber">5</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Appearances"><span class="tocnumber">6</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Notes_and_references"><span class="tocnumber">7</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Fay_Dunbar?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Fay_Dunbar?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Fay_Dunbar?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Early life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Fay_Dunbar?action=edit&amp;section=2" title="Edit section: Early life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Fay Dunbar was born in late <a href="/wiki/1979" title="1979">1979</a> or early-to-mid <a href="/wiki/1980" title="1980">1980</a>, presumably into a <a href="/wiki/Pure-blood" title="Pure-blood">pure-blood</a> or <a href="/wiki/Half-blood" title="Half-blood">half-blood</a> family, as she seemed unfamiliar with a <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> hairdryer.<sup id="cite_ref-Blood_2-1" class="reference"><a href="#cite_note-Blood-2">&#91;2&#93;</a></sup> She was also a fan of <a href="/wiki/Gobstones" title="Gobstones">Gobstones</a>.<sup id="cite_ref-HBPG_4-10" class="reference"><a href="#cite_note-HBPG-4">&#91;4&#93;</a></sup>
+</p><p>At the age of eleven, Fay was accepted into <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> in <a href="/wiki/Scotland" title="Scotland">Scotland</a>.
+</p>
+<h3><span class="mw-headline" id="Hogwarts_years">Hogwarts years</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Fay_Dunbar?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Hogwarts years">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Fay_Dunbar?action=edit&amp;section=3" title="Edit section: Hogwarts years"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Fifth_year">Fifth year</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Fay_Dunbar?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Fifth year">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Fay_Dunbar?action=edit&amp;section=4" title="Edit section: Fifth year"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In her <a href="/wiki/Fifth_year" title="Fifth year">fifth year</a>, Fay sat her <a href="/wiki/Ordinary_Wizarding_Level" title="Ordinary Wizarding Level">Ordinary Wizarding Levels</a>. By this time, she had decided she wished to be a <a href="/wiki/Auror" title="Auror">member</a> of the <a href="/wiki/Auror_Office" title="Auror Office">Auror Office</a> and be a <a href="/wiki/Dark_Wizard" title="Dark Wizard">Dark Wizard</a>-catcher. She achieved an <a href="/wiki/Exceeds_Expectations" title="Exceeds Expectations">Exceeds Expectations</a> or <a href="/wiki/Outstanding" title="Outstanding">Outstanding</a> in <a href="/wiki/Transfiguration_(class)" title="Transfiguration (class)">Transfiguration</a>, good marks in <a href="/wiki/Herbology" title="Herbology">Herbology</a>, <a href="/wiki/Defence_Against_the_Dark_Arts" title="Defence Against the Dark Arts">Defence Against the Dark Arts</a> and <a href="/wiki/Charms_(class)" title="Charms (class)">Charms</a> and an <a href="/wiki/Outstanding" title="Outstanding">Outstanding</a> in <a href="/wiki/Potions_(class)" title="Potions (class)">Potions</a>.<sup id="cite_ref-HBPG_4-11" class="reference"><a href="#cite_note-HBPG-4">&#91;4&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="Sixth_and_seventh_years">Sixth and seventh years</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Fay_Dunbar?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Sixth and seventh years">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Fay_Dunbar?action=edit&amp;section=5" title="Edit section: Sixth and seventh years"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Half-Blood Prince (video game)">"<i>I think one of the girls in my dormitory has a machine for drying her hair.</i>"</span></dd>
+<dd>&#8212;Fay answering Harry Potter's question<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince_(video_game)" title="Harry Potter and the Half-Blood Prince (video game)">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p>In her <a href="/wiki/Sixth_year" title="Sixth year">sixth year</a> or <a href="/wiki/Seventh_year" title="Seventh year">seventh year</a> in <a href="/wiki/1996" title="1996">1996</a>, Fay studied hard for her <a href="/wiki/Nastily_Exhausting_Wizarding_Test" title="Nastily Exhausting Wizarding Test">Nastily Exhausting Wizarding Tests</a>, still wanting to become an Auror. This year, she could often be found in the <a href="/wiki/Middle_Courtyard" title="Middle Courtyard">Middle Courtyard</a>, near the <a href="/wiki/Transfiguration_department" title="Transfiguration department">Transfiguration department</a>.<sup id="cite_ref-HBPG_4-12" class="reference"><a href="#cite_note-HBPG-4">&#91;4&#93;</a></sup>
+</p><p>Shortly before the <a href="/wiki/Christmas_holidays" title="Christmas holidays">Christmas holidays</a>, <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> was looking for a <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> hairdryer for <a href="/wiki/Arthur_Weasley" title="Arthur Weasley">Arthur Weasley</a>, a collector of non-magical artefacts. Fay told him that one of the girls in her dormitory had "<i>a machine for drying her hair</i>", although it is unknown which girl she was referring to.<sup id="cite_ref-HBPG_4-13" class="reference"><a href="#cite_note-HBPG-4">&#91;4&#93;</a></sup>
+</p><p>That same year, Fay also played <a href="/wiki/Gobstones" title="Gobstones">Gobstones</a> with Harry, who was trying to defeat all the Gobstones players to win the Gobstones Cup.<sup id="cite_ref-HBPG_4-14" class="reference"><a href="#cite_note-HBPG-4">&#91;4&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Fay_Dunbar?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Personality and traits">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Fay_Dunbar?action=edit&amp;section=6" title="Edit section: Personality and traits"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>She was appeared to be academically gifted, talented and aspirational, as she aspired to be an Auror, and she achieved high grades in many subjects for her Ordinary Wizarding Levels, which allowed her to progress to N.E.W.T. level, meaning she was very hard-working as well.<sup id="cite_ref-HBPG_4-15" class="reference"><a href="#cite_note-HBPG-4">&#91;4&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Fay_Dunbar?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Fay_Dunbar?action=edit&amp;section=7" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Transfiguration" title="Transfiguration">Transfiguration</a></b>: Fay managed to achieve an <a href="/wiki/Exceeds_Expectations" title="Exceeds Expectations">Exceeds Expectations</a> at <a href="/wiki/Ordinary_Wizarding_Level" title="Ordinary Wizarding Level">Ordinary Wizarding Level</a> in <a href="/wiki/Transfiguration_(class)" title="Transfiguration (class)">Transfiguration</a>, showing her to be clearly very competent in this difficult field of <a href="/wiki/Magic" title="Magic">magic</a>.<sup id="cite_ref-HBPG_4-16" class="reference"><a href="#cite_note-HBPG-4">&#91;4&#93;</a></sup></li>
+<li><b><a href="/wiki/Herbology" title="Herbology">Herbology</a></b>: Fay achieved either an Exceeds Expectations or Outstanding in this subject at Ordinary Wizarding Level.<sup id="cite_ref-HBPG_4-17" class="reference"><a href="#cite_note-HBPG-4">&#91;4&#93;</a></sup></li>
+<li><b><a href="/wiki/Defence_Against_the_Dark_Arts" title="Defence Against the Dark Arts">Defence Against the Dark Arts</a></b>: Fay achieved either an Exceeds Expectations or Outstanding in this subject at Ordinary Wizarding Level. She aspired to become an <a href="/wiki/Auror" title="Auror">Auror</a>, so it can be presumed she was very skilled and interested in this subject.<sup id="cite_ref-HBPG_4-18" class="reference"><a href="#cite_note-HBPG-4">&#91;4&#93;</a></sup></li>
+<li><b><a href="/wiki/Charm" title="Charm">Charms</a></b>: Fay achieved either an Exceeds Expectations or Outstanding in <a href="/wiki/Charms_(class)" title="Charms (class)">Charms</a> at Ordinary Wizarding Level.<sup id="cite_ref-HBPG_4-19" class="reference"><a href="#cite_note-HBPG-4">&#91;4&#93;</a></sup></li>
+<li><b><a href="/wiki/Potion" title="Potion">Potions</a></b>: Fay achieved an <a href="/wiki/Outstanding" title="Outstanding">Outstanding</a> in <a href="/wiki/Potions_(class)" title="Potions (class)">Potions</a> at Ordinary Wizarding Level, showing her to be highly talented in potion-making.<sup id="cite_ref-HBPG_4-20" class="reference"><a href="#cite_note-HBPG-4">&#91;4&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Fay_Dunbar?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Fay_Dunbar?action=edit&amp;section=8" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Derived from Middle English faie meaning "<a href="/wiki/Fairy" title="Fairy">fairy</a>". It appears in Geoffrey of Monmouth's Arthurian legends in the name of <a href="/wiki/Morgan_le_Fay" title="Morgan le Fay">Morgan le Fay</a>. It has been used as a given name since the 19th century. In some cases it may be used as a short form of Faith,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> or another spelling for the mythological Irish creature; the Fae.
+</p><p>Dunbar means "castle headland" and comes from the old barony of Dunbar, now in East Lothian in Scotland. The place name Dunbar itself comes from the Gaelic dun meaning "fort" and barr meaning "summit". Locality from the town of Dunbar, at the mouth of the Frith of Forth, Scotland, so called from its situation on the rock which at this place projects into the sea.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Fay_Dunbar?veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Fay_Dunbar?action=edit&amp;section=9" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Fay only appears in the <a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(video_game)" title="Harry Potter and the Prisoner of Azkaban (video game)">third</a> and <a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince_(video_game)" title="Harry Potter and the Half-Blood Prince (video game)">sixth</a> video games. She does not appear in either the books or films.</li>
+<li>If she survived the Battle of Hogwarts, it is likely that she would, despite her academical shortcomings in potions, have gone on to join the Ministry of Magic alongside her peers, Harry Potter, Ron Weasley and Neville Longbottom, seen as fighting in and surviving such a battle would have meant she met the requirements to join the <a href="/wiki/Auror_Office" title="Auror Office">Auror Office</a> and students who did were offered a place there as a means of replenishing its numbers, as most of the Ministry's Aurors were killed during the Second Wizarding War.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Fay_Dunbar?veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Fay_Dunbar?action=edit&amp;section=10" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 1 image related to <i><b><a href="/wiki/Category:Images_of_Fay_Dunbar" title="Category:Images of Fay Dunbar">Fay Dunbar</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(video_game)" title="Harry Potter and the Prisoner of Azkaban (video game)">Harry Potter and the Prisoner of Azkaban (video game)</a></i> <small>(First appearance)</small> <span class="template-c">(Console versions)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince_(video_game)" title="Harry Potter and the Half-Blood Prince (video game)">Harry Potter and the Half-Blood Prince (video game)</a></i> <span class="template-c">(NDS version)</span></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Fay_Dunbar?veaction=edit&amp;section=11" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Fay_Dunbar?action=edit&amp;section=11" title="Edit section: Notes and references

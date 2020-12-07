@@ -1,0 +1,55 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-daily-prophet pi-layout-default"><section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Andy Smudgley</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-image_1-0" class="reference"><a href="#cite_note-image-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male<sup id="cite_ref-image_1-1" class="reference"><a href="#cite_note-image-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Reporter for the <i><a href="/wiki/Daily_Prophet" title="Daily Prophet">Daily Prophet</a></i><sup id="cite_ref-image_1-2" class="reference"><a href="#cite_note-image-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/Daily_Prophet" title="Daily Prophet">Daily Prophet</a></i><sup id="cite_ref-image_1-3" class="reference"><a href="#cite_note-image-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Andy Smudgley</b> was a reporter who worked for the <i><a href="/wiki/Daily_Prophet" title="Daily Prophet">Daily Prophet</a></i>.
+</p><p>In <a href="/wiki/1991" title="1991">1991</a>, he wrote an article covering a <a href="/wiki/Break-in_of_Gringotts_Wizarding_Bank_(1991)" title="Break-in of Gringotts Wizarding Bank (1991)">break-in</a> at <a href="/wiki/Gringotts_Wizarding_Bank" title="Gringotts Wizarding Bank">Gringotts Wizarding Bank</a>,<sup id="cite_ref-image_1-4" class="reference"><a href="#cite_note-image-1">&#91;1&#93;</a></sup> which was titled "<a href="/wiki/GRINGOTTS_BREAK-IN_LATEST" title="GRINGOTTS BREAK-IN LATEST">GRINGOTTS BREAK-IN LATEST</a>".<sup id="cite_ref-PS8_2-0" class="reference"><a href="#cite_note-PS8-2">&#91;2&#93;</a></sup>
+</p><p>The <a href="/wiki/1992" title="1992">following year</a>, he wrote an article covering a major breach of the <a href="/wiki/International_Statute_of_Wizarding_Secrecy" title="International Statute of Wizarding Secrecy">International Statute of Wizarding Secrecy</a>, which occurred when <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> and <a href="/wiki/Ronald_Weasley" title="Ronald Weasley">Ronald Weasley</a> flew a <a href="/wiki/Flying_Ford_Anglia" title="Flying Ford Anglia">Flying Ford Anglia</a> to <a href="/wiki/Hogwarts_Castle" title="Hogwarts Castle">Hogwarts Castle</a>.<sup id="cite_ref-cosanglia_3-0" class="reference"><a href="#cite_note-cosanglia-3">&#91;3&#93;</a></sup>
+</p><p>In <a href="/wiki/1993" title="1993">1993</a>, he wrote an article titled "'It's Sirius!' say the Ministry of Magic," which concerned the escape of <a href="/wiki/Sirius_Black" title="Sirius Black">Sirius Black</a> from <a href="/wiki/Azkaban" title="Azkaban">Azkaban</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Andy_Smudgley?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Andy_Smudgley?action=edit&amp;section=1" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(film)" title="Harry Potter and the Philosopher&#39;s Stone (film)">Harry Potter and the Philosopher's Stone (film)</a></i> <span class="template-c">(Name appears in newspaper)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(film)" title="Harry Potter and the Chamber of Secrets (film)">Harry Potter and the Chamber of Secrets (film)</a></i> <span class="template-c">(Name appears in newspaper)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(film)" title="Harry Potter and the Prisoner of Azkaban (film)">Harry Potter and the Prisoner of Azkaban (film)</a></i> <span class="template-c">(Name appears in newspaper)</span></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Andy_Smudgley?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Andy_Smudgley?action=edit&amp;section=2" title="Edit section: Notes and references

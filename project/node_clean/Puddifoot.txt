@@ -1,0 +1,129 @@
+<div class="mw-parser-output"><table class="notice metadata" id="spoiler" style="text-align: center; background: beige; margin: 1em 05%; padding: 0 1em; border: #a00 1px solid;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/0/0c/Hand_pointing_right_transparent.png/revision/latest?cb=20181112005815" class="image"><img alt="Hand pointing right transparent.png" src="https://static.wikia.nocookie.net/harrypotter/images/0/0c/Hand_pointing_right_transparent.png/revision/latest/scale-to-width-down/150?cb=20181112005815" decoding="async" width="150" height="75" data-image-name="Hand pointing right transparent.png" data-image-key="Hand_pointing_right_transparent.png" /></a>
+</td>
+<td><b>Warning!</b>
+<p>At least some content in this article is derived from information featured in <i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i>&#32; and <i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i>.<br />As such, spoilers will be present within the article.
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/2/29/Madam_Puddifoot_HM.jpg/revision/latest?cb=20200103173752" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/2/29/Madam_Puddifoot_HM.jpg/revision/latest/scale-to-width-down/350?cb=20200103173752" srcset="https://static.wikia.nocookie.net/harrypotter/images/2/29/Madam_Puddifoot_HM.jpg/revision/latest/scale-to-width-down/350?cb=20200103173752 1x, https://static.wikia.nocookie.net/harrypotter/images/2/29/Madam_Puddifoot_HM.jpg/revision/latest/scale-to-width-down/700?cb=20200103173752 2x" class="pi-image-thumbnail" alt="" width="270" height="190"
+		     data-image-key="Madam_Puddifoot_HM.jpg" data-image-name="Madam Puddifoot HM.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Puddifoot</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a><sup id="cite_ref-OOTP25_1-0" class="reference"><a href="#cite_note-OOTP25-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="title">
+	
+		<h3 class="pi-data-label pi-secondary-font">Title(s)</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Madam" title="Madam">Madam</a><sup id="cite_ref-OOTP25_1-1" class="reference"><a href="#cite_note-OOTP25-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-OOTP25_1-2" class="reference"><a href="#cite_note-OOTP25-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female<sup id="cite_ref-OOTP25_1-3" class="reference"><a href="#cite_note-OOTP25-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Black<sup id="cite_ref-OOTP25_1-4" class="reference"><a href="#cite_note-OOTP25-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Owner of <a href="/wiki/Madam_Puddifoot%27s_Tea_Shop" title="Madam Puddifoot&#039;s Tea Shop">Madam Puddifoot's Tea Shop</a><sup id="cite_ref-OOTP25_1-5" class="reference"><a href="#cite_note-OOTP25-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Madam_Puddifoot%27s_Tea_Shop" title="Madam Puddifoot&#039;s Tea Shop">Madam Puddifoot's Tea Shop</a><sup id="cite_ref-OOTP25_1-6" class="reference"><a href="#cite_note-OOTP25-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Order of the Phoenix">"<i>What can I get you, m'dears?</i>"</span></dd>
+<dd>&#8212;Madam Puddifoot<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Madam Puddifoot</b> (fl. 1980s-1996) was a <a href="/wiki/Great_Britain" title="Great Britain">British</a> <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> who ran <a href="/wiki/Madam_Puddifoot%27s_Tea_Shop" title="Madam Puddifoot&#39;s Tea Shop">Madam Puddifoot's Tea Shop</a> in <a href="/wiki/Hogsmeade" title="Hogsmeade">Hogsmeade</a>.<sup id="cite_ref-OOTP25_1-7" class="reference"><a href="#cite_note-OOTP25-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Physical_appearance"><span class="tocnumber">2</span> <span class="toctext">Physical appearance</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Behind_the_scenes"><span class="tocnumber">3</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Appearances"><span class="tocnumber">4</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Notes_and_references"><span class="tocnumber">5</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Puddifoot?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Puddifoot?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tleft show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/d/d8/MadamPuddifoot.png/revision/latest?cb=20151229180943" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/d/d8/MadamPuddifoot.png/revision/latest/scale-to-width-down/180?cb=20151229180943" decoding="async" width="180" height="298" class="thumbimage" data-image-name="MadamPuddifoot.png" data-image-key="MadamPuddifoot.png" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:MadamPuddifoot.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Madam Puddifoot working in her shop</p> 		 	</figcaption> </figure>
+<p>In the <a href="/wiki/1980s" title="1980s">1980s</a>, Puddifoot was introduced to <a href="/wiki/Jacob%27s_sibling" title="Jacob&#39;s sibling">Jacob's sibling</a> by <a href="/wiki/William_Weasley" title="William Weasley">Bill Weasley</a> and <a href="/wiki/Nymphadora_Tonks" title="Nymphadora Tonks">Nymphadora Tonks</a>.<sup id="cite_ref-HM_2-0" class="reference"><a href="#cite_note-HM-2">&#91;2&#93;</a></sup>
+</p><p>In 1996, <a href="/wiki/Valentine%27s_day" class="mw-redirect" title="Valentine&#39;s day">Valentine's day</a>, Puddifoot decorated her shop by placing several golden <a href="/wiki/Cherub" title="Cherub">cherubs</a> around and had them throw confetti over visiting couples every so often. She served coffee to the couple <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> and <a href="/wiki/Cho_Chang" title="Cho Chang">Cho Chang</a>.<sup id="cite_ref-OOTP25_1-8" class="reference"><a href="#cite_note-OOTP25-1">&#91;1&#93;</a></sup>
+</p><p>By at least the <a href="/wiki/2010s" title="2010s">2010s</a>, during the <a href="/wiki/Calamity" title="Calamity">Calamity</a>, volunteer members of the <a href="/wiki/Statute_of_Secrecy_Task_Force" title="Statute of Secrecy Task Force">Statute of Secrecy Task Force</a> met with Madam Puddifoot to try to convince her to join the SOS Task Force officially. She enthusiastically agreed and informed all staff to do whatever necessary to help support the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">Ministry</a>'s efforts.<sup id="cite_ref-WU_3-0" class="reference"><a href="#cite_note-WU-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Physical_appearance">Physical appearance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Puddifoot?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Physical appearance">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Puddifoot?action=edit&amp;section=2" title="Edit section: Physical appearance"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Puddifoot was a very stout woman with brown eyes and a shiny black bun.<sup id="cite_ref-OOTP25_1-9" class="reference"><a href="#cite_note-OOTP25-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Puddifoot?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Puddifoot?action=edit&amp;section=3" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>In <i><a href="/wiki/LEGO_Harry_Potter:_Years_5-7" title="LEGO Harry Potter: Years 5-7">LEGO Harry Potter: Years 5-7</a></i>, Madam Puddifoot is depicted with blonde hair rather than black. She is not playable under normal circumstances, but may be temporarily controlled with the <a href="/wiki/Imperius_Curse" title="Imperius Curse">Imperius Curse</a> in the level "Dumbledore's Army" in order to collect the <a href="/wiki/Slytherin" title="Slytherin">Slytherin House</a> Crest for that level.<sup id="cite_ref-LEGOy2_4-0" class="reference"><a href="#cite_note-LEGOy2-4">&#91;4&#93;</a></sup></li>
+<li>It is possible she, alongside her fellow <a href="/wiki/Hogsmeade" title="Hogsmeade">Hogsmeade</a> residents, participated in the <a href="/wiki/Battle_of_Hogwarts" title="Battle of Hogwarts">Battle of Hogwarts</a>, as <a href="/wiki/Horace_Slughorn" title="Horace Slughorn">Horace Slughorn</a> was recruiting them and <a href="/wiki/Tom_Riddle" title="Tom Riddle">Lord Voldemort</a> declared a final stand for the entire <a href="/wiki/Second_Wizarding_War" title="Second Wizarding War">Second Wizarding War</a>.<sup id="cite_ref-DH36_5-0" class="reference"><a href="#cite_note-DH36-5">&#91;5&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Puddifoot?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Puddifoot?action=edit&amp;section=4" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 5 images related to <i><b><a href="/wiki/Category:Images_of_Madam_Puddifoot" title="Category:Images of Madam Puddifoot">Puddifoot</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<figure class="thumb tright show-info-icon" style="width: 149px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/3/3c/PuddifootLEGO.png/revision/latest?cb=20150212194238" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="147" height="263" class="thumbimage lazyload" data-image-name="PuddifootLEGO.png" data-image-key="PuddifootLEGO.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/3/3c/PuddifootLEGO.png/revision/latest/scale-to-width-down/147?cb=20150212194238" /></a> 	<noscript><a href="https://static.wikia.nocookie.net/harrypotter/images/3/3c/PuddifootLEGO.png/revision/latest?cb=20150212194238" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/3/3c/PuddifootLEGO.png/revision/latest/scale-to-width-down/147?cb=20150212194238" decoding="async" width="147" height="263" class="thumbimage" data-image-name="PuddifootLEGO.png" data-image-key="PuddifootLEGO.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/3/3c/PuddifootLEGO.png/revision/latest/scale-to-width-down/147?cb=20150212194238" /></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:PuddifootLEGO.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Madam Puddifoot in <i><a href="/wiki/LEGO_Harry_Potter:_Years_5-7" title="LEGO Harry Potter: Years 5-7">LEGO Harry Potter: Years 5-7</a></i></p> 		 	</figcaption> </figure>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">Harry Potter and the Order of the Phoenix</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">Harry Potter and the Half-Blood Prince</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">Harry Potter and the Deathly Hallows</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter:_Years_5-7" title="LEGO Harry Potter: Years 5-7">LEGO Harry Potter: Years 5-7</a></i></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i></li>
+<li><i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i></li>
+<li><i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i> <small>(Mentioned only)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Puddifoot?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Puddifoot?action=edit&amp;section=5" title="Edit section: Notes and references

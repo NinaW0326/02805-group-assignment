@@ -1,0 +1,94 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/5/55/PumpkinJuiceSeller.png/revision/latest?cb=20130520023637" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/5/55/PumpkinJuiceSeller.png/revision/latest/scale-to-width-down/350?cb=20130520023637" srcset="https://static.wikia.nocookie.net/harrypotter/images/5/55/PumpkinJuiceSeller.png/revision/latest/scale-to-width-down/350?cb=20130520023637 1x, https://static.wikia.nocookie.net/harrypotter/images/5/55/PumpkinJuiceSeller.png/revision/latest/scale-to-width-down/699?cb=20130520023637 2x" class="pi-image-thumbnail" alt="" width="270" height="209"
+		     data-image-key="PumpkinJuiceSeller.png" data-image-name="PumpkinJuiceSeller.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Pumpkin juice salesman</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">Prior to <a href="/wiki/1994" title="1994">1994</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-LEGOY1_1-0" class="reference"><a href="#cite_note-LEGOY1-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male<sup id="cite_ref-LEGOY1_1-1" class="reference"><a href="#cite_note-LEGOY1-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Dark<sup id="cite_ref-LEGOY1_1-2" class="reference"><a href="#cite_note-LEGOY1-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Black<sup id="cite_ref-LEGOY1_1-3" class="reference"><a href="#cite_note-LEGOY1-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Dark<sup id="cite_ref-LEGOY1_1-4" class="reference"><a href="#cite_note-LEGOY1-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Seller of <a href="/wiki/Pumpkin_Juice" title="Pumpkin Juice">Pumpkin Juice</a><sup id="cite_ref-LEGOY1_1-5" class="reference"><a href="#cite_note-LEGOY1-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Quidditch_World_Cup" title="Quidditch World Cup">Quidditch World Cup</a><sup id="cite_ref-LEGOY1_1-6" class="reference"><a href="#cite_note-LEGOY1-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+This <b><a href="/wiki/Wizardkind" title="Wizardkind">wizard</a></b> sold <a href="/wiki/Pumpkin_Juice" title="Pumpkin Juice">pumpkin juice</a> at the <a href="/wiki/1994" title="1994">1994</a> <a href="/wiki/Quidditch_World_Cup" title="Quidditch World Cup">Quidditch World Cup</a>.<sup id="cite_ref-LEGOY1_1-7" class="reference"><a href="#cite_note-LEGOY1-1">&#91;1&#93;</a></sup>
+</p><p>He was quite capable of using the <a href="/wiki/Levitation_Charm" title="Levitation Charm">Levitation Charm</a>, doing so to move the glasses of pumpkin juice over the counter to his customers.<sup id="cite_ref-LEGOY1_1-8" class="reference"><a href="#cite_note-LEGOY1-1">&#91;1&#93;</a></sup>
+</p><p>He wore a pointed green wizard's hat and matching green robes. He smiled broadly, chatting happily to his customers as he <a href="/wiki/Magic" title="Magic">magically</a> poured the drinks and brought them over the counter to them.
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Unidentified_Pumpkin_Juice_seller_at_the_Quidditch_World_Cup?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Unidentified_Pumpkin_Juice_seller_at_the_Quidditch_World_Cup?action=edit&amp;section=1" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/LEGO_Harry_Potter:_Years_1-4" title="LEGO Harry Potter: Years 1-4">LEGO Harry Potter: Years 1-4</a></i> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Unidentified_Pumpkin_Juice_seller_at_the_Quidditch_World_Cup?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Unidentified_Pumpkin_Juice_seller_at_the_Quidditch_World_Cup?action=edit&amp;section=2" title="Edit section: Notes and references

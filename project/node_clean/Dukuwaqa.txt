@@ -1,0 +1,68 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-creature pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Dukuwaqa</h2>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Species information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="native">
+	
+		<h3 class="pi-data-label pi-secondary-font">Native to</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Fiji" title="Fiji">Fijian</a> oceans</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="mortality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Mortality</h3>
+	
+	<div class="pi-data-value pi-font">Mortal</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="distinction">
+	
+		<h3 class="pi-data-label pi-secondary-font">Distinction</h3>
+	
+	<div class="pi-data-value pi-font">Can transform from a <a href="/wiki/Shark" title="Shark">shark</a> into a <a href="/wiki/Human" title="Human">human</a>/Shapeshifter</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="affiliation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Affiliation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Fijian_National_Quidditch_team" title="Fijian National Quidditch team">Fijian National Quidditch Team</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="status">
+	
+		<h3 class="pi-data-label pi-secondary-font">Status</h3>
+	
+	<div class="pi-data-value pi-font">Extant</div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Creature_infobox" title="Template:Creature infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+The <b>Dukuwaqa</b> is a <a href="/wiki/Magic" title="Magic">magical</a> <a href="/wiki/Creature" title="Creature">creature</a> native to the warm oceans around <a href="/wiki/Fiji" title="Fiji">Fiji</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Behind_the_scenes"><span class="tocnumber">3</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Appearances"><span class="tocnumber">4</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Notes_and_references"><span class="tocnumber">5</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Description">Description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Dukuwaqa?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Description">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Dukuwaqa?action=edit&amp;section=1" title="Edit section: Description"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A shapeshifter, the Dukuwaqa possesses the ability to <a href="/wiki/Transformation" title="Transformation">transform</a> itself from a man into a <a href="/wiki/Shark" title="Shark">shark</a> and back (something impossible for non-<a href="/wiki/Animagus" title="Animagus">Animagus</a> <a href="/wiki/Wizardkind" title="Wizardkind">wizards</a>, as transformation into an animal renders the transformed individual with the mind of that animal, and are thus unable to perform the spell needed to transform back into a human). A Dukuwaqa was the mascot of the <a href="/wiki/Fijian_National_Quidditch_team" title="Fijian National Quidditch team">Fijian National Quidditch Team</a>.<sup id="cite_ref-PM_1-0" class="reference"><a href="#cite_note-PM-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Dukuwaqa?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: History">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Dukuwaqa?action=edit&amp;section=2" title="Edit section: History"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>For the opening ceremony of the <a href="/wiki/2014_Quidditch_World_Cup" title="2014 Quidditch World Cup">2014 Quidditch World Cup</a>, the Fijian team transported their Dukuwaqa to a magical lake created by the <a href="/wiki/Argentinian_Council_of_Magic" title="Argentinian Council of Magic">Argentinian Council of Magic</a> in the <a href="/wiki/Patagonian_Desert" title="Patagonian Desert">Patagonian Desert</a>. During the ceremony, the Dukuwaqa, upset by being relocated from the warm open ocean to a small tepid lake, attacked the <a href="/wiki/Norway" title="Norway">Norwegian's</a> <a href="/wiki/Selma" title="Selma">Selma</a> it was meant to share the lake with. Attempts by both nations to stop the fighting were hampered by the <a href="/wiki/Brazil" title="Brazil">Brazilian</a> <a href="/wiki/Curupira" title="Curupira">Curupiras</a>, who believed the handlers to be attempting to cause the creatures harm.<sup id="cite_ref-PM_1-1" class="reference"><a href="#cite_note-PM-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Dukuwaqa?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Dukuwaqa?action=edit&amp;section=3" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>The <a href="http://en.wikipedia.org/wiki/Dakuwaqa" class="extiw" title="wikipedia:Dakuwaqa">Dakuwaqa</a> is a god from Fijian mythology, a protector spirit to fisherman. Though he is reputed to be capable of taking on any shape, his preferred form is a Fijian male with the head of a shark.</li>
+<li><a href="/wiki/Newton_Scamander" title="Newton Scamander">Newt Scamander</a> did not cover the Dukuwaqa in the fifty-second edition of <a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them" title="Fantastic Beasts and Where to Find Them">Fantastic Beasts and Where To Find Them</a>.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Dukuwaqa?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Dukuwaqa?action=edit&amp;section=4" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Dukuwaqa?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Dukuwaqa?action=edit&amp;section=5" title="Edit section: Notes and references

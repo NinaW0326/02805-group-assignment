@@ -1,0 +1,87 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/4/42/Elladora_Ketteridge.jpg/revision/latest?cb=20090904143029" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/4/42/Elladora_Ketteridge.jpg/revision/latest/scale-to-width-down/350?cb=20090904143029" srcset="https://static.wikia.nocookie.net/harrypotter/images/4/42/Elladora_Ketteridge.jpg/revision/latest/scale-to-width-down/350?cb=20090904143029 1x, https://static.wikia.nocookie.net/harrypotter/images/4/42/Elladora_Ketteridge.jpg/revision/latest/scale-to-width-down/700?cb=20090904143029 2x" class="pi-image-thumbnail" alt="" width="270" height="361"
+		     data-image-key="Elladora_Ketteridge.jpg" data-image-name="Elladora Ketteridge.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Elladora Ketteridge</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/1656" class="mw-redirect" title="1656">1656</a><sup id="cite_ref-PSG_1-0" class="reference"><a href="#cite_note-PSG-1">&#91;1&#93;</a></sup><sup id="cite_ref-COSG_2-0" class="reference"><a href="#cite_note-COSG-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/1729" class="mw-redirect" title="1729">1729</a> (aged 62-63)<sup id="cite_ref-PSG_1-1" class="reference"><a href="#cite_note-PSG-1">&#91;1&#93;</a></sup><sup id="cite_ref-COSG_2-1" class="reference"><a href="#cite_note-COSG-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-PM_3-0" class="reference"><a href="#cite_note-PM-3">&#91;3&#93;</a></sup><sup id="cite_ref-PSG_1-2" class="reference"><a href="#cite_note-PSG-1">&#91;1&#93;</a></sup><sup id="cite_ref-COSG_2-2" class="reference"><a href="#cite_note-COSG-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female<sup id="cite_ref-PM_3-1" class="reference"><a href="#cite_note-PM-3">&#91;3&#93;</a></sup><sup id="cite_ref-PSG_1-3" class="reference"><a href="#cite_note-PSG-1">&#91;1&#93;</a></sup><sup id="cite_ref-COSG_2-3" class="reference"><a href="#cite_note-COSG-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Black<sup id="cite_ref-PSG_1-4" class="reference"><a href="#cite_note-PSG-1">&#91;1&#93;</a></sup><sup id="cite_ref-COSG_2-4" class="reference"><a href="#cite_note-COSG-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Dark blue<sup id="cite_ref-PSG_1-5" class="reference"><a href="#cite_note-PSG-1">&#91;1&#93;</a></sup><sup id="cite_ref-COSG_2-5" class="reference"><a href="#cite_note-COSG-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Light<sup id="cite_ref-PSG_1-6" class="reference"><a href="#cite_note-PSG-1">&#91;1&#93;</a></sup><sup id="cite_ref-COSG_2-6" class="reference"><a href="#cite_note-COSG-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Elladora Ketteridge</b> (<a href="/wiki/1656" class="mw-redirect" title="1656">1656</a> - <a href="/wiki/1729" class="mw-redirect" title="1729">1729</a>) was the first <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> to discover the <a href="/wiki/Magic" title="Magic">magical</a> properties of <a href="/wiki/Gillyweed" title="Gillyweed">Gillyweed</a>, having done so by accident. She nearly suffocated after eating the plant, but saved herself by sticking her head into a bucket of <a href="/wiki/Water" title="Water">water</a>.<sup id="cite_ref-PM_3-2" class="reference"><a href="#cite_note-PM-3">&#91;3&#93;</a></sup><sup id="cite_ref-PSG_1-7" class="reference"><a href="#cite_note-PSG-1">&#91;1&#93;</a></sup><sup id="cite_ref-COSG_2-7" class="reference"><a href="#cite_note-COSG-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Elladora_Ketteridge?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Elladora_Ketteridge?action=edit&amp;section=1" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Despite the fact that Elladora Ketteridge discovered the effects of Gillyweed, it is said that <a href="/wiki/Beaumont_Marjoribanks" title="Beaumont Marjoribanks">Beaumont Marjoribanks</a> discovered the existence of the plant about a century later. This error would be fixed if the dates were switched, or if Ketteridge was alive at the same time as, or after Majoribanks, as Majoribanks only discovered the existence of Gillyweed, while Ketteridge discovered its magical effects.</li>
+<li>While she discovered the properties of Gillyweed, Ketteridge did so in an accidental manner, and as no other information is known about Ketteridge's career, it is unknown if she regularly studied plants as a <a href="/wiki/Herbologist" title="Herbologist">Herbologist</a>, or if this was just a one-time fluke.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Elladora_Ketteridge?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Elladora_Ketteridge?action=edit&amp;section=2" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 3 images related to <i><b><a href="/wiki/Category:Images_of_Elladora_Ketteridge" title="Category:Images of Elladora Ketteridge">Elladora Ketteridge</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div><figure class="thumb tright show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/e/e5/Elladora_Ketteridge-49-chocFrogCard.png/revision/latest?cb=20160606202228" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/e/e5/Elladora_Ketteridge-49-chocFrogCard.png/revision/latest/scale-to-width-down/180?cb=20160606202228" decoding="async" width="180" height="180" class="thumbimage" data-image-name="Elladora Ketteridge-49-chocFrogCard.png" data-image-key="Elladora_Ketteridge-49-chocFrogCard.png" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Elladora_Ketteridge-49-chocFrogCard.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Elladora Ketteridge immortalised on a bronze wizard card</p> 		 	</figcaption> </figure>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(video_game)" title="Harry Potter and the Philosopher&#39;s Stone (video game)">Harry Potter and the Philosopher's Stone (video game)</a></i> <small>(First appearance)</small> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(video_game)" title="Harry Potter and the Chamber of Secrets (video game)">Harry Potter and the Chamber of Secrets (video game)</a></i> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Elladora_Ketteridge?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Elladora_Ketteridge?action=edit&amp;section=3" title="Edit section: Notes and references

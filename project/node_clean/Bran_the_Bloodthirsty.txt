@@ -1,0 +1,79 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-giant pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/5/5e/Bran_the_Bloodthirsty.png/revision/latest?cb=20130826161643" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/5/5e/Bran_the_Bloodthirsty.png/revision/latest/scale-to-width-down/250?cb=20130826161643" srcset="https://static.wikia.nocookie.net/harrypotter/images/5/5e/Bran_the_Bloodthirsty.png/revision/latest/scale-to-width-down/250?cb=20130826161643 1x, https://static.wikia.nocookie.net/harrypotter/images/5/5e/Bran_the_Bloodthirsty.png/revision/latest/scale-to-width-down/500?cb=20130826161643 2x" class="pi-image-thumbnail" alt="" width="250" height="337"
+		     data-image-key="Bran_the_Bloodthirsty.png" data-image-name="Bran the Bloodthirsty.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Bran the Bloodthirsty</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Middle_Ages" title="Middle Ages">Medieval times</a><sup id="cite_ref-POAG_1-0" class="reference"><a href="#cite_note-POAG-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Middle_Ages" title="Middle Ages">Medieval times</a><sup id="cite_ref-POAG_1-1" class="reference"><a href="#cite_note-POAG-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Giant" title="Giant">Giant</a><sup id="cite_ref-POAG_1-2" class="reference"><a href="#cite_note-POAG-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male<sup id="cite_ref-POAG_1-3" class="reference"><a href="#cite_note-POAG-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Brown<sup id="cite_ref-POAG_1-4" class="reference"><a href="#cite_note-POAG-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Pink<sup id="cite_ref-POAG_1-5" class="reference"><a href="#cite_note-POAG-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Bran the Bloodthirsty</b> was a <a href="/wiki/Middle_Ages" title="Middle Ages">Medieval</a> <a href="/wiki/Giant" title="Giant">Giant</a> who lived in a castle on top of an enchanted beanstalk. He was fond of grinding up the <a href="/wiki/Bones_family" title="Bones family">bones</a> of his victims to make his bread, and washing it down with the <a href="/wiki/Blood" title="Blood">blood</a> of an Englishman. He was eventually slain by a boy named <a href="/wiki/Jack" title="Jack">Jack</a>.<sup id="cite_ref-POAG_1-6" class="reference"><a href="#cite_note-POAG-1">&#91;1&#93;</a></sup>
+</p><p>Long after his death, he appeared on a <a href="/wiki/Chocolate_Frog_Card" title="Chocolate Frog Card">Chocolate Frog Card</a>.<sup id="cite_ref-POAG_1-7" class="reference"><a href="#cite_note-POAG-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Bran_the_Bloodthirsty?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Bran_the_Bloodthirsty?action=edit&amp;section=1" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Bran the Bloodthirsty is based on the giant from the popular fairy tale <a href="http://en.wikipedia.org/wiki/Jack_and_the_Beanstalk" class="extiw" title="wikipedia:Jack and the Beanstalk">Jack and the Beanstalk</a>.</li>
+<li>In Welsh legend, Bran ("raven") the Blessed was a peaceful and wise giant who was King of Britain in the period between the departure of the Roman legions and the reign of King Arthur. When he was mortally wounded at the hands of Irish invaders, he ordered his followers to behead him and bury his head on Tower Hill, to protect Britain from invaders.</li>
+<li>In Irish mythology, Bran is the talking hound of Fionn mac Cumhaill, known in English as Finn McCool, but she is not bloodthirsty. However, in another myth, Finn's son, Oisin, has lost <a href="/wiki/Immortality" title="Immortality">immortality</a> and meets St Patrick. To prove his words, he raises a hound and orders it should not see the light of day or taste blood. The hound (Bran Og) goes wild when exposed to sunlight and has to be killed. Both the giant and Bran Og were bloodthirsty.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Bran_the_Bloodthirsty?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Bran_the_Bloodthirsty?action=edit&amp;section=2" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(video_game)" title="Harry Potter and the Prisoner of Azkaban (video game)">Harry Potter and the Prisoner of Azkaban (video game)</a></i> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Bran_the_Bloodthirsty?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Bran_the_Bloodthirsty?action=edit&amp;section=3" title="Edit section: Notes and references

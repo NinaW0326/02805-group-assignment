@@ -1,0 +1,154 @@
+<div class="mw-parser-output"><table class="notice metadata" cellpadding="3px" style="text-align: center; background: snow; border: #a00 1px solid; margin: 1em 10% 1em 10%;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/1/16/Mirror_of_Erised.jpeg/revision/latest?cb=20090713064057" class="image"><img alt="Mirror of Erised.jpeg" src="https://static.wikia.nocookie.net/harrypotter/images/1/16/Mirror_of_Erised.jpeg/revision/latest/scale-to-width-down/80?cb=20090713064057" decoding="async" width="80" height="67" data-image-name="Mirror of Erised.jpeg" data-image-key="Mirror_of_Erised.jpeg" /></a>
+</td>
+<td><i><b>"Is this all real? Or has this been happening inside my head?"</b></i>
+<p>The topic of this article is of a real-life subject that has been mentioned "<a href="/wiki/Harry_Potter_Wiki:Policy#.22In-universe.22_point_of_view" title="Harry Potter Wiki:Policy">in-universe</a>" in a <a href="/wiki/Harry_Potter_Wiki:Canon" title="Harry Potter Wiki:Canon">canon</a> source. The <a href="/wiki/Harry_Potter_Wiki:About" title="Harry Potter Wiki:About">Harry Potter Wiki</a> is written from the perspective that all information presented in canon is true (e.g., <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts</a> really exists), and, as such, details contained in this article may differ from real world facts.
+</p>
+</td></tr></tbody></table>
+<table class="notice metadata" id="spoiler" style="text-align: center; background: beige; margin: 1em 05%; padding: 0 1em; border: #a00 1px solid;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/8/8c/Hogwarts_Mystery.jpeg/revision/latest?cb=20180504083359" class="image"><img alt="Hogwarts Mystery.jpeg" src="https://static.wikia.nocookie.net/harrypotter/images/8/8c/Hogwarts_Mystery.jpeg/revision/latest/scale-to-width-down/175?cb=20180504083359" decoding="async" width="175" height="77" data-image-name="Hogwarts Mystery.jpeg" data-image-key="Hogwarts_Mystery.jpeg" /></a>
+</td>
+<td><b>Warning!</b>
+<p>At least some content in this article is derived from information featured in <i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i>. Spoilers will be present within the article.
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-creature pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/d/d2/Lion.jpg/revision/latest?cb=20090715193328" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/d/d2/Lion.jpg/revision/latest/scale-to-width-down/180?cb=20090715193328" srcset="https://static.wikia.nocookie.net/harrypotter/images/d/d2/Lion.jpg/revision/latest/scale-to-width-down/180?cb=20090715193328 1x, https://static.wikia.nocookie.net/harrypotter/images/d/d2/Lion.jpg/revision/latest/scale-to-width-down/360?cb=20090715193328 2x" class="pi-image-thumbnail" alt="" width="180" height="232"
+		     data-image-key="Lion.jpg" data-image-name="Lion.jpg"/>
+		
+	</a>
+	
+</figure>
+
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Lion</h2>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Species information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Brown-golden</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Mane</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="related">
+	
+		<h3 class="pi-data-label pi-secondary-font">Related to</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Tiger" title="Tiger">Tiger</a></li><li><a href="/wiki/Cat" title="Cat">Cat</a></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="native">
+	
+		<h3 class="pi-data-label pi-secondary-font">Native to</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Africa" title="Africa">Africa</a></li><li><a href="/wiki/Asia" title="Asia">Asia</a></li><li><a href="/wiki/India" title="India">India</a></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="mortality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Mortality</h3>
+	
+	<div class="pi-data-value pi-font">Mortal</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="distinction">
+	
+		<h3 class="pi-data-label pi-secondary-font">Distinction</h3>
+	
+	<div class="pi-data-value pi-font">Carnivorous</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="affiliation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Affiliation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Gryffindor" title="Gryffindor">Gryffindor</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="status">
+	
+		<h3 class="pi-data-label pi-secondary-font">Status</h3>
+	
+	<div class="pi-data-value pi-font">Extant</div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Creature_infobox" title="Template:Creature infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Chamber of Secrets (film)">"<i>Heart of a lion, this one</i>"</span></dd>
+<dd>&#8212;<a href="/wiki/Ronald_Weasley" title="Ronald Weasley">Ron</a>, sarcastically, after <a href="/wiki/Gilderoy_Lockhart" title="Gilderoy Lockhart">Gilderoy Lockhart</a> pretends to faint upon seeing the shed skin of the <a href="/wiki/Serpent_of_Slytherin" title="Serpent of Slytherin">Serpent of Slytherin</a><sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(film)" title="Harry Potter and the Chamber of Secrets (film)">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p>A <b>lion</b> is a carnivorous mammal. It is the second-largest living <a href="/wiki/Cat" title="Cat">cat</a> after the <a href="/wiki/Tiger" title="Tiger">tiger</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Lions_in_the_wizarding_world"><span class="tocnumber">1</span> <span class="toctext">Lions in the wizarding world</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Behind_the_scenes"><span class="tocnumber">3</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Appearances"><span class="tocnumber">4</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Notes_and_references"><span class="tocnumber">5</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Lions_in_the_wizarding_world">Lions in the wizarding world</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Lion?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Lions in the wizarding world">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Lion?action=edit&amp;section=1" title="Edit section: Lions in the wizarding world"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>It is the mascot of <a href="/wiki/Gryffindor" title="Gryffindor">Gryffindor</a> <a href="/wiki/Hogwarts_Houses" title="Hogwarts Houses">House</a> at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a>,<sup id="cite_ref-PM_2-0" class="reference"><a href="#cite_note-PM-2">&#91;2&#93;</a></sup> as it represents courage and chivalry, the two most pronounced traits of a Gryffindor. In addition, <a href="/wiki/Luna_Lovegood" title="Luna Lovegood">Luna Lovegood</a> made <a href="/wiki/Luna_Lovegood%27s_lion_hat" class="mw-redirect" title="Luna Lovegood&#39;s lion hat">a hat in the shape of a lion's head</a>, and would wear it at all <a href="/wiki/Quidditch" title="Quidditch">Quidditch</a> games between Gryffindor and <a href="/wiki/Slytherin" title="Slytherin">Slytherin Houses</a>, to show her support for Gryffindor, over Slytherin.<sup id="cite_ref-OOTP19_3-0" class="reference"><a href="#cite_note-OOTP19-3">&#91;3&#93;</a></sup>
+</p><p>Many <a href="/wiki/Magic" title="Magic">magical</a> <a href="/wiki/Beast" title="Beast">beasts</a> have the physical features of lions. <a href="/wiki/Sphinx" title="Sphinx">Sphinxes</a> and <a href="/wiki/Manticore" title="Manticore">Manticores</a> are magical beasts that have the body of a lion and the head of a <a href="/wiki/Human" title="Human">human</a>.<sup id="cite_ref-GF31_4-0" class="reference"><a href="#cite_note-GF31-4">&#91;4&#93;</a></sup> <a href="/wiki/Chimaera" title="Chimaera">Chimaeras</a> have the head of a lion, the body of a <a href="/wiki/Goat" title="Goat">goat</a>, and the tail of a <a href="/wiki/Dragon" title="Dragon">dragon</a>. <a href="/wiki/Griffin" title="Griffin">Griffins</a> have bodies that are part lion and part <a href="/wiki/Eagle" title="Eagle">eagle</a>. <a href="/wiki/Kneazle" title="Kneazle">Kneazles</a> have a lightly plumed tail that resembles a lion's.<sup id="cite_ref-FBR_5-0" class="reference"><a href="#cite_note-FBR-5">&#91;5&#93;</a></sup> <a href="/wiki/Zouwu" title="Zouwu">Zouwus</a> have a mane that resembles a lion's.<sup id="cite_ref-COGS_6-0" class="reference"><a href="#cite_note-COGS-6">&#91;6&#93;</a></sup>
+</p><p>It is a possible corporeal form of the <a href="/wiki/Patronus_Charm" title="Patronus Charm">Patronus Charm</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> <a href="/wiki/Patricia_Rakepick" title="Patricia Rakepick">Patricia Rakepick</a>'s Patronus took the form of a lioness.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Lion?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: History">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Lion?action=edit&amp;section=2" title="Edit section: History"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tright show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/7/79/Lion_-_Fantastic_Beasts.png/revision/latest?cb=20200416060009" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="180" height="179" class="thumbimage lazyload" data-image-name="Lion - Fantastic Beasts.png" data-image-key="Lion_-_Fantastic_Beasts.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/7/79/Lion_-_Fantastic_Beasts.png/revision/latest/scale-to-width-down/180?cb=20200416060009" /></a> 	<noscript><a href="https://static.wikia.nocookie.net/harrypotter/images/7/79/Lion_-_Fantastic_Beasts.png/revision/latest?cb=20200416060009" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/7/79/Lion_-_Fantastic_Beasts.png/revision/latest/scale-to-width-down/180?cb=20200416060009" decoding="async" width="180" height="179" class="thumbimage" data-image-name="Lion - Fantastic Beasts.png" data-image-key="Lion_-_Fantastic_Beasts.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/7/79/Lion_-_Fantastic_Beasts.png/revision/latest/scale-to-width-down/180?cb=20200416060009" /></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Lion_-_Fantastic_Beasts.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">An escaped Lion from Central Park Zoo</p> 		 	</figcaption> </figure>
+<p>On <a href="/wiki/6_December" title="6 December">6 December</a> <a href="/wiki/1926" title="1926">1926</a>, a lion escaped from the <a href="/wiki/Central_Park_Zoo" title="Central Park Zoo">Central Park Zoo</a> in <a href="/wiki/New_York" title="New York">New York</a> as a results of damages done by the <a href="/wiki/Erumpent" title="Erumpent">Erumpent</a> set loose from <a href="/wiki/Newton_Scamander%27s_suitcase" title="Newton Scamander&#39;s suitcase">Newton Scamander's suitcase</a>. It was seen later wandering the streets of the <a href="/wiki/Diamond_District" title="Diamond District">Diamond District</a> by <a href="/wiki/Newton_Scamander" title="Newton Scamander">Newton Scamander</a>, <a href="/wiki/Jacob_Kowalski" title="Jacob Kowalski">Jacob Kowalski</a>, and the <a href="/wiki/New_York_Police_Department" title="New York Police Department">New York Police Department</a>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p><p>At the <a href="/wiki/1994_Quidditch_World_Cup" title="1994 Quidditch World Cup">1994 Quidditch World Cup</a>, the scarves for those supporting <a href="/wiki/Bulgarian_National_Quidditch_team" title="Bulgarian National Quidditch team">Bulgaria</a> were adorned with lions that really roared.<sup id="cite_ref-GF7_11-0" class="reference"><a href="#cite_note-GF7-11">&#91;11&#93;</a></sup>
+</p><p>Later <a href="/wiki/1994" title="1994">that year</a>, while introducing a dance lesson for the <a href="/wiki/Yule_Ball" title="Yule Ball">Yule Ball</a>, <a href="/wiki/Professor" title="Professor">Professor</a> <a href="/wiki/Minerva_McGonagall" title="Minerva McGonagall">McGonagall</a> stated that inside every boy was a lordly lion prepared to prance.<sup id="cite_ref-GOFfilm_12-0" class="reference"><a href="#cite_note-GOFfilm-12">&#91;12&#93;</a></sup>
+</p><p>In the summer of <a href="/wiki/1996" title="1996">1996</a>, when observing him for the first time, the <a href="/wiki/Prime_Minister" title="Prime Minister">Prime Minister</a> thought that <a href="/wiki/Rufus_Scrimgeour" title="Rufus Scrimgeour">Rufus Scrimgeour</a> looked rather like an old lion.<sup id="cite_ref-HBP1_13-0" class="reference"><a href="#cite_note-HBP1-13">&#91;13&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Lion?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Lion?action=edit&amp;section=3" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>When <a href="/wiki/Tom_Felton" title="Tom Felton">Tom Felton</a> was asked about what magical pet he would like to have, he said it would be a pink lion, an animal not featured in canon.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Lion?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Lion?action=edit&amp;section=4" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(film)" title="Harry Potter and the Philosopher&#39;s Stone (film)">Harry Potter and the Philosopher's Stone (film)</a></i> <span class="template-c">(Gryffindor sign)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(video_game)" title="Harry Potter and the Philosopher&#39;s Stone (video game)">Harry Potter and the Philosopher's Stone (video game)</a></i> <span class="template-c">(Gryffindor sign)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(film)" title="Harry Potter and the Chamber of Secrets (film)">Harry Potter and the Chamber of Secrets (film)</a></i> <span class="template-c">(Gryffindor sign)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(video_game)" title="Harry Potter and the Chamber of Secrets (video game)">Harry Potter and the Chamber of Secrets (video game)</a></i> <span class="template-c">(Gryffindor sign)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(video_game)" title="Harry Potter and the Prisoner of Azkaban (video game)">Harry Potter and the Prisoner of Azkaban (video game)</a></i> <span class="template-c">(Statue)</span> <span class="template-c">(Gryffindor sign)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire" title="Harry Potter and the Goblet of Fire">Harry Potter and the Goblet of Fire</a></i> <span class="template-c">(Lion scarves)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire_(film)" title="Harry Potter and the Goblet of Fire (film)">Harry Potter and the Goblet of Fire (film)</a></i> <small>(Mentioned only)</small> <span class="template-c">(Gryffindor sign)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire_(video_game)" title="Harry Potter and the Goblet of Fire (video game)">Harry Potter and the Goblet of Fire (video game)</a></i> <span class="template-c">(Gryffindor sign)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">Harry Potter and the Order of the Phoenix</a></i> <span class="template-c">(Lion hat)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(film)" title="Harry Potter and the Order of the Phoenix (film)">Harry Potter and the Order of the Phoenix (film)</a></i> <span class="template-c">(Gryffindor sign)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(video_game)" title="Harry Potter and the Order of the Phoenix (video game)">Harry Potter and the Order of the Phoenix (video game)</a></i> <span class="template-c">(Gryffindor sign)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">Harry Potter and the Half-Blood Prince</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince_(film)" title="Harry Potter and the Half-Blood Prince (film)">Harry Potter and the Half-Blood Prince (film)</a></i> <span class="template-c">(Gryffindor sign)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince_(video_game)" title="Harry Potter and the Half-Blood Prince (video game)">Harry Potter and the Half-Blood Prince (video game)</a></i> <span class="template-c">(Gryffindor sign)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_2" title="Harry Potter and the Deathly Hallows: Part 2">Harry Potter and the Deathly Hallows: Part 2</a></i> <span class="template-c">(Gryffindor sign)</span></li>
+<li><i><a href="/wiki/Harry_Potter:_A_Pop-Up_Book" title="Harry Potter: A Pop-Up Book">Harry Potter: A Pop-Up Book</a></i> <span class="template-c">(Hogwarts crest)</span></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter" title="LEGO Harry Potter">LEGO Harry Potter</a></i> <span class="template-c">(Gryffindor sign)</span></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter:_Building_the_Magical_World" title="LEGO Harry Potter: Building the Magical World">LEGO Harry Potter: Building the Magical World</a></i> <span class="template-c">(Gryffindor sign)</span></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter:_Characters_of_the_Magical_World" title="LEGO Harry Potter: Characters of the Magical World">LEGO Harry Potter: Characters of the Magical World</a></i> <span class="template-c">(Gryffindor sign)</span></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter:_Years_1-4" title="LEGO Harry Potter: Years 1-4">LEGO Harry Potter: Years 1-4</a></i></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter:_Years_5-7" title="LEGO Harry Potter: Years 5-7">LEGO Harry Potter: Years 5-7</a></i></li>
+<li><i><a href="/wiki/LEGO_Dimensions" title="LEGO Dimensions">LEGO Dimensions</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_Trading_Card_Game" title="Harry Potter Trading Card Game">Harry Potter Trading Card Game</a></i></li>
+<li><i><a href="/wiki/Harry_Potter:_The_Character_Vault" title="Harry Potter: The Character Vault">Harry Potter: The Character Vault</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them:_The_Original_Screenplay" title="Fantastic Beasts and Where to Find Them: The Original Screenplay">Fantastic Beasts and Where to Find Them: The Original Screenplay</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(film)" title="Fantastic Beasts and Where to Find Them (film)">Fantastic Beasts and Where to Find Them (film)</a></i></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> <span class="template-c">(Appears as a <a href="/wiki/Patronus_Charm" title="Patronus Charm">Patronus</a>)</span></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Lion?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Lion?action=edit&amp;section=5" title="Edit section: Notes and references

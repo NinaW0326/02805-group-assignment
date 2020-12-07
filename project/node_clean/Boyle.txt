@@ -1,0 +1,64 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-muggle pi-layout-default"><section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Boyle</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Muggle" class="mw-redirect" title="Muggle">No-Maj</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="marital">
+	
+		<h3 class="pi-data-label pi-secondary-font">Marital status</h3>
+	
+	<div class="pi-data-value pi-font">Unmarried</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/United_States_of_America" title="United States of America">American</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Fantastic Beasts and Where to Find Them (film)">"<i>"It was horrifying!" sobs Miss Boyle, "I can't believe he is dead! The place was in chaos, nobody knew what was happening or what to do!"</i>"</span></dd>
+<dd>&#8212;Miss Boyle talks about the <a href="/wiki/Fundraising_Dinner_for_the_Re-election_of_Senator_Henry_Shaw" title="Fundraising Dinner for the Re-election of Senator Henry Shaw">Shaw Fundraising Dinner</a>, quoted on the <a href="/wiki/7_December" title="7 December">7 December</a>, <a href="/wiki/1926" title="1926">1926</a> issue of <i><a href="/wiki/The_New_York_Star" title="The New York Star">The New York Star</a></i><sup class="noprint"><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(film)" title="Fantastic Beasts and Where to Find Them (film)">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Miss Boyle</b> was a <a href="/wiki/United_States_of_America" title="United States of America">American</a> <a href="/wiki/Non-magic_people" title="Non-magic people">No-Maj</a> woman who was part of the upper echelons of <a href="/wiki/New_York" title="New York">New York</a> society in the <a href="/wiki/1920s" title="1920s">1920s</a>.<sup id="cite_ref-NewYorkStar_1-0" class="reference"><a href="#cite_note-NewYorkStar-1">&#91;1&#93;</a></sup>
+</p><p>She was one of the attendees of the <a href="/wiki/Fundraising_Dinner_for_the_Re-election_of_Senator_Henry_Shaw" title="Fundraising Dinner for the Re-election of Senator Henry Shaw">fundraising dinner</a> for the re-election of <a href="/wiki/Henry_Shaw_Junior" title="Henry Shaw Junior">Senator Henry Shaw</a> in December 1926. When the function was interrupted by <a href="/wiki/Credence_Barebone" title="Credence Barebone">Credence Barebone</a>'s <a href="/wiki/Obscurus" title="Obscurus">Obscurus</a>'s attack on the Senator, Miss Boyle was at a loss as to what to do as chaos ensued. She later was quoted in a report on the incident published in <i><a href="/wiki/The_New_York_Star" title="The New York Star">The New York Star</a></i>.<sup id="cite_ref-NewYorkStar_1-1" class="reference"><a href="#cite_note-NewYorkStar-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Boyle?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Boyle?action=edit&amp;section=1" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Fantastic_Beasts:_Cases_from_the_Wizarding_World" title="Fantastic Beasts: Cases from the Wizarding World">Fantastic Beasts: Cases from the Wizarding World</a></i> <span class="template-c">(Mentioned in a newspaper)</span></li>
+<li><i><a href="/wiki/The_Case_of_Beasts:_Explore_the_Film_Wizardry_of_Fantastic_Beasts_and_Where_to_Find_Them" title="The Case of Beasts: Explore the Film Wizardry of Fantastic Beasts and Where to Find Them">The Case of Beasts: Explore the Film Wizardry of Fantastic Beasts and Where to Find Them</a></i> <span class="template-c">(Mentioned in a newspaper)</span></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Boyle?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Boyle?action=edit&amp;section=2" title="Edit section: Notes and references

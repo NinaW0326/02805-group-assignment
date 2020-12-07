@@ -1,0 +1,144 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-slytherin pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/e/e6/Cassiopeia_Black.jpg/revision/latest?cb=20110619010109" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/e/e6/Cassiopeia_Black.jpg/revision/latest/scale-to-width-down/350?cb=20110619010109" srcset="https://static.wikia.nocookie.net/harrypotter/images/e/e6/Cassiopeia_Black.jpg/revision/latest/scale-to-width-down/350?cb=20110619010109 1x, https://static.wikia.nocookie.net/harrypotter/images/e/e6/Cassiopeia_Black.jpg/revision/latest/scale-to-width-down/699?cb=20110619010109 2x" class="pi-image-thumbnail" alt="" width="270" height="201"
+		     data-image-key="Cassiopeia_Black.jpg" data-image-name="Cassiopeia Black.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Cassiopeia Black</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/1915" title="1915">1915</a><sup id="cite_ref-BFT_1-0" class="reference"><a href="#cite_note-BFT-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/1992" title="1992">1992</a><sup id="cite_ref-BFT_1-1" class="reference"><a href="#cite_note-BFT-1">&#91;1&#93;</a></sup> (aged 76 - 77)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Pure-blood" title="Pure-blood">Pure-blood</a><sup id="cite_ref-BFT_1-2" class="reference"><a href="#cite_note-BFT-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="marital">
+	
+		<h3 class="pi-data-label pi-secondary-font">Marital status</h3>
+	
+	<div class="pi-data-value pi-font">Single</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a> or <a href="/wiki/Ireland" title="Ireland">Irish</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-BFT_1-3" class="reference"><a href="#cite_note-BFT-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female<sup id="cite_ref-BFT_1-4" class="reference"><a href="#cite_note-BFT-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Brown</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Cygnus_Black_II" title="Cygnus Black II">Cygnus Black II</a> (father) †<sup id="cite_ref-BFT_1-5" class="reference"><a href="#cite_note-BFT-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/Violetta_Bulstrode" title="Violetta Bulstrode">Violetta Black</a> (mother)<sup id="cite_ref-BFT_1-6" class="reference"><a href="#cite_note-BFT-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/Pollux_Black" title="Pollux Black">Pollux Black</a> (brother) †<sup id="cite_ref-BFT_1-7" class="reference"><a href="#cite_note-BFT-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/Marius_Black" title="Marius Black">Marius Black</a> (brother)<sup id="cite_ref-BFT_1-8" class="reference"><a href="#cite_note-BFT-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/Dorea_Black" title="Dorea Black">Dorea Potter</a> (sister) †<sup id="cite_ref-BFT_1-9" class="reference"><a href="#cite_note-BFT-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/Charlus_Potter" title="Charlus Potter">Charlus Potter</a> (brother-in-law)<sup id="cite_ref-BFT_1-10" class="reference"><a href="#cite_note-BFT-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/Irma_Crabbe" title="Irma Crabbe">Irma Crabbe</a> (sister-in-law)<sup id="cite_ref-BFT_1-11" class="reference"><a href="#cite_note-BFT-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/Cygnus_Black_III" title="Cygnus Black III">Cygnus Black III</a> (nephew) †<sup id="cite_ref-BFT_1-12" class="reference"><a href="#cite_note-BFT-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/Walburga_Black" title="Walburga Black">Walburga Black</a> (niece) †<sup id="cite_ref-BFT_1-13" class="reference"><a href="#cite_note-BFT-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/Alphard_Black" title="Alphard Black">Alphard Black</a> (nephew) †<sup id="cite_ref-BFT_1-14" class="reference"><a href="#cite_note-BFT-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/House_of_Black" title="House of Black">Black family</a></li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="house">
+	
+		<h3 class="pi-data-label pi-secondary-font">House</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Slytherin" title="Slytherin">Slytherin</a><sup id="cite_ref-slytherin_3-0" class="reference"><a href="#cite_note-slytherin-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/House_of_Black" title="House of Black">House of Black</a></li><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a><ul><li><a href="/wiki/Slytherin" title="Slytherin">Slytherin</a></li></ul></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Cassiopeia Black</b> (<a href="/wiki/1915" title="1915">1915</a> – <a href="/wiki/1992" title="1992">1992</a>) was a <a href="/wiki/Pure-blood" title="Pure-blood">pure-blood</a> <a href="/wiki/Wizardkind" title="Wizardkind">witch</a>, the eldest daughter of <a href="/wiki/Cygnus_Black_II" title="Cygnus Black II">Cygnus Black II</a> and <a href="/wiki/Violetta_Bulstrode" title="Violetta Bulstrode">Violetta Black</a> (née Bulstrode) and sister of <a href="/wiki/Pollux_Black" title="Pollux Black">Pollux</a>, <a href="/wiki/Marius_Black" title="Marius Black">Marius</a> and <a href="/wiki/Dorea_Black" title="Dorea Black">Dorea</a>. Cassiopeia never married or had any children.<sup id="cite_ref-BFT_1-15" class="reference"><a href="#cite_note-BFT-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Behind_the_scenes"><span class="tocnumber">1</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Etymology"><span class="tocnumber">2</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Appearances"><span class="tocnumber">3</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Notes_and_references"><span class="tocnumber">4</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Cassiopeia_Black?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Cassiopeia_Black?action=edit&amp;section=1" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Based on a statement by <a href="/wiki/Horace_Slughorn" title="Horace Slughorn">Horace Slughorn</a>, Cassiopeia may well have been a member of the <a href="/wiki/Slytherin" title="Slytherin">Slytherin House</a>.  She attended Hogwarts c. <a href="/wiki/1926" title="1926">1926</a> - <a href="/wiki/1933" title="1933">1933</a>. Slughorn became Potions Master in 1931 when she would likely have been in her fifth or sixth year.</li>
+<li>Since Cassiopeia and <a href="/wiki/Callidora_Black" title="Callidora Black">Callidora</a> were born in the same year, it is likely that they were classmates at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts</a>.</li>
+<li>Cassiopeia is a queen in Greek mythology, and her daughter is Andromeda. Another relative was <a href="/wiki/Andromeda_Tonks" title="Andromeda Tonks">Andromeda Tonks</a>, a grand-niece of Cassiopeia Black.</li>
+<li>Cassiopeia died two years after her brother Pollux and one after their <a href="/wiki/Arcturus_Black_III" title="Arcturus Black III">cousin</a>, and the same year as <a href="/wiki/Lucretia_Black" title="Lucretia Black">two</a> <a href="/wiki/Cygnus_Black_III" title="Cygnus Black III">other</a> members of the Black family. At that time, Cassiopeia's grand-nephew (<a href="/wiki/Sirius_Black" title="Sirius Black">Sirius Black&#160;III</a>) was in <a href="/wiki/Azkaban" title="Azkaban">Azkaban</a>.</li>
+<li>On the family tree featured in the film, her first name is misspelt "Cassiapeia".</li></ul>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Cassiopeia_Black?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Cassiopeia_Black?action=edit&amp;section=2" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Like many members of the <a href="/wiki/House_of_Black" title="House of Black">House of Black</a>, Cassiopeia is named after a <a href="http://en.wikipedia.org/wiki/Cassiopeia_(constellation)" class="extiw" title="wikipedia:Cassiopeia (constellation)">constellation</a>. The constellation is in turn named after <a href="http://en.wikipedia.org/wiki/Cassiopeia_(mythology)" class="extiw" title="wikipedia:Cassiopeia (mythology)">Queen Cassiopeia</a> of Greek mythology, a beautiful but vain woman whose arrogant boasting led to her downfall. The name is derived from the Greek Κασσιόπη, meaning "she whose words excel".
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Cassiopeia_Black?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Cassiopeia_Black?action=edit&amp;section=3" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(film)" title="Harry Potter and the Order of the Phoenix (film)">Harry Potter and the Order of the Phoenix (film)</a></i> <span class="template-c">(Appears on Black family tapestry)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(video_game)" title="Harry Potter and the Order of the Phoenix (video game)">Harry Potter and the Order of the Phoenix (video game)</a></i> <span class="template-c">(Seen on <a href="/wiki/House_of_Black" title="House of Black">Black family</a> tree tapestry)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1_(video_game)" title="Harry Potter and the Deathly Hallows: Part 1 (video game)">Harry Potter and the Deathly Hallows: Part 1 (video game)</a></i> <span class="template-c">(Seen on <a href="/wiki/House_of_Black" title="House of Black">Black family</a> tree tapestry)</span></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Cassiopeia_Black?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Cassiopeia_Black?action=edit&amp;section=4" title="Edit section: Notes and references

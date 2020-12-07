@@ -1,0 +1,114 @@
+<div class="mw-parser-output"><table class="notice metadata" cellpadding="3px" style="text-align: center; background: snow; border: #a00 1px solid; margin: 1em 10% 1em 10%;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/1/16/Mirror_of_Erised.jpeg/revision/latest?cb=20090713064057" class="image"><img alt="Mirror of Erised.jpeg" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="80" height="67" data-image-name="Mirror of Erised.jpeg" data-image-key="Mirror_of_Erised.jpeg" data-src="https://static.wikia.nocookie.net/harrypotter/images/1/16/Mirror_of_Erised.jpeg/revision/latest/scale-to-width-down/80?cb=20090713064057" class="lazyload" /></a>
+</td>
+<td><i><b>"Is this all real? Or has this been happening inside my head?"</b></i>
+<p>The topic of this article is of a real-life subject that has been mentioned "<a href="/wiki/Harry_Potter_Wiki:Policy#.22In-universe.22_point_of_view" title="Harry Potter Wiki:Policy">in-universe</a>" in a <a href="/wiki/Harry_Potter_Wiki:Canon" title="Harry Potter Wiki:Canon">canon</a> source. The <a href="/wiki/Harry_Potter_Wiki:About" title="Harry Potter Wiki:About">Harry Potter Wiki</a> is written from the perspective that all information presented in canon is true (e.g., <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts</a> really exists), and, as such, details contained in this article may differ from real world facts.
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-iop pi-layout-default"><section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title"><span style="color: #3A3A3A; font-size: larger;">President of the United States of America</span></h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<table class="pi-horizontal-group pi-horizontal-group-no-labels">
+	
+	
+	<tbody>
+	<tr>
+	
+		<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="flag"><a href="https://static.wikia.nocookie.net/harrypotter/images/4/4d/American_Flag.png/revision/latest?cb=20200626185348" class="image"><img alt="American Flag.png" src="https://static.wikia.nocookie.net/harrypotter/images/4/4d/American_Flag.png/revision/latest/scale-to-width-down/100?cb=20200626185348" decoding="async" width="100" height="53" data-image-name="American Flag.png" data-image-key="American_Flag.png" /></a></td>
+	
+	</tr>
+	</tbody>
+</table>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<table class="pi-horizontal-group pi-horizontal-group-no-labels">
+	
+	
+	<tbody>
+	<tr>
+	
+		<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="image"><div style="padding-bottom:0.4em; line-height:1.4em;"><div style="padding-bottom:0.4em;"><a href="https://static.wikia.nocookie.net/harrypotter/images/4/47/BillClinton.jpg/revision/latest?cb=20130302164443" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/4/47/BillClinton.jpg/revision/latest/scale-to-width-down/225?cb=20130302164443" decoding="async" width="225" height="194" class="thumbborder" data-image-name="BillClinton.jpg" data-image-key="BillClinton.jpg" /></a></div><b>Office holder<br/><a href="/wiki/Bill_Clinton" title="Bill Clinton">Bill Clinton</a></b></div></td>
+	
+	</tr>
+	</tbody>
+</table>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="style">
+	
+		<h3 class="pi-data-label pi-secondary-font"><a href="http://en.wikipedia.org/wiki/Style_(manner_of_address)" class="extiw" title="wikipedia:Style (manner of address)">Style</a></h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>Mr President <small>(informal)</small></li><li>The Honourable <small>(formal)</small></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="seat">
+	
+		<h3 class="pi-data-label pi-secondary-font"><a href="http://en.wikipedia.org/wiki/Seat_(legal_entity)" class="extiw" title="wikipedia:Seat (legal entity)">Seat</a></h3>
+	
+	<div class="pi-data-value pi-font"><a href="http://en.wikipedia.org/wiki/White_House" class="extiw" title="wikipedia:White House">White House</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="appointer">
+	
+		<h3 class="pi-data-label pi-secondary-font">Appointer</h3>
+	
+	<div class="pi-data-value pi-font"><a href="http://en.wikipedia.org/wiki/Electoral_College_(United_States)" class="extiw" title="wikipedia:Electoral College (United States)">Electoral College</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="termlength">
+	
+		<h3 class="pi-data-label pi-secondary-font"><a href="http://en.wikipedia.org/wiki/Term_of_office" class="extiw" title="wikipedia:Term of office">Term length</a></h3>
+	
+	<div class="pi-data-value pi-font">Four years, renewable once</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="constituting_instrument">
+	
+		<h3 class="pi-data-label pi-secondary-font">Constituting instrument</h3>
+	
+	<div class="pi-data-value pi-font"><a href="http://en.wikipedia.org/wiki/United_States_Constitution" class="extiw" title="wikipedia:United States Constitution">United States Constitution</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="formation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Formation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/4_March" title="4 March">4 March</a>, <a href="/wiki/1789" class="mw-redirect" title="1789">1789</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="first">
+	
+		<h3 class="pi-data-label pi-secondary-font">Inaugural holder</h3>
+	
+	<div class="pi-data-value pi-font"><a href="http://en.wikipedia.org/wiki/George_Washington" class="extiw" title="wikipedia:George Washington">George Washington</a></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Official_post_infobox" title="Template:Official post infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Fantastic Beasts and Where to Find Them: The Original Screenplay">"<i>Ladies and gentlemen, now tonight's keynote speaker needs no introduction from me. He's been mentioned as a future President — and if you don't believe me, just read his daddy's newspapers. Ladies and gentlemen, I give you the Senator for New York, Henry Shaw!</i>"</span></dd>
+<dd>&#8212;<a href="/wiki/Announcer_at_Henry_Shaw_Junior%27s_fundraising_dinner" title="Announcer at Henry Shaw Junior&#39;s fundraising dinner">Announcer</a> at <a href="/wiki/Henry_Shaw_Junior" title="Henry Shaw Junior">Henry Shaw Junior</a>'s <a href="/wiki/Henry_Shaw_Junior%27s_fundraising_dinner" class="mw-redirect" title="Henry Shaw Junior&#39;s fundraising dinner">fundraising dinner</a><sup class="noprint"><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them:_The_Original_Screenplay" title="Fantastic Beasts and Where to Find Them: The Original Screenplay">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p>The <b>President of the United States</b> is the elected <a href="/wiki/Muggle" class="mw-redirect" title="Muggle">No-Maj</a> head of state and head of government of the <a href="/wiki/United_States_of_America" title="United States of America">United States of America</a>, as well as the commander-in-chief of the <a href="http://en.wikipedia.org/wiki/United_States_Armed_Forces" class="extiw" title="wikipedia:United States Armed Forces">United States Armed Forces</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p><p>Before his accidental death at the hand of an <a href="/wiki/Obscurus" title="Obscurus">Obscurus</a> in <a href="/wiki/1926" title="1926">1926</a>, <a href="/wiki/Henry_Shaw_Junior" title="Henry Shaw Junior">Henry Shaw Junior</a>, then-<a href="/wiki/United_States_Senate" title="United States Senate">Senator</a> for <a href="/wiki/New_York" title="New York">New York</a>, was speculated to be likely to become the President of the United States in a near future.<sup id="cite_ref-FB55_2-0" class="reference"><a href="#cite_note-FB55-2">&#91;2&#93;</a></sup> Also in <a href="/wiki/1926" title="1926">1926</a>, an improperly <a href="/wiki/Memory_Charm" title="Memory Charm">Obliviated</a> <a href="/wiki/Muggle" class="mw-redirect" title="Muggle">No-Maj</a> remarked that he thought the President (at that point, <a href="http://en.wikipedia.org/wiki/Calvin_Coolidge" class="extiw" title="wikipedia:Calvin Coolidge">Calvin Coolidge</a>), was a <a href="/wiki/Bear" title="Bear">bear</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p><p>In <a href="/wiki/1996" title="1996">1996</a>, President <a href="/wiki/Bill_Clinton" title="Bill Clinton">Bill Clinton</a> toured <a href="/wiki/Europe" title="Europe">Europe</a>, granting an exclusive interview to the <a href="/wiki/Great_Britain" title="Great Britain">British</a> newspaper <i><a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a></i>.<sup id="cite_ref-HPLE_4-0" class="reference"><a href="#cite_note-HPLE-4">&#91;4&#93;</a></sup> Around the same time, President <a href="/wiki/George_Bush" class="mw-redirect" title="George Bush">George Bush</a> awarded the <a href="/wiki/Congressional_Gold_Medal_of_Honor" title="Congressional Gold Medal of Honor">Congressional Gold Medal of Honor</a> to the then-current <a href="/wiki/Dalai_Lama" title="Dalai Lama">Dalai Lama</a>, a move that angered <a href="/wiki/China" title="China">China</a>.<sup id="cite_ref-HPLE_4-1" class="reference"><a href="#cite_note-HPLE-4">&#91;4&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/President_of_the_United_States_of_America?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/President_of_the_United_States_of_America?action=edit&amp;section=1" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince_(film)" title="Harry Potter and the Half-Blood Prince (film)">Harry Potter and the Half-Blood Prince (film)</a></i> <span class="template-c">(Mentioned on a newspaper)</span></li>
+<li><i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(film)" title="Fantastic Beasts and Where to Find Them (film)">Fantastic Beasts and Where to Find Them (film)</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them:_The_Original_Screenplay" title="Fantastic Beasts and Where to Find Them: The Original Screenplay">Fantastic Beasts and Where to Find Them: The Original Screenplay</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Harry_Potter_Limited_Edition" title="Harry Potter Limited Edition">Harry Potter Limited Edition</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/LEGO_Dimensions" title="LEGO Dimensions">LEGO Dimensions</a></i> <small>(Mentioned only)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/President_of_the_United_States_of_America?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/President_of_the_United_States_of_America?action=edit&amp;section=2" title="Edit section: Notes and references

@@ -1,0 +1,78 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-portrait pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/4/4a/GoogleFlange.JPG/revision/latest?cb=20130211201207" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/4/4a/GoogleFlange.JPG/revision/latest/scale-to-width-down/292?cb=20130211201207" srcset="https://static.wikia.nocookie.net/harrypotter/images/4/4a/GoogleFlange.JPG/revision/latest/scale-to-width-down/292?cb=20130211201207 1x, https://static.wikia.nocookie.net/harrypotter/images/4/4a/GoogleFlange.JPG/revision/latest/scale-to-width-down/585?cb=20130211201207 2x" class="pi-image-thumbnail" alt="" width="270" height="461"
+		     data-image-key="GoogleFlange.JPG" data-image-name="GoogleFlange.JPG"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Google Flange</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font">In or before <a href="/wiki/1991" title="1991">1991</a><sup id="cite_ref-DOD_1-0" class="reference"><a href="#cite_note-DOD-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="title">
+	
+		<h3 class="pi-data-label pi-secondary-font">Title(s)</h3>
+	
+	<div class="pi-data-value pi-font">Sir</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Sir</b> <b>Google Flange</b> was a <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> who lived during the <a href="/wiki/17th_century" title="17th century">17th century</a>.<sup id="cite_ref-wwhp_2-0" class="reference"><a href="#cite_note-wwhp-2">&#91;2&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Behind_the_scenes"><span class="tocnumber">2</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Appearances"><span class="tocnumber">3</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Notes_and_references"><span class="tocnumber">4</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Google_Flange?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Google_Flange?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Google Flange lived during the early <a href="/wiki/17th_century" title="17th century">17th century</a>.<sup id="cite_ref-wwhp_2-1" class="reference"><a href="#cite_note-wwhp-2">&#91;2&#93;</a></sup> At some point in his lifetime, he was <a href="/wiki/Knight" title="Knight">knighted</a>, thus earning the title "Sir."<sup id="cite_ref-wwhp_2-2" class="reference"><a href="#cite_note-wwhp-2">&#91;2&#93;</a></sup>
+</p><p>He died in or before <a href="/wiki/1991" title="1991">1991</a>.<sup id="cite_ref-DOD_1-1" class="reference"><a href="#cite_note-DOD-1">&#91;1&#93;</a></sup> A <a href="/wiki/Portrait" title="Portrait">portrait</a> of him, dated <a href="/wiki/1600" class="mw-redirect" title="1600">1600</a> and featuring the word "abracadabra" written in the shape of triangle, was hung at <a href="/wiki/Hogwarts_Castle" title="Hogwarts Castle">Hogwarts Castle</a> sometime after his death.<sup id="cite_ref-wwhp_2-3" class="reference"><a href="#cite_note-wwhp-2">&#91;2&#93;</a></sup><sup id="cite_ref-PSf16_3-0" class="reference"><a href="#cite_note-PSf16-3">&#91;3&#93;</a></sup> In the <a href="/wiki/1990s" title="1990s">1990s</a>, it was hanging in the <a href="/wiki/Grand_Staircase" title="Grand Staircase">Grand Staircase</a>, near the <a href="/wiki/Third-floor_corridor" title="Third-floor corridor">Third-floor corridor</a>.<sup id="cite_ref-PSf16_3-1" class="reference"><a href="#cite_note-PSf16-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Google_Flange?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Google_Flange?action=edit&amp;section=2" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>The portrait of Google Flange was based on a <a target="_blank" rel="noreferrer noopener" class="external text" href="http://upload.wikimedia.org/wikipedia/commons/5/52/King_Charles_I_by_Gerrit_van_Honthorst_sm.jpg">1628 portrait</a> of <a href="http://en.wikipedia.org/wiki/Charles_I_of_England" class="extiw" title="wikipedia:Charles I of England">Charles I of England</a> by <a href="http://en.wikipedia.org/wiki/Gerard_van_Honthorst" class="extiw" title="wikipedia:Gerard van Honthorst">Gerard van Honthorst</a>.</li>
+<li>Writing the word "abracadabra" repeatedly to form a triangle, as it appears in the portrait, is an ancient mystical practise.<sup id="cite_ref-abrawiki_4-0" class="reference"><a href="#cite_note-abrawiki-4">&#91;4&#93;</a></sup> <a href="http://en.wikipedia.org/wiki/Quintus_Serenus_Sammonicus" class="extiw" title="wikipedia:Quintus Serenus Sammonicus">Quintus Serenus Sammonicus</a>, a <a href="/wiki/First_millennium_A.D." title="First millennium A.D.">third century A.D.</a> <a href="http://en.wikipedia.org/wiki/Ancient_Rome" class="extiw" title="wikipedia:Ancient Rome">Roman</a> physician, advised people afflicted with <a href="http://en.wikipedia.org/wiki/malaria" class="extiw" title="wikipedia:malaria">malaria</a> to wear amulets bearing such an inscription, claiming it warded off disease.<sup id="cite_ref-abrawiki_4-1" class="reference"><a href="#cite_note-abrawiki-4">&#91;4&#93;</a></sup></li>
+<li>At <i><a href="/wiki/The_Making_of_Harry_Potter" title="The Making of Harry Potter">The Making of Harry Potter</a></i>, the portrait of <a href="/wiki/Poderick_Crookshank" title="Poderick Crookshank">Poderick Crookshank</a> was erroneously put in a frame inscribed "Sir Google Flange," but Crookshank was correctly identified in <i><a href="/wiki/The_Paintings_of_Hogwarts:_Masterpieces_from_the_School_of_Witchcraft_and_Wizardry_Sets" title="The Paintings of Hogwarts: Masterpieces from the School of Witchcraft and Wizardry Sets">The Paintings of Hogwarts: Masterpieces from the School of Witchcraft and Wizardry Sets</a>.</i></li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Google_Flange?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Google_Flange?action=edit&amp;section=3" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(film)" title="Harry Potter and the Philosopher&#39;s Stone (film)">Harry Potter and the Philosopher's Stone (film)</a></i><sup id="cite_ref-PSf16_3-2" class="reference"><a href="#cite_note-PSf16-3">&#91;3&#93;</a></sup></li>
+<li><a href="/wiki/The_Wizarding_World_of_Harry_Potter" title="The Wizarding World of Harry Potter">The Wizarding World of Harry Potter</a><sup id="cite_ref-WWHP_5-0" class="reference"><a href="#cite_note-WWHP-5">&#91;5&#93;</a></sup> <small>(Appears in portrait(s))</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Google_Flange?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Google_Flange?action=edit&amp;section=4" title="Edit section: Notes and references

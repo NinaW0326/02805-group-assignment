@@ -1,0 +1,87 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/0/0c/PMFT_Algie_Longbottom.png/revision/latest?cb=20180424181005" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/0/0c/PMFT_Algie_Longbottom.png/revision/latest/scale-to-width-down/350?cb=20180424181005" srcset="https://static.wikia.nocookie.net/harrypotter/images/0/0c/PMFT_Algie_Longbottom.png/revision/latest/scale-to-width-down/350?cb=20180424181005 1x, https://static.wikia.nocookie.net/harrypotter/images/0/0c/PMFT_Algie_Longbottom.png/revision/latest/scale-to-width-down/700?cb=20180424181005 2x" class="pi-image-thumbnail" alt="" width="270" height="313"
+		     data-image-key="PMFT_Algie_Longbottom.png" data-image-name="PMFT Algie Longbottom.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Algie Longbottom</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-longbottomfamilytree_1-0" class="reference"><a href="#cite_note-longbottomfamilytree-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male<sup id="cite_ref-longbottomfamilytree_1-1" class="reference"><a href="#cite_note-longbottomfamilytree-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Frank_Longbottom%27s_father" title="Frank Longbottom&#039;s father">Mr Longbottom</a> (brother)<sup id="cite_ref-longbottomfamilytree_1-2" class="reference"><a href="#cite_note-longbottomfamilytree-1">&#91;1&#93;</a></sup> †</li><li><a href="/wiki/Enid_Longbottom" title="Enid Longbottom">Enid Longbottom</a> (wife)<sup id="cite_ref-longbottomfamilytree_1-3" class="reference"><a href="#cite_note-longbottomfamilytree-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/Augusta_Longbottom" title="Augusta Longbottom">Augusta Longbottom</a> (sister-in-law)<sup id="cite_ref-longbottomfamilytree_1-4" class="reference"><a href="#cite_note-longbottomfamilytree-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/Frank_Longbottom" title="Frank Longbottom">Frank Longbottom</a> (nephew)<sup id="cite_ref-longbottomfamilytree_1-5" class="reference"><a href="#cite_note-longbottomfamilytree-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/Alice_Longbottom" title="Alice Longbottom">Alice Longbottom</a> (niece-in-law)<sup id="cite_ref-longbottomfamilytree_1-6" class="reference"><a href="#cite_note-longbottomfamilytree-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/Neville_Longbottom" title="Neville Longbottom">Neville Longbottom</a> (great-nephew)<sup id="cite_ref-longbottomfamilytree_1-7" class="reference"><a href="#cite_note-longbottomfamilytree-1">&#91;1&#93;</a></sup></li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Longbottom_family" title="Longbottom family">Longbottom family</a><sup id="cite_ref-longbottomfamilytree_1-8" class="reference"><a href="#cite_note-longbottomfamilytree-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Algie Longbottom</b> (fl. <a href="/wiki/1991" title="1991">1991</a>-<a href="/wiki/1995" title="1995">1995</a>) was a <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a>. He was the uncle of <a href="/wiki/Frank_Longbottom" title="Frank Longbottom">Frank Longbottom</a> and the great-uncle of <a href="/wiki/Neville_Longbottom" title="Neville Longbottom">Neville Longbottom</a>.<sup id="cite_ref-longbottomfamilytree_1-9" class="reference"><a href="#cite_note-longbottomfamilytree-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Etymology"><span class="tocnumber">2</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Appearances"><span class="tocnumber">3</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Notes_and_references"><span class="tocnumber">4</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Algie_Longbottom?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Algie_Longbottom?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Algie was born into the <a href="/wiki/Longbottom_family" title="Longbottom family">Longbottom family</a>,<sup id="cite_ref-longbottomfamilytree_1-10" class="reference"><a href="#cite_note-longbottomfamilytree-1">&#91;1&#93;</a></sup> an old <a href="/wiki/Great_Britain" title="Great Britain">British</a> <a href="/wiki/Pure-blood" title="Pure-blood">pure-blood</a> family considered to be one of the <a href="/wiki/Sacred_Twenty-Eight" title="Sacred Twenty-Eight">Sacred Twenty-Eight</a>.<sup id="cite_ref-pm-pureblood_2-0" class="reference"><a href="#cite_note-pm-pureblood-2">&#91;2&#93;</a></sup> He had one known sibling, a <a href="/wiki/Frank_Longbottom%27s_father" title="Frank Longbottom&#39;s father">brother</a>,<sup id="cite_ref-longbottomfamilytree_1-11" class="reference"><a href="#cite_note-longbottomfamilytree-1">&#91;1&#93;</a></sup> and may have had others.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p><p>The Longbottom family initially believed that Algie’s great-nephew Neville might have been a <a href="/wiki/Squib" title="Squib">Squib</a>, but Algie was determined to catch Neville off his guard and "force some <a href="/wiki/Magic" title="Magic">magic</a>" from him. He once pushed Neville off the end of <a href="/wiki/Blackpool_pier" title="Blackpool pier">Blackpool pier</a>; however, he nearly drowned. While over for tea one time when Neville was eight, Algie hung him out of an upstairs window by his ankles, and accidentally dropped him when he was offered a <a href="/wiki/Meringue" title="Meringue">meringue</a> by his wife <a href="/wiki/Enid_Longbottom" title="Enid Longbottom">Enid</a>. Instead of getting hurt, Neville bounced safely down the garden and out into the road, thereby proving that he was in fact a <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a>. They were all very happy and Neville’s grandmother <a href="/wiki/Augusta_Longbottom" title="Augusta Longbottom">Augusta Longbottom</a> was crying.<sup id="cite_ref-PS7_4-0" class="reference"><a href="#cite_note-PS7-4">&#91;4&#93;</a></sup>
+</p>
+<figure class="thumb tleft show-info-icon" style="width: 152px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/5/5a/Trevor.jpg/revision/latest?cb=20180606134505" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/5/5a/Trevor.jpg/revision/latest/scale-to-width-down/150?cb=20180606134505" decoding="async" width="150" height="63" class="thumbimage" data-image-name="Trevor.jpg" data-image-key="Trevor.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Trevor.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Trevor</p> 		 	</figcaption> </figure>
+<p>In 1991, Algie gave Neville his pet toad <a href="/wiki/Trevor" title="Trevor">Trevor</a> as a present for gaining entrance into <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a>.<sup id="cite_ref-PS7_4-1" class="reference"><a href="#cite_note-PS7-4">&#91;4&#93;</a></sup> In <a href="/wiki/1995" title="1995">1995</a>, he travelled to <a href="/wiki/Assyria" title="Assyria">Assyria</a> and brought back a <i><a href="/wiki/Mimbulus_mimbletonia" title="Mimbulus mimbletonia">Mimbulus mimbletonia</a></i> plant, which he gave to Neville for his birthday.<sup id="cite_ref-OOTP10_5-0" class="reference"><a href="#cite_note-OOTP10-5">&#91;5&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Algie_Longbottom?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Algie_Longbottom?action=edit&amp;section=2" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Algie is a short form of the name <i>Algernon</i> (the original name of <a href="/wiki/Augustus_Rookwood" title="Augustus Rookwood">Augustus Rookwood</a>), originally a Norman French name derived from <i>aux gernons</i>, meaning "having a moustache"<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> This is the name of a main character in Oscar Wilde's <i>The Importance of Being Earnest</i>. Algie is also a homophone of the plant-like organisms <i>algae</i>, possibly referring to the interest in <a href="/wiki/Herbology" title="Herbology">Herbology</a> that Algie and his great-nephew seem to share.
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Algie_Longbottom?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Algie_Longbottom?action=edit&amp;section=3" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone" title="Harry Potter and the Philosopher&#39;s Stone">Harry Potter and the Philosopher's Stone</a></i> <small>(First mentioned)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">Harry Potter and the Order of the Phoenix</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/LEGO_Dimensions" title="LEGO Dimensions">LEGO Dimensions</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Wizarding_World_(website)" title="Wizarding World (website)">Wizarding World</a></i> <small>(Mentioned only)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Algie_Longbottom?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Algie_Longbottom?action=edit&amp;section=4" title="Edit section: Notes and references

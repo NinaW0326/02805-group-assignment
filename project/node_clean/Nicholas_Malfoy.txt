@@ -1,0 +1,103 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/5/54/NicholasMalfoy.png/revision/latest?cb=20170730195550" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/5/54/NicholasMalfoy.png/revision/latest/scale-to-width-down/350?cb=20170730195550" srcset="https://static.wikia.nocookie.net/harrypotter/images/5/54/NicholasMalfoy.png/revision/latest/scale-to-width-down/350?cb=20170730195550 1x, https://static.wikia.nocookie.net/harrypotter/images/5/54/NicholasMalfoy.png/revision/latest/scale-to-width-down/700?cb=20170730195550 2x" class="pi-image-thumbnail" alt="" width="270" height="239"
+		     data-image-key="NicholasMalfoy.png" data-image-name="NicholasMalfoy.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Nicholas Malfoy</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/14th_century" title="14th century">14th century</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Pure-blood" title="Pure-blood">Pure-blood</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/England" title="England">English</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Armand_Malfoy" title="Armand Malfoy">Armand Malfoy</a> (ancestor) †</li><li><a href="/wiki/Lucius_Malfoy_I" title="Lucius Malfoy I">Lucius Malfoy I</a> (descendant) †</li><li><a href="/wiki/Brutus_Malfoy" title="Brutus Malfoy">Brutus Malfoy</a> (descendant) †</li><li><a href="/wiki/Septimus_Malfoy" title="Septimus Malfoy">Septimus Malfoy</a> (descendant) †</li><li><a href="/wiki/Abraxas_Malfoy" title="Abraxas Malfoy">Abraxas Malfoy</a> (descendant) †</li><li><a href="/wiki/Lucius_Malfoy" title="Lucius Malfoy">Lucius Malfoy</a> (descendant)</li><li><a href="/wiki/Draco_Malfoy" title="Draco Malfoy">Draco Malfoy</a> (descendant)</li><li><a href="/wiki/Scorpius_Malfoy" title="Scorpius Malfoy">Scorpius Malfoy</a> (descendant)</li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Malfoy_family" title="Malfoy family">Malfoy family</a></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+<b>Nicholas Malfoy</b> (fl. c. <a href="/wiki/1340s" title="1340s">1340s</a>) was a <a href="/wiki/Pure-blood" title="Pure-blood">pure-blood</a> <a href="/wiki/England" title="England">English</a> <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> and a member of the <a href="/wiki/Malfoy_family" title="Malfoy family">Malfoy family</a>. He is believed to have dispatched many <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> tenants under the guise of the <a href="/wiki/Black_Death" title="Black Death">Black Death</a>. If this is true, he escaped censure by the <a href="/wiki/Wizards%27_Council" title="Wizards&#39; Council">Wizards' Council</a>, and thus was never punished for it.<sup id="cite_ref-PM_1-0" class="reference"><a href="#cite_note-PM-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Etymology"><span class="tocnumber">1</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Behind_the_scenes"><span class="tocnumber">2</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Appearances"><span class="tocnumber">3</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Notes_and_references"><span class="tocnumber">4</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Nicholas_Malfoy?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Nicholas_Malfoy?action=edit&amp;section=1" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>The name <i>Nicholas </i>is a Greek name meaning "victory of the people." This could refer to the fact that after Malfoy killed many a Muggle, he was never punished.</li>
+<li>The name <i>Malfoy </i>comes from the French <i>mal foi</i>, meaning "bad faith." If Malfoy is anything like his descendants, then this name is fitting.</li></ul>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Nicholas_Malfoy?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Nicholas_Malfoy?action=edit&amp;section=2" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>In <a href="/wiki/1992" title="1992">1992</a>, <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a>, speaking about <a href="/wiki/Draco_Malfoy" title="Draco Malfoy">Draco Malfoy</a>, said, <i>"Look at his family... The whole lot of them have been in Slytherin, he's always boasting about it"</i>.<sup id="cite_ref-COS9_2-0" class="reference"><a href="#cite_note-COS9-2">&#91;2&#93;</a></sup> This indicates that Nicholas was most likely a <a href="/wiki/Slytherin" title="Slytherin">Slytherin</a> if he attended <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a>, though it cannot be confirmed.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Nicholas_Malfoy?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Nicholas_Malfoy?action=edit&amp;section=3" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> <small>(First mentioned)</small></li>
+<li><i><a href="/wiki/Wizarding_World_(website)" title="Wizarding World (website)">Wizarding World</a></i> <small>(Mentioned only)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Nicholas_Malfoy?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Nicholas_Malfoy?action=edit&amp;section=4" title="Edit section: Notes and references

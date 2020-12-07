@@ -1,0 +1,240 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-hufflepuff pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/6/62/Teddy_Lupin.png/revision/latest?cb=20160801025828" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/6/62/Teddy_Lupin.png/revision/latest/scale-to-width-down/287?cb=20160801025828" srcset="https://static.wikia.nocookie.net/harrypotter/images/6/62/Teddy_Lupin.png/revision/latest/scale-to-width-down/287?cb=20160801025828 1x, https://static.wikia.nocookie.net/harrypotter/images/6/62/Teddy_Lupin.png/revision/latest/scale-to-width-down/575?cb=20160801025828 2x" class="pi-image-thumbnail" alt="" width="270" height="469"
+		     data-image-key="Teddy_Lupin.png" data-image-name="Teddy Lupin.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Edward Remus Lupin</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/April" title="April">April</a>, <a href="/wiki/1998" title="1998">1998</a><br/><a href="/wiki/England" title="England">England</a>, <a href="/wiki/Great_Britain" title="Great Britain">Great Britain</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Half-blood" title="Half-blood">Half-blood</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="alias">
+	
+		<h3 class="pi-data-label pi-secondary-font">Also known as</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>Teddy (by <a href="/wiki/Lupin_family" title="Lupin family">family</a> & <a href="/wiki/Potter_family" title="Potter family">friends</a>)</li><li>Ted</li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="title">
+	
+		<h3 class="pi-data-label pi-secondary-font">Title(s)</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Head_Boy_or_Girl" title="Head Boy or Girl">Head Boy</a><sup id="cite_ref-JKR-twitter-Hufflepuff_2-0" class="reference"><a href="#cite_note-JKR-twitter-Hufflepuff-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a> (<a href="/wiki/Metamorphmagus" title="Metamorphmagus">Metamorphmagus</a>)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Variable<br/></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Variable</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Variable</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Remus_Lupin" title="Remus Lupin">Remus Lupin</a> (father) †</li><li><a href="/wiki/Nymphadora_Tonks" title="Nymphadora Tonks">Nymphadora Tonks</a> (mother) †</li><li><a href="/wiki/Andromeda_Tonks" title="Andromeda Tonks">Andromeda Tonks</a> (maternal grandmother)</li><li><a href="/wiki/Edward_Tonks" title="Edward Tonks">Edward Tonks</a> (maternal grandfather) †</li><li><a href="/wiki/Lyall_Lupin" title="Lyall Lupin">Lyall Lupin</a> (paternal grandfather) †</li><li><a href="/wiki/Hope_Howell" title="Hope Howell">Hope Lupin</a> (paternal grandmother) †</li><li><a href="/wiki/Narcissa_Malfoy" title="Narcissa Malfoy">Narcissa Malfoy</a> (maternal great-aunt)</li><li><a href="/wiki/Bellatrix_Lestrange" title="Bellatrix Lestrange">Bellatrix Lestrange</a> (maternal great-aunt) †</li><li><a href="/wiki/Lucius_Malfoy" title="Lucius Malfoy">Lucius Malfoy</a> (maternal great-uncle)</li><li><a href="/wiki/Rodolphus_Lestrange" title="Rodolphus Lestrange">Rodolphus Lestrange</a> (maternal great-uncle)</li><li><a href="/wiki/Tonks_family" title="Tonks family">Tonks family</a></li><li><a href="/wiki/Lupin_family" title="Lupin family">Lupin family</a></li><li><a href="/wiki/House_of_Black" title="House of Black">House of Black</a></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="romances">
+	
+		<h3 class="pi-data-label pi-secondary-font">Romances</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Victoire_Weasley" title="Victoire Weasley">Victoire Weasley</a> (Girlfriend)</li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="house">
+	
+		<h3 class="pi-data-label pi-secondary-font">House</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Hufflepuff" title="Hufflepuff">Hufflepuff</a><sup id="cite_ref-JKR-twitter-Hufflepuff_2-1" class="reference"><a href="#cite_note-JKR-twitter-Hufflepuff-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Lupin_family" title="Lupin family">Lupin family</a></li><li><a href="/wiki/Tonks_family" title="Tonks family">Tonks family</a></li><li><a href="/wiki/Potter_family" title="Potter family">Potter family</a></li><li><a href="/wiki/Weasley_family" title="Weasley family">Weasley family</a></li><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a><ul><li><a href="/wiki/Hufflepuff" title="Hufflepuff">Hufflepuff</a></li></ul></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Deathly Hallows">"<i>Sorry I will never know him... but he will know why I died and I hope he will understand I was trying to make a world in which he could live a happier life.</i>"</span></dd>
+<dd>&#8212;Remus Lupin regarding his own death and his son<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Edward Remus "Teddy" Lupin</b><sup id="cite_ref-PM_3-0" class="reference"><a href="#cite_note-PM-3">&#91;3&#93;</a></sup> (b. <a href="/wiki/April" title="April">April</a>, <a href="/wiki/1998" title="1998">1998</a>), occasionally known as <b>Ted</b>, was a <a href="/wiki/Great_Britain" title="Great Britain">British</a> <a href="/wiki/Half-blood" title="Half-blood">half-blood</a> <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a>, the only child and son of the late <a href="/wiki/Remus_Lupin" title="Remus Lupin">Remus</a> and <a href="/wiki/Nymphadora_Tonks" title="Nymphadora Tonks">Nymphadora Tonks</a>. He was, like his mother, a <a href="/wiki/Metamorphmagus" title="Metamorphmagus">Metamorphmagus</a>. He did not inherit his father's <a href="/wiki/Lycanthropy" title="Lycanthropy">lycanthropy</a>. Teddy was named in honour of his maternal grandfather <a href="/wiki/Edward_Tonks" title="Edward Tonks">Edward Tonks</a>, who was murdered shortly before his birth. <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> was named as his godfather.<sup id="cite_ref-DH_4-0" class="reference"><a href="#cite_note-DH-4">&#91;4&#93;</a></sup>
+</p><p>Teddy was raised by his maternal grandmother <a href="/wiki/Andromeda_Tonks" title="Andromeda Tonks">Andromeda</a>, with help from his godfather. He began attending <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> in <a href="/wiki/2009" title="2009">2009</a>. During his time at Hogwarts Teddy was Sorted into <a href="/wiki/Hufflepuff" title="Hufflepuff">Hufflepuff</a> <a href="/wiki/Hogwarts_Houses" title="Hogwarts Houses">House</a> and in his seventh year was appointed <a href="/wiki/Head_Boy_or_Girl" title="Head Boy or Girl">Head Boy</a>.<sup id="cite_ref-JKR-twitter-Hufflepuff_2-2" class="reference"><a href="#cite_note-JKR-twitter-Hufflepuff-2">&#91;2&#93;</a></sup> He was also the boyfriend of <a href="/wiki/Victoire_Weasley" title="Victoire Weasley">Victoire Weasley</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_life_.281998-2009.29"><span class="tocnumber">1.1</span> <span class="toctext">Early life <span>(1998-2009)</span></span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Hogwarts_years_.282009-2016.29"><span class="tocnumber">1.2</span> <span class="toctext">Hogwarts years <span>(2009-2016)</span></span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#After_Hogwarts_.282016-.3F.29"><span class="tocnumber">1.3</span> <span class="toctext">After Hogwarts <span>(2016-?)</span></span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Physical_appearance"><span class="tocnumber">2</span> <span class="toctext">Physical appearance</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Magical_abilities_and_skills"><span class="tocnumber">3</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Relationships"><span class="tocnumber">4</span> <span class="toctext">Relationships</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Family"><span class="tocnumber">4.1</span> <span class="toctext">Family</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Harry_Potter"><span class="tocnumber">4.2</span> <span class="toctext">Harry Potter</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Victoire_Weasley"><span class="tocnumber">4.3</span> <span class="toctext">Victoire Weasley</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Etymology"><span class="tocnumber">5</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Behind_the_scenes"><span class="tocnumber">6</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Appearances"><span class="tocnumber">7</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Notes_and_references"><span class="tocnumber">8</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Edward_Lupin?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Edward_Lupin?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="Early_life_(1998-2009)"></span><span class="mw-headline" id="Early_life_.281998-2009.29">Early life <span class="template-c">(1998-2009)</span></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Edward_Lupin?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Early life (1998-2009)">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Edward_Lupin?action=edit&amp;section=2" title="Edit section: Early life (1998-2009)"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Bloomsbury Live Chat">"<i>Teddy was raised by Andromeda. However, unlike Neville, who was also raised by his grandmother, Teddy had his godfather, Harry, and all his father's friends in the <a href="/wiki/Order_of_the_Phoenix" title="Order of the Phoenix">Order</a>, to visit and stay with.</i>"</span></dd>
+<dd>&#8212;<a href="/wiki/J._K._Rowling" title="J. K. Rowling">J. K. Rowling</a> regarding Teddy's childhood<sup class="noprint"><a href="/wiki/Bloomsbury_Live_Chat" title="Bloomsbury Live Chat">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p>Edward "Teddy" Lupin was born in <a href="/wiki/April" title="April">April</a>, <a href="/wiki/1998" title="1998">1998</a> to <a href="/wiki/Remus_Lupin" title="Remus Lupin">Remus Lupin</a> and <a href="/wiki/Nymphadora_Tonks" title="Nymphadora Tonks">Nymphadora Tonks</a>. Some months before his birth, his father expressed regret to <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> of marrying Tonks and fathering a child, fearing that his child would be a werewolf and face discrimination like he had. Remus wanted to join the trio in their mission to destroy Lord Voldemort's <a href="/wiki/Horcrux" title="Horcrux">Horcruxes</a> until Harry chastised him for being a coward. Remus fled in anger and shame.
+</p><p>When Teddy was born, Remus found the trio and immediately made Harry Teddy's godfather, completely forgiving him for his harsh words. He was named in honour of his maternal grandfather <a href="/wiki/Edward_Tonks" title="Edward Tonks">Edward Tonks</a>.
+</p><p>On <a href="/wiki/2_May" title="2 May">2 May</a>, <a href="/wiki/1998" title="1998">1998</a>, his mother and father both fought in the <a href="/wiki/Battle_of_Hogwarts" title="Battle of Hogwarts">Battle of Hogwarts</a>, leaving him with his maternal grandmother <a href="/wiki/Andromeda_Tonks" title="Andromeda Tonks">Andromeda Tonks</a>.<sup id="cite_ref-a_5-0" class="reference"><a href="#cite_note-a-5">&#91;5&#93;</a></sup> Unfortunately both of Teddy's parents died in the battle, leaving him an orphan and was therefore raised by his grandmother<sup id="cite_ref-a_5-1" class="reference"><a href="#cite_note-a-5">&#91;5&#93;</a></sup>. Teddy usually spent much of his time with the Potter and Weasley families, who were also distant relatives of his through his maternal grandmother's side of the family.
+</p>
+<h3><span id="Hogwarts_years_(2009-2016)"></span><span class="mw-headline" id="Hogwarts_years_.282009-2016.29">Hogwarts years <span class="template-c">(2009-2016)</span></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Edward_Lupin?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Hogwarts years (2009-2016)">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Edward_Lupin?action=edit&amp;section=3" title="Edit section: Hogwarts years (2009-2016)"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Since he was born in April 1998, Teddy began his education in the magical arts at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> on <a href="/wiki/1_September" title="1 September">1 September</a>, <a href="/wiki/2009" title="2009">2009</a>. He was <a href="/wiki/Sorting_ceremony" title="Sorting ceremony">Sorted</a> into <a href="/wiki/Hufflepuff" title="Hufflepuff">Hufflepuff</a>.<sup id="cite_ref-JKR-twitter-Hufflepuff_2-3" class="reference"><a href="#cite_note-JKR-twitter-Hufflepuff-2">&#91;2&#93;</a></sup>
+</p><p>Teddy, described as a "<i>lanky, half-werewolf</i>", attended the <a href="/wiki/2014_Quidditch_World_Cup" title="2014 Quidditch World Cup">2014 Quidditch World Cup</a> with his family where <a href="/wiki/Rita_Skeeter" title="Rita Skeeter">Rita Skeeter</a>, who wrote a scathing article that he featured in, felt he was behaving in a very shameful way, as he sought out dark corners and was constantly kissing <a href="/wiki/Victoire_Weasley" title="Victoire Weasley">Victoire Weasley</a>.<sup id="cite_ref-PMRS_6-0" class="reference"><a href="#cite_note-PMRS-6">&#91;6&#93;</a></sup>
+</p><p>During the final of the Quidditch World Cup between Bulgaria and Brazil, Teddy and Victoire seemed to be, as reported by Rita Skeeter, "<i>far more interested in what they were saying to each other than the match."</i> This caused her father <a href="/wiki/William_Weasley" title="William Weasley">Bill</a> to swap seats with his "now sulky" daughter. Later, Bill took his attention off his daughter, Victoire, allowing her and Teddy to "<i>find their way back into adjacent seats</i>".<sup id="cite_ref-PMRS1_7-0" class="reference"><a href="#cite_note-PMRS1-7">&#91;7&#93;</a></sup>
+</p><p>He was made <a href="/wiki/Head_Boy_or_Girl" title="Head Boy or Girl">Head Boy</a> in his seventh year. That year, <a href="/wiki/James_Potter_II" title="James Potter II">James Potter II</a> was Sorted into <a href="/wiki/Gryffindor" title="Gryffindor">Gryffindor</a>, much to Teddy's disappointment.<sup id="cite_ref-JKR-twitter-Hufflepuff_2-4" class="reference"><a href="#cite_note-JKR-twitter-Hufflepuff-2">&#91;2&#93;</a></sup>
+</p>
+<h3><span id="After_Hogwarts_(2016-?)"></span><span class="mw-headline" id="After_Hogwarts_.282016-.3F.29">After Hogwarts <span class="template-c">(2016-?)</span></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Edward_Lupin?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: After Hogwarts (2016-?)">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Edward_Lupin?action=edit&amp;section=4" title="Edit section: After Hogwarts (2016-?)"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>On <a href="/wiki/1_September" title="1 September">1 September</a>, <a href="/wiki/2017" title="2017">2017</a> Teddy came to <a href="/wiki/Platform_Nine_and_Three-Quarters" title="Platform Nine and Three-Quarters">Platform Nine and Three-Quarters</a> to see off Victoire; on that day, he had sandy hair, rather than turquoise blue. It was remarked that it would be nice if he was an official member of the <a href="/wiki/Potter_family" title="Potter family">Potter</a>/<a href="/wiki/Weasley_family" title="Weasley family">Weasley</a> family. Of the three Potter children, he seemed to be the closest with the youngest, <a href="/wiki/Lily_Potter" title="Lily Potter">Lily</a>. She didn't laugh at his relationship with Victoire Weasley, unlike James.<sup id="cite_ref-DH-E_8-0" class="reference"><a href="#cite_note-DH-E-8">&#91;8&#93;</a></sup> Lily very much hoped Victoire and Teddy would get married so that he would become a real part of their family.
+</p><p>Teddy Lupin did not become a <a href="/wiki/Werewolf" title="Werewolf">werewolf</a> like his father, despite claims by Rita Skeeter to the contrary. He was, however, a <a href="/wiki/Metamorphmagus" title="Metamorphmagus">Metamorphmagus</a>, like his mother.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Physical_appearance">Physical appearance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Edward_Lupin?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Physical appearance">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Edward_Lupin?action=edit&amp;section=5" title="Edit section: Physical appearance"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Being a Metamorphmagus, Ted was able to change his physical appearance at will.
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Edward_Lupin?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Edward_Lupin?action=edit&amp;section=6" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Metamorphmagus" title="Metamorphmagus">Metamorphmagus</a></b>: Ted was a Metamorphmagus, a rare skill he inherited from <a href="/wiki/Nymphadora_Tonks" title="Nymphadora Tonks">his mother</a>. As a baby, he had black hair that turned into ginger hair, and later turquoise hair.</li></ul>
+<h2><span class="mw-headline" id="Relationships">Relationships</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Edward_Lupin?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Relationships">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Edward_Lupin?action=edit&amp;section=7" title="Edit section: Relationships"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Family">Family</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Edward_Lupin?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Family">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Edward_Lupin?action=edit&amp;section=8" title="Edit section: Family"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="thumb tleft show-info-icon" style="width: 172px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/8/80/Tonks_Lupin.jpg/revision/latest?cb=20100427183306" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/8/80/Tonks_Lupin.jpg/revision/latest/scale-to-width-down/170?cb=20100427183306" decoding="async" width="170" height="228" class="thumbimage" data-image-name="Tonks Lupin.jpg" data-image-key="Tonks_Lupin.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Tonks_Lupin.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption"><a href="/wiki/Remus_Lupin" title="Remus Lupin">Remus</a> and <a href="/wiki/Nymphadora_Tonks" title="Nymphadora Tonks">Nymphadora Tonks</a>, his late parents</p> 		 	</figcaption> </figure>
+<p>Teddy's mother and father were murdered by <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a> <a href="/wiki/Bellatrix_Lestrange" title="Bellatrix Lestrange">Bellatrix Lestrange</a> and <a href="/wiki/Antonin_Dolohov" title="Antonin Dolohov">Antonin Dolohov</a> during the <a href="/wiki/Battle_of_Hogwarts" title="Battle of Hogwarts">Battle of Hogwarts</a>, leaving their son an orphan. Teddy was thus brought up by his maternal grandmother <a href="/wiki/Andromeda_Tonks" title="Andromeda Tonks">Andromeda Tonks</a> and saw a lot of the <a href="/wiki/Potter_family" title="Potter family">Potter</a> and <a href="/wiki/Weasley_family" title="Weasley family">Weasley</a> families,<sup id="cite_ref-JKR_10-0" class="reference"><a href="#cite_note-JKR-10">&#91;10&#93;</a></sup> visiting at least four times a week for dinner.
+</p><p>On his mother's side, Teddy is also related to the <a href="/wiki/House_of_Black" title="House of Black">Black</a> and <a href="/wiki/Malfoy_family" title="Malfoy family">Malfoy</a> families; <a href="/wiki/Narcissa_Malfoy" title="Narcissa Malfoy">Narcissa Malfoy</a> is his great-aunt, <a href="/wiki/Lucius_Malfoy" title="Lucius Malfoy">Lucius Malfoy</a> is his great-uncle, making <a href="/wiki/Draco_Malfoy" title="Draco Malfoy">Draco Malfoy</a> his first cousin once removed and <a href="/wiki/Scorpius_Malfoy" title="Scorpius Malfoy">Scorpius Malfoy</a> his second cousin. His mother's murderer, the late Bellatrix Lestrange, was also his great-aunt. Bellatrix's husband, <a href="/wiki/Rodolphus_Lestrange" title="Rodolphus Lestrange">Rodolphus Lestrange</a> is also his great-uncle. His grandmother and two great-aunts' cousins, <a href="/wiki/Sirius_Black" title="Sirius Black">Sirius Black</a> and <a href="/wiki/Regulus_Black" title="Regulus Black">Regulus Black</a>, are his first cousins twice removed.
+</p><p><a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a>, whom Remus and Nymphadora deeply trusted and always liked, was asked by the couple to become Teddy's godfather, to which Harry readily agreed. This paralleled Remus and Sirius' role in Harry's life.
+</p>
+<h3><span class="mw-headline" id="Harry_Potter">Harry Potter</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Edward_Lupin?veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Edit section: Harry Potter">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Edward_Lupin?action=edit&amp;section=9" title="Edit section: Harry Potter"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Deathly Hallows"><b>Remus Lupin</b>: "<i>You'll be godfather?</i>"</span></dd>
+<dd><b>Harry Potter</b>: "<i>M-me?</i>"</dd>
+<dd><b>Remus Lupin</b>: "<i>You, yes of course — Dora quite agrees, no one better —</i>"</dd>
+<dd><b>Harry Potter</b>: "<i>I — yeah — blimey —</i>"</dd>
+<dd>&#8212; <a href="/wiki/Remus_Lupin" title="Remus Lupin">Remus</a> asking on behalf of himself and Tonks that Harry to be Teddy's godfather<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">[src]</a></sup></dd></dl>
+</div>
+<figure class="thumb tright show-info-icon" style="width: 170px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/3/3c/Harry_Potter_movies_hbp_promostills_6.jpg/revision/latest?cb=20180528175859" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/3/3c/Harry_Potter_movies_hbp_promostills_6.jpg/revision/latest/scale-to-width-down/168?cb=20180528175859" decoding="async" width="168" height="228" class="thumbimage" data-image-name="Harry Potter movies hbp promostills 6.jpg" data-image-key="Harry_Potter_movies_hbp_promostills_6.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Harry_Potter_movies_hbp_promostills_6.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption"><a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a>, his godfather and possible father figure</p> 		 	</figcaption> </figure>
+<p>Harry Potter was Teddy's godfather and a close friend of his parents. In April 1998 <a href="/wiki/Remus_Lupin" title="Remus Lupin">Remus</a> asked Harry to be Teddy's godfather, and Harry gladly accepted. After Remus and <a href="/wiki/Nymphadora_Tonks" title="Nymphadora Tonks">Tonks</a> were murdered in the <a href="/wiki/Battle_of_Hogwarts" title="Battle of Hogwarts">Battle of Hogwarts</a>, Harry helped Teddy's maternal grandmother raise him and by <a href="/wiki/2017" title="2017">2017</a>, Harry and Teddy were clearly very close. When Harry's children wanted Teddy to move in with the <a href="/wiki/Potter_family" title="Potter family">Potters</a>, Harry mentioned that Teddy had been coming to their home for dinner four times a week, and that he practically lived with them already. The Potter kids were also thrilled at the idea that Teddy, who was seen snogging <a href="/wiki/Victoire_Weasley" title="Victoire Weasley">Victoire Weasley</a> (the daughter of <a href="/wiki/William_Weasley" title="William Weasley">Bill</a> and <a href="/wiki/Fleur_Delacour" title="Fleur Delacour">Fleur Weasley</a>) might officially become a part of their family.
+</p><p>In <a href="/wiki/1998" title="1998">1998</a>, as Harry was planning to break in to the <a href="/wiki/Lestrange_Vault" title="Lestrange Vault">Lestrange Vault</a>, he wondered if he was becoming as reckless as a godfather to Teddy as <a href="/wiki/Sirius_Black" title="Sirius Black">Sirius Black</a> had been to him. With helping <a href="/wiki/Andromeda_Tonks" title="Andromeda Tonks">Andromeda</a> raise Teddy, Harry possibly became a father figure towards him, as Harry could understand how Teddy felt without parents.
+</p><p>It can be assumed due to his familial relationship with Teddy's parents that Harry filled the same role in Teddy's life that Remus, Albus Dumbledore, Hagrid, and Sirius had in his own; passing down knowledge of Teddy's deceased parents to him. Given how Harry had been starved of knowledge of who his parents were, he likely brought Teddy up on a parade of stories about the heroes his parents were.
+</p>
+<h3><span class="mw-headline" id="Victoire_Weasley">Victoire Weasley</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Edward_Lupin?veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Edit section: Victoire Weasley">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Edward_Lupin?action=edit&amp;section=10" title="Edit section: Victoire Weasley"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>By <a href="/wiki/2014" title="2014">2014</a> presumably Teddy and Victoire were already in a relationship, as <a href="/wiki/Rita_Skeeter" title="Rita Skeeter">Rita Skeeter</a> wrote of them snogging often. So much, in fact, they had their own section in Rita's article. The two of them sat together during the final match between <a href="/wiki/Bulgaria" title="Bulgaria">Bulgaria</a> and <a href="/wiki/Brazil" title="Brazil">Brazil</a>, but seemed more interested in talking than watching the match. On <a href="/wiki/1_September" title="1 September">1 September</a>, <a href="/wiki/2017" title="2017">2017</a>, Teddy came to see his girlfriend off for another year at <a href="/wiki/King%27s_Cross_Station" title="King&#39;s Cross Station">King's Cross Station</a>.<sup id="cite_ref-DH-E_8-1" class="reference"><a href="#cite_note-DH-E-8">&#91;8&#93;</a></sup>
+</p><p><a href="/wiki/Lily_L._Potter" title="Lily L. Potter">Lily Potter</a> expressed her wish that Teddy and Victoire would marry someday, making Teddy an official part of the extended Weasley-Potter clan.
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Edward_Lupin?veaction=edit&amp;section=11" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Edward_Lupin?action=edit&amp;section=11" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>"Edward" is derived from the Old English words <i>ead</i>, meaning "blessed", and <i>weard</i>, meaning "guard", and has been the name of many members of the English nobility and royalty.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup></li>
+<li>The name "Remus" comes from the brothers Romulus and Remus, the legendary brothers who fought in their adulthood, and of whom Romulus became the founder of Rome, who were raised by wolves. Interestingly, Romulus was the codename used by Ted's father on <i>Potterwatch</i>.</li>
+<li>"Lupin" derives from the Latin <i>lupus</i> meaning "wolf".</li>
+<li>The sum total of the etymology of his names could literally translate into "Blessed leader wolf", or "Guardian leader wolf", which fits due to his status as Head Boy, his wolfish ancestry, and his caring extended family that compensates somewhat for his status as an orphan.</li></ul>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Edward_Lupin?veaction=edit&amp;section=12" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Edward_Lupin?action=edit&amp;section=12" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tright show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/e/e9/Luke_Newberry.jpg/revision/latest?cb=20110926081010" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/e/e9/Luke_Newberry.jpg/revision/latest/scale-to-width-down/180?cb=20110926081010" decoding="async" width="180" height="271" class="thumbimage" data-image-name="Luke Newberry.jpg" data-image-key="Luke_Newberry.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Luke_Newberry.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Luke Newberry was originally cast as Ted Lupin, but he was cut from the final version of the film</p> 		 	</figcaption> </figure>
+<ul><li><a href="/wiki/Luke_Newberry" title="Luke Newberry">Luke Newberry</a> was cast as Ted Lupin in <i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_2" title="Harry Potter and the Deathly Hallows: Part 2">Harry Potter and the Deathly Hallows: Part 2</a></i>, but he was cut from the ending of the film and he is only mentioned by Remus to Harry.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup> Teddy also does not appear in any of the deleted scenes on the <i>Deathly Hallows: Part 2</i> DVD and Blu-ray.</li>
+<li>Teddy's origins are supposed to reflect Harry's, who lost both parents to Voldemort and his Death Eaters as well, but also had support from friends and other family (including a godfather) to help cope with this loss. Indeed, unlike Harry, Teddy grows up in a new and safe world, surrounded by loving family and friends and with a godfather who was able to take care of him more consistently, unlike Sirius, who spent most of Harry's life either in prison or on the run.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup></li>
+<li>Both Teddy and <a href="/wiki/Victoire_Weasley" title="Victoire Weasley">Victoire Weasley</a> have fathers who were attacked by the werewolf <a href="/wiki/Fenrir_Greyback" title="Fenrir Greyback">Fenrir Greyback</a>.</li>
+<li>J.K. Rowling stated that part of the reason she wrote the epilogue was to inform many eventual heartbroken readers that although Teddy never knew his parents, he was surrounded by friends and family that cared deeply for him and had a pleasant childhood.</li>
+<li>Teddy shares many traits with <a href="/wiki/Neville_Longbottom" title="Neville Longbottom">Neville Longbottom</a>: both of their parents were injured by Death Eaters (Teddy's parents died, while Neville's parents were driven insane), both of these incidents involved <a href="/wiki/Bellatrix_Lestrange" title="Bellatrix Lestrange">Bellatrix Lestrange</a>, and both were raised by their grandmothers, <a href="/wiki/Andromeda_Tonks" title="Andromeda Tonks">Andromeda</a> and <a href="/wiki/Augusta_Longbottom" title="Augusta Longbottom">Augusta</a>, respectively.</li>
+<li>Both Teddy and Victoire have mothers with unique traits; <a href="/wiki/Fleur_Delacour" title="Fleur Delacour">Fleur Delacour</a> has <a href="/wiki/Veela" title="Veela">Veela</a> blood, and <a href="/wiki/Nymphadora_Tonks" title="Nymphadora Tonks">Nymphadora Tonks</a> was a <a href="/wiki/Metamorphmagus" title="Metamorphmagus">Metamorphmagus</a>.</li>
+<li>Teddy and <a href="/wiki/Sirius_Black" title="Sirius Black">Sirius Black</a> are first cousins twice removed.</li>
+<li>Victoire and Teddy are fourth cousins once removed, as both are distant descendants of <a href="/wiki/Phineas_Nigellus_Black" title="Phineas Nigellus Black">Phineas Nigellus Black</a>.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup></li>
+<li>Teddy is the second cousin of <a href="/wiki/Scorpius_Malfoy" title="Scorpius Malfoy">Scorpius Malfoy</a>.</li>
+<li>Ted is named after <a href="/wiki/Edward_Tonks" title="Edward Tonks">Edward Tonks</a>, his maternal grandfather.</li>
+<li>Following Teddy's birth, Remus Lupin stated to the occupants of Shell Cottage that Teddy had changed his hair colour from black to ginger in the hour since he had been born. This suggests that Teddy's natural hair colour could in fact be black like that of his great aunt Bellatrix and first cousin twice removed, <a href="/wiki/Sirius_Black" title="Sirius Black">Sirius Black</a>.</li>
+<li>In a <a href="/wiki/Privet_Drive" title="Privet Drive">Privet Drive</a> scene at the beginning of <i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1" title="Harry Potter and the Deathly Hallows: Part 1">Harry Potter and the Deathly Hallows: Part 1</a></i>, Tonks almost announces that she is pregnant before she is interrupted by <a href="/wiki/Alastor_Moody" title="Alastor Moody">Mad-Eye Moody</a>.</li>
+<li>Teddy was sorted into Hufflepuff House, the same House as his mother, Nymphadora Tonks.</li>
+<li>Ted is the only known canon Hufflepuff Head boy.</li>
+<li>Following the premiere of <i><a href="/wiki/Harry_Potter_and_the_Cursed_Child_(play)" title="Harry Potter and the Cursed Child (play)">Harry Potter and the Cursed Child</a></i> and its release in <a href="/wiki/Harry_Potter_and_the_Cursed_Child" title="Harry Potter and the Cursed Child">book form</a>, many fans expressed disappointment in Teddy's absence from the story, and it is one of several criticisms of the story from fans.<sup id="cite_ref-mashable_15-0" class="reference"><a href="#cite_note-mashable-15">&#91;15&#93;</a></sup></li>
+<li>Teddy's last name, Lupin, is rather fitting for a young man who is somewhat wolf-like in his shapeshifting abilities due to wolves being extremely adaptable creatures, and in his role as Head Boy due to wolves also being prone to following strict social hierarchies and being symbols of leadership in many cultures such as German and Mongolian. One other wolfish trait of his is that he was brought up by a wide variety of family and friends, which is a common practise in wolf packs.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Edward_Lupin?veaction=edit&amp;section=13" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Edward_Lupin?action=edit&amp;section=13" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">Harry Potter and the Deathly Hallows</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1" title="Harry Potter and the Deathly Hallows: Part 1">Harry Potter and the Deathly Hallows: Part 1</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_2" title="Harry Potter and the Deathly Hallows: Part 2">Harry Potter and the Deathly Hallows: Part 2</a></i> <small>(Mentioned only)</small> <span class="template-c">(Cut from final edit)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_2_(video_game)" title="Harry Potter and the Deathly Hallows: Part 2 (video game)">Harry Potter and the Deathly Hallows: Part 2 (video game)</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i></li>
+<li><i><a href="/wiki/Wizarding_World_(website)" title="Wizarding World (website)">Wizarding World</a></i></li>
+<li><i><a href="/wiki/Harry_Potter:_The_Character_Vault" title="Harry Potter: The Character Vault">Harry Potter: The Character Vault</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Edward_Lupin?veaction=edit&amp;section=14" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Edward_Lupin?action=edit&amp;section=14" title="Edit section: Notes and references

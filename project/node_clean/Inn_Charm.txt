@@ -1,0 +1,59 @@
+<div class="mw-parser-output"><table class="notice metadata" id="spoiler" style="text-align: center; background: beige; margin: 1em 05%; padding: 0 1em; border: #a00 1px solid;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/e/ea/Wizards_Unite_logo.jpg/revision/latest?cb=20181114170049" class="image"><img alt="Wizards Unite logo.jpg" src="https://static.wikia.nocookie.net/harrypotter/images/e/ea/Wizards_Unite_logo.jpg/revision/latest/scale-to-width-down/175?cb=20181114170049" decoding="async" width="175" height="98" data-image-name="Wizards Unite logo.jpg" data-image-key="Wizards_Unite_logo.jpg" /></a>
+</td>
+<td><b>Warning!</b>
+<p>At least some content in this article is derived from information featured in <i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i>. As such, spoilers will be present within the article.
+</p><p>For gameplay-specific information, please see the relevant article on <a href="https://harrypotterwizardsunite.fandom.com/wiki/Inn_Charm" class="extiw" title="w:c:harrypotterwizardsunite:Inn Charm">the Harry Potter: Wizards Unite Wiki!</a>
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-spell pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/4/41/Inn_Charm_WU_icon.PNG/revision/latest?cb=20201028142909" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/4/41/Inn_Charm_WU_icon.PNG/revision/latest/scale-to-width-down/98?cb=20201028142909" srcset="https://static.wikia.nocookie.net/harrypotter/images/4/41/Inn_Charm_WU_icon.PNG/revision/latest/scale-to-width-down/98?cb=20201028142909 1x, https://static.wikia.nocookie.net/harrypotter/images/4/41/Inn_Charm_WU_icon.PNG/revision/latest/scale-to-width-down/196?cb=20201028142909 2x" class="pi-image-thumbnail" alt="" width="98" height="98"
+		     data-image-key="Inn_Charm_WU_icon.PNG" data-image-name="Inn Charm WU icon.PNG"/>
+		
+	</a>
+	
+</figure>
+
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Inn Charm</h2>
+<section class="pi-item pi-group pi-border-color">
+	
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="incantation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Incantation</h3>
+	
+	<div class="pi-data-value pi-font"><i>Tribuomnus</i><sup id="cite_ref-WU_1-0" class="reference"><a href="#cite_note-WU-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="type">
+	
+		<h3 class="pi-data-label pi-secondary-font">Type</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Charm" title="Charm">Charm</a><sup id="cite_ref-WU_1-1" class="reference"><a href="#cite_note-WU-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="effect">
+	
+		<h3 class="pi-data-label pi-secondary-font">Effect</h3>
+	
+	<div class="pi-data-value pi-font">Improves the quality of food<sup id="cite_ref-WU_1-2" class="reference"><a href="#cite_note-WU-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Spell_infobox" title="Template:Spell infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+The <b>Inn Charm</b> (<i>Tribuomnus</i>) was a <a href="/wiki/Charm" title="Charm">charm</a> that improved the quality of food served at <a href="/wiki/Wizarding_world" title="Wizarding world">wizarding</a> Inns.<sup id="cite_ref-WU_1-3" class="reference"><a href="#cite_note-WU-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Inn_Charm?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: History">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Inn_Charm?action=edit&amp;section=1" title="Edit section: History"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>This spell was taught to <a href="/wiki/Statute_of_Secrecy_Task_Force" title="Statute of Secrecy Task Force">Statute of Secrecy Task Force</a> members to help them deal with the <a href="/wiki/Calamity" title="Calamity">Calamity</a>.<sup id="cite_ref-WU_1-4" class="reference"><a href="#cite_note-WU-1">&#91;1&#93;</a></sup>
+</p><p>At some point, <a href="/wiki/Professor" title="Professor">Professor</a> <a href="/wiki/Filius_Flitwick" title="Filius Flitwick">Filius Flitwick</a> devised a less elaborate method for casting the spell.<sup id="cite_ref-WU_1-5" class="reference"><a href="#cite_note-WU-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Inn_Charm?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Inn_Charm?action=edit&amp;section=2" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Inn_Charm?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Inn_Charm?action=edit&amp;section=3" title="Edit section: Notes and references

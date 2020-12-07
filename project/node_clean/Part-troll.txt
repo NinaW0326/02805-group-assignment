@@ -1,0 +1,81 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-creature pi-layout-default">
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Part troll</h2>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Species information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="related">
+	
+		<h3 class="pi-data-label pi-secondary-font">Related to</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Human" title="Human">Human</a></li><li><a href="/wiki/Troll" title="Troll">Troll</a></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="mortality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Mortality</h3>
+	
+	<div class="pi-data-value pi-font">Mortal</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="distinction">
+	
+		<h3 class="pi-data-label pi-secondary-font">Distinction</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>Aggressive personality</li><li>Odorous</li><li><a href="/wiki/Superhuman_strength" title="Superhuman strength">Exceptional strength</a></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="class">
+	
+		<h3 class="pi-data-label pi-secondary-font"><a href="/wiki/Department_for_the_Regulation_and_Control_of_Magical_Creatures#Ministry_Classification_of_Magical_Creatures" title="Department for the Regulation and Control of Magical Creatures">Ministry of Magic Classification</a></h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Beast" title="Beast">Beast</a> (most likely)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="status">
+	
+		<h3 class="pi-data-label pi-secondary-font">Status</h3>
+	
+	<div class="pi-data-value pi-font">Extant</div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Creature_infobox" title="Template:Creature infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Deathly Hallows"><b>Ronald Weasley</b>: "<i>Told them I was Stan Shunpike. First person I could think of.</i>"</span></dd>
+<dd><b>Harry Potter</b>: "<i>And they believed that?</i>"</dd>
+<dd><b>Ronald Weasley</b>: "<i>They weren't the brightest. One of them was definitely part troll, the smell of him…</i>"</dd>
+<dd>&#8212; <a href="/wiki/Ronald_Weasley" title="Ronald Weasley">Ronald Weasley</a> tells <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> and <a href="/wiki/Hermione_Granger" title="Hermione Granger">Hermione Granger</a> about his encounter with <a href="/wiki/Snatchers" title="Snatchers">Snatchers</a> in <a href="/wiki/1997" title="1997">1997</a>.<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">[src]</a></sup></dd></dl>
+</div>
+<p><b>Part-trolls</b> were, apparently, <a href="/wiki/Being" title="Being">beings</a> with some, but not a total, amount of <a href="/wiki/Troll" title="Troll">troll</a> heritage or blood, as well as part <a href="/wiki/Human" title="Human">human</a> blood.<sup id="cite_ref-PS11_1-0" class="reference"><a href="#cite_note-PS11-1">&#91;1&#93;</a></sup><sup id="cite_ref-DH19_2-0" class="reference"><a href="#cite_note-DH19-2">&#91;2&#93;</a></sup>
+</p><p>Part-trolls were also, apparently, aggressive individuals<sup id="cite_ref-PS11_1-1" class="reference"><a href="#cite_note-PS11-1">&#91;1&#93;</a></sup> with a <a href="/wiki/Troll" title="Troll">troll</a>'s characteristic foul smell.<sup id="cite_ref-DH19_2-1" class="reference"><a href="#cite_note-DH19-2">&#91;2&#93;</a></sup> They were also noted for their <a href="/wiki/Superhuman_strength" title="Superhuman strength">strength</a>.<sup id="cite_ref-COG41_3-0" class="reference"><a href="#cite_note-COG41-3">&#91;3&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Known_part-trolls"><span class="tocnumber">1</span> <span class="toctext">Known part-trolls</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Appearances"><span class="tocnumber">3</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Notes_and_references"><span class="tocnumber">4</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Known_part-trolls">Known part-trolls</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Part-troll?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Known part-trolls">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Part-troll?action=edit&amp;section=1" title="Edit section: Known part-trolls"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Circus_Arcanus" title="Circus Arcanus">Circus Arcanus</a> half-troll<sup id="cite_ref-COG41_3-1" class="reference"><a href="#cite_note-COG41-3">&#91;3&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Part-troll?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: History">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Part-troll?action=edit&amp;section=2" title="Edit section: History"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A half-troll was an attraction of the <a href="/wiki/Circus_Arcanus" title="Circus Arcanus">Circus Arcanus</a><sup id="cite_ref-COG41_3-2" class="reference"><a href="#cite_note-COG41-3">&#91;3&#93;</a></sup>
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Philosopher&#39;s Stone">"<i>Harry thought Flint looked as if he had some troll blood in him.</i>"</span></dd>
+<dd>&#8212;Harry's views on Marcus Flint's appearance<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone" title="Harry Potter and the Philosopher&#39;s Stone">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p>During his first ever <a href="/wiki/Quidditch" title="Quidditch">Quidditch</a> match at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a>, <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> thought that <a href="/wiki/Marcus_Flint" title="Marcus Flint">Marcus Flint</a> may have been of troll descent, most likely an insult towards Flint's unpleasant appearance and demeanour.<sup id="cite_ref-PS11_1-2" class="reference"><a href="#cite_note-PS11-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Part-troll?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Part-troll?action=edit&amp;section=3" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone" title="Harry Potter and the Philosopher&#39;s Stone">Harry Potter and the Philosopher's Stone</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">Harry Potter and the Deathly Hallows</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1" title="Harry Potter and the Deathly Hallows: Part 1">Harry Potter and the Deathly Hallows: Part 1</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Fantastic_Beasts:_The_Crimes_of_Grindelwald" title="Fantastic Beasts: The Crimes of Grindelwald">Fantastic Beasts: The Crimes of Grindelwald</a></i> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Part-troll?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Part-troll?action=edit&amp;section=4" title="Edit section: Notes and references

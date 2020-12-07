@@ -1,0 +1,78 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/8/89/Loretta_Fieldwake.jpg/revision/latest?cb=20170730220258" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/8/89/Loretta_Fieldwake.jpg/revision/latest/scale-to-width-down/350?cb=20170730220258" srcset="https://static.wikia.nocookie.net/harrypotter/images/8/89/Loretta_Fieldwake.jpg/revision/latest/scale-to-width-down/350?cb=20170730220258 1x, https://static.wikia.nocookie.net/harrypotter/images/8/89/Loretta_Fieldwake.jpg/revision/latest/scale-to-width-down/700?cb=20170730220258 2x" class="pi-image-thumbnail" alt="" width="270" height="332"
+		     data-image-key="Loretta_Fieldwake.jpg" data-image-name="Loretta Fieldwake.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Loretta Fieldwake</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/United_States_of_America" title="United States of America">American</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Fieldwake_family" title="Fieldwake family">Fieldwake family</a></li><li><a href="/wiki/Franciscus_Fieldwake" title="Franciscus Fieldwake">Franciscus Fieldwake</a> (possibly)</li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Fieldwake_family" title="Fieldwake family">Fieldwake family</a></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+<b>Loretta Fieldwake</b> was an  <a href="/wiki/United_States_of_America" title="United States of America">American</a> <a href="/wiki/Wizardkind" title="Wizardkind">wizarding</a> criminal who operated in the <a href="/wiki/1920s" title="1920s">1920s</a>.<sup id="cite_ref-cob_1-0" class="reference"><a href="#cite_note-cob-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Loretta_Fieldwake_(criminal)?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Loretta_Fieldwake_(criminal)?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In or around <a href="/wiki/1926" title="1926">1926</a>, the <a href="/wiki/Magical_Congress_of_the_United_States_of_America" title="Magical Congress of the United States of America">Magical Congress of the United States of America</a> issued a wanted poster for Fieldwake, stating that she was wanted for <a href="/wiki/Non-magic_people" title="Non-magic people">No-Maj</a> &amp; <a href="/wiki/House-elf" title="House-elf">Elf</a> murder and "bearing wand, most menacing and extremely dangerous."<sup id="cite_ref-cob_1-1" class="reference"><a href="#cite_note-cob-1">&#91;1&#93;</a></sup> A reward of 2500 <a href="/wiki/Dragot" title="Dragot">Dragots</a> was offered for information leading to her capture.<sup id="cite_ref-cob_1-2" class="reference"><a href="#cite_note-cob-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Loretta_Fieldwake_(criminal)?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Loretta_Fieldwake_(criminal)?action=edit&amp;section=2" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(film)" title="Fantastic Beasts and Where to Find Them (film)">Fantastic Beasts and Where to Find Them (film)</a></i> <small>(Appears in photographs)</small></li>
+<li><i><a href="/wiki/The_Case_of_Beasts:_Explore_the_Film_Wizardry_of_Fantastic_Beasts_and_Where_to_Find_Them" title="The Case of Beasts: Explore the Film Wizardry of Fantastic Beasts and Where to Find Them">The Case of Beasts: Explore the Film Wizardry of Fantastic Beasts and Where to Find Them</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Loretta_Fieldwake_(criminal)?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Loretta_Fieldwake_(criminal)?action=edit&amp;section=3" title="Edit section: Notes and references

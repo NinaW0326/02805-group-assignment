@@ -1,0 +1,109 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/c/c4/Catriona_McCormack.png/revision/latest?cb=20200424175152" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/c/c4/Catriona_McCormack.png/revision/latest/scale-to-width-down/350?cb=20200424175152" srcset="https://static.wikia.nocookie.net/harrypotter/images/c/c4/Catriona_McCormack.png/revision/latest/scale-to-width-down/350?cb=20200424175152 1x, https://static.wikia.nocookie.net/harrypotter/images/c/c4/Catriona_McCormack.png/revision/latest/scale-to-width-down/700?cb=20200424175152 2x" class="pi-image-thumbnail" alt="" width="270" height="369"
+		     data-image-key="Catriona_McCormack.png" data-image-name="Catriona McCormack.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Catriona McCormack</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="title">
+	
+		<h3 class="pi-data-label pi-secondary-font">Title(s)</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Quidditch_Captain" title="Quidditch Captain">Quidditch Captain</a></li><li><a href="/wiki/Chaser" title="Chaser">Chaser</a></li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-QTA7_1-0" class="reference"><a href="#cite_note-QTA7-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female<sup id="cite_ref-QTA7_1-1" class="reference"><a href="#cite_note-QTA7-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Purple<sup id="cite_ref-QTAIE_2-0" class="reference"><a href="#cite_note-QTAIE-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Light<sup id="cite_ref-QTAIE_2-1" class="reference"><a href="#cite_note-QTAIE-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Meaghan_McCormack" title="Meaghan McCormack">Meaghan McCormack</a> (daughter)</li><li><a href="/wiki/Kirley_Duke" title="Kirley Duke">Kirley Duke</a> (son)</li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Chaser" title="Chaser">Chaser</a> and <a href="/wiki/Quidditch_Captain" title="Quidditch Captain">Quidditch Captain</a> for the <a href="/wiki/Pride_of_Portree" title="Pride of Portree">Pride of Portree</a></li><li><a href="/wiki/Chaser" title="Chaser">Chaser</a> for the <a href="/wiki/Scottish_National_Quidditch_team" title="Scottish National Quidditch team">Scottish National Quidditch team</a></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Pride_of_Portree" title="Pride of Portree">Pride of Portree</a></li><li><a href="/wiki/Scottish_National_Quidditch_team" title="Scottish National Quidditch team">Scottish National Quidditch team</a></li><li><a href="/wiki/McCormack_family" title="McCormack family">McCormack family</a></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Catriona McCormack</b> was a <a href="/wiki/Great_Britain" title="Great Britain">British</a> <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> who was a <a href="/wiki/Chaser" title="Chaser">Chaser</a> for the <a href="/wiki/Pride_of_Portree" title="Pride of Portree">Pride of Portree</a> in the <a href="/wiki/1960s" title="1960s">1960s</a>.<sup id="cite_ref-QTA7_1-2" class="reference"><a href="#cite_note-QTA7-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Catriona_McCormack?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Catriona_McCormack?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>She captained the team to two <a href="/wiki/League_Cup" title="League Cup">League Cups</a>. She played for the <a href="/wiki/Scottish_National_Quidditch_team" title="Scottish National Quidditch team">Scottish National Quidditch team</a> thirty-six times.<sup id="cite_ref-QTA7_1-3" class="reference"><a href="#cite_note-QTA7-1">&#91;1&#93;</a></sup>
+</p><p>Catriona had two children, <a href="/wiki/Meaghan_McCormack" title="Meaghan McCormack">Meaghan McCormack</a> (current <a href="/wiki/Keeper" title="Keeper">Keeper</a> for the Pride of Portree), and <a href="/wiki/Kirley_Duke" title="Kirley Duke">Kirley Duke</a> (lead guitarist of the <a href="/wiki/Weird_Sisters" title="Weird Sisters">The Weird Sisters</a>).<sup id="cite_ref-QTA7_1-4" class="reference"><a href="#cite_note-QTA7-1">&#91;1&#93;</a></sup>
+</p><p>Catriona McCormack was on the cover of <i><a href="/wiki/Quidditch_Times" title="Quidditch Times">Quidditch Times</a></i> on <a href="/wiki/29_February" title="29 February">29 February</a> <a href="/wiki/1964" title="1964">1964</a>, the magazine's 3000th issue, having been interviewed about her League wins and on "how to wear purple with flair".<sup id="cite_ref-QTAIE_2-2" class="reference"><a href="#cite_note-QTAIE-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Catriona_McCormack?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Catriona_McCormack?action=edit&amp;section=2" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 3 images related to <i><b><a href="/wiki/Category:Images_of_Catriona_McCormack" title="Category:Images of Catriona McCormack">Catriona McCormack</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<ul><li><i><a href="/wiki/Quidditch_Through_the_Ages_(real)" title="Quidditch Through the Ages (real)">Quidditch Through the Ages</a></i> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Catriona_McCormack?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Catriona_McCormack?action=edit&amp;section=3" title="Edit section: Notes and references

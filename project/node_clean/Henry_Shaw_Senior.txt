@@ -1,0 +1,158 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-muggle pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/7/75/Henry_Shaw_Snr.png/revision/latest?cb=20181118001300" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/7/75/Henry_Shaw_Snr.png/revision/latest/scale-to-width-down/350?cb=20181118001300" srcset="https://static.wikia.nocookie.net/harrypotter/images/7/75/Henry_Shaw_Snr.png/revision/latest/scale-to-width-down/350?cb=20181118001300 1x, https://static.wikia.nocookie.net/harrypotter/images/7/75/Henry_Shaw_Snr.png/revision/latest/scale-to-width-down/700?cb=20181118001300 2x" class="pi-image-thumbnail" alt="" width="270" height="302"
+		     data-image-key="Henry_Shaw_Snr.png" data-image-name="Henry Shaw Snr.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Henry Shaw</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">pre <a href="/wiki/1854" class="mw-redirect" title="1854">1854</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Non-magic_people" title="Non-magic people">No-Maj</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/United_States_of_America" title="United States of America">American</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Henry_Shaw_Junior" title="Henry Shaw Junior">Henry Shaw Jnr</a> (son) †<sup id="cite_ref-SnitchSeeker_2-0" class="reference"><a href="#cite_note-SnitchSeeker-2">&#91;2&#93;</a></sup></li><li><a href="/wiki/Langdon_Shaw" title="Langdon Shaw">Langdon Shaw</a> (son)<sup id="cite_ref-Pottermore_3-0" class="reference"><a href="#cite_note-Pottermore-3">&#91;3&#93;</a></sup></li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>Newspaper magnate<sup id="cite_ref-description_4-0" class="reference"><a href="#cite_note-description-4">&#91;4&#93;</a></sup><br/></li><li>Owner of <a href="/wiki/Shaw_News" title="Shaw News">Shaw News</a><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Shaw_family" title="Shaw family">Shaw family</a></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Fantastic Beasts and Where to Find Them: The Original Screenplay">"<i>I’ll expose you for who you are and what you’ve done.</i>"</span></dd>
+<dd>&#8212;Henry Shaw Senior's threat to <a href="/wiki/Wizardkind" title="Wizardkind">wizardkind</a><sup class="noprint"><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them:_The_Original_Screenplay" title="Fantastic Beasts and Where to Find Them: The Original Screenplay">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Henry Shaw Senior</b> was an <a href="/wiki/United_States_of_America" title="United States of America">American</a> <a href="/wiki/Non-magic_people" title="Non-magic people">No-Maj</a> newspaper magnate and founder of <a href="/wiki/Shaw_News" title="Shaw News">Shaw News</a>.<sup id="cite_ref-description_4-1" class="reference"><a href="#cite_note-description-4">&#91;4&#93;</a></sup> He was the father of <a href="/wiki/Henry_Shaw_Junior" title="Henry Shaw Junior">Henry Shaw Junior</a>, a <a href="http://en.wikipedia.org/wiki/United_States_Senate" class="extiw" title="wikipedia:United States Senate">US Senator</a> during the <a href="/wiki/1920" title="1920">1920s</a>,<sup id="cite_ref-SnitchSeeker_2-1" class="reference"><a href="#cite_note-SnitchSeeker-2">&#91;2&#93;</a></sup> and <a href="/wiki/Langdon_Shaw" title="Langdon Shaw">Langdon Shaw</a>.<sup id="cite_ref-Pottermore_3-1" class="reference"><a href="#cite_note-Pottermore-3">&#91;3&#93;</a></sup> While Henry was proud of Henry Shaw Jnr, he did not think very highly of his younger son <a href="/wiki/Langdon_Shaw" title="Langdon Shaw">Langdon</a>, whom he considered a disappointment.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_life"><span class="tocnumber">1.1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#The_Obscurus"><span class="tocnumber">1.2</span> <span class="toctext">The Obscurus</span></a>
+<ul>
+<li class="toclevel-3 tocsection-4"><a href="#Meeting_Credence_Barebone"><span class="tocnumber">1.2.1</span> <span class="toctext">Meeting Credence Barebone</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#Attack_on_the_Fundraising_Dinner_Hall"><span class="tocnumber">1.2.2</span> <span class="toctext">Attack on the Fundraising Dinner Hall</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Obscurial_attack_on_New_York"><span class="tocnumber">1.2.3</span> <span class="toctext">Obscurial attack on New York</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Personality_and_traits"><span class="tocnumber">2</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Behind_the_scenes"><span class="tocnumber">3</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Appearances"><span class="tocnumber">4</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Notes_and_references"><span class="tocnumber">5</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Henry_Shaw_Senior?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Henry_Shaw_Senior?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Henry_Shaw_Senior?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Early life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Henry_Shaw_Senior?action=edit&amp;section=2" title="Edit section: Early life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Henry Shaw Senior was born in or before <a href="/wiki/1854" class="mw-redirect" title="1854">1854</a>. He became a newspaper magnate by founding and running <a href="/wiki/Shaw_News" title="Shaw News">Shaw News</a>, a company that published several newspapers, including the <a href="/wiki/New-York_Clarion" title="New-York Clarion">New-York Clarion</a>. He also fathered at least two children, <a href="/wiki/Henry_Shaw_Junior" title="Henry Shaw Junior">Henry Shaw Junior</a> and <a href="/wiki/Langdon_Shaw" title="Langdon Shaw">Langdon Shaw</a>.
+</p>
+<h3><span class="mw-headline" id="The_Obscurus">The Obscurus</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Henry_Shaw_Senior?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: The Obscurus">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Henry_Shaw_Senior?action=edit&amp;section=3" title="Edit section: The Obscurus"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Meeting_Credence_Barebone">Meeting Credence Barebone</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Henry_Shaw_Senior?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Meeting Credence Barebone">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Henry_Shaw_Senior?action=edit&amp;section=4" title="Edit section: Meeting Credence Barebone"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Fantastic Beasts and Where to Find Them: The Original Screenplay">"<i>Your brother and I are busy here, Langdon. Working on his campaign. We don’t have time for this.</i>"</span></dd>
+<dd>&#8212;Henry Shaw Senior's dismissive attitude<sup class="noprint"><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them:_The_Original_Screenplay" title="Fantastic Beasts and Where to Find Them: The Original Screenplay">[src]</a></sup></dd>
+<dd></dd></dl></div><figure class="thumb tright show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/4/4a/Shaw_Family_FB1.png/revision/latest?cb=20170226020520" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/4/4a/Shaw_Family_FB1.png/revision/latest/scale-to-width-down/180?cb=20170226020520" decoding="async" width="180" height="96" class="thumbimage" data-image-name="Shaw Family FB1.png" data-image-key="Shaw_Family_FB1.png" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Shaw_Family_FB1.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">The Shaw family addressing the Barebone family</p> 		 	</figcaption> </figure>
+<p>After Langdon Shaw began to believe there was a <a href="/wiki/Wizardkind" title="Wizardkind">magical society living amongst them</a>, he brought <a href="/wiki/Mary_Lou_Barebone" title="Mary Lou Barebone">Mary Lou Barebone</a> from the <a href="/wiki/New_Salem_Philanthropic_Society" title="New Salem Philanthropic Society">New Salem Philanthropic Society</a> and her adopted children <a href="/wiki/Credence_Barebone" title="Credence Barebone">Credence</a>, <a href="/wiki/Chastity_Barebone" title="Chastity Barebone">Chastity</a>, and <a href="/wiki/Modesty_Barebone" title="Modesty Barebone">Modesty</a> to his father's <a href="/wiki/Shaw_Tower" title="Shaw Tower">office</a>. Langdon laid out a portfolio filled with a series of photographic evidence of <a href="/wiki/Magic" title="Magic">witchcraft</a> and told his father of his belief that "strange things going all over" <a href="/wiki/New_York" title="New York">New York</a>. However, both he and Henry Shaw Jnr dismissed his story.<sup id="cite_ref-description_4-2" class="reference"><a href="#cite_note-description-4">&#91;4&#93;</a></sup> Mary Lou asked to garnish the support of his newspaper company and his older son re-election platform. But Henry Shaw Senior refused, and asked the Barebone family to leave. While they were leaving, Mary Lou's adopted son Credence dropped a leaflet and his older son the Senator handed the leaflet back to him and called him a freak.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="Attack_on_the_Fundraising_Dinner_Hall">Attack on the Fundraising Dinner Hall</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Henry_Shaw_Senior?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Attack on the Fundraising Dinner Hall">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Henry_Shaw_Senior?action=edit&amp;section=5" title="Edit section: Attack on the Fundraising Dinner Hall"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Fantastic Beasts and Where to Find Them: The Original Screenplay">"<i>Sounds of anguish and panic from the crowd as Shaw Snr fights through the debris toward his son’s torn and bleeding body, his face brutally scarred. Shaw Snr looks devastated as he crouches beside his son.</i>"</span></dd>
+<dd>&#8212;Henry Shaw Snr reaction about the death of his son<sup class="noprint"><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them:_The_Original_Screenplay" title="Fantastic Beasts and Where to Find Them: The Original Screenplay">[src]</a></sup></dd>
+<dd></dd></dl></div><figure class="thumb tright show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/c/c3/Shaw_Sr_surprised_Fantastic_Beasts_CC_Trailer_WM.JPG/revision/latest?cb=20160723233824" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/c/c3/Shaw_Sr_surprised_Fantastic_Beasts_CC_Trailer_WM.JPG/revision/latest/scale-to-width-down/180?cb=20160723233824" decoding="async" width="180" height="75" class="thumbimage" data-image-name="Shaw Sr surprised Fantastic Beasts CC Trailer WM.JPG" data-image-key="Shaw_Sr_surprised_Fantastic_Beasts_CC_Trailer_WM.JPG" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Shaw_Sr_surprised_Fantastic_Beasts_CC_Trailer_WM.JPG" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Henry Shaw Senior's horror at witnessing the Obscurial attack his son</p> 		 	</figcaption> </figure>
+<p>Henry Shaw Snr was present at a rally for his elder son's supporters in <a href="/wiki/New_York" title="New York">New York</a> in the <a href="/wiki/Henry_Shaw_Junior%27s_fundraising_dinner" class="mw-redirect" title="Henry Shaw Junior&#39;s fundraising dinner">fund-raising dinner</a>, which was also picketed by members of the <a href="/wiki/New_Salem_Philanthropic_Society" title="New Salem Philanthropic Society">New Salem Philanthropic Society</a>.<sup id="cite_ref-fbmsite1_7-0" class="reference"><a href="#cite_note-fbmsite1-7">&#91;7&#93;</a></sup><sup id="cite_ref-fbmsite2_8-0" class="reference"><a href="#cite_note-fbmsite2-8">&#91;8&#93;</a></sup><sup id="cite_ref-bleedingcool_9-0" class="reference"><a href="#cite_note-bleedingcool-9">&#91;9&#93;</a></sup> When his older son the Senator was in the middle of his speech, an <a href="/wiki/Obscurus" title="Obscurus">invisible force</a> burst forth from beneath the organ. It soared across the hall, sending tables flying, and throwing people around as it carved a line toward the stage where Shaw Jnr was still standing.
+</p><p>Henry Shaw Snr watched in horror as the invisible force threw his son backwards against his poster, and then raised him up high where he was suspended for just a moment in midair before being thrown violently back down onto the stage, dead. In the midst of sounds of anguish and panic from the crowd as Henry Shaw Snr fought his way through the crowd to reach his son's dead body, feeling devastated as he crouched beside his slain son.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="Obscurial_attack_on_New_York">Obscurial attack on New York</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Henry_Shaw_Senior?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Obscurial attack on New York">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Henry_Shaw_Senior?action=edit&amp;section=6" title="Edit section: Obscurial attack on New York"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Fantastic Beasts and Where to Find Them: The Original Screenplay">"<i>That thing killed my son — I want justice!</i>"</span></dd>
+<dd>&#8212;Henry Shaw Snr about Credence's Obscurus<sup class="noprint"><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them:_The_Original_Screenplay" title="Fantastic Beasts and Where to Find Them: The Original Screenplay">[src]</a></sup></dd>
+<dd></dd></dl></div><figure class="thumb tright show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/c/c2/Shaw_Sr_Fantastic_Beasts_CC_Trailer.JPG/revision/latest?cb=20160723233823" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/c/c2/Shaw_Sr_Fantastic_Beasts_CC_Trailer.JPG/revision/latest/scale-to-width-down/180?cb=20160723233823" decoding="async" width="180" height="75" class="thumbimage" data-image-name="Shaw Sr Fantastic Beasts CC Trailer.JPG" data-image-key="Shaw_Sr_Fantastic_Beasts_CC_Trailer.JPG" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Shaw_Sr_Fantastic_Beasts_CC_Trailer.JPG" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Henry Shaw Senior witnessing the carnage in New York city</p> 		 	</figcaption> </figure>
+<p>On the next night of <a href="/wiki/7_December" title="7 December">7 December</a> <a href="/wiki/1926" title="1926">1926</a>, when Credence unleashed his Obscurus on New York, eventually taking refuge in the <a href="/wiki/New_York_City_Subway" title="New York City Subway">subway station</a>, Shaw fought, along with his other son Langdon, to make his way through the crowd standing before the magical barrier conjured by <a href="/wiki/Magical_Congress_of_the_United_States_of_America" title="Magical Congress of the United States of America">MACUSA</a>, declaring his intent to get justice for his son, and ordered his photographers to take as many photographs and vowed to expose <a href="/wiki/Wizardkind" title="Wizardkind">wizardkind</a>. However, come dawn, <a href="/wiki/Newton_Scamander" title="Newton Scamander">Newton Scamander</a> released <a href="/wiki/Frank" title="Frank">Frank</a> the <a href="/wiki/Thunderbird" title="Thunderbird">Thunderbird</a> into the sky, creating a rainstorm laced with <a href="/wiki/Swooping_Evil_venom" title="Swooping Evil venom">Swooping Evil venom</a> that <a href="/wiki/Memory_Charm" title="Memory Charm">Obliviated</a> all memories of magic from the minds of Shaw and Langdon and every <a href="/wiki/Muggle" class="mw-redirect" title="Muggle">No-Maj</a> in New York.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Henry_Shaw_Senior?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Personality and traits">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Henry_Shaw_Senior?action=edit&amp;section=7" title="Edit section: Personality and traits"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Henry Shaw Snr was a very serious, ambitious and rational individual, who was strongly focused and dedicated to his role as the leader of a huge media empire and the success of both his newspapers and his eldest son Henry. Regarding his two sons, he was evidently elitist and in favour of Henry massively over Langdon, who he admired for his political ambitions and success as a politician, whilst clearly being contemptuous of Langdon for being less motivated and successful, and being prone to seemingly trivial pursuits and ideas. Initially, being a very serious and sharp individual, he rejected the belief of the existence of witchcraft or Wizardkind in New York City, believing it be irrational nonsense, and thus dismisses the Barebones and expresses disappointment in Langdon for believing it himself, showing he had little time or patience for imagination or unproven things. However, upon his discovery of the existence of Wizardkind and <a href="/wiki/Magic" title="Magic">magic</a> following Creedence's Obscurial form murdering Henry Shaw Jnr at his campaign dinner, he immediately expressed his desire for answers from and vengeance against the Wizarding community, and threatened to expose their magic to the world. He was fiercely dedicated to his family's success and well-being above all else in the world.  
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Henry_Shaw_Senior?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Henry_Shaw_Senior?action=edit&amp;section=8" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Henry Shaw Senior is portrayed by <a href="/wiki/Jon_Voight" title="Jon Voight">Jon Voight</a> in <i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(film)" title="Fantastic Beasts and Where to Find Them (film)">Fantastic Beasts and Where to Find Them</a></i>.<sup id="cite_ref-businesswire_12-0" class="reference"><a href="#cite_note-businesswire-12">&#91;12&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Henry_Shaw_Senior?veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Henry_Shaw_Senior?action=edit&amp;section=9" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" class="lazyload" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 9 images related to <i><b><a href="/wiki/Category:Images_of_Henry_Shaw_Senior" title="Category:Images of Henry Shaw Senior">Henry Shaw Senior</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<ul><li><i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them:_The_Original_Screenplay" title="Fantastic Beasts and Where to Find Them: The Original Screenplay">Fantastic Beasts and Where to Find Them: The Original Screenplay</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(film)" title="Fantastic Beasts and Where to Find Them (film)">Fantastic Beasts and Where to Find Them (film)</a></i></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i></li>
+<li><i><a href="/wiki/The_Case_of_Beasts:_Explore_the_Film_Wizardry_of_Fantastic_Beasts_and_Where_to_Find_Them" title="The Case of Beasts: Explore the Film Wizardry of Fantastic Beasts and Where to Find Them">The Case of Beasts: Explore the Film Wizardry of Fantastic Beasts and Where to Find Them</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Henry_Shaw_Senior?veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Henry_Shaw_Senior?action=edit&amp;section=10" title="Edit section: Notes and references

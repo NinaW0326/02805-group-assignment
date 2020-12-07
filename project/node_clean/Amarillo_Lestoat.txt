@@ -1,0 +1,111 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-vampire pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/4/4c/AmarilloLestoat.png/revision/latest?cb=20130817144818" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/4/4c/AmarilloLestoat.png/revision/latest/scale-to-width-down/287?cb=20130817144818" srcset="https://static.wikia.nocookie.net/harrypotter/images/4/4c/AmarilloLestoat.png/revision/latest/scale-to-width-down/287?cb=20130817144818 1x, https://static.wikia.nocookie.net/harrypotter/images/4/4c/AmarilloLestoat.png/revision/latest/scale-to-width-down/574?cb=20130817144818 2x" class="pi-image-thumbnail" alt="" width="270" height="470"
+		     data-image-key="AmarilloLestoat.png" data-image-name="AmarilloLestoat.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Amarillo Lestoat</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/1776" class="mw-redirect" title="1776">1776</a><br/><a href="/wiki/United_States_of_America" title="United States of America">United States of America</a><sup id="cite_ref-POAG_1-0" class="reference"><a href="#cite_note-POAG-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/1977" title="1977">1977</a> (aged 200 - 201)<sup id="cite_ref-POAG_1-1" class="reference"><a href="#cite_note-POAG-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/United_States_of_America" title="United States of America">American</a><sup id="cite_ref-POAG_1-2" class="reference"><a href="#cite_note-POAG-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Vampire" title="Vampire">Vampire</a><sup id="cite_ref-POAG_1-3" class="reference"><a href="#cite_note-POAG-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male<sup id="cite_ref-POAG_1-4" class="reference"><a href="#cite_note-POAG-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Blond<sup id="cite_ref-POAG_1-5" class="reference"><a href="#cite_note-POAG-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Pale<sup id="cite_ref-POAG_1-6" class="reference"><a href="#cite_note-POAG-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Author<sup id="cite_ref-POAG_1-7" class="reference"><a href="#cite_note-POAG-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Prisoner of Azkaban (video game)">"<i>Flamboyant American vampire. Author of </i><a href="/wiki/A_Vampire%27s_Monologue" title="A Vampire&#39;s Monologue">A Vampire's Monologue</a><i> — intended to bore the reader into a stupor making him/her easier prey for vampires.</i>"</span></dd>
+<dd>&#8212;<a href="/wiki/Chocolate_Frog_Card" title="Chocolate Frog Card">Chocolate Frog Card</a><sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(video_game)" title="Harry Potter and the Prisoner of Azkaban (video game)">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Amarillo Lestoat</b> (<a href="/wiki/1776" class="mw-redirect" title="1776">1776</a>—<a href="/wiki/1977" title="1977">1977</a>) was a flamboyant <a href="/wiki/United_States_of_America" title="United States of America">American</a> <a href="/wiki/Vampire" title="Vampire">vampire</a>. He wrote a book, <i><a href="/wiki/A_Vampire%27s_Monologue" title="A Vampire&#39;s Monologue">A Vampire's Monologue</a></i>, which was intended to bore readers out of their minds and render them easier to bite. For his infamy, he was immortalised onto a <a href="/wiki/Chocolate_Frog_Card" title="Chocolate Frog Card">Chocolate Frog Card</a>.<sup id="cite_ref-POAG_1-8" class="reference"><a href="#cite_note-POAG-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Etymology"><span class="tocnumber">1</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Behind_the_scenes"><span class="tocnumber">2</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Appearances"><span class="tocnumber">3</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Notes_and_references"><span class="tocnumber">4</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Amarillo_Lestoat?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Amarillo_Lestoat?action=edit&amp;section=1" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>"<i>Amarillo</i>" is <a href="/wiki/Spain" title="Spain">Spanish</a> for "<i>yellow</i>", "<i>le</i>" is <a href="/wiki/France" title="France">French</a> for "<i>the</i>" and a <a href="http://en.wikipedia.org/wiki/Stoat" class="extiw" title="wikipedia:Stoat">stoat</a> is an animal related to the weasel. Consequently, his name appears to translate to "<i>the yellow stoat</i>".
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Amarillo_Lestoat?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Amarillo_Lestoat?action=edit&amp;section=2" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>His surname and overall character might be based on the character <a href="https://vampirechronicles.fandom.com/wiki/Lestat_de_Lioncourt" class="extiw" title="w:c:vampirechronicles:Lestat de Lioncourt">Lestat de Lioncourt</a>, a vampire in Anne Rice's <i><a href="https://vampirechronicles.fandom.com/wiki/The_Vampire_Chronicles" class="extiw" title="w:c:vampirechronicles:The Vampire Chronicles">The Vampire Chronicles</a></i>, who has a similar appearance and lived within the same time frame.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Amarillo_Lestoat?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Amarillo_Lestoat?action=edit&amp;section=3" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(video_game)" title="Harry Potter and the Prisoner of Azkaban (video game)">Harry Potter and the Prisoner of Azkaban (video game)</a></i> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Amarillo_Lestoat?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Amarillo_Lestoat?action=edit&amp;section=4" title="Edit section: Notes and references

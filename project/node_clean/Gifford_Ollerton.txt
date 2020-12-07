@@ -1,0 +1,121 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/0/04/Gifford.JPG/revision/latest?cb=20090623025700" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/0/04/Gifford.JPG/revision/latest/scale-to-width-down/244?cb=20090623025700" srcset="https://static.wikia.nocookie.net/harrypotter/images/0/04/Gifford.JPG/revision/latest/scale-to-width-down/244?cb=20090623025700 1x, https://static.wikia.nocookie.net/harrypotter/images/0/04/Gifford.JPG/revision/latest/scale-to-width-down/488?cb=20090623025700 2x" class="pi-image-thumbnail" alt="" width="244" height="304"
+		     data-image-key="Gifford.JPG" data-image-name="Gifford.JPG"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Gifford Ollerton</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/1390" class="mw-redirect" title="1390">1390</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/1441" class="mw-redirect" title="1441">1441</a> (aged 50-51)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Giant" title="Giant">Giant</a>-slayer</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Ollerton_family" title="Ollerton family">Ollerton family</a></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Chamber of Secrets (video game)">"<i>Gifford Ollerton (1390—1441): Famous giant-slayer. Killed the giant Hengist of Upper Barnton.</i>"</span></dd>
+<dd>&#8212;<a href="/wiki/Chocolate_Frog_Card" title="Chocolate Frog Card">Chocolate Frog Card</a><sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(video_game)" title="Harry Potter and the Chamber of Secrets (video game)">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Gifford Ollerton</b> (<a href="/wiki/1390" class="mw-redirect" title="1390">1390</a>—<a href="/wiki/1441" class="mw-redirect" title="1441">1441</a>) was a <a href="/wiki/Great_Britain" title="Great Britain">British</a> <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> famous for his reputation as a <a href="/wiki/Giant" title="Giant">giant</a>-slayer, having killed the giant <a href="/wiki/Hengist_of_Upper_Barnton" title="Hengist of Upper Barnton">Hengist of Upper Barnton</a>, who terrorised the small town of <a href="/wiki/Upper_Barnton" title="Upper Barnton">Upper Barnton</a> in the <a href="/wiki/15th_century" title="15th century">fifteenth century</a>.<sup id="cite_ref-PSG_1-0" class="reference"><a href="#cite_note-PSG-1">&#91;1&#93;</a></sup><sup id="cite_ref-COSG_2-0" class="reference"><a href="#cite_note-COSG-2">&#91;2&#93;</a></sup><sup id="cite_ref-POAG_3-0" class="reference"><a href="#cite_note-POAG-3">&#91;3&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_life"><span class="tocnumber">1.1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Adulthood"><span class="tocnumber">1.2</span> <span class="toctext">Adulthood</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Appearances"><span class="tocnumber">2</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Notes_and_references"><span class="tocnumber">3</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gifford_Ollerton?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gifford_Ollerton?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gifford_Ollerton?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Early life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gifford_Ollerton?action=edit&amp;section=2" title="Edit section: Early life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Gifford Ollerton was born in <a href="/wiki/1390" class="mw-redirect" title="1390">1390</a>, somewhere in the <a href="/wiki/Great_Britain" title="Great Britain">British Isles</a>.<sup id="cite_ref-PSG_1-1" class="reference"><a href="#cite_note-PSG-1">&#91;1&#93;</a></sup><sup id="cite_ref-COSG_2-1" class="reference"><a href="#cite_note-COSG-2">&#91;2&#93;</a></sup><sup id="cite_ref-POAG_3-1" class="reference"><a href="#cite_note-POAG-3">&#91;3&#93;</a></sup> If he enrolled at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a>, he attended the school from around <a href="/wiki/1401" class="mw-redirect" title="1401">1401</a> to <a href="/wiki/1408" class="mw-redirect" title="1408">1408</a>, under <a href="/wiki/Headmaster" title="Headmaster">Headmistress</a> <a href="/wiki/Phyllida_Spore" title="Phyllida Spore">Phyllida Spore</a>.
+</p>
+<h3><span class="mw-headline" id="Adulthood">Adulthood</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gifford_Ollerton?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Adulthood">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gifford_Ollerton?action=edit&amp;section=3" title="Edit section: Adulthood"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="thumb tleft show-info-icon" style="width: 227px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/a/a5/GiffordOllerton.jpg/revision/latest?cb=20120113230650" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/a/a5/GiffordOllerton.jpg/revision/latest/scale-to-width-down/225?cb=20120113230650" decoding="async" width="225" height="288" class="thumbimage" data-image-name="GiffordOllerton.jpg" data-image-key="GiffordOllerton.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:GiffordOllerton.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Gifford Ollerton cheers after defeating <a href="/wiki/Hengist_of_Upper_Barnton" title="Hengist of Upper Barnton">Hengist of Upper Barnton</a> (in the background)</p> 		 	</figcaption> </figure>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Chocolate Frog Cards">"<i>Giants terrorised the land in the 15th century. Gifford Ollerton (1390—1441) came to the rescue of the little town of Upper Barnton. He killed the giant who was bothering the town and became a local hero.</i>"</span></dd>
+<dd>&#8212;<a href="/wiki/Chocolate_Frog_Card" title="Chocolate Frog Card">Chocolate Frog Card</a>.<sup class="noprint"><a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p>In the <a href="/wiki/15th_century" title="15th century">fifteenth century</a>, <a href="/wiki/Giant" title="Giant">giant</a> numbers were relatively big in the <a href="/wiki/Great_Britain" title="Great Britain">British Isles</a>, when compared to today. Wizards became professional giant-slayers in order to restrict these numbers and to protect wizarding communities.
+</p><p>The giant <a href="/wiki/Hengist_of_Upper_Barnton" title="Hengist of Upper Barnton">Hengist of Upper Barnton</a> terrorised the small town of <a href="/wiki/Upper_Barnton" title="Upper Barnton">Upper Barnton</a>, in <a href="/wiki/England" title="England">England</a>, at somepoint during the fifteenth century. Gifford Ollerton, at the time a fully-fledged <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> rushed to the village's aid, and famously defeated and killed the giant, becoming celebrated as that town's local hero.<sup id="cite_ref-PSG_1-2" class="reference"><a href="#cite_note-PSG-1">&#91;1&#93;</a></sup><sup id="cite_ref-COSG_2-2" class="reference"><a href="#cite_note-COSG-2">&#91;2&#93;</a></sup><sup id="cite_ref-POAG_3-2" class="reference"><a href="#cite_note-POAG-3">&#91;3&#93;</a></sup>
+</p><p>Gifford Ollerton died in <a href="/wiki/1441" class="mw-redirect" title="1441">1441</a>, at the age of fifty-one.<sup id="cite_ref-PSG_1-3" class="reference"><a href="#cite_note-PSG-1">&#91;1&#93;</a></sup><sup id="cite_ref-COSG_2-3" class="reference"><a href="#cite_note-COSG-2">&#91;2&#93;</a></sup>
+</p><p>By the <a href="/wiki/1990s" title="1990s">1990s</a>, Ollerton's effigy was featured on a <a href="/wiki/Chocolate_Frog_Card" title="Chocolate Frog Card">Chocolate Frog Card</a> that celebrated his achievement.<sup id="cite_ref-PSG_1-4" class="reference"><a href="#cite_note-PSG-1">&#91;1&#93;</a></sup><sup id="cite_ref-COSG_2-4" class="reference"><a href="#cite_note-COSG-2">&#91;2&#93;</a></sup><sup id="cite_ref-POAG_3-3" class="reference"><a href="#cite_note-POAG-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gifford_Ollerton?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gifford_Ollerton?action=edit&amp;section=4" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 5 images related to <i><b><a href="/wiki/Category:Images_of_Gifford_Ollerton" title="Category:Images of Gifford Ollerton">Gifford Ollerton</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(video_game)" title="Harry Potter and the Philosopher&#39;s Stone (video game)">Harry Potter and the Philosopher's Stone (video game)</a></i> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(video_game)" title="Harry Potter and the Chamber of Secrets (video game)">Harry Potter and the Chamber of Secrets (video game)</a></i> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(video_game)" title="Harry Potter and the Prisoner of Azkaban (video game)">Harry Potter and the Prisoner of Azkaban (video game)</a></i> <span class="template-c">(Mentioned on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gifford_Ollerton?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gifford_Ollerton?action=edit&amp;section=5" title="Edit section: Notes and references

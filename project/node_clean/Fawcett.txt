@@ -1,0 +1,106 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-ravenclaw pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/7/7c/Fawcett.jpg/revision/latest?cb=20081122132216" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/7/7c/Fawcett.jpg/revision/latest/scale-to-width-down/138?cb=20081122132216" srcset="https://static.wikia.nocookie.net/harrypotter/images/7/7c/Fawcett.jpg/revision/latest/scale-to-width-down/138?cb=20081122132216 1x, https://static.wikia.nocookie.net/harrypotter/images/7/7c/Fawcett.jpg/revision/latest/scale-to-width-down/276?cb=20081122132216 2x" class="pi-image-thumbnail" alt="" width="138" height="285"
+		     data-image-key="Fawcett.jpg" data-image-name="Fawcett.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">S. Fawcett</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">Between <a href="/wiki/1_November" title="1 November">1 November</a> <a href="/wiki/1977" title="1977">1977</a> and <a href="/wiki/31_August" title="31 August">31 August</a>  <a href="/wiki/1981" title="1981">1981</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a> or <a href="/wiki/Ireland" title="Ireland">Irish</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="house">
+	
+		<h3 class="pi-data-label pi-secondary-font">House</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Ravenclaw" title="Ravenclaw">Ravenclaw</a><sup id="cite_ref-gof16_2-0" class="reference"><a href="#cite_note-gof16-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Fawcett_family" title="Fawcett family">Fawcett family</a></li><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a><ul><li><a href="/wiki/Ravenclaw" title="Ravenclaw">Ravenclaw</a><sup id="cite_ref-gof16_2-1" class="reference"><a href="#cite_note-gof16-2">&#91;2&#93;</a></sup></li></ul></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+<b>S. Fawcett</b> was a <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> and <a href="/wiki/Ravenclaw" title="Ravenclaw">Ravenclaw</a><sup id="cite_ref-gof16_2-2" class="reference"><a href="#cite_note-gof16-2">&#91;2&#93;</a></sup> student at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> during the <a href="/wiki/1990s" title="1990s">1990s</a>. She lived with her <a href="/wiki/Fawcett_family" title="Fawcett family">family</a> near <a href="/wiki/Ottery_St_Catchpole" title="Ottery St Catchpole">Ottery St Catchpole</a>.<sup id="cite_ref-gof6_3-0" class="reference"><a href="#cite_note-gof6-3">&#91;3&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#1992.E2.80.931993_school_year"><span class="tocnumber">1.1</span> <span class="toctext">1992–1993 school year</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#1994.E2.80.931995_school_year"><span class="tocnumber">1.2</span> <span class="toctext">1994–1995 school year</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Behind_the_scenes"><span class="tocnumber">2</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Appearances"><span class="tocnumber">3</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Notes_and_references"><span class="tocnumber">4</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Fawcett?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Fawcett?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="1992–1993_school_year"></span><span class="mw-headline" id="1992.E2.80.931993_school_year"><a href="/wiki/1992%E2%80%931993_school_year" title="1992–1993 school year">1992–1993 school year</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Fawcett?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: 1992–1993 school year">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Fawcett?action=edit&amp;section=2" title="Edit section: 1992–1993 school year"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In <a href="/wiki/1992" title="1992">1992</a>, she attended the <a href="/wiki/Duelling_Club" title="Duelling Club">Duelling Club</a> set up by <a href="/wiki/Gilderoy_Lockhart" title="Gilderoy Lockhart">Gilderoy Lockhart</a> and received a minor injury. She was probably paired up with another student and started <a href="/wiki/Duelling" title="Duelling">duelling</a> like everyone else.<sup id="cite_ref-COS11_4-0" class="reference"><a href="#cite_note-COS11-4">&#91;4&#93;</a></sup>
+</p>
+<h3><span id="1994–1995_school_year"></span><span class="mw-headline" id="1994.E2.80.931995_school_year"><a href="/wiki/1994%E2%80%931995_school_year" title="1994–1995 school year">1994–1995 school year</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Fawcett?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: 1994–1995 school year">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Fawcett?action=edit&amp;section=3" title="Edit section: 1994–1995 school year"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In <a href="/wiki/1994" title="1994">1994</a>, she did not attend the <a href="/wiki/Quidditch_World_Cup" title="Quidditch World Cup">Quidditch World Cup</a>, because her family couldn't get tickets.<sup id="cite_ref-gof6_3-1" class="reference"><a href="#cite_note-gof6-3">&#91;3&#93;</a></sup> On <a href="/wiki/Hallowe%27en" title="Hallowe&#39;en">Hallowe'en</a>, she attempted to place her name in the <a href="/wiki/Goblet_of_Fire" title="Goblet of Fire">Goblet of Fire</a> to participate in the <a href="/wiki/Triwizard_Tournament" title="Triwizard Tournament">Triwizard Tournament</a> by using an <a href="/wiki/Ageing_Potion" title="Ageing Potion">Ageing Potion</a>. Because of <a href="/wiki/Albus_Dumbledore" title="Albus Dumbledore">Albus Dumbledore</a>'s <a href="/wiki/Age_Line" title="Age Line">Age Line</a>, however, she grew a long white beard instead.<sup id="cite_ref-gof16_2-3" class="reference"><a href="#cite_note-gof16-2">&#91;2&#93;</a></sup> Later, on Christmas Eve, Fawcett attended the <a href="/wiki/Yule_Ball" title="Yule Ball">Yule Ball</a> with <a href="/wiki/Stebbins_(Potter-era)" title="Stebbins (Potter-era)">Stebbins</a>, and both were docked ten <a href="/wiki/House_points" title="House points">points</a> by <a href="/wiki/Severus_Snape" title="Severus Snape">Professor Snape</a> when he caught them together in the rose garden.<sup id="cite_ref-gof23_5-0" class="reference"><a href="#cite_note-gof23-5">&#91;5&#93;</a></sup> This suggests that she was a <a href="/wiki/Fourth_year" title="Fourth year">fourth year</a> or above, as she was able to attend the Yule Ball, unless she was invited by Stebbins (just like <a href="/wiki/Ginevra_Weasley" title="Ginevra Weasley">Ginny Weasley</a> was invited by <a href="/wiki/Neville_Longbottom" title="Neville Longbottom">Neville Longbottom</a> as she didn't have the proper age to attend the Yule Ball at that time); but given that Fawcett and Stebbins were caught together in the rose garden, they might have met each other for a time; they might have been the same age and started attending Hogwarts the same year.
+</p><p>Sometime during her time at the school, she borrowed the <a href="/wiki/Hogwarts_Library" title="Hogwarts Library">library</a> copy of <i><a href="/wiki/Quidditch_Through_the_Ages" title="Quidditch Through the Ages">Quidditch Through the Ages</a></i>, and was due to return it on <a href="/wiki/16_September" title="16 September">16 September</a>.<sup id="cite_ref-QTAR_6-0" class="reference"><a href="#cite_note-QTAR-6">&#91;6&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Fawcett?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Fawcett?action=edit&amp;section=4" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Fawcett was portrayed by <a href="/wiki/Alex_Argenti" title="Alex Argenti">Alex Argenti</a> in the <a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire_(film)" title="Harry Potter and the Goblet of Fire (film)">film adaptation</a> of <i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire" title="Harry Potter and the Goblet of Fire">Harry Potter and the Goblet of Fire</a></i>, but her scenes were cut from the theatrical version, but appeared in a deleted scene on the DVD of the film. In the scene, she and <a href="/wiki/Stebbins_(Potter-era)" title="Stebbins (Potter-era)">Stebbins</a> are not caught by <a href="/wiki/Severus_Snape" title="Severus Snape">Professor Snape</a> in the rose bushes, but in a <a href="/wiki/Hogwarts_Carriages" title="Hogwarts Carriages">Hogwarts carriage</a> parked in the <a href="/wiki/Viaduct_Courtyard" title="Viaduct Courtyard">Entrance Courtyard</a>.
+<ul><li>However, in some television showings, this scene is in the actual film.</li></ul></li>
+<li>In the <a href="/wiki/Great_Britain" title="Great Britain">British</a>, <a href="/wiki/Canada" title="Canada">Canadian</a>, <a href="/wiki/Ukraine" title="Ukraine">Ukrainian</a>, Russian, Polish, and Danish editions of <i>Harry Potter and the Goblet of Fire</i>, when Snape catches Fawcett with Stebbins in chapter 23, he says, "Ten points from <a href="/wiki/Hufflepuff" title="Hufflepuff">Hufflepuff</a>, Fawcett! And ten points from <a href="/wiki/Ravenclaw" title="Ravenclaw">Ravenclaw</a>, too, Stebbins!", although Fawcett is referred to as a Ravenclaw by <a href="/wiki/Albus_Dumbledore" title="Albus Dumbledore">Albus Dumbledore</a> in chapter 16.<sup id="cite_ref-lexicon_7-0" class="reference"><a href="#cite_note-lexicon-7">&#91;7&#93;</a></sup> The American edition of the novel amends this error, with Snape taking Fawcett's points from Ravenclaw, and Stebbins' from Hufflepuff.<sup id="cite_ref-lexicon_7-1" class="reference"><a href="#cite_note-lexicon-7">&#91;7&#93;</a></sup> In the <i>Goblet of Fire</i> film, however, Snape makes a similar error where he refers to Fawcett as a Hufflepuff and Stebbins as a Ravenclaw. The only way it couldn't be a mistake is that Snape mentions the consequences of the partner's rule-breakings.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Fawcett?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Fawcett?action=edit&amp;section=5" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets" title="Harry Potter and the Chamber of Secrets">Harry Potter and the Chamber of Secrets</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire" title="Harry Potter and the Goblet of Fire">Harry Potter and the Goblet of Fire</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire_(film)" title="Harry Potter and the Goblet of Fire (film)">Harry Potter and the Goblet of Fire (film)</a></i> <span class="template-c">(Deleted scene)</span></li>
+<li><i><a href="/wiki/Quidditch_Through_the_Ages_(real)" title="Quidditch Through the Ages (real)">Quidditch Through the Ages</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Fawcett?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Fawcett?action=edit&amp;section=6" title="Edit section: Notes and references

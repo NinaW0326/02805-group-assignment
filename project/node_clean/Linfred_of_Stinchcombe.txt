@@ -1,0 +1,121 @@
+<div class="mw-parser-output"><table class="notice metadata" id="spoiler" style="text-align: center; background: beige; margin: 1em 05%; padding: 0 1em; border: #a00 1px solid;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/8/8c/Hogwarts_Mystery.jpeg/revision/latest?cb=20180504083359" class="image"><img alt="Hogwarts Mystery.jpeg" src="https://static.wikia.nocookie.net/harrypotter/images/8/8c/Hogwarts_Mystery.jpeg/revision/latest/scale-to-width-down/175?cb=20180504083359" decoding="async" width="175" height="77" data-image-name="Hogwarts Mystery.jpeg" data-image-key="Hogwarts_Mystery.jpeg" /></a>
+</td>
+<td><b>Warning!</b>
+<p>At least some content in this article is derived from information featured in <i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i>. Spoilers will be present within the article.
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/a/aa/Linfred_de_Stinchcombe.png/revision/latest?cb=20180102201627" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/a/aa/Linfred_de_Stinchcombe.png/revision/latest/scale-to-width-down/350?cb=20180102201627" srcset="https://static.wikia.nocookie.net/harrypotter/images/a/aa/Linfred_de_Stinchcombe.png/revision/latest/scale-to-width-down/350?cb=20180102201627 1x, https://static.wikia.nocookie.net/harrypotter/images/a/aa/Linfred_de_Stinchcombe.png/revision/latest/scale-to-width-down/699?cb=20180102201627 2x" class="pi-image-thumbnail" alt="" width="270" height="320"
+		     data-image-key="Linfred_de_Stinchcombe.png" data-image-name="Linfred de Stinchcombe.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Linfred of Stinchcombe</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/12th_century" title="12th century">12th century</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="alias">
+	
+		<h3 class="pi-data-label pi-secondary-font">Also known as</h3>
+	
+	<div class="pi-data-value pi-font">The Potterer</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Hardwin_Potter" title="Hardwin Potter">Hardwin Potter</a> (son) †</li><li><a href="/wiki/Hardwin_Potter%27s_siblings" title="Hardwin Potter&#039;s siblings">Six other children</a> †</li><li><a href="/wiki/Iolanthe_Peverell" title="Iolanthe Peverell">Iolanthe Peverell</a> (daughter-in-law) †</li><li><a href="/wiki/Potter_family" title="Potter family">Generations of Potters</a> (descendents) †</li><li><a href="/wiki/James_Potter_I" title="James Potter I">James Potter I</a> (descendent) †</li><li><a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> (descendent)</li><li><a href="/wiki/James_Potter_II" title="James Potter II">James Sirius Potter</a> (descendent)</li><li><a href="/wiki/Albus_Potter" title="Albus Potter">Albus Severus Potter</a> (descendent)</li><li><a href="/wiki/Lily_L._Potter" title="Lily L. Potter">Lily Luna Potter</a> (descendent)</li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Potioneer" title="Potioneer">Potioneer</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Potter_family" title="Potter family">Potter family</a></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p><p><b>Linfred of Stinchcombe</b> (also known by the nickname <b>The Potterer</b>) was a <a href="/wiki/12th_century" title="12th century">twelfth-century</a> <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> and pioneering <a href="/wiki/Potioneer" title="Potioneer">potioneer</a>, credited with inventing many medicinal <a href="/wiki/Potion" title="Potion">potions</a>. He was the founding patriarch of the <a href="/wiki/Potter_family" title="Potter family">Potter family</a>.<sup id="cite_ref-PM_1-0" class="reference"><a href="#cite_note-PM-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Magical_abilities_and_skills"><span class="tocnumber">2</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Behind_the_scenes"><span class="tocnumber">3</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Appearances"><span class="tocnumber">4</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Notes_and_references"><span class="tocnumber">5</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Linfred_of_Stinchcombe?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Linfred_of_Stinchcombe?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In the <a href="/wiki/12th_century" title="12th century">12th century</a>, Linfred lived in the village of <a href="/wiki/Stinchcombe" title="Stinchcombe">Stinchcombe</a>, <a href="http://en.wikipedia.org/wiki/Gloucestershire" class="extiw" title="wikipedia:Gloucestershire">Gloucestershire</a>, where he had a reputation as an eccentric, absent-minded man.<sup id="cite_ref-PM_1-1" class="reference"><a href="#cite_note-PM-1">&#91;1&#93;</a></sup> Nonetheless, his helpful nature and affability made him universally liked and his <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> neighbours often came to him seeking remedies for their ailments. He was always able to brew these&#160;<a href="/wiki/Potion" title="Potion">potions</a> for them, using ingredients readily-available from his garden.<sup id="cite_ref-PM_1-2" class="reference"><a href="#cite_note-PM-1">&#91;1&#93;</a></sup>
+</p><p> The Muggles remained unaware that Linfred's remedies were <a href="/wiki/Magic" title="Magic">magical</a> and thus continued thinking of him as just a strange, lovable man who enjoyed "pottering about in his garden with all his funny plants."<sup id="cite_ref-PM_1-3" class="reference"><a href="#cite_note-PM-1">&#91;1&#93;</a></sup> This lead to him being given the nickname "the Potterer", which over the years was corrupted into simply "Potter."<sup id="cite_ref-PM_1-4" class="reference"><a href="#cite_note-PM-1">&#91;1&#93;</a></sup>
+</p><p>As his neighbours did not know he was a <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a>, Linfred was able to conduct experiments in peace, inventing a number of medicinal potions (including ones which later developed into <a href="/wiki/Skele-Gro" title="Skele-Gro">Skele-Gro</a> and <a href="/wiki/Pepperup_Potion" title="Pepperup Potion">Pepperup Potion</a>).<sup id="cite_ref-PM_1-5" class="reference"><a href="#cite_note-PM-1">&#91;1&#93;</a></sup> He sold these potions to fellow witches and wizards, amassing great wealth in the process.<sup id="cite_ref-PM_1-6" class="reference"><a href="#cite_note-PM-1">&#91;1&#93;</a></sup>
+</p><p>Linfred fathered seven children. He left each of them a significant amount of <a href="/wiki/Galleon" title="Galleon">gold</a> upon his death. His eldest son, <a href="/wiki/Hardwin_Potter" title="Hardwin Potter">Hardwin</a>, married <a href="/wiki/Iolanthe_Peverell" title="Iolanthe Peverell">Iolanthe Peverell</a>.<sup id="cite_ref-PM_1-7" class="reference"><a href="#cite_note-PM-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Linfred_of_Stinchcombe?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Linfred_of_Stinchcombe?action=edit&amp;section=2" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Potion" title="Potion"><b>Potions</b></a>: Linfred was a master <a href="/wiki/Potioneer" title="Potioneer">Potioneer</a> and inventor in the twelfth century. He invented a number of medicinal potions that are still useful to this day.</li>
+<li><a href="/wiki/Herbology" title="Herbology"><b>Herbology</b></a>: He possessed considerable skills in Herbology, as he was able to grow the plants in his garden needed for ingredients in brewing potions.</li></ul>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Linfred_of_Stinchcombe?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Linfred_of_Stinchcombe?action=edit&amp;section=3" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Linfred of Stinchcombe's life story echoes that of <a href="/wiki/The_Wizard_and_the_Hopping_Pot" title="The Wizard and the Hopping Pot">The Wizard and the Hopping Pot</a> from <i><a href="/wiki/The_Tales_of_Beedle_the_Bard" title="The Tales of Beedle the Bard">The Tales of Beedle the Bard </a></i>and may have been the inspiration for the story.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Linfred_of_Stinchcombe?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Linfred_of_Stinchcombe?action=edit&amp;section=4" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> <small>(First mentioned)</small></li>
+<li><i><a href="/wiki/Wizarding_World_(website)" title="Wizarding World (website)">Wizarding World</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i> <small>(Mentioned only)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Linfred_of_Stinchcombe?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Linfred_of_Stinchcombe?action=edit&amp;section=5" title="Edit section: Notes and references

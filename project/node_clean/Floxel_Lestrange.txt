@@ -1,0 +1,96 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/2/2c/FLOXEL_LESTRANGE.jpg/revision/latest?cb=20190524171036" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/2/2c/FLOXEL_LESTRANGE.jpg/revision/latest/scale-to-width-down/277?cb=20190524171036" srcset="https://static.wikia.nocookie.net/harrypotter/images/2/2c/FLOXEL_LESTRANGE.jpg/revision/latest/scale-to-width-down/277?cb=20190524171036 1x, https://static.wikia.nocookie.net/harrypotter/images/2/2c/FLOXEL_LESTRANGE.jpg/revision/latest/scale-to-width-down/554?cb=20190524171036 2x" class="pi-image-thumbnail" alt="" width="270" height="263"
+		     data-image-key="FLOXEL_LESTRANGE.jpg" data-image-name="FLOXEL LESTRANGE.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Floxel Lestrange</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Pure-blood" title="Pure-blood">Pure-blood</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="marital">
+	
+		<h3 class="pi-data-label pi-secondary-font">Marital status</h3>
+	
+	<div class="pi-data-value pi-font">Married</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/France" title="France">French</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Light</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Cyrille_Lestrange_(III)" title="Cyrille Lestrange (III)">Cyrille Lestrange</a> (father)</li><li><a href="/wiki/Luminosa_Lestrange" title="Luminosa Lestrange">Luminosa Lestrange</a> (mother)</li><li><a href="/wiki/Cyrille_Lestrange_(IV)" title="Cyrille Lestrange (IV)">Cyrille Lestrange</a> (brother)</li><li><a href="/wiki/Jodelle_Lestrange" title="Jodelle Lestrange">Jodelle Lestrange</a> (wife)</li><li><a href="/wiki/Quintilla_Lestrange" title="Quintilla Lestrange">Quintilla Lestrange</a> (daughter)</li><li><a href="/wiki/Fulcran_Lestrange_(III)" title="Fulcran Lestrange (III)">Fulcran Lestrange</a> (son-in-law/second cousin)</li><li><a href="/wiki/Cyrille_Lestrange_(II)" title="Cyrille Lestrange (II)">Cyrille Lestrange</a> (grandfather)</li><li><a href="/wiki/Balbine_Lestrange_(I)" title="Balbine Lestrange (I)">Balbine Lestrange</a> (grandmother)</li><li><a href="/wiki/Noz%C3%A9a_Lestrange" title="Nozéa Lestrange">Nozéa Lestrange</a> (granddaughter)</li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Lestrange_family" title="Lestrange family">Lestrange family</a></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Floxel Lestrange</b> was a <a href="/wiki/France" title="France">French</a> <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> and a member of the <a href="/wiki/Pure-blood" title="Pure-blood">pure-blood</a> <a href="/wiki/Lestrange_family" title="Lestrange family">Lestrange family</a>. He was the son of <a href="/wiki/Cyrille_Lestrange_(III)" title="Cyrille Lestrange (III)">Cyrille Lestrange</a> and <a href="/wiki/Luminosa_Lestrange" title="Luminosa Lestrange">Luminosa Trouche</a>. He had a brother <a href="/wiki/Cyrille_Lestrange_(IV)" title="Cyrille Lestrange (IV)">Cyrille</a>. He married <a href="/wiki/Jodelle_Lestrange" title="Jodelle Lestrange">Jodelle Volant</a> and had a daughter with her, <a href="/wiki/Quintilla_Lestrange" title="Quintilla Lestrange">Quintilla</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Floxel_Lestrange?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Floxel_Lestrange?action=edit&amp;section=1" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Fantastic_Beasts:_The_Crimes_of_Grindelwald" title="Fantastic Beasts: The Crimes of Grindelwald">Fantastic Beasts: The Crimes of Grindelwald</a></i> <span class="template-c">(Appears on the Lestrange family tree)</span></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Floxel_Lestrange?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Floxel_Lestrange?action=edit&amp;section=2" title="Edit section: Notes and references

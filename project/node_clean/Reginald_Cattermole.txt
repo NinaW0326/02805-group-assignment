@@ -1,0 +1,216 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-mom pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/4/43/ReginaldCattermole.jpg/revision/latest?cb=20140331134403" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/4/43/ReginaldCattermole.jpg/revision/latest/scale-to-width-down/343?cb=20140331134403" srcset="https://static.wikia.nocookie.net/harrypotter/images/4/43/ReginaldCattermole.jpg/revision/latest/scale-to-width-down/343?cb=20140331134403 1x, https://static.wikia.nocookie.net/harrypotter/images/4/43/ReginaldCattermole.jpg/revision/latest/scale-to-width-down/686?cb=20140331134403 2x" class="pi-image-thumbnail" alt="" width="270" height="393"
+		     data-image-key="ReginaldCattermole.jpg" data-image-name="ReginaldCattermole.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Reginald Cattermole</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">Sun in Libra, <a href="/wiki/Moon" title="Moon">moon</a> in Virgo<sup id="cite_ref-HPLE_1-0" class="reference"><a href="#cite_note-HPLE-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Pure-blood" title="Pure-blood">Pure blood</a> or <a href="/wiki/Half-blood" title="Half-blood">Half-blood</a><sup id="cite_ref-Blood_2-0" class="reference"><a href="#cite_note-Blood-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a><sup id="cite_ref-DH12_3-0" class="reference"><a href="#cite_note-DH12-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="alias">
+	
+		<h3 class="pi-data-label pi-secondary-font">Also known as</h3>
+	
+	<div class="pi-data-value pi-font">Reg<sup id="cite_ref-DH12_3-1" class="reference"><a href="#cite_note-DH12-3">&#91;3&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="signature">
+	
+		<h3 class="pi-data-label pi-secondary-font">Signature</h3>
+	
+	<div class="pi-data-value pi-font"><a href="https://static.wikia.nocookie.net/harrypotter/images/9/94/Reginald_Cattermole_sig.png/revision/latest?cb=20130212022500" class="image"><img alt="Reginald Cattermole sig.png" src="https://static.wikia.nocookie.net/harrypotter/images/9/94/Reginald_Cattermole_sig.png/revision/latest/scale-to-width-down/150?cb=20130212022500" decoding="async" width="150" height="33" data-image-name="Reginald Cattermole sig.png" data-image-key="Reginald_Cattermole_sig.png" /></a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-DH12_3-2" class="reference"><a href="#cite_note-DH12-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male<sup id="cite_ref-DH12_3-3" class="reference"><a href="#cite_note-DH12-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="height">
+	
+		<h3 class="pi-data-label pi-secondary-font">Height</h3>
+	
+	<div class="pi-data-value pi-font">5 ft, 11 in<sup id="cite_ref-HPLE_1-1" class="reference"><a href="#cite_note-HPLE-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="weight">
+	
+		<h3 class="pi-data-label pi-secondary-font">Weight</h3>
+	
+	<div class="pi-data-value pi-font">168 pounds<sup id="cite_ref-HPLE_1-2" class="reference"><a href="#cite_note-HPLE-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Greyish/Red<sup id="cite_ref-HPLE_1-3" class="reference"><a href="#cite_note-HPLE-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Green<sup id="cite_ref-HPLE_1-4" class="reference"><a href="#cite_note-HPLE-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Mary_Cattermole" title="Mary Cattermole">Mary Cattermole</a> (wife)<sup id="cite_ref-DH12_3-4" class="reference"><a href="#cite_note-DH12-3">&#91;3&#93;</a></sup></li><li><a href="/wiki/Maisie_Cattermole" title="Maisie Cattermole">Maisie Cattermole</a> (daughter)<sup id="cite_ref-DH12_3-5" class="reference"><a href="#cite_note-DH12-3">&#91;3&#93;</a></sup></li><li><a href="/wiki/Ellie_Cattermole" title="Ellie Cattermole">Ellie Cattermole</a> (daughter)<sup id="cite_ref-DH12_3-6" class="reference"><a href="#cite_note-DH12-3">&#91;3&#93;</a></sup></li><li><a href="/wiki/Alfred_Cattermole" title="Alfred Cattermole">Alfred Cattermole</a> (son)<sup id="cite_ref-DH12_3-7" class="reference"><a href="#cite_note-DH12-3">&#91;3&#93;</a></sup></li><li><a href="/wiki/Mary_Cattermole%27s_father" title="Mary Cattermole&#039;s father">Father--in-law</a><sup id="cite_ref-DH13_4-0" class="reference"><a href="#cite_note-DH13-4">&#91;4&#93;</a></sup></li><li><a href="/wiki/Mary_Cattermole%27s_mother" title="Mary Cattermole&#039;s mother">Mother-in-law</a><sup id="cite_ref-DH13_4-1" class="reference"><a href="#cite_note-DH13-4">&#91;4&#93;</a></sup></li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Magical characteristics</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="patronus">
+	
+		<h3 class="pi-data-label pi-secondary-font">Patronus</h3>
+	
+	<div class="pi-data-value pi-font">Non-corporeal<sup id="cite_ref-LEGOY2_5-0" class="reference"><a href="#cite_note-LEGOY2-5">&#91;5&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Magical_Maintenance_Department" title="Magical Maintenance Department">Magical Maintenance Department</a> employee<sup id="cite_ref-DH12_3-8" class="reference"><a href="#cite_note-DH12-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">British Ministry of Magic</a><sup id="cite_ref-DH12_3-9" class="reference"><a href="#cite_note-DH12-3">&#91;3&#93;</a></sup><ul><li><a href="/wiki/Magical_Maintenance_Department" title="Magical Maintenance Department">Magical Maintenance Department</a><sup id="cite_ref-DH12_3-10" class="reference"><a href="#cite_note-DH12-3">&#91;3&#93;</a></sup></li></ul></li><li><a href="/wiki/Cattermole_family" title="Cattermole family">Cattermole family</a><sup id="cite_ref-DH12_3-11" class="reference"><a href="#cite_note-DH12-3">&#91;3&#93;</a></sup></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Deathly Hallows"><b>Hermione (as Mafalda Hopkirk)</b>: "<i>Oh dear! Perhaps you’d better take the day off!</i>"</span></dd>
+<dd><b>Reginald</b>: "<i>No – no! I must – today – must go – </i>"</dd>
+<dd><b>Hermione (as Mafalda Hopkirk)</b>: "<i>But that’s just silly! You can’t go to work in this state – I think you ought to go to St Mungo’s and get them to sort you out... You simply can’t go to work like this!</i>"</dd>
+<dd>&#8212; Reginald trying to get to the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">Ministry of Magic</a> for his wife's trial<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">[src]</a></sup></dd></dl>
+</div>
+<p><b>Reginald "Reg" Cattermole</b> (b. sun in <a href="/wiki/Libra" title="Libra">Libra</a>, <a href="/wiki/Moon" title="Moon">moon</a> in <a href="/wiki/Virgo" title="Virgo">Virgo</a><sup id="cite_ref-HPLE_1-5" class="reference"><a href="#cite_note-HPLE-1">&#91;1&#93;</a></sup>) was a <a href="/wiki/Great_Britain" title="Great Britain">British</a> <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> employed at the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">Ministry of Magic</a> in the <a href="/wiki/Magical_Maintenance_Department" title="Magical Maintenance Department">Magical Maintenance Department</a>.<sup id="cite_ref-DH12_3-12" class="reference"><a href="#cite_note-DH12-3">&#91;3&#93;</a></sup> He was married to <a href="/wiki/Mary_Cattermole" title="Mary Cattermole">Mary</a>, and the couple had three children, <a href="/wiki/Maisie_Cattermole" title="Maisie Cattermole">Maisie</a>, <a href="/wiki/Ellie_Cattermole" title="Ellie Cattermole">Ellie</a>, and <a href="/wiki/Alfred_Cattermole" title="Alfred Cattermole">Alfred</a>. He lived at <a href="/wiki/27_Chislehurst_Gardens" title="27 Chislehurst Gardens">27</a> <a href="/wiki/Chislehurst_Gardens" title="Chislehurst Gardens">Chislehurst Gardens</a>, <a href="/wiki/Great_Tolling" title="Great Tolling">Great Tolling</a>, <a href="/wiki/Evesham" title="Evesham">Evesham</a> with his wife and children.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_Life"><span class="tocnumber">1.1</span> <span class="toctext">Early Life</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Infiltration_of_the_Ministry"><span class="tocnumber">1.2</span> <span class="toctext">Infiltration of the Ministry</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Later_life"><span class="tocnumber">1.3</span> <span class="toctext">Later life</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Physical_description"><span class="tocnumber">2</span> <span class="toctext">Physical description</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Magical_abilities_and_skills"><span class="tocnumber">3</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Behind_the_scenes"><span class="tocnumber">4</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Etymology"><span class="tocnumber">5</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Appearances"><span class="tocnumber">6</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Notes_and_references"><span class="tocnumber">7</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Reginald_Cattermole?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Reginald_Cattermole?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_Life">Early Life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Reginald_Cattermole?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Early Life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Reginald_Cattermole?action=edit&amp;section=2" title="Edit section: Early Life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Not much is known about Reginald's early life except that he began to work at the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">British Ministry of Magic</a> as part of the <a href="/wiki/Magical_Maintenance_Department" title="Magical Maintenance Department">Magical Maintenance Department</a> in his adulthood.
+</p>
+<h3><span class="mw-headline" id="Infiltration_of_the_Ministry">Infiltration of the Ministry</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Reginald_Cattermole?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Infiltration of the Ministry">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Reginald_Cattermole?action=edit&amp;section=3" title="Edit section: Infiltration of the Ministry"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="thumb tright show-info-icon" style="width: 264px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/5/54/Infiltration.png/revision/latest?cb=20160812020055" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/5/54/Infiltration.png/revision/latest/scale-to-width-down/262?cb=20160812020055" decoding="async" width="262" height="121" class="thumbimage" data-image-name="Infiltration.png" data-image-key="Infiltration.png" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Infiltration.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Ron (far right) disguised as Reginald Cattermole with Hermione and Harry (also disguised as Ministry workers)</p> 		 	</figcaption> </figure>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Deathly Hallows">"<i>You realise that I am on my way downstairs to interrogate your wife, Cattermole? In fact, I’m quite surprised you’re not down there holding her hand while she waits. Already given her up as a bad job, have you? Probably wise. Be sure and marry a <a href="/wiki/Pure-blood" title="Pure-blood">pure-blood</a> next time... But if </i>my<i> wife were accused of being a <a href="/wiki/Mudblood" title="Mudblood">Mudblood</a> — not that any woman I married would ever be mistaken for such filth — and the Head of <a href="/wiki/Department_of_Magical_Law_Enforcement" title="Department of Magical Law Enforcement">Department of Magical Law Enforcement</a> needed a job doing, I would make it my priority to do this job, Cattermole. Do you understand me?</i>"</span></dd>
+<dd>&#8212;<a href="/wiki/Corban_Yaxley" title="Corban Yaxley">Yaxley</a> intimidating Reginald (actually <a href="/wiki/Ronald_Weasley" title="Ronald Weasley">Ron Weasley</a> in disguise)<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p>On <a href="/wiki/2_September" title="2 September">2 September</a>, <a href="/wiki/1997" title="1997">1997</a>, Reginald headed for the Ministry not just for work, but for his <a href="/wiki/Muggle-born" title="Muggle-born">Muggle-born</a> wife <a href="/wiki/Mary_Cattermole" title="Mary Cattermole">Mary Cattermole</a> who was to be tried by the <a href="/wiki/Muggle-Born_Registration_Commission" title="Muggle-Born Registration Commission">Muggle-Born Registration Commission</a>, as the Ministry had been <a href="/wiki/Fall_of_the_Ministry_of_Magic" title="Fall of the Ministry of Magic">taken over</a> by <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a> and Muggle-borns were being persecuted. Outside, Reginald met <a href="/wiki/Mafalda_Hopkirk" title="Mafalda Hopkirk">Mafalda Hopkirk</a>, who was actually <a href="/wiki/Hermione_Granger" title="Hermione Granger">Hermione Granger</a> disguised by use of <a href="/wiki/Polyjuice_Potion" title="Polyjuice Potion">Polyjuice Potion</a>.<sup id="cite_ref-DH12_3-13" class="reference"><a href="#cite_note-DH12-3">&#91;3&#93;</a></sup>
+</p><p>She gave him a <a href="/wiki/Puking_Pastille" title="Puking Pastille">Puking Pastille</a>, and when he started to vomit, she took some of his <a href="/wiki/Human_hair" title="Human hair">hair</a>. Reginald still tried hard to get into the Ministry, desperate to be by his wife's side, despite repeatedly vomiting and being unable to walk straight, but Hermione advised him to go to <a href="/wiki/St_Mungo%27s_Hospital_for_Magical_Maladies_and_Injuries" title="St Mungo&#39;s Hospital for Magical Maladies and Injuries">St Mungo's</a>. After being unable to stand any longer, he finally <a href="/wiki/Apparition" title="Apparition">Disapparated</a>.<sup id="cite_ref-DH12_3-14" class="reference"><a href="#cite_note-DH12-3">&#91;3&#93;</a></sup>
+</p>
+<figure class="thumb tleft show-info-icon" style="width: 274px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/a/ac/Reginaldron.png/revision/latest?cb=20120102211031" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="272" height="137" class="thumbimage lazyload" data-image-name="Reginaldron.png" data-image-key="Reginaldron.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/a/ac/Reginaldron.png/revision/latest/scale-to-width-down/272?cb=20120102211031" /></a> 	<noscript><a href="https://static.wikia.nocookie.net/harrypotter/images/a/ac/Reginaldron.png/revision/latest?cb=20120102211031" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/a/ac/Reginaldron.png/revision/latest/scale-to-width-down/272?cb=20120102211031" decoding="async" width="272" height="137" class="thumbimage" data-image-name="Reginaldron.png" data-image-key="Reginaldron.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/a/ac/Reginaldron.png/revision/latest/scale-to-width-down/272?cb=20120102211031" /></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Reginaldron.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Reginald (Ron in disguise with <a href="/wiki/Polyjuice_Potion" title="Polyjuice Potion">Polyjuice Potion</a>) exiting the lift to deal with the <a href="/wiki/Water" title="Water">raining</a> in <a href="/wiki/Corban_Yaxley" title="Corban Yaxley">Yaxley</a>'s office</p> 		 	</figcaption> </figure>
+<p>This was all part of Hermione Granger, <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a>, and <a href="/wiki/Ronald_Weasley" title="Ronald Weasley">Ron Weasley</a>'s plan to <a href="/wiki/Infiltration_of_the_Ministry_of_Magic" title="Infiltration of the Ministry of Magic">access the Ministry undercover</a>. Hermione transformed into Mafalda Hopkirk, Ron used Reginald's hair and Polyjuice Potion to take on his form, and after Harry took on the form of <a href="/wiki/Albert_Runcorn" title="Albert Runcorn">Albert Runcorn</a>, the three headed into the Ministry.<sup id="cite_ref-DH12_3-15" class="reference"><a href="#cite_note-DH12-3">&#91;3&#93;</a></sup>
+</p><p>Reginald returned to the Ministry, pale but no longer ill, just in time to witness Ron, Harry, and Hermione assisting in the escape of <a href="/wiki/Muggle-born" title="Muggle-born">Muggle-borns</a> who had been detained by the <a href="/wiki/Muggle-Born_Registration_Commission" title="Muggle-Born Registration Commission">Muggle-Born Registration Commission</a>, including his wife. Harry advised them to take their children and leave the country while <a href="/wiki/Tom_Riddle" title="Tom Riddle">Lord Voldemort</a> was still in power.<sup id="cite_ref-DH13_4-2" class="reference"><a href="#cite_note-DH13-4">&#91;4&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Later_life">Later life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Reginald_Cattermole?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Later life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Reginald_Cattermole?action=edit&amp;section=4" title="Edit section: Later life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>It is unknown if Reginald and Mary took Harry's advice, or what happened to them after the <a href="/wiki/Second_Wizarding_War" title="Second Wizarding War">Second Wizarding War</a> ended. However, Ron was dubious they escaped as he got the impression Reginald was not quick-witted when he impersonated him.<sup id="cite_ref-DH14_6-0" class="reference"><a href="#cite_note-DH14-6">&#91;6&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Physical_description">Physical description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Reginald_Cattermole?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Physical description">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Reginald_Cattermole?action=edit&amp;section=5" title="Edit section: Physical description"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Reginald was described as being a small, "<a href="/wiki/Ferret" title="Ferret">ferretty</a>" individual.<sup id="cite_ref-DH12_3-16" class="reference"><a href="#cite_note-DH12-3">&#91;3&#93;</a></sup> 
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Reginald_Cattermole?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Reginald_Cattermole?action=edit&amp;section=6" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Apparition" title="Apparition">Apparition</a></b>: Like most accomplished adult wizards, Reginald was capable of apparating at will.<sup id="cite_ref-DH12_3-17" class="reference"><a href="#cite_note-DH12-3">&#91;3&#93;</a></sup></li>
+<li><b><a href="/wiki/Charm" title="Charm">Charms</a></b>: Reginald was capable of producing a non-corporeal <a href="/wiki/Patronus_Charm" title="Patronus Charm">Patronus</a>,<sup id="cite_ref-LEGOY2_5-1" class="reference"><a href="#cite_note-LEGOY2-5">&#91;5&#93;</a></sup> a highly advanced and powerful protective charm.</li></ul>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Reginald_Cattermole?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Reginald_Cattermole?action=edit&amp;section=7" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tright show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/f/f2/LEGO_Reginald.png/revision/latest?cb=20111227152120" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="180" height="168" class="thumbimage lazyload" data-image-name="LEGO Reginald.png" data-image-key="LEGO_Reginald.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/f/f2/LEGO_Reginald.png/revision/latest/scale-to-width-down/180?cb=20111227152120" /></a> 	<noscript><a href="https://static.wikia.nocookie.net/harrypotter/images/f/f2/LEGO_Reginald.png/revision/latest?cb=20111227152120" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/f/f2/LEGO_Reginald.png/revision/latest/scale-to-width-down/180?cb=20111227152120" decoding="async" width="180" height="168" class="thumbimage" data-image-name="LEGO Reginald.png" data-image-key="LEGO_Reginald.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/f/f2/LEGO_Reginald.png/revision/latest/scale-to-width-down/180?cb=20111227152120" /></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:LEGO_Reginald.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Ron Weasley as Reg in <i><a href="/wiki/LEGO_Harry_Potter:_Years_5-7" title="LEGO Harry Potter: Years 5-7">LEGO Harry Potter: Years 5-7</a></i></p> 		 	</figcaption> </figure>
+<ul><li>In <i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1" title="Harry Potter and the Deathly Hallows: Part 1">Harry Potter and the Deathly Hallows: Part 1</a></i>, Reginald Cattermole was played by <a href="/wiki/Wales" title="Wales">Welsh</a>&#160;actor <a href="/wiki/Steffan_Rhodri" title="Steffan Rhodri">Steffan Rhodri</a>.</li>
+<li>In <i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1" title="Harry Potter and the Deathly Hallows: Part 1">Harry Potter and the Deathly Hallows: Part 1</a></i>, his physical appearance differs to that of the book. The book says that he is small and ferretty whereas in the film he is rather tall (even taller than <a href="/wiki/Albert_Runcorn" title="Albert Runcorn">Albert Runcorn</a>).</li>
+<li>Cattermole only appeared three times as himself in the film: once during <a href="/wiki/Pius_Thicknesse" title="Pius Thicknesse">Pius Thicknesse</a>'s speech, once lying on the floor unconscious after the trio stun him, and once when he shows up as the trio's leaving the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">Ministry</a>.</li></ul>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Reginald_Cattermole?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Reginald_Cattermole?action=edit&amp;section=8" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>"Reginald" is from <i>Reginaldus</i>, which is a Latinized form of <i>Reynold</i>. It is also a cognate with the Old Norse Rögnvaldr, from which the name Ronald is derived.
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Reginald_Cattermole?veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Reginald_Cattermole?action=edit&amp;section=9" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" class="lazyload" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 11 images related to <i><b><a href="/wiki/Category:Images_of_Reginald_Cattermole" title="Category:Images of Reginald Cattermole">Reginald Cattermole</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">Harry Potter and the Deathly Hallows</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1" title="Harry Potter and the Deathly Hallows: Part 1">Harry Potter and the Deathly Hallows: Part 1</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1_(video_game)" title="Harry Potter and the Deathly Hallows: Part 1 (video game)">Harry Potter and the Deathly Hallows: Part 1 (video game)</a></i></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter:_Years_5-7" title="LEGO Harry Potter: Years 5-7">LEGO Harry Potter: Years 5-7</a></i></li>
+<li><i><a href="/wiki/LEGO_Dimensions" title="LEGO Dimensions">LEGO Dimensions</a></i> <small>(Mentioned only)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Reginald_Cattermole?veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Reginald_Cattermole?action=edit&amp;section=10" title="Edit section: Notes and references

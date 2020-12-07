@@ -1,0 +1,60 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-object pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/8/86/Enchanted_bench.jpg/revision/latest?cb=20100603200901" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/8/86/Enchanted_bench.jpg/revision/latest/scale-to-width-down/350?cb=20100603200901" srcset="https://static.wikia.nocookie.net/harrypotter/images/8/86/Enchanted_bench.jpg/revision/latest/scale-to-width-down/350?cb=20100603200901 1x, https://static.wikia.nocookie.net/harrypotter/images/8/86/Enchanted_bench.jpg/revision/latest/scale-to-width-down/700?cb=20100603200901 2x" class="pi-image-thumbnail" alt="" width="270" height="203"
+		     data-image-key="Enchanted_bench.jpg" data-image-name="Enchanted bench.jpg"/>
+		
+	</a>
+	
+</figure>
+
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Enchanted bench</h2>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Object information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="manufacturer">
+	
+		<h3 class="pi-data-label pi-secondary-font">Manufacturer</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Hermione_Granger" title="Hermione Granger">Hermione Granger</a> (<a href="/wiki/Flying_Charm" class="mw-redirect" title="Flying Charm">enchantments</a>)<sup id="cite_ref-WWHP_1-0" class="reference"><a href="#cite_note-WWHP-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="usage">
+	
+		<h3 class="pi-data-label pi-secondary-font">Usage</h3>
+	
+	<div class="pi-data-value pi-font">Aerial transportation<sup id="cite_ref-WWHP_1-1" class="reference"><a href="#cite_note-WWHP-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Object_infobox" title="Template:Object infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;The Wizarding World of Harry Potter">"<i>Hermione Granger, one of our more exceptional students, has cast a flying charm on the benches which gives them the power of flight.  However, the enchanted bench has a mind of its own, and can fly an infinite and unpredictable number of angles.  Therefore, it’s not recommended for those with neck or back problems, persons subject to motion sickness, or anyone who is pregnant.</i>"</span></dd>
+<dd>&#8212;A <a href="/wiki/Portrait_of_a_Professor" title="Portrait of a Professor">portrait of a Professor</a> on enchanted benches<sup class="noprint"><a href="/wiki/The_Wizarding_World_of_Harry_Potter" title="The Wizarding World of Harry Potter">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Enchanted benches</b> are <a href="/wiki/Magic" title="Magic">magical</a> benches that have been <a href="/wiki/Charm" title="Charm">enchanted</a> with a <a href="/wiki/Flying_charm" title="Flying charm">flying charm</a>.<sup id="cite_ref-WWHP_1-2" class="reference"><a href="#cite_note-WWHP-1">&#91;1&#93;</a></sup> 
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Behind_the_scenes"><span class="tocnumber">2</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Appearances"><span class="tocnumber">3</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Notes_and_references"><span class="tocnumber">4</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Description">Description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Enchanted_bench?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Description">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Enchanted_bench?action=edit&amp;section=1" title="Edit section: Description"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Enchanted benches are, when used properly, safe, though improper use of them such as reckless racing can cause them to catch <a href="/wiki/Fire" title="Fire">fire</a>. Though they are safe to fly, the experience can be disconcerting, as enchanted benches have a mind of their own, capable of flying at unpredictable angles, sharply ascending with little warning, and suddenly stopping. Therefore, they are not recommended to be flown by those with back or neck problems, those susceptible to <a href="/wiki/Motion_sickness" title="Motion sickness">motion sickness</a>, or <a href="/wiki/Pregnancy" title="Pregnancy">pregnant</a> women.<sup id="cite_ref-WWHP_1-3" class="reference"><a href="#cite_note-WWHP-1">&#91;1&#93;</a></sup>
+</p><p>For added safety, enchanted benches are built with a back pouch meant to store small objects which may fall during the ride or injure others, such as <a href="/wiki/Glasses" title="Glasses">glasses</a> and <a href="/wiki/Wand" title="Wand">wands</a>. <a href="/wiki/Smart_Locker" title="Smart Locker">Smart Lockers</a> are supplied for riders with possessions larger than what fit inside these pouches, so that they may store their possessions beforehand.<sup id="cite_ref-WWHP_1-4" class="reference"><a href="#cite_note-WWHP-1">&#91;1&#93;</a></sup>
+</p><p>In his lifetime, the subject depicted in a certain <a href="/wiki/Portrait_of_a_Quidditch_player" title="Portrait of a Quidditch player">portrait of a Quidditch player</a> hanging in <a href="/wiki/Hogwarts_Castle" title="Hogwarts Castle">Hogwarts Castle</a> test-flew enchanted benches. He apparently flew them frequently, taking them on such journeys as a trip from the <a href="/wiki/South_Pole" title="South Pole">South Pole</a> to the <a href="/wiki/North_Pole" title="North Pole">North Pole</a> and a flight over the <a href="/wiki/Himalayas" title="Himalayas">Himalayas</a>. The latter trip was also taken by a party of young ladies, who fell out during the course of the ride and thus prevented the Quidditch player from returning them.<sup id="cite_ref-WWHP_1-5" class="reference"><a href="#cite_note-WWHP-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Enchanted_bench?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Enchanted_bench?action=edit&amp;section=2" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>The "enchanted benches" are the in-universe explanation for the seats of the roller coaster that make up the <i><a href="/wiki/Harry_Potter_and_the_Forbidden_Journey" title="Harry Potter and the Forbidden Journey">Harry Potter and the Forbidden Journey</a></i> ride at <a href="/wiki/The_Wizarding_World_of_Harry_Potter" title="The Wizarding World of Harry Potter">The Wizarding World of Harry Potter</a>.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Enchanted_bench?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Enchanted_bench?action=edit&amp;section=3" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/The_Wizarding_World_of_Harry_Potter" title="The Wizarding World of Harry Potter">The Wizarding World of Harry Potter</a> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Enchanted_bench?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Enchanted_bench?action=edit&amp;section=4" title="Edit section: Notes and references

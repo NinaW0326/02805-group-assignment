@@ -1,0 +1,90 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/d/d4/PhilbertChivers.png/revision/latest?cb=20161230020434" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/d/d4/PhilbertChivers.png/revision/latest/scale-to-width-down/350?cb=20161230020434" srcset="https://static.wikia.nocookie.net/harrypotter/images/d/d4/PhilbertChivers.png/revision/latest/scale-to-width-down/350?cb=20161230020434 1x, https://static.wikia.nocookie.net/harrypotter/images/d/d4/PhilbertChivers.png/revision/latest/scale-to-width-down/700?cb=20161230020434 2x" class="pi-image-thumbnail" alt="" width="270" height="342"
+		     data-image-key="PhilbertChivers.png" data-image-name="PhilbertChivers.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Philbert Chivers</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a><sup id="cite_ref-FBC_1-0" class="reference"><a href="#cite_note-FBC-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-FBC_1-1" class="reference"><a href="#cite_note-FBC-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male<sup id="cite_ref-FBC_1-2" class="reference"><a href="#cite_note-FBC-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Brown<sup id="cite_ref-FBC_1-3" class="reference"><a href="#cite_note-FBC-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Grey<sup id="cite_ref-FBC_1-4" class="reference"><a href="#cite_note-FBC-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White<sup id="cite_ref-FBC_1-5" class="reference"><a href="#cite_note-FBC-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Diagon_Alley" title="Diagon Alley">Diagon Alley</a><sup id="cite_ref-FBC_1-6" class="reference"><a href="#cite_note-FBC-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/St_Mungo%27s_Hospital_for_Magical_Maladies_and_Injuries" title="St Mungo&#039;s Hospital for Magical Maladies and Injuries">St Mungo's Hospital for Magical Maladies and Injuries</a><sup id="cite_ref-FBC_1-7" class="reference"><a href="#cite_note-FBC-1">&#91;1&#93;</a></sup></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Philbert Chivers</b> was an eccentric <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> from <a href="/wiki/London" title="London">London</a> who believed that <a href="/wiki/Nargle" title="Nargle">Nargles</a> were stealing from the shops on <a href="/wiki/Diagon_Alley" title="Diagon Alley">Diagon Alley</a> and hiding in <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> sewers.<sup id="cite_ref-FBC_1-8" class="reference"><a href="#cite_note-FBC-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Philbert_Chivers?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Philbert_Chivers?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In a beast-related incident investigated by <a href="/wiki/Mathilda_Grimblehawk" title="Mathilda Grimblehawk">Mathilda Grimblehawk</a> and her <a href="/wiki/Mathilda_Grimblehawk%27s_partner" title="Mathilda Grimblehawk&#39;s partner">partner</a> from the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">Ministry of Magic</a>'s <a href="/wiki/Beast_Division" title="Beast Division">Beast Division</a>, Chivers was reported to be missing. He was later found unconscious in the London sewers having been knocked out by falling bricks. He was then transported to <a href="/wiki/St_Mungo%27s_Hospital_for_Magical_Maladies_and_Injuries" title="St Mungo&#39;s Hospital for Magical Maladies and Injuries">St Mungo's Hospital for Magical Maladies and Injuries</a> and treated by <a href="/wiki/Healer" title="Healer">Healer</a> <a href="/wiki/Omar_Abasi" title="Omar Abasi">Omar Abasi</a>.<sup id="cite_ref-FBC_1-9" class="reference"><a href="#cite_note-FBC-1">&#91;1&#93;</a></sup>
+</p><p>Chivers believed that the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">British Ministry of Magic</a> was involved with covering up the existence of Nargles. He went to <a href="/wiki/Slug_%26_Jiggers_Apothecary" title="Slug &amp; Jiggers Apothecary">Slug &amp; Jiggers Apothecary</a> hoping to purchase "<a href="/wiki/Poison" title="Poison">Narglecide</a>", so <a href="/wiki/Humphrey_Balsamo" title="Humphrey Balsamo">Humphrey Balsamo</a> relabelled some dud <a href="/wiki/Potion" title="Potion">potions</a>, and gave them to him free. These potions included an unstable <a href="/wiki/Swelling_Solution" title="Swelling Solution">Swelling Solution</a> which was consumed by the <a href="/wiki/Beast" title="Beast">beast</a> dwelling in the sewers.<sup id="cite_ref-FBC_1-10" class="reference"><a href="#cite_note-FBC-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Philbert_Chivers?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Philbert_Chivers?action=edit&amp;section=2" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 4 images related to <i><b><a href="/wiki/Category:Images_of_Philbert_Chivers" title="Category:Images of Philbert Chivers">Philbert Chivers</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<ul><li><i><a href="/wiki/Fantastic_Beasts:_Cases_from_the_Wizarding_World" title="Fantastic Beasts: Cases from the Wizarding World">Fantastic Beasts: Cases from the Wizarding World</a></i> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Philbert_Chivers?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Philbert_Chivers?action=edit&amp;section=3" title="Edit section: Notes and references

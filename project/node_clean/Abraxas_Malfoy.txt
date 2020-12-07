@@ -1,0 +1,132 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-slytherin pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/0/01/AbraxasMalfoy.png/revision/latest?cb=20170730212251" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/0/01/AbraxasMalfoy.png/revision/latest/scale-to-width-down/350?cb=20170730212251" srcset="https://static.wikia.nocookie.net/harrypotter/images/0/01/AbraxasMalfoy.png/revision/latest/scale-to-width-down/350?cb=20170730212251 1x, https://static.wikia.nocookie.net/harrypotter/images/0/01/AbraxasMalfoy.png/revision/latest/scale-to-width-down/700?cb=20170730212251 2x" class="pi-image-thumbnail" alt="" width="270" height="272"
+		     data-image-key="AbraxasMalfoy.png" data-image-name="AbraxasMalfoy.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Abraxas Malfoy</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">before <a href="/wiki/1936" title="1936">1936</a> (most likely)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font">Pre <a href="/wiki/2_September" title="2 September">2 September</a>, <a href="/wiki/1996" title="1996">1996</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Pure-blood" title="Pure-blood">Pure-blood</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a> or <a href="/wiki/Ireland" title="Ireland">Irish</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Armand_Malfoy" title="Armand Malfoy">Armand Malfoy</a> (ancestor) †</li><li><a href="/wiki/Nicholas_Malfoy" title="Nicholas Malfoy">Nicholas Malfoy</a> (ancestor) †</li><li><a href="/wiki/Lucius_Malfoy_I" title="Lucius Malfoy I">Lucius Malfoy I</a> (ancestor) †</li><li><a href="/wiki/Brutus_Malfoy" title="Brutus Malfoy">Brutus Malfoy</a> (ancestor) †</li><li><a href="/wiki/Septimus_Malfoy" title="Septimus Malfoy">Septimus Malfoy</a> (ancestor) †</li><li><a href="/wiki/Lucius_Malfoy" title="Lucius Malfoy">Lucius Malfoy</a> (son)</li><li><a href="/wiki/Narcissa_Malfoy" title="Narcissa Malfoy">Narcissa Malfoy</a> (daughter-in-law)</li><li><a href="/wiki/Draco_Malfoy" title="Draco Malfoy">Draco Malfoy</a> (grandson)</li><li><a href="/wiki/Astoria_Malfoy" title="Astoria Malfoy">Astoria Greengrass</a> (grandaughter-in-law)†</li><li><a href="/wiki/Scorpius_Malfoy" title="Scorpius Malfoy">Scorpius Malfoy</a> (great-grandson)</li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="house">
+	
+		<h3 class="pi-data-label pi-secondary-font">House</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Slytherin" title="Slytherin">Slytherin</a><sup id="cite_ref-PS5_3-0" class="reference"><a href="#cite_note-PS5-3">&#91;3&#93;</a></sup><sup id="cite_ref-COS9_4-0" class="reference"><a href="#cite_note-COS9-4">&#91;4&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Malfoy_family" title="Malfoy family">Malfoy family</a></li><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a><ul><li><a href="/wiki/Slytherin" title="Slytherin">Slytherin</a></li></ul></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Abraxas Malfoy</b> (fl. <a href="/wiki/1954" title="1954">1954</a>-<a href="/wiki/1968" title="1968">1968</a>) was a <a href="/wiki/Pure-blood" title="Pure-blood">pure-blood</a> <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a>, a member of the <a href="/wiki/Malfoy_family" title="Malfoy family">Malfoy family</a>, father of <a href="/wiki/Lucius_Malfoy" title="Lucius Malfoy">Lucius Malfoy</a>, grandfather of <a href="/wiki/Draco_Malfoy" title="Draco Malfoy">Draco Malfoy</a> and great-grandfather of <a href="/wiki/Scorpius_Malfoy" title="Scorpius Malfoy">Scorpius Malfoy</a>. He was related by marriage to the <a href="/wiki/House_of_Black" title="House of Black">Blacks</a>, through his daughter-in-law <a href="/wiki/Narcissa_Malfoy" title="Narcissa Malfoy">Narcissa</a>, and, more distantly, to the <a href="/wiki/Lestrange_family" title="Lestrange family">Lestranges</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Etymology"><span class="tocnumber">2</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Behind_the_scenes"><span class="tocnumber">3</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Appearances"><span class="tocnumber">4</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Notes_and_references"><span class="tocnumber">5</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Abraxas_Malfoy?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Abraxas_Malfoy?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Half-Blood Prince"><b>Draco Malfoy </b>: "<i>Sir, I think you knew my grandfather, Abraxas Malfoy?</i>"</span></dd>
+<dd><b>Horace Slughorn</b>: "<i>Yes. I was sorry to hear he had died, although of course it wasn't unexpected, dragon pox at his age...</i>"</dd>
+<dd>&#8212; <a href="/wiki/Draco_Malfoy" title="Draco Malfoy">Draco Malfoy</a> seeking favour from Horace Slughorn<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">[src]</a></sup></dd></dl>
+</div><p>In his youth, Abraxas attended <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> and was <a href="/wiki/Sorting_ceremony" title="Sorting ceremony">sorted</a> into <a href="/wiki/Slytherin" title="Slytherin">Slytherin</a> house.<sup id="cite_ref-PS5_3-1" class="reference"><a href="#cite_note-PS5-3">&#91;3&#93;</a></sup><sup id="cite_ref-COS9_4-1" class="reference"><a href="#cite_note-COS9-4">&#91;4&#93;</a></sup>
+</p><p>Abraxas had at least one child, <a href="/wiki/Lucius_Malfoy" title="Lucius Malfoy">Lucius Malfoy</a>, who was born in late <a href="/wiki/1953" title="1953">1953</a> or <a href="/wiki/1954" title="1954">1954</a>;<sup id="cite_ref-OP15_5-0" class="reference"><a href="#cite_note-OP15-5">&#91;5&#93;</a></sup> the fate of Lucius's mother, Abraxas's wife, is currently unknown. Abraxas apparently knew <a href="/wiki/Horace_Slughorn" title="Horace Slughorn">Horace Slughorn</a>, according to his grandson <a href="/wiki/Draco_Malfoy" title="Draco Malfoy">Draco</a> and Slughorn himself.<sup id="cite_ref-HBP9_6-0" class="reference"><a href="#cite_note-HBP9-6">&#91;6&#93;</a></sup>
+</p><p>Abraxas Malfoy was widely believed to have been part of the shady plot that, in <a href="/wiki/1968" title="1968">1968</a>, forced <a href="/wiki/Minister_for_Magic" title="Minister for Magic">Minister for Magic</a> <a href="/wiki/Nobby_Leach" title="Nobby Leach">Nobby Leach</a> (the first <a href="/wiki/Muggle-born" title="Muggle-born">Muggle-born</a> ever to have held the office) to leave his post prematurely. Nothing was, however, conclusively proven against Malfoy.<sup id="cite_ref-pottermore_7-0" class="reference"><a href="#cite_note-pottermore-7">&#91;7&#93;</a></sup>
+</p><p>Abraxas <a href="/wiki/Death" title="Death">died</a> of a case of <a href="/wiki/Dragon_Pox" title="Dragon Pox">Dragon Pox</a>, a relatively common malady of the elderly, some time before September <a href="/wiki/1996" title="1996">1996</a>. <a href="/wiki/Horace_Slughorn" title="Horace Slughorn">Horace Slughorn</a> knew him at one time and was sorry to hear that he had passed away, as he informed Abraxas's grandson <a href="/wiki/Draco_Malfoy" title="Draco Malfoy">Draco</a>.<sup id="cite_ref-HBP9_6-1" class="reference"><a href="#cite_note-HBP9-6">&#91;6&#93;</a></sup> Abraxas may also have been a well-respected wizard, as Draco attempted to use his name to charm Slughorn into letting Draco into the <a href="/wiki/Slug_Club" title="Slug Club">Slug Club</a>, because Slughorn was impressed with heritage. However, perhaps due to Lucius's renewed criminal records, the name was not good enough to earn Slughorn's favour.
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Abraxas_Malfoy?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Abraxas_Malfoy?action=edit&amp;section=2" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The word <i><a href="http://en.wikipedia.org/wiki/Abraxas" class="extiw" title="wikipedia:Abraxas">Abraxas</a></i> was engraved on stones that were considered amulets in the Ancient Roman-Greco world. They often had figures carved on them as well that resembled <a href="/wiki/Basilisk" title="Basilisk">basilisks</a> or <a href="/wiki/Chimaera" title="Chimaera">chimaeras</a>. The name may be related to the word <i>abracadabra</i>, which is notable as this may also be the root of the <a href="/wiki/Killing_Curse" title="Killing Curse">Killing Curse</a> incantation <i>"Avada Kedavra"</i>. The name Abraxas is also mentioned in Gnostic texts, and in Ancient Egyptian mythology as a god or <a href="/wiki/Demon" title="Demon">demon</a>.
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Abraxas_Malfoy?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Abraxas_Malfoy?action=edit&amp;section=3" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>It's possible that as since Draco used his name to get Slughorn's attention Abraxas was a member of the <a href="/wiki/Slug_Club" title="Slug Club">Slug Club</a>, though this is unconfirmed.</li>
+<li>Interestingly his plot to remove Nobby Leach from the Ministry happened approximately two years before the <a href="/wiki/First_Wizarding_War" title="First Wizarding War">First Wizarding War</a> began. It's unknown if the two events are connected however, though the <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a> would have nonetheless benefited from Leach's removal.</li>
+<li>It is unknown if he was a Death Eater, or if he ever met Lord Voldemort.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Abraxas_Malfoy?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Abraxas_Malfoy?action=edit&amp;section=4" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">Harry Potter and the Half-Blood Prince</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Wizarding_World_(website)" title="Wizarding World (website)">Wizarding World</a></i> <small>(Mentioned only)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Abraxas_Malfoy?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Abraxas_Malfoy?action=edit&amp;section=5" title="Edit section: Notes and references

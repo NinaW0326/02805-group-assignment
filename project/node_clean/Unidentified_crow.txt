@@ -1,0 +1,63 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-pet pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/3/3a/Unidentified_crow.jpg/revision/latest?cb=20130420053823" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/3/3a/Unidentified_crow.jpg/revision/latest/scale-to-width-down/350?cb=20130420053823" srcset="https://static.wikia.nocookie.net/harrypotter/images/3/3a/Unidentified_crow.jpg/revision/latest/scale-to-width-down/350?cb=20130420053823 1x, https://static.wikia.nocookie.net/harrypotter/images/3/3a/Unidentified_crow.jpg/revision/latest/scale-to-width-down/699?cb=20130420053823 2x" class="pi-image-thumbnail" alt="" width="270" height="154"
+		     data-image-key="Unidentified_crow.jpg" data-image-name="Unidentified crow.jpg"/>
+		
+	</a>
+	
+</figure>
+
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Unidentified crow</h2>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">Pre <a href="/wiki/1994" title="1994">1994</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Crow" title="Crow">Crow</a><sup id="cite_ref-POAF_1-0" class="reference"><a href="#cite_note-POAF-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="feathers">
+	
+		<h3 class="pi-data-label pi-secondary-font">Feathers</h3>
+	
+	<div class="pi-data-value pi-font">Black<sup id="cite_ref-POAF_1-1" class="reference"><a href="#cite_note-POAF-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Hagrid%27s_cabin" class="mw-redirect" title="Hagrid&#039;s cabin">Hagrid's cabin</a><sup id="cite_ref-POAF_1-2" class="reference"><a href="#cite_note-POAF-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Pet_individual_infobox" title="Template:Pet individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+This <b><a href="/wiki/Crow" title="Crow">crow</a></b> sat on the top of a wooden marker, holding <a href="/wiki/Buckbeak" title="Buckbeak">Buckbeak</a> the <a href="/wiki/Hippogriff" title="Hippogriff">Hippogriff</a>. The crow appeared to be a kind of guard, biting <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> when he tried to free Buckbeak. The crow then flew away when the <a href="/wiki/Walden_Macnair" title="Walden Macnair">Executioner</a> used his <a href="/wiki/Axe" title="Axe">axe</a> to cut a <a href="/wiki/Pumpkin" title="Pumpkin">pumpkin</a> from <a href="/wiki/Rubeus_Hagrid" title="Rubeus Hagrid">Rubeus Hagrid</a>'s <a href="/wiki/Rubeus_Hagrid%27s_pumpkin_patch" title="Rubeus Hagrid&#39;s pumpkin patch">patch</a> in two.<sup id="cite_ref-POAF_1-3" class="reference"><a href="#cite_note-POAF-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Unidentified_crow?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Unidentified_crow?action=edit&amp;section=1" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>This crow was portrayed by <a href="/wiki/Cheyenne" title="Cheyenne">Cheyenne</a>.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Unidentified_crow?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Unidentified_crow?action=edit&amp;section=2" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(film)" title="Harry Potter and the Prisoner of Azkaban (film)">Harry Potter and the Prisoner of Azkaban (film)</a></i> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Unidentified_crow?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Unidentified_crow?action=edit&amp;section=3" title="Edit section: Notes and references

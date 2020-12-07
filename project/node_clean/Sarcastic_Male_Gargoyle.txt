@@ -1,0 +1,78 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-object pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/2/24/Sarcastic_Male_Gargoyle.jpg/revision/latest?cb=20091002044238" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/2/24/Sarcastic_Male_Gargoyle.jpg/revision/latest/scale-to-width-down/350?cb=20091002044238" srcset="https://static.wikia.nocookie.net/harrypotter/images/2/24/Sarcastic_Male_Gargoyle.jpg/revision/latest/scale-to-width-down/350?cb=20091002044238 1x, https://static.wikia.nocookie.net/harrypotter/images/2/24/Sarcastic_Male_Gargoyle.jpg/revision/latest/scale-to-width-down/700?cb=20091002044238 2x" class="pi-image-thumbnail" alt="" width="270" height="360"
+		     data-image-key="Sarcastic_Male_Gargoyle.jpg" data-image-name="Sarcastic Male Gargoyle.jpg"/>
+		
+	</a>
+	
+</figure>
+
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Sarcastic Male Gargoyle</h2>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Object information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="usage">
+	
+		<h3 class="pi-data-label pi-secondary-font">Usage</h3>
+	
+	<div class="pi-data-value pi-font">Speaking, architecture<sup id="cite_ref-OOTPG_1-0" class="reference"><a href="#cite_note-OOTPG-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="owners">
+	
+		<h3 class="pi-data-label pi-secondary-font">Owners</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a><sup id="cite_ref-OOTPG_1-1" class="reference"><a href="#cite_note-OOTPG-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Object_infobox" title="Template:Object infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Order of the Phoenix (video game)"><b>Harry</b>: "<i>Hi, er, we're looking for talking Gargoyles? Can you, er, talk?</i>"</span></dd>
+<dd><b>Gargoyle</b>: "<i>Yes.</i>"</dd>
+<dd><b>Harry</b>: "<i>Great.</i>"</dd>
+<dd><b>Gargoyle</b>: "<i>Glad you think so.</i>"</dd>
+<dd><b>Hermione</b>: "<i>Can I ask you a question? Are you happy with your position in life?</i>"</dd>
+<dd><b>Gargoyle</b>: "<i>No, I'm not. I'd much rather be south-facing.</i>"</dd>
+<dd><b>Harry</b>: "<i>Let's go.</i>"</dd>
+<dd><b>Hermione</b>: "<i>Maybe I should talk to someone, see about getting him moved.</i>"</dd>
+<dd><b>Ron</b>: "<i>Yeah, we could stick him in <a href="/wiki/Dolores_Umbridge" title="Dolores Umbridge">Umbridge's</a> office. That'd serve her right. Might be a bit cruel to the gargoyle though...</i>"</dd>
+<dd>&#8212; Finding one of the five talking gargoyles.<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(video_game)" title="Harry Potter and the Order of the Phoenix (video game)">[src]</a></sup></dd></dl>
+</div>
+<p>The <b>Sarcastic Male Gargoyle</b> was one of the talking <a href="/wiki/Gargoyle" title="Gargoyle">gargoyles</a> in <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a>.<sup id="cite_ref-OOTPG_1-2" class="reference"><a href="#cite_note-OOTPG-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Behind_the_scenes"><span class="tocnumber">2</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Appearances"><span class="tocnumber">3</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Notes_and_references"><span class="tocnumber">4</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Sarcastic_Male_Gargoyle?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: History">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Sarcastic_Male_Gargoyle?action=edit&amp;section=1" title="Edit section: History"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>It was located in the <a href="/wiki/The_Quad" title="The Quad">Paved Courtyard</a> of <a href="/wiki/Hogwarts_Castle" title="Hogwarts Castle">the castle</a>. It tended to be a bit sardonic with anyone who talks to it.<sup id="cite_ref-OOTPG_1-3" class="reference"><a href="#cite_note-OOTPG-1">&#91;1&#93;</a></sup>
+</p><p>During the <a href="/wiki/1995%E2%80%931996_school_year" title="1995–1996 school year">1995–1996 school year</a>, <a href="/wiki/Cuthbert_Binns" title="Cuthbert Binns">Professor Binns</a> assigned his <a href="/wiki/Fifth_year" title="Fifth year">Fifth year</a> students the task of listing five talking gargoyles as a homework assignment. <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> located the gargoyles as a favour to <a href="/wiki/Dean_Thomas" title="Dean Thomas">Dean Thomas</a> so that he could attend the first meeting of <a href="/wiki/Dumbledore%27s_Army" title="Dumbledore&#39;s Army">Dumbledore's Army</a> in the <a href="/wiki/Room_of_Requirement" title="Room of Requirement">Room of Requirement</a>.<sup id="cite_ref-OOTPG_1-4" class="reference"><a href="#cite_note-OOTPG-1">&#91;1&#93;</a></sup>
+</p><p>Like the others, casting the <a href="/wiki/Fire-Making_Spell" title="Fire-Making Spell">Fire-Making Spell</a> on the gargoyle would cause it to breathe <a href="/wiki/Fire" title="Fire">fire</a>.<sup id="cite_ref-OOTPG_1-5" class="reference"><a href="#cite_note-OOTPG-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Sarcastic_Male_Gargoyle?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Sarcastic_Male_Gargoyle?action=edit&amp;section=2" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>The gargoyle was voiced by <a href="/wiki/Dominic_Coleman" title="Dominic Coleman">Dominic Coleman</a> in the <a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(video_game)" title="Harry Potter and the Order of the Phoenix (video game)">video game adaptation</a> of <i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">Harry Potter and the Order of the Phoenix</a></i>.</li>
+<li>The gargoyle's name was identified during the game's credits.</li>
+<li>Other conversations with the gargoyle:</li></ul>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Order of the Phoenix (video game)">"<i>I don't really have time for chit-chat right now.</i>"</span></dd>
+<dd>&#8212;Conversation 1<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(video_game)" title="Harry Potter and the Order of the Phoenix (video game)">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Order of the Phoenix (video game)">"<i>Oh good. I'm really glad you decided to talk to me. That's really improved my day.</i>"</span></dd>
+<dd>&#8212;Conversation 2<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(video_game)" title="Harry Potter and the Order of the Phoenix (video game)">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Sarcastic_Male_Gargoyle?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Sarcastic_Male_Gargoyle?action=edit&amp;section=3" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(video_game)" title="Harry Potter and the Order of the Phoenix (video game)">Harry Potter and the Order of the Phoenix (video game)</a></i> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Sarcastic_Male_Gargoyle?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Sarcastic_Male_Gargoyle?action=edit&amp;section=4" title="Edit section: Notes and references

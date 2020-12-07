@@ -1,0 +1,79 @@
+<div class="mw-parser-output"><table class="notice metadata" id="spoiler" style="text-align: center; background: beige; margin: 1em 05%; padding: 0 1em; border: #a00 1px solid;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/0/0c/Hand_pointing_right_transparent.png/revision/latest?cb=20181112005815" class="image"><img alt="Hand pointing right transparent.png" src="https://static.wikia.nocookie.net/harrypotter/images/0/0c/Hand_pointing_right_transparent.png/revision/latest/scale-to-width-down/150?cb=20181112005815" decoding="async" width="150" height="75" data-image-name="Hand pointing right transparent.png" data-image-key="Hand_pointing_right_transparent.png" /></a>
+</td>
+<td><b>Warning!</b>
+<p>At least some content in this article is derived from information featured in <i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i>&#32; and <i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i>.<br />As such, spoilers will be present within the article.
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-object pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/a/a5/Mechanical_Death_Eater.png/revision/latest?cb=20170923215010" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/a/a5/Mechanical_Death_Eater.png/revision/latest/scale-to-width-down/350?cb=20170923215010" srcset="https://static.wikia.nocookie.net/harrypotter/images/a/a5/Mechanical_Death_Eater.png/revision/latest/scale-to-width-down/350?cb=20170923215010 1x, https://static.wikia.nocookie.net/harrypotter/images/a/a5/Mechanical_Death_Eater.png/revision/latest/scale-to-width-down/699?cb=20170923215010 2x" class="pi-image-thumbnail" alt="" width="270" height="379"
+		     data-image-key="Mechanical_Death_Eater.png" data-image-name="Mechanical Death Eater.png"/>
+		
+	</a>
+	
+</figure>
+
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Mechanical Death Eater</h2>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Object information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="made">
+	
+		<h3 class="pi-data-label pi-secondary-font">Made</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/1986" title="1986">1986</a> or earlier<sup id="cite_ref-HM_1-0" class="reference"><a href="#cite_note-HM-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="usage">
+	
+		<h3 class="pi-data-label pi-secondary-font">Usage</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Defence_Against_the_Dark_Arts" title="Defence Against the Dark Arts">Defence Against the Dark Arts</a><sup id="cite_ref-OOTPF_2-0" class="reference"><a href="#cite_note-OOTPF-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="owners">
+	
+		<h3 class="pi-data-label pi-secondary-font">Owners</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a><sup id="cite_ref-OOTPF_2-1" class="reference"><a href="#cite_note-OOTPF-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Object_infobox" title="Template:Object infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+A <b>mechanical <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eater</a></b><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> was piece of <a href="/wiki/Magic" title="Magic">magical</a> machinery designed for the purpose of <a href="/wiki/Defence_Against_the_Dark_Arts" title="Defence Against the Dark Arts">Defence Against the Dark Arts</a>, carrying both the likeness of a follower of the <a href="/wiki/Dark_Wizard" title="Dark Wizard">Dark Lord</a> and <a href="/wiki/Charm" title="Charm">bewitched</a> to move and roll around on its own accord, it was an excellent target for those who sought to improve their <a href="/wiki/Spell" title="Spell">spell</a>-casting.<sup id="cite_ref-OOTPF_2-2" class="reference"><a href="#cite_note-OOTPF-2">&#91;2&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Behind_the_scenes"><span class="tocnumber">2</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Appearances"><span class="tocnumber">3</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Notes_and_references"><span class="tocnumber">4</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mechanical_Death_Eater?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: History">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mechanical_Death_Eater?action=edit&amp;section=1" title="Edit section: History"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tright show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/5/55/Mechanical_Death_Eater_2.jpg/revision/latest?cb=20171202140435" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/5/55/Mechanical_Death_Eater_2.jpg/revision/latest/scale-to-width-down/180?cb=20171202140435" decoding="async" width="180" height="182" class="thumbimage" data-image-name="Mechanical Death Eater 2.jpg" data-image-key="Mechanical_Death_Eater_2.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Mechanical_Death_Eater_2.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">A Mechanical Death Eater for defensive spell practice</p> 		 	</figcaption> </figure>
+<p>By the mid-<a href="/wiki/1980s" title="1980s">1980s</a>, several of these dummies had been placed at the <a href="/wiki/Training_Grounds" title="Training Grounds">Training Grounds</a> of <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a>, on which several students, including as <a href="/wiki/William_Weasley" title="William Weasley">Bill Weasley</a>, practised their defensive spellwork. These dummies had a <a href="/wiki/Wand" title="Wand">wand</a> so it was able to act as a real <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eater</a> would, and they could also be <a href="/wiki/Disarming_Charm" title="Disarming Charm">disarmed</a>.<sup id="cite_ref-HM_1-1" class="reference"><a href="#cite_note-HM-1">&#91;1&#93;</a></sup>
+</p><p>By the mid-<a href="/wiki/1990s" title="1990s">1990s</a>, one such contraption had been placed inside the <a href="/wiki/Room_of_Requirement" title="Room of Requirement">Room of Requirement</a>, and was provided the group calling themselves for the <a href="/wiki/Dumbledore%27s_Army" title="Dumbledore&#39;s Army">Dumbledore's Army</a> by the room's enchantments among an assortment of stored books and objects that would, during the <a href="/wiki/1995%E2%80%931996_school_year" title="1995–1996 school year">1995–1996 school year</a>, provide them with tools necessary to train themselves in Defence Against the Dark Arts in preparation for the forthcoming <a href="/wiki/Second_Wizarding_War" title="Second Wizarding War">Second Wizarding War</a> in a time when the Ministry of Magic were still denying the return of Lord Voldemort. The dummy in question was subsequently used by the aforementioned student organisation to practise their spells inside . The dummy was used as a target while the group trained with such spells as <i><a href="/wiki/Diminuendo" title="Diminuendo">Diminuendo</a></i>, <i><a href="/wiki/Disarming_Charm" title="Disarming Charm">Expelliarmus</a></i>, <i><a href="/wiki/Stunning_Spell" title="Stunning Spell">Stupefy</a></i>, and <i><a href="/wiki/Reductor_Curse" title="Reductor Curse">Reducto</a></i>.<sup id="cite_ref-OOTPF_2-3" class="reference"><a href="#cite_note-OOTPF-2">&#91;2&#93;</a></sup>
+</p><p>During the <a href="/wiki/Calamity" title="Calamity">Calamity</a> which affected the <a href="/wiki/Wizarding_world" title="Wizarding world">wizarding world</a> in the <a href="/wiki/2010s" title="2010s">2010s</a>, <a href="/wiki/Troll" title="Troll">Troll</a> <a href="/wiki/Confoundable" title="Confoundable">Confoundables</a> guarded these dummies as <a href="/wiki/Foundable" title="Foundable">Foundables</a>, for which members of the <a href="/wiki/Statute_of_Secrecy_Task_Force" title="Statute of Secrecy Task Force">Statute of Secrecy Task Force</a> could overpower with the <a href="/wiki/Exploding_Charm" title="Exploding Charm">Exploding Charm</a>.<sup id="cite_ref-WU_4-0" class="reference"><a href="#cite_note-WU-4">&#91;4&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mechanical_Death_Eater?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mechanical_Death_Eater?action=edit&amp;section=2" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tright show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/3/3e/Dumbledore%27s_Army_Duelling_Dummy_WU.png/revision/latest?cb=20200716132014" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/3/3e/Dumbledore%27s_Army_Duelling_Dummy_WU.png/revision/latest/scale-to-width-down/180?cb=20200716132014" decoding="async" width="180" height="180" class="thumbimage" data-image-name="Dumbledore&#39;s Army Duelling Dummy WU.png" data-image-key="Dumbledore&#39;s_Army_Duelling_Dummy_WU.png" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Dumbledore%27s_Army_Duelling_Dummy_WU.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">A Mechanical Death Eater as seen in <i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i></p> 		 	</figcaption> </figure>
+<ul><li>In <i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(video_game)" title="Harry Potter and the Order of the Phoenix (video game)">Harry Potter and the Order of the Phoenix (video game)</a></i> and <i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i>, multiples of these dummies were used at a time during spell practise, as opposed to just the one in the <a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(film)" title="Harry Potter and the Order of the Phoenix (film)">film adaptation</a> of <i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">Harry Potter and the Order of the Phoenix</a></i>.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mechanical_Death_Eater?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mechanical_Death_Eater?action=edit&amp;section=3" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(film)" title="Harry Potter and the Order of the Phoenix (film)">Harry Potter and the Order of the Phoenix (film)</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(video_game)" title="Harry Potter and the Order of the Phoenix (video game)">Harry Potter and the Order of the Phoenix (video game)</a></i></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter:_Characters_of_the_Magical_World" title="LEGO Harry Potter: Characters of the Magical World">LEGO Harry Potter: Characters of the Magical World</a></i></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter:_Years_5-7" title="LEGO Harry Potter: Years 5-7">LEGO Harry Potter: Years 5-7</a></i></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter" title="LEGO Harry Potter">LEGO Harry Potter</a></i></li>
+<li><i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i></li>
+<li><i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mechanical_Death_Eater?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mechanical_Death_Eater?action=edit&amp;section=4" title="Edit section: Notes and references

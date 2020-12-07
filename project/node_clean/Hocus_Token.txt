@@ -1,0 +1,32 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-object pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/5/54/Hocus_Tokens.JPG/revision/latest?cb=20131227190551" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/5/54/Hocus_Tokens.JPG/revision/latest/scale-to-width-down/350?cb=20131227190551" srcset="https://static.wikia.nocookie.net/harrypotter/images/5/54/Hocus_Tokens.JPG/revision/latest/scale-to-width-down/350?cb=20131227190551 1x, https://static.wikia.nocookie.net/harrypotter/images/5/54/Hocus_Tokens.JPG/revision/latest/scale-to-width-down/700?cb=20131227190551 2x" class="pi-image-thumbnail" alt="" width="270" height="147"
+		     data-image-key="Hocus_Tokens.JPG" data-image-name="Hocus Tokens.JPG"/>
+		
+	</a>
+	
+</figure>
+
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Hocus Token</h2>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Object information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="usage">
+	
+		<h3 class="pi-data-label pi-secondary-font">Usage</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/The_Daily_Prophet_Competition" title="The Daily Prophet Competition">Daily Prophet Competition</a> tokens</div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Object_infobox" title="Template:Object infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Hocus Tokens</b> are small pullout cards that come with the <i><a href="/wiki/Daily_Prophet" title="Daily Prophet">Daily Prophet</a></i>. They are used for <a href="/wiki/The_Daily_Prophet_Competition" title="The Daily Prophet Competition">The Daily Prophet Competition</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup><sup id="cite_ref-LeakyCon2013_2-0" class="reference"><a href="#cite_note-LeakyCon2013-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Hocus_Token?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Hocus_Token?action=edit&amp;section=1" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(film)" title="Harry Potter and the Order of the Phoenix (film)">Harry Potter and the Order of the Phoenix (film)</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Hocus_Token?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Hocus_Token?action=edit&amp;section=2" title="Edit section: Notes and references

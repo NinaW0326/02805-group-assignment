@@ -1,0 +1,208 @@
+<div class="mw-parser-output"><table class="notice metadata" id="spoiler" style="text-align: center; background: beige; margin: 1em 05%; padding: 0 1em; border: #a00 1px solid;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/8/8c/Hogwarts_Mystery.jpeg/revision/latest?cb=20180504083359" class="image"><img alt="Hogwarts Mystery.jpeg" src="https://static.wikia.nocookie.net/harrypotter/images/8/8c/Hogwarts_Mystery.jpeg/revision/latest/scale-to-width-down/175?cb=20180504083359" decoding="async" width="175" height="77" data-image-name="Hogwarts Mystery.jpeg" data-image-key="Hogwarts_Mystery.jpeg" /></a>
+</td>
+<td><b>Warning!</b>
+<p>At least some content in this article is derived from information featured in <i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i>. Spoilers will be present within the article.
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-ravenclaw pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/d/dc/Talbott_Winger.png/revision/latest?cb=20200402230643" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/d/dc/Talbott_Winger.png/revision/latest/scale-to-width-down/350?cb=20200402230643" srcset="https://static.wikia.nocookie.net/harrypotter/images/d/dc/Talbott_Winger.png/revision/latest/scale-to-width-down/350?cb=20200402230643 1x, https://static.wikia.nocookie.net/harrypotter/images/d/dc/Talbott_Winger.png/revision/latest/scale-to-width-down/700?cb=20200402230643 2x" class="pi-image-thumbnail" alt="" width="270" height="377"
+		     data-image-key="Talbott_Winger.png" data-image-name="Talbott Winger.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Talbott Winger</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">Between <a href="/wiki/1_September" title="1 September">1 September</a> <a href="/wiki/1972" title="1972">1972</a> and <a href="/wiki/31_August" title="31 August">31 August</a> <a href="/wiki/1973" title="1973">1973</a><sup id="cite_ref-age_1-0" class="reference"><a href="#cite_note-age-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Pure-blood" title="Pure-blood">Pure-blood</a> or <a href="/wiki/Half-blood" title="Half-blood">Half-blood</a><sup id="cite_ref-blood_2-0" class="reference"><a href="#cite_note-blood-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a> or <a href="/wiki/Ireland" title="Ireland">Irish</a><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-appearance_4-0" class="reference"><a href="#cite_note-appearance-4">&#91;4&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male<sup id="cite_ref-appearance_4-1" class="reference"><a href="#cite_note-appearance-4">&#91;4&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Brown<sup id="cite_ref-appearance_4-2" class="reference"><a href="#cite_note-appearance-4">&#91;4&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Brown<sup id="cite_ref-appearance_4-3" class="reference"><a href="#cite_note-appearance-4">&#91;4&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Dark<sup id="cite_ref-appearance_4-4" class="reference"><a href="#cite_note-appearance-4">&#91;4&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Talbott_Winger%27s_father" title="Talbott Winger&#039;s father">Father</a> †</li><li><a href="/wiki/Talbott_Winger%27s_mother" title="Talbott Winger&#039;s mother">Mother</a> †</li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Magical characteristics</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="animagus">
+	
+		<h3 class="pi-data-label pi-secondary-font">Animagus</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Eagle" title="Eagle">Eagle</a><sup id="cite_ref-Animagus_5-0" class="reference"><a href="#cite_note-Animagus-5">&#91;5&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="house">
+	
+		<h3 class="pi-data-label pi-secondary-font">House</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Ravenclaw" title="Ravenclaw">Ravenclaw</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Winger_family" title="Winger family">Winger family</a></li><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a><ul><li><a href="/wiki/Ravenclaw" title="Ravenclaw">Ravenclaw</a></li><li><a href="/wiki/Sphinx_Club" title="Sphinx Club">Sphinx Club</a><sup id="cite_ref-Promo_6-0" class="reference"><a href="#cite_note-Promo-6">&#91;6&#93;</a></sup></li></ul></li><li><a href="/wiki/Circle_of_Khanna" title="Circle of Khanna">Circle of Khanna</a><sup id="cite_ref-HM620_7-0" class="reference"><a href="#cite_note-HM620-7">&#91;7&#93;</a></sup></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Talbott Winger</b> was a <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> who attended <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> in <a href="/wiki/1984" title="1984">1984</a> and was sorted into <a href="/wiki/Ravenclaw" title="Ravenclaw">Ravenclaw</a> house. He was also an <a href="/wiki/Animagus" title="Animagus">Animagus</a> and took the form of an <a href="/wiki/Eagle" title="Eagle">Eagle</a>. At some point in the <a href="/wiki/1970s" title="1970s">1970s</a> or early <a href="/wiki/1980s" title="1980s">1980s</a>, his parents were murdered by <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_life_.281970s-1983.29"><span class="tocnumber">1.1</span> <span class="toctext">Early life <span>(1970s-1983)</span></span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Hogwarts_years_.281984.E2.80.93.29"><span class="tocnumber">1.2</span> <span class="toctext">Hogwarts years <span>(1984–)</span></span></a>
+<ul>
+<li class="toclevel-3 tocsection-4"><a href="#Early_years"><span class="tocnumber">1.2.1</span> <span class="toctext">Early years</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#Third_year"><span class="tocnumber">1.2.2</span> <span class="toctext">Third year</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Fourth_year"><span class="tocnumber">1.2.3</span> <span class="toctext">Fourth year</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#Fifth_year"><span class="tocnumber">1.2.4</span> <span class="toctext">Fifth year</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="#Sixth_year"><span class="tocnumber">1.2.5</span> <span class="toctext">Sixth year</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Physical_appearance"><span class="tocnumber">2</span> <span class="toctext">Physical appearance</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Personality_and_traits"><span class="tocnumber">3</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Magical_abilities_and_skills"><span class="tocnumber">4</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Behind_the_scenes"><span class="tocnumber">5</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Appearances"><span class="tocnumber">6</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Notes_and_references"><span class="tocnumber">7</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Talbott_Winger?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Talbott_Winger?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="Early_life_(1970s-1983)"></span><span class="mw-headline" id="Early_life_.281970s-1983.29">Early life <span class="template-c">(1970s-1983)</span></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Talbott_Winger?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Early life (1970s-1983)">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Talbott_Winger?action=edit&amp;section=2" title="Edit section: Early life (1970s-1983)"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Talbott was born at some point in <a href="/wiki/1972" title="1972">1972</a> or <a href="/wiki/1973" title="1973">1973</a>.<sup id="cite_ref-age_1-1" class="reference"><a href="#cite_note-age-1">&#91;1&#93;</a></sup> His mother taught him how to become an <a href="/wiki/Animagus" title="Animagus">Animagus</a>, taking the form of an <a href="/wiki/Eagle" title="Eagle">eagle</a>. During the <a href="/wiki/First_Wizarding_War" title="First Wizarding War">First Wizarding War</a>, his parents tried to help in the war efforts against <a href="/wiki/Tom_Riddle" title="Tom Riddle">Lord Voldemort</a> and his <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a>.<sup id="cite_ref-backstory_8-0" class="reference"><a href="#cite_note-backstory-8">&#91;8&#93;</a></sup>
+</p><p>In response, the Dark Lord's Death Eaters attacked their home, a conflict during which both of his parents were murdered while Talbott himself successfully escaped with his life thanks to his Animagus ability.<sup id="cite_ref-Animagus_5-1" class="reference"><a href="#cite_note-Animagus-5">&#91;5&#93;</a></sup>
+</p>
+<h3><span id="Hogwarts_years_(1984–)"></span><span class="mw-headline" id="Hogwarts_years_.281984.E2.80.93.29">Hogwarts years <span class="template-c">(1984–)</span></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Talbott_Winger?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Hogwarts years (1984–)">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Talbott_Winger?action=edit&amp;section=3" title="Edit section: Hogwarts years (1984–)"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Early_years">Early years</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Talbott_Winger?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Early years">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Talbott_Winger?action=edit&amp;section=4" title="Edit section: Early years"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Talbott started attending <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> on <a href="/wiki/1_September" title="1 September">1 September</a> <a href="/wiki/1984" title="1984">1984</a><sup id="cite_ref-age_1-2" class="reference"><a href="#cite_note-age-1">&#91;1&#93;</a></sup> and was <a href="/wiki/Sorting_ceremony" title="Sorting ceremony">sorted</a> into <a href="/wiki/Ravenclaw" title="Ravenclaw">Ravenclaw</a> and excelled in <a href="/wiki/Transfiguration_(class)" title="Transfiguration (class)">Transfiguration</a>. He also helped <a href="/wiki/Care_of_Magical_Creatures" title="Care of Magical Creatures">Care of Magical Creatures</a> Professor <a href="/wiki/Silvanus_Kettleburn" title="Silvanus Kettleburn">Silvanus Kettleburn</a> tame a <a href="/wiki/Hippogriff" title="Hippogriff">Hippogriff</a> once, a feat also achieved by <a href="/wiki/Jacob%27s_sibling" title="Jacob&#39;s sibling">Jacob's sibling</a> in their <a href="/wiki/Fourth_year" title="Fourth year">fourth year</a>.<sup id="cite_ref-Animagus_5-2" class="reference"><a href="#cite_note-Animagus-5">&#91;5&#93;</a></sup>
+</p><p>In or prior to the <a href="/wiki/1986%E2%80%931987_school_year" title="1986–1987 school year">1986–1987 school year</a>, he admitted the truth to <a href="/wiki/Minerva_McGonagall" title="Minerva McGonagall">Minerva McGonagall</a>. While she understood his initial reasons for keeping it secret perfectly (namely the fear that if he registered, the Death Eaters might learn of it and come after him), she nevertheless sternly instructed him to abide by the law that all Animagi had to register with the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">British Ministry of Magic</a>, to which he half-heartedly agreed.<sup id="cite_ref-backstory_8-1" class="reference"><a href="#cite_note-backstory-8">&#91;8&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="Third_year">Third year</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Talbott_Winger?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Third year">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Talbott_Winger?action=edit&amp;section=5" title="Edit section: Third year"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>During his <a href="/wiki/Third_year" title="Third year">third year</a>, Talbott took <a href="/wiki/Divination_(class)" title="Divination (class)">Divination</a> as an elective.<sup id="cite_ref-Y6ch2_9-0" class="reference"><a href="#cite_note-Y6ch2-9">&#91;9&#93;</a></sup>
+</p><p>He helped <a href="/wiki/Jacob%27s_sibling" title="Jacob&#39;s sibling">Jacob's sibling</a> become an <a href="/wiki/Animagus" title="Animagus">Animagus</a> at the beginning of this year.<sup id="cite_ref-Animagus_5-3" class="reference"><a href="#cite_note-Animagus-5">&#91;5&#93;</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> Around the anniversary of his parents' murder, he lost <a href="/wiki/Talbott_Winger%27s_swan_necklace" title="Talbott Winger&#39;s swan necklace">his necklace</a>, whose feather had been extracted from <a href="/wiki/Talbott_Winger%27s_mother" title="Talbott Winger&#39;s mother">his mother</a>'s Animagus form, a <a href="/wiki/White_Swan" title="White Swan">white swan</a>. This made him extremely upset and he became more isolated than ever. Upon learning about this from <a href="/wiki/Penny_Haywood" title="Penny Haywood">Penny Haywood</a>, Jacob's sibling helped him find the necklace. They made use of their advantage of transforming into animals and eventually decided it was in <a href="/wiki/Argus_Filch" title="Argus Filch">Filch</a>'s office or being played with by <a href="/wiki/Mrs_Norris" title="Mrs Norris">Mrs Norris</a>. They saw Mrs Norris with the necklace, and Jacob's sibling transformed into their Animagus form to distract her while Talbott retrieved the necklace. Talbott befriended Jacob's sibling after this experience.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="Fourth_year">Fourth year</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Talbott_Winger?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Fourth year">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Talbott_Winger?action=edit&amp;section=6" title="Edit section: Fourth year"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>At some point, someone told him <a href="/wiki/Garrick_Ollivander" title="Garrick Ollivander">Garrick Ollivander</a> owned a <a href="/wiki/Garrick_Ollivander%27s_peacock" title="Garrick Ollivander&#39;s peacock">peacock</a>. He later told <a href="/wiki/Jacob%27s_sibling" title="Jacob&#39;s sibling">Jacob's sibling</a> about this in the <a href="/wiki/Hogwarts_Library" title="Hogwarts Library">Hogwarts Library</a>.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup>
+</p><p>Later during the same school year, when Jacob's sibling went into the <a href="/wiki/Great_Hall" title="Great Hall">Great Hall</a> to discuss <a href="/wiki/Potions_(class)" title="Potions (class)">Potions</a> with their friend <a href="/wiki/Penny_Haywood" title="Penny Haywood">Penny Haywood</a>, the best in their year at that subject, he was seated at his house table, where he cryptically warned them that he thought "<i>there</i> [was] <i>a storm coming</i>...", suggesting he might have known something more about the events going on at the school than the average student.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="Fifth_year">Fifth year</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Talbott_Winger?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Fifth year">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Talbott_Winger?action=edit&amp;section=7" title="Edit section: Fifth year"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In his <a href="/wiki/Fifth_year" title="Fifth year">fifth year</a>, Talbott came to talk to the <a href="/wiki/Helena_Ravenclaw" title="Helena Ravenclaw">Grey Lady</a> alongside Jacob's sibling and their other Ravenclaw friends <a href="/wiki/Tulip_Karasu" title="Tulip Karasu">Tulip Karasu</a> and <a href="/wiki/Andre_Egwu" title="Andre Egwu">Andre Egwu</a>.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>
+</p><p>Around <a href="/wiki/Valentine%27s_Day" title="Valentine&#39;s Day">Valentine's Day</a>, Talbott was one of the six students chosen by <a href="/wiki/Gilderoy_Lockhart" title="Gilderoy Lockhart">Gilderoy Lockhart</a> as a part of the <i><a href="/wiki/Voyages,_Vampires,_and_Valentines!" title="Voyages, Vampires, and Valentines!">Voyages, Vampires, and Valentines!</a></i> event, seemingly at random. Talbott was given the task to find doves. As he was searching for them in the <a href="/wiki/Clock_Tower_Courtyard" title="Clock Tower Courtyard">Clock Tower Courtyard</a>, Jacob's sibling came to see how he was doing. The two searched for doves together but were unable to find any. After giving up on the search, Talbott told the other student that he was suspicious of Lockhart's true intentions, and that he suspected Lockhart knew he was an Animagus. Talbott also confessed to Jacob's sibling that he wanted them to be his Valentine. He later attended the event with the other students, wearing a pink outfit designed by <a href="/wiki/Andre_Egwu" title="Andre Egwu">Andre Egwu</a>. During the event, Lockhart cast a <a href="/wiki/Memory_Charm" title="Memory Charm">Memory Charm</a> in hesitation, causing him and the other students to lose some of their recent memories.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup>
+</p><p>Near the end of the school year, Talbott was in the <a href="/wiki/Great_Hall" title="Great Hall">Great Hall</a> when it was almost time for him and the other fifth years to take their <a href="/wiki/Ordinary_Wizarding_Level" title="Ordinary Wizarding Level">O.W.L.s</a>, at which time he admitted to being anxious about getting a good score on his exams, as he harboured aspirations of becoming an <a href="/wiki/Auror" title="Auror">Auror</a>.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="Sixth_year">Sixth year</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Talbott_Winger?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Sixth year">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Talbott_Winger?action=edit&amp;section=8" title="Edit section: Sixth year"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Talbott Winger continued taking Divination classes in his sixth year.<sup id="cite_ref-Y6ch2_9-1" class="reference"><a href="#cite_note-Y6ch2-9">&#91;9&#93;</a></sup>
+</p><p>Following the murder of <a href="/wiki/Rowan_Khanna" title="Rowan Khanna">Rowan Khanna</a> at the hands of <a href="/wiki/Patricia_Rakepick" title="Patricia Rakepick">Patricia Rakepick</a> in the <a href="/wiki/Forbidden_Forest" title="Forbidden Forest">Forbidden Forest</a>, Talbott became a member of the student organisation the <a href="/wiki/Circle_of_Khanna" title="Circle of Khanna">Circle of Khanna</a>, in memory of the deceased student.<sup id="cite_ref-HM620_7-1" class="reference"><a href="#cite_note-HM620-7">&#91;7&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Physical_appearance">Physical appearance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Talbott_Winger?veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Edit section: Physical appearance">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Talbott_Winger?action=edit&amp;section=9" title="Edit section: Physical appearance"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tright show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/9/98/Talbott_Winger_-_HM.png/revision/latest?cb=20180830224809" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/9/98/Talbott_Winger_-_HM.png/revision/latest/scale-to-width-down/180?cb=20180830224809" decoding="async" width="180" height="201" class="thumbimage" data-image-name="Talbott Winger - HM.png" data-image-key="Talbott_Winger_-_HM.png" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Talbott_Winger_-_HM.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Talbott's appearance</p> 		 	</figcaption> </figure>
+<p>In his <a href="/wiki/Human" title="Human">human</a> form, Talbott had dark brown straight hair, dark skin and brown eyes.<sup id="cite_ref-appearance_4-5" class="reference"><a href="#cite_note-appearance-4">&#91;4&#93;</a></sup> In his <a href="/wiki/Animagus" title="Animagus">Animagus</a> form, he took the form of a brown <a href="/wiki/Eagle" title="Eagle">Eagle</a>.<sup id="cite_ref-Animagus_5-4" class="reference"><a href="#cite_note-Animagus-5">&#91;5&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Talbott_Winger?veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Edit section: Personality and traits">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Talbott_Winger?action=edit&amp;section=10" title="Edit section: Personality and traits"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Talbott was a remarkably skilled and intelligent young wizard, who possessed many traits of <a href="/wiki/Ravenclaw" title="Ravenclaw">Ravenclaws</a>, in particular intelligence and individuality. He was known to be an extreme introvert and a loner, and before befriending Jacob's sibling, his only friends were <a href="/wiki/Penny_Haywood" title="Penny Haywood">Penny</a>, <a href="/wiki/Nymphadora_Tonks" title="Nymphadora Tonks">Tonks</a>, and despite being the Head of <a href="/wiki/Gryffindor" title="Gryffindor">Gryffindor House</a>: <a href="/wiki/Minerva_McGonagall" title="Minerva McGonagall">Professor McGonagall</a>, due to her being a fellow <a href="/wiki/Animagus" title="Animagus">Animagus</a> (<a href="/wiki/Cat" title="Cat">cat</a>) and her previous work in the <a href="/wiki/Ministry_of_Magic" title="Ministry of Magic">Ministry of Magic</a>. Talbott Winger was academically minded, and was very passionate about his school work, as he wished to become an <a href="/wiki/Auror" title="Auror">Auror</a>, showing him to have been very ambitious in his life goals. He was also rather perceptive and intuitive, as shown when he warned Jacob's sibling about bad things that were going on, implying he knew much more about the dark happenings that were going on during his school time than the average student did. Due to his reserved personality, Talbot often talked to himself, and also possessed a rather unique gift for forging handwriting. He was also shown to be sarcastic and witty, as seen in his interactions with Jacob's sibling.
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Talbott_Winger?veaction=edit&amp;section=11" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Talbott_Winger?action=edit&amp;section=11" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tright show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/a/a3/Talbott_Winger_Animagus.jpg/revision/latest?cb=20200428085427" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/a/a3/Talbott_Winger_Animagus.jpg/revision/latest/scale-to-width-down/180?cb=20200428085427" decoding="async" width="180" height="201" class="thumbimage" data-image-name="Talbott Winger Animagus.jpg" data-image-key="Talbott_Winger_Animagus.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Talbott_Winger_Animagus.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Talbott Winger in his <a href="/wiki/Animagus" title="Animagus">Animagus</a> form</p> 		 	</figcaption> </figure>
+<ul><li><b><a href="/wiki/Transfiguration" title="Transfiguration">Transfiguration</a></b>: Talbott was remarkably skilful in <a href="/wiki/Human_Transfiguration" title="Human Transfiguration">Human Transfiguration</a> that he was able to become an Animagus. He was also a high academic achiever in <a href="/wiki/Transfiguration_(class)" title="Transfiguration (class)">Transfiguration class</a>, showing his proficiency in this highly complex, <a href="/wiki/Science" title="Science">scientific</a> and even dangerous branch of <a href="/wiki/Magic" title="Magic">magic</a>.<sup id="cite_ref-Animagus_5-5" class="reference"><a href="#cite_note-Animagus-5">&#91;5&#93;</a></sup></li>
+<li><b><a href="/wiki/Herbology" title="Herbology">Herbology</a></b>: He was also known to be talented in this subject at school, given he worked in the family garden helping his mother, handling both magical and mundane plants, who was a <a href="/wiki/Healer" title="Healer">Healer</a>.</li>
+<li><b><a href="/wiki/Care_of_Magical_Creatures" title="Care of Magical Creatures">Care of Magical Creatures</a></b>: Talbott was shown to be interested and skilled in <a href="/wiki/Magizoology" title="Magizoology">Magizoology</a>, as he, like <a href="/wiki/Jacob%27s_sibling" title="Jacob&#39;s sibling">Jacob's sibling</a>, had both successfully tamed a <a href="/wiki/Hippogriff" title="Hippogriff">Hippogriff</a>. This was an impressive feat indeed, given how Hippogriffs are rather difficult <a href="/wiki/Beast" title="Beast">beasts</a> to handle and tame.</li>
+<li><b><a href="/wiki/Charm" title="Charm">Charms</a></b>: Talbott appeared to be gifted with charm-work, as he was capable of casting the rather advanced <a href="/wiki/Human-presence-revealing_Spell" title="Human-presence-revealing Spell">Human-presence-revealing Spell</a>.</li>
+<li><b><a href="/wiki/Divination" title="Divination">Divination</a></b>: Talbott was skilled in the field of divination, having earned an <a href="/wiki/Ordinary_Wizarding_Level" title="Ordinary Wizarding Level">O.W.L.</a> in the <a href="/wiki/Divination_(class)" title="Divination (class)">subject</a> at Hogwarts, and also studied it <a href="/wiki/Nastily_Exhausting_Wizarding_Test" title="Nastily Exhausting Wizarding Test">N.E.W.T.</a> level.</li>
+<li><b>Poetry</b>: Talbott was known to very much enjoy writing poetry in his spare time, often due to his very solemn, mournful and solitary personality. He was evidently a talented poet, as he commented that several of his poems were published in the <a href="/wiki/Daily_Prophet" title="Daily Prophet">Daily Prophet</a>, a newspaper which his <a href="/wiki/Talbott_Winger%27s_father" title="Talbott Winger&#39;s father">father</a> was once a writer for.</li></ul>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Talbott_Winger?veaction=edit&amp;section=12" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Talbott_Winger?action=edit&amp;section=12" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>If Talbott succeeded in obtaining the results necessary to qualify for the <a href="/wiki/Auror_training" title="Auror training">Auror training</a> programme and subsequently passed it, he, alongside <a href="/wiki/Nymphadora_Tonks" title="Nymphadora Tonks">Nymphadora Tonks</a>, would have become two of the last Aurors taken on in two years by the time of the <a href="/wiki/1995%E2%80%931996_school_year" title="1995–1996 school year">1995–1996 school year</a>.</li>
+<li>As of Year 4, Talbott and Jacob's sibling are both unregistered Animagi when they finally became friends, if Jacob's sibling decides not to register, even when the latter could decide to do so. He also often makes <a href="/wiki/Bird" title="Bird">bird</a> puns in reference to his Animagus form and solitary personality.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Talbott_Winger?veaction=edit&amp;section=13" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Talbott_Winger?action=edit&amp;section=13" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" class="lazyload" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 16 images related to <i><b><a href="/wiki/Category:Images_of_Talbott_Winger" title="Category:Images of Talbott Winger">Talbott Winger</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<ul><li><i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Talbott_Winger?veaction=edit&amp;section=14" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Talbott_Winger?action=edit&amp;section=14" title="Edit section: Notes and references

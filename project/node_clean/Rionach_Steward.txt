@@ -1,0 +1,132 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-ilvermorny pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/3/3e/Rionach_Steward.jpg/revision/latest?cb=20170928160744" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/3/3e/Rionach_Steward.jpg/revision/latest/scale-to-width-down/254?cb=20170928160744" srcset="https://static.wikia.nocookie.net/harrypotter/images/3/3e/Rionach_Steward.jpg/revision/latest/scale-to-width-down/254?cb=20170928160744 1x, https://static.wikia.nocookie.net/harrypotter/images/3/3e/Rionach_Steward.jpg/revision/latest/scale-to-width-down/508?cb=20170928160744 2x" class="pi-image-thumbnail" alt="" width="254" height="304"
+		     data-image-key="Rionach_Steward.jpg" data-image-name="Rionach Steward.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Rionach Steward</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">c. <a href="/wiki/1634" class="mw-redirect" title="1634">1634</a><br/><a href="/wiki/Ilvermorny_Castle" title="Ilvermorny Castle">Ilvermorny Castle</a>, <a href="/wiki/Mount_Greylock" title="Mount Greylock">Mount Greylock</a>, <a href="/wiki/Massachusetts" title="Massachusetts">Massachusetts</a>, <a href="/wiki/United_States_of_America" title="United States of America">United States of America</a>, <a href="/wiki/North_America" title="North America">North America</a><sup id="cite_ref-PottermoreIlvermorny_1-0" class="reference"><a href="#cite_note-PottermoreIlvermorny-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Half-blood" title="Half-blood">Half-blood</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="marital">
+	
+		<h3 class="pi-data-label pi-secondary-font">Marital status</h3>
+	
+	<div class="pi-data-value pi-font">Unmarried</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/United_States_of_America" title="United States of America">American</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/James_Steward" title="James Steward">James Steward</a> (father)</li><li><a href="/wiki/Isolt_Sayre" title="Isolt Sayre">Isolt Sayre</a> (mother)</li><li><a href="/wiki/Chadwick_Boot" title="Chadwick Boot">Chadwick Boot</a> (adoptive brother)</li><li><a href="/wiki/Webster_Boot" title="Webster Boot">Webster Boot</a> (adoptive brother)</li><li><a href="/wiki/Martha_Steward_II" title="Martha Steward II">Martha Steward II</a> (twin sister)</li><li><a href="/wiki/Martha_Steward_II%27s_husband" title="Martha Steward II&#039;s husband">Unnamed brother-in-law</a></li><li><a href="/wiki/Martha_Steward" title="Martha Steward">Martha Steward</a> (paternal grandmother)</li><li><a href="/wiki/William_Sayre" title="William Sayre">William Sayre</a> (maternal grandfather)</li><li><a href="/wiki/Rionach_Sayre" title="Rionach Sayre">Rionach Sayre</a> (maternal grandmother)</li><li><a href="/wiki/Gormlaith_Gaunt" title="Gormlaith Gaunt">Gormlaith Gaunt</a> (maternal great-aunt)</li><li><a href="/wiki/Salazar_Slytherin" title="Salazar Slytherin">Salazar Slytherin</a> (ancestor)</li><li><a href="/wiki/Morrigan" title="Morrigan">Morrigan</a> (ancestor)</li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Defence_Against_the_Dark_Arts" title="Defence Against the Dark Arts">Defence Against the Dark Arts</a> professor at <a href="/wiki/Ilvermorny_School_of_Witchcraft_and_Wizardry" title="Ilvermorny School of Witchcraft and Wizardry">Ilvermorny</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Ilvermorny_School_of_Witchcraft_and_Wizardry" title="Ilvermorny School of Witchcraft and Wizardry">Ilvermorny School of Witchcraft and Wizardry</a></li><li><a href="/wiki/Steward_family" title="Steward family">Steward family</a></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Pottermore">"<i>Rionach never married or had children, as rumour had it that she had the ability to speak <a href="/wiki/Parseltongue" title="Parseltongue">Parseltongue</a> like her ancestor <a href="/wiki/Salazar_Slytherin" title="Salazar Slytherin">Salazar Slytherin</a>, and did not want his powers to be passed down any further.</i>"</span></dd>
+<dd>&#8212;Rionach's rumour to be a Parselmouth<sup class="noprint"><a href="/wiki/Pottermore" title="Pottermore">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Rionach Steward </b>(b. <a href="/wiki/1600s" title="1600s">1600s</a>) was an <a href="/wiki/United_States_of_America" title="United States of America">American</a> <a href="/wiki/Half-blood" title="Half-blood">half-blood</a> <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> and the younger twin daughter of <a href="/wiki/Isolt_Sayre" title="Isolt Sayre">Isolt Sayre</a> and <a href="/wiki/James_Steward" title="James Steward">James Steward</a>. Isolt and James were the founders of <a href="/wiki/Ilvermorny_School_of_Witchcraft_and_Wizardry" title="Ilvermorny School of Witchcraft and Wizardry">Ilvermorny School of Witchcraft and Wizardry</a>. Rionach would later become one of the school's first <a href="/wiki/Defence_Against_the_Dark_Arts" title="Defence Against the Dark Arts">Defence Against the Dark Arts</a>&#160;instructors, teaching there for many years.<sup id="cite_ref-PottermoreIlvermorny_1-1" class="reference"><a href="#cite_note-PottermoreIlvermorny-1">&#91;1&#93;</a></sup>
+</p><p>Rionach chose not to marry and remained single. There was a rumour she was born with the ability to speak <a href="/wiki/Parseltongue" title="Parseltongue">Parseltongue</a>, and because of this was determined not to pass on <a href="/wiki/Slytherin" title="Slytherin">Slytherin</a> ancestry into the next generation, thus her decision to never marry.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Magical_abilities_and_skills"><span class="tocnumber">2</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Etymology"><span class="tocnumber">3</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Appearances"><span class="tocnumber">4</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Notes_and_references"><span class="tocnumber">5</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Rionach_Steward?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Rionach_Steward?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Rionach Steward was born in or around <a href="/wiki/1634" class="mw-redirect" title="1634">1634</a> at <a href="/wiki/Ilvermorny_School_of_Witchcraft_and_Wizardry" title="Ilvermorny School of Witchcraft and Wizardry">Ilvermorny</a> in Massachusetts, along with her older fraternal twin sister, <a href="/wiki/Martha_Steward_II" title="Martha Steward II">Martha</a>. Her parents, <a href="/wiki/Isolt_Sayre" title="Isolt Sayre">Isolt Sayre</a>, a <a href="/wiki/Pure-blood" title="Pure-blood">pure-blood</a> <a href="/wiki/Wizardkind" title="Wizardkind">witch</a>, and <a href="/wiki/James_Steward" title="James Steward">James Steward</a>, a <a href="/wiki/Muggle" class="mw-redirect" title="Muggle">No-Maj</a>, were the founders of the school. She also had two older brothers by adoption: <a href="/wiki/Chadwick_Boot" title="Chadwick Boot">Chadwick</a> and <a href="/wiki/Webster_Boot" title="Webster Boot">Webster Boot</a>. She was named after her late <a href="/wiki/Rionach_Sayre" title="Rionach Sayre">maternal grandmother</a>.<sup id="cite_ref-PottermoreIlvermorny_1-2" class="reference"><a href="#cite_note-PottermoreIlvermorny-1">&#91;1&#93;</a></sup>
+</p><p>Rionach was born with magic powers, whereas her elder twin was born a <a href="/wiki/Squib" title="Squib">Squib</a>.<sup id="cite_ref-PottermoreIlvermorny_1-3" class="reference"><a href="#cite_note-PottermoreIlvermorny-1">&#91;1&#93;</a></sup> It was also rumoured — though it was never confirmed by the family — that she was born a <a href="/wiki/Parseltongue" title="Parseltongue">Parselmouth</a>, a frequent trait in her <a href="/wiki/House_of_Gaunt" title="House of Gaunt">maternal family</a>, descendants of <a href="/wiki/Salazar_Slytherin" title="Salazar Slytherin">Salazar Slytherin</a> (sometimes known to his contemporaries as "Serpent-tongue"<sup id="cite_ref-CS11_2-0" class="reference"><a href="#cite_note-CS11-2">&#91;2&#93;</a></sup>).<sup id="cite_ref-PottermoreIlvermorny_1-4" class="reference"><a href="#cite_note-PottermoreIlvermorny-1">&#91;1&#93;</a></sup>
+</p><p>When she was a baby, her great-aunt, <a href="/wiki/Gormlaith_Gaunt" title="Gormlaith Gaunt">Gormlaith Gaunt</a>, attacked the family due to her <a href="/wiki/Pure-blood_supremacy" title="Pure-blood supremacy">prejudice against Muggles</a>. Her parents had been put in <a href="/wiki/Gormlaith_Gaunt%27s_curse" title="Gormlaith Gaunt&#39;s curse">a deep sleep</a> by Gormlaith, but the cries of baby Rionach and her sister Martha woke them, since the curse took no account of the power of <a href="/wiki/Love" title="Love">love</a>. The family were saved by <a href="/wiki/William_(Pukwudgie)" title="William (Pukwudgie)">William</a>, the <a href="/wiki/Pukwudgie" title="Pukwudgie">Pukwudgie</a> her mother had befriended several years earlier.<sup id="cite_ref-PottermoreIlvermorny_1-5" class="reference"><a href="#cite_note-PottermoreIlvermorny-1">&#91;1&#93;</a></sup>
+</p><p>Rionach went on to become the teacher of <a href="/wiki/Defence_Against_the_Dark_Arts" title="Defence Against the Dark Arts">Defence Against the Dark Arts</a> at <a href="/wiki/Ilvermorny_School_of_Witchcraft_and_Wizardry" title="Ilvermorny School of Witchcraft and Wizardry">Ilvermorny</a>. She never married or had children, determined not to let the <a href="/wiki/Slytherin_family" title="Slytherin family">Slytherin</a> and <a href="/wiki/House_of_Gaunt" title="House of Gaunt">Gaunt</a> bloodlines to continue (which was ultimately fruitless, since the American branch of the family was unaware that Gormlaith was not the last of the Gaunts in England).<sup id="cite_ref-PottermoreIlvermorny_1-6" class="reference"><a href="#cite_note-PottermoreIlvermorny-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Rionach_Steward?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Rionach_Steward?action=edit&amp;section=2" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Defence_Against_the_Dark_Arts" title="Defence Against the Dark Arts">Defence Against the Dark Arts</a></b>: Rionach was very talented in defensive <a href="/wiki/Magic" title="Magic">magic</a>, as she went on to become a <a href="/wiki/Professor" title="Professor">professor</a> of Defence Against the Dark Arts at <a href="/wiki/Ilvermorny_School_of_Witchcraft_and_Wizardry" title="Ilvermorny School of Witchcraft and Wizardry">Ilvermorny School of Witchcraft and Wizardry</a>, showing her considerable proficiency and knowledge in this field.<sup id="cite_ref-PottermoreIlvermorny_1-7" class="reference"><a href="#cite_note-PottermoreIlvermorny-1">&#91;1&#93;</a></sup></li>
+<li><b><a href="/wiki/Parseltongue" title="Parseltongue">Parseltongue</a> (possibly)</b>: Rionach was rumoured by some, but never proven, to have possessed the rare ability of Parseltongue, the ability to speak to <a href="/wiki/Snake" title="Snake">snakes</a>. Some alleged her supposedly being a Parselmouth led her to not have any children in her lifetime, but whether or not she actually was a Parselmouth in reality, is unknown.<sup id="cite_ref-PottermoreIlvermorny_1-8" class="reference"><a href="#cite_note-PottermoreIlvermorny-1">&#91;1&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Rionach_Steward?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Rionach_Steward?action=edit&amp;section=3" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Rionach is a variant of the name Ríoghnach, derived from Irish ríoghan meaning "queen". In Irish legend this was a wife of the Irish king Niall.</li></ul>
+<ul><li>The surname steward comes from&#160;Middle English&#160;<i>steward</i>, from&#160;Old English&#160;<i>stīweard</i>,&#160;<i>stīġweard</i>&#160;‎meaning “steward, housekeeper, one who has the superintendence of household affairs, guardian”, from&#160;<i>stīġ</i>&#160;in the sense&#160;<i>house</i>,&#160;<i>hall</i>&#160;+&#160;<i>weard</i>&#160; ‎“ward, guard, guardian, keeper”.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Rionach_Steward?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Rionach_Steward?action=edit&amp;section=4" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Wizarding_World_(website)" title="Wizarding World (website)">Wizarding World</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Rionach_Steward?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Rionach_Steward?action=edit&amp;section=5" title="Edit section: Notes and references

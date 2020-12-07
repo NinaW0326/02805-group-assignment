@@ -1,0 +1,56 @@
+<div class="mw-parser-output"><table class="notice metadata" id="spoiler" style="text-align: center; background: beige; margin: 1em 05%; padding: 0 1em; border: #a00 1px solid;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/e/ea/Wizards_Unite_logo.jpg/revision/latest?cb=20181114170049" class="image"><img alt="Wizards Unite logo.jpg" src="https://static.wikia.nocookie.net/harrypotter/images/e/ea/Wizards_Unite_logo.jpg/revision/latest/scale-to-width-down/175?cb=20181114170049" decoding="async" width="175" height="98" data-image-name="Wizards Unite logo.jpg" data-image-key="Wizards_Unite_logo.jpg" /></a>
+</td>
+<td><b>Warning!</b>
+<p>At least some content in this article is derived from information featured in <i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i>. As such, spoilers will be present within the article.
+</p><p>For gameplay-specific information, please see the relevant article on <a href="https://harrypotterwizardsunite.fandom.com/wiki/Threat_meter" class="extiw" title="w:c:harrypotterwizardsunite:Threat meter">the Harry Potter: Wizards Unite Wiki!</a>
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-object pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/4/47/SOS_Threat_Meter.png/revision/latest?cb=20200720164400" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/4/47/SOS_Threat_Meter.png/revision/latest/scale-to-width-down/350?cb=20200720164400" srcset="https://static.wikia.nocookie.net/harrypotter/images/4/47/SOS_Threat_Meter.png/revision/latest/scale-to-width-down/350?cb=20200720164400 1x, https://static.wikia.nocookie.net/harrypotter/images/4/47/SOS_Threat_Meter.png/revision/latest/scale-to-width-down/700?cb=20200720164400 2x" class="pi-image-thumbnail" alt="" width="270" height="272"
+		     data-image-key="SOS_Threat_Meter.png" data-image-name="SOS Threat Meter.png"/>
+		
+	</a>
+	
+</figure>
+
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Threat meter</h2>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Object information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="location">
+	
+		<h3 class="pi-data-label pi-secondary-font">Location</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">British Ministry of Magic</a><sup id="cite_ref-WU_1-0" class="reference"><a href="#cite_note-WU-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="usage">
+	
+		<h3 class="pi-data-label pi-secondary-font">Usage</h3>
+	
+	<div class="pi-data-value pi-font">Tracking the <a href="/wiki/Calamity" title="Calamity">Calamity</a> globally<sup id="cite_ref-WU_1-1" class="reference"><a href="#cite_note-WU-1">&#91;1&#93;</a></sup>  </div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="owners">
+	
+		<h3 class="pi-data-label pi-secondary-font">Owners</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Statute_of_Secrecy_Task_Force" title="Statute of Secrecy Task Force">Statute of Secrecy Task Force</a><sup id="cite_ref-WU_1-2" class="reference"><a href="#cite_note-WU-1">&#91;1&#93;</a></sup>  </div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Object_infobox" title="Template:Object infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+The <b>Threat meter</b> was a <a href="/wiki/Magic" title="Magic">magical</a> device not unlike to the <a href="/wiki/Magical_Exposure_Threat_Level_Measurer" title="Magical Exposure Threat Level Measurer">Magical Exposure Threat</a> measurer at the <a href="/wiki/Woolworth_Building" title="Woolworth Building">headquarters</a> of the&#160;<a href="/wiki/Magical_Congress_of_the_United_States_of_America" title="Magical Congress of the United States of America">Magical Congress of the United States of America</a>, <a href="/wiki/New_York" title="New York">New York</a>, and was by the&#160;<a href="/wiki/Statute_of_Secrecy_Task_Force" title="Statute of Secrecy Task Force">Statute of Secrecy Task Force</a> in the <a href="/wiki/21st_century" title="21st century">21st century</a> to identify the danger a given <a href="/wiki/Foundable" title="Foundable">Foundable</a> posted to the <a href="/wiki/Statute_of_Secrecy" class="mw-redirect" title="Statute of Secrecy">Statute of Secrecy</a>. It was discovered that the more likely a Foundable is to break the International Statute of Secrecy, the higher the threat given by the system became, and the more difficult it was to return it to whence it came.<sup id="cite_ref-WU_1-3" class="reference"><a href="#cite_note-WU-1">&#91;1&#93;</a></sup>&#160;&#160;
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Threat_meter?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Threat_meter?action=edit&amp;section=1" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Threat_meter?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Threat_meter?action=edit&amp;section=2" title="Edit section: Notes and references

@@ -1,0 +1,73 @@
+<div class="mw-parser-output"><table class="notice metadata" id="spoiler" style="text-align: center; background: beige; margin: 1em 05%; padding: 0 1em; border: #a00 1px solid;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/e/ea/Wizards_Unite_logo.jpg/revision/latest?cb=20181114170049" class="image"><img alt="Wizards Unite logo.jpg" src="https://static.wikia.nocookie.net/harrypotter/images/e/ea/Wizards_Unite_logo.jpg/revision/latest/scale-to-width-down/175?cb=20181114170049" decoding="async" width="175" height="98" data-image-name="Wizards Unite logo.jpg" data-image-key="Wizards_Unite_logo.jpg" /></a>
+</td>
+<td><b>Warning!</b>
+<p>At least some content in this article is derived from information featured in <i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i>. As such, spoilers will be present within the article.
+</p><p>For gameplay-specific information, please see the relevant article on <a href="https://harrypotterwizardsunite.fandom.com/wiki/Runestone" class="extiw" title="w:c:harrypotterwizardsunite:Runestone">the Harry Potter: Wizards Unite Wiki!</a>
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-object pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/0/0d/SOS_runestones.png/revision/latest?cb=20200906122810" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/0/0d/SOS_runestones.png/revision/latest/scale-to-width-down/350?cb=20200906122810" srcset="https://static.wikia.nocookie.net/harrypotter/images/0/0d/SOS_runestones.png/revision/latest/scale-to-width-down/350?cb=20200906122810 1x, https://static.wikia.nocookie.net/harrypotter/images/0/0d/SOS_runestones.png/revision/latest/scale-to-width-down/700?cb=20200906122810 2x" class="pi-image-thumbnail" alt="" width="270" height="190"
+		     data-image-key="SOS_runestones.png" data-image-name="SOS runestones.png"/>
+		
+	</a>
+	
+</figure>
+
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Runestone</h2>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Object information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="usage">
+	
+		<h3 class="pi-data-label pi-secondary-font">Usage</h3>
+	
+	<div class="pi-data-value pi-font">Access <a href="/wiki/Magic" title="Magic">magical</a> challenges<sup id="cite_ref-WU_1-0" class="reference"><a href="#cite_note-WU-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="owners">
+	
+		<h3 class="pi-data-label pi-secondary-font">Owners</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Statute_of_Secrecy_Task_Force" title="Statute of Secrecy Task Force">Statute of Secrecy Task Force</a><sup id="cite_ref-WU_1-1" class="reference"><a href="#cite_note-WU-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Object_infobox" title="Template:Object infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+A <b>runestone</b> was a <a href="/wiki/Magic" title="Magic">magical</a> stone engraved with a <a href="/wiki/Rune" title="Rune">rune</a>. In the <a href="/wiki/21st_century" title="21st century">21st century</a>, the <a href="/wiki/Statute_of_Secrecy_Task_Force" title="Statute of Secrecy Task Force">Statute of Secrecy Task Force</a> used them to access various challenges that were related to the <a href="/wiki/Calamity" title="Calamity">Calamity</a>.<sup id="cite_ref-WU_1-2" class="reference"><a href="#cite_note-WU-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Behind_the_scenes"><span class="tocnumber">2</span> <span class="toctext">Behind the scenes</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#In_game"><span class="tocnumber">2.1</span> <span class="toctext">In game</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Fortress"><span class="tocnumber">2.2</span> <span class="toctext">Fortress</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Appearances"><span class="tocnumber">3</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Notes_and_references"><span class="tocnumber">4</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Runestone?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: History">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Runestone?action=edit&amp;section=1" title="Edit section: History"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>During the <a href="/wiki/Calamity" title="Calamity">Calamity</a> which occurred throughout the <a href="/wiki/2010s" title="2010s">2010s</a>, these mysterious <a href="/wiki/Magic" title="Magic">magical</a> stones started appearing throughout the <a href="/wiki/Wizarding_world" title="Wizarding world">wizarding world</a>. They allowed volunteer members of the <a href="/wiki/Statute_of_Secrecy_Task_Force" title="Statute of Secrecy Task Force">Statute of Secrecy Task Force</a> to participate in magical challenges in <a href="/wiki/Fortress" title="Fortress">Fortresses</a>, such as <a href="/wiki/Duelling" title="Duelling">duelling</a> other <a href="/wiki/Wizardkind" title="Wizardkind">wizards</a> or fighting aggressive and dangerous <a href="/wiki/Creature" title="Creature">creatures</a>, such as <a href="/wiki/Acromantula" title="Acromantula">Acromantulas</a> and <a href="/wiki/Werewolf" title="Werewolf">Werewolves</a>. Many different runestones existed which allowed individuals to enter all sorts of challenges in Fortresses.<sup id="cite_ref-WU_1-3" class="reference"><a href="#cite_note-WU-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Runestone?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Runestone?action=edit&amp;section=2" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="In_game">In game</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Runestone?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: In game">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Runestone?action=edit&amp;section=3" title="Edit section: In game"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a target="_blank" rel="noreferrer noopener" class="external free" href="https://wizardsunite.gamepress.gg/reference/runestones-list#2">https://wizardsunite.gamepress.gg/reference/runestones-list#2</a>
+</p>
+<h3><span class="mw-headline" id="Fortress">Fortress</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Runestone?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Fortress">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Runestone?action=edit&amp;section=4" title="Edit section: Fortress"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a target="_blank" rel="noreferrer noopener" class="external free" href="https://wizardsunitehub.info/wiki/fortress/">https://wizardsunitehub.info/wiki/fortress/</a>
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Runestone?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Runestone?action=edit&amp;section=5" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Runestone?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Runestone?action=edit&amp;section=6" title="Edit section: Notes and references

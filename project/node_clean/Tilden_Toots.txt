@@ -1,0 +1,146 @@
+<div class="mw-parser-output"><table class="notice metadata" id="spoiler" style="text-align: center; background: beige; margin: 1em 05%; padding: 0 1em; border: #a00 1px solid;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/8/8c/Hogwarts_Mystery.jpeg/revision/latest?cb=20180504083359" class="image"><img alt="Hogwarts Mystery.jpeg" src="https://static.wikia.nocookie.net/harrypotter/images/8/8c/Hogwarts_Mystery.jpeg/revision/latest/scale-to-width-down/175?cb=20180504083359" decoding="async" width="175" height="77" data-image-name="Hogwarts Mystery.jpeg" data-image-key="Hogwarts_Mystery.jpeg" /></a>
+</td>
+<td><b>Warning!</b>
+<p>At least some content in this article is derived from information featured in <i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i>. Spoilers will be present within the article.
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/c/ce/Tilden_Toots.png/revision/latest?cb=20130317145841" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/c/ce/Tilden_Toots.png/revision/latest/scale-to-width-down/278?cb=20130317145841" srcset="https://static.wikia.nocookie.net/harrypotter/images/c/ce/Tilden_Toots.png/revision/latest/scale-to-width-down/278?cb=20130317145841 1x, https://static.wikia.nocookie.net/harrypotter/images/c/ce/Tilden_Toots.png/revision/latest/scale-to-width-down/556?cb=20130317145841 2x" class="pi-image-thumbnail" alt="" width="270" height="307"
+		     data-image-key="Tilden_Toots.png" data-image-name="Tilden Toots.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Tilden Toots</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/1959" title="1959">1959</a><sup id="cite_ref-JKRS_1-0" class="reference"><a href="#cite_note-JKRS-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="marital">
+	
+		<h3 class="pi-data-label pi-secondary-font">Marital status</h3>
+	
+	<div class="pi-data-value pi-font">Married<sup id="cite_ref-JKRS_1-1" class="reference"><a href="#cite_note-JKRS-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a><sup id="cite_ref-JKRS_1-2" class="reference"><a href="#cite_note-JKRS-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-JKRS_1-3" class="reference"><a href="#cite_note-JKRS-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male<sup id="cite_ref-JKRS_1-4" class="reference"><a href="#cite_note-JKRS-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Brown<sup id="cite_ref-JKRS_1-5" class="reference"><a href="#cite_note-JKRS-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Blue<sup id="cite_ref-JKRS_1-6" class="reference"><a href="#cite_note-JKRS-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White<sup id="cite_ref-JKRS_1-7" class="reference"><a href="#cite_note-JKRS-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Daisy_Hookum" title="Daisy Hookum">Daisy Hookum</a> (wife)<sup id="cite_ref-JKRS_1-8" class="reference"><a href="#cite_note-JKRS-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Herbologist" title="Herbologist">Herbologist</a><sup id="cite_ref-JKRS_1-9" class="reference"><a href="#cite_note-JKRS-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/Potioneer" title="Potioneer">Potioneer</a><sup id="cite_ref-JKRS_1-10" class="reference"><a href="#cite_note-JKRS-1">&#91;1&#93;</a></sup></li><li>Presenter of <i><a href="/wiki/Toots,_Shoots_%27n%27_Roots" title="Toots, Shoots &#039;n&#039; Roots">Toots, Shoots 'n' Roots</a></i><sup id="cite_ref-JKRS_1-11" class="reference"><a href="#cite_note-JKRS-1">&#91;1&#93;</a></sup></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;J.K.Rowling Official Site">"<i>Hello and welcome back to "Toots, Shoots 'n' Roots" with me, Tilden Toots!</i>"</span></dd>
+<dd>&#8212;Tilden Toots opening his radio broadcast<sup class="noprint"><a href="/wiki/J.K.Rowling_Official_Site" class="mw-redirect" title="J.K.Rowling Official Site">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Tilden Toots</b> (b. <a href="/wiki/1959" title="1959">1959</a>) was a <a href="/wiki/Great_Britain" title="Great Britain">British</a> <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a>, who worked as a famous <a href="/wiki/Herbologist" title="Herbologist">Herbologist</a>, <a href="/wiki/Potioneer" title="Potioneer">Potioneer</a>, and radio personality and presenter.<sup id="cite_ref-JKRS_1-12" class="reference"><a href="#cite_note-JKRS-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Magical_abilities_and_skills"><span class="tocnumber">2</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Behind_the_scenes"><span class="tocnumber">3</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Appearances"><span class="tocnumber">4</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Notes_and_references"><span class="tocnumber">5</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Tilden_Toots?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Tilden_Toots?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Tilden Toots was well-known for having three <a href="/wiki/Green_thumb" title="Green thumb">green thumbs</a>. He hosted the <i><a href="/wiki/Toots,_Shoots_%27n%27_Roots" title="Toots, Shoots &#39;n&#39; Roots">Toots, Shoots 'n' Roots</a></i> radio programme on the <a href="/wiki/Wizarding_Wireless_Network" title="Wizarding Wireless Network">Wizarding Wireless Network</a>, and he produced his own line of plant-related <a href="/wiki/Potion" title="Potion">potions</a>, such as <a href="/wiki/Rejuicing_Potion" title="Rejuicing Potion">Rejuicer</a> and <a href="/wiki/Regerminating_Potion" title="Regerminating Potion">Regerminator</a>. According to <a href="/wiki/Severus_Snape" title="Severus Snape">Severus Snape</a>, Toots built a fortune selling his potions.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p><p>He was married to bestselling author <a href="/wiki/Daisy_Hookum" title="Daisy Hookum">Daisy Hookum</a>.<sup id="cite_ref-JKRS_1-13" class="reference"><a href="#cite_note-JKRS-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Tilden_Toots?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Tilden_Toots?action=edit&amp;section=2" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Herbology" title="Herbology">Herbology</a></b>: Being a professional <a href="/wiki/Herbologist" title="Herbologist">Herbologist</a>, Toots was a natural expert in the study of <a href="/wiki/Magic" title="Magic">magical</a> plants and fungi. Toots hosted his own radio show on the subject of magical gardening, called <i><a href="/wiki/Toots,_Shoots_%27n%27_Roots" title="Toots, Shoots &#39;n&#39; Roots">Toots, Shoots 'n' Roots</a></i>, in which he gave considerable knowledge and advice to other wizards and witches in this field.</li>
+<li><b><a href="/wiki/Potion" title="Potion">Potions</a></b>: Toots was also a professional <a href="/wiki/Potioneer" title="Potioneer">Potioneer</a>, having invented at least two of his own gardening based potions, the <a href="/wiki/Rejuicing_Potion" title="Rejuicing Potion">Rejuicing Potion</a> and <a href="/wiki/Regerminating_Potion" title="Regerminating Potion">Regerminating Potion</a>, showing his excellent skills in this field of <a href="/wiki/Magic" title="Magic">magic</a>.</li></ul>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Tilden_Toots?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Tilden_Toots?action=edit&amp;section=3" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>On <a href="/wiki/J._K._Rowling%27s_official_site" title="J. K. Rowling&#39;s official site">J. K. Rowling's official site</a>, Tilden Toots' radio show could sometimes be heard when one switched on the radio in Extra Stuff, prior to the site's redesign in <a href="/wiki/2012" title="2012">2012</a>.</li>
+<li>If he attended <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts</a>, Toots might have been in the same year as the <a href="/wiki/Marauders" title="Marauders">Marauders</a>, <a href="/wiki/Lily_J._Potter" title="Lily J. Potter">Lily Evans</a>, and <a href="/wiki/Severus_Snape" title="Severus Snape">Severus Snape</a>. If he was not, he was in the year ahead of them.</li>
+<li>He had a broad <a href="/wiki/West_Country" title="West Country">West Country</a> accent as an adult, which suggests he spent the better part of his youth in the West Country where there are several magical settlements.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Tilden_Toots?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Tilden_Toots?action=edit&amp;section=4" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/J._K._Rowling%27s_official_site" title="J. K. Rowling&#39;s official site">J. K. Rowling's official site</a> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i> <small>(Mentioned only)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Tilden_Toots?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Tilden_Toots?action=edit&amp;section=5" title="Edit section: Notes and references

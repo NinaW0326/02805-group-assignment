@@ -1,0 +1,88 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/5/5f/Josette_Lestrange.jpg/revision/latest?cb=20190104045105" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/5/5f/Josette_Lestrange.jpg/revision/latest/scale-to-width-down/141?cb=20190104045105" srcset="https://static.wikia.nocookie.net/harrypotter/images/5/5f/Josette_Lestrange.jpg/revision/latest/scale-to-width-down/141?cb=20190104045105 1x, https://static.wikia.nocookie.net/harrypotter/images/5/5f/Josette_Lestrange.jpg/revision/latest/scale-to-width-down/282?cb=20190104045105 2x" class="pi-image-thumbnail" alt="" width="141" height="242"
+		     data-image-key="Josette_Lestrange.jpg" data-image-name="Josette Lestrange.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Josette Gage</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Pure-blood" title="Pure-blood">Pure-blood</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="marital">
+	
+		<h3 class="pi-data-label pi-secondary-font">Marital status</h3>
+	
+	<div class="pi-data-value pi-font">Married</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/France" title="France">French</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font">Human</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Corvus_Lestrange_(II)" title="Corvus Lestrange (II)">Corvus Lestrange</a> (father)</li><li><a href="/wiki/Minette_Lestrange" title="Minette Lestrange">Minette Lestrange</a> (mother)</li><li><a href="/wiki/Manon_Perrot" title="Manon Perrot">Manon Perrot</a> (sister)</li><li><a href="/wiki/Corvus_Lestrange_(III)" title="Corvus Lestrange (III)">Corvus Lestrange</a> (brother)</li><li><a href="/wiki/Reynard_Gage" title="Reynard Gage">Reynard Gage</a> (husband)</li><li><a href="/wiki/Mathis_Gage" title="Mathis Gage">Mathis Gage</a> (son)</li><li><a href="/wiki/Louis_Gage" title="Louis Gage">Louis Gage</a> (son)</li><li><a href="/wiki/Sebastien_Perrot" title="Sebastien Perrot">Sebastien Perrot</a> (brother-in-law)</li><li><a href="/wiki/Eglantine_Lestrange" title="Eglantine Lestrange">Eglantine Lestrange</a> (first cousin/sister-in-law)</li><li><a href="/wiki/Odile_Perrot" title="Odile Perrot">Odile Perrot</a> (niece)</li><li><a href="/wiki/Laurelle_Perrot" title="Laurelle Perrot">Laurelle Perrot</a> (niece)</li><li><a href="/wiki/Huguette_Perrot" title="Huguette Perrot">Huguette Perrot</a> (niece)</li><li><a href="/wiki/Corvus_Lestrange_(I)" title="Corvus Lestrange (I)">Corvus Lestrange</a> (grandfather)</li><li><a href="/wiki/Heloise_Lestrange" title="Heloise Lestrange">Heloise Lestrange</a> (grandmother)</li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Lestrange_family" title="Lestrange family">Lestrange family</a></li><li><a href="/wiki/Gage_family" title="Gage family">Gage family</a></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+<b>Josette Gauge</b> (née <b>Lestrange</b>) was a <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> and a member of the <a href="/wiki/Pure-blood" title="Pure-blood">pure-blood</a> <a href="/wiki/Gage_family" title="Gage family">Gage family</a>. She was the daughter of <a href="/wiki/Corvus_Lestrange_(II)" title="Corvus Lestrange (II)">Corvus Lestrange</a> and <a href="/wiki/Minette_Lestrange" title="Minette Lestrange">Minette Lestrange</a>. She had two siblings, sister <a href="/wiki/Manon_Perrot" title="Manon Perrot">Manon</a> and brother <a href="/wiki/Corvus_Lestrange_(III)" title="Corvus Lestrange (III)">Corvus</a>. She married <a href="/wiki/Reynard_Gage" title="Reynard Gage">Reynard Gage</a> and had two sons with him, <a href="/wiki/Louis_Gage" title="Louis Gage">Louis</a> and <a href="/wiki/Mathis_Gage" title="Mathis Gage">Mathis</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Josette_Gage?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Josette_Gage?action=edit&amp;section=1" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Fantastic_Beasts:_The_Crimes_of_Grindelwald" title="Fantastic Beasts: The Crimes of Grindelwald">Fantastic Beasts: The Crimes of Grindelwald</a></i> <span class="template-c">(Name appears on family tree)</span></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Josette_Gage?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Josette_Gage?action=edit&amp;section=2" title="Edit section: Notes and references

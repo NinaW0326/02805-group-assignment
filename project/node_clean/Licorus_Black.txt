@@ -1,0 +1,131 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/5/5c/Licorus.jpg/revision/latest?cb=20130404011634" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/5/5c/Licorus.jpg/revision/latest/scale-to-width-down/350?cb=20130404011634" srcset="https://static.wikia.nocookie.net/harrypotter/images/5/5c/Licorus.jpg/revision/latest/scale-to-width-down/350?cb=20130404011634 1x, https://static.wikia.nocookie.net/harrypotter/images/5/5c/Licorus.jpg/revision/latest/scale-to-width-down/699?cb=20130404011634 2x" class="pi-image-thumbnail" alt="" width="270" height="226"
+		     data-image-key="Licorus.jpg" data-image-name="Licorus.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Licorus Black</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/1808" class="mw-redirect" title="1808">1808</a><sup id="cite_ref-hpts_1-0" class="reference"><a href="#cite_note-hpts-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/1872" class="mw-redirect" title="1872">1872</a><sup id="cite_ref-hpts_1-1" class="reference"><a href="#cite_note-hpts-1">&#91;1&#93;</a></sup> (aged 63 - 64)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Pure-blood" title="Pure-blood">Pure-blood</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Light</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Magenta_Tripe" title="Magenta Tripe">Magenta Tripe</a> (wife)</li><li><a href="/wiki/Eduardus_Limette_Black" title="Eduardus Limette Black">Eduardus Limette Black</a> (possible brother)</li><li><a href="/wiki/Phoebe_Black" title="Phoebe Black">Phoebe Black</a> (possible sister)</li><li><a href="/wiki/Alexia_Walkin_Black" title="Alexia Walkin Black">Alexia Walkin Black</a> (possible sister)</li><li><a href="/wiki/Hesper_Black" title="Hesper Black">Hesper Black</a> (possible sister)</li><li><a href="/wiki/Misapinoa_Black" title="Misapinoa Black">Misapinoa Black</a> (possible daughter)</li><li><a href="/wiki/Jimbo_Blishwick" title="Jimbo Blishwick">Jimbo Blishwick</a> (possible son-in-law)</li><li><a href="/wiki/Arcturus_Black_I" title="Arcturus Black I">Arcturus Black I</a> (possible son)</li><li><a href="/wiki/Cygnus_Black_I" title="Cygnus Black I">Cygnus Black I</a> (possible son)</li><li><a href="/wiki/Ella_Max" title="Ella Max">Ella Max</a> (possible daughter-in-law)</li><li><a href="/wiki/Sirius_Black_I" title="Sirius Black I">Sirius Black I</a> (possible grandson)</li><li><a href="/wiki/Phineas_Nigellus_Black" title="Phineas Nigellus Black">Phineas Nigellus Black</a> (possible grandson)</li><li><a href="/wiki/Elladora_Black" title="Elladora Black">Elladora Black</a> (possible granddaughter)</li><li><a href="/wiki/Iola_Black" title="Iola Black">Iola Black</a> (possible granddaughter)</li><li><a href="/wiki/House_of_Black" title="House of Black">Black family</a></li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="house">
+	
+		<h3 class="pi-data-label pi-secondary-font">House</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Slytherin" title="Slytherin">Slytherin</a> (possibly)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/House_of_Black" title="House of Black">House of Black</a></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Licorus Black</b><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> (<a href="/wiki/1808" class="mw-redirect" title="1808">1808</a> — <a href="/wiki/1872" class="mw-redirect" title="1872">1872</a><sup id="cite_ref-hpts_1-2" class="reference"><a href="#cite_note-hpts-1">&#91;1&#93;</a></sup>) was a <a href="/wiki/Pure-blood" title="Pure-blood">pure-blood</a> <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a>, as well as the earliest known member of the <a href="/wiki/Pure-blood" title="Pure-blood">pure-blood</a> <a href="/wiki/House_of_Black" title="House of Black">House of Black</a>. He married a pure-blood <a href="/wiki/Wizardkind" title="Wizardkind">witch</a>, <a href="/wiki/Magenta_Tripe" title="Magenta Tripe">Magenta Tripe</a>, and is the earliest known ancestor of the Black family, being depicted on the <a href="/wiki/Black_Family_Tapestry" title="Black Family Tapestry">Black family tree tapestry</a> that hangs in the ancestral home of <a href="/wiki/12_Grimmauld_Place" title="12 Grimmauld Place">12 Grimmauld Place</a><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>. It is possible that he was the brother of <a href="/wiki/Hesper_Black" title="Hesper Black">Hesper</a>, <a href="/wiki/Alexia_Walkin_Black" title="Alexia Walkin Black">Alexia Walkin</a>, <a href="/wiki/Phoebe_Black" title="Phoebe Black">Phoebe</a> and <a href="/wiki/Eduardus_Limette_Black" title="Eduardus Limette Black">Eduardus Limette Black</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Etymology"><span class="tocnumber">2</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Behind_the_scenes"><span class="tocnumber">3</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Appearances"><span class="tocnumber">4</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Notes_and_references"><span class="tocnumber">5</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Licorus_Black?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Licorus_Black?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Licorus was born to the <a href="/wiki/House_of_Black" title="House of Black">House of Black</a> in <a href="/wiki/1808" class="mw-redirect" title="1808">1808</a>, to unknown pure-blood parents. He possibly seems to have had four siblings: <a href="/wiki/Alexia_Walkin_Black" title="Alexia Walkin Black">Alexia Walkin</a>, <a href="/wiki/Phoebe_Black" title="Phoebe Black">Phoebe</a>, <a href="/wiki/Hesper_Black" title="Hesper Black">Hesper</a> and <a href="/wiki/Eduardus_Limette_Black" title="Eduardus Limette Black">Eduardus Limette Black</a>.
+</p><p>Mr Black was raised in a household that strongly believed in the importance of blood purity, and as such likely carried a grudge against <a href="/wiki/Muggle-born" title="Muggle-born">Muggle-borns</a>, whom most of the family called <a href="/wiki/Mudblood" title="Mudblood">Mudbloods</a>. His brother Eduardus was disowned for unknown reasons, which likely had an effect on him.
+</p><p>At the age of eleven, Black presumably began his schooling at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a>, where he may have been <a href="/wiki/Sorting_ceremony" title="Sorting ceremony">Sorted</a> into <a href="/wiki/Slytherin" title="Slytherin">Slytherin House</a>.
+</p><p>Sometime after completing his schooling, Black married a pure-blood witch, with whom he seems to have had several children: a daughter, <a href="/wiki/Misapinoa_Black" title="Misapinoa Black">Misapinoa</a>, who married into the <a href="/wiki/Blishwick_family" title="Blishwick family">Blishwick family</a> by being wed to <a href="/wiki/Jimbo_Blishwick" title="Jimbo Blishwick">Jimbo Blishwick</a>, and two sons, <a href="/wiki/Arcturus_Black_I" title="Arcturus Black I">Arcturus</a>, and <a href="/wiki/Cygnus_Black_I" title="Cygnus Black I">Cygnus Black</a>. It is likely, after Cygnus's death, that Licorus and Magenta helped Ella Max raise Cygnus's children: Sirius, Phineas Nigellus, Iola and Elladora.
+</p><p>Licorus&#160;died in <a href="/wiki/1872" class="mw-redirect" title="1872">1872</a>.
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Licorus_Black?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Licorus_Black?action=edit&amp;section=2" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i>Licorus</i> is a form of the name <a href="http://en.wikipedia.org/wiki/Lycorus" class="extiw" title="wikipedia:Lycorus">Lycorus</a>.
+</p><p>In Greek mythology, Lycorus was a son of <a href="http://en.wikipedia.org/wiki/Apollo" class="extiw" title="wikipedia:Apollo">the god Apollo</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> After him a city was named Lycoreia.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Licorus_Black?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Licorus_Black?action=edit&amp;section=3" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Based on a statement by <a href="/wiki/Horace_Slughorn" title="Horace Slughorn">Horace Slughorn</a>, Licorus may have been a member of Slytherin house. However, Black attended Hogwarts in the <a href="/wiki/1810s" title="1810s">1810s</a>, long before Slughorn was even born.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup></li>
+<li>This character appears only on the version of the Black family tree shown in the <a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(film)" title="Harry Potter and the Order of the Phoenix (film)">film adaptation</a> of <i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">Harry Potter and the Order of the Phoenix</a></i>. He was not included on the version of the tree which <a href="/wiki/J._K._Rowling" title="J. K. Rowling">J. K. Rowling</a> gave to a charity auction in 2006<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>. However, according to director <a href="/wiki/David_Yates" title="David Yates">David Yates</a>, Rowling provided the filmmakers with a copy of the Black family tree going back eight generations<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>. The filmmakers presumably received a more complete version of the tree than the one auctioned off, which only goes back six generations.</li>
+<li>Except for the colour of his hat, this character's picture on the family tree bears a striking resemblance to that of <a href="/wiki/Pollux_Black" title="Pollux Black">Pollux Black</a>. This was likely done by the film-makers to save time, as other characters, such as <a href="/wiki/Elladora_Black" title="Elladora Black">Elladora</a> and <a href="/wiki/Callidora_Black" title="Callidora Black">Callidora Black</a> also have images that are remarkably similar<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>.</li>
+<li>His name is similar to the name of his relative, <a href="/wiki/Lycoris_Black" title="Lycoris Black">Lycoris Black</a>.</li>
+<li>He is the first known member of the&#160;<a href="/wiki/House_of_Black" title="House of Black">Black family</a>.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Licorus_Black?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Licorus_Black?action=edit&amp;section=4" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(film)" title="Harry Potter and the Order of the Phoenix (film)">Harry Potter and the Order of the Phoenix (film)</a></i> <span class="template-c">(Seen on <a href="/wiki/House_of_Black" title="House of Black">Black family</a> tree tapestry)</span></li>
+<li><i><a href="/wiki/Harry_Potter_Page_to_Screen:_The_Complete_Filmmaking_Journey" title="Harry Potter Page to Screen: The Complete Filmmaking Journey">Harry Potter Page to Screen: The Complete Filmmaking Journey</a></i> <span class="template-c">(Appears on Black family tapestry)</span></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Licorus_Black?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Licorus_Black?action=edit&amp;section=5" title="Edit section: Notes and references

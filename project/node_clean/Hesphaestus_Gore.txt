@@ -1,0 +1,108 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-mom pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/5/50/Hesphaestus_Gore.png/revision/latest?cb=20141104223712" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/5/50/Hesphaestus_Gore.png/revision/latest/scale-to-width-down/170?cb=20141104223712" srcset="https://static.wikia.nocookie.net/harrypotter/images/5/50/Hesphaestus_Gore.png/revision/latest/scale-to-width-down/170?cb=20141104223712 1x, https://static.wikia.nocookie.net/harrypotter/images/5/50/Hesphaestus_Gore.png/revision/latest/scale-to-width-down/340?cb=20141104223712 2x" class="pi-image-thumbnail" alt="" width="170" height="246"
+		     data-image-key="Hesphaestus_Gore.png" data-image-name="Hesphaestus Gore.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Hesphaestus Gore</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">Before <a href="/wiki/1735" class="mw-redirect" title="1735">1735</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Pure-blood" title="Pure-blood">Pure-blood</a> or <a href="/wiki/Half-blood" title="Half-blood">Half-blood</a><sup id="cite_ref-blood_1-0" class="reference"><a href="#cite_note-blood-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="title">
+	
+		<h3 class="pi-data-label pi-secondary-font">Title(s)</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Minister_for_Magic" title="Minister for Magic">Minister for Magic</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font">Human</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Auror" title="Auror">Auror</a></li><li><a href="/wiki/Minister_for_Magic" title="Minister for Magic">British Minister for Magic</a> (<a href="/wiki/1752" class="mw-redirect" title="1752">1752</a>-<a href="/wiki/1770" class="mw-redirect" title="1770">1770</a>)</li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">British Ministry of Magic</a><ul><li><a href="/wiki/Auror_Department" class="mw-redirect" title="Auror Department">Auror Office</a></li></ul></li><li><a href="/wiki/Gore_family" title="Gore family">Gore family</a></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Minister Hesphaestus Gore</b> was one of the earliest <a href="/wiki/Auror" title="Auror">Aurors</a> as well as <a href="/wiki/Minister_for_Magic" title="Minister for Magic">Minister for Magic</a> from <a href="/wiki/1752" class="mw-redirect" title="1752">1752</a> to <a href="/wiki/1770" class="mw-redirect" title="1770">1770</a>.<sup id="cite_ref-PMministers_2-0" class="reference"><a href="#cite_note-PMministers-2">&#91;2&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Etymology"><span class="tocnumber">2</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Appearances"><span class="tocnumber">3</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Notes_and_references"><span class="tocnumber">4</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Hesphaestus_Gore?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Hesphaestus_Gore?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Hesphaestus Gore was born in or before <a href="/wiki/1735" class="mw-redirect" title="1735">1735</a>. He worked at the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">Ministry of Magic</a>, where he became one of the earliest <a href="/wiki/Auror" title="Auror">Aurors</a> there, after Minister <a href="/wiki/Eldritch_Diggory" title="Eldritch Diggory">Eldritch Diggory</a> (in office <a href="/wiki/1733" class="mw-redirect" title="1733">1733</a>-<a href="/wiki/1747" class="mw-redirect" title="1747">1747</a>) first established an Auror recruitment programme.<sup id="cite_ref-PMministers_2-1" class="reference"><a href="#cite_note-PMministers-2">&#91;2&#93;</a></sup>
+</p><p>He became a temporary acting <a href="/wiki/Minister_for_Magic" title="Minister for Magic">Minister for Magic</a> in <a href="/wiki/1752" class="mw-redirect" title="1752">1752</a>, and later was elected a regular Minister several times after his predecessor <a href="/wiki/Basil_Flack" title="Basil Flack">Basil Flack</a> was forced to resign after two months, during the height of the <a href="/wiki/Goblin_Rebellions" title="Goblin Rebellions">Goblin Rebellions</a> (the <a href="/wiki/Goblin" title="Goblin">goblins</a> had just joined forces with the <a href="/wiki/Werewolf" title="Werewolf">werewolves</a>). Gore successfully put down a number of revolts by the magical beings, although historians feel his refusal to contemplate rehabilitation programmes for werewolves ultimately led to more attacks.<sup id="cite_ref-PMministers_2-2" class="reference"><a href="#cite_note-PMministers-2">&#91;2&#93;</a></sup> One such revolt took place in <a href="/wiki/1762" class="mw-redirect" title="1762">1762</a>, in which goblin rebel <a href="/wiki/Vargot" title="Vargot">Vargot</a> was killed in battle — a popular historical theory that may have not been proved is that Vargot was really a renegade <a href="/wiki/House-elf" title="House-elf">house-elf</a>.<sup id="cite_ref-JKR_3-0" class="reference"><a href="#cite_note-JKR-3">&#91;3&#93;</a></sup>
+</p><p>In <a href="/wiki/1754" class="mw-redirect" title="1754">1754</a>, Minister Gore and the Italian <a href="/wiki/Minister_for_Magic" title="Minister for Magic">Minister for Magic</a> officiated the infamous <a href="/wiki/Broomstick" title="Broomstick">broom</a> <a href="/wiki/Broom_racing" title="Broom racing">race</a> from <a href="/wiki/Aberdeen" title="Aberdeen">Aberdeen</a> to <a href="/wiki/Rome" title="Rome">Rome</a> between the two most famous fliers in Europe, <a href="/wiki/Torquil_McTavish" title="Torquil McTavish">Torquil McTavish</a> and <a href="/wiki/Silvio_Astolfi" title="Silvio Astolfi">Silvio Astolfi</a>. The race took place overnight, to avoid the attention of <a href="/wiki/Non-magic_people" title="Non-magic people">Muggles</a>. The Minister representatives and the supporters were gathered at the <a href="/wiki/Coliseum" title="Coliseum">Coliseum</a> to await for the racers' arrival. However, just as the pair were seen flying toward the ancient amphitheatre, a clash broke out between rival factions of fans. During the fight, an explosion was somehow set off, leaving the Coliseum in ruins. <a href="/wiki/Orabella_Nuttley" title="Orabella Nuttley">Orabella Nuttley</a>, a clerk of the <a href="/wiki/Improper_Use_of_Magic_Office" title="Improper Use of Magic Office">Improper Use of Magic Office</a>, who had been assigned to handle luggage and arrange <a href="/wiki/Portkey" title="Portkey">Portkeys</a>, stepped forward and repaired a few columns with the <a href="/wiki/Mending_Charm" title="Mending Charm">Mending Charm</a> she had invented. Amazed, Gore and the other assembled Ministers asked her to teach them how to perform it, and the damage to the Coliseum was undone by the time the <a href="/wiki/Non-magic_people" title="Non-magic people">Muggles</a> that woke up to the sound of the explosion arrived at the scene. Gore later awarded Madam&#160;Nuttley the <a href="/wiki/Order_of_Merlin" title="Order of Merlin">Order of Merlin</a>, First Class, for preventing a major breach of the <a href="/wiki/International_Statute_of_Wizarding_Secrecy" title="International Statute of Wizarding Secrecy">Statute of Secrecy</a>.<sup id="cite_ref-WBoS_4-0" class="reference"><a href="#cite_note-WBoS-4">&#91;4&#93;</a></sup>
+</p>
+<figure class="thumb tright show-info-icon" style="width: 202px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/3/3b/Gorespell.gif/revision/latest?cb=20141108223520" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/3/3b/Gorespell.gif/revision/latest/scale-to-width-down/200?cb=20141108223520" decoding="async" width="200" height="119" class="thumbimage" data-image-name="Gorespell.gif" data-image-key="Gorespell.gif" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Gorespell.gif" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Gore casts a spell</p> 		 	</figcaption> </figure>
+<p>Minister Gore was also responsible for renovating and reinforcing the prison of <a href="/wiki/Azkaban" title="Azkaban">Azkaban</a>.<sup id="cite_ref-PMministers_2-3" class="reference"><a href="#cite_note-PMministers-2">&#91;2&#93;</a></sup>
+</p><p>Gore left office after eighteen years, in <a href="/wiki/1770" class="mw-redirect" title="1770">1770</a>, to be succeeded by <a href="/wiki/Maximilian_Crowdy" title="Maximilian Crowdy">Maximilian Crowdy</a>.<sup id="cite_ref-PMministers_2-4" class="reference"><a href="#cite_note-PMministers-2">&#91;2&#93;</a></sup> He either retired or was voted out of office.
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Hesphaestus_Gore?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Hesphaestus_Gore?action=edit&amp;section=2" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Hesphaestus may be a derivative of <a href="http://en.wikipedia.org/wiki/Hephaestus" class="extiw" title="wikipedia:Hephaestus">Hephaestus</a>, a Greek god of blacksmiths, metallurgy, and fire. <i>Gore</i> is an English term for blood, and is particularly used in reference to <a href="http://en.wikipedia.org/wiki/graphic_violence" class="extiw" title="wikipedia:graphic violence">graphic violence</a> depicted in visual media.
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Hesphaestus_Gore?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Hesphaestus_Gore?action=edit&amp;section=3" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Wonderbook:_Book_of_Spells" title="Wonderbook: Book of Spells">Wonderbook: Book of Spells</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> <small>(First identified as Hesphaestus Gore)</small></li>
+<li><i><a href="/wiki/Wizarding_World_(website)" title="Wizarding World (website)">Wizarding World</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Hesphaestus_Gore?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Hesphaestus_Gore?action=edit&amp;section=4" title="Edit section: Notes and references

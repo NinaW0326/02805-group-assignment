@@ -1,0 +1,108 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/8/8b/ElizabethSmudgling.png/revision/latest?cb=20121119220804" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/8/8b/ElizabethSmudgling.png/revision/latest/scale-to-width-down/163?cb=20121119220804" srcset="https://static.wikia.nocookie.net/harrypotter/images/8/8b/ElizabethSmudgling.png/revision/latest/scale-to-width-down/163?cb=20121119220804 1x, https://static.wikia.nocookie.net/harrypotter/images/8/8b/ElizabethSmudgling.png/revision/latest/scale-to-width-down/326?cb=20121119220804 2x" class="pi-image-thumbnail" alt="" width="163" height="214"
+		     data-image-key="ElizabethSmudgling.png" data-image-name="ElizabethSmudgling.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Elizabeth Smudgling</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/England" title="England">English</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="title">
+	
+		<h3 class="pi-data-label pi-secondary-font">Title(s)</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Supreme_Dueller" title="Supreme Dueller">Supreme Dueller</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Brown</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Professional <a href="/wiki/Duelling" title="Duelling">Duellist</a></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+<b>Elizabeth Smudgling</b> was a <a href="/wiki/England" title="England">English</a> <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> who lived in the late <a href="/wiki/14th_century" title="14th century">14th century</a>. An accomplished <a href="/wiki/Duelling" title="Duelling">duellist</a>, she was, in the opinion of <a href="/wiki/Miranda_Goshawk" title="Miranda Goshawk">Miranda Goshawk</a>, the most likely <a href="/wiki/Spell_creation" title="Spell creation">inventor</a> of the <a href="/wiki/Disarming_Charm" title="Disarming Charm">Disarming Charm</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Magical_abilities_and_skills"><span class="tocnumber">2</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Appearances"><span class="tocnumber">3</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Notes_and_references"><span class="tocnumber">4</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Elizabeth_Smudgling?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Elizabeth_Smudgling?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Smudgling was born in <a href="/wiki/England" title="England">England</a> in the mid-to-late <a href="/wiki/14th_century" title="14th century">14th century</a>. In <a href="/wiki/1379" class="mw-redirect" title="1379">1379</a>, she entered a <a href="/wiki/1379_duelling_contest" title="1379 duelling contest">duelling competition</a> held in <a href="/wiki/Dartmoor" title="Dartmoor">Dartmoor</a>, in which <a href="/wiki/Wizardkind" title="Wizardkind">wizards and witches</a> from across <a href="/wiki/Europe" title="Europe">Europe</a> came to partake. According to contemporary reports, the contest (which was held at night, so as to avoid attracting the attention of <a href="/wiki/Non-magic_people" title="Non-magic people">Muggles</a>) featured duelling of a level of skill that was almost unprecedented.<sup id="cite_ref-WBoS_1-0" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup>
+</p><p>Eventually, only four competitors remained, including Smudgling and three wizards. The <a href="/wiki/Judges_of_the_1379_duelling_contest" title="Judges of the 1379 duelling contest">judges of the competition</a> — distinguished <a href="/wiki/Warlock" title="Warlock">warlocks</a> and wizards from several different countries — delivered rousing speeches to the contestants before the final three duels commenced, telling them, "<i>Think big! Think bigger than you have ever thought before! Let us see this night magic on such a scale, that future generations will envy us for having witnessed such greatness!</i>"<sup id="cite_ref-WBoS_1-1" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup>
+</p><p>The first semi-finalists then moved in front of the crowd. Keeping in mind the judges' advice to think big, the <a href="/wiki/First_semi-finalist_of_the_1379_duelling_contest" title="First semi-finalist of the 1379 duelling contest">first wizard</a> transformed himself into a <a href="/wiki/Cattle" title="Cattle">bull</a> and charged the <a href="/wiki/Second_semi-finalist_of_the_1379_duelling_contest" title="Second semi-finalist of the 1379 duelling contest">second</a>, who escaped <a href="/wiki/Death" title="Death">death</a> by quickly <a href="/wiki/Human_Transfiguration" title="Human Transfiguration">turning</a> himself into a <a href="/wiki/Snake" title="Snake">viper</a>. The second wizard bit the first on the leg, sending him crashing to the ground in pain.<sup id="cite_ref-WBoS_1-2" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup>
+</p><p>Next, the <a href="/wiki/Second_semi-finalist_of_the_1379_duelling_contest" title="Second semi-finalist of the 1379 duelling contest">second wizard</a> faced the <a href="/wiki/Third_semi-finalist_of_the_1379_duelling_contest" title="Third semi-finalist of the 1379 duelling contest">third</a>, and brought a great storm cloud down from the sky, drenching his opponent in freezing-cold <a href="/wiki/Water" title="Water">rain</a> and forcing him to evade bolts of lightning. The third wizard then got the idea to call a powerful cyclone, which not only blew away the storm, but also the judges, most of the spectators and several trees.<sup id="cite_ref-WBoS_1-3" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup>
+</p>
+<figure class="thumb tleft show-info-icon" style="width: 252px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/a/ac/1379_Third_Vs_Smudgling.png/revision/latest?cb=20140329170225" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/a/ac/1379_Third_Vs_Smudgling.png/revision/latest/scale-to-width-down/250?cb=20140329170225" decoding="async" width="250" height="152" class="thumbimage" data-image-name="1379 Third Vs Smudgling.png" data-image-key="1379_Third_Vs_Smudgling.png" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:1379_Third_Vs_Smudgling.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Elizabeth Smudgling disarms the <a href="/wiki/Third_semi-finalist_of_the_1379_duelling_contest" title="Third semi-finalist of the 1379 duelling contest">third semi-finalist</a></p> 		 	</figcaption> </figure>
+<p>It took several hours for everyone to regroup. Frightened of what the third wizard might do for his encore, <a href="/wiki/Judges_of_the_1379_duelling_contest" title="Judges of the 1379 duelling contest">the judges</a> attempted to talk Smudgling out of challenging him, telling her that it might be easier if they simply gave him the cup before anyone else got hurt, but she refused.<sup id="cite_ref-WBoS_1-4" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup>
+</p>
+<figure class="thumb tright show-info-icon" style="width: 202px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/e/e5/1379judges.png/revision/latest?cb=20140330215040" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/e/e5/1379judges.png/revision/latest/scale-to-width-down/200?cb=20140330215040" decoding="async" width="200" height="144" class="thumbimage" data-image-name="1379judges.png" data-image-key="1379judges.png" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:1379judges.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">The judges award Elizabeth Smudgling the title of "<a href="/wiki/Supreme_Dueller" title="Supreme Dueller">Supreme Dueller</a>"</p> 		 	</figcaption> </figure>
+<p>Smudgling and the <a href="/wiki/Third_semi-finalist_of_the_1379_duelling_contest" title="Third semi-finalist of the 1379 duelling contest">third wizard</a> then went up against each other. On the count of three, the wizard began a <a href="/wiki/Mountain-moving_spell" title="Mountain-moving spell">long, complex incantation that would have caused a mountain to break out of the ground</a> and fall upon Smudgling's head had he been given the opportunity to complete it. However, Smudgling beat him to the punch, quickly murmuring the incantation for the <a href="/wiki/Disarming_Charm" title="Disarming Charm">Disarming Charm</a> and sending his <a href="/wiki/Wand" title="Wand">wand</a> flying out of his hand. She was awarded the title of "<a href="/wiki/Supreme_Dueller" title="Supreme Dueller">Supreme Dueller</a>" and the Disarming Charm became one of the most useful combative <a href="/wiki/Spell" title="Spell">spells</a> in any duellist's repertoire.<sup id="cite_ref-WBoS_1-5" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Elizabeth_Smudgling?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Elizabeth_Smudgling?action=edit&amp;section=2" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Duelling" title="Duelling">Duelling</a></b>: Smudgling was a highly talented and accomplished duellist, having been awarded with the honorary title of "<a href="/wiki/Supreme_Dueller" title="Supreme Dueller">Supreme Dueller</a>" for having won the <a href="/wiki/1379_duelling_contest" title="1379 duelling contest">1379 duelling contest</a> in <a href="/wiki/Dartmoor" title="Dartmoor">Dartmoor</a>, defeating many powerful <a href="/wiki/Wizardkind" title="Wizardkind">wizards</a> in the competition. She was a master of <a href="/wiki/Martial_magic" title="Martial magic">martial magic</a>, being able to battle her opponent with a wide variety of defensive and offensive <a href="/wiki/Spell" title="Spell">spells</a>.</li>
+<li><b><a href="/wiki/Charm" title="Charm">Charms</a></b>: Smudgling, along with her supreme duelling skills, was also highly proficient with the casting of charms. She was able to swiftly and successfully cast the <a href="/wiki/Disarming_Charm" title="Disarming Charm">Disarming Charm</a>, which she used to disarm her opponents whilst duelling, allowing her to instantly win her duels. According to <a href="/wiki/Miranda_Goshawk" title="Miranda Goshawk">Miranda Goshawk</a>, she may have even <a href="/wiki/Spell_creation" title="Spell creation">invented</a> his charm herself.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Elizabeth_Smudgling?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Elizabeth_Smudgling?action=edit&amp;section=3" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Wonderbook:_Book_of_Spells" title="Wonderbook: Book of Spells">Wonderbook: Book of Spells</a></i> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Elizabeth_Smudgling?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Elizabeth_Smudgling?action=edit&amp;section=4" title="Edit section: Notes and references

@@ -1,0 +1,112 @@
+<div class="mw-parser-output"><table class="notice metadata" cellpadding="3px" style="text-align: center; background: snow; border: #a00 1px solid; margin: 1em 10% 1em 10%;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/1/11/Hermione_Granger_%28HBP_promo%29_5.jpg/revision/latest?cb=20090817203540" class="image"><img alt="Hermione Granger (HBP promo) 5.jpg" src="https://static.wikia.nocookie.net/harrypotter/images/1/11/Hermione_Granger_%28HBP_promo%29_5.jpg/revision/latest/scale-to-width-down/60?cb=20090817203540" decoding="async" width="60" height="80" data-image-name="Hermione Granger (HBP promo) 5.jpg" data-image-key="Hermione_Granger_(HBP_promo)_5.jpg" /></a>
+</td>
+<td><i><b>"Are you a wizard or not?"</b></i>
+<p>The title of this article is conjectural.  Although it is based on <a href="/wiki/Canon" title="Canon">canonical information</a>, the actual name is a conjecture and may be supplanted at any time by additional information released from canonical sources.  If this occurs, please move this page to the appropriate title.
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-death-eater pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/1/12/Unidentified_Death_Eater_killed_by_Kingsley_Shacklebolt.png/revision/latest?cb=20130901213655" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/1/12/Unidentified_Death_Eater_killed_by_Kingsley_Shacklebolt.png/revision/latest/scale-to-width-down/350?cb=20130901213655" srcset="https://static.wikia.nocookie.net/harrypotter/images/1/12/Unidentified_Death_Eater_killed_by_Kingsley_Shacklebolt.png/revision/latest/scale-to-width-down/350?cb=20130901213655 1x, https://static.wikia.nocookie.net/harrypotter/images/1/12/Unidentified_Death_Eater_killed_by_Kingsley_Shacklebolt.png/revision/latest/scale-to-width-down/699?cb=20130901213655 2x" class="pi-image-thumbnail" alt="" width="270" height="303"
+		     data-image-key="Unidentified_Death_Eater_killed_by_Kingsley_Shacklebolt.png" data-image-name="Unidentified Death Eater killed by Kingsley Shacklebolt.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Unidentified Death Eater killed by Kingsley Shacklebolt</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/2_May" title="2 May">2 May</a>, <a href="/wiki/1998" title="1998">1998</a>,<br/> <a href="/wiki/Hogwarts_Castle" title="Hogwarts Castle">Hogwarts Castle</a>, <a href="/wiki/The_Quad" title="The Quad">The Quad</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-DHF2_1-0" class="reference"><a href="#cite_note-DHF2-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male<sup id="cite_ref-DHF2_1-1" class="reference"><a href="#cite_note-DHF2-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Dark (mostly bald)<sup id="cite_ref-DHF2_1-2" class="reference"><a href="#cite_note-DHF2-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White<sup id="cite_ref-DHF2_1-3" class="reference"><a href="#cite_note-DHF2-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Magical characteristics</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="patronus">
+	
+		<h3 class="pi-data-label pi-secondary-font">Patronus</h3>
+	
+	<div class="pi-data-value pi-font">None<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a><sup id="cite_ref-DHF2_1-4" class="reference"><a href="#cite_note-DHF2-1">&#91;1&#93;</a></sup><ul><li><a href="/wiki/Tom_Riddle" title="Tom Riddle">Lord Voldemort</a><sup id="cite_ref-DHF2_1-5" class="reference"><a href="#cite_note-DHF2-1">&#91;1&#93;</a></sup></li></ul></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+This <b>individual</b> was a <a href="/wiki/Dark_Wizard" title="Dark Wizard">Dark Wizard</a> and <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eater</a> who fought at the <a href="/wiki/Battle_of_Hogwarts" title="Battle of Hogwarts">Battle of Hogwarts</a> in <a href="/wiki/1998" title="1998">1998</a>.<sup id="cite_ref-DHF2_1-6" class="reference"><a href="#cite_note-DHF2-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Behind_the_scenes"><span class="tocnumber">2</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Appearances"><span class="tocnumber">3</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Notes_and_references"><span class="tocnumber">4</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Unidentified_Death_Eater_killed_by_Kingsley_Shacklebolt?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Unidentified_Death_Eater_killed_by_Kingsley_Shacklebolt?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Upon procuring a <a href="/wiki/Wand" title="Wand">wand</a> and learning the <a href="/wiki/Dark_Arts" title="Dark Arts">Dark Arts</a>, this wizard joined the <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a> and became a loyal follower and servant of <a href="/wiki/Tom_Riddle" title="Tom Riddle">Lord Voldemort</a>. On <a href="/wiki/2_May" title="2 May">2 May</a> <a href="/wiki/1998" title="1998">1998</a>, he was called upon to fight in the <a href="/wiki/Battle_of_Hogwarts" title="Battle of Hogwarts">Battle of Hogwarts</a>, along with all his fellow Death Eaters. After the protective enchantments around the castle were broken, he came smashing in through a window in <a href="/wiki/The_Quad" title="The Quad">The Quad</a> <a href="/wiki/The_Quad_battlements" title="The Quad battlements">battlements</a> to attack the defenders within. Before he could harm anybody, he was hit by <a href="/wiki/Momentum-reversing_spell" title="Momentum-reversing spell">Momentum-reversing spell</a> used by <a href="/wiki/Kingsley_Shacklebolt" title="Kingsley Shacklebolt">Kingsley Shacklebolt</a>, which halted him right in his tracks then sent him flying back out the window, <a href="/wiki/Death" title="Death">killing</a> him in the subsequent fall.<sup id="cite_ref-DHF2_1-7" class="reference"><a href="#cite_note-DHF2-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Unidentified_Death_Eater_killed_by_Kingsley_Shacklebolt?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Unidentified_Death_Eater_killed_by_Kingsley_Shacklebolt?action=edit&amp;section=2" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>This Death Eater was portrayed by stuntman <a href="/wiki/Matt_Da_Silva" title="Matt Da Silva">Matt Da Silva</a> in <i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_2" title="Harry Potter and the Deathly Hallows: Part 2">Harry Potter and the Deathly Hallows: Part 2</a></i>.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Unidentified_Death_Eater_killed_by_Kingsley_Shacklebolt?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Unidentified_Death_Eater_killed_by_Kingsley_Shacklebolt?action=edit&amp;section=3" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_2" title="Harry Potter and the Deathly Hallows: Part 2">Harry Potter and the Deathly Hallows: Part 2</a></i> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Unidentified_Death_Eater_killed_by_Kingsley_Shacklebolt?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Unidentified_Death_Eater_killed_by_Kingsley_Shacklebolt?action=edit&amp;section=4" title="Edit section: Notes and references

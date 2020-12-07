@@ -1,0 +1,190 @@
+<div class="mw-parser-output"><table class="notice metadata" id="spoiler" style="text-align: center; background: beige; margin: 1em 05%; padding: 0 1em; border: #a00 1px solid;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/8/8c/Hogwarts_Mystery.jpeg/revision/latest?cb=20180504083359" class="image"><img alt="Hogwarts Mystery.jpeg" src="https://static.wikia.nocookie.net/harrypotter/images/8/8c/Hogwarts_Mystery.jpeg/revision/latest/scale-to-width-down/175?cb=20180504083359" decoding="async" width="175" height="77" data-image-name="Hogwarts Mystery.jpeg" data-image-key="Hogwarts_Mystery.jpeg" /></a>
+</td>
+<td><b>Warning!</b>
+<p>At least some content in this article is derived from information featured in <i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i>. Spoilers will be present within the article.
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/5/5b/Donaghan_Tremlett.jpg/revision/latest?cb=20141208012828" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/5/5b/Donaghan_Tremlett.jpg/revision/latest/scale-to-width-down/343?cb=20141208012828" srcset="https://static.wikia.nocookie.net/harrypotter/images/5/5b/Donaghan_Tremlett.jpg/revision/latest/scale-to-width-down/343?cb=20141208012828 1x, https://static.wikia.nocookie.net/harrypotter/images/5/5b/Donaghan_Tremlett.jpg/revision/latest/scale-to-width-down/686?cb=20141208012828 2x" class="pi-image-thumbnail" alt="" width="270" height="394"
+		     data-image-key="Donaghan_Tremlett.jpg" data-image-name="Donaghan Tremlett.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Donaghan Tremlett</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/1972" title="1972">1972</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Muggle-born" title="Muggle-born">Muggle-born</a><sup id="cite_ref-fwc_1-0" class="reference"><a href="#cite_note-fwc-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="marital">
+	
+		<h3 class="pi-data-label pi-secondary-font">Marital status</h3>
+	
+	<div class="pi-data-value pi-font">Married</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a> or <a href="/wiki/Ireland" title="Ireland">Irish</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Brown</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Donaghan_Tremlett%27s_father" title="Donaghan Tremlett&#039;s father">Mr Tremlett</a> (father)</li><li><a href="/wiki/Donaghan_Tremlett%27s_mother" title="Donaghan Tremlett&#039;s mother">Mrs Tremlett</a> (mother)</li><li><a href="/wiki/Donaghan_Tremlett%27s_wife" title="Donaghan Tremlett&#039;s wife">Wife</a></li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Magical characteristics</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="boggart">
+	
+		<h3 class="pi-data-label pi-secondary-font">Boggart</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Tom_Riddle" title="Tom Riddle">Lord Voldemort</a><sup id="cite_ref-LEGOHP_3-0" class="reference"><a href="#cite_note-LEGOHP-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="patronus">
+	
+		<h3 class="pi-data-label pi-secondary-font">Patronus</h3>
+	
+	<div class="pi-data-value pi-font">Non-corporeal<sup id="cite_ref-LEGOHP_3-1" class="reference"><a href="#cite_note-LEGOHP-3">&#91;3&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Bass player for <a href="/wiki/Weird_Sisters" title="Weird Sisters">The Weird Sisters</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Weird_Sisters" title="Weird Sisters">The Weird Sisters</a></li><li><a href="/wiki/Tremlett_family" title="Tremlett family">Tremlett family</a></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Donaghan Tremlett</b> (b. <a href="/wiki/1972" title="1972">1972</a>) was a <a href="/wiki/Muggle-born" title="Muggle-born">Muggle-born</a> <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a>, who played <a href="/wiki/Bass" title="Bass">bass</a> for the popular wizarding band <a href="/wiki/Weird_Sisters" title="Weird Sisters">The Weird Sisters</a>. 
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_life"><span class="tocnumber">1.1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Later_life"><span class="tocnumber">1.2</span> <span class="toctext">Later life</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Physical_appearance"><span class="tocnumber">2</span> <span class="toctext">Physical appearance</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Behind_the_scenes"><span class="tocnumber">3</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Appearances"><span class="tocnumber">4</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Notes_and_references"><span class="tocnumber">5</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Donaghan_Tremlett?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Donaghan_Tremlett?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tleft show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/9/91/Donaghan_Tremlett_playing_bass.png/revision/latest?cb=20141208014447" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/9/91/Donaghan_Tremlett_playing_bass.png/revision/latest/scale-to-width-down/180?cb=20141208014447" decoding="async" width="180" height="263" class="thumbimage" data-image-name="Donaghan Tremlett playing bass.png" data-image-key="Donaghan_Tremlett_playing_bass.png" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Donaghan_Tremlett_playing_bass.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">At the Yule Ball</p> 		 	</figcaption> </figure>
+<h3><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Donaghan_Tremlett?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Early life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Donaghan_Tremlett?action=edit&amp;section=2" title="Edit section: Early life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Donaghan Tremlett was born in <a href="/wiki/1972" title="1972">1972</a> to <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> <a href="/wiki/Tremlett_family" title="Tremlett family">parents</a>.<sup id="cite_ref-fwc_1-1" class="reference"><a href="#cite_note-fwc-1">&#91;1&#93;</a></sup> He started playing the bass guitar at some point in his childhood, and was noted to be talented at it during his Hogwarts years.<sup id="cite_ref-HM_4-0" class="reference"><a href="#cite_note-HM-4">&#91;4&#93;</a></sup>
+</p><p>Donaghan began attending <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> in <a href="/wiki/1983" title="1983">1983</a> or <a href="/wiki/1984" title="1984">1984</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> During his Hogwarts years, he saw the <a href="/wiki/Weird_Sisters" title="Weird Sisters">The Weird Sisters</a> perform their song <i><a href="/wiki/Do_the_Hippogriff" title="Do the Hippogriff">Do the Hippogriff</a></i> and auditioned to become the new bass player of the band. Donaghan became a member of the band, replacing <a href="/wiki/Jacob%27s_sibling" title="Jacob&#39;s sibling">Jacob's sibling</a>, as he could actually play the bass without the use of <a href="/wiki/Magic" title="Magic">magic</a>.<sup id="cite_ref-HM_4-1" class="reference"><a href="#cite_note-HM-4">&#91;4&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Later_life">Later life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Donaghan_Tremlett?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Later life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Donaghan_Tremlett?action=edit&amp;section=3" title="Edit section: Later life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>On <a href="/wiki/25_December" title="25 December">Christmas Day</a> in <a href="/wiki/1994" title="1994">1994</a>, the band attended the <a href="/wiki/Yule_Ball" title="Yule Ball">Yule Ball</a> at Hogwarts,<sup id="cite_ref-gof23_6-0" class="reference"><a href="#cite_note-gof23-6">&#91;6&#93;</a></sup> where they played classic hits like "<a href="/wiki/Magic_Works" title="Magic Works">Magic Works</a>" and "<a href="/wiki/This_Is_the_Night" title="This Is the Night">This Is the Night</a>," as well as a new song titled "<a href="/wiki/Do_the_Hippogriff" title="Do the Hippogriff">Do the Hippogriff</a>."<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p><p>Donaghan married <a href="/wiki/Donaghan_Tremlett%27s_wife" title="Donaghan Tremlett&#39;s wife">a woman</a> in September <a href="/wiki/1995" title="1995">1995</a>. The wedding was mentioned in the <i><a href="/wiki/Daily_Prophet" title="Daily Prophet">Daily Prophet</a></i> on <a href="/wiki/7_September" title="7 September">7 September</a>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p>
+<figure class="thumb tright show-info-icon" style="width: 252px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/0/06/B6C30M1_funeral_of_Albus_Dumbledore.png/revision/latest?cb=20161209004341" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/0/06/B6C30M1_funeral_of_Albus_Dumbledore.png/revision/latest/scale-to-width-down/250?cb=20161209004341" decoding="async" width="250" height="98" class="thumbimage" data-image-name="B6C30M1 funeral of Albus Dumbledore.png" data-image-key="B6C30M1_funeral_of_Albus_Dumbledore.png" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:B6C30M1_funeral_of_Albus_Dumbledore.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">The <a href="/wiki/Funeral_of_Albus_Dumbledore" title="Funeral of Albus Dumbledore">Funeral of Albus Dumbledore</a> that Donaghan attended</p> 		 	</figcaption> </figure>
+<p>In June <a href="/wiki/1997" title="1997">1997</a>, Donaghan attended the <a href="/wiki/Funeral_of_Albus_Dumbledore" title="Funeral of Albus Dumbledore">funeral</a> of <a href="/wiki/Albus_Dumbledore" title="Albus Dumbledore">Albus Dumbledore</a>, and was one of several familiar people <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> noticed among the crowd.<sup id="cite_ref-hbp30_9-0" class="reference"><a href="#cite_note-hbp30-9">&#91;9&#93;</a></sup>
+</p>
+<figure class="thumb tleft show-info-icon" style="width: 206px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/6/63/Donaghan_Tremlett.gif/revision/latest?cb=20110128211957" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="204" height="248" class="thumbimage lazyload" data-image-name="Donaghan Tremlett.gif" data-image-key="Donaghan_Tremlett.gif" data-src="https://static.wikia.nocookie.net/harrypotter/images/6/63/Donaghan_Tremlett.gif/revision/latest/scale-to-width-down/204?cb=20110128211957" /></a> 	<noscript><a href="https://static.wikia.nocookie.net/harrypotter/images/6/63/Donaghan_Tremlett.gif/revision/latest?cb=20110128211957" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/6/63/Donaghan_Tremlett.gif/revision/latest/scale-to-width-down/204?cb=20110128211957" decoding="async" width="204" height="248" class="thumbimage" data-image-name="Donaghan Tremlett.gif" data-image-key="Donaghan_Tremlett.gif" data-src="https://static.wikia.nocookie.net/harrypotter/images/6/63/Donaghan_Tremlett.gif/revision/latest/scale-to-width-down/204?cb=20110128211957" /></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Donaghan_Tremlett.gif" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Tremlett</p> 		 	</figcaption> </figure>
+<p>After the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">Ministry of Magic</a> was <a href="/wiki/Fall_of_the_Ministry_of_Magic" title="Fall of the Ministry of Magic">taken over</a> by <a href="/wiki/Tom_Riddle" title="Tom Riddle">Lord Voldemort</a> in September 1997, Donaghan, as a <a href="/wiki/Muggle-born" title="Muggle-born">Muggle-born</a>, presumably faced charges before the <a href="/wiki/Muggle-Born_Registration_Commission" title="Muggle-Born Registration Commission">Muggle-Born Registration Commission</a>. He may have been sent to <a href="/wiki/Azkaban" title="Azkaban">Azkaban</a>, or else gone into hiding, like many others of his heritage.
+</p>
+<h2><span class="mw-headline" id="Physical_appearance">Physical appearance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Donaghan_Tremlett?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Physical appearance">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Donaghan_Tremlett?action=edit&amp;section=4" title="Edit section: Physical appearance"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Donaghan was described as "hairy"<sup id="cite_ref-hbp30_9-1" class="reference"><a href="#cite_note-hbp30-9">&#91;9&#93;</a></sup> and, like all members of the Weird Sisters, wore "artfully torn" black robes when onstage.<sup id="cite_ref-gof23_6-1" class="reference"><a href="#cite_note-gof23-6">&#91;6&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Donaghan_Tremlett?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Donaghan_Tremlett?action=edit&amp;section=5" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Donaghan Tremlett was portrayed by <a href="/wiki/Steve_Mackey" title="Steve Mackey">Steve Mackey</a> in the <a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire_(film)" title="Harry Potter and the Goblet of Fire (film)">film adaptation</a> of <i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire" title="Harry Potter and the Goblet of Fire">Harry Potter and the Goblet of Fire</a></i>.</li>
+<li>Donaghan's favourite <a href="/wiki/Quidditch" title="Quidditch">Quidditch</a> <a href="/wiki/Quidditch_team" title="Quidditch team">team</a> was the <a href="/wiki/Kenmare_Kestrels" title="Kenmare Kestrels">Kenmare Kestrels</a>.<sup id="cite_ref-fwc_1-2" class="reference"><a href="#cite_note-fwc-1">&#91;1&#93;</a></sup></li>
+<li>Depending on his month of birth, he may have been in the same year as <a href="/wiki/Charles_Weasley" title="Charles Weasley">Charles Weasley</a>, <a href="/wiki/Nymphadora_Tonks" title="Nymphadora Tonks">Nymphadora Tonks</a> and <a href="/wiki/Jacob%27s_sibling" title="Jacob&#39;s sibling">Jacob's sibling</a>, among others.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Donaghan_Tremlett?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Donaghan_Tremlett?action=edit&amp;section=6" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(video_game)" title="Harry Potter and the Philosopher&#39;s Stone (video game)">Harry Potter and the Philosopher's Stone (video game)</a></i> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(video_game)" title="Harry Potter and the Chamber of Secrets (video game)">Harry Potter and the Chamber of Secrets (video game)</a></i> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire" title="Harry Potter and the Goblet of Fire">Harry Potter and the Goblet of Fire</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire_(film)" title="Harry Potter and the Goblet of Fire (film)">Harry Potter and the Goblet of Fire (film)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">Harry Potter and the Order of the Phoenix</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">Harry Potter and the Half-Blood Prince</a></i></li>
+<li><i><a href="/wiki/Wizard_of_the_Month" title="Wizard of the Month">Wizard of the Month</a></i></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter:_Years_1-4" title="LEGO Harry Potter: Years 1-4">LEGO Harry Potter: Years 1-4</a></i> <span class="template-c">(Appears as "Bassist")</span></li>
+<li><i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i> <small>(Mentioned only)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Donaghan_Tremlett?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Donaghan_Tremlett?action=edit&amp;section=7" title="Edit section: Notes and references

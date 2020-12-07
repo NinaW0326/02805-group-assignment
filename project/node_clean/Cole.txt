@@ -1,0 +1,156 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-muggle pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/6/69/Cole.jpg/revision/latest?cb=20110510225415" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/6/69/Cole.jpg/revision/latest/scale-to-width-down/315?cb=20110510225415" srcset="https://static.wikia.nocookie.net/harrypotter/images/6/69/Cole.jpg/revision/latest/scale-to-width-down/315?cb=20110510225415 1x, https://static.wikia.nocookie.net/harrypotter/images/6/69/Cole.jpg/revision/latest/scale-to-width-down/630?cb=20110510225415 2x" class="pi-image-thumbnail" alt="" width="270" height="400"
+		     data-image-key="Cole.jpg" data-image-name="Cole.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Mrs Cole</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">c. <a href="/wiki/1908" title="1908">1908</a><sup id="cite_ref-birth_1-0" class="reference"><a href="#cite_note-birth-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a><sup id="cite_ref-HBP13_2-0" class="reference"><a href="#cite_note-HBP13-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a><sup id="cite_ref-HBP13_2-1" class="reference"><a href="#cite_note-HBP13-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-HBP13_2-2" class="reference"><a href="#cite_note-HBP13-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female<sup id="cite_ref-HBP13_2-3" class="reference"><a href="#cite_note-HBP13-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Cole_family" title="Cole family">Cole family</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Orphanage matron<sup id="cite_ref-HBP13_2-4" class="reference"><a href="#cite_note-HBP13-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Wool%27s_Orphanage" title="Wool&#039;s Orphanage">Wool's Orphanage</a><sup id="cite_ref-HBP13_2-5" class="reference"><a href="#cite_note-HBP13-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Half-Blood Prince">"<i>There was no doubt that Mrs Cole was an inconveniently sharp woman.</i>"</span></dd>
+<dd>&#8212;Mrs Cole's perceptiveness<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Mrs Cole</b> (born c. <a href="/wiki/1908" title="1908">1908</a>) was the <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> matron of the orphanage where <a href="/wiki/Tom_Riddle" title="Tom Riddle">Tom Marvolo Riddle</a> lived before attending <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a>, in the <a href="/wiki/1930s" title="1930s">1930s</a>. She was skinny and harassed-looking, with a sharp-featured face, but she was by no means a cruel woman, and the orphans were happy for the most part. It is unknown what happened to Mrs Cole after Tom Riddle's stay at the orphanage.<sup id="cite_ref-HBP13_2-6" class="reference"><a href="#cite_note-HBP13-2">&#91;2&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_life_.281908-1926.29"><span class="tocnumber">1.1</span> <span class="toctext">Early life <span>(1908-1926)</span></span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#At_Wool.27s_Orphanage_.281926-1938.29"><span class="tocnumber">1.2</span> <span class="toctext">At Wool's Orphanage <span>(1926-1938)</span></span></a>
+<ul>
+<li class="toclevel-3 tocsection-4"><a href="#Albus_Dumbledore.27s_visit"><span class="tocnumber">1.2.1</span> <span class="toctext">Albus Dumbledore's visit</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-5"><a href="#Later_life_.281938-.3F.29"><span class="tocnumber">1.3</span> <span class="toctext">Later life <span>(1938-?)</span></span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Behind_the_scenes"><span class="tocnumber">2</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Appearances"><span class="tocnumber">3</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Notes_and_references"><span class="tocnumber">4</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Cole?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Cole?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="Early_life_(1908-1926)"></span><span class="mw-headline" id="Early_life_.281908-1926.29">Early life <span class="template-c">(1908-1926)</span></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Cole?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Early life (1908-1926)">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Cole?action=edit&amp;section=2" title="Edit section: Early life (1908-1926)"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Cole was born into a <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> family around <a href="/wiki/1908" title="1908">1908</a>. She was raised in the <a href="/wiki/Muggle_world" title="Muggle world">Muggle world</a>, having "just started" working at <a href="/wiki/Wool%27s_Orphanage" title="Wool&#39;s Orphanage">Wool's Orphanage</a> by <a href="/wiki/December" title="December">December</a> <a href="/wiki/1926" title="1926">1926</a>.<sup id="cite_ref-HBP13_2-7" class="reference"><a href="#cite_note-HBP13-2">&#91;2&#93;</a></sup>
+</p>
+<h3><span id="At_Wool's_Orphanage_(1926-1938)"></span><span class="mw-headline" id="At_Wool.27s_Orphanage_.281926-1938.29">At Wool's Orphanage <span class="template-c">(1926-1938)</span></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Cole?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: At Wool&#039;s Orphanage (1926-1938)">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Cole?action=edit&amp;section=3" title="Edit section: At Wool&#039;s Orphanage (1926-1938)"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Half-Blood Prince">"<i>That's right. I remember it clear as anything, because I'd just started here myself. New Year's Eve and bitter cold, snowing, you know. Nasty night. And this girl, not much older than I was myself at the time, came staggering up the front steps. Well, she wasn't the first. We took her in, and she had the baby within the hour. And she was dead in another hour.</i>"</span></dd>
+<dd>&#8212;Mrs Cole relays the history of Tom Riddle's birth to <a href="/wiki/Albus_Dumbledore" title="Albus Dumbledore">Albus Dumbledore</a><sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">[src]</a></sup></dd>
+<dd></dd></dl></div><p>On <a href="/wiki/31_December" title="31 December">31 December</a> <a href="/wiki/1926" title="1926">1926</a>, <a href="/wiki/Merope_Riddle" title="Merope Riddle">Merope Riddle</a>, not much older than Cole herself, stumbled into the orphanage heavily pregnant with a baby boy and ready to give birth. Mrs Cole helped her into the orphanage, where she had the baby in no more than an hour. Life escaping from her, Merope spent her last moments instructing Mrs Cole to name the newborn baby <a href="/wiki/Tom" title="Tom">Tom</a>, after his father and <a href="/wiki/Marvolo_Gaunt" title="Marvolo Gaunt">Marvolo</a>, after his grandfather. Merope died in another hour, without another word. Cole was apparently so puzzled over the boy's naming that she was convinced that <a href="/wiki/House_of_Gaunt" title="House of Gaunt">Merope's family</a> were from the circus.<sup id="cite_ref-HBP13_2-8" class="reference"><a href="#cite_note-HBP13-2">&#91;2&#93;</a></sup> Whether Mrs Cole relayed this belief to Riddle is unknown.
+</p><p>As <a href="/wiki/Tom_Riddle" title="Tom Riddle">Tom Riddle</a> grew up Mrs Cole noticed that he was different from the other children. As a baby he rarely cried, and when he got older she started to notice that 'nasty' things seemed to happen to children who bothered him: <a href="/wiki/Billy_Stubbs" title="Billy Stubbs">Billy Stubbs</a>'s rabbit was found hanging in the orphanage rafters the day after the two argued; when out on a day trip to the seaside, <a href="/wiki/Amy_Benson" title="Amy Benson">Amy Benson</a> and <a href="/wiki/Dennis_Bishop" title="Dennis Bishop">Dennis Bishop</a> disappeared with Tom and were never the same when they came back.<sup id="cite_ref-HBP13_2-9" class="reference"><a href="#cite_note-HBP13-2">&#91;2&#93;</a></sup>
+</p>
+<h4><span id="Albus_Dumbledore's_visit"></span><span class="mw-headline" id="Albus_Dumbledore.27s_visit">Albus Dumbledore's visit</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Cole?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Albus Dumbledore&#039;s visit">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Cole?action=edit&amp;section=4" title="Edit section: Albus Dumbledore&#039;s visit"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Half-Blood Prince"><b>Mrs Cole</b>: "<i>He scares the other children.</i>"</span></dd>
+<dd><b>Albus Dumbledore</b>: "<i>You mean he is a bully?</i>"</dd>
+<dd><b>Mrs Cole</b>: "<i>I think he must be, but it's very hard to catch him at it. </i>"</dd>
+<dd>&#8212; Mrs Cole relays Tom Riddle's childhood to Albus Dumbledore<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">[src]</a></sup></dd></dl>
+</div><figure class="thumb tleft show-info-icon" style="width: 252px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/6/6f/Mrs_Cole_1930s.jpg/revision/latest?cb=20160712191717" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/6/6f/Mrs_Cole_1930s.jpg/revision/latest/scale-to-width-down/250?cb=20160712191717" decoding="async" width="250" height="114" class="thumbimage" data-image-name="Mrs Cole 1930s.jpg" data-image-key="Mrs_Cole_1930s.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Mrs_Cole_1930s.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Muggle Mrs Cole and wizard Albus Dumbledore talking about Tom Riddle</p> 		 	</figcaption> </figure>
+<p>Later on in her career in 1938, Mrs Cole was visited by <a href="/wiki/Albus_Dumbledore" title="Albus Dumbledore">Albus Dumbledore</a>, who had come to tell her that the late <a href="/wiki/Merope_Riddle" title="Merope Riddle">Merope</a> Gaunts's eleven-year-old son, <a href="/wiki/Tom_Riddle" title="Tom Riddle">Tom Marvolo Riddle</a>, had been accepted into Hogwarts School. This news came as a surprise to Mrs Cole, as she staggered him repeatedly with questions, forcing the wizard to discreetly bewitch her. At Dumbledore's request, Mrs Cole recounted Tom Riddle's history within the orphanage, mostly notably the dark incidents she suspected him of, and remarked that everyone else would be happy to see him gone, though Dumbledore stated that Riddle would have to return to the orphanage during the summer months. She then allowed Dumbledore to visit Tom Riddle in person in his room.<sup id="cite_ref-HBP13_2-10" class="reference"><a href="#cite_note-HBP13-2">&#91;2&#93;</a></sup>
+</p><p>Riddle ended up going to <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> and received a magical education there. Riddle reluctantly returned to the orphanage for the summer holidays, but after finishing his education at Hogwarts, he left forever and eventually became known as Lord Voldemort, the most dangerous <a href="/wiki/Dark_Wizard" title="Dark Wizard">Dark Wizard</a> since <a href="/wiki/Gellert_Grindelwald" title="Gellert Grindelwald">Gellert Grindelwald</a>.<sup id="cite_ref-HBP13_2-11" class="reference"><a href="#cite_note-HBP13-2">&#91;2&#93;</a></sup>
+</p>
+<h3><span id="Later_life_(1938-?)"></span><span class="mw-headline" id="Later_life_.281938-.3F.29">Later life <span class="template-c">(1938-?)</span></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Cole?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Later life (1938-?)">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Cole?action=edit&amp;section=5" title="Edit section: Later life (1938-?)"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>It is unknown if Mrs Cole was still alive during the events of the <a href="/wiki/First_Wizarding_War" title="First Wizarding War">First</a> and <a href="/wiki/Second_Wizarding_War" title="Second Wizarding War">Second Wizarding Wars</a>, or if she had passed away by the time Voldemort was finally defeated. If she was still alive, she would have been around 90 years old by then.
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Cole?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Cole?action=edit&amp;section=6" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tright show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/9/9f/Mrs_Cole_LEGO.png/revision/latest?cb=20200930173843" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/9/9f/Mrs_Cole_LEGO.png/revision/latest/scale-to-width-down/180?cb=20200930173843" decoding="async" width="180" height="267" class="thumbimage" data-image-name="Mrs Cole LEGO.png" data-image-key="Mrs_Cole_LEGO.png" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Mrs_Cole_LEGO.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Mrs Cole as she appears in <i><a href="/wiki/LEGO_Harry_Potter:_Years_5-7" title="LEGO Harry Potter: Years 5-7">LEGO Harry Potter: Years 5-7</a></i></p> 		 	</figcaption> </figure>
+<ul><li>Mrs Cole was portrayed by <a href="/wiki/Great_Britain" title="Great Britain">British</a> actress <a href="/wiki/Amelda_Brown" title="Amelda Brown">Amelda Brown</a> in the <a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince_(film)" title="Harry Potter and the Half-Blood Prince (film)">film adaptation</a> of <i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">Harry Potter and the Half-Blood Prince</a></i>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup></li>
+<li>In the film adaptation, Mrs Cole is depicted as quite older than the character is in the books, being around thirty in the novel and around fifty or sixty in the film.</li>
+<li>In the novel, Mrs Cole mispronounces Dumbledore's name by first calling him Dumberton by mistake. But when she tries to correct herself, she mispronounces his name again by calling him Dunderbore. In the film, Mrs Cole is able to pronounce Dumbledore's name correctly without making any mistakes, as we hear her calling him 'Mr Dumbledore'. This is most likely because the film deleted the drinks she had with Dumbledore before introducing him to Riddle.</li>
+<li>As <i>Mrs</i> is the title used for married women, it could be presumed that Mrs Cole had a husband, even though he was never even mentioned in any <i>Harry Potter</i>-related materials.</li>
+<li>In <i><a href="/wiki/LEGO_Harry_Potter:_Years_5-7" title="LEGO Harry Potter: Years 5-7">LEGO Harry Potter: Years 5-7</a></i>, Mrs Cole is a character that, like <a href="/wiki/Goblin" title="Goblin">goblins</a>, has a key and the power to open safe boxes.<sup id="cite_ref-LEGOHP_4-0" class="reference"><a href="#cite_note-LEGOHP-4">&#91;4&#93;</a></sup></li>
+<li>At one point, Mrs Cole says: "<i>Oh, well, that's better than a whack on the nose with a rusty poker.</i>" In Patrick Süskind's <i><a href="http://en.wikipedia.org/wiki/Perfume_(novel)" class="extiw" title="wikipedia:Perfume (novel)">Das Parfüm</a></i> (<i>Perfume: The Story of a Murderer</i>) a very similar character, Madame Gaillard, cares for that story's main character (and villain) Jean-Baptiste Grenouille, when he spends his youth in an orphanage. Madame Gaillard had been hit by her father with a poker just over the nose, thereby losing her sense of smell.</li>
+<li>Although Muggle parents, guardians, siblings and spouses are usually informed about the existence of the wizarding world (an exception of the international Statute of Wizarding Secrecy), it seems that neither Mrs Cole or any other member of the orphanage staff were told that Tom Riddle was actually a wizard. The reason for this is unknown.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Cole?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Cole?action=edit&amp;section=7" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 8 images related to <i><b><a href="/wiki/Category:Images_of_Cole" title="Category:Images of Cole">Cole</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">Harry Potter and the Half-Blood Prince</a></i> <small>(First appearance)</small> <small>(Appears in flashback(s))</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince_(film)" title="Harry Potter and the Half-Blood Prince (film)">Harry Potter and the Half-Blood Prince (film)</a></i> <small>(Appears in flashback(s))</small></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter:_Years_5-7" title="LEGO Harry Potter: Years 5-7">LEGO Harry Potter: Years 5-7</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Cole?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Cole?action=edit&amp;section=8" title="Edit section: Notes and references

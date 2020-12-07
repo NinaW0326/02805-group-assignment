@@ -1,0 +1,114 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-portrait pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/c/c5/Timothy_the_Timid.JPG/revision/latest?cb=20180709220139" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/c/c5/Timothy_the_Timid.JPG/revision/latest/scale-to-width-down/308?cb=20180709220139" srcset="https://static.wikia.nocookie.net/harrypotter/images/c/c5/Timothy_the_Timid.JPG/revision/latest/scale-to-width-down/308?cb=20180709220139 1x, https://static.wikia.nocookie.net/harrypotter/images/c/c5/Timothy_the_Timid.JPG/revision/latest/scale-to-width-down/616?cb=20180709220139 2x" class="pi-image-thumbnail" alt="" width="270" height="395"
+		     data-image-key="Timothy_the_Timid.JPG" data-image-name="Timothy the Timid.JPG"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Timothy the Timid</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font">Before <a href="/wiki/1995" title="1995">1995</a> (possibly)</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Brown (sparse)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Brown</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a></li><li><a href="/wiki/Quidditch_Captain#Hogwarts_Quidditch_Captains" title="Quidditch Captain">Hogwarts Quidditch Captains</a><sup id="cite_ref-HBP_1-0" class="reference"><a href="#cite_note-HBP-1">&#91;1&#93;</a></sup></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Timothy the Timid</b><sup id="cite_ref-HBP_NDS_2-0" class="reference"><a href="#cite_note-HBP_NDS-2">&#91;2&#93;</a></sup> was a very shy and nervous&#160;<a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> who had a moustache and very sparse brown hair. He was afraid of many things and disliked people (and other portraits)&#160;who stared at him, becoming incredibly paranoid with time. He had&#160;a portrait hung at <a href="/wiki/Hogwarts_Castle" title="Hogwarts Castle">Hogwarts Castle</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#1995.E2.80.931996_school_year"><span class="tocnumber">1.1</span> <span class="toctext">1995–1996 school year</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#1996.E2.80.931997_school_year"><span class="tocnumber">1.2</span> <span class="toctext">1996–1997 school year</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Behind_the_scenes"><span class="tocnumber">2</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Etymology"><span class="tocnumber">3</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Appearances"><span class="tocnumber">4</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Notes_and_references"><span class="tocnumber">5</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Timothy_the_Timid?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Timothy_the_Timid?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="1995–1996_school_year"></span><span class="mw-headline" id="1995.E2.80.931996_school_year"><a href="/wiki/1995%E2%80%931996_school_year" title="1995–1996 school year">1995–1996 school year</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Timothy_the_Timid?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: 1995–1996 school year">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Timothy_the_Timid?action=edit&amp;section=2" title="Edit section: 1995–1996 school year"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>By 1995, Timothy had two sets of portraits, hiding different shortcuts. One set hid a secret passageway between the fifth-floor corridor and the Herbology Corridor. The password for this shortcut was "<i>Flaming <a href="/wiki/Earwig" title="Earwig">earwigs</a></i>".<sup id="cite_ref-OotP_3-0" class="reference"><a href="#cite_note-OotP-3">&#91;3&#93;</a></sup> The other pair of portraits hid a shortcut between the <a href="/wiki/Middle_Courtyard" title="Middle Courtyard">Transfiguration Courtyard</a> and the fifth floor, and its password was "<i>Carpe Diem</i>".<sup id="cite_ref-OotP_GBA_4-0" class="reference"><a href="#cite_note-OotP_GBA-4">&#91;4&#93;</a></sup> Both sets of portraits were placed next to portraits of a <a href="/wiki/Staring_Portrait" title="Staring Portrait">staring eye</a> and Timothy's portrait was very annoyed by it, asking students to "<i>cover </i>him<i> up</i>" and claiming that "<i>he is one of </i>them<i> </i>" (whatever that means).<sup id="cite_ref-OotP_3-1" class="reference"><a href="#cite_note-OotP-3">&#91;3&#93;</a></sup>
+</p>
+<h3><span id="1996–1997_school_year"></span><span class="mw-headline" id="1996.E2.80.931997_school_year"><a href="/wiki/1996%E2%80%931997_school_year" title="1996–1997 school year">1996–1997 school year</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Timothy_the_Timid?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: 1996–1997 school year">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Timothy_the_Timid?action=edit&amp;section=3" title="Edit section: 1996–1997 school year"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the next school year, both sets of portraits were hung on other places. Due to leading close to the Quidditch pitch, the portrait said its password to the <a href="/wiki/Quidditch_Captain#Hogwarts_Quidditch_Captains" title="Quidditch Captain">Quidditch Captains</a>, asking them to have their teams to keep it down, when they passed next to him. One of the two sets hid a passageway from the <a href="/wiki/Grand_Staircase" title="Grand Staircase">Grand Staircase</a> to a stairway, leading towards the Quidditch Gate, and its password was "<i>Boiled Beetles</i>".<sup id="cite_ref-HBP_1-1" class="reference"><a href="#cite_note-HBP-1">&#91;1&#93;</a></sup> The other pair hid a secret passageway from the Quidditch Gate to the Portrait Room.<sup id="cite_ref-HBP_NDS_2-1" class="reference"><a href="#cite_note-HBP_NDS-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Timothy_the_Timid?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Timothy_the_Timid?action=edit&amp;section=4" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Timothy the Timid may have passed away sometime prior to <a href="/wiki/1995" title="1995">1995</a>, as many portraits hung at <a href="/wiki/Hogwarts_Castle" title="Hogwarts Castle">Hogwarts Castle</a> depict deceased individuals.</li>
+<li>The portrait of him that can be seen on the fifth floor corridor close to the <a href="/wiki/Prefects%27_bathroom" class="mw-redirect" title="Prefects&#39; bathroom">Prefects' bathroom</a> was removed in <a href="/wiki/1998" title="1998">1998</a> and instead another part of the fifth floor corridor has been added, as it can be seen that <a href="/wiki/Tom_Riddle" title="Tom Riddle">Voldemort</a> chased <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> through this hallway.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Timothy_the_Timid?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Timothy_the_Timid?action=edit&amp;section=5" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The name "Timothy" comes from the Greek name "Τιμοθεος" ("<i>Timotheos</i>"), meaning "honouring God", derived from τιμαω ("<i>timao</i>"), "to honour" and θεος ("<i>theos</i>"), "god".
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Timothy_the_Timid?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Timothy_the_Timid?action=edit&amp;section=6" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(video_game)" title="Harry Potter and the Order of the Phoenix (video game)">Harry Potter and the Order of the Phoenix (video game)</a></i> <small>(First appearance)</small> <small>(Appears in portrait(s))</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince_(video_game)" title="Harry Potter and the Half-Blood Prince (video game)">Harry Potter and the Half-Blood Prince (video game)</a></i> <small>(Appears in portrait(s))</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Timothy_the_Timid?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Timothy_the_Timid?action=edit&amp;section=7" title="Edit section: Notes and references

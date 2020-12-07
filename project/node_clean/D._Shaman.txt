@@ -1,0 +1,79 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-daily-prophet pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/c/c4/D.Shaman.jpg/revision/latest?cb=20160407061008" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/c/c4/D.Shaman.jpg/revision/latest/scale-to-width-down/212?cb=20160407061008" srcset="https://static.wikia.nocookie.net/harrypotter/images/c/c4/D.Shaman.jpg/revision/latest/scale-to-width-down/212?cb=20160407061008 1x, https://static.wikia.nocookie.net/harrypotter/images/c/c4/D.Shaman.jpg/revision/latest/scale-to-width-down/424?cb=20160407061008 2x" class="pi-image-thumbnail" alt="" width="212" height="337"
+		     data-image-key="D.Shaman.jpg" data-image-name="D.Shaman.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">D. Shaman</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male<sup id="cite_ref-gender_1-0" class="reference"><a href="#cite_note-gender-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Black (also long beard)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Light</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Advice columnist for the <i><a href="/wiki/Daily_Prophet" title="Daily Prophet">Daily Prophet</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/Daily_Prophet" title="Daily Prophet">Daily Prophet</a></i></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Dr. D. Shaman</b> was a <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a><sup id="cite_ref-gender_1-1" class="reference"><a href="#cite_note-gender-1">&#91;1&#93;</a></sup> doctor and advice columnist.<sup id="cite_ref-ootp-f_2-0" class="reference"><a href="#cite_note-ootp-f-2">&#91;2&#93;</a></sup><sup id="cite_ref-hbp-f_3-0" class="reference"><a href="#cite_note-hbp-f-3">&#91;3&#93;</a></sup>
+</p><p>He wrote the "<a href="/wiki/Ask_D._Shaman" title="Ask D. Shaman">Ask D. Shaman</a>" advice column for the <i><a href="/wiki/Daily_Prophet" title="Daily Prophet">Daily Prophet</a></i> starting from the <a href="/wiki/29_November" title="29 November">November 29</a> <a href="/wiki/1926" title="1926">1926</a><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> issue onward.<sup id="cite_ref-ootp-f_2-1" class="reference"><a href="#cite_note-ootp-f-2">&#91;2&#93;</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p><p>He also wrote an article about <a href="/wiki/Wrackspurt" title="Wrackspurt">Wrackspurts</a>, entitled "Wrackspurts: Unfuss the Mystery", for a <a href="/wiki/1996" title="1996">1996</a> issue of <i><a href="/wiki/The_Quibbler" title="The Quibbler">The Quibbler</a></i>.<sup id="cite_ref-hbp-f_3-1" class="reference"><a href="#cite_note-hbp-f-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/D._Shaman?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/D._Shaman?action=edit&amp;section=1" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire_(film)" title="Harry Potter and the Goblet of Fire (film)">Harry Potter and the Goblet of Fire (film)</a></i> <small>(Picture only)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(film)" title="Harry Potter and the Order of the Phoenix (film)">Harry Potter and the Order of the Phoenix (film)</a></i> <small>(Picture only)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince_(film)" title="Harry Potter and the Half-Blood Prince (film)">Harry Potter and the Half-Blood Prince (film)</a></i> <small>(Picture only)</small></li>
+<li><i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(film)" title="Fantastic Beasts and Where to Find Them (film)">Fantastic Beasts and Where to Find Them (film)</a></i> <small>(Picture only)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/D._Shaman?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/D._Shaman?action=edit&amp;section=2" title="Edit section: Notes and references

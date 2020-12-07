@@ -1,0 +1,224 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-ravenclaw pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/4/4b/Pepe4.jpg/revision/latest?cb=20160830005853" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/4/4b/Pepe4.jpg/revision/latest/scale-to-width-down/283?cb=20160830005853" srcset="https://static.wikia.nocookie.net/harrypotter/images/4/4b/Pepe4.jpg/revision/latest/scale-to-width-down/283?cb=20160830005853 1x, https://static.wikia.nocookie.net/harrypotter/images/4/4b/Pepe4.jpg/revision/latest/scale-to-width-down/566?cb=20160830005853 2x" class="pi-image-thumbnail" alt="" width="270" height="379"
+		     data-image-key="Pepe4.jpg" data-image-name="Pepe4.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Penelope Clearwater</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">Between <a href="/wiki/1_September" title="1 September">1 September</a> <a href="/wiki/1976" title="1976">1976</a> and <a href="/wiki/31_August" title="31 August">31 August</a> <a href="/wiki/1977" title="1977">1977</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Muggle-born" title="Muggle-born">Muggle-born</a> or <a href="/wiki/Half-blood" title="Half-blood">Half-blood</a><sup id="cite_ref-bloodstatus_1-0" class="reference"><a href="#cite_note-bloodstatus-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a> or <a href="/wiki/Ireland" title="Ireland">Irish</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="alias">
+	
+		<h3 class="pi-data-label pi-secondary-font">Also known as</h3>
+	
+	<div class="pi-data-value pi-font">Penny (by <a href="/wiki/Percy_Weasley" title="Percy Weasley">Percy Weasley</a>)<sup id="cite_ref-P13_3-0" class="reference"><a href="#cite_note-P13-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="title">
+	
+		<h3 class="pi-data-label pi-secondary-font">Title(s)</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Prefect" title="Prefect">Prefect</a><sup id="cite_ref-C12_4-0" class="reference"><a href="#cite_note-C12-4">&#91;4&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-C12_4-1" class="reference"><a href="#cite_note-C12-4">&#91;4&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female<sup id="cite_ref-C12_4-2" class="reference"><a href="#cite_note-C12-4">&#91;4&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="romances">
+	
+		<h3 class="pi-data-label pi-secondary-font">Romances</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Percy_Weasley" title="Percy Weasley">Percy Weasley</a> (ex-boyfriend)<sup id="cite_ref-C18_5-0" class="reference"><a href="#cite_note-C18-5">&#91;5&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Magical characteristics</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="boggart">
+	
+		<h3 class="pi-data-label pi-secondary-font">Boggart</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Tom_Riddle" title="Tom Riddle">Lord Voldemort</a><sup id="cite_ref-LEGOY1_6-0" class="reference"><a href="#cite_note-LEGOY1-6">&#91;6&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="patronus">
+	
+		<h3 class="pi-data-label pi-secondary-font">Patronus</h3>
+	
+	<div class="pi-data-value pi-font">Non-corporeal<sup id="cite_ref-LEGOY2_7-0" class="reference"><a href="#cite_note-LEGOY2-7">&#91;7&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="house">
+	
+		<h3 class="pi-data-label pi-secondary-font">House</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Ravenclaw" title="Ravenclaw">Ravenclaw</a><sup id="cite_ref-C12_4-3" class="reference"><a href="#cite_note-C12-4">&#91;4&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>Clearwater family</li><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a><sup id="cite_ref-C12_4-4" class="reference"><a href="#cite_note-C12-4">&#91;4&#93;</a></sup><ul><li><a href="/wiki/Ravenclaw" title="Ravenclaw">Ravenclaw</a><sup id="cite_ref-C12_4-5" class="reference"><a href="#cite_note-C12-4">&#91;4&#93;</a></sup></li></ul></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Penelope "Penny" Clearwater</b> (born c. <a href="/wiki/1976" title="1976">1976</a> or <a href="/wiki/1977" title="1977">1977</a>) was a <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> and <a href="/wiki/Ravenclaw" title="Ravenclaw">Ravenclaw</a> student at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> from <a href="/wiki/1980s" title="1980s">1980s</a> to <a href="/wiki/1995" title="1995">1995</a>. In her later school years, she was a <a href="/wiki/Prefect" title="Prefect">Prefect</a>, and eventually started dating <a href="/wiki/Percy_Weasley" title="Percy Weasley">Percy Weasley</a>, a <a href="/wiki/Wizardkind" title="Wizardkind">Gryffindor student</a> and a fellow <a href="/wiki/Prefect" title="Prefect">Prefect</a>.<sup id="cite_ref-C18_5-1" class="reference"><a href="#cite_note-C18-5">&#91;5&#93;</a></sup> After she finished her education at Hogwarts, Penelope and Percy never married. Percy married another woman named <a href="/wiki/Audrey_Weasley" title="Audrey Weasley">Audrey Weasley</a>, instead.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_life"><span class="tocnumber">1.1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Hogwarts_years"><span class="tocnumber">1.2</span> <span class="toctext">Hogwarts years</span></a>
+<ul>
+<li class="toclevel-3 tocsection-4"><a href="#Early_years"><span class="tocnumber">1.2.1</span> <span class="toctext">Early years</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#Sixth_year"><span class="tocnumber">1.2.2</span> <span class="toctext">Sixth year</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Seventh_year"><span class="tocnumber">1.2.3</span> <span class="toctext">Seventh year</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Physical_appearance"><span class="tocnumber">2</span> <span class="toctext">Physical appearance</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Possessions"><span class="tocnumber">3</span> <span class="toctext">Possessions</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Relationships"><span class="tocnumber">4</span> <span class="toctext">Relationships</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Percy_Weasley"><span class="tocnumber">4.1</span> <span class="toctext">Percy Weasley</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Etymology"><span class="tocnumber">5</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Behind_the_scenes"><span class="tocnumber">6</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Appearances"><span class="tocnumber">7</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Notes_and_references"><span class="tocnumber">8</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Penelope_Clearwater?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Penelope_Clearwater?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Penelope_Clearwater?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Early life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Penelope_Clearwater?action=edit&amp;section=2" title="Edit section: Early life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Penelope was born in c. <a href="/wiki/1976" title="1976">1976</a> or <a href="/wiki/1977" title="1977">1977</a> in <a href="/wiki/Great_Britain" title="Great Britain">Great Britain</a> or <a href="/wiki/Ireland" title="Ireland">Ireland</a>. She was either from a <a href="/wiki/Non-magic_people" title="Non-magic people">muggle</a> family or had both muggle and magical heritage.<sup id="cite_ref-bloodstatus_1-1" class="reference"><a href="#cite_note-bloodstatus-1">&#91;1&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Hogwarts_years">Hogwarts years</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Penelope_Clearwater?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Hogwarts years">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Penelope_Clearwater?action=edit&amp;section=3" title="Edit section: Hogwarts years"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Early_years">Early years</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Penelope_Clearwater?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Early years">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Penelope_Clearwater?action=edit&amp;section=4" title="Edit section: Early years"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Penelope Clearwater arrived at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> in <a href="/wiki/1988" title="1988">1988</a> and upon her arrival was <a href="/wiki/Sorting_Hat" title="Sorting Hat">Sorted</a> into the <a href="/wiki/Hogwarts_Houses" title="Hogwarts Houses">House</a> of <a href="/wiki/Ravenclaw" title="Ravenclaw">Ravenclaw</a>.
+</p>
+<h4><span class="mw-headline" id="Sixth_year">Sixth year</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Penelope_Clearwater?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Sixth year">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Penelope_Clearwater?action=edit&amp;section=5" title="Edit section: Sixth year"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Chamber of Secrets">"<i>I beg your pardon? Our common room? I'm a Ravenclaw.</i>"</span></dd>
+<dd>&#8212;Penelope's suspicion at a <a href="/wiki/Polyjuice_Potion" title="Polyjuice Potion">disguised</a> <a href="/wiki/Ronald_Weasley" title="Ronald Weasley">Ron Weasley</a>.<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets" title="Harry Potter and the Chamber of Secrets">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p>In the summer of <a href="/wiki/1992" title="1992">1992</a>, <a href="/wiki/Percy_Weasley" title="Percy Weasley">Percy Weasley</a> wrote many letters to her and met up with her in secret throughout the next school year.<sup id="cite_ref-C18_5-2" class="reference"><a href="#cite_note-C18-5">&#91;5&#93;</a></sup> At Christmas <a href="/wiki/1992" title="1992">1992</a>, Penelope was asked for directions by <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> and <a href="/wiki/Ronald_Weasley" title="Ronald Weasley">Ron Weasley</a>, who disguised themselves as <a href="/wiki/Vincent_Crabbe" title="Vincent Crabbe">Vincent Crabbe</a> and <a href="/wiki/Gregory_Goyle" title="Gregory Goyle">Gregory Goyle</a>, while they were wandering around looking for the <a href="/wiki/Slytherin_Dungeon" title="Slytherin Dungeon">Slytherin common room</a>. She did not trust them and told them that being in Ravenclaw, she could not help them.<sup id="cite_ref-C12_4-6" class="reference"><a href="#cite_note-C12-4">&#91;4&#93;</a></sup>
+</p>
+<figure class="thumb tleft show-info-icon" style="width: 247px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/b/b4/Petrified.jpg/revision/latest?cb=20150106164737" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/b/b4/Petrified.jpg/revision/latest/scale-to-width-down/245?cb=20150106164737" decoding="async" width="245" height="108" class="thumbimage" data-image-name="Petrified.jpg" data-image-key="Petrified.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Petrified.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">A petrified Penelope in the hospital wing</p> 		 	</figcaption> </figure>
+<p>In the same year, the <a href="/wiki/Chamber_of_Secrets" title="Chamber of Secrets">Chamber of Secrets</a> had been opened, unleashing a "monster" that was hunting down <a href="/wiki/Muggle-born" title="Muggle-born">Muggle-born</a> students. <a href="/wiki/Hermione_Granger" title="Hermione Granger">Hermione Granger</a> deduced that it was a <a href="/wiki/Salazar_Slytherin%27s_Basilisk" class="mw-redirect" title="Salazar Slytherin&#39;s Basilisk">basilisk</a> and ran into Penelope as she rushed to inform her friends.<sup id="cite_ref-C14_8-0" class="reference"><a href="#cite_note-C14-8">&#91;8&#93;</a></sup><sup id="cite_ref-C16_9-0" class="reference"><a href="#cite_note-C16-9">&#91;9&#93;</a></sup>
+</p><p>Penelope and Hermione made good use of Penelope's mirror to navigate the school hallways, but they looked the <a href="/wiki/Basilisk" title="Basilisk">basilisk</a> in the eye through the reflection of the mirror, <a href="/wiki/Petrification" title="Petrification">petrifying</a> them both. Percy was known to be very upset with Penelope's unfortunate petrification.<sup id="cite_ref-C14_8-1" class="reference"><a href="#cite_note-C14-8">&#91;8&#93;</a></sup> Penelope was eventually revived with a <a href="/wiki/Mandrake_Restorative_Draught" title="Mandrake Restorative Draught">draught</a> prepared from <a href="/wiki/Mandrake" title="Mandrake">Mandrake</a> roots, along with Hermione and the other victims.<sup id="cite_ref-C18_5-3" class="reference"><a href="#cite_note-C18-5">&#91;5&#93;</a></sup>
+</p><p>Before the end of the school year, <a href="/wiki/Ginevra_Weasley" title="Ginevra Weasley">Ginny Weasley</a> walked in on Penelope kissing Percy in an empty classroom. He told her to keep it secret, but she later told on them.<sup id="cite_ref-C18_5-4" class="reference"><a href="#cite_note-C18-5">&#91;5&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="Seventh_year">Seventh year</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Penelope_Clearwater?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Seventh year">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Penelope_Clearwater?action=edit&amp;section=6" title="Edit section: Seventh year"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>By the summer of <a href="/wiki/1993" title="1993">1993</a>, Penelope was still dating Percy who had a picture of her at home. When someone spilt tea on it, Percy was upset and blamed Ron, who said Penelope hid her face because she had a blotchy nose.<sup id="cite_ref-P5_10-0" class="reference"><a href="#cite_note-P5-10">&#91;10&#93;</a></sup>
+</p><p>In September 1993, while on <a href="/wiki/Platform_Nine_and_Three-Quarters" title="Platform Nine and Three-Quarters">Platform Nine and Three-Quarters</a>, Penelope was approached by an excited Percy, wanting to show her the shiny new badge he had for being made Head Boy.<sup id="cite_ref-P5_10-1" class="reference"><a href="#cite_note-P5-10">&#91;10&#93;</a></sup>
+</p><p>Penelope appeared to be a serious <a href="/wiki/Quidditch" title="Quidditch">Quidditch</a> fan, having appreciated <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a>'s new <a href="/wiki/Broomstick" title="Broomstick">broomstick</a>, a <a href="/wiki/Firebolt" title="Firebolt">Firebolt</a>, greatly, and betting ten galleons on the outcome of the <a href="/wiki/Ravenclaw" title="Ravenclaw">Ravenclaw</a> vs <a href="/wiki/Gryffindor" title="Gryffindor">Gryffindor</a> match with Percy. When she wanted to hold the broomstick, Percy heartily told her not to sabotage them by doing so.<sup id="cite_ref-P13_3-1" class="reference"><a href="#cite_note-P13-3">&#91;3&#93;</a></sup>
+</p><p>When Ravenclaw later lost, Percy congratulated Harry and then went to find Penelope to receive the ten galleons she owed him.<sup id="cite_ref-P13_3-2" class="reference"><a href="#cite_note-P13-3">&#91;3&#93;</a></sup> Penelope later listened to Percy, the only one to do so, when he explained he would make lots of proposals about the Magical Law Enforcement when he could.<sup id="cite_ref-P22_11-0" class="reference"><a href="#cite_note-P22-11">&#91;11&#93;</a></sup>
+</p><p>Sadly, she did not end up marrying her Hogwarts boyfriend, as Percy eventually married a woman named <a href="/wiki/Audrey_Weasley" title="Audrey Weasley">Audrey</a> and had two children with her.
+</p>
+<h2><span class="mw-headline" id="Physical_appearance">Physical appearance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Penelope_Clearwater?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Physical appearance">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Penelope_Clearwater?action=edit&amp;section=7" title="Edit section: Physical appearance"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Penelope was described as having long, curly hair.<sup id="cite_ref-C12_4-7" class="reference"><a href="#cite_note-C12-4">&#91;4&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Possessions">Possessions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Penelope_Clearwater?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Possessions">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Penelope_Clearwater?action=edit&amp;section=8" title="Edit section: Possessions"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tright show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/4/46/PenelopeClearwaterMirror.png/revision/latest?cb=20150627142231" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/4/46/PenelopeClearwaterMirror.png/revision/latest/scale-to-width-down/180?cb=20150627142231" decoding="async" width="180" height="133" class="thumbimage" data-image-name="PenelopeClearwaterMirror.png" data-image-key="PenelopeClearwaterMirror.png" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:PenelopeClearwaterMirror.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Her personal mirror</p> 		 	</figcaption> </figure>
+<ul><li><b><a href="/wiki/Wand" title="Wand">Wand</a></b>: Penelope owned a wand, which was of an unknown length, <a href="/wiki/Wand_wood" title="Wand wood">wand wood</a> and <a href="/wiki/Wand_core" title="Wand core">core</a>. She presumably purchased it from <a href="/wiki/Ollivanders" title="Ollivanders">Ollivanders</a> in <a href="/wiki/Diagon_Alley" title="Diagon Alley">Diagon Alley</a>, before starting her <a href="/wiki/First_year" title="First year">first year</a> at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> in <a href="/wiki/1987" title="1987">1987</a>.<sup id="cite_ref-LEGOY1_6-1" class="reference"><a href="#cite_note-LEGOY1-6">&#91;6&#93;</a></sup><sup id="cite_ref-LEGOY2_7-1" class="reference"><a href="#cite_note-LEGOY2-7">&#91;7&#93;</a></sup></li>
+<li><b><a href="/wiki/Penelope_Clearwater%27s_mirror" title="Penelope Clearwater&#39;s mirror">Mirror</a></b>: Penelope owned an ornate hand mirror, which was useful for looking around corners. When she encountered the <a href="/wiki/Serpent_of_Slytherin" title="Serpent of Slytherin">Serpent of Slytherin</a> in <a href="/wiki/1993" title="1993">1993</a>, the <a href="/wiki/Basilisk" title="Basilisk">Basilisk</a>'s deadly gaze was reflected by the mirror's glass and only resulted in her and <a href="/wiki/Hermione_Granger" title="Hermione Granger">Hermione Granger</a> being <a href="/wiki/Petrification" title="Petrification">petrified</a>, saving both their lives.<sup id="cite_ref-C16_9-1" class="reference"><a href="#cite_note-C16-9">&#91;9&#93;</a></sup></li>
+<li><b><a href="/wiki/Prefect_badge" title="Prefect badge">Prefect badge</a></b>: Having been a <a href="/wiki/Ravenclaw" title="Ravenclaw">Ravenclaw</a> <a href="/wiki/Prefect" title="Prefect">Prefect</a> whilst at Hogwarts, Penelope owned a Ravenclaw Prefect badge, which she would have worn during her official Prefect duties.<sup id="cite_ref-C16_9-2" class="reference"><a href="#cite_note-C16-9">&#91;9&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Relationships">Relationships</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Penelope_Clearwater?veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Edit section: Relationships">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Penelope_Clearwater?action=edit&amp;section=9" title="Edit section: Relationships"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Percy_Weasley">Percy Weasley</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Penelope_Clearwater?veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Edit section: Percy Weasley">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Penelope_Clearwater?action=edit&amp;section=10" title="Edit section: Percy Weasley"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Chamber of Secrets">"<i>He's been meeting her all over the school in secret. I walked in on them kissing in an empty classroom one day. He was so upset when she was — you know — attacked. You won't tease him, will you?</i>"</span></dd>
+<dd>&#8212;<a href="/wiki/Ginevra_Weasley" title="Ginevra Weasley">Ginny Weasley</a> on Percy and Penelope's relationship<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets" title="Harry Potter and the Chamber of Secrets">[src]</a></sup></dd>
+<dd></dd></dl></div><figure class="thumb tleft show-info-icon" style="width: 157px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/4/43/Peciee.PNG/revision/latest?cb=20100428182028" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/4/43/Peciee.PNG/revision/latest/scale-to-width-down/155?cb=20100428182028" decoding="async" width="155" height="228" class="thumbimage" data-image-name="Peciee.PNG" data-image-key="Peciee.PNG" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Peciee.PNG" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption"><a href="/wiki/Percy_Weasley" title="Percy Weasley">Percy Weasley</a>, her ex-boyfriend</p> 		 	</figcaption> </figure>
+<p>In the summer of <a href="/wiki/1992" title="1992">1992</a>, Percy and Penelope wrote many letters to each other.<sup id="cite_ref-C18_5-5" class="reference"><a href="#cite_note-C18-5">&#91;5&#93;</a></sup> She began dating Percy Weasley in her <a href="/wiki/1992%E2%80%931993_school_year" title="1992–1993 school year">fifth year</a>, but they kept it secret. They would meet in deserted classrooms to kiss, but were caught once by Percy's sister, Ginny.<sup id="cite_ref-C18_5-6" class="reference"><a href="#cite_note-C18-5">&#91;5&#93;</a></sup>
+</p><p>Percy was distraught when Penelope was <a href="/wiki/Petrification" title="Petrification">petrified</a> in <a href="/wiki/1993" title="1993">1993</a><sup id="cite_ref-C18_5-7" class="reference"><a href="#cite_note-C18-5">&#91;5&#93;</a></sup>, and immensely relieved when she was cured by the <a href="/wiki/Mandrake_Restorative_Draught" title="Mandrake Restorative Draught">Mandrake Restorative Draught</a>.<sup id="cite_ref-C16_9-3" class="reference"><a href="#cite_note-C16-9">&#91;9&#93;</a></sup> The secret came out when Ginny revealed the truth to her brothers, asking them not to tease Percy over the fact, which they did anyway.<sup id="cite_ref-C18_5-8" class="reference"><a href="#cite_note-C18-5">&#91;5&#93;</a></sup>
+</p><p>With the secret out, Percy and Penelope appeared in public together, and he kept a photo of her. During his stay at the <a href="/wiki/Leaky_Cauldron" title="Leaky Cauldron">Leaky Cauldron</a> before the start of his seventh year, he accused Ron of dripping tea on it.<sup id="cite_ref-P5_10-2" class="reference"><a href="#cite_note-P5-10">&#91;10&#93;</a></sup>
+</p><p>Percy was excited to see her on <a href="/wiki/Platform_Nine_and_Three-Quarters" title="Platform Nine and Three-Quarters">Platform 9¾</a>, wanting to show her the Head Boy badge he was given<sup id="cite_ref-P5_10-3" class="reference"><a href="#cite_note-P5-10">&#91;10&#93;</a></sup> and, later in the year, wagered ten <a href="/wiki/Galleon" title="Galleon">Galleons</a> on the outcome of the <a href="/wiki/Gryffindor" title="Gryffindor">Gryffindor</a> vs <a href="/wiki/Ravenclaw" title="Ravenclaw">Ravenclaw</a> match, despite not actually having ten galleons. He playfully remarked to her about sabotaging Harry's <a href="/wiki/Firebolt" title="Firebolt">Firebolt</a> when she asked if she could touch it. He was unafraid of asking Penelope for the ten galleons she later owed him,<sup id="cite_ref-P13_3-3" class="reference"><a href="#cite_note-P13-3">&#91;3&#93;</a></sup> while she would be the only who cared to listen to him while he ranted at a later date.<sup id="cite_ref-P22_11-1" class="reference"><a href="#cite_note-P22-11">&#91;11&#93;</a></sup>
+</p><p>For unknown reasons, Percy and Penelope did not stay together, and Percy ended up marrying <a href="/wiki/Audrey_Weasley" title="Audrey Weasley">Audrey Weasley</a>.
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Penelope_Clearwater?veaction=edit&amp;section=11" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Penelope_Clearwater?action=edit&amp;section=11" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>In <i>The Odyssey</i>, <a href="http://en.wikipedia.org/wiki/Penelope" class="extiw" title="wikipedia:Penelope">Penelope</a> was the wife of Odysseus. While he was away fighting the Trojan Wars, she was pursued by many suitors; to hold them off, Penelope told them she would choose one when she finished weaving a shroud, but unravelled her work every night to prevent this from occurring. The poetic sense of the name is a faithful, clever, woman, particularly a wife. It is derived from the Greek words <i>pene</i>, "web", and <i>ōps</i>, meaning "eye" or "face", although it is questionable; the name can also mean "weaver" or "duck".</li>
+<li>The name is also possibly derived from the Greek name "penelops" for a kind of <a href="/wiki/Duck" title="Duck">duck</a> that was said to have rescued and nurtured Penelope when she was exposed to die as an infant.</li>
+<li>Clearwater is a descriptive place name that suggests her ancestors lived near a body of <a href="/wiki/Water" title="Water">water</a> (which could be why her name may mean "duck").</li></ul>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Penelope_Clearwater?veaction=edit&amp;section=12" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Penelope_Clearwater?action=edit&amp;section=12" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tright show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/5/54/Penelope_Clearwater.jpg/revision/latest?cb=20100707144307" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="180" height="249" class="thumbimage lazyload" data-image-name="Penelope Clearwater.jpg" data-image-key="Penelope_Clearwater.jpg" data-src="https://static.wikia.nocookie.net/harrypotter/images/5/54/Penelope_Clearwater.jpg/revision/latest/scale-to-width-down/180?cb=20100707144307" /></a> 	<noscript><a href="https://static.wikia.nocookie.net/harrypotter/images/5/54/Penelope_Clearwater.jpg/revision/latest?cb=20100707144307" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/5/54/Penelope_Clearwater.jpg/revision/latest/scale-to-width-down/180?cb=20100707144307" decoding="async" width="180" height="249" class="thumbimage" data-image-name="Penelope Clearwater.jpg" data-image-key="Penelope_Clearwater.jpg" data-src="https://static.wikia.nocookie.net/harrypotter/images/5/54/Penelope_Clearwater.jpg/revision/latest/scale-to-width-down/180?cb=20100707144307" /></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Penelope_Clearwater.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Penelope Clearwater in <i><a href="/wiki/LEGO_Harry_Potter:_Years_1-4" title="LEGO Harry Potter: Years 1-4">LEGO Harry Potter: Years 1-4</a></i></p> 		 	</figcaption> </figure>
+<ul><li>In the <a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(film)" title="Harry Potter and the Chamber of Secrets (film)">film adaptation</a> of <i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets" title="Harry Potter and the Chamber of Secrets">Harry Potter and the Chamber of Secrets</a></i>, Penelope is not a victim of the basilisk, and only appears when she and <a href="/wiki/Percy_Weasley" title="Percy Weasley">Percy Weasley</a> are walking from the <a href="/wiki/Great_Hall" title="Great Hall">Great Hall</a> during the first day of term, and are met and greeted by <a href="/wiki/Nicholas_de_Mimsy-Porpington" title="Nicholas de Mimsy-Porpington">Nearly Headless Nick</a>, and later, in the crowd during the <a href="/wiki/Duelling_Club" title="Duelling Club">Duelling Club</a>. She is also present at the <a href="/wiki/End-of-Term_Feast" title="End-of-Term Feast">End-of-Term Feast</a>. She is played by <a href="/wiki/Gemma_Padley" title="Gemma Padley">Gemma Padley</a>.</li>
+<li>Early printings of <i>Harry Potter and the Chamber of Secrets</i> make Penelope a <a href="/wiki/Fifth_year" title="Fifth year">fifth year</a> student, making her a year below Percy. Later printings revise this to make her a <a href="/wiki/Sixth_year" title="Sixth year">sixth year</a>.</li>
+<li>Despite Penelope graduated from <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts</a> in <a href="/wiki/1994" title="1994">1994</a>, she is depicted as a Hogwarts student in <i><a href="/wiki/LEGO_Harry_Potter:_Years_5-7" title="LEGO Harry Potter: Years 5-7">LEGO Harry Potter: Years 5-7</a></i>, which is set from <a href="/wiki/1995" title="1995">1995</a> onwards. This was probably done simply for aesthetic reasons.<sup id="cite_ref-LEGOY2_7-2" class="reference"><a href="#cite_note-LEGOY2-7">&#91;7&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Penelope_Clearwater?veaction=edit&amp;section=13" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Penelope_Clearwater?action=edit&amp;section=13" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" class="lazyload" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 12 images related to <i><b><a href="/wiki/Category:Images_of_Penelope_Clearwater" title="Category:Images of Penelope Clearwater">Penelope Clearwater</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<figure class="thumb tright show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/5/50/Penelope_Clearwater.png/revision/latest?cb=20190504135831" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="180" height="241" class="thumbimage lazyload" data-image-name="Penelope Clearwater.png" data-image-key="Penelope_Clearwater.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/5/50/Penelope_Clearwater.png/revision/latest/scale-to-width-down/180?cb=20190504135831" /></a> 	<noscript><a href="https://static.wikia.nocookie.net/harrypotter/images/5/50/Penelope_Clearwater.png/revision/latest?cb=20190504135831" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/5/50/Penelope_Clearwater.png/revision/latest/scale-to-width-down/180?cb=20190504135831" decoding="async" width="180" height="241" class="thumbimage" data-image-name="Penelope Clearwater.png" data-image-key="Penelope_Clearwater.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/5/50/Penelope_Clearwater.png/revision/latest/scale-to-width-down/180?cb=20190504135831" /></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Penelope_Clearwater.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Penelope Clearwater in <i><a href="/wiki/LEGO_Harry_Potter:_Years_5-7" title="LEGO Harry Potter: Years 5-7">LEGO Harry Potter: Years 5-7</a></i></p> 		 	</figcaption> </figure>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets" title="Harry Potter and the Chamber of Secrets">Harry Potter and the Chamber of Secrets</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(film)" title="Harry Potter and the Chamber of Secrets (film)">Harry Potter and the Chamber of Secrets (film)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(video_game)" title="Harry Potter and the Chamber of Secrets (video game)">Harry Potter and the Chamber of Secrets (video game)</a></i> <small>(Mentioned only)</small> <span class="template-c">(Mentioned as <i>secret girlfriend</i>)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban" title="Harry Potter and the Prisoner of Azkaban">Harry Potter and the Prisoner of Azkaban</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(video_game)" title="Harry Potter and the Prisoner of Azkaban (video game)">Harry Potter and the Prisoner of Azkaban (video game)</a></i> <small>(Mentioned only)</small> <span class="template-c">(GBA version only)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">Harry Potter and the Deathly Hallows</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1" title="Harry Potter and the Deathly Hallows: Part 1">Harry Potter and the Deathly Hallows: Part 1</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter:_Years_1-4" title="LEGO Harry Potter: Years 1-4">LEGO Harry Potter: Years 1-4</a></i></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter:_Years_5-7" title="LEGO Harry Potter: Years 5-7">LEGO Harry Potter: Years 5-7</a></i></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i></li>
+<li><i><a href="/wiki/Wizarding_World_(website)" title="Wizarding World (website)">Wizarding World</a></i> <small>(Mentioned only)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Penelope_Clearwater?veaction=edit&amp;section=14" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Penelope_Clearwater?action=edit&amp;section=14" title="Edit section: Notes and references

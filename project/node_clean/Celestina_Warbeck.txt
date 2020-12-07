@@ -1,0 +1,241 @@
+<div class="mw-parser-output"><table class="notice metadata" id="spoiler" style="text-align: center; background: beige; margin: 1em 05%; padding: 0 1em; border: #a00 1px solid;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/0/0c/Hand_pointing_right_transparent.png/revision/latest?cb=20181112005815" class="image"><img alt="Hand pointing right transparent.png" src="https://static.wikia.nocookie.net/harrypotter/images/0/0c/Hand_pointing_right_transparent.png/revision/latest/scale-to-width-down/150?cb=20181112005815" decoding="async" width="150" height="75" data-image-name="Hand pointing right transparent.png" data-image-key="Hand_pointing_right_transparent.png" /></a>
+</td>
+<td><b>Warning!</b>
+<p>At least some content in this article is derived from information featured in <i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i>&#32; and <i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i>.<br />As such, spoilers will be present within the article.
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-gryffindor pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/7/73/Celestina_Warbeck_Wizarding_World.png/revision/latest?cb=20140818182644" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/7/73/Celestina_Warbeck_Wizarding_World.png/revision/latest/scale-to-width-down/250?cb=20140818182644" srcset="https://static.wikia.nocookie.net/harrypotter/images/7/73/Celestina_Warbeck_Wizarding_World.png/revision/latest/scale-to-width-down/250?cb=20140818182644 1x, https://static.wikia.nocookie.net/harrypotter/images/7/73/Celestina_Warbeck_Wizarding_World.png/revision/latest/scale-to-width-down/500?cb=20140818182644 2x" class="pi-image-thumbnail" alt="" width="250" height="416"
+		     data-image-key="Celestina_Warbeck_Wizarding_World.png" data-image-name="Celestina Warbeck Wizarding World.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Celestina Warbeck</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/18_August" title="18 August">18 August</a>,<sup id="cite_ref-Pottermore_1-0" class="reference"><a href="#cite_note-Pottermore-1">&#91;1&#93;</a></sup> <a href="/wiki/1917" title="1917">1917</a><sup id="cite_ref-FWC_2-0" class="reference"><a href="#cite_note-FWC-2">&#91;2&#93;</a></sup><br/><a href="/wiki/Wales" title="Wales">Wales</a><sup id="cite_ref-Pottermore_1-1" class="reference"><a href="#cite_note-Pottermore-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Half-blood" title="Half-blood">Half-blood</a><sup id="cite_ref-Pottermore_1-2" class="reference"><a href="#cite_note-Pottermore-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="marital">
+	
+		<h3 class="pi-data-label pi-secondary-font">Marital status</h3>
+	
+	<div class="pi-data-value pi-font">Married<sup id="cite_ref-Pottermore_1-3" class="reference"><a href="#cite_note-Pottermore-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Wales" title="Wales">Welsh</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="alias">
+	
+		<h3 class="pi-data-label pi-secondary-font">Also known as</h3>
+	
+	<div class="pi-data-value pi-font">The Singing Sorceress</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="title">
+	
+		<h3 class="pi-data-label pi-secondary-font">Title(s)</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Madam" title="Madam">Madam</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Dark</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Dark</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Celestina_Warbeck%27s_father" title="Celestina Warbeck&#039;s father">Mr Warbeck</a><sup id="cite_ref-Pottermore_1-4" class="reference"><a href="#cite_note-Pottermore-1">&#91;1&#93;</a></sup> (father)</li><li><a href="/wiki/Celestina_Warbeck%27s_mother" title="Celestina Warbeck&#039;s mother">Mrs Warbeck</a><sup id="cite_ref-Pottermore_1-5" class="reference"><a href="#cite_note-Pottermore-1">&#91;1&#93;</a></sup> (mother)</li><li><a href="/wiki/Celestina_Warbeck%27s_first_husband" title="Celestina Warbeck&#039;s first husband">First husband</a><sup id="cite_ref-Pottermore_1-6" class="reference"><a href="#cite_note-Pottermore-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/Celestina_Warbeck%27s_second_husband" title="Celestina Warbeck&#039;s second husband">Second husband</a><sup id="cite_ref-Pottermore_1-7" class="reference"><a href="#cite_note-Pottermore-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/Irving_Warble" title="Irving Warble">Irving Warble</a><sup id="cite_ref-Pottermore_1-8" class="reference"><a href="#cite_note-Pottermore-1">&#91;1&#93;</a></sup> (third husband)</li><li><a href="/wiki/Celestina_Warbeck%27s_son" title="Celestina Warbeck&#039;s son">One son</a><sup id="cite_ref-Pottermore_1-9" class="reference"><a href="#cite_note-Pottermore-1">&#91;1&#93;</a></sup></li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Magical characteristics</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="wand">
+	
+		<h3 class="pi-data-label pi-secondary-font">Wand</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Celestina_Warbeck%27s_wand" title="Celestina Warbeck&#039;s wand">10½", Larch, phoenix feather</a><sup id="cite_ref-Pottermore_1-10" class="reference"><a href="#cite_note-Pottermore-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Singer</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="house">
+	
+		<h3 class="pi-data-label pi-secondary-font">House</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Gryffindor" title="Gryffindor">Gryffindor</a><sup id="cite_ref-Pottermore_1-11" class="reference"><a href="#cite_note-Pottermore-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a><ul><li><a href="/wiki/Gryffindor" title="Gryffindor">Gryffindor</a></li></ul></li><li><a href="/wiki/Wizarding_Wireless_Network" title="Wizarding Wireless Network">Wizarding Wireless Network</a><ul><li><a href="/wiki/Witching_Hour" title="Witching Hour">Witching Hour</a></li></ul></li><li><a href="/wiki/Puddlemere_United" title="Puddlemere United">Puddlemere United</a></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;The Wizarding World of Harry Potter">"<i>And now, a live performance direct from <a href="/wiki/Diagon_Alley" title="Diagon Alley">Diagon Alley</a>, featuring that musical marvel, that delectable diva, the spectacular Singing Sorceress herself: Celestina Warbeck!</i>"</span></dd>
+<dd>&#8212;A <a href="/wiki/Wizarding_Wireless_Network" title="Wizarding Wireless Network">Wizarding Wireless Network</a> broadcaster announcing one of Celestina Warbeck's performances<sup class="noprint"><a href="/wiki/The_Wizarding_World_of_Harry_Potter" title="The Wizarding World of Harry Potter">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p class="mw-empty-elt"></p><figure class="thumb tright show-info-icon" style="width: 252px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/b/ba/Celestina_Warbeck_Holiday_album_NOTHING_LIKE_A_HOLIDAY_SPELL_poster.jpg/revision/latest?cb=20181215060601" class="image"><img alt="Celestina Warbeck Holiday album NOTHING LIKE A HOLIDAY SPELL poster.jpg" src="https://static.wikia.nocookie.net/harrypotter/images/b/ba/Celestina_Warbeck_Holiday_album_NOTHING_LIKE_A_HOLIDAY_SPELL_poster.jpg/revision/latest/scale-to-width-down/250?cb=20181215060601" decoding="async" width="250" height="441" class="thumbimage" data-image-name="Celestina Warbeck Holiday album NOTHING LIKE A HOLIDAY SPELL poster.jpg" data-image-key="Celestina_Warbeck_Holiday_album_NOTHING_LIKE_A_HOLIDAY_SPELL_poster.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Celestina_Warbeck_Holiday_album_NOTHING_LIKE_A_HOLIDAY_SPELL_poster.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 	</figcaption> </figure>
+<p><b>Madam Celestina Warbeck</b> (b. <a href="/wiki/18_August" title="18 August">18 August</a>,<sup id="cite_ref-Pottermore_1-12" class="reference"><a href="#cite_note-Pottermore-1">&#91;1&#93;</a></sup> <a href="/wiki/1917" title="1917">1917</a><sup id="cite_ref-FWC_2-1" class="reference"><a href="#cite_note-FWC-2">&#91;2&#93;</a></sup>) was a <a href="/wiki/Wales" title="Wales">Welsh</a> <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> and popular singer known as "<i>The Singing Sorceress</i>". She attended <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> and was <a href="/wiki/Sorting_ceremony" title="Sorting ceremony">sorted</a> into <a href="/wiki/Gryffindor" title="Gryffindor">Gryffindor</a>. She was often featured on the show called <a href="/wiki/Witching_Hour" title="Witching Hour">Witching Hour</a>, which runs on the <a href="/wiki/Wizarding_Wireless_Network" title="Wizarding Wireless Network">Wizarding Wireless Network</a>.<sup id="cite_ref-CoS_3-0" class="reference"><a href="#cite_note-CoS-3">&#91;3&#93;</a></sup>
+</p><p class="mw-empty-elt"></p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_life"><span class="tocnumber">1.1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Career_as_a_singer"><span class="tocnumber">1.2</span> <span class="toctext">Career as a singer</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Magical_abilities_and_skills"><span class="tocnumber">2</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Known_songs"><span class="tocnumber">3</span> <span class="toctext">Known songs</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Etymology"><span class="tocnumber">4</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Behind_the_scenes"><span class="tocnumber">5</span> <span class="toctext">Behind the scenes</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Author.27s_comments"><span class="tocnumber">5.1</span> <span class="toctext">Author's comments</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Appearances"><span class="tocnumber">6</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Notes_and_references"><span class="tocnumber">7</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Celestina_Warbeck?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Celestina_Warbeck?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Celestina_Warbeck?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Early life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Celestina_Warbeck?action=edit&amp;section=2" title="Edit section: Early life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Celestina Warbeck was born on <a href="/wiki/18_August" title="18 August">18 August</a>,<sup id="cite_ref-Pottermore_1-13" class="reference"><a href="#cite_note-Pottermore-1">&#91;1&#93;</a></sup> <a href="/wiki/1917" title="1917">1917</a><sup id="cite_ref-FWC_2-2" class="reference"><a href="#cite_note-FWC-2">&#91;2&#93;</a></sup> in <a href="/wiki/Wales" title="Wales">Wales</a> to a <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> father and a <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> mother. Her father, a minor functionary in the <a href="/wiki/Muggle_Liaison_Office" title="Muggle Liaison Office">Muggle Liaison Office</a>, met her mother, a failed actress, when the latter was attacked by a <a href="/wiki/Lethifold" title="Lethifold">Lethifold</a> disguised as a stage curtain.<sup id="cite_ref-Pottermore_1-14" class="reference"><a href="#cite_note-Pottermore-1">&#91;1&#93;</a></sup>
+</p><p>Celestina's musical talent was apparent even at an early age; in <a href="/wiki/1927" title="1927">1927</a>, the wizarding magazine <a href="/wiki/Spellbound_(magazine)" title="Spellbound (magazine)"><i>Spellbound</i></a> published an article about her talents when she was around ten years old, referring her as a child prodigy.<sup id="cite_ref-COG_4-0" class="reference"><a href="#cite_note-COG-4">&#91;4&#93;</a></sup>
+</p><p>Disappointed to learn that there was no such thing as a wizarding stage school, <a href="/wiki/Celestina_Warbeck%27s_mother" title="Celestina Warbeck&#39;s mother">Mrs Warbeck</a> reluctantly let her daughter go to <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> (which she attended from <a href="/wiki/1928" title="1928">1928</a>-<a href="/wiki/1936" title="1936">1936</a> and was Sorted into <a href="/wiki/Gryffindor" title="Gryffindor">Gryffindor House</a>), but frequently bombarded the school with letters to form a theatre club, choir and <a href="/wiki/Tap-dancing" title="Tap-dancing">dancing</a> class to showcase her daughter's innumerable talents.<sup id="cite_ref-Pottermore_1-15" class="reference"><a href="#cite_note-Pottermore-1">&#91;1&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Career_as_a_singer">Career as a singer</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Celestina_Warbeck?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Career as a singer">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Celestina_Warbeck?action=edit&amp;section=3" title="Edit section: Career as a singer"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Frequently appearing with a chorus of backing <a href="/wiki/Banshee" title="Banshee">banshees</a>, Celestina's concerts were justly famous. Three devoted fans were involved in a three-broom pile-up over <a href="/wiki/Liverpool" title="Liverpool">Liverpool</a> on the last night of her '<a href="/wiki/Flighty_Aphrodite" title="Flighty Aphrodite">Flighty Aphrodite</a>' tour.<sup id="cite_ref-Pottermore_1-16" class="reference"><a href="#cite_note-Pottermore-1">&#91;1&#93;</a></sup> Her tickets often went on sale in the black market for vastly inflated prices (one reason why <a href="/wiki/Molly_Weasley" title="Molly Weasley">Molly Weasley</a>, who listened to her songs every <a href="/wiki/Christmas" title="Christmas">Christmas</a>,<sup id="cite_ref-HBP16_5-0" class="reference"><a href="#cite_note-HBP16-5">&#91;5&#93;</a></sup> could never see her favourite singer live).<sup id="cite_ref-Pottermore_1-17" class="reference"><a href="#cite_note-Pottermore-1">&#91;1&#93;</a></sup>
+</p><p>Celestina's personal life provided much fodder for the gossip columns of the <i><a href="/wiki/Daily_Prophet" title="Daily Prophet">Daily Prophet</a></i>. Warbeck became romantically involved with one of her backing dancers early in her career. They married, but ended up divorcing after only a year. Some time later, she married her <a href="/wiki/Celestina_Warbeck%27s_second_husband" title="Celestina Warbeck&#39;s second husband">manager</a>, and they had a <a href="/wiki/Celestina_Warbeck%27s_son" title="Celestina Warbeck&#39;s son">son</a> together. However, after ten years of marriage, Warbeck left him in order to marry <a href="/wiki/Irving_Warble" title="Irving Warble">Irving Warble</a>, a music composer.<sup id="cite_ref-Pottermore_1-18" class="reference"><a href="#cite_note-Pottermore-1">&#91;1&#93;</a></sup>
+</p><p>Celestina sometimes lent her name and talents to good causes, such as raising funds for <a href="/wiki/St_Mungo%27s_Hospital_for_Magical_Maladies_and_Injuries" title="St Mungo&#39;s Hospital for Magical Maladies and Injuries">St Mungo's Hospital for Magical Maladies and Injuries</a> with a recording of <a href="/wiki/Puddlemere_United" title="Puddlemere United">Puddlemere United</a>'s anthem <i>Beat Back Those Bludgers, Boys, and Chuck That Quaffle Here</i>.<sup id="cite_ref-DPN_6-0" class="reference"><a href="#cite_note-DPN-6">&#91;6&#93;</a></sup><sup id="cite_ref-Pottermore_1-19" class="reference"><a href="#cite_note-Pottermore-1">&#91;1&#93;</a></sup> More controversially, Celestina was vocal in her disagreement when the <a href="/wiki/Ministry_of_Magic" title="Ministry of Magic">Ministry of Magic</a> sought to impose restrictions on how the wizarding community was allowed to celebrate <a href="/wiki/Hallowe%27en" title="Hallowe&#39;en">Hallowe'en</a>.<sup id="cite_ref-QTtA_7-0" class="reference"><a href="#cite_note-QTtA-7">&#91;7&#93;</a></sup>
+</p><p>Some of Celestina's best-known songs include <i><a href="/wiki/You_Charmed_the_Heart_Right_Out_of_Me" title="You Charmed the Heart Right Out of Me">You Charmed the Heart Right Out of Me</a></i> and <i>A Cauldron Full of Hot, Strong Love</i>. Her fans are usually older people who love her grandstanding style and powerful voice.<sup id="cite_ref-Pottermore_1-20" class="reference"><a href="#cite_note-Pottermore-1">&#91;1&#93;</a></sup> The late 20th-century album <i>You Stole My Cauldron but You Can't Have My Heart </i>was a massive global hit. She also featured heavily on shows at the <a href="/wiki/Wizarding_Wireless_Network" title="Wizarding Wireless Network">Wizarding Wireless Network</a>, one such being the <i><a href="/wiki/Witching_Hour" title="Witching Hour">Witching Hour</a></i> hosted by <a href="/wiki/Glenda_Chittock" title="Glenda Chittock">Glenda Chittock</a>.<sup id="cite_ref-CoS_3-1" class="reference"><a href="#cite_note-CoS-3">&#91;3&#93;</a></sup>
+</p><p>In <a href="/wiki/2003" title="2003">2003</a> she allowed a <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> <a href="/wiki/Dog" title="Dog">dog</a>-walker who accidentally took a <a href="/wiki/Portkey" title="Portkey">Portkey</a> to one of her concerts to join her on the stage for a duet of <i><a href="/wiki/A_Cauldron_Full_of_Hot,_Strong_Love" title="A Cauldron Full of Hot, Strong Love">A Cauldron Full of Hot, Strong Love</a></i>; while the <a href="/wiki/Memory_Charm" title="Memory Charm">Memory Charm</a> cast on him by a harassed <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">Ministry</a> official appeared at first to have erased his memory of the incident, he since has written a popular song that greatly resembles Warbeck's hit, something she was not amused about.<sup id="cite_ref-Portkey_8-0" class="reference"><a href="#cite_note-Portkey-8">&#91;8&#93;</a></sup>
+</p><p>In the summer of <a href="/wiki/2014" title="2014">2014</a>, Celestina Warbeck travelled to the <a href="/wiki/Patagonian_Desert" title="Patagonian Desert">Patagonian Desert</a> to watch the games of the <a href="/wiki/2014_Quidditch_World_Cup" title="2014 Quidditch World Cup">427th Quidditch World Cup</a>. Her presence, alongside other wizarding celebrities, was noted by reporter <a href="/wiki/Rita_Skeeter" title="Rita Skeeter">Rita Skeeter</a> to have caused "<i>flurries of excitement</i>", with crowd members scrambling for autographs and even attempting to cast <a href="/wiki/Bridging_Charm" title="Bridging Charm">Bridging Charms</a> to reach the VIP boxes.<sup id="cite_ref-PottermoreDP_9-0" class="reference"><a href="#cite_note-PottermoreDP-9">&#91;9&#93;</a></sup>
+</p><p>Celestina's latest album was entitled <i><a href="/wiki/You_Stole_My_Cauldron_But_You_Can%27t_Have_My_Heart" title="You Stole My Cauldron But You Can&#39;t Have My Heart">You Stole My Cauldron But You Can't Have My Heart</a></i>. The promotional tour included a show in <a href="/wiki/Liverpool" title="Liverpool">Liverpool</a>; fans desperate to arrive at this concert were involved in a three-broom crash.<sup id="cite_ref-DPN_6-1" class="reference"><a href="#cite_note-DPN-6">&#91;6&#93;</a></sup><sup id="cite_ref-Pottermore_1-21" class="reference"><a href="#cite_note-Pottermore-1">&#91;1&#93;</a></sup>
+</p><p>Warbeck scheduled concerts in <a href="/wiki/Exmoor_Quidditch_Stadium" title="Exmoor Quidditch Stadium">Exmoor</a>, sponsored by <a href="/wiki/The_Sorcerer%27s_Saucepot" title="The Sorcerer&#39;s Saucepot">The Sorcerer's Saucepot</a>. Tickets were on sale for five <a href="/wiki/Wizarding_currency" title="Wizarding currency">Galleons</a> each, and fans had to book their <a href="/wiki/Portkey" title="Portkey">Portkeys</a> early.<sup id="cite_ref-JKRS_10-0" class="reference"><a href="#cite_note-JKRS-10">&#91;10&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Celestina_Warbeck?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Celestina_Warbeck?action=edit&amp;section=4" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Care_of_Magical_Creatures" title="Care of Magical Creatures">Care of Magical Creatures</a></b>: In her free time, Celestina enjoyed breeding <a href="/wiki/Crup" title="Crup">crups</a>, meaning she had a level of talent in the handling of <a href="/wiki/Magic" title="Magic">magical</a> creatures.<sup id="cite_ref-hobbies_11-0" class="reference"><a href="#cite_note-hobbies-11">&#91;11&#93;</a></sup></li>
+<li><b>Singing skills</b>: Celestina was a highly popular and talented vocalist, having had a very lucrative career as a pop singer with an impressive discography, along with a huge fan base throughout the <a href="/wiki/Wizarding_world" title="Wizarding world">wizarding world</a>, proving her abilities as a singer to have been quite legendary.</li></ul>
+<h2><span class="mw-headline" id="Known_songs">Known songs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Celestina_Warbeck?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Known songs">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Celestina_Warbeck?action=edit&amp;section=5" title="Edit section: Known songs"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tright show-info-icon" style="width: 177px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/1/1b/CelestinaWarbeckAndTheBanshees.png/revision/latest?cb=20140620171047" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/1/1b/CelestinaWarbeckAndTheBanshees.png/revision/latest/scale-to-width-down/175?cb=20140620171047" decoding="async" width="175" height="145" class="thumbimage" data-image-name="CelestinaWarbeckAndTheBanshees.png" data-image-key="CelestinaWarbeckAndTheBanshees.png" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:CelestinaWarbeckAndTheBanshees.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">A Celestina Warbeck performance at <a href="/wiki/Diagon_Alley" title="Diagon Alley">Diagon Alley</a></p> 		 	</figcaption> </figure>
+<ul><li><i><a href="/wiki/A_Cauldron_Full_of_Hot,_Strong_Love" title="A Cauldron Full of Hot, Strong Love">A Cauldron Full of Hot, Strong Love</a></i><sup id="cite_ref-HBP16_5-1" class="reference"><a href="#cite_note-HBP16-5">&#91;5&#93;</a></sup></li>
+<li><i><a href="/wiki/You_Charmed_the_Heart_Right_Out_of_Me" title="You Charmed the Heart Right Out of Me">You Charmed the Heart Right Out of Me</a></i><sup id="cite_ref-HBP16_5-2" class="reference"><a href="#cite_note-HBP16-5">&#91;5&#93;</a></sup></li>
+<li><i><a href="/wiki/Beat_Back_Those_Bludgers,_Boys,_and_Chuck_That_Quaffle_Here" title="Beat Back Those Bludgers, Boys, and Chuck That Quaffle Here">Beat Back Those Bludgers, Boys, and Chuck That Quaffle Here</a></i><sup id="cite_ref-QTtA_7-1" class="reference"><a href="#cite_note-QTtA-7">&#91;7&#93;</a></sup></li>
+<li><i><a href="/wiki/You_Stole_My_Cauldron_But_You_Can%27t_Have_My_Heart" title="You Stole My Cauldron But You Can&#39;t Have My Heart">You Stole My Cauldron But You Can't Have My Heart</a></i> (album &amp; title track)<sup id="cite_ref-DPN_6-2" class="reference"><a href="#cite_note-DPN-6">&#91;6&#93;</a></sup></li>
+<li><i><a href="/wiki/Nothing_Like_a_Holiday_Spell" title="Nothing Like a Holiday Spell">Nothing Like a Holiday Spell</a></i> (album &amp; title track)</li>
+<li><i><a href="/wiki/Accio_Christmas" title="Accio Christmas">Accio Christmas</a></i></li>
+<li><i><a href="/wiki/My_Baby_Gave_Me_a_Hippogriff_for_Christmas" title="My Baby Gave Me a Hippogriff for Christmas">My Baby Gave Me a Hippogriff for Christmas</a></i></li>
+<li><i><a href="/wiki/A_Witch_and_Wizard%27s_Wintry_Wondrous_Land" title="A Witch and Wizard&#39;s Wintry Wondrous Land">A Witch and Wizard's Wintry Wondrous Land</a></i></li></ul>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Celestina_Warbeck?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Celestina_Warbeck?action=edit&amp;section=6" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i>Celestina</i> possibly comes from the word <i>celestial</i>, meaning "pertaining to the sky or visible heaven." <i>Warbeck</i> may come from <i>warbler</i>, which is a singing <a href="/wiki/Bird" title="Bird">bird</a>.
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Celestina_Warbeck?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Celestina_Warbeck?action=edit&amp;section=7" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tright show-info-icon" style="width: 252px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/4/4a/Celestina_Warbeck_poster.png/revision/latest?cb=20140620170800" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="250" height="378" class="thumbimage lazyload" data-image-name="Celestina Warbeck poster.png" data-image-key="Celestina_Warbeck_poster.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/4/4a/Celestina_Warbeck_poster.png/revision/latest/scale-to-width-down/250?cb=20140620170800" /></a> 	<noscript><a href="https://static.wikia.nocookie.net/harrypotter/images/4/4a/Celestina_Warbeck_poster.png/revision/latest?cb=20140620170800" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/4/4a/Celestina_Warbeck_poster.png/revision/latest/scale-to-width-down/250?cb=20140620170800" decoding="async" width="250" height="378" class="thumbimage" data-image-name="Celestina Warbeck poster.png" data-image-key="Celestina_Warbeck_poster.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/4/4a/Celestina_Warbeck_poster.png/revision/latest/scale-to-width-down/250?cb=20140620170800" /></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Celestina_Warbeck_poster.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">A poster for a Celestina Warbeck show</p> 		 	</figcaption> </figure>
+<ul><li>Celestina Warbeck was played by American actress <a href="/wiki/Shaullanda_Lacombe" title="Shaullanda Lacombe">Shaullanda Lacombe</a> at <a href="/wiki/The_Wizarding_World_of_Harry_Potter" title="The Wizarding World of Harry Potter">The Wizarding World of Harry Potter</a>.</li>
+<li>A Celestina Warbeck concert is featured at <a href="/wiki/Carkitt_Market" title="Carkitt Market">Carkitt Market</a>, in <a href="/wiki/The_Wizarding_World_of_Harry_Potter" title="The Wizarding World of Harry Potter">The Wizarding World of Harry Potter</a>. She sings her never-before-heard songs. The lyrics also contain never-before-revealed information about Celestina's wand, written by <a href="/wiki/J._K._Rowling" title="J. K. Rowling">J. K. Rowling</a>.<sup id="cite_ref-UO_12-0" class="reference"><a href="#cite_note-UO-12">&#91;12&#93;</a></sup></li>
+<li>Warbeck is Rowling's favourite off-stage character; the author imagined her to look and act like <a href="http://en.wikipedia.org/wiki/Shirley_Bassey" class="extiw" title="wikipedia:Shirley Bassey">Shirley Bassey</a>.<sup id="cite_ref-Pottermore_1-22" class="reference"><a href="#cite_note-Pottermore-1">&#91;1&#93;</a></sup> Rowling took the name "Celestina" from a friend with whom she had worked at Amnesty International in London many years, stating that the name was simply begging to be attached to a glamorous witch.<sup id="cite_ref-Pottermore_1-23" class="reference"><a href="#cite_note-Pottermore-1">&#91;1&#93;</a></sup></li>
+<li>On  <i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i>, new information about Celestina was revealed on <a href="/wiki/18_August" title="18 August">18 August</a> <a href="/wiki/2014" title="2014">2014</a>, Celestina's 97th birthday.</li></ul>
+<h3><span id="Author's_comments"></span><span class="mw-headline" id="Author.27s_comments">Author's comments</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Celestina_Warbeck?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Author&#039;s comments">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Celestina_Warbeck?action=edit&amp;section=8" title="Edit section: Author&#039;s comments"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>"<i>Celestina is one of my favourite 'off-stage' characters in the whole series, and has been part of the Potter world ever since its inception, making an early appearance in the short-lived 'Daily Prophet' series I produced for members of the equally short-lived fan club run by my British publisher, Bloomsbury. Although we never lay eyes on Celestina during the whole seven volumes of the Potter books, I always imagined her to resemble Shirley Bassey in both looks and style. I stole her first name from a friend with whom I worked, years ago, at Amnesty International's Headquarters in London; 'Celestina' was simply begging to be scooped up and attached to a glamorous witch.</i>"
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Celestina_Warbeck?veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Celestina_Warbeck?action=edit&amp;section=9" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" class="lazyload" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 5 images related to <i><b><a href="/wiki/Category:Images_of_Celestina_Warbeck" title="Category:Images of Celestina Warbeck">Celestina Warbeck</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div><figure class="thumb tright show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/8/80/Celestina_Warbeck-88-chocFrogCard.png/revision/latest?cb=20160606202153" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="180" height="180" class="thumbimage lazyload" data-image-name="Celestina Warbeck-88-chocFrogCard.png" data-image-key="Celestina_Warbeck-88-chocFrogCard.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/8/80/Celestina_Warbeck-88-chocFrogCard.png/revision/latest/scale-to-width-down/180?cb=20160606202153" /></a> 	<noscript><a href="https://static.wikia.nocookie.net/harrypotter/images/8/80/Celestina_Warbeck-88-chocFrogCard.png/revision/latest?cb=20160606202153" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/8/80/Celestina_Warbeck-88-chocFrogCard.png/revision/latest/scale-to-width-down/180?cb=20160606202153" decoding="async" width="180" height="180" class="thumbimage" data-image-name="Celestina Warbeck-88-chocFrogCard.png" data-image-key="Celestina_Warbeck-88-chocFrogCard.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/8/80/Celestina_Warbeck-88-chocFrogCard.png/revision/latest/scale-to-width-down/180?cb=20160606202153" /></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Celestina_Warbeck-88-chocFrogCard.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Celestina Warbeck as depicted on a bronze <a href="/wiki/Chocolate_Frog_Card" title="Chocolate Frog Card">Chocolate Frog Card</a></p> 		 	</figcaption> </figure>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(video_game)" title="Harry Potter and the Philosopher&#39;s Stone (video game)">Harry Potter and the Philosopher's Stone (video game)</a></i> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(video_game)" title="Harry Potter and the Chamber of Secrets (video game)">Harry Potter and the Chamber of Secrets (video game)</a></i> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets" title="Harry Potter and the Chamber of Secrets">Harry Potter and the Chamber of Secrets</a></i> <small>(First mentioned)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">Harry Potter and the Half-Blood Prince</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">Harry Potter and the Deathly Hallows</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Quidditch_Through_the_Ages_(real)" title="Quidditch Through the Ages (real)">Quidditch Through the Ages</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/The_Daily_Prophet_(real-world)" title="The Daily Prophet (real-world)">Daily Prophet Newsletters</a></i></li>
+<li><a href="/wiki/J._K._Rowling%27s_official_site" title="J. K. Rowling&#39;s official site">J. K. Rowling's official site</a></li>
+<li><a href="/wiki/The_Wizarding_World_of_Harry_Potter" title="The Wizarding World of Harry Potter">The Wizarding World of Harry Potter</a> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i></li>
+<li><i><a href="/wiki/Wizarding_World_(website)" title="Wizarding World (website)">Wizarding World</a></i></li>
+<li><i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Fantastic_Beasts:_The_Crimes_of_Grindelwald" title="Fantastic Beasts: The Crimes of Grindelwald">Fantastic Beasts: The Crimes of Grindelwald</a></i> <span class="template-c">(Mentioned in a magazine)</span></li>
+<li><i><a href="/wiki/The_Archive_of_Magic:_The_Film_Wizardry_of_Fantastic_Beasts:_The_Crimes_of_Grindelwald" title="The Archive of Magic: The Film Wizardry of Fantastic Beasts: The Crimes of Grindelwald">The Archive of Magic: The Film Wizardry of Fantastic Beasts: The Crimes of Grindelwald</a></i> <span class="template-c">(Mentioned in a magazine)</span></li>
+<li><i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i> <small>(Mentioned only)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Celestina_Warbeck?veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Celestina_Warbeck?action=edit&amp;section=10" title="Edit section: Notes and references

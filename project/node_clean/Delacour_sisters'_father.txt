@@ -1,0 +1,157 @@
+<div class="mw-parser-output"><table class="notice metadata" cellpadding="3px" style="text-align: center; background: snow; border: #a00 1px solid; margin: 1em 10% 1em 10%;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/1/11/Hermione_Granger_%28HBP_promo%29_5.jpg/revision/latest?cb=20090817203540" class="image"><img alt="Hermione Granger (HBP promo) 5.jpg" src="https://static.wikia.nocookie.net/harrypotter/images/1/11/Hermione_Granger_%28HBP_promo%29_5.jpg/revision/latest/scale-to-width-down/60?cb=20090817203540" decoding="async" width="60" height="80" data-image-name="Hermione Granger (HBP promo) 5.jpg" data-image-key="Hermione_Granger_(HBP_promo)_5.jpg" /></a>
+</td>
+<td><i><b>"Are you a wizard or not?"</b></i>
+<p>The title of this article is conjectural.  Although it is based on <a href="/wiki/Canon" title="Canon">canonical information</a>, the actual name is a conjecture and may be supplanted at any time by additional information released from canonical sources.  If this occurs, please move this page to the appropriate title.
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/0/0e/Monsieur_Delacour.jpg/revision/latest?cb=20110416193937" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/0/0e/Monsieur_Delacour.jpg/revision/latest/scale-to-width-down/226?cb=20110416193937" srcset="https://static.wikia.nocookie.net/harrypotter/images/0/0e/Monsieur_Delacour.jpg/revision/latest/scale-to-width-down/226?cb=20110416193937 1x, https://static.wikia.nocookie.net/harrypotter/images/0/0e/Monsieur_Delacour.jpg/revision/latest/scale-to-width-down/452?cb=20110416193937 2x" class="pi-image-thumbnail" alt="" width="226" height="405"
+		     data-image-key="Monsieur_Delacour.jpg" data-image-name="Monsieur Delacour.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Monsieur Delacour</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/France" title="France">French</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="title">
+	
+		<h3 class="pi-data-label pi-secondary-font">Title(s)</h3>
+	
+	<div class="pi-data-value pi-font">Monsieur</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-DH6_1-0" class="reference"><a href="#cite_note-DH6-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male<sup id="cite_ref-DH6_1-1" class="reference"><a href="#cite_note-DH6-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="height">
+	
+		<h3 class="pi-data-label pi-secondary-font">Height</h3>
+	
+	<div class="pi-data-value pi-font">Short<sup id="cite_ref-DH6_1-2" class="reference"><a href="#cite_note-DH6-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Black<sup id="cite_ref-DH6_1-3" class="reference"><a href="#cite_note-DH6-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White<sup id="cite_ref-DHP1_2-0" class="reference"><a href="#cite_note-DHP1-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Apolline_Delacour" title="Apolline Delacour">Apolline Delacour</a> (wife)</li><li><a href="/wiki/Fleur_Delacour" title="Fleur Delacour">Fleur Delacour</a> (daughter)</li><li><a href="/wiki/Gabrielle_Delacour" title="Gabrielle Delacour">Gabrielle Delacour</a> (daughter)</li><li><a href="/wiki/Apolline_Delacour%27s_mother" title="Apolline Delacour&#039;s mother">Apolline's mother</a> (mother-in-law)</li><li><a href="/wiki/William_Weasley" title="William Weasley">Bill Weasley</a> (son-in-law)</li><li><a href="/wiki/Victoire_Weasley" title="Victoire Weasley">Victoire Weasley</a> (granddaughter)</li><li><a href="/wiki/Dominique_Weasley" title="Dominique Weasley">Dominique Weasley</a> (granddaughter)</li><li><a href="/wiki/Louis_Weasley" title="Louis Weasley">Louis Weasley</a> (grandson)</li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Delacour_family" title="Delacour family">Delacour family</a></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Deathly Hallows">"<i>Monsieur Delacour was nowhere near as attractive as his wife; he was a head shorter and extremely plump, with a little, pointed black beard. However, he looked good-natured. Bouncing towards Mrs Weasley on high-heeled boots, he kissed her twice on each cheek, leaving her flustered.</i>"</span></dd>
+<dd>&#8212;Harry Potter's first impression of Monsieur Delacour<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>M. Delacour</b> was a <a href="/wiki/France" title="France">French</a> <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a>, married to the <a href="/wiki/Half-Veela" title="Half-Veela">half-Veela</a> witch <a href="/wiki/Apolline_Delacour" title="Apolline Delacour">Apolline Delacour</a>. He and Apolline had two daughters, <a href="/wiki/Fleur_Delacour" title="Fleur Delacour">Fleur</a> and <a href="/wiki/Gabrielle_Delacour" title="Gabrielle Delacour">Gabrielle</a>. Both of whom loved him dearly and affectionately referred to him as "<i>papa"</i>.<sup id="cite_ref-DH6_1-4" class="reference"><a href="#cite_note-DH6-1">&#91;1&#93;</a></sup> In 1997 Fleur married <a href="/wiki/William_Weasley" title="William Weasley">Bill Weasley</a> and through this marriage the family became in-laws of the Weasleys.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_life"><span class="tocnumber">1.1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#1995"><span class="tocnumber">1.2</span> <span class="toctext">1995</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Fleur.27s_wedding"><span class="tocnumber">1.3</span> <span class="toctext">Fleur's wedding</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Physical_appearance"><span class="tocnumber">2</span> <span class="toctext">Physical appearance</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Personality_and_traits"><span class="tocnumber">3</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Behind_the_scenes"><span class="tocnumber">4</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Appearances"><span class="tocnumber">5</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Notes_and_references"><span class="tocnumber">6</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Delacour_sisters%27_father?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Delacour_sisters%27_father?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Delacour_sisters%27_father?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Early life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Delacour_sisters%27_father?action=edit&amp;section=2" title="Edit section: Early life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Little is known of Monsieur Delacour's earlier life, including where he received his education, where he was born and what his childhood and early adulthood were like. There is no indication of his profession.
+</p><p>At some point throughout his life, he met <a href="/wiki/Apolline_Delacour" title="Apolline Delacour">Apolline</a>, who he married and who therefore took his name.<sup id="cite_ref-DH6_1-5" class="reference"><a href="#cite_note-DH6-1">&#91;1&#93;</a></sup> With her, he had two daughters, <a href="/wiki/Fleur_Delacour" title="Fleur Delacour">Fleur</a> and <a href="/wiki/Gabrielle_Delacour" title="Gabrielle Delacour">Gabrielle</a>, both of whom eventually attended <a href="/wiki/Beauxbatons_Academy_of_Magic" title="Beauxbatons Academy of Magic">Beauxbatons Academy of Magic</a>.
+</p>
+<h3><span class="mw-headline" id="1995">1995</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Delacour_sisters%27_father?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: 1995">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Delacour_sisters%27_father?action=edit&amp;section=3" title="Edit section: 1995"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In <a href="/wiki/1995" title="1995">1995</a>, he and his wife travelled to <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> in <a href="/wiki/Scotland" title="Scotland">Scotland</a>, where they visited Fleur there, before she took part in the Third Task of the <a href="/wiki/Triwizard_Tournament" title="Triwizard Tournament">Triwizard Tournament</a>.<sup id="cite_ref-GOF31_3-0" class="reference"><a href="#cite_note-GOF31-3">&#91;3&#93;</a></sup>
+</p>
+<h3><span id="Fleur's_wedding"></span><span class="mw-headline" id="Fleur.27s_wedding">Fleur's wedding</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Delacour_sisters%27_father?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Fleur&#039;s wedding">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Delacour_sisters%27_father?action=edit&amp;section=4" title="Edit section: Fleur&#039;s wedding"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>His elder daughter Fleur was twenty years old when she finally wed <a href="/wiki/William_Weasley" title="William Weasley">William Weasley</a> on <a href="/wiki/1_August" title="1 August">1 August</a>, <a href="/wiki/1997" title="1997">1997</a>.<sup id="cite_ref-DH6_1-6" class="reference"><a href="#cite_note-DH6-1">&#91;1&#93;</a></sup> Monsieur Delacour and his wife arrived shortly before the wedding to assist with the preparations, and proved to be kind, polite and extremely helpful.<sup id="cite_ref-DH6_1-7" class="reference"><a href="#cite_note-DH6-1">&#91;1&#93;</a></sup> He declared absolutely everything to be "<i>charmant</i>," and on the day before the wedding gifted an <a href="/wiki/Enchanted_razor" title="Enchanted razor">enchanted razor</a> to <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> for his seventeenth birthday.<sup id="cite_ref-DH6_1-8" class="reference"><a href="#cite_note-DH6-1">&#91;1&#93;</a></sup>
+</p><p>M. Delacour was last seen listening to <a href="/wiki/Kingsley_Shacklebolt" title="Kingsley Shacklebolt">Kingsley Shacklebolt</a>'s warning, delivered through his <a href="/wiki/Patronus_Charm" title="Patronus Charm">Patronus</a> which took the form of a <a href="/wiki/Lynx" title="Lynx">lynx</a>, shortly before the <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a> attacked the wedding.<sup id="cite_ref-DH8_4-0" class="reference"><a href="#cite_note-DH8-4">&#91;4&#93;</a></sup> He, his wife and his children survived the attack and went into hiding, Fleur to <a href="/wiki/Shell_Cottage" title="Shell Cottage">Shell Cottage</a> with her husband and the Delacours back to <a href="/wiki/France" title="France">France</a>.<sup id="cite_ref-DH8_4-1" class="reference"><a href="#cite_note-DH8-4">&#91;4&#93;</a></sup>
+</p><p>Through his <a href="/wiki/Fleur_Delacour" title="Fleur Delacour">oldest daughter</a> and his <a href="/wiki/William_Weasley" title="William Weasley">son-in-law</a>, he was the maternal grandfather of <a href="/wiki/Victoire_Weasley" title="Victoire Weasley">Victoire</a>, <a href="/wiki/Dominique_Weasley" title="Dominique Weasley">Dominique</a> and <a href="/wiki/Louis_Weasley" title="Louis Weasley">Louis Weasley</a>.
+</p>
+<h2><span class="mw-headline" id="Physical_appearance">Physical appearance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Delacour_sisters%27_father?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Physical appearance">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Delacour_sisters%27_father?action=edit&amp;section=5" title="Edit section: Physical appearance"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Monsieur Delacour was extremely short and quite plump, with a little, very pointed black beard.<sup id="cite_ref-DH6_1-9" class="reference"><a href="#cite_note-DH6-1">&#91;1&#93;</a></sup> He gave an appearance of being a kind and jovial person, although it was noted that he was not quite as attractive as his wife.<sup id="cite_ref-DH6_1-10" class="reference"><a href="#cite_note-DH6-1">&#91;1&#93;</a></sup> He wore high-heeled boots and had a very deep voice.<sup id="cite_ref-DH6_1-11" class="reference"><a href="#cite_note-DH6-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Delacour_sisters%27_father?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Personality and traits">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Delacour_sisters%27_father?action=edit&amp;section=6" title="Edit section: Personality and traits"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Monsieur Delacour was extremely pleasant, kind and helpful, keen to assist with the wedding preparations for his daughter Fleur and pronouncing absolutely everything from the bridesmaid's shoes to the seating plan to be "<i>charmant</i>."<sup id="cite_ref-DH6_1-12" class="reference"><a href="#cite_note-DH6-1">&#91;1&#93;</a></sup> He argued with his hosts <a href="/wiki/Arthur_Weasley" title="Arthur Weasley">Arthur</a> and <a href="/wiki/Molly_Weasley" title="Molly Weasley">Molly Weasley</a> in a futile attempt to have them stay in their own bedroom.<sup id="cite_ref-DH6_1-13" class="reference"><a href="#cite_note-DH6-1">&#91;1&#93;</a></sup> He was also a very loving father, as both his children affectionately called him "<i>papa.</i>"
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Delacour_sisters%27_father?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Delacour_sisters%27_father?action=edit&amp;section=7" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>M. Delacour is not known to have visited Fleur during the <a href="/wiki/Triwizard_Tournament" title="Triwizard Tournament">Triwizard Tournament</a>. His wife and his younger daughter both visited (and Gabrielle participated in the Second Task), but M. Delacour is notably not mentioned during their visit before the Third Task; however, it is possible he visited at another time and Harry simply did not notice him.</li>
+<li>In the film, M. Delacour has short, neat grey hair and is clean-shaven, and is also quite tall, being taller than <a href="/wiki/Arthur_Weasley" title="Arthur Weasley">Arthur Weasley</a>, whose height is noted to be quite grand in the books. He does not appear in the video game instalment of the seventh book.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Delacour_sisters%27_father?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Delacour_sisters%27_father?action=edit&amp;section=8" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">Harry Potter and the Deathly Hallows</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1" title="Harry Potter and the Deathly Hallows: Part 1">Harry Potter and the Deathly Hallows: Part 1</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Delacour_sisters%27_father?veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Delacour_sisters%27_father?action=edit&amp;section=9" title="Edit section: Notes and references

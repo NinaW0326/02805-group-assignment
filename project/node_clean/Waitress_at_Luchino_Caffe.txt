@@ -1,0 +1,113 @@
+<div class="mw-parser-output"><table class="notice metadata" cellpadding="3px" style="text-align: center; background: snow; border: #a00 1px solid; margin: 1em 10% 1em 10%;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/1/11/Hermione_Granger_%28HBP_promo%29_5.jpg/revision/latest?cb=20090817203540" class="image"><img alt="Hermione Granger (HBP promo) 5.jpg" src="https://static.wikia.nocookie.net/harrypotter/images/1/11/Hermione_Granger_%28HBP_promo%29_5.jpg/revision/latest/scale-to-width-down/60?cb=20090817203540" decoding="async" width="60" height="80" data-image-name="Hermione Granger (HBP promo) 5.jpg" data-image-key="Hermione_Granger_(HBP_promo)_5.jpg" /></a>
+</td>
+<td><i><b>"Are you a wizard or not?"</b></i>
+<p>The title of this article is conjectural.  Although it is based on <a href="/wiki/Canon" title="Canon">canonical information</a>, the actual name is a conjecture and may be supplanted at any time by additional information released from canonical sources.  If this occurs, please move this page to the appropriate title.
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-muggle pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/8/8e/Waitress_DH1_1.jpg/revision/latest?cb=20101128104642" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/8/8e/Waitress_DH1_1.jpg/revision/latest/scale-to-width-down/350?cb=20101128104642" srcset="https://static.wikia.nocookie.net/harrypotter/images/8/8e/Waitress_DH1_1.jpg/revision/latest/scale-to-width-down/350?cb=20101128104642 1x, https://static.wikia.nocookie.net/harrypotter/images/8/8e/Waitress_DH1_1.jpg/revision/latest/scale-to-width-down/699?cb=20101128104642 2x" class="pi-image-thumbnail" alt="" width="270" height="190"
+		     data-image-key="Waitress_DH1_1.jpg" data-image-name="Waitress DH1 1.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Waitress at Luchino Caffe</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">Before <a href="/wiki/1997" title="1997">1997</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a><sup id="cite_ref-DH9_1-0" class="reference"><a href="#cite_note-DH9-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a><sup id="cite_ref-DH9_1-1" class="reference"><a href="#cite_note-DH9-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-DH9_1-2" class="reference"><a href="#cite_note-DH9-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female<sup id="cite_ref-DH9_1-3" class="reference"><a href="#cite_note-DH9-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Waitress<sup id="cite_ref-DH9_1-4" class="reference"><a href="#cite_note-DH9-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Luchino_Caffe" title="Luchino Caffe">Luchino Caffe</a><sup id="cite_ref-DH9_1-5" class="reference"><a href="#cite_note-DH9-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+This <b>waitress</b> was a <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> who worked as an employee at the <a href="/wiki/Luchino_Caffe" title="Luchino Caffe">Luchino Caffe</a> on <a href="/wiki/Tottenham_Court_Road" title="Tottenham Court Road">Tottenham Court Road</a>, <a href="/wiki/London" title="London">London</a>.<sup id="cite_ref-DH9_1-6" class="reference"><a href="#cite_note-DH9-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Behind_the_scenes"><span class="tocnumber">2</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Appearances"><span class="tocnumber">3</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Notes_and_references"><span class="tocnumber">4</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Waitress_at_Luchino_Caffe?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Waitress_at_Luchino_Caffe?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tright show-info-icon" style="width: 261px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/0/08/2017-07-24_%282%29.png/revision/latest?cb=20170803011546" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/0/08/2017-07-24_%282%29.png/revision/latest/scale-to-width-down/259?cb=20170803011546" decoding="async" width="259" height="109" class="thumbimage" data-image-name="2017-07-24 (2).png" data-image-key="2017-07-24_(2).png" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:2017-07-24_(2).png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">The Waitress working at the cafe</p> 		 	</figcaption> </figure>
+<p>At the all night <a href="/wiki/Luchino_Caffe" title="Luchino Caffe">Luchino Caffe</a> on <a href="/wiki/Tottenham_Court_Road" title="Tottenham Court Road">Tottenham Court Road</a> in <a href="/wiki/London" title="London">London</a>, she served two cappuccinos to <a href="/wiki/Hermione_Granger" title="Hermione Granger">Hermione Granger</a> and <a href="/wiki/Ronald_Weasley" title="Ronald Weasley">Ron Weasley</a> on the evening of <a href="/wiki/1_August" title="1 August">1 August</a>, <a href="/wiki/1997" title="1997">1997</a>. <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> was also with them, but under his <a href="/wiki/Cloak_of_Invisibility" title="Cloak of Invisibility">Invisibility Cloak</a>. The waitress chewed gum as she worked and shot Ron a nasty look after overhearing him remark that her <a href="/wiki/Coffee" title="Coffee">coffee</a> was "revolting". She was then affronted when two more customers rudely waved her away when she shuffled over to take their order.<sup id="cite_ref-DH9_1-7" class="reference"><a href="#cite_note-DH9-1">&#91;1&#93;</a></sup>
+</p><p>These customers were, in fact, the <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a> <a href="/wiki/Thorfinn_Rowle" title="Thorfinn Rowle">Thorfinn Rowle</a>, and <a href="/wiki/Antonin_Dolohov" title="Antonin Dolohov">Antonin Dolohov</a>; they had tracked Harry, Ron, and Hermione down using the <a href="/wiki/Taboo" title="Taboo">Taboo curse</a>. A <a href="/wiki/Luchino_Caffe_Duel" title="Luchino Caffe Duel">skirmish</a> broke out in the café, and a <a href="/wiki/Stunning_Spell" title="Stunning Spell">Stunning Spell</a> Harry was aiming at Dolohov struck the waitress, making her collapse near the door as she was attempting to flee in terror. Afterwards, Hermione <a href="/wiki/Memory_Charm" title="Memory Charm">wiped her memory</a> of the event, and the the effects of the Stunning Spell wore off once the trio had <a href="/wiki/Apparition" title="Apparition">Disapparated</a>.<sup id="cite_ref-DH9_1-8" class="reference"><a href="#cite_note-DH9-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Waitress_at_Luchino_Caffe?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Waitress_at_Luchino_Caffe?action=edit&amp;section=2" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>In <i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1" title="Harry Potter and the Deathly Hallows: Part 1">Harry Potter and the Deathly Hallows: Part 1</a></i>, the waitress is portrayed by <a href="/wiki/Great_Britain" title="Great Britain">British</a> actress <a href="/wiki/Eva_Alexander" title="Eva Alexander">Eva Alexander</a>.<sup id="cite_ref-IMDb_2-0" class="reference"><a href="#cite_note-IMDb-2">&#91;2&#93;</a></sup></li>
+<li>In the film, <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> does not use his <a href="/wiki/Cloak_of_Invisibility" title="Cloak of Invisibility">Invisibility Cloak</a> and as such the waitress also serves Harry a cappuccino. When the trio is attacked by Rowle and Dolohov, the waitress is not present and does not notice anything amiss as she is listening to music on a <a href="/wiki/Headset" title="Headset">headset</a> in the back room. When she comes out, she is shocked by the devastation, and is told by Hermione to "leave." The Memory Charm is not used on her.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Waitress_at_Luchino_Caffe?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Waitress_at_Luchino_Caffe?action=edit&amp;section=3" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">Harry Potter and the Deathly Hallows</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1" title="Harry Potter and the Deathly Hallows: Part 1">Harry Potter and the Deathly Hallows: Part 1</a></i></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter:_Years_5-7" title="LEGO Harry Potter: Years 5-7">LEGO Harry Potter: Years 5-7</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Waitress_at_Luchino_Caffe?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Waitress_at_Luchino_Caffe?action=edit&amp;section=4" title="Edit section: Notes and references

@@ -1,0 +1,69 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default"><section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Zaccaria Innocenti</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Italy" title="Italy">Roman</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="title">
+	
+		<h3 class="pi-data-label pi-secondary-font">Title(s)</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Warlock" title="Warlock">Warlock</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+</p><div class="quote">
+<dl><dd><span>"<i>The "Dancing Feet" spell has its origins in ancient Italy, but is best remembered for its improper usage by Warlock Zaccaria Innocenti who is credited with conjuring a 'dance' within Mt. Vesuvius in 79 AD.</i>"</span></dd>
+<dd>&#8212;Reason for Mt. Vesuvius's eruption<sup id="cite_ref-Cast-a-Spell_1-0" class="reference"><a href="#cite_note-Cast-a-Spell-1">&#91;1&#93;</a></sup></dd>
+<dd></dd></dl></div><p><b>Zaccaria Innocenti</b> (fl. <a href="/wiki/First_millennium_A.D." title="First millennium A.D.">79 AD</a>) was an ancient <a href="/wiki/Italy" title="Italy">Roman</a> <a href="/wiki/Warlock" title="Warlock">warlock</a> who lived during the <a href="/wiki/First_millennium_A.D." title="First millennium A.D.">1st century AD</a>.<sup id="cite_ref-castaspell_2-0" class="reference"><a href="#cite_note-castaspell-2">&#91;2&#93;</a></sup>
+</p><div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Magical_abilities_and_skills"><span class="tocnumber">2</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Etymology"><span class="tocnumber">3</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Appearances"><span class="tocnumber">4</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Notes_and_references"><span class="tocnumber">5</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Zaccaria_Innocenti?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Zaccaria_Innocenti?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>He misused the <a href="/wiki/Dancing_Feet_Spell" title="Dancing Feet Spell">Dancing Feet Spell</a> in <a href="/wiki/First_millennium_A.D." title="First millennium A.D.">79 AD</a>, conjuring a 'dance' within <a href="/wiki/Mount_Vesuvius" title="Mount Vesuvius">Mt. Vesuvius</a>,<sup id="cite_ref-castaspell_2-1" class="reference"><a href="#cite_note-castaspell-2">&#91;2&#93;</a></sup> resulting in its eruption, which destroyed the Roman cities of <a href="http://en.wikipedia.org/wiki/Pompeii" class="extiw" title="wikipedia:Pompeii">Pompeii</a> and <a href="http://en.wikipedia.org/wiki/Herculaneum" class="extiw" title="wikipedia:Herculaneum">Herculaneum</a>, killing at least 1500 people.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> His improper usage of the spell is what he and the spell is most remembered for. Whether or not he was one of the eruption's casualties is unknown. 
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Zaccaria_Innocenti?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Zaccaria_Innocenti?action=edit&amp;section=2" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Charm" title="Charm">Charms</a></b>: Zaccaria cast the <a href="/wiki/Dancing_Feet_Spell" title="Dancing Feet Spell">Dancing Feet Spell</a> that inadvertently triggered the explosion of <a href="/wiki/Mount_Vesuvius" title="Mount Vesuvius">Mount Vesuvius</a> which killed at least 1500 people.</li></ul>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Zaccaria_Innocenti?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Zaccaria_Innocenti?action=edit&amp;section=3" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>"Zaccaria" is the Italian form of Zechariah,chariah] on Behind the Name&lt;/ref&gt; while Innocenti is an Italian surname that derives from the Itali a Hebrew name meaning "God remembers",<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> N while Innocenti is an Italian surname that derives from the Italian word for "innocent" ( ancient Rome).but this may be explained as wizarding names not necessarily adhering to non-magical naming conv Neither is consistent with the tp://harrypotter.warnerbros.com/ Harry Potter Official Si of ancient Rome, but this may be explained as wizarding names not necessarily adhering to non-magical naming conventions.
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Zaccaria_Innocenti?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Zaccaria_Innocenti?action=edit&amp;section=4" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a target="_blank" rel="noreferrer noopener" class="external text" href="http://harrypotter.warnerbros.com/">Harry Potter Official Site</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Zaccaria_Innocenti?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Zaccaria_Innocenti?action=edit&amp;section=5" title="Edit section: Notes and references

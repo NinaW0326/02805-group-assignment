@@ -1,0 +1,76 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-object pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/1/12/RavenclawDoorKnocker.png/revision/latest?cb=20130108032310" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/1/12/RavenclawDoorKnocker.png/revision/latest/scale-to-width-down/350?cb=20130108032310" srcset="https://static.wikia.nocookie.net/harrypotter/images/1/12/RavenclawDoorKnocker.png/revision/latest/scale-to-width-down/350?cb=20130108032310 1x, https://static.wikia.nocookie.net/harrypotter/images/1/12/RavenclawDoorKnocker.png/revision/latest/scale-to-width-down/700?cb=20130108032310 2x" class="pi-image-thumbnail" alt="" width="270" height="200"
+		     data-image-key="RavenclawDoorKnocker.png" data-image-name="RavenclawDoorKnocker.png"/>
+		
+	</a>
+	
+</figure>
+
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Eagle door knocker</h2>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Object information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="manufacturer">
+	
+		<h3 class="pi-data-label pi-secondary-font">Manufacturer</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Rowena_Ravenclaw" title="Rowena Ravenclaw">Rowena Ravenclaw</a> (possibly)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="made">
+	
+		<h3 class="pi-data-label pi-secondary-font">Made</h3>
+	
+	<div class="pi-data-value pi-font">c. <a href="/wiki/First_millennium_A.D." title="First millennium A.D.">993</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="usage">
+	
+		<h3 class="pi-data-label pi-secondary-font">Usage</h3>
+	
+	<div class="pi-data-value pi-font">Guardian of <a href="/wiki/Ravenclaw_Tower" title="Ravenclaw Tower">Ravenclaw Tower</a></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Object_infobox" title="Template:Object infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Deathly Hallows"><b>Harry Potter</b>: "<i>What? Isn't there just a password?</i>"</span></dd>
+<dd><b>Luna Lovegood</b>: "<i>Oh no, you've just got to answer a question.</i>"</dd>
+<dd><b>Harry Potter</b>: "<i>What if you get it wrong?</i>"</dd>
+<dd><b>Luna Lovegood</b>: "<i>Well, you have to wait for somebody who gets it right. That way you learn, you see?</i>"</dd>
+<dd>&#8212; Harry Potter and Luna Lovegood discuss how to enter the Ravenclaw common room<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">[src]</a></sup></dd></dl>
+</div>
+<p>The <b>eagle door knocker</b> of <a href="/wiki/Ravenclaw_Tower" title="Ravenclaw Tower">Ravenclaw Tower</a> is a bronze, <a href="/wiki/Eagle" title="Eagle">eagle</a>-shaped knocker on the door to the Ravenclaw common room, and acts as the Tower's guardian in much the same way as the <a href="/wiki/Fat_Lady" title="Fat Lady">Fat Lady</a> does for <a href="/wiki/Gryffindor_Tower" title="Gryffindor Tower">Gryffindor Tower</a>. Unlike the Fat Lady, however, the knocker does not ask for a <a href="/wiki/Password" title="Password">password</a>, but asks a thought-provoking question that must be answered in order to enter. The questions differ constantly, asking puzzles and riddles. Such questions include:
+</p>
+<ul><li><i>"Which came first; the <a href="/wiki/Phoenix" title="Phoenix">Phoenix</a> or the <a href="/wiki/Fire" title="Fire">Flame</a>?"</i></li>
+<li><i>"Where do <a href="/wiki/Vanishing_Spell" title="Vanishing Spell">Vanished</a> Objects go?"</i></li></ul>
+<p>The questions typically have no straight forward answer, but require a level of reasoning or logic behind them that reflects the wisdom of the hopeful entrant to the tower. The knocker often compliments successful entrants for their skilful logic, but tends to go quiet if the answer is wrong. The question will remain the same until it is answered. The knocker will not let anyone in who does not know the answer to its question, though if someone else answers the question, one may enter with the help of another who answers correctly.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Description"><span class="tocnumber">2</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Appearances"><span class="tocnumber">3</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Notes_and_references"><span class="tocnumber">4</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Eagle_door_knocker?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: History">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Eagle_door_knocker?action=edit&amp;section=1" title="Edit section: History"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>When <a href="/wiki/Luna_Lovegood" title="Luna Lovegood">Luna Lovegood</a> and <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> attempted to enter Ravenclaw Tower just before the <a href="/wiki/Battle_of_Hogwarts" title="Battle of Hogwarts">Battle of Hogwarts</a> with the purpose of seeing a statue depicting <a href="/wiki/Rowena_Ravenclaw" title="Rowena Ravenclaw">Ravenclaw</a>'s <a href="/wiki/Rowena_Ravenclaw%27s_Diadem" class="mw-redirect" title="Rowena Ravenclaw&#39;s Diadem">lost diadem</a>, the knocker waylaid them with a question to which Luna answered.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p><p>Moments later, the knocker halted <a href="/wiki/Amycus_Carrow" title="Amycus Carrow">Amycus Carrow</a>, who could not answer its question, and attempted to <a href="/wiki/Blasting_Curse" title="Blasting Curse">blast</a> and bludgeon his way past the door instead. The knocker's question was answered correctly by <a href="/wiki/Minerva_McGonagall" title="Minerva McGonagall">Minerva McGonagall</a>, whom Carrow demanded open the door.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Description">Description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Eagle_door_knocker?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Description">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Eagle_door_knocker?action=edit&amp;section=2" title="Edit section: Description"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The knocker has a soft, musical voice, and seemingly pays little heed to any sort of dialogue other than that of answering its question, again a difference to the Fat Lady.
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Eagle_door_knocker?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Eagle_door_knocker?action=edit&amp;section=3" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">Harry Potter and the Deathly Hallows</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_2" title="Harry Potter and the Deathly Hallows: Part 2">Harry Potter and the Deathly Hallows: Part 2</a></i></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter:_Years_1-4" title="LEGO Harry Potter: Years 1-4">LEGO Harry Potter: Years 1-4</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Eagle_door_knocker?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Eagle_door_knocker?action=edit&amp;section=4" title="Edit section: Notes and references

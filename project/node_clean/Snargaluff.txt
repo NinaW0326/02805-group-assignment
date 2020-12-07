@@ -1,0 +1,123 @@
+<div class="mw-parser-output"><table class="notice metadata" id="spoiler" style="text-align: center; background: beige; margin: 1em 05%; padding: 0 1em; border: #a00 1px solid;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/0/0c/Hand_pointing_right_transparent.png/revision/latest?cb=20181112005815" class="image"><img alt="Hand pointing right transparent.png" src="https://static.wikia.nocookie.net/harrypotter/images/0/0c/Hand_pointing_right_transparent.png/revision/latest/scale-to-width-down/150?cb=20181112005815" decoding="async" width="150" height="75" data-image-name="Hand pointing right transparent.png" data-image-key="Hand_pointing_right_transparent.png" /></a>
+</td>
+<td><b>Warning!</b>
+<p>At least some content in this article is derived from information featured in <i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i>&#32; and <i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i>.<br />As such, spoilers will be present within the article.
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-plant pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/e/ef/Snarga_Pottermore.png/revision/latest?cb=20180609164751" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/e/ef/Snarga_Pottermore.png/revision/latest/scale-to-width-down/302?cb=20180609164751" srcset="https://static.wikia.nocookie.net/harrypotter/images/e/ef/Snarga_Pottermore.png/revision/latest/scale-to-width-down/302?cb=20180609164751 1x, https://static.wikia.nocookie.net/harrypotter/images/e/ef/Snarga_Pottermore.png/revision/latest/scale-to-width-down/604?cb=20180609164751 2x" class="pi-image-thumbnail" alt="" width="270" height="184"
+		     data-image-key="Snarga_Pottermore.png" data-image-name="Snarga Pottermore.png"/>
+		
+	</a>
+	
+</figure>
+
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Snargaluff</h2>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Species information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="native">
+	
+		<h3 class="pi-data-label pi-secondary-font">Endemic to</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Ottery_St_Catchpole" title="Ottery St Catchpole">Ottery St Catchpole</a>, <a href="/wiki/Devon" title="Devon">Devon</a>, <a href="/wiki/England" title="England">England</a><sup id="cite_ref-DH21_1-0" class="reference"><a href="#cite_note-DH21-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/Scotland" title="Scotland">Scotland</a>, <a href="/wiki/Great_Britain" title="Great Britain">Great Britain</a><sup id="cite_ref-HBP14_2-0" class="reference"><a href="#cite_note-HBP14-2">&#91;2&#93;</a></sup></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="sentience">
+	
+		<h3 class="pi-data-label pi-secondary-font">Sentience</h3>
+	
+	<div class="pi-data-value pi-font">Sentient</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="stem">
+	
+		<h3 class="pi-data-label pi-secondary-font">Stem</h3>
+	
+	<div class="pi-data-value pi-font">Similar to a gnarled stump</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="fruits">
+	
+		<h3 class="pi-data-label pi-secondary-font">Fruits</h3>
+	
+	<div class="pi-data-value pi-font">Green pulsating pods about the size of a grapefruit<sup id="cite_ref-HBP14_2-1" class="reference"><a href="#cite_note-HBP14-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="distinction">
+	
+		<h3 class="pi-data-label pi-secondary-font">Distinction(s)</h3>
+	
+	<div class="pi-data-value pi-font">Thorned<sup id="cite_ref-HBP14_2-2" class="reference"><a href="#cite_note-HBP14-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="usage">
+	
+		<h3 class="pi-data-label pi-secondary-font">Usage</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Herbology" title="Herbology">Herbology</a><sup id="cite_ref-HBP14_2-3" class="reference"><a href="#cite_note-HBP14-2">&#91;2&#93;</a></sup></li><li>Weapon</li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="affiliation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Affiliation</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Lovegood_family" title="Lovegood family">Lovegood family</a><sup id="cite_ref-DH21_1-1" class="reference"><a href="#cite_note-DH21-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a><sup id="cite_ref-HBP14_2-4" class="reference"><a href="#cite_note-HBP14-2">&#91;2&#93;</a></sup><sup id="cite_ref-DH31_3-0" class="reference"><a href="#cite_note-DH31-3">&#91;3&#93;</a></sup></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="status">
+	
+		<h3 class="pi-data-label pi-secondary-font">Status</h3>
+	
+	<div class="pi-data-value pi-font">Extant</div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Plant_infobox" title="Template:Plant infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Half-Blood Prince">"<i>It sprang to life at once; long, prickly, bramble-like vines flew out of the top and whipped through the air... <a href="/wiki/Harry_Potter" title="Harry Potter">Harry</a> succeeded in trapping a couple of vines and knotting them together; a hole opened in the middle of all the tentacle-like branches... Hermione snatched her arm free, clutching in her fingers a pod... At once, the prickly vines shot back inside and the gnarled stump sat there looking like an innocently dead lump of wood</i>"</span></dd>
+<dd>&#8212;The <a href="/wiki/Trio" title="Trio">trio</a> dealing with the Snargaluff plant in <a href="/wiki/Sixth_year" title="Sixth year">sixth year</a> <a href="/wiki/Herbology" title="Herbology">Herbology</a> class<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p>The <b>Snargaluff</b> was a <a href="/wiki/Magic" title="Magic">magical</a> plant with the appearance of a gnarled stump, but had dangerous hidden thorn-covered vines that attacked when provoked, and was usually best handled by more than one person.<sup id="cite_ref-HBP14_2-5" class="reference"><a href="#cite_note-HBP14-2">&#91;2&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Appearances"><span class="tocnumber">3</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Notes_and_references"><span class="tocnumber">4</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Description">Description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Snargaluff?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Description">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Snargaluff?action=edit&amp;section=1" title="Edit section: Description"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tright show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/1/14/HM_y3_Snargaluff.png/revision/latest?cb=20180609041847" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/1/14/HM_y3_Snargaluff.png/revision/latest/scale-to-width-down/180?cb=20180609041847" decoding="async" width="180" height="156" class="thumbimage" data-image-name="HM y3 Snargaluff.png" data-image-key="HM_y3_Snargaluff.png" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:HM_y3_Snargaluff.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">A Snargaluff pod</p> 		 	</figcaption> </figure>
+<p>The plant contained green pulsating pods, about the size of a grapefruit, which could be extracted. These were then broken open and the contents, which resembled pale green tubers, collected in bowls. <a href="/wiki/Sixth_year" title="Sixth year">Sixth year</a> <a href="/wiki/Herbology" title="Herbology">Herbology</a> students at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> learned to extract these pods, which were best when fresh.<sup id="cite_ref-HBP14_2-6" class="reference"><a href="#cite_note-HBP14-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Snargaluff?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: History">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Snargaluff?action=edit&amp;section=2" title="Edit section: History"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>On <a href="/wiki/1_December" title="1 December">1 December</a> <a href="/wiki/1926" title="1926">1926</a>, <a href="/wiki/The_New_York_Ghost" title="The New York Ghost">The New York Ghost</a> featured a game "Spot the Snargaluff" on page 16 of their Sunset Final edition.<sup id="cite_ref-FBF_4-0" class="reference"><a href="#cite_note-FBF-4">&#91;4&#93;</a></sup>
+</p><p>At the end of the <a href="/wiki/1986%E2%80%931987_school_year" title="1986–1987 school year">1986–1987 school year</a>, this plant was taught to <a href="/wiki/Jacob%27s_sibling" title="Jacob&#39;s sibling">Jacob's sibling</a> by their <a href="/wiki/Hogwarts_Houses" title="Hogwarts Houses">House</a> <a href="/wiki/Prefect" title="Prefect">Prefect</a> as part of a farewell gift before the prefect graduated.<sup id="cite_ref-HM3_5-0" class="reference"><a href="#cite_note-HM3-5">&#91;5&#93;</a></sup>
+</p><p><a href="/wiki/Xenophilius_Lovegood" title="Xenophilius Lovegood">Xenophilius Lovegood</a> had some of these plants (or, at least, stumps resembling Snargaluffs) in the garden in front of his <a href="/wiki/Lovegood_House" title="Lovegood House">house</a>.<sup id="cite_ref-DH21_1-2" class="reference"><a href="#cite_note-DH21-1">&#91;1&#93;</a></sup>
+</p><p>During the <a href="/wiki/Battle_of_Hogwarts" title="Battle of Hogwarts">Battle of Hogwarts</a>, <a href="/wiki/Pomona_Sprout" title="Pomona Sprout">Professor Sprout</a>, <a href="/wiki/Peeves" title="Peeves">Peeves</a> and other students of <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts</a> used Snargaluff pods as weapons against the attacking <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a>.<sup id="cite_ref-DH31_3-1" class="reference"><a href="#cite_note-DH31-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Snargaluff?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Snargaluff?action=edit&amp;section=3" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tright show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/e/ea/SnargaluffWU.png/revision/latest?cb=20200817153723" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/e/ea/SnargaluffWU.png/revision/latest/scale-to-width-down/180?cb=20200817153723" decoding="async" width="180" height="195" class="thumbimage" data-image-name="SnargaluffWU.png" data-image-key="SnargaluffWU.png" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:SnargaluffWU.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Snargaluff as it appears in <i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i></p> 		 	</figcaption> </figure>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">Harry Potter and the Half-Blood Prince</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince_(film)" title="Harry Potter and the Half-Blood Prince (film)">Harry Potter and the Half-Blood Prince (film)</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">Harry Potter and the Deathly Hallows</a></i></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i></li>
+<li><i><a href="/wiki/Wizarding_World_(website)" title="Wizarding World (website)">Wizarding World</a></i> <small>(Mentioned only)</small></li>
+<li><a href="/wiki/J._K._Rowling%27s_official_site" title="J. K. Rowling&#39;s official site">J. K. Rowling's official site</a> <span class="template-c">(<a href="/wiki/Wizards%27_Ordinary_Magic_and_Basic_Aptitude_Test" title="Wizards&#39; Ordinary Magic and Basic Aptitude Test">W.O.M.B.A.T.</a>)</span></li>
+<li><i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(film)" title="Fantastic Beasts and Where to Find Them (film)">Fantastic Beasts and Where to Find Them (film)</a></i> <small>(Mentioned in a newspaper)</small></li>
+<li><i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i></li>
+<li><i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Snargaluff?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Snargaluff?action=edit&amp;section=4" title="Edit section: Notes and references

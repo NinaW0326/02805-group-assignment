@@ -1,0 +1,128 @@
+<div class="mw-parser-output"><table class="notice metadata" id="spoiler" style="text-align: center; background: beige; margin: 1em 05%; padding: 0 1em; border: #a00 1px solid;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/8/8c/Hogwarts_Mystery.jpeg/revision/latest?cb=20180504083359" class="image"><img alt="Hogwarts Mystery.jpeg" src="https://static.wikia.nocookie.net/harrypotter/images/8/8c/Hogwarts_Mystery.jpeg/revision/latest/scale-to-width-down/175?cb=20180504083359" decoding="async" width="175" height="77" data-image-name="Hogwarts Mystery.jpeg" data-image-key="Hogwarts_Mystery.jpeg" /></a>
+</td>
+<td><b>Warning!</b>
+<p>At least some content in this article is derived from information featured in <i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i>. Spoilers will be present within the article.
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-portrait pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/3/3c/Wendelin_the_Weird.JPG/revision/latest?cb=20080801161105" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/3/3c/Wendelin_the_Weird.JPG/revision/latest/scale-to-width-down/350?cb=20080801161105" srcset="https://static.wikia.nocookie.net/harrypotter/images/3/3c/Wendelin_the_Weird.JPG/revision/latest/scale-to-width-down/350?cb=20080801161105 1x, https://static.wikia.nocookie.net/harrypotter/images/3/3c/Wendelin_the_Weird.JPG/revision/latest/scale-to-width-down/700?cb=20080801161105 2x" class="pi-image-thumbnail" alt="" width="270" height="265"
+		     data-image-key="Wendelin_the_Weird.JPG" data-image-name="Wendelin the Weird.JPG"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Wendelin the Weird</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">c. <a href="/wiki/14th_century" title="14th century">14th century</a><sup id="cite_ref-POA1_1-0" class="reference"><a href="#cite_note-POA1-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Middle_Ages" title="Middle Ages">Middle Ages</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Red<sup id="cite_ref-COSG_2-0" class="reference"><a href="#cite_note-COSG-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Green<sup id="cite_ref-COSG_2-1" class="reference"><a href="#cite_note-COSG-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White<sup id="cite_ref-COSG_2-2" class="reference"><a href="#cite_note-COSG-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Prisoner of Azkaban">"<i><a href="/wiki/Non-magic_people" title="Non-magic people">Non-magic people</a> (more commonly known as Muggles) were particularly afraid of magic in <a href="/wiki/Middle_Ages" title="Middle Ages">medieval times</a>, but not very good at recognising it. On the rare occasion that they did catch a real witch or wizard, burning had no effect whatsoever. The witch or wizard would perform a basic <a href="/wiki/Flame-Freezing_Charm" title="Flame-Freezing Charm">Flame Freezing Charm</a> and then pretend to shriek with pain while enjoying a gentle, tickling sensation. Indeed, Wendelin the Weird enjoyed being burned so much that she allowed herself to be caught no less than forty-seven times in various disguises.</i>"</span></dd>
+<dd>&#8212;<a href="/wiki/Bathilda_Bagshot" title="Bathilda Bagshot">Bathilda Bagshot</a>, <i><a href="/wiki/A_History_of_Magic" title="A History of Magic">A History of Magic</a></i><sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban" title="Harry Potter and the Prisoner of Azkaban">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Wendelin the Weird</b> (fl. c. <a href="/wiki/14th_century" title="14th century">14th century</a>)<sup id="cite_ref-POA1_1-1" class="reference"><a href="#cite_note-POA1-1">&#91;1&#93;</a></sup> was an eccentric <a href="/wiki/Great_Britain" title="Great Britain">British</a> <a href="/wiki/Middle_Ages" title="Middle Ages">medieval</a> <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> who was famous for being burnt at the stake no less than forty-seven times in various disguises.<sup id="cite_ref-POA1_1-2" class="reference"><a href="#cite_note-POA1-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Magical_abilities_and_skills"><span class="tocnumber">2</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Behind_the_scenes"><span class="tocnumber">3</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Appearances"><span class="tocnumber">4</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Notes_and_references"><span class="tocnumber">5</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Wendelin_the_Weird?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Wendelin_the_Weird?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tright show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/d/da/WendelintheWeird.png/revision/latest?cb=20190705064652" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/d/da/WendelintheWeird.png/revision/latest/scale-to-width-down/180?cb=20190705064652" decoding="async" width="180" height="240" class="thumbimage" data-image-name="WendelintheWeird.png" data-image-key="WendelintheWeird.png" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:WendelintheWeird.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Wendelin taking great pleasure in being burned at the stake</p> 		 	</figcaption> </figure>
+<p>During the <a href="/wiki/Middle_Ages" title="Middle Ages">Middle Ages</a>, <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> <a href="/wiki/Witch-hunts" class="mw-redirect" title="Witch-hunts">witch-hunts</a> were at their peak. Stemming from the desire to experience a pleasant tickling sensation from the <a href="/wiki/Flame-Freezing_Charm" title="Flame-Freezing Charm">Flame-Freezing Charm</a>, Wendelin took upon herself to be captured no less than forty-seven times in various disguises to be repeatedly burned at the stake. With the use of the Flame-Freezing Charm, the <a href="/wiki/Fire" title="Fire">pyres</a> were rendered harmless, creating only a gentle tickling sensation which Wendelin enjoyed immensely.<sup id="cite_ref-PSG_3-0" class="reference"><a href="#cite_note-PSG-3">&#91;3&#93;</a></sup><sup id="cite_ref-COSG_2-3" class="reference"><a href="#cite_note-COSG-2">&#91;2&#93;</a></sup><sup id="cite_ref-POAG_4-0" class="reference"><a href="#cite_note-POAG-4">&#91;4&#93;</a></sup><sup id="cite_ref-POA1_1-3" class="reference"><a href="#cite_note-POA1-1">&#91;1&#93;</a></sup>
+</p><p>During the <a href="/wiki/1992-1993_school_year" class="mw-redirect" title="1992-1993 school year">1992-1993 school year</a>, a <a href="/wiki/Portrait" title="Portrait">Portrait</a> of Wendelin was hung in the <a href="/wiki/Secret_Hallway" title="Secret Hallway">Secret Hallway</a>. <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> once traded a <a href="/wiki/Misprinted_Wendolyn_card" title="Misprinted Wendolyn card">rare misprint</a> of a Wendelin the Weird <a href="/wiki/Chocolate_Frog_Card" title="Chocolate Frog Card">Chocolate Frog Card</a> to this portrait in exchange for a baby <a href="/wiki/Spider" title="Spider">spider</a>.<sup id="cite_ref-COSG_2-4" class="reference"><a href="#cite_note-COSG-2">&#91;2&#93;</a></sup>
+</p><p>Wendelin the Weird was mentioned when <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> had to write an essay for <a href="/wiki/History_of_Magic" title="History of Magic">History of Magic</a> in his <a href="/wiki/Third_year" title="Third year">third year</a>, the premise for which was that "<i><a href="/wiki/Witch_Burning_in_the_Fourteenth_Century_Was_Completely_Pointless_%E2%80%94_discuss" title="Witch Burning in the Fourteenth Century Was Completely Pointless — discuss">Witch Burning in the Fourteenth Century Was Completely Pointless — discuss</a></i>"<sup id="cite_ref-POA1_1-4" class="reference"><a href="#cite_note-POA1-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Wendelin_the_Weird?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Wendelin_the_Weird?action=edit&amp;section=2" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Charm" title="Charm">Charms</a></b>: Wendelin was shown to be talented with charm-work, as she was highly capable of casting the <a href="/wiki/Flame-Freezing_Charm" title="Flame-Freezing Charm">Flame-Freezing Charm</a> to render <a href="/wiki/Fire" title="Fire">fire</a> harmless, which she cast frequently whenever she was burned at the stake, for a warm and tickling sensation every time, no less than forty seven times.<sup id="cite_ref-POA1_1-5" class="reference"><a href="#cite_note-POA1-1">&#91;1&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Wendelin_the_Weird?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Wendelin_the_Weird?action=edit&amp;section=3" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>According to Harry's copy of <i><a href="/wiki/A_History_of_Magic" title="A History of Magic">A History of Magic</a></i> in <i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban" title="Harry Potter and the Prisoner of Azkaban">Harry Potter and the Prisoner of Azkaban</a></i>, Wendelin was burned at least forty-seven times. However, according to her <a href="/wiki/Chocolate_Frog_Card" title="Chocolate Frog Card">card</a> in the video games, it states she was only burned fourteen times. It could be possible that all the other times, she was disguised and not credited with these "accomplishments". The Timeline of the Wizarding World given on  <i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> reinforces that Wendelin was burned exactly forty-seven times.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Wendelin_the_Weird?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Wendelin_the_Weird?action=edit&amp;section=4" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 5 images related to <i><b><a href="/wiki/Category:Images_of_Wendelin_the_Weird" title="Category:Images of Wendelin the Weird">Wendelin the Weird</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div><figure class="thumb tright show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/e/e6/Wendelin_The_Weird-20-chocFrogCard.png/revision/latest?cb=20160606202432" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="180" height="180" class="thumbimage lazyload" data-image-name="Wendelin The Weird-20-chocFrogCard.png" data-image-key="Wendelin_The_Weird-20-chocFrogCard.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/e/e6/Wendelin_The_Weird-20-chocFrogCard.png/revision/latest/scale-to-width-down/180?cb=20160606202432" /></a> 	<noscript><a href="https://static.wikia.nocookie.net/harrypotter/images/e/e6/Wendelin_The_Weird-20-chocFrogCard.png/revision/latest?cb=20160606202432" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/e/e6/Wendelin_The_Weird-20-chocFrogCard.png/revision/latest/scale-to-width-down/180?cb=20160606202432" decoding="async" width="180" height="180" class="thumbimage" data-image-name="Wendelin The Weird-20-chocFrogCard.png" data-image-key="Wendelin_The_Weird-20-chocFrogCard.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/e/e6/Wendelin_The_Weird-20-chocFrogCard.png/revision/latest/scale-to-width-down/180?cb=20160606202432" /></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Wendelin_The_Weird-20-chocFrogCard.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Wendelin the Weird on a Silver <a href="/wiki/Chocolate_Frog_Card" title="Chocolate Frog Card">Chocolate Frog Card</a></p> 		 	</figcaption> </figure>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(video_game)" title="Harry Potter and the Philosopher&#39;s Stone (video game)">Harry Potter and the Philosopher's Stone (video game)</a></i> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(video_game)" title="Harry Potter and the Chamber of Secrets (video game)">Harry Potter and the Chamber of Secrets (video game)</a></i> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span> <small>(Appears in portrait(s))</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban" title="Harry Potter and the Prisoner of Azkaban">Harry Potter and the Prisoner of Azkaban</a></i> <small>(First appearance)</small> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(video_game)" title="Harry Potter and the Prisoner of Azkaban (video game)">Harry Potter and the Prisoner of Azkaban (video game)</a></i> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li>
+<li><i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i> <small>(Mentioned only)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Wendelin_the_Weird?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Wendelin_the_Weird?action=edit&amp;section=5" title="Edit section: Notes and references

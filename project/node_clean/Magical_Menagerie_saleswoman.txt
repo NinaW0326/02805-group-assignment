@@ -1,0 +1,116 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/0/05/Magical_Menagerie_saleswoman.png/revision/latest?cb=20160104141744" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/0/05/Magical_Menagerie_saleswoman.png/revision/latest/scale-to-width-down/338?cb=20160104141744" srcset="https://static.wikia.nocookie.net/harrypotter/images/0/05/Magical_Menagerie_saleswoman.png/revision/latest/scale-to-width-down/338?cb=20160104141744 1x, https://static.wikia.nocookie.net/harrypotter/images/0/05/Magical_Menagerie_saleswoman.png/revision/latest/scale-to-width-down/676?cb=20160104141744 2x" class="pi-image-thumbnail" alt="" width="270" height="399"
+		     data-image-key="Magical_Menagerie_saleswoman.png" data-image-name="Magical Menagerie saleswoman.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Magical Menagerie saleswoman</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Grey (formerly black)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Saleswoman at <a href="/wiki/Magical_Menagerie" title="Magical Menagerie">Magical Menagerie</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Magical_Menagerie" title="Magical Menagerie">Magical Menagerie</a></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;An ordinary, common or garden &#91;&#91;rat&#93;&#93; like this can’t be expected to live longer than three years or so. Now, if you were looking for something a bit more hard-wearing, you might like one of these ..."><b>Ron Weasley</b>: "<i>It’s my rat. He’s been a bit off-colour ever since I brought him back from <a href="/wiki/Egypt" title="Egypt">Egypt</a>.</i>"</span></dd>
+<dd><b>Saleswoman</b>: "<i>Bang him on the counter. Hm. How old is this rat?</i>"</dd>
+<dd><b>Ron Weasley</b>: "<i>Dunno. Quite old. He used to belong to my <a href="/wiki/Percy_Weasley" title="Percy Weasley">brother</a>.</i>"</dd>
+<dd><b>Saleswoman</b>: "<i>What powers does he have?</i>"</dd>
+<dd><b>Ron Weasley</b>: "<i>Er –</i>"</dd>
+<dd><b>Saleswoman</b>: "<i>He’s been through the mill, this one.</i>"</dd>
+<dd><b>Ron Weasley</b>: "<i>He was like that when Percy gave him to me.</i>"</dd>
+<dd><b>Saleswoman</b>: "<i>An ordinary, common or garden <a href="/wiki/Rat" title="Rat">rat</a> like this can’t be expected to live longer than three years or so. Now, if you were looking for something a bit more hard-wearing, you might like one of these ...</i>"</dd>
+<dd><b>Ron Weasley</b>: "<i>Show-offs.</i>"</dd>
+<dd><b>Saleswoman</b>: "<i>Well, if you don’t want a replacement, you can try this <a href="/wiki/Rat_Tonic" class="mw-redirect" title="Rat Tonic">Rat Tonic</a>.</i>"</dd>
+<dd><b>Ron Weasley</b>: "<i>OK. How much – OUCH!</i>"</dd>
+<dd><b>Saleswoman</b>: "<i>NO, <a href="/wiki/Crookshanks" title="Crookshanks">Crookshanks</a>, NO!</i>"</dd>
+<dd>&#8212; <a href="/wiki/Ronald_Weasley" title="Ronald Weasley">Ron Weasley</a> seeking treatment for <a href="/wiki/Peter_Pettigrew" title="Peter Pettigrew">Scabbers</a> at the <a href="/wiki/Magical_Menagerie" title="Magical Menagerie">Magical Menagerie</a><sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban" title="Harry Potter and the Prisoner of Azkaban">[src]</a></sup></dd></dl>
+</div><p>This <b>saleswoman</b> was a <a href="/wiki/Great_Britain" title="Great Britain">British</a> <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> and the proprietor of <a href="/wiki/Magical_Menagerie" title="Magical Menagerie">Magical Menagerie</a>, which is one of two major pet shops in <a href="/wiki/Diagon_Alley" title="Diagon Alley">Diagon Alley</a>. 
+</p><div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Behind_the_scenes"><span class="tocnumber">2</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Appearances"><span class="tocnumber">3</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Notes_and_references"><span class="tocnumber">4</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Magical_Menagerie_saleswoman?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Magical_Menagerie_saleswoman?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In <a href="/wiki/1991" title="1991">1991</a>, she was willing to give <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> some <a href="/wiki/Giant_Purple_Toad_wart" title="Giant Purple Toad wart">warts</a> from a <a href="/wiki/Giant_Purple_Toad" title="Giant Purple Toad">Giant Purple Toad</a> if he could catch it.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> In <a href="/wiki/1992" title="1992">1992</a>, she was absent, possibly on vacation,&#160;and a <a href="/wiki/Magical_Menagerie_salesman" title="Magical Menagerie salesman">man</a> had to do her job.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> She advised a <a href="/wiki/Double-ended-newt_wizard" title="Double-ended-newt wizard">customer</a> on how to take care of a <a href="/wiki/Double-ended_Newt" class="mw-redirect" title="Double-ended Newt">double-ended newt</a>, sold <a href="/wiki/Ronald_Weasley" title="Ronald Weasley">Ron Weasley</a>&#160;a bottle of <a href="/wiki/Rat_tonic" title="Rat tonic">rat tonic</a> for <a href="/wiki/Peter_Pettigrew" title="Peter Pettigrew">Scabbers</a> during the summer of <a href="/wiki/1993" title="1993">1993</a>, and sold <a href="/wiki/Crookshanks" title="Crookshanks">Crookshanks</a> to <a href="/wiki/Hermione_Granger" title="Hermione Granger">Hermione Granger</a> at that time as well.<sup id="cite_ref-PA4_3-0" class="reference"><a href="#cite_note-PA4-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Magical_Menagerie_saleswoman?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Magical_Menagerie_saleswoman?action=edit&amp;section=2" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>The Magical Menagerie saleswoman is omitted from the <a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(film)" title="Harry Potter and the Prisoner of Azkaban (film)">film adaptation</a> of <i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban" title="Harry Potter and the Prisoner of Azkaban">Harry Potter and the Prisoner of Azkaban</a></i>, since Hermione already has Crookshanks with her by the time Harry was reunited with her and Ron.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Magical_Menagerie_saleswoman?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Magical_Menagerie_saleswoman?action=edit&amp;section=3" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban" title="Harry Potter and the Prisoner of Azkaban">Harry Potter and the Prisoner of Azkaban</a></i><small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(video_game)" title="Harry Potter and the Philosopher&#39;s Stone (video game)">Harry Potter and the Philosopher's Stone (video game)</a></i></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter:_Years_1-4" title="LEGO Harry Potter: Years 1-4">LEGO Harry Potter: Years 1-4</a></i> <span class="template-c">(DS and IPhone version)</span></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Magical_Menagerie_saleswoman?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Magical_Menagerie_saleswoman?action=edit&amp;section=4" title="Edit section: Notes and references

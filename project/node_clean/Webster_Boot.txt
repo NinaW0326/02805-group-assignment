@@ -1,0 +1,213 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-ilvermorny pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/1/1a/WebsterBoot.png/revision/latest?cb=20170927204630" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/1/1a/WebsterBoot.png/revision/latest/scale-to-width-down/267?cb=20170927204630" srcset="https://static.wikia.nocookie.net/harrypotter/images/1/1a/WebsterBoot.png/revision/latest/scale-to-width-down/267?cb=20170927204630 1x, https://static.wikia.nocookie.net/harrypotter/images/1/1a/WebsterBoot.png/revision/latest/scale-to-width-down/534?cb=20170927204630 2x" class="pi-image-thumbnail" alt="" width="267" height="500"
+		     data-image-key="WebsterBoot.png" data-image-name="WebsterBoot.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Webster Boot</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">c. <a href="/wiki/1620" class="mw-redirect" title="1620">1620</a><br/><a href="/wiki/Ireland" title="Ireland">Ireland</a> (likely)<sup id="cite_ref-birth_1-0" class="reference"><a href="#cite_note-birth-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">Britain</a><sup id="cite_ref-Pottermore_2-0" class="reference"><a href="#cite_note-Pottermore-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Half-blood" title="Half-blood">Half-blood</a> or <a href="/wiki/Pure-blood" title="Pure-blood">pure-blood</a><sup id="cite_ref-Pottermore_2-1" class="reference"><a href="#cite_note-Pottermore-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="marital">
+	
+		<h3 class="pi-data-label pi-secondary-font">Marital status</h3>
+	
+	<div class="pi-data-value pi-font">Married</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="title">
+	
+		<h3 class="pi-data-label pi-secondary-font">Title(s)</h3>
+	
+	<div class="pi-data-value pi-font">Founder</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Brown</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Brown</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Fair</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Boot_brothers%27_father" title="Boot brothers&#039; father">Mr Boot</a> (father)</li><li><a href="/wiki/Boot_brothers%27_mother" title="Boot brothers&#039; mother">Mrs Boot</a> (mother)</li><li><a href="/wiki/Chadwick_Boot" title="Chadwick Boot">Chadwick Boot</a> (older brother)</li><li><a href="/wiki/Isolt_Sayre" title="Isolt Sayre">Isolt Sayre</a> (adoptive mother)</li><li><a href="/wiki/James_Steward" title="James Steward">James Steward</a> (adoptive father)</li><li><a href="/wiki/Martha_Steward_II" title="Martha Steward II">Martha Steward</a> (adoptive sister)</li><li><a href="/wiki/Rionach_Steward" title="Rionach Steward">Rionach Steward</a>  (adoptive sister)</li><li><a href="/wiki/Webster_Boot%27s_wife" title="Webster Boot&#039;s wife">Mrs Boot</a> (wife)</li><li><a href="/wiki/Boot_family" title="Boot family">Boot family</a></li><li><a href="/wiki/Josefina_Calderon" title="Josefina Calderon">Josefina Calderon</a> (sister-in-law)</li><li><a href="/wiki/Terry_Boot" title="Terry Boot">Terry Boot</a> (possible descendant)</li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Magical characteristics</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="wand">
+	
+		<h3 class="pi-data-label pi-secondary-font">Wand</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Webster_Boot%27s_wand" title="Webster Boot&#039;s wand">Unknown length, unknown wood, Horned Serpent horn</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>Founder of <a href="/wiki/Ilvermorny_School_of_Witchcraft_and_Wizardry" title="Ilvermorny School of Witchcraft and Wizardry">Ilvermorny School of Witchcraft and Wizardry</a></li><li><a href="/wiki/Auror" title="Auror">Auror</a> for hire</li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="house">
+	
+		<h3 class="pi-data-label pi-secondary-font">House</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Wampus_(House)" title="Wampus (House)">Wampus</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Ilvermorny_School_of_Witchcraft_and_Wizardry" title="Ilvermorny School of Witchcraft and Wizardry">Ilvermorny School of Witchcraft and Wizardry</a><ul><li><a href="/wiki/Wampus_(House)" title="Wampus (House)">Wampus</a></li></ul></li><li><a href="/wiki/Boot_family" title="Boot family">Boot family</a></li><li><a href="/wiki/Steward_family" title="Steward family">Steward family</a></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Pottermore">"<i>Webster Boot became what would now be known as an Auror for hire.</i>"</span></dd>
+<dd>&#8212;Description of Webster's career<sup class="noprint"><a href="/wiki/Pottermore" title="Pottermore">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Webster Boot</b> (born c. <a href="/wiki/1620" class="mw-redirect" title="1620">1620</a>) was a <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> and one of the four co-founders of <a href="/wiki/Ilvermorny_School_of_Witchcraft_and_Wizardry" title="Ilvermorny School of Witchcraft and Wizardry">Ilvermony.</a> He was also the founder of <a href="/wiki/Wampus_(House)" title="Wampus (House)">Wampus house</a>. Webster was the brother of <a href="/wiki/Chadwick_Boot" title="Chadwick Boot">Chadwick Boot</a> and the husband of a Scottish witch whom he eventually fell in <a href="/wiki/Love" title="Love">love</a> with.
+</p><p>Webster was what was known as a <a href="/wiki/Auror" title="Auror">Auror</a> for hire and after falling in love with the young Scottish witch (whom worked for the <a href="/wiki/Ministry_of_Magic" title="Ministry of Magic">Ministry of Magic</a>) he choose to remain in England. Thus did the Boot family return to its home country. Webster’s descendants would be educated at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_life"><span class="tocnumber">1.1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Founding_of_Ilvermony_School"><span class="tocnumber">1.2</span> <span class="toctext">Founding of Ilvermony School</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Death_of_Gormlaith_Gaunt"><span class="tocnumber">1.3</span> <span class="toctext">Death of Gormlaith Gaunt</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Later_life"><span class="tocnumber">1.4</span> <span class="toctext">Later life</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Physical_appearance"><span class="tocnumber">2</span> <span class="toctext">Physical appearance</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Personality_and_traits"><span class="tocnumber">3</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Magical_abilities_and_skills"><span class="tocnumber">4</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Possessions"><span class="tocnumber">5</span> <span class="toctext">Possessions</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Etymology"><span class="tocnumber">6</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Behind_the_scenes"><span class="tocnumber">7</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Appearances"><span class="tocnumber">8</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Notes_and_references"><span class="tocnumber">9</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Webster_Boot?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Webster_Boot?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Webster_Boot?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Early life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Webster_Boot?action=edit&amp;section=2" title="Edit section: Early life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Webster was born around <a href="/wiki/1620" class="mw-redirect" title="1620">1620</a> in <a href="/wiki/Ireland" title="Ireland">Ireland</a> to <a href="/wiki/Boot_brothers%27_father" title="Boot brothers&#39; father">Mr Boot</a> and <a href="/wiki/Boot_brothers%27_mother" title="Boot brothers&#39; mother">Mrs Boot</a>.<sup id="cite_ref-birth_1-1" class="reference"><a href="#cite_note-birth-1">&#91;1&#93;</a></sup> He had a brother, <a href="/wiki/Chadwick_Boot" title="Chadwick Boot">Chadwick</a>, who was older than him by two years. As a child, he travelled with his family to the New World with the Plymouth settlement in search of adventure.<sup id="cite_ref-Pottermore_2-2" class="reference"><a href="#cite_note-Pottermore-2">&#91;2&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Founding_of_Ilvermony_School">Founding of Ilvermony School</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Webster_Boot?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Founding of Ilvermony School">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Webster_Boot?action=edit&amp;section=3" title="Edit section: Founding of Ilvermony School"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>One day, they ventured into the forest where they were attacked by a <a href="/wiki/Hidebehind" title="Hidebehind">Hidebehind</a>. His parents were killed but he and his brother were saved by <a href="/wiki/Isolt_Sayre" title="Isolt Sayre">Isolt Sayre</a> who nursed them back to health. They were eventually joined by <a href="/wiki/James_Steward" title="James Steward">James Steward</a>, a <a href="/wiki/No-Maj" class="mw-redirect" title="No-Maj">No-Maj</a> who had travelled with the Plymouth settlement too and who had gone in search of the family when they did not return. Webster and his brother formed a bond with them both and even though James was scared of their magic at first, he eventually came round. James helped them build Ilvermorny Cottage in Mount Greylock.
+</p><p>The four lived together at the cottage when Isolt and James were married. Isolt told them stories of <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a>. They both yearned to be able to return to Ireland so they could attend the school but Isolt would not tell them the reason why they couldn't. The brothers were instead promised <a href="/wiki/Wand" title="Wand">wands</a> when they turned eleven and that they could make a school of <a href="/wiki/Magic" title="Magic">magic</a> at Ilvermorny.
+</p><p>This idea caught Webster and Chadwick's imaginations and they thought about how the school ought to be. It was based upon Hogwarts, and they wanted four houses but they thought naming the houses after themselves would sound ridiculous. They decided to name them after magical beasts, with Webster coming up with the house <a href="/wiki/Wampus_(House)" title="Wampus (House)">Wampus</a>, named after the <a href="/wiki/Wampus_cat" title="Wampus cat">creature</a>.
+</p><p>By the time Webster turned eleven, Ilvermorny was flourishing. Isolt made good on her promise and made Webster a wand made out of ash with the core being the horn of a <a href="/wiki/Horned_Serpent" title="Horned Serpent">Horned Serpent</a>. Webster and Chadwick were joined at the school by two other families, although theirs was the only one that lived at Ilvermorny.
+</p>
+<h3><span class="mw-headline" id="Death_of_Gormlaith_Gaunt">Death of Gormlaith Gaunt</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Webster_Boot?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Death of Gormlaith Gaunt">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Webster_Boot?action=edit&amp;section=4" title="Edit section: Death of Gormlaith Gaunt"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>By 1634, the school had grown and now included Inter-House competitions which was an idea given by Webster. He and his brother were joined by Isolt and James' twin daughters, <a href="/wiki/Martha_Steward_II" title="Martha Steward II">Martha</a> and <a href="/wiki/Rionach_Steward" title="Rionach Steward">Rionach Steward</a>.<sup id="cite_ref-Pottermore_2-3" class="reference"><a href="#cite_note-Pottermore-2">&#91;2&#93;</a></sup>
+</p><p>However, one day, Isolt's wicked aunt, <a href="/wiki/Gormlaith_Gaunt" title="Gormlaith Gaunt">Gormlaith Gaunt</a> found out she was living at Ilvermorny. Gormlaith travelled there to make Isolt pay for leaving her and cast a spell over her and James which put them in a deep sleep.
+</p><p>Gormlaith did not know Webster and Chadwick were also staying at the house because she had never heard of them. Therefore, the spell she cast did not put them in a sleep either. She also did not know that they had powerful wands made with the horn of the river serpent. Gormlaith had cast another a spell in <a href="/wiki/Parseltongue" title="Parseltongue">Parseltongue</a> which made other wands become inactive, but these wands were not stopped by her spell and in fact, recognised the sound of the ancient language and emitted a low musical note to warn their masters they were in danger.
+</p><p>This made Webster and Chadwick wake and they leapt out of bed. Chadwick looked instinctively through the window and saw Gormlaith creeping through the trees towards the house. Even though Isolt had never spoke of Gormlaith to them, Chadwick had heard her talking about Gormlaith several times. Chadwick sent Webster to warn their parents while he ran to stop Gormlaith. Webster was unable to wake them, so he joined Chadwick in his duel against Gormlaith.
+</p><p>Gormlaith had underestimated them and the twin cores of the brothers wands increased their power. However, Gormlaith's powerful <a href="/wiki/Dark_Arts" title="Dark Arts">dark magic</a> was enough to match them. Gormlaith promised them mercy if they could prove their <a href="/wiki/Pure-blood" title="Pure-blood">pure-blood</a> credentials, but Chadwick and Webster were only determined to stop her reaching their family. The brothers were driven back inside Ilvermorny: walls cracked and windows shattered, but still Isolt and James slept, until the baby girls lying upstairs woke and screamed in fear.
+</p><p>It was this that pierced the enchantment lying over Isolt and James. Isolt screamed at James to go to the girls as she ran to assist her adoptive sons, with Slytherin’s wand in her hand. However, when she reached Gormlaith, she realised her wand was loyal to her aunt. Gormlaith drove Isolt, Chadwick and Webster backwards up the stairs, towards the place where she could hear her great-nieces crying. Finally she managed to get the doors open to their bedroom, where she was prepared to kill the family. 
+</p><p>However, Isolt cried out for her murdered father, <a href="/wiki/William_Sayre" title="William Sayre">William</a> but instead she summoned <a href="/wiki/William_(Pukwudgie)" title="William (Pukwudgie)">William</a> the <a href="/wiki/Pukwudgie" title="Pukwudgie">Pukwudgie</a> who appeared on the windowsill and killed Gormlaith with a <a href="/wiki/Poison" title="Poison">poisoned</a> <a href="/wiki/Pukwudgie_arrow" title="Pukwudgie arrow">arrow</a>, saving the family.<sup id="cite_ref-Pottermore_2-4" class="reference"><a href="#cite_note-Pottermore-2">&#91;2&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Later_life">Later life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Webster_Boot?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Later life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Webster_Boot?action=edit&amp;section=5" title="Edit section: Later life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Webster later became what would now be known as an <a href="/wiki/Auror" title="Auror">Auror</a> for hire. While repatriating a <a href="/wiki/Dark_Wizard" title="Dark Wizard">Dark Wizard</a> to <a href="/wiki/London" title="London">London</a>, Webster met and fell in love with a young Scottish witch who was working at the <a href="/wiki/Ministry_of_Magic" title="Ministry of Magic">Ministry of Magic</a>. They settled in <a href="/wiki/Great_Britain" title="Great Britain">Britain</a> where Webster’s descendants would be educated at Hogwarts.<sup id="cite_ref-Pottermore_2-5" class="reference"><a href="#cite_note-Pottermore-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Physical_appearance">Physical appearance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Webster_Boot?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Physical appearance">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Webster_Boot?action=edit&amp;section=6" title="Edit section: Physical appearance"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Webster looked very much like his brother, with brown hair and eyes. His skin was fair.
+</p>
+<h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Webster_Boot?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Personality and traits">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Webster_Boot?action=edit&amp;section=7" title="Edit section: Personality and traits"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Webster was described as argumentative, but fiercely loyal.<sup id="cite_ref-Pottermore_2-6" class="reference"><a href="#cite_note-Pottermore-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Webster_Boot?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Webster_Boot?action=edit&amp;section=8" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Duelling" title="Duelling">Duelling</a></b>: Webster was a very skilled and accomplished duellist who was proficient in <a href="/wiki/Martial_magic" title="Martial magic">Martial magic</a>. He was able to hold off the powerful <a href="/wiki/Dark_Wizard" title="Dark Wizard">dark witch</a>&#160;<a href="/wiki/Gormlaith_Gaunt" title="Gormlaith Gaunt">Gormlaith Gaunt</a> on even terms along with his brother, though this may have been due to their twin <a href="/wiki/Wand" title="Wand">wand</a>&#160;<a href="/wiki/Wand_core" title="Wand core">cores</a>&#160;increasing their power ten-fold. He also became an <a href="/wiki/Auror" title="Auror">Auror</a> for hire later in life, an occupation that required intense magical combat.&#160;</li></ul>
+<h2><span class="mw-headline" id="Possessions">Possessions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Webster_Boot?veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Edit section: Possessions">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Webster_Boot?action=edit&amp;section=9" title="Edit section: Possessions"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Webster_Boot%27s_wand" title="Webster Boot&#39;s wand">Wand</a></b>: Webster was given this wand for his eleventh birthday by his foster parent. The <a href="/wiki/Wand_core" title="Wand core">core</a>&#160;was <a href="/wiki/Horned_Serpent_horn" title="Horned Serpent horn">Horned Serpent horn</a> while the <a href="/wiki/Wand_wood" title="Wand wood">wood</a>&#160;was unknown.<figure class="thumb tright show-info-icon" style="width: 222px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/d/d3/Pottermore%2BWands_%284%29.jpg/revision/latest?cb=20181104100055" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/d/d3/Pottermore%2BWands_%284%29.jpg/revision/latest/scale-to-width-down/220?cb=20181104100055" decoding="async" width="220" height="77" class="thumbimage" data-image-name="Pottermore+Wands (4).jpg" data-image-key="Pottermore+Wands_(4).jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Pottermore%2BWands_(4).jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Webster Boot's wand</p> 		 	</figcaption> </figure></li></ul>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Webster_Boot?veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Webster_Boot?action=edit&amp;section=10" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>The name Webster originates from an occupational surname meaning "weaver", derived from Old English webba.</li></ul>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Webster_Boot?veaction=edit&amp;section=11" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Webster_Boot?action=edit&amp;section=11" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Webster and his brother Chadwick are the youngest known founders of a wizarding school, as well as the only known founders to attend said school as students.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Webster_Boot?veaction=edit&amp;section=12" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Webster_Boot?action=edit&amp;section=12" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Wizarding_World_(website)" title="Wizarding World (website)">Wizarding World</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Webster_Boot?veaction=edit&amp;section=13" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Webster_Boot?action=edit&amp;section=13" title="Edit section: Notes and references

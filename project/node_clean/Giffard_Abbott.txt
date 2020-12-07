@@ -1,0 +1,170 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-hogwarts-staff pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/f/f1/GiffardAbbott2.jpg/revision/latest?cb=20141127213444" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/f/f1/GiffardAbbott2.jpg/revision/latest/scale-to-width-down/281?cb=20141127213444" srcset="https://static.wikia.nocookie.net/harrypotter/images/f/f1/GiffardAbbott2.jpg/revision/latest/scale-to-width-down/281?cb=20141127213444 1x, https://static.wikia.nocookie.net/harrypotter/images/f/f1/GiffardAbbott2.jpg/revision/latest/scale-to-width-down/561?cb=20141127213444 2x" class="pi-image-thumbnail" alt="" width="270" height="481"
+		     data-image-key="GiffardAbbott2.jpg" data-image-name="GiffardAbbott2.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Giffard Abbott</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">year unknown, <a href="/wiki/Great_Britain" title="Great Britain">Great Britain</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font">before <a href="/wiki/1993" title="1993">1993</a><sup id="cite_ref-DOD_1-0" class="reference"><a href="#cite_note-DOD-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="title">
+	
+		<h3 class="pi-data-label pi-secondary-font">Title(s)</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Professor" title="Professor">Professor</a></li><li><a href="/wiki/Headmaster" title="Headmaster">Headmaster</a></li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Red</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Brown</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Abbott" title="Abbott">Abbott</a> (possibly) †</li><li><a href="/wiki/Hannah_Abbott%27s_mother" title="Hannah Abbott&#039;s mother">Mrs Abbott</a> (possibly) †</li><li><a href="/wiki/Hannah_Abbott" title="Hannah Abbott">Hannah Abbott</a> (possibly)</li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Headmaster" title="Headmaster">Headmaster</a> of <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School</a><sup id="cite_ref-headmaster_2-0" class="reference"><a href="#cite_note-headmaster-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="house">
+	
+		<h3 class="pi-data-label pi-secondary-font">House</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Hufflepuff" title="Hufflepuff">Hufflepuff</a><sup id="cite_ref-house_3-0" class="reference"><a href="#cite_note-house-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a><ul><li><a href="/wiki/Hufflepuff" title="Hufflepuff">Hufflepuff</a></li></ul></li><li><a href="/wiki/Abbott_family" title="Abbott family">Abbott family</a></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Order of the Phoenix (video game)">"<i>Pass, friend to Hufflepuff!</i>"</span></dd>
+<dd>&#8212;Giffard Abbott<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(video_game)" title="Harry Potter and the Order of the Phoenix (video game)">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Giffard Abbott</b> was a <a href="/wiki/Great_Britain" title="Great Britain">British</a> <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a>, with several <a href="/wiki/Portrait" title="Portrait">portraits</a> of him hanging in <a href="/wiki/Hogwarts_Castle" title="Hogwarts Castle">Hogwarts Castle</a>. He had a male <a href="/wiki/Giffard_Abbott%27s_dog" title="Giffard Abbott&#39;s dog">pet dog</a> and seemed to have access to a source of food because fellow portrait <a href="/wiki/Damara_Dodderidge" title="Damara Dodderidge">Damara Dodderidge</a> frequently asked him if he had any to give her.<sup id="cite_ref-OP_4-0" class="reference"><a href="#cite_note-OP-4">&#91;4&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Lifetime"><span class="tocnumber">1.1</span> <span class="toctext">Lifetime</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#1992-1993_school_year"><span class="tocnumber">1.2</span> <span class="toctext">1992-1993 school year</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#1995-1996_school_year"><span class="tocnumber">1.3</span> <span class="toctext">1995-1996 school year</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#1996-1997_school_year"><span class="tocnumber">1.4</span> <span class="toctext">1996-1997 school year</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Behind_the_scenes"><span class="tocnumber">2</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Etymology"><span class="tocnumber">3</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Appearances"><span class="tocnumber">4</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Notes_and_references"><span class="tocnumber">5</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Giffard_Abbott?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Giffard_Abbott?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Lifetime">Lifetime</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Giffard_Abbott?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Lifetime">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Giffard_Abbott?action=edit&amp;section=2" title="Edit section: Lifetime"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Gifford Abbott was part of the Abbott family, which was one of the <a href="/wiki/Pure-blood" title="Pure-blood">pure-blood</a> families listed in the <a href="/wiki/Sacred_Twenty-Eight" title="Sacred Twenty-Eight">Sacred Twenty-Eight</a> directory in the <a href="/wiki/1930s" title="1930s">1930s</a>.<sup id="cite_ref-pottermore_5-0" class="reference"><a href="#cite_note-pottermore-5">&#91;5&#93;</a></sup> However, Giffard's actual <a href="/wiki/Blood_status" title="Blood status">blood status</a> was unknown and may have been a <a href="/wiki/Half-blood" title="Half-blood">half-blood</a> individual within the pure-blood family, like some <a href="/wiki/Malfoy_family" title="Malfoy family">Malfoys</a>, or a <a href="/wiki/Muggle-born" title="Muggle-born">muggle-born</a> wizard born into the family after the <a href="/wiki/1930s" title="1930s">1930s</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p><p>Giffard would have attended <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> in his youth and was <a href="/wiki/Sorting_Ceremony" class="mw-redirect" title="Sorting Ceremony">sorted</a> into <a href="/wiki/Hufflepuff" title="Hufflepuff">Hufflepuff</a> house.<sup id="cite_ref-house_3-1" class="reference"><a href="#cite_note-house-3">&#91;3&#93;</a></sup> Later in his adult life, he was appointed <a href="/wiki/Headmaster" title="Headmaster">Headmaster</a> of Hogwarts at an unknown point.<sup id="cite_ref-headmaster_2-1" class="reference"><a href="#cite_note-headmaster-2">&#91;2&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="1992-1993_school_year">1992-1993 school year</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Giffard_Abbott?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: 1992-1993 school year">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Giffard_Abbott?action=edit&amp;section=3" title="Edit section: 1992-1993 school year"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In early <a href="/wiki/1993" title="1993">1993</a>, Giffard had a <a href="/wiki/Portrait" title="Portrait">portrait</a> of himself at the <a href="/wiki/Grand_Staircase" title="Grand Staircase">Grand Staircase</a>, hung immediately below the first-floor landing. As it was placed in an inaccessible place, it is unlikely he guarded any shortcut to another part of the school.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="1995-1996_school_year"><a href="/wiki/1995-1996_school_year" class="mw-redirect" title="1995-1996 school year">1995-1996 school year</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Giffard_Abbott?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: 1995-1996 school year">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Giffard_Abbott?action=edit&amp;section=4" title="Edit section: 1995-1996 school year"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>One of his portraits was hanging at the <a href="/wiki/Grand_Staircase" title="Grand Staircase">Grand Staircase</a>, guarding the shortcut to the <a href="/wiki/Middle_Courtyard" title="Middle Courtyard">Transfiguration Courtyard</a>, under the password "<i><a href="/wiki/Dragon_egg" title="Dragon egg">Dragon's Egg</a></i>". When Abbott informed <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> that he would need to ask a Hufflepuff student for the password in order to use his shortcut, Harry Potter had no difficulty doing this, as most Hufflepuffs had immense respect for him due to his loyalty to the late <a href="/wiki/Cedric_Diggory" title="Cedric Diggory">Cedric Diggory</a> during the <a href="/wiki/Triwizard_Tournament" title="Triwizard Tournament">Triwizard Tournament</a>.<sup id="cite_ref-OP_4-1" class="reference"><a href="#cite_note-OP-4">&#91;4&#93;</a></sup> There was another set of portraits of him, hiding another hidden passageway between the <a href="/wiki/Clock_Tower" title="Clock Tower">Clock Tower</a> and the corridor outside the <a href="/wiki/Hogwarts_Library" title="Hogwarts Library">Library</a>; the password needed to gain access to this shortcut was "<i>Tempus neminem manet</i>".<sup id="cite_ref-OP_GBA_8-0" class="reference"><a href="#cite_note-OP_GBA-8">&#91;8&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="1996-1997_school_year"><a href="/wiki/1996-1997_school_year" class="mw-redirect" title="1996-1997 school year">1996-1997 school year</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Giffard_Abbott?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: 1996-1997 school year">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Giffard_Abbott?action=edit&amp;section=5" title="Edit section: 1996-1997 school year"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Giffard's portrait was moved to another landing of the <a href="/wiki/Grand_Staircase" title="Grand Staircase">Grand Staircase</a>, during the next school year. However, he still guarded a secret passage to the same place in the <a href="/wiki/Middle_Courtyard" title="Middle Courtyard">Transfiguration Courtyard</a>. Its password became "<i>Light Against Darkness</i>". He had a penchant for sighing wistfully, "Oh, to be young again!", when approached.<sup id="cite_ref-HBP_9-0" class="reference"><a href="#cite_note-HBP-9">&#91;9&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Giffard_Abbott?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Giffard_Abbott?action=edit&amp;section=6" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Giffard died prior to early <a href="/wiki/1993" title="1993">1993</a>, as the portraits hung at <a href="/wiki/Hogwarts_Castle" title="Hogwarts Castle">Hogwarts</a> depict deceased individuals. His clothes indicate that he most likely lived during the <a href="/wiki/Middle_Ages" title="Middle Ages">Middle Ages</a>.</li>
+<li>It is possible that Abbott's portrait is a reference to <a target="_blank" rel="noreferrer noopener" class="external text" href="http://tudorhistory.org/people/charles5/charlesv.jpg">a portrait</a> of <a href="http://en.wikipedia.org/wiki/Charles_V,_Holy_Roman_Emperor" class="extiw" title="wikipedia:Charles V, Holy Roman Emperor">Emperor Charles V</a> of the Holy Roman Empire by Titian.</li></ul>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Giffard_Abbott?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Giffard_Abbott?action=edit&amp;section=7" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>"Giffard" is from an English surname, which was derived from the Germanic given name "Gebhard".<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup></li>
+<li>"Abbott" is a Middle English surname.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Giffard_Abbott?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Giffard_Abbott?action=edit&amp;section=8" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(film)" title="Harry Potter and the Chamber of Secrets (film)">Harry Potter and the Chamber of Secrets (film)</a></i> <small>(Appears in portrait(s))</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(film)" title="Harry Potter and the Prisoner of Azkaban (film)">Harry Potter and the Prisoner of Azkaban (film)</a></i> <small>(Appears in portrait(s))</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(video_game)" title="Harry Potter and the Order of the Phoenix (video game)">Harry Potter and the Order of the Phoenix (video game)</a></i> <small>(Appears in portrait(s))</small> <small>(First identified as Giffard Abbott)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince_(video_game)" title="Harry Potter and the Half-Blood Prince (video game)">Harry Potter and the Half-Blood Prince (video game)</a></i> <small>(Appears in portrait(s))</small></li>
+<li><i><a href="/wiki/Harry_Potter_for_Kinect" title="Harry Potter for Kinect">Harry Potter for Kinect</a></i> <small>(Appears in portrait(s))</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Giffard_Abbott?veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Giffard_Abbott?action=edit&amp;section=9" title="Edit section: Notes and references

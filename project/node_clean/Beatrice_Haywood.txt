@@ -1,0 +1,189 @@
+<div class="mw-parser-output"><table class="notice metadata" id="spoiler" style="text-align: center; background: beige; margin: 1em 05%; padding: 0 1em; border: #a00 1px solid;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/8/8c/Hogwarts_Mystery.jpeg/revision/latest?cb=20180504083359" class="image"><img alt="Hogwarts Mystery.jpeg" src="https://static.wikia.nocookie.net/harrypotter/images/8/8c/Hogwarts_Mystery.jpeg/revision/latest/scale-to-width-down/175?cb=20180504083359" decoding="async" width="175" height="77" data-image-name="Hogwarts Mystery.jpeg" data-image-key="Hogwarts_Mystery.jpeg" /></a>
+</td>
+<td><b>Warning!</b>
+<p>At least some content in this article is derived from information featured in <i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i>. Spoilers will be present within the article.
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-hufflepuff pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/5/58/Beatrice_Haywood_year_2.jpg/revision/latest?cb=20200131160604" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/5/58/Beatrice_Haywood_year_2.jpg/revision/latest/scale-to-width-down/350?cb=20200131160604" srcset="https://static.wikia.nocookie.net/harrypotter/images/5/58/Beatrice_Haywood_year_2.jpg/revision/latest/scale-to-width-down/350?cb=20200131160604 1x, https://static.wikia.nocookie.net/harrypotter/images/5/58/Beatrice_Haywood_year_2.jpg/revision/latest/scale-to-width-down/700?cb=20200131160604 2x" class="pi-image-thumbnail" alt="" width="270" height="254"
+		     data-image-key="Beatrice_Haywood_year_2.jpg" data-image-name="Beatrice Haywood year 2.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Beatrice Haywood</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">Between <a href="/wiki/1_September" title="1 September">1 September</a> <a href="/wiki/1976" title="1976">1976</a> and <a href="/wiki/31_August" title="31 August">31 August</a> <a href="/wiki/1977" title="1977">1977</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Half-blood" title="Half-blood">Half-blood</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/England" title="England">English</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="alias">
+	
+		<h3 class="pi-data-label pi-secondary-font">Also known as</h3>
+	
+	<div class="pi-data-value pi-font">Bea</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Blonde</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Blue</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Light</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Penny_Haywood%27s_mother" title="Penny Haywood&#039;s mother">Mrs Haywood</a> (mother)</li><li><a href="/wiki/Penny_Haywood%27s_father" title="Penny Haywood&#039;s father">Mr Haywood</a> (father)</li><li><a href="/wiki/Penny_Haywood" title="Penny Haywood">Penny Haywood</a> (sister)</li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="house">
+	
+		<h3 class="pi-data-label pi-secondary-font">House</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Hufflepuff" title="Hufflepuff">Hufflepuff</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Haywood_family" title="Haywood family">Haywood family</a></li><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a><ul><li><a href="/wiki/Hufflepuff" title="Hufflepuff">Hufflepuff</a></li></ul></li><li><a href="/wiki/Circle_of_Khanna" title="Circle of Khanna">Circle of Khanna</a></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Beatrice Haywood</b> was an <a href="/wiki/England" title="England">English</a> <a href="/wiki/Half-blood" title="Half-blood">half-blood</a> <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> and the younger sister of <a href="/wiki/Penny_Haywood" title="Penny Haywood">Penny Haywood</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Hogwarts_years_.281988-1995.29"><span class="tocnumber">1.1</span> <span class="toctext">Hogwarts years (1988-1995)</span></a>
+<ul>
+<li class="toclevel-3 tocsection-3"><a href="#First_year"><span class="tocnumber">1.1.1</span> <span class="toctext">First year</span></a></li>
+<li class="toclevel-3 tocsection-4"><a href="#Second_year"><span class="tocnumber">1.1.2</span> <span class="toctext">Second year</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Physical_appearance"><span class="tocnumber">2</span> <span class="toctext">Physical appearance</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Personality_and_traits"><span class="tocnumber">3</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Appearances"><span class="tocnumber">4</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Notes_and_references"><span class="tocnumber">5</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Beatrice_Haywood?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Beatrice_Haywood?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Beatrice was born in <a href="/wiki/London" title="London">London</a>, <a href="/wiki/Great_Britain" title="Great Britain">United Kingdom</a> in <a href="/wiki/1972" title="1972">1976</a> or <a href="/wiki/1973" title="1973">1977</a>, to a <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> <a href="/wiki/Penny_Haywood%27s_father" title="Penny Haywood&#39;s father">father</a> and a <a href="/wiki/Muggle-born" title="Muggle-born">Muggle-born</a> <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> <a href="/wiki/Penny_Haywood%27s_mother" title="Penny Haywood&#39;s mother">mother</a>. She had an older sister named <a href="/wiki/Penny_Haywood" title="Penny Haywood">Penny</a>, born four years before her.
+</p><p>Beatrice had a tendency to wander off, and had gone missing at least once before her Hogwarts years.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p>
+<h3><span id="Hogwarts_years_(1988-1995)"></span><span class="mw-headline" id="Hogwarts_years_.281988-1995.29">Hogwarts years (1988-1995)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Beatrice_Haywood?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Hogwarts years (1988-1995)">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Beatrice_Haywood?action=edit&amp;section=2" title="Edit section: Hogwarts years (1988-1995)"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="First_year">First year</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Beatrice_Haywood?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: First year">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Beatrice_Haywood?action=edit&amp;section=3" title="Edit section: First year"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Beatrice started attending <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> on <a href="/wiki/1_September" title="1 September">1 September</a> <a href="/wiki/1988" title="1988">1988</a> and was <a href="/wiki/Sorting_ceremony" title="Sorting ceremony">sorted</a> into <a href="/wiki/Hufflepuff" title="Hufflepuff">Hufflepuff</a> house. Shortly after the Sorting Ceremony, she met <a href="/wiki/Jacob%27s_sibling" title="Jacob&#39;s sibling">Jacob's sibling</a>, a good friend of Penny's. Beatrice was a big fan of the individual and wanted to go on a curse-breaking adventure with them. Beatrice gave them a toy <a href="/wiki/Puffskein" title="Puffskein">Puffskein</a> she had made during the summer.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p><p>Later during the school year, Beatrice went missing. She ended up inside a painting in the <a href="/wiki/Grand_Staircase" title="Grand Staircase">Grand Staircase</a>. She was found by <a href="/wiki/Merula_Snyde" title="Merula Snyde">Merula Snyde</a>, who informed Jacob's sibling, Penny, <a href="/wiki/William_Weasley" title="William Weasley">Bill Weasley</a> and <a href="/wiki/Patricia_Rakepick" title="Patricia Rakepick">Patricia Rakepick</a> about the discovery. None of them managed to free her and Rakepick came to the conclusion that Beatrice getting stuck into a painting was due to a <a href="/wiki/Cursed_Vaults" title="Cursed Vaults">Cursed Vault</a>. Beatrice has specifically become trapped in the <a href="/wiki/Portrait" title="Portrait">portrait</a> due to a <a href="/wiki/Portrait_curse" title="Portrait curse">Portrait curse</a> being unleashed.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p><p>Near the end of the year, she was freed from the portrait and went to the <a href="/wiki/Clock_Tower_Courtyard" title="Clock Tower Courtyard">Clock Tower Courtyard</a> with her sister. Due to her experience in the portrait and Rakepick's betrayal, she did not feel safe around Hogwarts.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> Beatrice also attended <a href="/wiki/William_Weasley" title="William Weasley">William Weasley</a>'s graduation celebration in the <a href="/wiki/Three_Broomsticks_Inn" title="Three Broomsticks Inn">Three Broomsticks Inn</a> despite not being old enough to go to <a href="/wiki/Hogsmeade" title="Hogsmeade">Hogsmeade</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="Second_year">Second year</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Beatrice_Haywood?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Second year">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Beatrice_Haywood?action=edit&amp;section=4" title="Edit section: Second year"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h4>
+<figure class="thumb tright show-info-icon" style="width: 252px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/7/7c/Tossing_puffskiens.jpg/revision/latest?cb=20200312153641" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/7/7c/Tossing_puffskiens.jpg/revision/latest/scale-to-width-down/250?cb=20200312153641" decoding="async" width="250" height="144" class="thumbimage" data-image-name="Tossing puffskiens.jpg" data-image-key="Tossing_puffskiens.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Tossing_puffskiens.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Beatrice and Ismelda playing with <a href="/wiki/Puffskein" title="Puffskein">Puffskeins</a></p> 		 	</figcaption> </figure>
+<p>Beatrice spent the summer between her first and second years reading "grown-up" books and becoming more distant from Penny. This made Penny feel sad, as she missed being close with her sister.<sup id="cite_ref-Y6ch2_6-0" class="reference"><a href="#cite_note-Y6ch2-6">&#91;6&#93;</a></sup>
+</p><p>She did not attend the <a href="/wiki/Start-of-Term_Feast" title="Start-of-Term Feast">Start-of-Term Feast</a> that year.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> She also started hanging out with <a href="/wiki/Ismelda_Murk" title="Ismelda Murk">Ismelda Murk</a>.<sup id="cite_ref-Y6ch2_6-1" class="reference"><a href="#cite_note-Y6ch2-6">&#91;6&#93;</a></sup> She restyled her hair to resemble Ismelda’s. The two spent time tossing <a href="/wiki/Puffskein" title="Puffskein">Puffskeins</a>.
+</p><p>Throughout much of the year, Beatrice frequently clashed with Penny, who worried about her and wanted to be close to her again, while Beatrice wanted to become a different person and make her own friends, and not be bothered by Penny. The sisters came to a tearfully emotional partial reconciliation in the aftermath of <a href="/wiki/Rowan_Khanna" title="Rowan Khanna">Rowan Khanna</a>'s death.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p><p>When Jacob and Jacob's sibling found Beatrice floating unconscious in the lake, they brought her to the Hospital Wing. When Penny and Jacob's sibling visited her, she said she went to the lake because she had been having nightmares, saw a giant tentacle and dived in to possible find out more about the last cursed vault. When Jacob's sibling and Penny were alone, the former suggested asking Snape to figure out Beatrice's nightmares.
+</p><p>Snape tried using <a href="/wiki/Legilimency" title="Legilimency">Legilimency</a> to make sense of them, but found it difficult to tell nightmares from reality. However, afterwards Beatrice and Jacob's sibling had a heart-to-heart over a game of gobstones, forged the beginning of their friendship and helped Beatrice move on from her trauma, allowing her to make peace with her tormented imprisonment last year.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p><p>Before the third meeting of the Circle of Khanna, Penny caught up with Beatrice and Jacob's sibling and learned how they are managing to move on together.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Physical_appearance">Physical appearance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Beatrice_Haywood?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Physical appearance">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Beatrice_Haywood?action=edit&amp;section=5" title="Edit section: Physical appearance"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>As the younger sister of <a href="/wiki/Penny_Haywood" title="Penny Haywood">Penny Haywood</a>, Beatrice bears a resemblance to her, with fair skin and blue eyes, although Beatrice's hair is short and a slightly darker shade of blonde.
+</p><p>In her second year, she restyled her hair to resemble <a href="/wiki/Ismelda_Murk" title="Ismelda Murk">Ismelda Murk</a>, covering her left eye. Her hair colour also changed to a more platinum blonde, becoming paler than Penny's rather than darker.
+</p>
+<h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Beatrice_Haywood?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Personality and traits">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Beatrice_Haywood?action=edit&amp;section=6" title="Edit section: Personality and traits"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="quote">
+<dl><dd><span>"<i>I sewed you a toy Puffskein. They're cute, but tough. Just like me.</i>"</span></dd>
+<dd>&#8212;Beatrice Haywood</dd>
+<dd></dd></dl></div>
+<p>Beatrice, at first glance, was similar to her older sister: kind, friendly, affectionate, and excitable. The sisters deeply <a href="/wiki/Love" title="Love">loved</a> one another and spent a lot of time together. However, Beatrice seemed a shade more adventurous and eager. Although she did hope to be in Hufflepuff with her sister, she claimed she would also be happy in Slytherin, likely hinting at a more ambitious streak.
+</p>
+<div class="quote">
+<dl><dd><span>"<i>I'm sure she's told you how disappointed she is that I'm not walking around like a Mini Penny anymore.</i>"</span></dd>
+<dd>&#8212;Beatrice Haywood</dd>
+<dd></dd></dl></div>
+<p>In her second year, after being trapped in a painting for most of her first year, her personality developed a bit of a sullen edge and she grew apart from her sister. It seemed that Penny's prediction in the previous year became true; Beatrice became tired of her big sister watching over her. Beatrice became close friends with notoriously vicious <a href="/wiki/Ismelda_Murk" title="Ismelda Murk">Ismelda Murk</a>, admired the serial rulebreaker and shady dealer <a href="/wiki/Jae_Kim" title="Jae Kim">Jae Kim</a>, was excited to be sent to detention and fought Penny many times over the year.
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Beatrice_Haywood?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Beatrice_Haywood?action=edit&amp;section=7" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 5 images related to <i><b><a href="/wiki/Category:Images_of_Beatrice_Haywood" title="Category:Images of Beatrice Haywood">Beatrice Haywood</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<ul><li><i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Beatrice_Haywood?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Beatrice_Haywood?action=edit&amp;section=8" title="Edit section: Notes and references

@@ -1,0 +1,172 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/7/7c/Kendra_Dumbledore.png/revision/latest?cb=20110406191633" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/7/7c/Kendra_Dumbledore.png/revision/latest/scale-to-width-down/240?cb=20110406191633" srcset="https://static.wikia.nocookie.net/harrypotter/images/7/7c/Kendra_Dumbledore.png/revision/latest/scale-to-width-down/240?cb=20110406191633 1x, https://static.wikia.nocookie.net/harrypotter/images/7/7c/Kendra_Dumbledore.png/revision/latest/scale-to-width-down/480?cb=20110406191633 2x" class="pi-image-thumbnail" alt="" width="240" height="351"
+		     data-image-key="Kendra_Dumbledore.png" data-image-name="Kendra Dumbledore.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Kendra Dumbledore</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">between Summer <a href="/wiki/1850" class="mw-redirect" title="1850">1850</a> and Summer <a href="/wiki/1851" class="mw-redirect" title="1851">1851</a><sup id="cite_ref-birth_1-0" class="reference"><a href="#cite_note-birth-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font">Summer <a href="/wiki/1899" class="mw-redirect" title="1899">1899</a><sup id="cite_ref-death_2-0" class="reference"><a href="#cite_note-death-2">&#91;2&#93;</a></sup> (aged 48), <a href="/wiki/West_Country" title="West Country">West Country</a>, <a href="/wiki/England" title="England">England</a>, <a href="/wiki/Great_Britain" title="Great Britain">Great Britain</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Muggle-born" title="Muggle-born">Muggle-born</a><sup id="cite_ref-blood_3-0" class="reference"><a href="#cite_note-blood-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="marital">
+	
+		<h3 class="pi-data-label pi-secondary-font">Marital status</h3>
+	
+	<div class="pi-data-value pi-font">Widowed</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Jet-black<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Dark<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Percival_Dumbledore" title="Percival Dumbledore">Percival Dumbledore</a> (husband) †</li><li><a href="/wiki/Albus_Dumbledore" title="Albus Dumbledore">Albus Dumbledore</a> (son) †</li><li><a href="/wiki/Aberforth_Dumbledore" title="Aberforth Dumbledore">Aberforth Dumbledore</a> (son)</li><li><a href="/wiki/Ariana_Dumbledore" title="Ariana Dumbledore">Ariana Dumbledore</a> (daughter) †</li><li><a href="/wiki/Honoria" title="Honoria">Honoria</a> (sister or sister-in-law)</li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Dumbledore_family" title="Dumbledore family">Dumbledore family</a></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Deathly Hallows">"<i>Kendra was a fine woman.</i>"</span></dd>
+<dd>&#8212;<a href="/wiki/Elphias_Doge" title="Elphias Doge">Elphias Doge</a> regarding Kendra's character<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Kendra Dumbledore</b> (c. <a href="/wiki/1851" class="mw-redirect" title="1851">1851</a><sup id="cite_ref-birth_1-1" class="reference"><a href="#cite_note-birth-1">&#91;1&#93;</a></sup> – Summer <a href="/wiki/1899" class="mw-redirect" title="1899">1899</a><sup id="cite_ref-death_2-1" class="reference"><a href="#cite_note-death-2">&#91;2&#93;</a></sup>) was a <a href="/wiki/Muggle-born" title="Muggle-born">Muggle-born</a><sup id="cite_ref-blood_3-1" class="reference"><a href="#cite_note-blood-3">&#91;3&#93;</a></sup> <a href="/wiki/Wizardkind" title="Wizardkind">witch</a>, the wife of <a href="/wiki/Percival_Dumbledore" title="Percival Dumbledore">Percival Dumbledore</a>. She was also the mother of <a href="/wiki/Albus_Dumbledore" title="Albus Dumbledore">Albus</a>, <a href="/wiki/Aberforth_Dumbledore" title="Aberforth Dumbledore">Aberforth</a>, and <a href="/wiki/Ariana_Dumbledore" title="Ariana Dumbledore">Ariana Dumbledore</a>. When her daughter Ariana was fourteen years old she lost control of her magic, causing an explosion that killed Kendra.<sup id="cite_ref-death_2-2" class="reference"><a href="#cite_note-death-2">&#91;2&#93;</a></sup> After her death Albus (her oldest son) was left to care for his younger siblings.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Physical_appearance"><span class="tocnumber">2</span> <span class="toctext">Physical appearance</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Personality_and_traits"><span class="tocnumber">3</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Relationships"><span class="tocnumber">4</span> <span class="toctext">Relationships</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Family"><span class="tocnumber">4.1</span> <span class="toctext">Family</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Etymology"><span class="tocnumber">5</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Behind_the_scenes"><span class="tocnumber">6</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Appearances"><span class="tocnumber">7</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Notes_and_references"><span class="tocnumber">8</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Kendra_Dumbledore?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Kendra_Dumbledore?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Deathly Hallows"><b>Muriel</b>: "<i>...a terrifying woman, simply terrifying. Muggle-born, though I heard she pretended otherwise —</i>"</span></dd>
+<dd><b>Elphias Doge</b>: "<i>She never pretended anything of the sort! Kendra was a fine woman.</i>"</dd>
+<dd>&#8212; <a href="/wiki/Muriel" title="Muriel">Muriel</a> gossiping about the Dumbledores<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">[src]</a></sup></dd></dl>
+</div>
+<p>After her daughter was attacked by <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> boys who saw her perform magic, Kendra moved the family to <a href="/wiki/Godric%27s_Hollow" title="Godric&#39;s Hollow">Godric's Hollow</a>, while her husband was imprisoned in <a href="/wiki/Azkaban" title="Azkaban">Azkaban</a> for taking revenge upon the Muggles who hurt <a href="/wiki/Ariana_Dumbledore" title="Ariana Dumbledore">Ariana Dumbledore</a>. <a href="/wiki/Percival_Dumbledore" title="Percival Dumbledore">Percival Dumbledore</a> did not reveal his reasons to the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">Ministry of Magic</a>, and both he and Kendra kept the attack a secret, out of fear that Ariana would be considered a threat to the <a href="/wiki/International_Statute_of_Wizarding_Secrecy" title="International Statute of Wizarding Secrecy">International Statute of Wizarding Secrecy</a> and confined to <a href="/wiki/St_Mungo%27s_Hospital_for_Magical_Maladies_and_Injuries" title="St Mungo&#39;s Hospital for Magical Maladies and Injuries">St Mungo's</a>, as the attack left the young witch mentally disturbed and unable to control her magic.
+</p><p>While her husband was imprisoned and her sons attended <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a>, Kendra took care of Ariana. Rumours, spread by people such as Muriel and her cousin <a href="/wiki/Lancelot_(Healer)" title="Lancelot (Healer)">Lancelot</a>, suggested that Kendra was keeping her "<a href="/wiki/Squib" title="Squib">Squib</a>" daughter locked up in a cellar. When Ariana was fourteen years old, she lost control of her magic, and the explosion killed Kendra.<sup id="cite_ref-death_2-3" class="reference"><a href="#cite_note-death-2">&#91;2&#93;</a></sup>
+</p><p>After Kendra's death, the cause of which "<i>nobody ever seemed sure</i>" (according to Muriel), Ariana was taken care of by her older brother <a href="/wiki/Albus_Dumbledore" title="Albus Dumbledore">Albus</a>. She was eventually killed in a three-way <a href="/wiki/Duelling" title="Duelling">duel</a> between Albus, <a href="/wiki/Aberforth_Dumbledore" title="Aberforth Dumbledore">Aberforth</a>, and <a href="/wiki/Gellert_Grindelwald" title="Gellert Grindelwald">Gellert Grindelwald</a>.
+</p>
+<h2><span class="mw-headline" id="Physical_appearance">Physical appearance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Kendra_Dumbledore?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Physical appearance">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Kendra_Dumbledore?action=edit&amp;section=2" title="Edit section: Physical appearance"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Kendra had jet black hair which she tended to wear in a high bun, dark eyes, high cheekbones, and a straight nose. <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a>, upon seeing a photograph of her, thought she looked <a href="/wiki/Native_Americans" title="Native Americans">Native American</a>, possibly indicating her heritage. He also thought her face had a "carved quality", and noted her expression as being "formally composed".
+</p>
+<h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Kendra_Dumbledore?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Personality and traits">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Kendra_Dumbledore?action=edit&amp;section=3" title="Edit section: Personality and traits"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Deathly Hallows">"<i>I knew my brother, Potter. He learned secrecy at our mother's knee. Secrets and lies, that's how we grew up...</i>"</span></dd>
+<dd>&#8212;The manner in which Kendra raised her children<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p>Little is known about Kendra Dumbledore, but much was said about her in gossip. <a href="/wiki/Muriel" title="Muriel">Muriel</a> deemed her a proud, terrifying woman who cared a great deal for her reputation and pretended not to be <a href="/wiki/Muggle-born" title="Muggle-born">Muggle-born</a>, apparently aspiring to higher social status. However, Muriel gossiped maliciously about many people, thus her opinion is not necessarily near to the truth. Statements made by her son <a href="/wiki/Aberforth_Dumbledore" title="Aberforth Dumbledore">Aberforth</a> suggest that Kendra made keeping the secret of her daughter's condition her priority, and was strict with her children about following her example. She seems to have kept herself isolated from other people. Given her manner of death and Aberforth's claim that he was able to get Ariana to eat and to calm down when Kendra could not, she may have had a difficult relationship with her daughter, as well as her sons.
+</p>
+<h2><span class="mw-headline" id="Relationships">Relationships</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Kendra_Dumbledore?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Relationships">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Kendra_Dumbledore?action=edit&amp;section=4" title="Edit section: Relationships"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Family">Family</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Kendra_Dumbledore?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Family">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Kendra_Dumbledore?action=edit&amp;section=5" title="Edit section: Family"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Deathly Hallows">"<i>...my father went after the bastards that did it, and attacked them. And they locked him up in Azkaban for it. He never said why he'd done it, because if the Ministry had known what Ariana had become, she'd have been locked up in St Mungo's for good... We had to keep her safe and quiet. We moved house, put it about she was ill, and my mother looked after her, and tried to keep her calm and happy.</i>"</span></dd>
+<dd>&#8212;The Dumbledore family's latter life<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">[src]</a></sup></dd>
+<dd></dd></dl></div><figure class="thumb tleft show-info-icon" style="width: 162px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/0/0e/Ariana_Dumbledore_Hog%27s_Head.jpg/revision/latest?cb=20120108013927" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/0/0e/Ariana_Dumbledore_Hog%27s_Head.jpg/revision/latest/scale-to-width-down/160?cb=20120108013927" decoding="async" width="160" height="211" class="thumbimage" data-image-name="Ariana Dumbledore Hog&#39;s Head.jpg" data-image-key="Ariana_Dumbledore_Hog&#39;s_Head.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Ariana_Dumbledore_Hog%27s_Head.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Ariana, her only daughter</p> 		 	</figcaption> </figure>
+<p>Kendra was devastated by her daughter's attack. <a href="/wiki/Percival_Dumbledore" title="Percival Dumbledore">Percival Dumbledore</a>, her husband, retaliated against the <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> boys who assaulted Ariana, and was sent to <a href="/wiki/Azkaban" title="Azkaban">Azkaban</a>. He never told the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">Ministry of Magic</a> his reasons, knowing that if her condition were discovered, Ariana would be permanently confined to <a href="/wiki/St_Mungo%27s_Hospital_for_Magical_Maladies_and_Injuries" title="St Mungo&#39;s Hospital for Magical Maladies and Injuries">St Mungo's</a> as a threat to the <a href="/wiki/International_Statute_of_Wizarding_Secrecy" title="International Statute of Wizarding Secrecy">Statute of Secrecy</a>. To maintain this secrecy, Kendra moved her family to <a href="/wiki/Godric%27s_Hollow" title="Godric&#39;s Hollow">Godric's Hollow</a> and looked after Ariana. However, they may not have been very close, as Ariana's brother <a href="/wiki/Aberforth_Dumbledore" title="Aberforth Dumbledore">Aberforth</a> was the only one able to keep her calm. Eventually, Ariana accidentally killed her mother in an explosion of uncontrollable <a href="/wiki/Magic" title="Magic">magic</a>.<sup id="cite_ref-DH28_6-0" class="reference"><a href="#cite_note-DH28-6">&#91;6&#93;</a></sup>
+</p><p>Kendra's relationship with her two sons, <a href="/wiki/Albus_Dumbledore" title="Albus Dumbledore">Albus</a> and <a href="/wiki/Aberforth_Dumbledore" title="Aberforth Dumbledore">Aberforth Dumbledore</a>, is largely unknown. She read <i><a href="/wiki/The_Warlock%27s_Hairy_Heart" title="The Warlock&#39;s Hairy Heart">The Warlock's Hairy Heart</a></i> from <i><a href="/wiki/The_Tales_of_Beedle_the_Bard" title="The Tales of Beedle the Bard">The Tales of Beedle the Bard </a></i> to Albus at least, implying she at least tried to have a good relationship with them. However, while he was devastated by his mother's death, Aberforth resented her secretive nature and bitterly stated that they learnt lies and secrets from her. When Albus looked into the <a href="/wiki/Mirror_of_Erised" title="Mirror of Erised">Mirror of Erised</a>, he saw his family alive and whole, showing that even if Kendra's relationship with Albus was not so good, altough it can be assumed to be better than the one she had with Aberforth and despite being bitter at her mother for dying and leaving him as head of the family, Albus still loved her truly.
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Kendra_Dumbledore?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Kendra_Dumbledore?action=edit&amp;section=6" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="http://en.wikipedia.org/wiki/Kendra" class="extiw" title="wikipedia:Kendra">Kendra</a> is a name of disputed origin. It may come from Anglo-Saxon meaning "understanding, knowledge". It may be a variation of the English name <i>Kenda</i>, meaning "<a href="/wiki/Water" title="Water">water</a> baby", or <i>Dakota</i>, meaning "magical power". Alternatively, it may come from the name <i>Kendrick</i>, which is either derived from Welsh for "greatest champion" or Anglo-Saxon for "family ruler".</li></ul>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Kendra_Dumbledore?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Kendra_Dumbledore?action=edit&amp;section=7" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_Film_Wizardry" title="Harry Potter Film Wizardry">Harry Potter Film Wizardry</a></i> and <i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1_(video_game)" title="Harry Potter and the Deathly Hallows: Part 1 (video game)">Harry Potter and the Deathly Hallows: Part 1 (video game)</a></i> incorrectly states Kendra's death date as <a href="/wiki/18_November" title="18 November">18 November</a>.</li>
+<li>In a <i><a href="/wiki/The_Life_and_Lies_of_Albus_Dumbledore" title="The Life and Lies of Albus Dumbledore">The Life and Lies of Albus Dumbledore</a></i> prop for <a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1" title="Harry Potter and the Deathly Hallows: Part 1">the first part of the film adaptation</a> of <i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">Harry Potter and the Deathly Hallows</a></i>, Kendra's name is poorly transcribed as "Canard".<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup></li>
+<li>The epitaph on Kendra and <a href="/wiki/Ariana_Dumbledore" title="Ariana Dumbledore">Ariana Dumbledore</a>'s gravestone, which was made of <a href="/wiki/Granite" title="Granite">granite</a>, as recorded in <i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">Harry Potter and the Deathly Hallows</a></i> is Matthew 6:21 from the Christian Bible: "Where your treasure is, there will your heart be also." This epitaph, chosen by Dumbledore, is curiously similar to the function of one of <a href="/wiki/Albus_Dumbledore" title="Albus Dumbledore">Dumbledore</a>'s inventions, the <a href="/wiki/Deluminator" title="Deluminator">Deluminator</a>.</li>
+<li>If Kendra was in fact Native American, she may have studied magic at <a href="/wiki/Ilvermorny_School_of_Witchcraft_and_Wizardry" title="Ilvermorny School of Witchcraft and Wizardry">Ilvermorny</a>.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Kendra_Dumbledore?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Kendra_Dumbledore?action=edit&amp;section=8" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 2 images related to <i><b><a href="/wiki/Category:Images_of_Kendra_Dumbledore" title="Category:Images of Kendra Dumbledore">Kendra Dumbledore</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">Harry Potter and the Deathly Hallows</a></i> <small>(First mentioned)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1" title="Harry Potter and the Deathly Hallows: Part 1">Harry Potter and the Deathly Hallows: Part 1</a></i> <span class="template-c">(Appears in photograph)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1_(video_game)" title="Harry Potter and the Deathly Hallows: Part 1 (video game)">Harry Potter and the Deathly Hallows: Part 1 (video game)</a></i> <span class="template-c">(Mentioned)</span> <span class="template-c">(Name appears on gravestone)</span></li>
+<li><i><a href="/wiki/The_Tales_of_Beedle_the_Bard_(real)" title="The Tales of Beedle the Bard (real)">The Tales of Beedle the Bard</a></i> <small>(Mentioned only)</small> <span class="template-c">(Unnamed)</span></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Kendra_Dumbledore?veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Kendra_Dumbledore?action=edit&amp;section=9" title="Edit section: Notes and references

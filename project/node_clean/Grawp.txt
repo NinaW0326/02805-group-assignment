@@ -1,0 +1,256 @@
+<div class="mw-parser-output"><table class="notice metadata" id="spoiler" style="text-align: center; background: beige; margin: 1em 05%; padding: 0 1em; border: #a00 1px solid;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/e/ea/Wizards_Unite_logo.jpg/revision/latest?cb=20181114170049" class="image"><img alt="Wizards Unite logo.jpg" src="https://static.wikia.nocookie.net/harrypotter/images/e/ea/Wizards_Unite_logo.jpg/revision/latest/scale-to-width-down/175?cb=20181114170049" decoding="async" width="175" height="98" data-image-name="Wizards Unite logo.jpg" data-image-key="Wizards_Unite_logo.jpg" /></a>
+</td>
+<td><b>Warning!</b>
+<p>At least some content in this article is derived from information featured in <i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i>. As such, spoilers will be present within the article.
+</p><p>For gameplay-specific information, please see the relevant article on <a href="https://harrypotterwizardsunite.fandom.com/wiki/Grawp" class="extiw" title="w:c:harrypotterwizardsunite:Grawp">the Harry Potter: Wizards Unite Wiki!</a>
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-giant pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/e/e6/Grawp.png/revision/latest?cb=20170210040408" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/e/e6/Grawp.png/revision/latest/scale-to-width-down/276?cb=20170210040408" srcset="https://static.wikia.nocookie.net/harrypotter/images/e/e6/Grawp.png/revision/latest/scale-to-width-down/276?cb=20170210040408 1x, https://static.wikia.nocookie.net/harrypotter/images/e/e6/Grawp.png/revision/latest/scale-to-width-down/552?cb=20170210040408 2x" class="pi-image-thumbnail" alt="" width="270" height="489"
+		     data-image-key="Grawp.png" data-image-name="Grawp.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Grawp</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">Post <a href="/wiki/1931" title="1931">1931</a><sup id="cite_ref-birthday_1-0" class="reference"><a href="#cite_note-birthday-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Giant" title="Giant">Giant</a><sup id="cite_ref-OP30_2-0" class="reference"><a href="#cite_note-OP30-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="marital">
+	
+		<h3 class="pi-data-label pi-secondary-font">Marital status</h3>
+	
+	<div class="pi-data-value pi-font">Single<sup id="cite_ref-OP30_2-1" class="reference"><a href="#cite_note-OP30-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="alias">
+	
+		<h3 class="pi-data-label pi-secondary-font">Also known as</h3>
+	
+	<div class="pi-data-value pi-font">Grawpy (by Hagrid)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Giant" title="Giant">Giant</a><sup id="cite_ref-OP30_2-2" class="reference"><a href="#cite_note-OP30-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male<sup id="cite_ref-OP30_2-3" class="reference"><a href="#cite_note-OP30-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="height">
+	
+		<h3 class="pi-data-label pi-secondary-font">Height</h3>
+	
+	<div class="pi-data-value pi-font">Sixteen feet<sup id="cite_ref-height_5-0" class="reference"><a href="#cite_note-height-5">&#91;5&#93;</a></sup><sup id="cite_ref-height2_6-0" class="reference"><a href="#cite_note-height2-6">&#91;6&#93;</a></sup><sup id="cite_ref-height3_7-0" class="reference"><a href="#cite_note-height3-7">&#91;7&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Brown<sup id="cite_ref-hair_8-0" class="reference"><a href="#cite_note-hair-8">&#91;8&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Brown-green<sup id="cite_ref-eyes_9-0" class="reference"><a href="#cite_note-eyes-9">&#91;9&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Grey<sup id="cite_ref-skin_10-0" class="reference"><a href="#cite_note-skin-10">&#91;10&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Grawp%27s_father" title="Grawp&#039;s father">Father</a><sup id="cite_ref-OP30_2-4" class="reference"><a href="#cite_note-OP30-2">&#91;2&#93;</a></sup></li><li><a href="/wiki/Fridwulfa" title="Fridwulfa">Fridwulfa</a> (mother) †<sup id="cite_ref-OP30_2-5" class="reference"><a href="#cite_note-OP30-2">&#91;2&#93;</a></sup></li><li><a href="/wiki/Rubeus_Hagrid" title="Rubeus Hagrid">Rubeus Hagrid</a> (half-brother)<sup id="cite_ref-OP30_2-6" class="reference"><a href="#cite_note-OP30-2">&#91;2&#93;</a></sup></li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Hagrid_family" title="Hagrid family">Hagrid family</a><sup id="cite_ref-OP30_2-7" class="reference"><a href="#cite_note-OP30-2">&#91;2&#93;</a></sup></li><li><a href="/wiki/Order_of_the_Phoenix" title="Order of the Phoenix">Order of the Phoenix</a> (during the <a href="/wiki/Battle_of_Hogwarts" title="Battle of Hogwarts">Battle of Hogwarts</a>)<sup id="cite_ref-DH31_11-0" class="reference"><a href="#cite_note-DH31-11">&#91;11&#93;</a></sup><sup id="cite_ref-DH32_12-0" class="reference"><a href="#cite_note-DH32-12">&#91;12&#93;</a></sup><sup id="cite_ref-DH36_13-0" class="reference"><a href="#cite_note-DH36-13">&#91;13&#93;</a></sup></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Order of the Phoenix">"<i>HERMY! WHERE HAGGER?</i>"</span></dd>
+<dd>&#8212;Grawp to <a href="/wiki/Hermione_Granger" title="Hermione Granger">Hermione</a> in the Forbidden Forest<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Grawp</b> (b. post <a href="/wiki/1931" title="1931">1931</a>) was a <a href="/wiki/Giant" title="Giant">giant</a> that was known, despite standing a full sixteen feet tall, for his small stature and short height.<sup id="cite_ref-OP30_2-8" class="reference"><a href="#cite_note-OP30-2">&#91;2&#93;</a></sup> He was the son of <a href="/wiki/Fridwulfa" title="Fridwulfa">Fridwulfa</a> and an <a href="/wiki/Grawp%27s_father" title="Grawp&#39;s father">unnamed giant</a> and, therefore, the maternal half-brother of <a href="/wiki/Rubeus_Hagrid" title="Rubeus Hagrid">Rubeus Hagrid</a>.<sup id="cite_ref-OP30_2-9" class="reference"><a href="#cite_note-OP30-2">&#91;2&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_life"><span class="tocnumber">1.1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#1995"><span class="tocnumber">1.2</span> <span class="toctext">1995</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#1996"><span class="tocnumber">1.3</span> <span class="toctext">1996</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#1997"><span class="tocnumber">1.4</span> <span class="toctext">1997</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#1998"><span class="tocnumber">1.5</span> <span class="toctext">1998</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Physical_appearance"><span class="tocnumber">2</span> <span class="toctext">Physical appearance</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Personality_and_traits"><span class="tocnumber">3</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Behind_the_scenes"><span class="tocnumber">4</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Appearances"><span class="tocnumber">5</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Notes_and_references"><span class="tocnumber">6</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Grawp?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Grawp?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Grawp?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Early life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Grawp?action=edit&amp;section=2" title="Edit section: Early life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Around <a href="/wiki/1931" title="1931">1931</a>, the <a href="/wiki/Giant" title="Giant">giantess</a> <a href="/wiki/Fridwulfa" title="Fridwulfa">Fridwulfa</a> abandoned her human husband <a href="/wiki/Rubeus_Hagrid%27s_father" title="Rubeus Hagrid&#39;s father">Mr Hagrid</a> and their infant child <a href="/wiki/Rubeus_Hagrid" title="Rubeus Hagrid">Rubeus Hagrid</a>, a <a href="/wiki/Half-giant" title="Half-giant">half-giant</a>, who was smaller in stature than she wanted.<sup id="cite_ref-OP30_2-10" class="reference"><a href="#cite_note-OP30-2">&#91;2&#93;</a></sup> She consequently rejoined her own kind in the mountains, and there she found a new mate.<sup id="cite_ref-OP30_2-11" class="reference"><a href="#cite_note-OP30-2">&#91;2&#93;</a></sup> The two gave birth to the giant Grawp who, despite being a full-blooded giant, was still particularly small, and due to this he, too, was abandoned.<sup id="cite_ref-OP30_2-12" class="reference"><a href="#cite_note-OP30-2">&#91;2&#93;</a></sup> He was frequently bullied by the other giants thereafter due to his small size.<sup id="cite_ref-OP30_2-13" class="reference"><a href="#cite_note-OP30-2">&#91;2&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="1995">1995</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Grawp?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: 1995">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Grawp?action=edit&amp;section=3" title="Edit section: 1995"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Order of the Phoenix">"<i>Well, tha's why it took so long, see. Could on'y travel by nigh' an' through wild country an' stuff. Course, he covers the ground pretty well when he wants ter, but he kep' wantin' ter go back.</i>"</span></dd>
+<dd>&#8212;Hagrid and Grawp's journey to Hogwarts<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><a href="/wiki/Rubeus_Hagrid" title="Rubeus Hagrid">Rubeus Hagrid</a>, along with his newly-found friend <a href="/wiki/Olympe_Maxime" title="Olympe Maxime">Olympe Maxime</a>, paid a visit to a <a href="/wiki/Giant_colony" title="Giant colony">tribe of giants</a> in June of 1995, on the orders of headmaster <a href="/wiki/Albus_Dumbledore" title="Albus Dumbledore">Albus Dumbledore</a> of Hogwarts School of Witchcraft and Wizardry in an attempt to bring the giants over as allies of the <a href="/wiki/Order_of_the_Phoenix" title="Order of the Phoenix">Order of the Phoenix</a> in the war against <a href="/wiki/Tom_Riddle" title="Tom Riddle">Lord Voldemort</a> and his <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a>.<sup id="cite_ref-OP20_14-0" class="reference"><a href="#cite_note-OP20-14">&#91;14&#93;</a></sup>
+After three days at the giant camp, Hagrid discovered his half-brother Grawp. He later dragged Grawp back to <a href="/wiki/Hogwarts_Castle" title="Hogwarts Castle">Hogwarts</a> with him due to the bullying he knew Grawp had received, and presumably to protect Grawp from Voldemort's enslavement of the giants.<sup id="cite_ref-OP30_2-14" class="reference"><a href="#cite_note-OP30-2">&#91;2&#93;</a></sup> Despite his previous abuse, Grawp continuously attempted to return to the camp, but Hagrid forced him through <a href="/wiki/England" title="England">England</a> against his will.<sup id="cite_ref-OP30_2-15" class="reference"><a href="#cite_note-OP30-2">&#91;2&#93;</a></sup>
+</p><p>Hagrid kept Grawp in the <a href="/wiki/Forbidden_Forest" title="Forbidden Forest">Forbidden Forest</a> for months, teaching him manners and pieces of English as they went.<sup id="cite_ref-OP30_2-16" class="reference"><a href="#cite_note-OP30-2">&#91;2&#93;</a></sup> The other inhabitants of the forest, namely the <a href="/wiki/Centaur" title="Centaur">centaurs</a>, noticed these attempts and tried to warn Hagrid that his trial was futile.<sup id="cite_ref-OP27_15-0" class="reference"><a href="#cite_note-OP27-15">&#91;15&#93;</a></sup> 
+</p>
+<h3><span class="mw-headline" id="1996">1996</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Grawp?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: 1996">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Grawp?action=edit&amp;section=4" title="Edit section: 1996"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="quote">
+<dl><dd><span><b>Hagrid</b>: "<i>Hermione, I couldn’ leave him. See — he’s my brother!</i>"</span></dd>
+<dd><b>Harry Potter</b>: "<i>Hagrid, when you say ‘brother,’ do you mean —&#160;?</i>"</dd>
+<dd><b>Hagrid</b>: "<i>Well — half-brother. Turns out me mother took up with another giant when she left me dad, an’ she went an’ had Grawp here —</i>"</dd>
+<dd><b>Harry Potter</b>: "<i>Grawp?</i>"</dd>
+<dd><b>Hagrid</b>: "<i>Yeah... well, tha’s what it sounds like when he says his name. He don’ speak a lot of English.... I’ve bin tryin’ ter teach him.... Anyway, she don’ seem ter have liked him much more’n she liked me.... See, with giantesses, what counts is producin’ good big kids, and he’s always been a bit on the runty side fer a giant — on’y sixteen foot —</i>"</dd>
+<dd>&#8212; Hagrid telling the trio about Grawp's origins<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">[src]</a></sup></dd></dl>
+</div>
+<figure class="thumb tleft show-info-icon" style="width: 252px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/8/82/Hagrid_introduces_the_trio_to_Grawp.jpg/revision/latest?cb=20180319043113" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/8/82/Hagrid_introduces_the_trio_to_Grawp.jpg/revision/latest/scale-to-width-down/250?cb=20180319043113" decoding="async" width="250" height="110" class="thumbimage" data-image-name="Hagrid introduces the trio to Grawp.jpg" data-image-key="Hagrid_introduces_the_trio_to_Grawp.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Hagrid_introduces_the_trio_to_Grawp.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Hagrid intoducing the trio to Grawp</p> 		 	</figcaption> </figure>
+<p>During a <a href="/wiki/Quidditch" title="Quidditch">Quidditch</a> Match in 1995, in which Ron played as <a href="/wiki/Keeper" title="Keeper">Keeper</a>, Hagrid secretely revealed Grawp's presence to <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> and <a href="/wiki/Hermione_Granger" title="Hermione Granger">Hermione Granger</a>, asking them to look after Grawp in case he got sacked by <a href="/wiki/Dolores_Umbridge" title="Dolores Umbridge">Dolores Umbridge</a>. Despite their disapproval of Grawp's presence, they agreed in the end.<sup id="cite_ref-OP30_2-17" class="reference"><a href="#cite_note-OP30-2">&#91;2&#93;</a></sup> After Hagrid was later temporarily sacked by Umbridge, Grawp became upset about his absense and after chasing the <a href="/wiki/Forbidden_Forest_Centaur_colony" title="Forbidden Forest Centaur colony">centaurs</a> away from Harry and Hermione before they could attack them, demanded about Hagrid's presence from Hermione, who responded that she didn't know where he was.<sup id="cite_ref-OP33_16-0" class="reference"><a href="#cite_note-OP33-16">&#91;16&#93;</a></sup>
+</p><p>After <a href="/wiki/Tom_Riddle" title="Tom Riddle">Voldemort</a>'s return and Umbridge's sacking from Hogwarts, Grawp was later reunited with Hagrid and was later sent by Dumbledore and Hagrid to live in the mountains near <a href="/wiki/Hogsmeade" title="Hogsmeade">Hogsmeade</a>, presumably in the <a href="/wiki/Cave_near_Hogsmeade" title="Cave near Hogsmeade">cave</a> where Hagrid hid after his sacking by Umbridge, with Hagrid commenting he was far happier there than in the Forest. Hagrid additionally considered getting a female giant for Grawp to socialise with, something Harry usually would have protested against but was unable to do so due to his grief over <a href="/wiki/Sirius_Black" title="Sirius Black">Sirius Black</a>'s death.<sup id="cite_ref-OOTP38_17-0" class="reference"><a href="#cite_note-OOTP38-17">&#91;17&#93;</a></sup>
+Grawp also proved to be an indirect factor to Harry, Ron and Hermione discontinuing <a href="/wiki/Care_of_Magical_Creatures" title="Care of Magical Creatures">Care of Magical Creatures</a> once they began their sixth year as they disapproved of Hagrid's idea to train Grawp to be his teaching assistant alongside Hagrid's tendancy to teach dangerous creatures over more amicable ones.<sup id="cite_ref-HBP9_18-0" class="reference"><a href="#cite_note-HBP9-18">&#91;18&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="1997">1997</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Grawp?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: 1997">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Grawp?action=edit&amp;section=5" title="Edit section: 1997"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Half-Blood Prince">"<i>Harry glanced at the back row to which Hagrid was heading and realised what was guiding him, for there, dressed in a jacket and trousers each the size of a small mar-quee, was the giant Grawp, his great ugly boulder-like head bowed, docile, almost human. Hagrid sat down next to his half-brother and Grawp patted Hagrid hard on the head, so that his chair legs sank into the ground.</i>"</span></dd>
+<dd>&#8212;Grawp attending Dumbledore's funeral<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">[src]</a></sup></dd>
+<dd></dd></dl></div><figure class="thumb tright show-info-icon" style="width: 252px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/0/06/B6C30M1_funeral_of_Albus_Dumbledore.png/revision/latest?cb=20161209004341" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/0/06/B6C30M1_funeral_of_Albus_Dumbledore.png/revision/latest/scale-to-width-down/250?cb=20161209004341" decoding="async" width="250" height="98" class="thumbimage" data-image-name="B6C30M1 funeral of Albus Dumbledore.png" data-image-key="B6C30M1_funeral_of_Albus_Dumbledore.png" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:B6C30M1_funeral_of_Albus_Dumbledore.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">The funeral of Albus Dumbledore</p> 		 	</figcaption> </figure>
+<p>By the next year, however, Grawp had become much more docile and lost his violent edge.<sup id="cite_ref-HBP30_19-0" class="reference"><a href="#cite_note-HBP30-19">&#91;19&#93;</a></sup> He attended the <a href="/wiki/Funeral_of_Albus_Dumbledore" title="Funeral of Albus Dumbledore">Funeral of Albus Dumbledore</a>, standing in clothes the size of mar-quees.<sup id="cite_ref-HBP30_19-1" class="reference"><a href="#cite_note-HBP30-19">&#91;19&#93;</a></sup> By this time he had developed a large sense of compassion, his head bent with sorrow, and patted his half-brother to comfort him, unintentionally smashing him into the ground due to his immense strength. After the funeral ended, Grawp was seen embracing Hagrid, who was still grieving over Dumbledore's death.<sup id="cite_ref-HBP30_19-2" class="reference"><a href="#cite_note-HBP30-19">&#91;19&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="1998">1998</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Grawp?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: 1998">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Grawp?action=edit&amp;section=6" title="Edit section: 1998"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Deathly Hallows">"<i>At the same time, Grawp came lumbering around the side of the castle and yelled, </i>HAGGER!<i> His cry was answered by roars from Voldemort's giants: They ran at Grawp like bull elephants making the earth quake.</i>"</span></dd>
+<dd>&#8212;Grawp's participation in the second half of the final battle<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p>In March of 1998, he and his brother ran from the <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a> due to the two of them having held a <a href="/wiki/Support_Harry_Potter_party" title="Support Harry Potter party">Support Harry Potter party</a> at Hagrid's hut in the Death Eater-controlled school,<sup id="cite_ref-DH22_20-0" class="reference"><a href="#cite_note-DH22-20">&#91;20&#93;</a></sup> and they both afterwards hid in the <a href="/wiki/Cave_near_Hogsmeade" title="Cave near Hogsmeade">Cave near Hogsmeade</a> for the remainder of the war.
+</p>
+<figure class="thumb tleft show-info-icon" style="width: 247px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/b/bd/Hogwarts_Big_Battle_at_Hogwarts_Moment_Pottermore.jpg/revision/latest?cb=20160608040611" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="245" height="139" class="thumbimage lazyload" data-image-name="Hogwarts Big Battle at Hogwarts Moment Pottermore.jpg" data-image-key="Hogwarts_Big_Battle_at_Hogwarts_Moment_Pottermore.jpg" data-src="https://static.wikia.nocookie.net/harrypotter/images/b/bd/Hogwarts_Big_Battle_at_Hogwarts_Moment_Pottermore.jpg/revision/latest/scale-to-width-down/245?cb=20160608040611" /></a> 	<noscript><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bd/Hogwarts_Big_Battle_at_Hogwarts_Moment_Pottermore.jpg/revision/latest?cb=20160608040611" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/b/bd/Hogwarts_Big_Battle_at_Hogwarts_Moment_Pottermore.jpg/revision/latest/scale-to-width-down/245?cb=20160608040611" decoding="async" width="245" height="139" class="thumbimage" data-image-name="Hogwarts Big Battle at Hogwarts Moment Pottermore.jpg" data-image-key="Hogwarts_Big_Battle_at_Hogwarts_Moment_Pottermore.jpg" data-src="https://static.wikia.nocookie.net/harrypotter/images/b/bd/Hogwarts_Big_Battle_at_Hogwarts_Moment_Pottermore.jpg/revision/latest/scale-to-width-down/245?cb=20160608040611" /></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Hogwarts_Big_Battle_at_Hogwarts_Moment_Pottermore.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Grawp launching himself at Voldemort's giants during the second half of the battle</p> 		 	</figcaption> </figure>
+<p>On 1 May of that same year, Hagrid and Grawp heard <a href="/wiki/Tom_Riddle" title="Tom Riddle">Voldemort</a>'s magically enhanced voice from their cave, delivering an ultimatum of handing <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> over to him or else starting a <a href="/wiki/Battle_of_Hogwarts" title="Battle of Hogwarts">battle</a>.<sup id="cite_ref-DH31_11-1" class="reference"><a href="#cite_note-DH31-11">&#91;11&#93;</a></sup> Grawp carried Hagrid and their boarhound <a href="/wiki/Fang" title="Fang">Fang</a>, smashing right through the boundaries and then launching Hagrid and Fang together as one through the window of the First Floor Corridor, in which Harry was wandering, and then stumbled off to join the fight below.<sup id="cite_ref-DH31_11-2" class="reference"><a href="#cite_note-DH31-11">&#91;11&#93;</a></sup> As Grawp fought one of Voldemort's giants later on, it finally made Harry, Hermione and Ron realise he was indeed an undersized giant, having previously questioned Hagrid's claims of it.<sup id="cite_ref-DH32_12-1" class="reference"><a href="#cite_note-DH32-12">&#91;12&#93;</a></sup>
+</p><p>Later on, Grawp was seen alive but very angry, attacking Voldemort's giants head-first as he roared in fury.<sup id="cite_ref-DH36_13-1" class="reference"><a href="#cite_note-DH36-13">&#91;13&#93;</a></sup> Aided by <a href="/wiki/Buckbeak" title="Buckbeak">Buckbeak</a> and the <a href="/wiki/Thestral" title="Thestral">thestrals</a>, they were quickly defeated and Grawp moved on to helping others in the fight as reinforcements arrived.<sup id="cite_ref-DH36_13-2" class="reference"><a href="#cite_note-DH36-13">&#91;13&#93;</a></sup>
+</p><p>Grawp eventually survived the battle, and students threw food into his laughing mouth as they celebrated the recent victory in the battle but mourned the loss of the <a href="/wiki/Fallen_Fifty" title="Fallen Fifty">dead</a>.<sup id="cite_ref-DH36_13-3" class="reference"><a href="#cite_note-DH36-13">&#91;13&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Physical_appearance">Physical appearance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Grawp?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Physical appearance">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Grawp?action=edit&amp;section=7" title="Edit section: Physical appearance"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Order of the Phoenix">"<i>Oh yes, tiny! Absolutely minuscule!</i>"</span></dd>
+<dd>&#8212;Hermione Granger sarcastically commening on Grawp's size<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p>At sixteen feet, Grawp was considered short for a giant. He had grey skin, brown-green eyes and hair and appeared like a little mound of land when laid.<sup id="cite_ref-OP30_2-18" class="reference"><a href="#cite_note-OP30-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Grawp?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Personality and traits">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Grawp?action=edit&amp;section=8" title="Edit section: Personality and traits"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Order of the Phoenix"><b>Hermione Granger</b>: "<i>Oh Hagrid, why on earth didn’t you let him! What do you think you’re going to do with a violent giant who doesn’t even want to be here!</i>"</span></dd>
+<dd><b>Hagrid</b>: "<i>Well, now — ‘violent’ — tha’s a bit harsh. I’ll admit he mighta taken a couple o’ swings at me when he’s bin in a bad mood, but he’s gettin’ better, loads better, settlin’ down well....</i>"</dd>
+<dd>&#8212; A discussion about Grawp's personality<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">[src]</a></sup></dd></dl>
+</div>
+<p>Grawp was aggressive and violent, both common traits for a true giant and was known to attack <a href="/wiki/Rubeus_Hagrid" title="Rubeus Hagrid">his brother</a> when in a foul mood.<sup id="cite_ref-OP30_2-19" class="reference"><a href="#cite_note-OP30-2">&#91;2&#93;</a></sup> Despite this, Grawp <a href="/wiki/Love" title="Love">loved</a> his brother dearly and was badly upset when left alone in June of 1996.<sup id="cite_ref-OP33_16-1" class="reference"><a href="#cite_note-OP33-16">&#91;16&#93;</a></sup>
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Order of the Phoenix">"<i>He don’ know his own strength! An’ he’s gettin’ better, he’s not fightin’ so much anymore —</i>"</span></dd>
+<dd>&#8212;Hagrid describing Grawp's aggressive nature<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<figure class="thumb tright show-info-icon" style="width: 252px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/f/f3/Grawp_and_Ubridge.jpg/revision/latest?cb=20160721185004" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="250" height="103" class="thumbimage lazyload" data-image-name="Grawp and Ubridge.jpg" data-image-key="Grawp_and_Ubridge.jpg" data-src="https://static.wikia.nocookie.net/harrypotter/images/f/f3/Grawp_and_Ubridge.jpg/revision/latest/scale-to-width-down/250?cb=20160721185004" /></a> 	<noscript><a href="https://static.wikia.nocookie.net/harrypotter/images/f/f3/Grawp_and_Ubridge.jpg/revision/latest?cb=20160721185004" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/f/f3/Grawp_and_Ubridge.jpg/revision/latest/scale-to-width-down/250?cb=20160721185004" decoding="async" width="250" height="103" class="thumbimage" data-image-name="Grawp and Ubridge.jpg" data-image-key="Grawp_and_Ubridge.jpg" data-src="https://static.wikia.nocookie.net/harrypotter/images/f/f3/Grawp_and_Ubridge.jpg/revision/latest/scale-to-width-down/250?cb=20160721185004" /></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Grawp_and_Ubridge.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Grawp and Umbridge in the Forbidden Forest</p> 		 	</figcaption> </figure>
+<p>Grawp initially had great difficulties learning to trust Hagrid, however, as it took nearly a year to gain his trust. The language barrier may have been a factor in this since Hagrid could only speak English and, after nearly a year, Grawp could barely speak comprehensible English.<sup id="cite_ref-HBP30_19-3" class="reference"><a href="#cite_note-HBP30-19">&#91;19&#93;</a></sup> After nearly three years, he could still only just talk properly, and could not pronounce long or difficult words such as "<a href="/wiki/Hermione_Granger" title="Hermione Granger">Hermione</a>", which he said as "Hermy", and "<a href="/wiki/Rubeus_Hagrid" title="Rubeus Hagrid">Hagrid</a>", which he pronounced as "Hagger".<sup id="cite_ref-DH36_13-4" class="reference"><a href="#cite_note-DH36-13">&#91;13&#93;</a></sup>
+</p>
+<figure class="thumb tright show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/c/c1/Grawp.jpg/revision/latest?cb=20110726031208" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="180" height="77" class="thumbimage lazyload" data-image-name="Grawp.jpg" data-image-key="Grawp.jpg" data-src="https://static.wikia.nocookie.net/harrypotter/images/c/c1/Grawp.jpg/revision/latest/scale-to-width-down/180?cb=20110726031208" /></a> 	<noscript><a href="https://static.wikia.nocookie.net/harrypotter/images/c/c1/Grawp.jpg/revision/latest?cb=20110726031208" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/c/c1/Grawp.jpg/revision/latest/scale-to-width-down/180?cb=20110726031208" decoding="async" width="180" height="77" class="thumbimage" data-image-name="Grawp.jpg" data-image-key="Grawp.jpg" data-src="https://static.wikia.nocookie.net/harrypotter/images/c/c1/Grawp.jpg/revision/latest/scale-to-width-down/180?cb=20110726031208" /></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Grawp.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Grawp holding Hermione playfully, however against her wishes</p> 		 	</figcaption> </figure>
+<p>However, while his language skills were still barely comprehensible, Grawp's personality on the other hand changed immensely under Hagrid's influence, despite doubts that Hagrid's efforts were completely futile. By the time he attended the funeral of <a href="/wiki/Albus_Dumbledore" title="Albus Dumbledore">Albus Dumbledore</a>, Grawp became more kind, gentle, and compassionate. He showed sorrow during the funeral and attempted to comfort Hagrid, who was more devastated by Dumbledore's death, by patting and embracing him (though causing Hagrid's chair to sink into the ground). Grawp also showed happiness and joy after <a href="/wiki/Tom_Riddle" title="Tom Riddle">Voldemort</a>'s final defeat, demonstrating that he had developed an understanding of human emotions. However, while most of his violent side was lost, he still retained some of it when he fought against the other giants during the <a href="/wiki/Battle_of_Hogwarts" title="Battle of Hogwarts">Battle of Hogwarts</a>.
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Grawp?veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Grawp?action=edit&amp;section=9" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tright show-info-icon" style="width: 142px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/6/68/GrawpWU.png/revision/latest?cb=20190817192137" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="140" height="364" class="thumbimage lazyload" data-image-name="GrawpWU.png" data-image-key="GrawpWU.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/6/68/GrawpWU.png/revision/latest/scale-to-width-down/140?cb=20190817192137" /></a> 	<noscript><a href="https://static.wikia.nocookie.net/harrypotter/images/6/68/GrawpWU.png/revision/latest?cb=20190817192137" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/6/68/GrawpWU.png/revision/latest/scale-to-width-down/140?cb=20190817192137" decoding="async" width="140" height="364" class="thumbimage" data-image-name="GrawpWU.png" data-image-key="GrawpWU.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/6/68/GrawpWU.png/revision/latest/scale-to-width-down/140?cb=20190817192137" /></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:GrawpWU.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Grawp as he appears in <i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i></p> 		 	</figcaption> </figure>
+<ul><li>The <a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(film)" title="Harry Potter and the Order of the Phoenix (film)">film adaptation</a> of <i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">Harry Potter and the Order of the Phoenix</a></i> showed Grawp as less a violent giant and more of a "high spirited," inquisitive child, as his half-brother, Hagrid, said.</li>
+<li>Grawp is voiced by <a href="/wiki/Tony_Maudsley" title="Tony Maudsley">Tony Maudsley</a> in the <a href="/wiki/Harry_Potter_(film_series)" title="Harry Potter (film series)">film adaptations</a> of <i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">Harry Potter and the Order of the Phoenix</a></i>.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup></li>
+<li>For the <a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(film)" title="Harry Potter and the Order of the Phoenix (film)">film adaptation</a> of <i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">Harry Potter and the Order of the Phoenix</a></i>, the in-camera reference for Grawp was performed by William Todd-Jones, who also created Grawp's body performance as used for the sequence's pre-vis.</li>
+<li>The original model for the film was created in 2004 by Gerald Gibbons who based it on a student he had taught back when he was a teacher. The student, Tom Hull, now attends the University of Bath.</li>
+<li>The film adaptation shows Ron Weasley accompanying Harry and Hermione during their first visit to Grawp, as opposed to the book in which Ron was playing in a Quidditch match at that time.</li>
+<li>In the end of the Order of the Phoenix of <i><a href="/wiki/LEGO_Harry_Potter:_Years_5-7" title="LEGO Harry Potter: Years 5-7">LEGO Harry Potter: Years 5-7</a></i>, Grawp is seen on a high tree trying to help Luna reach a pair of her sneakers.</li>
+<li>It is possible that his name is different from this as Hagrid said that it sounded like Grawp when he says his name. There is a theory that it is how he pronounces "Grow up!"</li>
+<li>Grawp's role in the <a href="/wiki/Battle_of_Hogwarts" title="Battle of Hogwarts">Battle of Hogwarts</a> from <i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">Harry Potter and the Deathly Hallows</a></i> was omitted from the final version of <i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_2" title="Harry Potter and the Deathly Hallows: Part 2">Harry Potter and the Deathly Hallows: Part 2</a></i>. In addition to this, the character is neither seen nor mentioned in the film.</li>
+<li><a href="/wiki/J._K._Rowling" title="J. K. Rowling">J. K. Rowling</a> mentioned in an interview that when she was writing Grawp's parts into the book that she knew she was giving the filmmakers a challenge when it came time to bring the giant to life on the big screen.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Grawp?veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Grawp?action=edit&amp;section=10" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" class="lazyload" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 29 images related to <i><b><a href="/wiki/Category:Images_of_Grawp" title="Category:Images of Grawp">Grawp</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">Harry Potter and the Order of the Phoenix</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(film)" title="Harry Potter and the Order of the Phoenix (film)">Harry Potter and the Order of the Phoenix (film)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(video_game)" title="Harry Potter and the Order of the Phoenix (video game)">Harry Potter and the Order of the Phoenix (video game)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">Harry Potter and the Half-Blood Prince</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince_(video_game)" title="Harry Potter and the Half-Blood Prince (video game)">Harry Potter and the Half-Blood Prince (video game)</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">Harry Potter and the Deathly Hallows</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1_(video_game)" title="Harry Potter and the Deathly Hallows: Part 1 (video game)">Harry Potter and the Deathly Hallows: Part 1 (video game)</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i></li>
+<li><i><a href="/wiki/Wizarding_World_(website)" title="Wizarding World (website)">Wizarding World</a></i></li>
+<li><i><a href="/wiki/Harry_Potter:_A_Pop-Up_Book" title="Harry Potter: A Pop-Up Book">Harry Potter: A Pop-Up Book</a></i></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter:_Years_5-7" title="LEGO Harry Potter: Years 5-7">LEGO Harry Potter: Years 5-7</a></i></li>
+<li><i><a href="/wiki/LEGO_Dimensions" title="LEGO Dimensions">LEGO Dimensions</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter" title="LEGO Harry Potter">LEGO Harry Potter</a></i></li>
+<li><i><a href="/wiki/Harry_Potter:_The_Character_Vault" title="Harry Potter: The Character Vault">Harry Potter: The Character Vault</a></i> <span class="template-c">(Concept artwork)</span></li>
+<li><i><a href="/wiki/Harry_Potter:_The_Creature_Vault" title="Harry Potter: The Creature Vault">Harry Potter: The Creature Vault</a></i></li>
+<li><i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Grawp?veaction=edit&amp;section=11" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Grawp?action=edit&amp;section=11" title="Edit section: Notes and references

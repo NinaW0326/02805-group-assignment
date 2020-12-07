@@ -1,0 +1,51 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-iu-book pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/a/a6/Forecast.jpg/revision/latest?cb=20110125233609" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/a/a6/Forecast.jpg/revision/latest/scale-to-width-down/262?cb=20110125233609" srcset="https://static.wikia.nocookie.net/harrypotter/images/a/a6/Forecast.jpg/revision/latest/scale-to-width-down/262?cb=20110125233609 1x, https://static.wikia.nocookie.net/harrypotter/images/a/a6/Forecast.jpg/revision/latest/scale-to-width-down/524?cb=20110125233609 2x" class="pi-image-thumbnail" alt="" width="262" height="500"
+		     data-image-key="Forecast.jpg" data-image-name="Forecast.jpg"/>
+		
+	</a>
+	
+</figure>
+
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name"><i>Forecast</i></h2>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Book information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="released">
+	
+		<h3 class="pi-data-label pi-secondary-font">Released</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/1995" title="1995">1995</a>-<a href="/wiki/1996" title="1996">1996</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="publisher">
+	
+		<h3 class="pi-data-label pi-secondary-font">Publisher</h3>
+	
+	<div class="pi-data-value pi-font"><i><a href="/wiki/Daily_Prophet" title="Daily Prophet">Daily Prophet</a></i></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="subject">
+	
+		<h3 class="pi-data-label pi-secondary-font">Subject</h3>
+	
+	<div class="pi-data-value pi-font">Weather forecast</div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Book_infobox" title="Template:Book infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Order of the Phoenix (film)">"<i>Some sunshine, if the drizzly clouds break.</i>"</span></dd>
+<dd>&#8212;<i><a href="/wiki/Daily_Prophet" title="Daily Prophet">Daily Prophet</a></i> weather forecast on <a href="/wiki/September" title="September">September</a>, <a href="/wiki/1995" title="1995">1995</a><sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(film)" title="Harry Potter and the Order of the Phoenix (film)">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><i><b>Forecast</b></i> was a <i><a href="/wiki/Daily_Prophet" title="Daily Prophet">Daily Prophet</a></i> newspaper feature, including weather forecasts for all of <a href="/wiki/Great_Britain" title="Great Britain">Great Britain</a>. It was featured on page two of the periodical.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> It featured the day after's weather, the "day after tomorrow"'s, the "day after the day after tomorrow"'s, the "day after the day after the day after tomorrow"'s, the "day after the day after the day after the day after tomorrow"'s and the "day after that"'s.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Forecast?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Forecast?action=edit&amp;section=1" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(film)" title="Harry Potter and the Order of the Phoenix (film)">Harry Potter and the Order of the Phoenix (film)</a></i> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Forecast?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Forecast?action=edit&amp;section=2" title="Edit section: Notes and references

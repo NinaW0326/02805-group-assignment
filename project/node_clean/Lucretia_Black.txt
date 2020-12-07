@@ -1,0 +1,135 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-slytherin pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/6/69/Lucretia.jpg/revision/latest?cb=20130402024415" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/6/69/Lucretia.jpg/revision/latest/scale-to-width-down/250?cb=20130402024415" srcset="https://static.wikia.nocookie.net/harrypotter/images/6/69/Lucretia.jpg/revision/latest/scale-to-width-down/250?cb=20130402024415 1x, https://static.wikia.nocookie.net/harrypotter/images/6/69/Lucretia.jpg/revision/latest/scale-to-width-down/500?cb=20130402024415 2x" class="pi-image-thumbnail" alt="" width="250" height="262"
+		     data-image-key="Lucretia.jpg" data-image-name="Lucretia.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Lucretia Prewett (née Black)</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/1925" title="1925">1925</a><sup id="cite_ref-BFT_1-0" class="reference"><a href="#cite_note-BFT-1">&#91;1&#93;</a></sup>; <a href="/wiki/Great_Britain" title="Great Britain">Great Britain</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/1992" title="1992">1992</a><sup id="cite_ref-BFT_1-1" class="reference"><a href="#cite_note-BFT-1">&#91;1&#93;</a></sup> (aged 66 - 67)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Pure-blood" title="Pure-blood">Pure-blood</a><sup id="cite_ref-BFT_1-2" class="reference"><a href="#cite_note-BFT-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="marital">
+	
+		<h3 class="pi-data-label pi-secondary-font">Marital status</h3>
+	
+	<div class="pi-data-value pi-font">Married</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-BFT_1-3" class="reference"><a href="#cite_note-BFT-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female<sup id="cite_ref-BFT_1-4" class="reference"><a href="#cite_note-BFT-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Arcturus_Black_III" title="Arcturus Black III">Arcturus Black III</a> (father) †<sup id="cite_ref-BFT_1-5" class="reference"><a href="#cite_note-BFT-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/Melania_Macmillan" title="Melania Macmillan">Melania Macmillan</a> (mother)<sup id="cite_ref-BFT_1-6" class="reference"><a href="#cite_note-BFT-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/Orion_Black" title="Orion Black">Orion Black</a> (brother) †<sup id="cite_ref-BFT_1-7" class="reference"><a href="#cite_note-BFT-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/Ignatius_Prewett" title="Ignatius Prewett">Ignatius Prewett</a> (husband)<sup id="cite_ref-BFT_1-8" class="reference"><a href="#cite_note-BFT-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/Walburga_Black" title="Walburga Black">Walburga Black</a> (sister-in-law/second cousin) †<sup id="cite_ref-BFT_1-9" class="reference"><a href="#cite_note-BFT-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/Sirius_Black" title="Sirius Black">Sirius Black</a> (nephew) †<sup id="cite_ref-BFT_1-10" class="reference"><a href="#cite_note-BFT-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/Regulus_Black" title="Regulus Black">Regulus Black</a> (nephew) †<sup id="cite_ref-BFT_1-11" class="reference"><a href="#cite_note-BFT-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/Prewett_family" title="Prewett family">Prewett family</a> (relatives by marriage)</li><li><a href="/wiki/Sirius_Black_II" title="Sirius Black II">Sirius Black II</a> (paternal grandfather) †<sup id="cite_ref-BFT_1-12" class="reference"><a href="#cite_note-BFT-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/Hesper_Gamp" title="Hesper Gamp">Hesper Gamp</a> (paternal grandmother)<sup id="cite_ref-BFT_1-13" class="reference"><a href="#cite_note-BFT-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/Regulus_Black" title="Regulus Black">Regulus Black</a> (paternal uncle) †<sup id="cite_ref-BFT_1-14" class="reference"><a href="#cite_note-BFT-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/Lycoris_Black" title="Lycoris Black">Lycoris Black</a> (paternal aunt) †<sup id="cite_ref-BFT_1-15" class="reference"><a href="#cite_note-BFT-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/House_of_Black" title="House of Black">Black family</a><sup id="cite_ref-BFT_1-16" class="reference"><a href="#cite_note-BFT-1">&#91;1&#93;</a></sup></li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="house">
+	
+		<h3 class="pi-data-label pi-secondary-font">House</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Slytherin" title="Slytherin">Slytherin</a><sup id="cite_ref-house_2-0" class="reference"><a href="#cite_note-house-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/House_of_Black" title="House of Black">Black family</a><sup id="cite_ref-BFT_1-17" class="reference"><a href="#cite_note-BFT-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a><ul><li><a href="/wiki/Slytherin" title="Slytherin">Slytherin</a></li></ul></li><li><a href="/wiki/Prewett_family" title="Prewett family">Prewett family</a></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Lucretia Prewett</b> (née<b> Black</b>) (<a href="/wiki/1925" title="1925">1925</a> – <a href="/wiki/1992" title="1992">1992</a>) was a <a href="/wiki/Pure-blood" title="Pure-blood">pure-blood</a> witch from the pureblooded <a href="/wiki/House_of_Black" title="House of Black">Black family</a> who was married into the <a href="/wiki/Prewett_family" title="Prewett family">Prewett family</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Etymology"><span class="tocnumber">2</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Behind_the_scenes"><span class="tocnumber">3</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Appearances"><span class="tocnumber">4</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Notes_and_references"><span class="tocnumber">5</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Lucretia_Black?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Lucretia_Black?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>She was born in 1925 as the eldest daughter of <a href="/wiki/Arcturus_Black_III" title="Arcturus Black III">Arcturus Black III</a> and <a href="/wiki/Melania_Macmillan" title="Melania Macmillan">Melania Macmillan</a> and was the sister of <a href="/wiki/Orion_Black" title="Orion Black">Orion</a>. She went to <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a>, where she was in <a href="/wiki/Slytherin" title="Slytherin">Slytherin</a> house.<sup id="cite_ref-house_2-1" class="reference"><a href="#cite_note-house-2">&#91;2&#93;</a></sup>
+</p><p>She married <a href="/wiki/Ignatius_Prewett" title="Ignatius Prewett">Ignatius Prewett</a><sup id="cite_ref-BFT_1-18" class="reference"><a href="#cite_note-BFT-1">&#91;1&#93;</a></sup>, making her the aunt of <a href="/wiki/Gideon_Prewett" title="Gideon Prewett">Gideon</a>, <a href="/wiki/Fabian_Prewett" title="Fabian Prewett">Fabian</a>, and <a href="/wiki/Molly_Weasley" title="Molly Weasley">Molly Prewett</a> (later <a href="/wiki/Weasley_family" title="Weasley family">Weasley</a>)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>. It is unknown if she was close to her relatives by marriage.
+</p><p>She was also <a href="/wiki/Sirius_Black" title="Sirius Black">Sirius</a> and <a href="/wiki/Regulus_Black" title="Regulus Black">Regulus Black</a>'s biological aunt and a second cousin of <a href="/wiki/Arthur_Weasley" title="Arthur Weasley">Arthur Weasley</a>, Molly's husband.
+</p><p>She died in <a href="/wiki/1992" title="1992">1992</a> and is depicted on the <a href="/wiki/Black_Family_Tapestry" title="Black Family Tapestry">Black family tree tapestry</a>.
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Lucretia_Black?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Lucretia_Black?action=edit&amp;section=2" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="http://en.wikipedia.org/wiki/Lucretia" class="extiw" title="wikipedia:Lucretia">Lucretia</a> was a legendary Roman noblewoman who was raped by the son of the King of Rome. She told her husband and father what had happened to her and demanded they exact vengeance, then committed suicide. This led to the downfall of the Roman monarchy and the establishment of the Roman republic. The name "Lucretia" comes from the Roman family name <i>Lucretius</i>, possibly derived from the Latin <i>lucrum</i>, "profit, wealth."<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> 
+</p><p><a href="http://en.wikipedia.org/wiki/Lucrezia_Borgia" class="extiw" title="wikipedia:Lucrezia Borgia">Lucrezia Borgia</a> was a Renaissance noblewoman born into a family notorious for its ruthlessness and corruption. Personally, Lucrezia was accused of incest, poisoning, and murder, but she was most likely innocent of these crimes.
+</p><p><a href="http://en.wikipedia.org/wiki/281_Lucretia" class="extiw" title="wikipedia:281 Lucretia">281 Lucretia</a> is an asteroid belonging to the Flora family in the Main Belt. It was discovered by Johann Palisa on <a href="/wiki/31_October" title="31 October">31 October</a> <a href="/wiki/1888" class="mw-redirect" title="1888">1888</a> in Vienna and named after Caroline Herschel, one of the first female astronomers, whose middle name was Lucretia. This fits with the Black family's tradition of astronomical names.
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Lucretia_Black?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Lucretia_Black?action=edit&amp;section=3" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Horace_Slughorn" title="Horace Slughorn">Horace Slughorn</a> said that all the Blacks were in <a href="/wiki/Slytherin" title="Slytherin">Slytherin</a> except Sirius, so it is almost certain that Lucretia, who had Slughorn as her Potions professor from c. <a href="/wiki/1936" title="1936">1936</a>-<a href="/wiki/1943" title="1943">1943</a>, was likewise in Slytherin.</li>
+<li>Since Lucretia and her cousin/sister-in-law <a href="/wiki/Walburga_Black" title="Walburga Black">Walburga Black</a> were born on the same year, it is most likely that they were classmates at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts</a>.</li>
+<li>Lucretia is depicted on the family tree tapestry very much like <a href="/wiki/Misapinoa_Black" title="Misapinoa Black">Misapinoa Blishwick (née Black)</a>.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Lucretia_Black?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Lucretia_Black?action=edit&amp;section=4" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(film)" title="Harry Potter and the Order of the Phoenix (film)">Harry Potter and the Order of the Phoenix (film)</a></i> <span class="template-c">(Appears on Black family tapestry)</span></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Lucretia_Black?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Lucretia_Black?action=edit&amp;section=5" title="Edit section: Notes and references

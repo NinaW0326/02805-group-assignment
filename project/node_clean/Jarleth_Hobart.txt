@@ -1,0 +1,123 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/1/1b/JarlethHobart.png/revision/latest?cb=20141124192734" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/1/1b/JarlethHobart.png/revision/latest/scale-to-width-down/324?cb=20141124192734" srcset="https://static.wikia.nocookie.net/harrypotter/images/1/1b/JarlethHobart.png/revision/latest/scale-to-width-down/324?cb=20141124192734 1x, https://static.wikia.nocookie.net/harrypotter/images/1/1b/JarlethHobart.png/revision/latest/scale-to-width-down/648?cb=20141124192734 2x" class="pi-image-thumbnail" alt="" width="270" height="417"
+		     data-image-key="JarlethHobart.png" data-image-name="JarlethHobart.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Jarleth Hobart</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a><sup id="cite_ref-WonderbookGameDeubt_1-0" class="reference"><a href="#cite_note-WonderbookGameDeubt-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="title">
+	
+		<h3 class="pi-data-label pi-secondary-font">Title(s)</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Warlock" title="Warlock">Warlock</a><sup id="cite_ref-WonderbookGameDeubt_1-1" class="reference"><a href="#cite_note-WonderbookGameDeubt-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-WonderbookGameDeubt_1-2" class="reference"><a href="#cite_note-WonderbookGameDeubt-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male<sup id="cite_ref-WonderbookGameDeubt_1-3" class="reference"><a href="#cite_note-WonderbookGameDeubt-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Brown<sup id="cite_ref-WonderbookGameDeubt_1-4" class="reference"><a href="#cite_note-WonderbookGameDeubt-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Green<sup id="cite_ref-WonderbookGameDeubt_1-5" class="reference"><a href="#cite_note-WonderbookGameDeubt-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Light<sup id="cite_ref-WonderbookGameDeubt_1-6" class="reference"><a href="#cite_note-WonderbookGameDeubt-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Spell_creation" title="Spell creation">Spell inventor</a><sup id="cite_ref-WonderbookGameDeubt_1-7" class="reference"><a href="#cite_note-WonderbookGameDeubt-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Wonderbook: Book of Spells">"<i>He eventually realised that he had invented a spell that would lift objects into the air and could cause them to hover for varying lengths of time, depending on their weight, and the skill of the spellcaster.</i>"</span></dd>
+<dd>&#8212;<a href="/wiki/Miranda_Goshawk" title="Miranda Goshawk">Miranda Goshawk</a>, <i><a href="/wiki/Book_of_Spells" title="Book of Spells">Book of Spells</a></i><sup class="noprint"><a href="/wiki/Wonderbook:_Book_of_Spells" title="Wonderbook: Book of Spells">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Jarleth Hobart</b> (fl. <a href="/wiki/1544" class="mw-redirect" title="1544">1544</a>) was a <a href="/wiki/Great_Britain" title="Great Britain">British</a> <a href="/wiki/Warlock" title="Warlock">warlock</a>, who became famous for the <a href="/wiki/Spell_creation" title="Spell creation">creation</a> of the <a href="/wiki/Levitation_Charm" title="Levitation Charm">Levitation Charm</a>, <i>Wingardium Leviosa</i>.<sup id="cite_ref-WonderbookGameDeubt_1-8" class="reference"><a href="#cite_note-WonderbookGameDeubt-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Magical_abilities_and_skills"><span class="tocnumber">2</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Etymology"><span class="tocnumber">3</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Behind_the_scenes"><span class="tocnumber">4</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Appearances"><span class="tocnumber">5</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Notes_and_references"><span class="tocnumber">6</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Jarleth_Hobart?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Jarleth_Hobart?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tleft show-info-icon" style="width: 232px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/5/5f/HobartLevitating.jpg/revision/latest?cb=20120702014958" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/5/5f/HobartLevitating.jpg/revision/latest/scale-to-width-down/230?cb=20120702014958" decoding="async" width="230" height="141" class="thumbimage" data-image-name="HobartLevitating.jpg" data-image-key="HobartLevitating.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:HobartLevitating.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Hobart's first public use of the charm, on himself, in <a href="/wiki/1544" class="mw-redirect" title="1544">1544</a></p> 		 	</figcaption> </figure>
+<p>On <a href="/wiki/16_July" title="16 July">16 July</a>, <a href="/wiki/1544" class="mw-redirect" title="1544">1544</a>, Hobart invited a large crowd of wizards, among which was the <a href="/wiki/Chief_Warlock_of_the_Wizengamot_in_1544" title="Chief Warlock of the Wizengamot in 1544">Chief Warlock of the Wizengamot</a>, to witness his "maiden flight" — a public demonstration of his own revolutionary charm on himself. He climbed onto the roof of his local church and, after several speeches and a rousing performance of the <a href="/wiki/God_Save_the_Queen" title="God Save the Queen">national anthem</a> he leapt and, having cast the spell, was left hovering in mid-air. At first, he seemed to have succeeded<sup id="cite_ref-WonderbookGameDeubt_1-9" class="reference"><a href="#cite_note-WonderbookGameDeubt-1">&#91;1&#93;</a></sup> but, after having spent nearly three minutes watching him hanging in mid-air, the crowd grew impatient to see him move somewhere, and booed him.<sup id="cite_ref-WonderbookJarieth_2-0" class="reference"><a href="#cite_note-WonderbookJarieth-2">&#91;2&#93;</a></sup> In response to the catcalls, Hobart tried to move in midair, and started performing vigorous swimming movements, which produced no effect. Mistakingly believing that his clothes were making him heavier and impeding his movement, Hobart stripped thus making him fall ten feet onto the ground below, as it were the clothes that were holding him up in the air — <i>they</i> had been charmed by the Levitation Charm, not Hobart himself. He fell completely naked on the ground, breaking sixteen bones, and went on to receive a fine for "outrageous silliness" from the <a href="/wiki/Chief_Warlock_of_the_Wizengamot_in_1544" title="Chief Warlock of the Wizengamot in 1544">Chief Warlock</a>.<sup id="cite_ref-WonderbookGameDeubt_1-10" class="reference"><a href="#cite_note-WonderbookGameDeubt-1">&#91;1&#93;</a></sup>
+</p><p>Hobart returned home, humiliated, where he realised that his spell could make objects levitate for varying lenghts of time, depending on the skill of the spellcaster and on the weight of the object. He also concluded that small animals or even children could be levitated, but that they had no control whatsoever of their movement once airbourne.<sup id="cite_ref-WonderbookGameDeubt_1-11" class="reference"><a href="#cite_note-WonderbookGameDeubt-1">&#91;1&#93;</a></sup>
+</p><p>He thus made a second announcement, and an even larger crowd gathered to see his second demonstration of the spell (hoping for another laugh at his expense). Hobart's demonstration was, at first, by far more successful than the first one: he showed the onlookers how he could easily levitate objects ranging from small rocks to fallen trees. Hobart decided that, for a finale, he would leviatate the <a href="/wiki/Chief_Warlock_of_the_Wizengamot_in_1544" title="Chief Warlock of the Wizengamot in 1544">Chief Warlock</a>'s hat — what he managed to levitate, however, was the Chief's wig, exposing his bald head to the gathered crowd. The Chief was not amused, and was determined to <a href="/wiki/Duelling" title="Duelling">duel</a> Hobart, but the warlock Levitated the Chief's robes over his head, and ran for it.<sup id="cite_ref-WonderbookGameDeubt_1-12" class="reference"><a href="#cite_note-WonderbookGameDeubt-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Jarleth_Hobart?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Jarleth_Hobart?action=edit&amp;section=2" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Spell_creation" title="Spell creation">Spell creation</a></b>: Jarleth had accomplished the <a href="/wiki/Magic" title="Magic">magical</a> art of creating new <a href="/wiki/Spell" title="Spell">spells</a>, being the famous inventor of the <a href="/wiki/Levitation_Charm" title="Levitation Charm">Levitation Charm</a>, an incredibly impressive magical achievement given the immense complexity, danger and skill required in the development of spells.<sup id="cite_ref-WonderbookGameDeubt_1-13" class="reference"><a href="#cite_note-WonderbookGameDeubt-1">&#91;1&#93;</a></sup></li>
+<li><b><a href="/wiki/Charm" title="Charm">Charms</a></b>: Jarleth was highly proficient in charm-work, being the first <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> who invented and first made use of the highly practical and useful <a href="/wiki/Levitation_Charm" title="Levitation Charm">Levitation Charm</a>, having learnt how to make objects <a href="/wiki/Levitation" title="Levitation">fly</a>.<sup id="cite_ref-WonderbookGameDeubt_1-14" class="reference"><a href="#cite_note-WonderbookGameDeubt-1">&#91;1&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Jarleth_Hobart?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Jarleth_Hobart?action=edit&amp;section=3" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i>Jarlath </i>is a common Irish name, first used by Saint Iarlaithe mac Loga. Hence, it is probable that Hobart is Irish.
+</p><p>Hobart is a form of Hubert <a target="_blank" rel="noreferrer noopener" class="external autonumber" href="http://webspace.webring.com/people/ge/edgarbook/names/frames.html">[1]</a>.
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Jarleth_Hobart?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Jarleth_Hobart?action=edit&amp;section=4" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>One of the novels by Owen Quine, a major character in <a href="/wiki/J._K._Rowling" title="J. K. Rowling">J. K. Rowling</a>'s <i><a href="http://en.wikipedia.org/wiki/The_Silkworm" class="extiw" title="wikipedia:The Silkworm">The Silkworm</a></i>, is titled <i>Hobart's Sin</i>.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Jarleth_Hobart?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Jarleth_Hobart?action=edit&amp;section=5" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Wonderbook:_Book_of_Spells" title="Wonderbook: Book of Spells">Wonderbook: Book of Spells</a></i> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Jarleth_Hobart?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Jarleth_Hobart?action=edit&amp;section=6" title="Edit section: Notes and references

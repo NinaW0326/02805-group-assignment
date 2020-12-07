@@ -1,0 +1,84 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-pet pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/2/23/Binky.png/revision/latest?cb=20160209232544" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/2/23/Binky.png/revision/latest/scale-to-width-down/82?cb=20160209232544" srcset="https://static.wikia.nocookie.net/harrypotter/images/2/23/Binky.png/revision/latest/scale-to-width-down/82?cb=20160209232544 1x, https://static.wikia.nocookie.net/harrypotter/images/2/23/Binky.png/revision/latest/scale-to-width-down/164?cb=20160209232544 2x" class="pi-image-thumbnail" alt="" width="82" height="81"
+		     data-image-key="Binky.png" data-image-name="Binky.png"/>
+		
+	</a>
+	
+</figure>
+
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Binky</h2>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">Early <a href="/wiki/1990s" title="1990s">1990s</a><sup id="cite_ref-age_1-0" class="reference"><a href="#cite_note-age-1">&#91;1&#93;</a></sup> <span class="template-c">(possibly)</span></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/15_October" title="15 October">15 October</a>, <a href="/wiki/1993" title="1993">1993</a><sup id="cite_ref-PM_2-0" class="reference"><a href="#cite_note-PM-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Rabbit" title="Rabbit">Rabbit</a><sup id="cite_ref-POA8_3-0" class="reference"><a href="#cite_note-POA8-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male<sup id="cite_ref-POA8_3-1" class="reference"><a href="#cite_note-POA8-3">&#91;3&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Lavender_Brown" title="Lavender Brown">Lavender Brown</a> (owner)<sup id="cite_ref-POA8_3-2" class="reference"><a href="#cite_note-POA8-3">&#91;3&#93;</a></sup></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Pet_individual_infobox" title="Template:Pet individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Prisoner of Azkaban">"<i>Thank you, my dear. Incidentally, that thing you are dreading -- it will happen on Friday the sixteenth of October.</i>"</span></dd>
+<dd>&#8212;Sybill Trelawney's prediction to Lavender Brown<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban" title="Harry Potter and the Prisoner of Azkaban">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Binky</b> (d. <a href="/wiki/15_October" title="15 October">15 October</a>, <a href="/wiki/1993" title="1993">1993</a>)<sup id="cite_ref-PM_2-1" class="reference"><a href="#cite_note-PM-2">&#91;2&#93;</a></sup> was the pet <a href="/wiki/Rabbit" title="Rabbit">rabbit</a> of <a href="/wiki/Lavender_Brown" title="Lavender Brown">Lavender Brown</a>, and by extension of the <a href="/wiki/Brown_family" title="Brown family">Brown family</a>. He <a href="/wiki/Death" title="Death">died</a>&#160;on the <a href="/wiki/15_October" title="15 October">15 October</a>, <a href="/wiki/1993" title="1993">1993</a> at a fairly young age.<sup id="cite_ref-POA8_3-3" class="reference"><a href="#cite_note-POA8-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Binky?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Binky?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Prisoner of Azkaban"><b>Parvati Patil</b>: "<i>She got a letter from home this morning. It's her rabbit, Binky. He's been killed by a fox.</i>"</span></dd>
+<dd><b>Hermione Granger</b>: "<i>Oh, I'm sorry, Lavender.</i>"</dd>
+<dd>&#8212; Hermione comforting Lavender over the deceased Binky<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban" title="Harry Potter and the Prisoner of Azkaban">[src]</a></sup></dd></dl>
+</div>
+<p>Binky eventually became the pet of <a href="/wiki/Lavender_Brown" title="Lavender Brown">Lavender Brown</a>.<sup id="cite_ref-POA8_3-4" class="reference"><a href="#cite_note-POA8-3">&#91;3&#93;</a></sup>
+</p><p>On <a href="/wiki/16_October" title="16 October">16 October</a>, <a href="/wiki/1993" title="1993">1993</a>, Lavender received the news that Binky had been killed by a <a href="/wiki/Fox" title="Fox">fox</a>, which greatly upset Lavender though she was convinced that her <a href="/wiki/Divination_(class)" title="Divination (class)">Divination</a>&#160;<a href="/wiki/Professor" title="Professor">professor</a> <a href="/wiki/Sybill_Trelawney" title="Sybill Trelawney">Sybill Trelawney</a> had predicted this event accurately. However, <a href="/wiki/Hermione_Granger" title="Hermione Granger">Hermione Granger</a> was quick to point out the flaws in the logic that this was the event Trelawney had predicted, since the rabbit was young and healthy, giving Lavender no cause for fear, and the death itself did not occur on the 16th, only the report thereof.<sup id="cite_ref-POA8_3-5" class="reference"><a href="#cite_note-POA8-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Binky?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Binky?action=edit&amp;section=2" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban" title="Harry Potter and the Prisoner of Azkaban">Harry Potter and the Prisoner of Azkaban</a></i> <small>(First mentioned)</small></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Wizarding_World_(website)" title="Wizarding World (website)">Wizarding World</a></i> <small>(Mentioned only)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Binky?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Binky?action=edit&amp;section=3" title="Edit section: Notes and references

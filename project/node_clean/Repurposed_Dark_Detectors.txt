@@ -1,0 +1,87 @@
+<div class="mw-parser-output"><table class="notice metadata" id="spoiler" style="text-align: center; background: beige; margin: 1em 05%; padding: 0 1em; border: #a00 1px solid;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/e/ea/Wizards_Unite_logo.jpg/revision/latest?cb=20181114170049" class="image"><img alt="Wizards Unite logo.jpg" src="https://static.wikia.nocookie.net/harrypotter/images/e/ea/Wizards_Unite_logo.jpg/revision/latest/scale-to-width-down/175?cb=20181114170049" decoding="async" width="175" height="98" data-image-name="Wizards Unite logo.jpg" data-image-key="Wizards_Unite_logo.jpg" /></a>
+</td>
+<td><b>Warning!</b>
+<p>At least some content in this article is derived from information featured in <i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i>. As such, spoilers will be present within the article.
+</p><p>For gameplay-specific information, please see the relevant article on <a href="https://harrypotterwizardsunite.fandom.com/wiki/Repurposed_Dark_Detectors" class="extiw" title="w:c:harrypotterwizardsunite:Repurposed Dark Detectors">the Harry Potter: Wizards Unite Wiki!</a>
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-object pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/b/bd/SOS_Dark_Detectors.png/revision/latest?cb=20200908141747" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/b/bd/SOS_Dark_Detectors.png/revision/latest/scale-to-width-down/341?cb=20200908141747" srcset="https://static.wikia.nocookie.net/harrypotter/images/b/bd/SOS_Dark_Detectors.png/revision/latest/scale-to-width-down/341?cb=20200908141747 1x, https://static.wikia.nocookie.net/harrypotter/images/b/bd/SOS_Dark_Detectors.png/revision/latest/scale-to-width-down/681?cb=20200908141747 2x" class="pi-image-thumbnail" alt="" width="270" height="396"
+		     data-image-key="SOS_Dark_Detectors.png" data-image-name="SOS Dark Detectors.png"/>
+		
+	</a>
+	
+</figure>
+
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">SOS Task Force Dark Detector</h2>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Object information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="location">
+	
+		<h3 class="pi-data-label pi-secondary-font">Location</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">British Ministry of Magic</a><sup id="cite_ref-WU_1-0" class="reference"><a href="#cite_note-WU-1">&#91;1&#93;</a></sup>  </div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="manufacturer">
+	
+		<h3 class="pi-data-label pi-secondary-font">Manufacturer</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">British Ministry of Magic</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="usage">
+	
+		<h3 class="pi-data-label pi-secondary-font">Usage</h3>
+	
+	<div class="pi-data-value pi-font">Marking areas of high <a href="/wiki/Registry" title="Registry">Family</a> concentration.<sup id="cite_ref-WU_1-1" class="reference"><a href="#cite_note-WU-1">&#91;1&#93;</a></sup>  </div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="owners">
+	
+		<h3 class="pi-data-label pi-secondary-font">Owners</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Statute_of_Secrecy_Task_Force" title="Statute of Secrecy Task Force">Statute of Secrecy Task Force</a><sup id="cite_ref-WU_1-2" class="reference"><a href="#cite_note-WU-1">&#91;1&#93;</a></sup>  </div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Object_infobox" title="Template:Object infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+These devices were <b><a href="/wiki/Dark_Detector" title="Dark Detector">Dark Detectors</a></b> originally used by among others <a href="/wiki/Auror" title="Auror">Aurors</a> over the course of <a href="/wiki/Auror_Office" title="Auror Office">their duties</a> to detect <a href="/wiki/Dark_Arts" title="Dark Arts">Dark magical activity</a> in an area. In the late <a href="/wiki/2010s" title="2010s">2010s</a>, these were modified by then <a href="/wiki/Minister_for_Magic" title="Minister for Magic">Minister for Magic</a>, <a href="/wiki/Kingsley_Shacklebolt" title="Kingsley Shacklebolt">Kingsley Shacklebolt</a>, to be attuned specifically to the <a href="/wiki/Aura" title="Aura">traces</a> of <a href="/wiki/Foundable" title="Foundable">magical activity</a> unleashed by the <a href="/wiki/Calamity" title="Calamity">Calamity</a>. These were then made accessible to members of the <a href="/wiki/Statute_of_Secrecy_Task_Force" title="Statute of Secrecy Task Force">Statute of Secrecy Task Force</a>.<sup id="cite_ref-WU_1-3" class="reference"><a href="#cite_note-WU-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#20th_century"><span class="tocnumber">1.1</span> <span class="toctext">20th century</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#21st_century"><span class="tocnumber">1.2</span> <span class="toctext">21st century</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Appearances"><span class="tocnumber">2</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Notes_and_references"><span class="tocnumber">3</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Repurposed_Dark_Detectors?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: History">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Repurposed_Dark_Detectors?action=edit&amp;section=1" title="Edit section: History"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="20th_century"><a href="/wiki/20th_century" title="20th century">20th century</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Repurposed_Dark_Detectors?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: 20th century">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Repurposed_Dark_Detectors?action=edit&amp;section=2" title="Edit section: 20th century"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>These detectors were invented and distributed at some point prior to <a href="/wiki/1994" title="1994">1994</a>, at which point the retired <a href="/wiki/Auror" title="Auror">Auror</a> <a href="/wiki/Alastor_Moody" title="Alastor Moody">Alastor Moody</a> kept at least one such device in his collection of dark detectors.<sup id="cite_ref-GOFF_2-0" class="reference"><a href="#cite_note-GOFF-2">&#91;2&#93;</a></sup> After he retired from active duty, he kept it in his <a href="/wiki/Alastor_Moody%27s_house" title="Alastor Moody&#39;s house">house</a>, but it was stolen by <a href="/wiki/Bartemius_Crouch_Junior" title="Bartemius Crouch Junior">Bartemius Crouch Jr</a>, after he subdued and locked him in his own trunk so he could <a href="/wiki/Polyjuice_Potion" title="Polyjuice Potion">impersonate</a> him with the intent of facilitating the <a href="/wiki/Return_of_Lord_Voldemort" title="Return of Lord Voldemort">Return of Lord Voldemort</a> under guise of the <a href="/wiki/Defence_Against_the_Dark_Arts" title="Defence Against the Dark Arts">Defence Against the Dark Arts</a> teacher during the <a href="/wiki/1994-1995_school_year" class="mw-redirect" title="1994-1995 school year">1994-1995 school year</a>.<sup id="cite_ref-GOF_3-0" class="reference"><a href="#cite_note-GOF-3">&#91;3&#93;</a></sup>
+</p><p>When <a href="/wiki/Dumbledore%27s_Army" title="Dumbledore&#39;s Army">Dumbledore's Army</a> reacquired a place to hold their meetings, the <a href="/wiki/Room_of_Requirement" title="Room of Requirement">Room of Requirement</a> provided a suitable room for them, in which there was a collection of broken dark detectors that <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> recognised as the ones in "Moody's" <a href="/wiki/Defence_Against_the_Dark_Arts" title="Defence Against the Dark Arts">office</a> the year before.<sup id="cite_ref-OOTP_4-0" class="reference"><a href="#cite_note-OOTP-4">&#91;4&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="21st_century"><a href="/wiki/21st_century" title="21st century">21st century</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Repurposed_Dark_Detectors?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: 21st century">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Repurposed_Dark_Detectors?action=edit&amp;section=3" title="Edit section: 21st century"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>When <a href="/wiki/Constance_Pickering" title="Constance Pickering">Constance Pickering</a> was charged with setting up the <a href="/wiki/Statute_of_Secrecy_Task_Force" title="Statute of Secrecy Task Force">Statute of Secrecy Task Force</a>, witches and wizards that volunteered to serve as <a href="/wiki/Calamity_Investigator" title="Calamity Investigator">Calamity Investigators</a> had access to these devices, which they could put down in areas to detect <a href="/wiki/Foundable" title="Foundable">traces</a> of the <a href="/wiki/Calamity" title="Calamity">Calamity</a>.<sup id="cite_ref-WU_1-4" class="reference"><a href="#cite_note-WU-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Repurposed_Dark_Detectors?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Repurposed_Dark_Detectors?action=edit&amp;section=4" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire" title="Harry Potter and the Goblet of Fire">Harry Potter and the Goblet of Fire</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">Harry Potter and the Order of the Phoenix</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire_(film)" title="Harry Potter and the Goblet of Fire (film)">Harry Potter and the Goblet of Fire (film)</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Repurposed_Dark_Detectors?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Repurposed_Dark_Detectors?action=edit&amp;section=5" title="Edit section: Notes and references

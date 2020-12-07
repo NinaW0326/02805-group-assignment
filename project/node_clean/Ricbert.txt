@@ -1,0 +1,128 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-gringotts pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/d/dd/Headgobli2.jpg/revision/latest?cb=20120111004341" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/d/dd/Headgobli2.jpg/revision/latest/scale-to-width-down/350?cb=20120111004341" srcset="https://static.wikia.nocookie.net/harrypotter/images/d/dd/Headgobli2.jpg/revision/latest/scale-to-width-down/350?cb=20120111004341 1x, https://static.wikia.nocookie.net/harrypotter/images/d/dd/Headgobli2.jpg/revision/latest/scale-to-width-down/700?cb=20120111004341 2x" class="pi-image-thumbnail" alt="" width="270" height="265"
+		     data-image-key="Headgobli2.jpg" data-image-name="Headgobli2.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Ricbert</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/1_May" title="1 May">1 May</a>, <a href="/wiki/1998" title="1998">1998</a><br/><a href="/wiki/Malfoy_Manor" title="Malfoy Manor">Malfoy Manor</a>, <a href="/wiki/Wiltshire" title="Wiltshire">Wiltshire</a>, <a href="/wiki/England" title="England">England</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="title">
+	
+		<h3 class="pi-data-label pi-secondary-font">Title(s)</h3>
+	
+	<div class="pi-data-value pi-font">Chief Bank Teller</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Goblin" title="Goblin">Goblin</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">White</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Black</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Pale</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Chief Bank Teller at <a href="/wiki/Gringotts_Wizarding_Bank" title="Gringotts Wizarding Bank">Gringotts Wizarding Bank</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Gringotts_Wizarding_Bank" title="Gringotts Wizarding Bank">Gringotts Wizarding Bank</a></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span><b>Hermione Granger <span class="template-c">(as Bellatrix Lestrange)</span></b>: "<i>I wish to enter my <a href="/wiki/Lestrange_Vault" title="Lestrange Vault">vault</a>.</i>"</span></dd>
+<dd><b>Gringotts Chief Bank Teller</b>: "<i>Identification?</i>"</dd>
+<dd><b>Hermione Granger <span class="template-c">(as Bellatrix Lestrange)</span></b>: "<i>I hardly think that will be necessary.</i>"</dd>
+<dd><b>Gringotts Chief Bank Teller</b>: "<i>Madam Lestrange!</i>"</dd>
+<dd><b>Hermione Granger <span class="template-c">(as Bellatrix Lestrange)</span></b>: "<i>I don't like to be kept waiting.</i>"</dd>
+<dd>&#8212; The Gringotts Chief Bank Teller talking with <a href="/wiki/Hermione_Granger" title="Hermione Granger">Hermione Granger</a> <a href="/wiki/Polyjuice_Potion" title="Polyjuice Potion">disguised</a> as <a href="/wiki/Bellatrix_Lestrange" title="Bellatrix Lestrange">Bellatrix Lestrange</a><sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_2" title="Harry Potter and the Deathly Hallows: Part 2">[src]</a></sup></dd></dl>
+</div>
+<p><b>Ricbert</b><sup id="cite_ref-script_1-0" class="reference"><a href="#cite_note-script-1">&#91;1&#93;</a></sup> (d. <a href="/wiki/1_May" title="1 May">1 May</a>, <a href="/wiki/1998" title="1998">1998</a>)<sup id="cite_ref-script_1-1" class="reference"><a href="#cite_note-script-1">&#91;1&#93;</a></sup> was a <a href="/wiki/Goblin" title="Goblin">Goblin</a> who worked in the capacity of Chief Bank Teller at <a href="/wiki/Gringotts_Wizarding_Bank" title="Gringotts Wizarding Bank">Gringotts Wizarding Bank</a> during the late <a href="/wiki/1990s" title="1990s">1990s</a>.<sup id="cite_ref-DHpt2_2-0" class="reference"><a href="#cite_note-DHpt2-2">&#91;2&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#See_also"><span class="tocnumber">2</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Behind_the_scenes"><span class="tocnumber">3</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Appearances"><span class="tocnumber">4</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Notes_and_references"><span class="tocnumber">5</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Ricbert?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: History">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Ricbert?action=edit&amp;section=1" title="Edit section: History"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Following <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a>, <a href="/wiki/Ronald_Weasley" title="Ronald Weasley">Ronald Weasley</a> and <a href="/wiki/Hermione_Granger" title="Hermione Granger">Hermione Granger</a>'s <a href="/wiki/Break-in_of_Gringotts_Wizarding_Bank_(1998)" title="Break-in of Gringotts Wizarding Bank (1998)">break-in</a> of the Bank in <a href="/wiki/1998" title="1998">1998</a>, Ricbert was in the main lobby as the <a href="/wiki/Gringott%27s_Dragon" title="Gringott&#39;s Dragon">security dragon</a> violently erupted through it.<sup id="cite_ref-DHpt2_2-1" class="reference"><a href="#cite_note-DHpt2-2">&#91;2&#93;</a></sup> Despite being only a few feet from where the <a href="/wiki/Dragon" title="Dragon">dragon</a> erupted into the lobby, Ricbert managed to escape the bank, but was soon summoned, with other goblins and guards, to <a href="/wiki/Malfoy_Manor" title="Malfoy Manor">Malfoy Manor</a>, where he was <a href="/wiki/Killing_Curse" title="Killing Curse">killed</a> by <a href="/wiki/Tom_Riddle" title="Tom Riddle">Lord Voldemort</a> in an <a href="/wiki/Massacre_at_Malfoy_Manor" title="Massacre at Malfoy Manor">angry rage</a>.<sup id="cite_ref-script_1-2" class="reference"><a href="#cite_note-script-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Ricbert?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: See also">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Ricbert?action=edit&amp;section=2" title="Edit section: See also"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Unidentified_Goblin_at_Gringotts_in_1998_(IV)" title="Unidentified Goblin at Gringotts in 1998 (IV)">Unidentified Goblin at Gringotts in 1998 (IV)</a></li></ul>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Ricbert?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Ricbert?action=edit&amp;section=3" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>This goblin is not named in <i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_2" title="Harry Potter and the Deathly Hallows: Part 2">Harry Potter and the Deathly Hallows: Part 2</a></i>, however, the original screenplay had <a href="/wiki/Bogrod" title="Bogrod">Bogrod</a> referring to him as "Ricbert".<sup id="cite_ref-script_1-3" class="reference"><a href="#cite_note-script-1">&#91;1&#93;</a></sup></li>
+<li><a href="/wiki/Rusty_Goffe" title="Rusty Goffe">Rusty Goffe</a> portrays Ricbert in <i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_2" title="Harry Potter and the Deathly Hallows: Part 2">Harry Potter and the Deathly Hallows: Part 2</a></i>.<sup id="cite_ref-rustygoffe_3-0" class="reference"><a href="#cite_note-rustygoffe-3">&#91;3&#93;</a></sup></li>
+<li>In the <a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_2" title="Harry Potter and the Deathly Hallows: Part 2">second part of the film adaptation</a> of <i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">Harry Potter and the Deathly Hallows</a></i>, this goblin is the one who <a href="/wiki/Hermione_Granger" title="Hermione Granger">Hermione Granger</a> (disguised as <a href="/wiki/Bellatrix_Lestrange" title="Bellatrix Lestrange">Bellatrix Lestrange</a>) and <a href="/wiki/Ronald_Weasley" title="Ronald Weasley">Ronald Weasley</a> (disguised as "Dragomir Despard") address. He later calls for <a href="/wiki/Bogrod" title="Bogrod">Bogrod</a>. In the <a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">novel</a>, <a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_2_(video_game)" title="Harry Potter and the Deathly Hallows: Part 2 (video game)">video game</a> and <a href="/wiki/LEGO_Harry_Potter:_Years_5-7" title="LEGO Harry Potter: Years 5-7">LEGO game</a>, however, they approach Bogrod from the beginning.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Ricbert?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Ricbert?action=edit&amp;section=4" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_2" title="Harry Potter and the Deathly Hallows: Part 2">Harry Potter and the Deathly Hallows: Part 2</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_2_(video_game)" title="Harry Potter and the Deathly Hallows: Part 2 (video game)">Harry Potter and the Deathly Hallows: Part 2 (video game)</a></i> <span class="template-c">(Nintendo DS version only)</span></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Ricbert?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Ricbert?action=edit&amp;section=5" title="Edit section: Notes and references

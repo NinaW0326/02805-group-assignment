@@ -1,0 +1,114 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-muggle pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/c/c2/Mr_Roberts.jpeg/revision/latest?cb=20181226211728" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/c/c2/Mr_Roberts.jpeg/revision/latest/scale-to-width-down/147?cb=20181226211728" srcset="https://static.wikia.nocookie.net/harrypotter/images/c/c2/Mr_Roberts.jpeg/revision/latest/scale-to-width-down/147?cb=20181226211728 1x, https://static.wikia.nocookie.net/harrypotter/images/c/c2/Mr_Roberts.jpeg/revision/latest/scale-to-width-down/294?cb=20181226211728 2x" class="pi-image-thumbnail" alt="" width="147" height="246"
+		     data-image-key="Mr_Roberts.jpeg" data-image-name="Mr Roberts.jpeg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Mr Roberts</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="marital">
+	
+		<h3 class="pi-data-label pi-secondary-font">Marital status</h3>
+	
+	<div class="pi-data-value pi-font">Married</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Roberts%27s_wife" title="Roberts&#039;s wife">Mrs Roberts</a> (wife) <br/></li><li><a href="/wiki/Roberts_children" title="Roberts children">Two children</a></li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Campsite manager</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Roberts_family" title="Roberts family">Roberts family</a></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Mr Roberts</b> was a <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> man who managed the <a href="/wiki/Roberts%27s_campsite" class="mw-redirect" title="Roberts&#39;s campsite">campsite</a> near where the <a href="/wiki/Quidditch_World_Cup" title="Quidditch World Cup">Quidditch World Cup</a> was held in <a href="/wiki/1994" title="1994">1994</a>.<sup id="cite_ref-GOF7_1-0" class="reference"><a href="#cite_note-GOF7-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Behind_the_scenes"><span class="tocnumber">2</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Appearances"><span class="tocnumber">3</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Notes_and_references"><span class="tocnumber">4</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Roberts?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Roberts?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>He lived with his <a href="/wiki/Roberts%27s_wife" title="Roberts&#39;s wife">wife</a> and <a href="/wiki/Roberts_children" title="Roberts children">two children</a> in a stone cottage at the front of the campground. His youngest child was a boy.<sup id="cite_ref-GOF7_1-1" class="reference"><a href="#cite_note-GOF7-1">&#91;1&#93;</a></sup>
+</p><p>Mr Roberts believed that his <a href="/wiki/Wizardkind" title="Wizardkind">wizarding</a> guests were confused with <a href="/wiki/Muggle_money" title="Muggle money">Muggle money</a> because they were all from out of the country; one even tried to pay him with a <a href="/wiki/Galleon" title="Galleon">galleon</a>. <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">Ministry of Magic</a> employees were required to perform <a href="/wiki/Memory_Charm" title="Memory Charm">Memory Charms</a> on him several times a day.<sup id="cite_ref-GOF7_1-2" class="reference"><a href="#cite_note-GOF7-1">&#91;1&#93;</a></sup>
+</p>
+<figure class="thumb tright show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/c/cf/Robertses_GOF_trailer.gif/revision/latest?cb=20181104170947" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/c/cf/Robertses_GOF_trailer.gif/revision/latest/scale-to-width-down/180?cb=20181104170947" decoding="async" width="180" height="77" class="thumbimage" data-image-name="Robertses GOF trailer.gif" data-image-key="Robertses_GOF_trailer.gif" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Robertses_GOF_trailer.gif" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Roberts and his family being levitated into the air by Death Eaters during the <a href="/wiki/Reappearance_of_the_Dark_Mark" title="Reappearance of the Dark Mark">riot</a></p> 		 	</figcaption> </figure>
+<p>The night after the <a href="/wiki/Quidditch" title="Quidditch">Quidditch</a> match, Mr Roberts, his wife, and their two children were all abducted by <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a>, who proceeded to <a href="/wiki/Levicorpus" title="Levicorpus">levitate</a> them through the air, and, like puppeteers controlling four marionettes with invisible strings, contorted the defenceless family into grotesque shapes and span them around mid-air as means to humiliate and frighten them.<sup id="cite_ref-GOF9_2-0" class="reference"><a href="#cite_note-GOF9-2">&#91;2&#93;</a></sup> When <a href="/wiki/Arthur_Weasley" title="Arthur Weasley">Arthur Weasley</a> and his party were leaving the campsite the following morning, Mr Roberts wished them a Merry <a href="/wiki/Christmas" title="Christmas">Christmas</a>, although it was the middle of summer. Mr Weasley explained that Mr Roberts had been left temporarily disoriented by the <a href="/wiki/Memory_Charm" title="Memory Charm">Memory Charm</a> that had been used to erase his memories of the Death Eater attack.<sup id="cite_ref-GOF10_3-0" class="reference"><a href="#cite_note-GOF10-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Roberts?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Roberts?action=edit&amp;section=2" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>The Robertses did not make it to the final cut of the <a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire_(film)" title="Harry Potter and the Goblet of Fire (film)">film adaptation</a> of <i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire" title="Harry Potter and the Goblet of Fire">Harry Potter and the Goblet of Fire</a></i>. A brief shot of them being tortured by Death Eaters during the <a href="/wiki/Reappearance_of_the_Dark_Mark" title="Reappearance of the Dark Mark">Quidditch World Cup riot</a> can be seen, however, in the film's official trailer.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Roberts?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Roberts?action=edit&amp;section=3" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire" title="Harry Potter and the Goblet of Fire">Harry Potter and the Goblet of Fire</a></i> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Roberts?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Roberts?action=edit&amp;section=4" title="Edit section: Notes and references

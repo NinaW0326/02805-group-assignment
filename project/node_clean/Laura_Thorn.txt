@@ -1,0 +1,129 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-muggle pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/8/84/Laura_Thorn.png/revision/latest?cb=20161027214400" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/8/84/Laura_Thorn.png/revision/latest/scale-to-width-down/306?cb=20161027214400" srcset="https://static.wikia.nocookie.net/harrypotter/images/8/84/Laura_Thorn.png/revision/latest/scale-to-width-down/306?cb=20161027214400 1x, https://static.wikia.nocookie.net/harrypotter/images/8/84/Laura_Thorn.png/revision/latest/scale-to-width-down/612?cb=20161027214400 2x" class="pi-image-thumbnail" alt="" width="270" height="412"
+		     data-image-key="Laura_Thorn.png" data-image-name="Laura Thorn.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Laura Thorn</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/England" title="England">English</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Blonde</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Hazel</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Laura_Thorn%27s_sister" title="Laura Thorn&#039;s sister">Sister</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>Professional monster hunter</li><li>Author</li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Fantastic Beasts: Cases from the Wizarding World">"<i>My head really hurts… Last I remember, I was in the Austrian Alps, chasing down a Yeti sighting… I'm a professional monster hunter you see — Laura Thorn, author of </i>Hoax and Dreams<i>. Perhaps you've read it?</i>"</span></dd>
+<dd>&#8212;Laura Thorn<sup class="noprint"><a href="/wiki/Fantastic_Beasts:_Cases_from_the_Wizarding_World" title="Fantastic Beasts: Cases from the Wizarding World">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Laura Thorn</b> was an <a href="/wiki/England" title="England">English</a> <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> professional monster hunter and author. She wrote at least one book, <i><a href="/wiki/Hoax_and_Dreams" title="Hoax and Dreams">Hoax and Dreams</a></i>, about her searches.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Behind_the_scenes"><span class="tocnumber">2</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Appearances"><span class="tocnumber">3</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Notes_and_references"><span class="tocnumber">4</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Laura_Thorn?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: History">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Laura_Thorn?action=edit&amp;section=1" title="Edit section: History"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Fantastic Beasts: Cases from the Wizarding World">"<i>I'm not coming out! I want answers! Why is this tent bigger on the inside? Why are you lot dressed so funny? What smashed up that pub? Why are you all carrying fancy little sticks?… And what's a </i>Muggle<i>?</i>"</span></dd>
+<dd>&#8212;Laura Thorn figures out about the <a href="/wiki/Wizarding_world" title="Wizarding world">wizarding world</a> before being <a href="/wiki/Memory_Charm" title="Memory Charm">Obliviated</a> by <a href="/wiki/Mathilda_Grimblehawk" title="Mathilda Grimblehawk">Mathilda Grimblehawk</a> and her <a href="/wiki/Mathilda_Grimblehawk%27s_partner" title="Mathilda Grimblehawk&#39;s partner">partner</a><sup class="noprint"><a href="/wiki/Fantastic_Beasts:_Cases_from_the_Wizarding_World" title="Fantastic Beasts: Cases from the Wizarding World">[src]</a></sup></dd>
+<dd></dd></dl></div><p>Laura Thorn lived in <a href="/wiki/London" title="London">London</a><sup id="cite_ref-FBC2.4_1-0" class="reference"><a href="#cite_note-FBC2.4-1">&#91;1&#93;</a></sup> and had at least one <a href="/wiki/Laura_Thorn%27s_sister" title="Laura Thorn&#39;s sister">sister</a>.<sup id="cite_ref-FBC2.3_2-0" class="reference"><a href="#cite_note-FBC2.3-2">&#91;2&#93;</a></sup> A professional monster hunter, she wrote at least one book about her search for mysterious creatures, <i><a href="/wiki/Hoax_and_Dreams" title="Hoax and Dreams">Hoax and Dreams</a></i>.
+</p><p>She went to the <a href="/wiki/Austria" title="Austria">Austrian</a> <a href="/wiki/Alps" title="Alps">Alps</a> to investigate a <a href="/wiki/Yeti" title="Yeti">Yeti</a> sighting at the same time that the <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> <a href="/wiki/Percival_Shacklehorn" title="Percival Shacklehorn">Percival Shacklehorn</a> was there hunting <a href="/wiki/Graphorn" title="Graphorn">Graphorn</a>. She followed tracks into <a href="/wiki/Percival_Shacklehorn%27s_tent" title="Percival Shacklehorn&#39;s tent">Shacklehorn's tent</a>. When something attacked her, she was forced to hide in a <a href="/wiki/Grandfather_clock" title="Grandfather clock">grandfather clock</a>.
+</p><p>She ultimately emerged from the tent in the <a href="/wiki/Leaky_Cauldron" title="Leaky Cauldron">Leaky Cauldron</a> and was responsible for setting off a <a href="/wiki/Sneakoscope" title="Sneakoscope">Sneakoscope</a> that had been <a href="/wiki/Mending_Charm" title="Mending Charm">magically mended</a>. <a href="/wiki/Mathilda_Grimblehawk" title="Mathilda Grimblehawk">Mathilda Grimblehawk</a> and her <a href="/wiki/Mathilda_Grimblehawk%27s_partner" title="Mathilda Grimblehawk&#39;s partner">partner</a> interviewed her as part of their investigation and her memory of the event was <a href="/wiki/Memory_Charm" title="Memory Charm">erased</a> by <a href="/wiki/St_Mungo%27s_Hospital_for_Magical_Maladies_and_Injuries" title="St Mungo&#39;s Hospital for Magical Maladies and Injuries">St Mungo's</a> <a href="/wiki/Healer" title="Healer">healer</a> <a href="/wiki/Omar_Abasi" title="Omar Abasi">Omar Abasi</a>.<sup id="cite_ref-FBC2.2_3-0" class="reference"><a href="#cite_note-FBC2.2-3">&#91;3&#93;</a></sup>
+</p><p>Later on, Laura Thorn went out to <a href="/wiki/Charing_Cross_Road" title="Charing Cross Road">Charing Cross Road</a> and started telling everyone about a big, grey monster. According to <a href="/wiki/Omar_Abasi" title="Omar Abasi">Omar Abasi</a>, his <a href="/wiki/Memory_Charm" title="Memory Charm">Memory Charm</a> might not have been entirely successful due to Laura Thorn's memory being refreshed by a certain smell.<sup id="cite_ref-FBC2.3_2-1" class="reference"><a href="#cite_note-FBC2.3-2">&#91;2&#93;</a></sup> Confining her to the <a href="/wiki/Leaky_Cauldron" title="Leaky Cauldron">Leaky Cauldron</a>, <a href="/wiki/Mathilda_Grimblehawk" title="Mathilda Grimblehawk">Mathilda Grimblehawk</a> and her <a href="/wiki/Mathilda_Grimblehawk%27s_partner" title="Mathilda Grimblehawk&#39;s partner">partner</a> then looked for possible odorous objects that could be reminding her of the magical beast that tried to attack her in the tent. <a href="/wiki/Omar_Abasi" title="Omar Abasi">Omar Abasi</a> then set up a smell test comprised of a bottle of <a href="/wiki/Pumpkin_Juice" title="Pumpkin Juice">pumpkin juice</a>, a bottle of <a href="/wiki/Mrs_Skower%27s_All-Purpose_Magical_Mess_Remover" title="Mrs Skower&#39;s All-Purpose Magical Mess Remover">Mrs Skower's All-Purpose Magical Mess Remover</a>, and <a href="/wiki/Percival_Shacklehorn%27s_socks" title="Percival Shacklehorn&#39;s socks">a pair of Shacklehorn's socks</a>. Laura responded to this last item, and then escaped back into Shacklehorn's tent while Abasi was busy brewing her a <a href="/wiki/Calming_Draught" title="Calming Draught">Calming Draught</a>.
+</p><p><a href="/wiki/Mathilda_Grimblehawk" title="Mathilda Grimblehawk">Mathilda Grimblehawk</a> and her <a href="/wiki/Mathilda_Grimblehawk%27s_partner" title="Mathilda Grimblehawk&#39;s partner">partner</a> then briefly confronted Laura Thorn, who figured out that they were <a href="/wiki/Wizardkind" title="Wizardkind">wizards</a> and that magical creatures <i>really</i> existed. She was then taken to <a href="/wiki/St_Mungo%27s_Hospital_for_Magical_Maladies_and_Injuries" title="St Mungo&#39;s Hospital for Magical Maladies and Injuries">St Mungo's Hospital for Magical Maladies and Injuries</a>, and her memory erased again, before being let go in <a href="/wiki/London" title="London">London</a>, mildly confused about how she had returned from the <a href="/wiki/Alps" title="Alps">Alps</a>.<sup id="cite_ref-FBC2.4_1-1" class="reference"><a href="#cite_note-FBC2.4-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Laura_Thorn?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Laura_Thorn?action=edit&amp;section=2" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Before she introduces herself to the player, Laura's lines are identified as those of "Ruffled Stowaway". She is also repeatedly referred to as the "Monster Hunter".</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Laura_Thorn?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Laura_Thorn?action=edit&amp;section=3" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Fantastic_Beasts:_Cases_from_the_Wizarding_World" title="Fantastic Beasts: Cases from the Wizarding World">Fantastic Beasts: Cases from the Wizarding World</a></i> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Laura_Thorn?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Laura_Thorn?action=edit&amp;section=4" title="Edit section: Notes and references

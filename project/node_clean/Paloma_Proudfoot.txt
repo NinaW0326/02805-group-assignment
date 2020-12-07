@@ -1,0 +1,134 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-macusa pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/f/fa/PalomaProudfoot.png/revision/latest?cb=20161212201224" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/f/fa/PalomaProudfoot.png/revision/latest/scale-to-width-down/211?cb=20161212201224" srcset="https://static.wikia.nocookie.net/harrypotter/images/f/fa/PalomaProudfoot.png/revision/latest/scale-to-width-down/211?cb=20161212201224 1x, https://static.wikia.nocookie.net/harrypotter/images/f/fa/PalomaProudfoot.png/revision/latest/scale-to-width-down/422?cb=20161212201224 2x" class="pi-image-thumbnail" alt="" width="211" height="271"
+		     data-image-key="PalomaProudfoot.png" data-image-name="PalomaProudfoot.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Paloma Proudfoot</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/8_October" title="8 October">8 October</a>, <a href="/wiki/1900" title="1900">1900</a><sup id="cite_ref-ID_1-0" class="reference"><a href="#cite_note-ID-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Magic" title="Magic">Magical</a> to unknown extent</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font">American</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="signature">
+	
+		<h3 class="pi-data-label pi-secondary-font">Signature</h3>
+	
+	<div class="pi-data-value pi-font"><a href="https://static.wikia.nocookie.net/harrypotter/images/e/e8/Paloma_Proudfoot_sig.svg/revision/latest?cb=20161212200731" class="image"><img alt="Paloma Proudfoot sig.svg" src="https://static.wikia.nocookie.net/harrypotter/images/e/e8/Paloma_Proudfoot_sig.svg/revision/latest/scale-to-width-down/125?cb=20161212200731" decoding="async" width="125" height="56" data-image-name="Paloma Proudfoot sig.svg" data-image-key="Paloma_Proudfoot_sig.svg" /></a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="height">
+	
+		<h3 class="pi-data-label pi-secondary-font">Height</h3>
+	
+	<div class="pi-data-value pi-font">5' 8"<sup id="cite_ref-ID_1-1" class="reference"><a href="#cite_note-ID-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Brown<sup id="cite_ref-ID_1-2" class="reference"><a href="#cite_note-ID-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Blue<sup id="cite_ref-ID_1-3" class="reference"><a href="#cite_note-ID-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White<sup id="cite_ref-ID_1-4" class="reference"><a href="#cite_note-ID-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Proudfoot" title="Proudfoot">Proudfoot</a> (possibly)</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Surveillor_of_Activity" title="Surveillor of Activity">Surveillor of Activity</a><sup id="cite_ref-ID_1-5" class="reference"><a href="#cite_note-ID-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Magical_Congress_of_the_United_States_of_America" title="Magical Congress of the United States of America">Magical Congress of the United States of America</a></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+<b>Paloma Proudfoot</b> (b. <a href="/wiki/8_October" title="8 October">8 October</a>, <a href="/wiki/1900" title="1900">1900</a>) was an American <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> who worked as a <a href="/wiki/Surveillor_of_Activity" title="Surveillor of Activity">Surveillor of Activity</a> for the <a href="/wiki/Magical_Congress_of_the_United_States_of_America" title="Magical Congress of the United States of America">Magical Congress of the United States of America</a> in <a href="/wiki/1926" title="1926">1926</a>.<sup id="cite_ref-ID_1-6" class="reference"><a href="#cite_note-ID-1">&#91;1&#93;</a></sup> She lived at <a href="/wiki/76_Monroe_Street" title="76 Monroe Street">76</a> <a href="/wiki/Monroe_Street" title="Monroe Street">Monroe Street</a> in <a href="/wiki/New_York" title="New York">New York</a>.<sup id="cite_ref-ID_1-7" class="reference"><a href="#cite_note-ID-1">&#91;1&#93;</a></sup>
+</p><p>She may have been related to the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">British</a> <a href="/wiki/Auror" title="Auror">Auror</a> <a href="/wiki/Proudfoot" title="Proudfoot">Proudfoot</a>.
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Paloma_Proudfoot?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Paloma_Proudfoot?action=edit&amp;section=1" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(film)" title="Fantastic Beasts and Where to Find Them (film)">Fantastic Beasts and Where to Find Them (film)</a></i> <small>(Appears in photographs)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Paloma_Proudfoot?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Paloma_Proudfoot?action=edit&amp;section=2" title="Edit section: Notes and references

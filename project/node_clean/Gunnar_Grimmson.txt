@@ -1,0 +1,129 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-grindelwald-acolyte pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/c/c4/Grimmson2.jpeg/revision/latest?cb=20181218033203" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/c/c4/Grimmson2.jpeg/revision/latest/scale-to-width-down/251?cb=20181218033203" srcset="https://static.wikia.nocookie.net/harrypotter/images/c/c4/Grimmson2.jpeg/revision/latest/scale-to-width-down/251?cb=20181218033203 1x, https://static.wikia.nocookie.net/harrypotter/images/c/c4/Grimmson2.jpeg/revision/latest/scale-to-width-down/502?cb=20181218033203 2x" class="pi-image-thumbnail" alt="" width="251" height="301"
+		     data-image-key="Grimmson2.jpeg" data-image-name="Grimmson2.jpeg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Gunnar Grimmson</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">Before <a href="/wiki/1927" title="1927">1927</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-COGS_1-0" class="reference"><a href="#cite_note-COGS-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male<sup id="cite_ref-COGS_1-1" class="reference"><a href="#cite_note-COGS-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Dirty blonde</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Magical characteristics</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="wand">
+	
+		<h3 class="pi-data-label pi-secondary-font">Wand</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Gunnar_Grimmson%27s_wand" title="Gunnar Grimmson&#039;s wand">Unknown length, wood and core</a><sup id="cite_ref-COGS_1-2" class="reference"><a href="#cite_note-COGS-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Bounty_hunter" title="Bounty hunter">Bounty hunter</a><sup id="cite_ref-COGS_1-3" class="reference"><a href="#cite_note-COGS-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">British Ministry of Magic</a><sup id="cite_ref-COGS_1-4" class="reference"><a href="#cite_note-COGS-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/Gellert_Grindelwald" title="Gellert Grindelwald">Gellert Grindelwald</a><sup id="cite_ref-COGS_1-5" class="reference"><a href="#cite_note-COGS-1">&#91;1&#93;</a></sup><ul><li><a href="/wiki/Alliance" title="Alliance">The Alliance</a><sup id="cite_ref-COGS_1-6" class="reference"><a href="#cite_note-COGS-1">&#91;1&#93;</a></sup></li></ul></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Gunnar<sup id="cite_ref-Archive_2-0" class="reference"><a href="#cite_note-Archive-2">&#91;2&#93;</a></sup> Grimmson</b> (fl. <a href="/wiki/1927" title="1927">1927</a>) was a <a href="/wiki/Dark_Wizard" title="Dark Wizard">Dark Wizard</a> that worked as a <a href="/wiki/Bounty_hunter" title="Bounty hunter">bounty hunter</a> in the <a href="/wiki/1920s" title="1920s">1920s</a>, who was also a follower of <a href="/wiki/Gellert_Grindelwald" title="Gellert Grindelwald">Gellert Grindelwald</a>.<sup id="cite_ref-pmn_3-0" class="reference"><a href="#cite_note-pmn-3">&#91;3&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Personality_and_traits"><span class="tocnumber">2</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Magical_abilities_and_skills"><span class="tocnumber">3</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Etymology"><span class="tocnumber">4</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Behind_the_scenes"><span class="tocnumber">5</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Appearances"><span class="tocnumber">6</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Notes_and_references"><span class="tocnumber">7</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gunnar_Grimmson?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gunnar_Grimmson?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>After <a href="/wiki/Newton_Scamander" title="Newton Scamander">Newton Scamander</a> refused to assist the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">British Ministry of Magic</a>, Grimmson was hired to travel to <a href="/wiki/Paris" title="Paris">Paris</a> in order to kill <a href="/wiki/Credence_Barebone" title="Credence Barebone">Credence Barebone</a>. Grimmson also, however, secretly received instructions from <a href="/wiki/Gellert_Grindelwald" title="Gellert Grindelwald">Gellert Grindelwald</a> to kill <a href="/wiki/Irma_Dugard" title="Irma Dugard">Irma Dugard</a>, to deprive Credence of the answers he was seeking and to push him into Grindelwald's arms. Grimmson accomplished his task during a swift <a href="/wiki/Attack_on_Irma_Dugard" title="Attack on Irma Dugard">attack</a>. Credence attempted to stop and slay Grimmson in revenge, but the latter was able to maintain a particularly strong protective <a href="/wiki/Shield_Charm" title="Shield Charm">Shield Charm</a> to protect himself from Credence's <a href="/wiki/Obscurial" title="Obscurial">Obscurial</a> form long enough to <a href="/wiki/Apparition" title="Apparition">Disapparate</a> and escape.<sup id="cite_ref-COGS_1-7" class="reference"><a href="#cite_note-COGS-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gunnar_Grimmson?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Personality and traits">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gunnar_Grimmson?action=edit&amp;section=2" title="Edit section: Personality and traits"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Due to his status as a <a href="/wiki/Bounty_hunter" title="Bounty hunter">Bounty hunter</a> for the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">British Ministry of Magic</a>, Gunnar Grimmson was an intensely malevolent and sinister individual, with a vocal and mutual dislike of <a href="/wiki/Newton_Scamander" title="Newton Scamander">Newt Scamander</a>, and seemingly only being loyal to <a href="/wiki/Gellert_Grindelwald" title="Gellert Grindelwald">Gellert Grindelwald</a>.<sup id="cite_ref-COGS_1-8" class="reference"><a href="#cite_note-COGS-1">&#91;1&#93;</a></sup>
+</p><p>Indeed, Grimmson was the polar opposite of <a href="/wiki/Newton_Scamander" title="Newton Scamander">Newt Scamander</a> - Newt was a kindly caretaker of <a href="/wiki/Beast" title="Beast">beasts</a>, while Grimmson was a vicious beast hunter. He was also a cold-blooded and merciless killer, as he coldly and swiftly murdered <a href="/wiki/Irma_Dugard" title="Irma Dugard">Irma Dugard</a> with the <a href="/wiki/Killing_Curse" title="Killing Curse">Killing Curse</a> in order to fulfil Grindelwald's wishes, showing him to be a very dangerous <a href="/wiki/Dark_Wizard" title="Dark Wizard">Dark Wizard</a>.<sup id="cite_ref-COGS_1-9" class="reference"><a href="#cite_note-COGS-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gunnar_Grimmson?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gunnar_Grimmson?action=edit&amp;section=3" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Bounty_hunter" title="Bounty hunter">Bounty hunter</a> skills</b>: Gunnar Grimmson was a highly skilled bounty hunter, since the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">British Ministry of Magic</a> trusted him with the important mission of tracking down and killing the extremely dangerous <a href="/wiki/Obscurial" title="Obscurial">Obscurial</a> <a href="/wiki/Credence_Barebone" title="Credence Barebone">Credence Barebone</a>, while <a href="/wiki/Gellert_Grindelwald" title="Gellert Grindelwald">Gellert Grindelwald</a> trusted Grimmson to kill <a href="/wiki/Irma_Dugard" title="Irma Dugard">Irma Dugard</a>.<sup id="cite_ref-COGS_1-10" class="reference"><a href="#cite_note-COGS-1">&#91;1&#93;</a></sup></li></ul>
+<figure class="thumb tright show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/e/e8/Grimmson_kills_Irma.gif/revision/latest?cb=20190820164605" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/e/e8/Grimmson_kills_Irma.gif/revision/latest/scale-to-width-down/180?cb=20190820164605" decoding="async" width="180" height="75" class="thumbimage" data-image-name="Grimmson kills Irma.gif" data-image-key="Grimmson_kills_Irma.gif" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Grimmson_kills_Irma.gif" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Grimmson ruthlessly and swiftly killing Irma Durgard</p> 		 	</figcaption> </figure>
+<ul><li><b><a href="/wiki/Dark_Arts" title="Dark Arts">Dark Arts</a></b>: Grimmson, as a bounty hunter, was highly proficient in the Dark Arts, swiftly casting the <a href="/wiki/Killing_Curse" title="Killing Curse">Killing Curse</a> which killed Irma Dugard. Casting the <a href="/wiki/Unforgivable_Curses" title="Unforgivable Curses">Unforgivable Curses</a> require considerable <a href="/wiki/Magic" title="Magic">magical</a> skill and malice to perform correctly. Grimmson also used a <a href="/wiki/Spell" title="Spell">spell</a> or <a href="/wiki/Curse" title="Curse">curse</a> that made Nagini stick to the wall, with seemingly no way to escape until Credence destroyed the wall she was stuck in.<sup id="cite_ref-COGS_1-11" class="reference"><a href="#cite_note-COGS-1">&#91;1&#93;</a></sup></li>
+<li><b><a href="/wiki/Charm" title="Charm">Charms</a></b>: Grimmson seemed to be very skilled with charms, as he was able to cast and maintain an extremely powerful <a href="/wiki/Shield_Charm" title="Shield Charm">Shield Charm</a>, enough to block the devastating attacks of Credence's <a href="/wiki/Obscurus" title="Obscurus">Obscurus</a> long enough to Disapparate away to safety.<sup id="cite_ref-COGS_1-12" class="reference"><a href="#cite_note-COGS-1">&#91;1&#93;</a></sup></li>
+<li><b><a href="/wiki/Apparition" title="Apparition">Apparition</a></b>: Grimmson, like most adult wizards, was capable of Apparating at will, though he seemed more skilled than most, managing to Disapparate from Credence without relinquishing his Shield Charm until the very moment he was gone, without losing concentration.<sup id="cite_ref-COGS_1-13" class="reference"><a href="#cite_note-COGS-1">&#91;1&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gunnar_Grimmson?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gunnar_Grimmson?action=edit&amp;section=4" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Gunnar is a name of Nordic origin (Gunnarr in Old Norse), meaning &#160;fighter, soldier, and attacker, and stem from an old Viking saying which means "Brave and bold warrior". (G<i>unnr</i>&#160;"war" and&#160;<i>arr</i>&#160;"warrior").</li>
+<li>Grimmson is a patronymic name of Icelandic origin meaning "son of Grímur," ultimately meaning "fierce", "to thunder," or (in the context of an alternate name for Odin), "mask."</li></ul>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gunnar_Grimmson?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gunnar_Grimmson?action=edit&amp;section=5" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Grimmson was played by <a href="/wiki/Ingvar_Eggert_Sigur%C3%B0sson" title="Ingvar Eggert Sigurðsson">Ingvar Eggert Sigurðsson</a> in <i><a href="/wiki/Fantastic_Beasts:_The_Crimes_of_Grindelwald" title="Fantastic Beasts: The Crimes of Grindelwald">Fantastic Beasts: The Crimes of Grindelwald</a></i>.<sup id="cite_ref-pmn_3-1" class="reference"><a href="#cite_note-pmn-3">&#91;3&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gunnar_Grimmson?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gunnar_Grimmson?action=edit&amp;section=6" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 8 images related to <i><b><a href="/wiki/Category:Images_of_Gunnar_Grimmson" title="Category:Images of Gunnar Grimmson">Gunnar Grimmson</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<ul><li><i><a href="/wiki/Fantastic_Beasts:_The_Crimes_of_Grindelwald_-_The_Original_Screenplay" title="Fantastic Beasts: The Crimes of Grindelwald - The Original Screenplay">Fantastic Beasts: The Crimes of Grindelwald - The Original Screenplay</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Fantastic_Beasts:_The_Crimes_of_Grindelwald" title="Fantastic Beasts: The Crimes of Grindelwald">Fantastic Beasts: The Crimes of Grindelwald</a></i></li>
+<li><i><a href="/wiki/The_Archive_of_Magic:_The_Film_Wizardry_of_Fantastic_Beasts:_The_Crimes_of_Grindelwald" title="The Archive of Magic: The Film Wizardry of Fantastic Beasts: The Crimes of Grindelwald">The Archive of Magic: The Film Wizardry of Fantastic Beasts: The Crimes of Grindelwald</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gunnar_Grimmson?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gunnar_Grimmson?action=edit&amp;section=7" title="Edit section: Notes and references

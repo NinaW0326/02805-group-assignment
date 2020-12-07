@@ -1,0 +1,88 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-portrait pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/f/ff/D01LUiYrAaM.jpg/revision/latest?cb=20141127203551" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/f/ff/D01LUiYrAaM.jpg/revision/latest/scale-to-width-down/252?cb=20141127203551" srcset="https://static.wikia.nocookie.net/harrypotter/images/f/ff/D01LUiYrAaM.jpg/revision/latest/scale-to-width-down/252?cb=20141127203551 1x, https://static.wikia.nocookie.net/harrypotter/images/f/ff/D01LUiYrAaM.jpg/revision/latest/scale-to-width-down/504?cb=20141127203551 2x" class="pi-image-thumbnail" alt="" width="252" height="500"
+		     data-image-key="D01LUiYrAaM.jpg" data-image-name="D01LUiYrAaM.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Seraphina Bones</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Red</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Amelia_Bones" title="Amelia Bones">Amelia Bones</a> (possible descendant)</li><li><a href="/wiki/Susan_Bones" title="Susan Bones">Susan Bones</a> (possible descendant)</li><li><a href="/wiki/Bones_family" title="Bones family">Bones family</a></li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="house">
+	
+		<h3 class="pi-data-label pi-secondary-font">House</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Hufflepuff" title="Hufflepuff">Hufflepuff</a> (possibly)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Bones_family" title="Bones family">Bones family</a></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Seraphina Bones</b> was a <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> whose <a href="/wiki/Portrait" title="Portrait">portrait</a> hung at <a href="/wiki/Hogwarts_Castle" title="Hogwarts Castle">Hogwarts Castle</a> in the <a href="/wiki/1990s" title="1990s">1990s</a>.<sup id="cite_ref-HPLE_2-0" class="reference"><a href="#cite_note-HPLE-2">&#91;2&#93;</a></sup> It is possible that Seraphina is a forerunner of the <a href="/wiki/Bones_family" title="Bones family">Bones family</a>, which was active in the <a href="/wiki/20th_century" title="20th century">20th century</a>.
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Seraphina_Bones?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Seraphina_Bones?action=edit&amp;section=1" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>This portrait was based on a <a target="_blank" rel="noreferrer noopener" class="external text" href="http://uploads3.wikipaintings.org/images/john-singer-sargent/miss-elsie-palmer-1890.jpg">1890 portrait of Elsie Palmer (1873–1955)</a>, by <a href="http://en.wikipedia.org/wiki/John_Singer_Sargent" class="extiw" title="wikipedia:John Singer Sargent">John Singer Sargent (1856–1925)</a>, currently at <a href="http://en.wikipedia.org/wiki/Colorado_Springs_Fine_Arts_Center" class="extiw" title="wikipedia:Colorado Springs Fine Arts Center">Colorado Springs Fine Arts Center</a>.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Seraphina_Bones?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Seraphina_Bones?action=edit&amp;section=2" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Harry_Potter_films" class="mw-redirect" title="Harry Potter films"><i>Harry Potter</i> films</a> <small>(Appears in portrait(s))</small></li>
+<li><i><a href="/wiki/Harry_Potter_Limited_Edition" title="Harry Potter Limited Edition">Harry Potter Limited Edition</a></i> <small>(Appears in portrait(s))</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Seraphina_Bones?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Seraphina_Bones?action=edit&amp;section=3" title="Edit section: Notes and references

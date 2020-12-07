@@ -1,0 +1,182 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-mom pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/2/23/Bob_Ogden.jpg/revision/latest?cb=20090801003844" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/2/23/Bob_Ogden.jpg/revision/latest/scale-to-width-down/240?cb=20090801003844" srcset="https://static.wikia.nocookie.net/harrypotter/images/2/23/Bob_Ogden.jpg/revision/latest/scale-to-width-down/240?cb=20090801003844 1x, https://static.wikia.nocookie.net/harrypotter/images/2/23/Bob_Ogden.jpg/revision/latest/scale-to-width-down/480?cb=20090801003844 2x" class="pi-image-thumbnail" alt="" width="240" height="334"
+		     data-image-key="Bob_Ogden.jpg" data-image-name="Bob Ogden.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Bob Ogden</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">1908 at the latest<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font">Some time before <a href="/wiki/7_September" title="7 September">7 September</a>, <a href="/wiki/1996" title="1996">1996</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Half-blood" title="Half-blood">Half-blood</a> or <a href="/wiki/Pure-blood" title="Pure-blood">Pure-blood</a> (likely)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Tiberius_Ogden" title="Tiberius Ogden">Tiberius Ogden</a> (possibly)</li><li><a href="/wiki/Ogden" title="Ogden">Ogden</a> (possibly)</li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Magical characteristics</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="wand">
+	
+		<h3 class="pi-data-label pi-secondary-font">Wand</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Bob_Ogden%27s_wand" title="Bob Ogden&#039;s wand">Unknown wood, length and core materials</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Head of the <a href="/wiki/Magical_Law_Enforcement_Patrol" title="Magical Law Enforcement Patrol">Magical Law Enforcement Squad</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">British Ministry of Magic</a><ul><li><a href="/wiki/Department_of_Magical_Law_Enforcement" title="Department of Magical Law Enforcement">Department of Magical Law Enforcement</a></li></ul></li><li><a href="/wiki/Ogden_family" title="Ogden family">Ogden family</a></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span><b>Bob Ogden</b>: "<i>Mr Gaunt, as I've said: the reason for my visit–</i>"</span></dd>
+<dd><b>Marvolo Gaunt</b>: "<i>I heard you the first time! And so what? <a href="/wiki/Morfin_Gaunt" title="Morfin Gaunt">Morfin</a> gave a <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> a bit of what was coming to <a href="/wiki/Tom_Riddle_Senior" title="Tom Riddle Senior">him</a> – what about it, then?</i>"</dd>
+<dd><b>Bob Ogden</b>: "<i>Morfin has broken wizarding law.</i>"</dd>
+<dd><b>Marvolo Gaunt</b>: "'<i>Morfin has broken wizarding law'. He taught a filthy Muggle a lesson, that's illegal now, is it?</i>"</dd>
+<dd><b>Bob Ogden</b>: "<i>Yes, I'm afraid it is.</i>"</dd>
+<dd>&#8212; Bob Ogden talking with <a href="/wiki/Marvolo_Gaunt" title="Marvolo Gaunt">Marvolo Gaunt</a> at the <a href="/wiki/Gaunt_Shack" title="Gaunt Shack">Gaunt Shack</a> in the <a href="/wiki/1920" title="1920">1920s</a><sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">[src]</a></sup></dd></dl>
+</div>
+<p><b>Bob Ogden</b> (fl. <a href="/wiki/1925" title="1925">1925</a>) was a <a href="/wiki/Great_Britain" title="Great Britain">British</a> <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> who worked in the <a href="/wiki/Department_of_Magical_Law_Enforcement" title="Department of Magical Law Enforcement">Department of Magical Law Enforcement</a>, a department of the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">Ministry of Magic</a>, and led the <a href="/wiki/Magical_Law_Enforcement_Patrol" title="Magical Law Enforcement Patrol">Magical Law Enforcement Squad</a> in the <a href="/wiki/1920s" title="1920s">1920s</a>. As part of his duties, he once visited the <a href="/wiki/Gaunt_Shack" title="Gaunt Shack">Gaunt Shack</a>, as the Department believed that <a href="/wiki/Morfin_Gaunt" title="Morfin Gaunt">Morfin Gaunt</a> had not only performed <a href="/wiki/Magic" title="Magic">magic</a> in front of a <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> but also accosted that Muggle, <a href="/wiki/Tom_Riddle_Senior" title="Tom Riddle Senior">Tom Riddle Snr</a>, and performed a <a href="/wiki/Jinx" title="Jinx">jinx</a> or <a href="/wiki/Hex" title="Hex">hex</a> on him. After encountering little cooperation from the inhabitants of the <a href="/wiki/Gaunt_Shack" title="Gaunt Shack">Gaunt Shack</a>, Ogden <a href="/wiki/Apparition" title="Apparition">Apparated</a> to the Ministry then returned with reinforcements, with whom he overpowered the Gaunts and subsequently turned them over to the <a href="/wiki/Wizengamot" title="Wizengamot">Wizengamot</a> to await judgement. His life after this incident is unknown, but he died sometime before <a href="/wiki/7_September" title="7 September">7 September</a> <a href="/wiki/1996" title="1996">1996</a> of natural causes.<sup id="cite_ref-HBP10_4-0" class="reference"><a href="#cite_note-HBP10-4">&#91;4&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_life"><span class="tocnumber">1.1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Professional_life"><span class="tocnumber">1.2</span> <span class="toctext">Professional life</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Visit_to_the_Gaunt_shack"><span class="tocnumber">1.3</span> <span class="toctext">Visit to the Gaunt shack</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Death"><span class="tocnumber">1.4</span> <span class="toctext">Death</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Physical_appearance"><span class="tocnumber">2</span> <span class="toctext">Physical appearance</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Personality_and_traits"><span class="tocnumber">3</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Magical_abilities_and_skills"><span class="tocnumber">4</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Behind_the_scenes"><span class="tocnumber">5</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Appearances"><span class="tocnumber">6</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Notes_and_references"><span class="tocnumber">7</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Bob_Ogden?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Bob_Ogden?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Bob_Ogden?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Early life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Bob_Ogden?action=edit&amp;section=2" title="Edit section: Early life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Ogden was born either under a pure wizarding family or under a half-Muggle, half-wizarding family. He also seemed to have trouble disguising as a Muggle like most wizards, thereby ruling out the possibility that he was a Muggle-born. He presumably attended <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a>, and after Hogwarts was employed by the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">Ministry of Magic</a>.<sup id="cite_ref-HBP10_4-1" class="reference"><a href="#cite_note-HBP10-4">&#91;4&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Professional_life">Professional life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Bob_Ogden?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Professional life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Bob_Ogden?action=edit&amp;section=3" title="Edit section: Professional life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Ogden was employed by the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">Ministry of Magic</a> and worked at the <a href="/wiki/Department_of_Magical_Law_Enforcement" title="Department of Magical Law Enforcement">Department of Magical Law Enforcement</a>. He eventually rose to become head of the <a href="/wiki/Magical_Law_Enforcement_Patrol" title="Magical Law Enforcement Patrol">Magical Law Enforcement Squad</a>.<sup id="cite_ref-HBP10_4-2" class="reference"><a href="#cite_note-HBP10-4">&#91;4&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Visit_to_the_Gaunt_shack">Visit to the Gaunt shack</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Bob_Ogden?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Visit to the Gaunt shack">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Bob_Ogden?action=edit&amp;section=4" title="Edit section: Visit to the Gaunt shack"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="thumb tleft show-info-icon" style="width: 232px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/c/cf/Bob_Ogden_Gaunt_Shack.jpg/revision/latest?cb=20090801004254" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/c/cf/Bob_Ogden_Gaunt_Shack.jpg/revision/latest/scale-to-width-down/230?cb=20090801004254" decoding="async" width="230" height="184" class="thumbimage" data-image-name="Bob Ogden Gaunt Shack.jpg" data-image-key="Bob_Ogden_Gaunt_Shack.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Bob_Ogden_Gaunt_Shack.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Ogden approaching the <a href="/wiki/Gaunt_Shack" title="Gaunt Shack">Gaunt Shack</a></p> 		 	</figcaption> </figure>
+<p>Around the <a href="/wiki/1925" title="1925">1920s</a>, Ogden, "disguised" in a strange assortment of <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> clothes (due to his inexperience with trying to look like Muggles) which included a frock-coat and spats over a striped men's one-piece suit, went to the <a href="/wiki/Gaunt_Shack" title="Gaunt Shack">Gaunt Shack</a>, to interview one of its occupants. The Department had reason to believe that not only did <a href="/wiki/Morfin_Gaunt" title="Morfin Gaunt">Morfin Gaunt</a> perform magic in front of a Muggle the previous night, but he accosted that same Muggle and performed a <a href="/wiki/Jinx" title="Jinx">jinx</a> or <a href="/wiki/Hex" title="Hex">hex</a> on him (<a href="/wiki/Tom_Riddle_Senior" title="Tom Riddle Senior">Tom Riddle Snr</a>) and caused him to <a href="/wiki/Hive-conjuring_spell" title="Hive-conjuring spell">erupt in highly painful hives</a>.<sup id="cite_ref-HBP10_4-3" class="reference"><a href="#cite_note-HBP10-4">&#91;4&#93;</a></sup>
+</p><p>Upon arrival, Ogden was shocked when he found himself held at knife and wand-point by Morfin and was unable to understand his use of <a href="/wiki/Parseltongue" title="Parseltongue">Parseltongue</a>, in which Morfin commanded Ogden to scram. Morfin then fired <a href="/wiki/Morfin_Gaunt%27s_jinx" class="mw-redirect" title="Morfin Gaunt&#39;s jinx">a jinx that temporarily damaged Ogden's nose</a>. Ogden, stunned by this, was thrust backwards and collided with two Muggles, one being the same Muggle who had been the victim of the crime in question and the other his <a href="/wiki/Cecilia" title="Cecilia">lady friend</a>. After regaining his senses, Ogden apologised to the Muggles and continued his mission to serve a warrant to Morfin. Morfin's father, <a href="/wiki/Marvolo_Gaunt" title="Marvolo Gaunt">Marvolo Gaunt</a>, who instead used English, called Morfin off and confronted Ogden. Ogden was polite and courteous and was reluctantly allowed to enter to discuss Morfin's serious breach of wizarding law which occurred in the early hours of that morning.<sup id="cite_ref-HBP10_4-4" class="reference"><a href="#cite_note-HBP10-4">&#91;4&#93;</a></sup>
+</p><p>Upon entry into the dilapidated and filthy shack, Ogden politely greeted the third and final occupant, <a href="/wiki/Merope_Riddle" title="Merope Riddle">Merope Gaunt</a>, and then engaged in conversation with Marvolo, informing him of Morfin's crimes. Ogden had said that the Ministry sent an Owl earlier in the day, but Marvolo snidely remarked he had no use for Owls, as in his view, reading was for wimps, to which Ogden replied that the Gaunt men had no excuse for ignoring a police order. Ogden witnessed the deplorable treatment of Merope by her family and Marvolo's stubbornness and belief in pure-blood superiority, ignoring Ogden's claim that Morfin had broken wizarding law and proclaiming Muggles "had it coming to them." Ogden then pulled out a small scroll of parchment, which he revealed was a summons to a Ministry hearing, though this made matters far worse, as Marvolo went into a tirade about how their "superior" family should not be summoned by anyone. Ogden justified that it was his right as Head of the Magical Law Enforcement Squad that allowed him to summon suspects of magical crime and largely ignored Marvolo's ranting. Afterward, Ogden said that Morfin made an unjustified attack on the defenceless Muggle, which warranted investigation and punishment.<sup id="cite_ref-HBP10_4-5" class="reference"><a href="#cite_note-HBP10-4">&#91;4&#93;</a></sup>
+</p><p>Seeing that their discussion was getting them nowhere, Ogden rose to leave, informing Marvolo of the time and date of the hearing and Morfin's expectancy to attend it, when suddenly the three people began using Parseltongue again, leaving Ogden bewildered and irritated by the sudden outbreak of incomprehensible language usage. Marvolo suddenly lunged to choke Merope, and Ogden, concerned for her safety, promptly performed a <a href="/wiki/Revulsion_Jinx" title="Revulsion Jinx">Revulsion Jinx</a>, making Marvolo fall away, but causing Morfin to begin firing <a href="/wiki/Hex" title="Hex">hexes</a> indiscriminately at him. Ogden fled for his life. As he left, Ogden was hit by the Muggle victim, Tom Riddle Snr's horse carriage, and, after a brief moment of disorientation, Ogden set off again, <a href="/wiki/Apparition" title="Apparition">Apparating</a> back to the Ministry and returned with reinforcements within fifteen minutes. Ogden and his men overpowered the Gaunts when they attempted to fight, removed them from the cottage, and turned them over to the <a href="/wiki/Wizengamot" title="Wizengamot">Wizengamot</a>, where they passed judgement.<sup id="cite_ref-HBP10_4-6" class="reference"><a href="#cite_note-HBP10-4">&#91;4&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Death">Death</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Bob_Ogden?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Death">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Bob_Ogden?action=edit&amp;section=5" title="Edit section: Death"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Half-Blood Prince"><b>Harry Potter</b>: "<i>Who was Bob Ogden?</i>"</span></dd>
+<dd><b>Albus Dumbledore</b>: "<i>He was employed by the <a href="/wiki/Department_of_Magical_Law_Enforcement" title="Department of Magical Law Enforcement">Department of Magical Law Enforcement</a>. He died some time ago but not before I tracked him down and persuaded him to confide these recollections to me. We are about to accompany him on a visit he made in the course of his duties.</i>"</dd>
+<dd>&#8212; Harry Potter and Albus Dumbledore before entering Ogden's memory<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">[src]</a></sup></dd></dl>
+</div><p>Ogden died some time before <a href="/wiki/7_September" title="7 September">7 September</a>, <a href="/wiki/1996" title="1996">1996</a>, of natural causes, but not before <a href="/wiki/Albus_Dumbledore" title="Albus Dumbledore">Albus Dumbledore</a>, during his investigations into <a href="/wiki/Tom_Riddle" title="Tom Riddle">Lord Voldemort</a>'s mysterious past, tracked him down and persuaded Ogden to confide his recollections of his encounter with the Gaunt family to him. These memories were placed in his <a href="/wiki/Pensieve" title="Pensieve">Pensieve</a> and later shown to <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a>. Ogden remained unaware that his actions set the stage for the creation and rise of Voldemort himself. Although Bob Ogden had helped set the events into motion, he did so in the performance of his police duties, and would have never done so had Morfin Gaunt kept the wizard law. Ultimately, had it not been for Morfin's attack on Tom Riddle, there would have been no Voldemort.<sup id="cite_ref-HBP10_4-7" class="reference"><a href="#cite_note-HBP10-4">&#91;4&#93;</a></sup>
+</p><h2><span class="mw-headline" id="Physical_appearance">Physical appearance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Bob_Ogden?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Physical appearance">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Bob_Ogden?action=edit&amp;section=6" title="Edit section: Physical appearance"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Bob Ogden was described as being a "short, plump man wearing enormously thick <a href="/wiki/Glasses" title="Glasses">glasses</a> that reduced his eyes to <a href="/wiki/Mole" title="Mole">molelike</a> specks". Like most wizards, he was inexperienced when trying to look like a <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a>; his choice of clothing was a frock coat and spats over a striped one-piece bathing costume. Despite his appearance, Ogden was an extremely competent wizard and a straight-to-the-point man, who tolerated a great deal from others, and felt no need to justify his <a href="/wiki/Blood_status" title="Blood status">Blood status</a> to anyone, prompting Harry Potter to reflect that his respect for the man when he saw him in a memory was greatly improved by his dismissal of blood status as being important to any kind of discussion.<sup id="cite_ref-HBP10_4-8" class="reference"><a href="#cite_note-HBP10-4">&#91;4&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Bob_Ogden?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Personality and traits">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Bob_Ogden?action=edit&amp;section=7" title="Edit section: Personality and traits"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Half-Blood Prince"><b>Bob Ogden</b>: "<i>I'm head of the <a href="/wiki/Magical_Law_Enforcement_Patrol" title="Magical Law Enforcement Patrol">Magical Law Enforcement Squad</a>.</i>"</span></dd>
+<dd><b>Marvolo Gaunt</b>: "<i>And you think we're scum, do you? Scum who'll come running when the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">Ministry</a> tells 'em to? Do you know who you're talking to, you filthy little <a href="/wiki/Mudblood" title="Mudblood">Mudblood</a>, do you?</i>"</dd>
+<dd><b>Bob Ogden</b>: "<i>I was under the impression that I was speaking to Mr Gaunt.</i>"</dd>
+<dd>&#8212; Bob Ogden standing his ground against <a href="/wiki/Marvolo_Gaunt" title="Marvolo Gaunt">Marvolo Gaunt</a>, who calls him a "<a href="/wiki/Mudblood" title="Mudblood">Mudblood</a>" despite not knowing Ogden's <a href="/wiki/Blood_status" title="Blood status">blood status</a><sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">[src]</a></sup></dd></dl>
+</div><p> A diligent <a href="/wiki/Officer" class="mw-redirect" title="Officer">officer</a> of the law, Bob Ogden took his duties seriously and maintained a professional and courteous demeanour despite Marvolo's hostility toward him and the Ministry. He was utterly unintimidated by <a href="/wiki/Marvolo_Gaunt" title="Marvolo Gaunt">Marvolo Gaunt</a>'s aggressive behaviour, and notably also appalled by the way Gaunt treated his daughter Merope, and displayed both bravery in compassion when he defended her from her father's assault, who tried to strangle her to death when he learned that she was in lvoe with a Muggle.<sup id="cite_ref-HBP10_4-9" class="reference"><a href="#cite_note-HBP10-4">&#91;4&#93;</a></sup> He also earned the posthumous respect of Harry Potter as he was a dedicated policeman who confronted two dangerous men unflappably, and did not seem to think blood purity was relevant to the topic of enforcing wizarding law.<sup id="cite_ref-HBP10_4-10" class="reference"><a href="#cite_note-HBP10-4">&#91;4&#93;</a></sup>
+</p><h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Bob_Ogden?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Bob_Ogden?action=edit&amp;section=8" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Magic" title="Magic">Magical</a> aptitude</b>: Ogden successfully used the <a href="/wiki/Revulsion_Jinx" title="Revulsion Jinx">Revulsion Jinx</a> to prevent Marvolo from attacking his daughter. He also quickly repaired a pot with the <a href="/wiki/Mending_Charm" title="Mending Charm">Mending Charm</a> that was accidentally smashed by Merope as well as using a <a href="/wiki/Counter-curse" title="Counter-curse">Counter-curse</a> when Morfin used the same <a href="/wiki/Dark_charm" title="Dark charm">Dark charm</a> he had used on <a href="/wiki/Tom_Riddle" title="Tom Riddle">Tom Riddle</a>.<sup id="cite_ref-HBP102_5-0" class="reference"><a href="#cite_note-HBP102-5">&#91;5&#93;</a></sup></li>
+<li><b><a href="/wiki/Apparition" title="Apparition">Apparition</a></b>: Bob Ogden used <a href="/wiki/Apparition" title="Apparition">Apparition</a> successfully to get back to the Ministry of Magic and returned with reinforcements to help him subdue Marvolo and Morfin Gaunt.<sup id="cite_ref-HBP10_4-11" class="reference"><a href="#cite_note-HBP10-4">&#91;4&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Bob_Ogden?veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Bob_Ogden?action=edit&amp;section=9" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Bob Ogden and his memory scene with the Gaunts were completely omitted from the the <a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince_(film)" title="Harry Potter and the Half-Blood Prince (film)">film adaptation</a> of <i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">Harry Potter and the Half-Blood Prince</a></i>.</li>
+<li>It is possible that Ogden is related to former-Wizengamot member <a href="/wiki/Tiberius_Ogden" title="Tiberius Ogden">Tiberius Ogden</a>, though it remains unconfirmed.</li>
+<li>It is also quite possible he was the inventor - or a relative thereof - of "Ogden's Old Firewhiskey", though this is merely speculation.</li>
+<li>Ironically enough, his actions were what set in motion what would lead to the very existence of Lord Voldemort himself – if Ogden had not returned with reinforcements, Merope would have never been freed and had the opportunity to seduce Tom Riddle Snr; had none of this happened, Lord Voldemort would have never been conceived. However, Ogden was a law enforcement agent who reacted to a violation of wizard law committed by Morfin Gaunt, and as such Morfin was the mastermind behind the chain reaction.</li>
+<li>Marvolo Gaunt referred to Ogden as a '<a href="/wiki/Mudblood" title="Mudblood">Mudblood</a>', an insult usually reserved for a wizard or witch of entirely <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> birth. His complete unfamiliarity with proper Muggle dress, however, suggests that he was at the very least half-blood. Gaunt may simply be using the term as a general insult, due to his prejudices. <a href="/wiki/J._K._Rowling" title="J. K. Rowling">J. K. Rowling</a> later confirmed that the term can also be used for half-bloods.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Bob_Ogden?veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Bob_Ogden?action=edit&amp;section=10" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">Harry Potter and the Half-Blood Prince</a></i> <small>(First appearance)</small> <small>(Appears in flashback(s))</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">Harry Potter and the Deathly Hallows</a></i> <small>(Mentioned only)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Bob_Ogden?veaction=edit&amp;section=11" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Bob_Ogden?action=edit&amp;section=11" title="Edit section: Notes and references

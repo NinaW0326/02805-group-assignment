@@ -1,0 +1,118 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/0/01/Percival_Shacklehorn.png/revision/latest?cb=20161027193810" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/0/01/Percival_Shacklehorn.png/revision/latest/scale-to-width-down/350?cb=20161027193810" srcset="https://static.wikia.nocookie.net/harrypotter/images/0/01/Percival_Shacklehorn.png/revision/latest/scale-to-width-down/350?cb=20161027193810 1x, https://static.wikia.nocookie.net/harrypotter/images/0/01/Percival_Shacklehorn.png/revision/latest/scale-to-width-down/699?cb=20161027193810 2x" class="pi-image-thumbnail" alt="" width="270" height="314"
+		     data-image-key="Percival_Shacklehorn.png" data-image-name="Percival Shacklehorn.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Percival Shacklehorn</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Grey</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Blue</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Adventurer</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Puddlemere_United" title="Puddlemere United">Puddlemere United</a></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Percival Shacklehorn</b> was a <a href="/wiki/Great_Britain" title="Great Britain">British</a> <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> and self-professed adventurer. In actuality an unscrupulous <a href="/wiki/Wizard_poacher" title="Wizard poacher">poacher</a>, he was at one point fined by the <a href="/wiki/Ministry_of_Magic" title="Ministry of Magic">Ministry of Magic</a> for illegally hunting a <a href="/wiki/Graphorn" title="Graphorn">Graphorn</a>, a <a href="/wiki/Magic" title="Magic">magical</a> <a href="/wiki/Creature" title="Creature">creature</a> that was endangered during the <a href="/wiki/1920s" title="1920s">1920s</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Magical_abilities_and_skills"><span class="tocnumber">2</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Possessions"><span class="tocnumber">3</span> <span class="toctext">Possessions</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Behind_the_scenes"><span class="tocnumber">4</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Appearances"><span class="tocnumber">5</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Notes_and_references"><span class="tocnumber">6</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Percival_Shacklehorn?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Percival_Shacklehorn?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>He went to the <a href="/wiki/Austria" title="Austria">Austrian</a> <a href="/wiki/Alps" title="Alps">Alps</a> in the hopes of capturing a <a href="/wiki/Graphorn" title="Graphorn">Graphorn</a>. While there, a <a href="/wiki/Mountain_Troll" class="mw-redirect" title="Mountain Troll">Mountain Troll</a> found its way into his <a href="/wiki/Percival_Shacklehorn%27s_tent" title="Percival Shacklehorn&#39;s tent">magically-expanded tent</a>, knocking him unconscious in the process.
+</p><p>The <a href="/wiki/Creature" title="Creature">creature</a> broke a bottle of <a href="/wiki/Invisibility_Potion" title="Invisibility Potion">Invisibility Potion</a> that Shacklehorn, a competent <a href="/wiki/Potioneer" title="Potioneer">potioneer</a>, had brewed to aid him in hunting the Graphorn. This rendered the beast invisible when <a href="/wiki/Laura_Thorn" title="Laura Thorn">Laura Thorn</a>, a <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> monster hunter investigating a <a href="/wiki/Yeti" title="Yeti">Yeti</a> sighting, chanced into Shacklehorn's tent (on which he had failed to place <a href="/wiki/Muggle-Repelling_Charm" title="Muggle-Repelling Charm">Muggle-Repelling Charms</a>). The tent was <a href="/wiki/Magic" title="Magic">magically</a> transported back to the <a href="/wiki/Leaky_Cauldron" title="Leaky Cauldron">Leaky Cauldron</a> in <a href="/wiki/London" title="London">London</a>, taking its three, unlikely occupants with it.
+</p><p>Shacklehorn initially claimed he was in the Alps to view Graphorns in their natural habitat when questioned by <a href="/wiki/Mathilda_Grimblehawk" title="Mathilda Grimblehawk">Mathilda Grimblehawk</a> and <a href="/wiki/Mathilda_Grimblehawk%27s_partner" title="Mathilda Grimblehawk&#39;s partner">her partner</a>. However, upon further interrogation, he admitted that he had been trying to catch one. He was fined by the <a href="/wiki/Ministry_of_Magic" title="Ministry of Magic">Ministry of Magic</a> for illegally hunting a magical creature. Grimblehawk and her partner were able to capture the <a href="/wiki/Troll" title="Troll">troll</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p><p>Shacklehorn was, apparently, a supporter of <a href="/wiki/Puddlemere_United" title="Puddlemere United">Puddlemere United</a>, as he kept a poster of that <a href="/wiki/Quidditch" title="Quidditch">Quidditch</a> <a href="/wiki/Quidditch_team" title="Quidditch team">team</a> in his tent.
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Percival_Shacklehorn?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Percival_Shacklehorn?action=edit&amp;section=2" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Potion" title="Potion">Potions</a></b>: Shacklehorn was proficient in the <a href="/wiki/Magic" title="Magic">magical</a> art and <a href="/wiki/Science" title="Science">science</a> of potion-making, having successfully brewed a batch of the <a href="/wiki/Invisibility_potion" class="mw-redirect" title="Invisibility potion">Invisibility potion</a>&#160;for his travels.&#160;</li></ul>
+<h2><span class="mw-headline" id="Possessions">Possessions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Percival_Shacklehorn?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Possessions">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Percival_Shacklehorn?action=edit&amp;section=3" title="Edit section: Possessions"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Percival_Shacklehorn%27s_socks" title="Percival Shacklehorn&#39;s socks">Socks</a></b>: Shacklehorn owned a pair of socks which were said to have had an unpleasant and sweaty odour.</li>
+<li><b><a href="/wiki/Percival_Shacklehorn%27s_suitcase" title="Percival Shacklehorn&#39;s suitcase">Suitcase</a></b>: Shacklehorn owned a suitcase, which he took with him on his travels to contain his possessions and clothing.</li>
+<li><b><a href="/wiki/Percival_Shacklehorn%27s_tent" title="Percival Shacklehorn&#39;s tent">Tent</a></b>: Shacklehorn owned a tent, which was <a href="/wiki/Charm" title="Charm">charmed</a> to be much larger on the inside than it appeared to be on the outside. Its interior included columns, a staircase, multiple armchairs, wooden tables, and a <a href="/wiki/Grandfather_clock" title="Grandfather clock">Grandfather clock</a>.</li>
+<li><b>Net</b>: Shacklehorn owned a net which he attempted to use to capture a <a href="/wiki/Graphorn" title="Graphorn">Graphorn</a>.</li></ul>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Percival_Shacklehorn?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Percival_Shacklehorn?action=edit&amp;section=4" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Before he introduces himself to the player, Shacklehorn is referred to as the "Camping Wizard".</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Percival_Shacklehorn?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Percival_Shacklehorn?action=edit&amp;section=5" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Fantastic_Beasts:_Cases_from_the_Wizarding_World" title="Fantastic Beasts: Cases from the Wizarding World">Fantastic Beasts: Cases from the Wizarding World</a></i> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Percival_Shacklehorn?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Percival_Shacklehorn?action=edit&amp;section=6" title="Edit section: Notes and references

@@ -1,0 +1,143 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-mom pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/5/53/Broderick_Bode_Pottermore.png/revision/latest?cb=20161210211236" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/5/53/Broderick_Bode_Pottermore.png/revision/latest/scale-to-width-down/250?cb=20161210211236" srcset="https://static.wikia.nocookie.net/harrypotter/images/5/53/Broderick_Bode_Pottermore.png/revision/latest/scale-to-width-down/250?cb=20161210211236 1x, https://static.wikia.nocookie.net/harrypotter/images/5/53/Broderick_Bode_Pottermore.png/revision/latest/scale-to-width-down/500?cb=20161210211236 2x" class="pi-image-thumbnail" alt="" width="250" height="295"
+		     data-image-key="Broderick_Bode_Pottermore.png" data-image-name="Broderick Bode Pottermore.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Broderick Bode</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">Between <a href="/wiki/January" title="January">January</a> <a href="/wiki/1946" title="1946">1946</a> and <a href="/wiki/January" title="January">January</a> <a href="/wiki/1947" title="1947">1947</a><sup id="cite_ref-birth_1-0" class="reference"><a href="#cite_note-birth-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font">Early <a href="/wiki/January" title="January">January</a> <a href="/wiki/1996" title="1996">1996</a><sup id="cite_ref-death_2-0" class="reference"><a href="#cite_note-death-2">&#91;2&#93;</a></sup><br/><a href="/wiki/St_Mungo%27s_Hospital_for_Magical_Maladies_and_Injuries" title="St Mungo&#039;s Hospital for Magical Maladies and Injuries">St Mungo's Hospital for Magical Maladies and Injuries</a>, <a href="/wiki/London" title="London">London</a>, <a href="/wiki/England" title="England">England</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Sallow</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Unspeakable" title="Unspeakable">Unspeakable</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">British Ministry of Magic</a><ul><li><a href="/wiki/Department_of_Mysteries" title="Department of Mysteries">Department of Mysteries</a></li></ul></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Goblet of Fire">"<i>... and that's Bode and <a href="/wiki/Saul_Croaker" title="Saul Croaker">Croaker</a> ... they're <a href="/wiki/Unspeakable" title="Unspeakable">Unspeakables</a>.... From the <a href="/wiki/Department_of_Mysteries" title="Department of Mysteries">Department of Mysteries</a>, top secret, no idea what they get up to...</i>"</span></dd>
+<dd>&#8212;<a href="/wiki/Arthur_Weasley" title="Arthur Weasley">Arthur Weasley</a><sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire" title="Harry Potter and the Goblet of Fire">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Broderick Bode</b> (<a href="/wiki/1946" title="1946">1946</a><sup id="cite_ref-birth_1-1" class="reference"><a href="#cite_note-birth-1">&#91;1&#93;</a></sup> – <a href="/wiki/January" title="January">January</a>, <a href="/wiki/1996" title="1996">1996</a><sup id="cite_ref-death_2-1" class="reference"><a href="#cite_note-death-2">&#91;2&#93;</a></sup>) was a <a href="/wiki/Great_Britain" title="Great Britain">British</a> <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> and <a href="/wiki/Unspeakable" title="Unspeakable">Unspeakable</a> working in the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">British Ministry of Magic</a>'s <a href="/wiki/Department_of_Mysteries" title="Department of Mysteries">Department of Mysteries</a>, partnered with <a href="/wiki/Professor" title="Professor">Professor</a> <a href="/wiki/Saul_Croaker" title="Saul Croaker">Saul Croaker</a> and a friend of <a href="/wiki/Arthur_Weasley" title="Arthur Weasley">Arthur Weasley</a>. Bode was described as being "a sallow-skinned wizard with a very mournful face", and due to his strange nature spoke in a "sepulchral" type of voice and had an unfaltering gaze that made anyone he looked at uncomfortable.<sup id="cite_ref-OOTP7_3-0" class="reference"><a href="#cite_note-OOTP7-3">&#91;3&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Summers_of_1994_and_1995"><span class="tocnumber">1.1</span> <span class="toctext">Summers of 1994 and 1995</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Attempt_at_theft_and_injury"><span class="tocnumber">1.2</span> <span class="toctext">Attempt at theft and injury</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Murder"><span class="tocnumber">1.3</span> <span class="toctext">Murder</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Legacy"><span class="tocnumber">1.4</span> <span class="toctext">Legacy</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Etymology"><span class="tocnumber">2</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Behind_the_scenes"><span class="tocnumber">3</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Appearances"><span class="tocnumber">4</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Notes_and_references"><span class="tocnumber">5</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Broderick_Bode?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Broderick_Bode?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Summers_of_1994_and_1995">Summers of 1994 and 1995</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Broderick_Bode?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Summers of 1994 and 1995">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Broderick_Bode?action=edit&amp;section=2" title="Edit section: Summers of 1994 and 1995"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In <a href="/wiki/1994" title="1994">1994</a>, Bode attended the <a href="/wiki/Quidditch_World_Cup" title="Quidditch World Cup">Quidditch World Cup</a> with fellow Unspeakable <a href="/wiki/Saul_Croaker" title="Saul Croaker">Saul Croaker</a>.<sup id="cite_ref-GOF7_4-0" class="reference"><a href="#cite_note-GOF7-4">&#91;4&#93;</a></sup> The <a href="/wiki/1995" title="1995">following summer</a>, he ran into colleague <a href="/wiki/Arthur_Weasley" title="Arthur Weasley">Arthur Weasley</a>, who was in a rush to reach Courtroom Ten with <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a>, who had a hearing with the <a href="/wiki/Wizengamot" title="Wizengamot">Wizengamot</a>.<sup id="cite_ref-OOTP7_3-1" class="reference"><a href="#cite_note-OOTP7-3">&#91;3&#93;</a></sup>
+</p><p>That same year, Bode became a target of the <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a>, as <a href="/wiki/Tom_Riddle" title="Tom Riddle">Lord Voldemort</a> was seeking a <a href="/wiki/Sybill_Trelawney%27s_first_prophecy" title="Sybill Trelawney&#39;s first prophecy">prophecy</a> pertaining to himself and Harry, a record of which was stored in the <a href="/wiki/Hall_of_Prophecy" title="Hall of Prophecy">Hall of Prophecies</a> in the <a href="/wiki/Department_of_Mysteries" title="Department of Mysteries">Department of Mysteries</a>. Death Eater <a href="/wiki/Avery_(Marauder-era)" class="mw-redirect" title="Avery (Marauder-era)">Avery</a> informed the Dark Lord that an Unspeakable would be able to fetch the prophecy for him, after an attempt to force <a href="/wiki/Sturgis_Podmore" title="Sturgis Podmore">Sturgis Podmore</a> to steal it while under the <a href="/wiki/Imperius_Curse" title="Imperius Curse">Imperius Curse</a> failed.<sup id="cite_ref-OOTP26_5-0" class="reference"><a href="#cite_note-OOTP26-5">&#91;5&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Attempt_at_theft_and_injury">Attempt at theft and injury</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Broderick_Bode?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Attempt at theft and injury">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Broderick_Bode?action=edit&amp;section=3" title="Edit section: Attempt at theft and injury"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Lucius_Malfoy" title="Lucius Malfoy">Lucius Malfoy</a>, one of Voldemort's spies at the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">Ministry</a>, placed Bode under the Imperius Curse to force him to attempt the same theft. <a href="/wiki/Lucius_Malfoy" title="Lucius Malfoy">Lucius Malfoy</a> noted that Bode showed unusual <a href="/wiki/Spell_resistance" title="Spell resistance">resistance</a> to the Imperius curse, which <a href="/wiki/Augustus_Rookwood" title="Augustus Rookwood">Augustus Rookwood</a> suggested may have been because Bode, being an Unspeakable, knew what would happen if he tried to remove one of the Prophecies. The moment he touched the orb, the defensive spells around it were triggered, as prophecies can only be obtained by those about whom they are made. Bode suffered <a href="/wiki/Spell" title="Spell">spell</a> damage that affected his mind, causing him to believe he was a teapot. However, the shock of it lifted the <a href="/wiki/Imperius_Curse" title="Imperius Curse">Imperius Curse</a>.<sup id="cite_ref-OOTP35_6-0" class="reference"><a href="#cite_note-OOTP35-6">&#91;6&#93;</a></sup>
+</p><p>Believing Bode had simply been injured in a workplace accident, he was taken to <a href="/wiki/St_Mungo%27s_Hospital_for_Magical_Maladies_and_Injuries" title="St Mungo&#39;s Hospital for Magical Maladies and Injuries">St Mungo's Hospital for Magical Maladies and Injuries</a> for treatment, but his injuries seemed irreparable, and as such was moved to the Spell Damage ward, left lying in his hospital bed, comatose most of the time, and those times he was awake, he was mumbling and staring at the ceiling.<sup id="cite_ref-OOTP23_7-0" class="reference"><a href="#cite_note-OOTP23-7">&#91;7&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Murder">Murder</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Broderick_Bode?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Murder">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Broderick_Bode?action=edit&amp;section=4" title="Edit section: Murder"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="thumb tleft show-info-icon" style="width: 232px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/6/67/Broderick_Bode_St_Mungo%27s.png/revision/latest?cb=20161210211558" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/6/67/Broderick_Bode_St_Mungo%27s.png/revision/latest/scale-to-width-down/230?cb=20161210211558" decoding="async" width="230" height="182" class="thumbimage" data-image-name="Broderick Bode St Mungo&#39;s.png" data-image-key="Broderick_Bode_St_Mungo&#39;s.png" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Broderick_Bode_St_Mungo%27s.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Broderick Bode in convalescence at St Mungo's, on Christmas 1995 (Note the "<i>rather ugly plant with long, swaying tentacles</i>" on his bedside table)</p> 		 	</figcaption> </figure>
+<p>Eventually, Bode's condition took an upturn, and his health began to steadily improve. Upon learning of this, the <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a>, unable to risk the no-longer-Imperiused Bode getting better and exposing their plan, sent him an anonymous "<a href="/wiki/Christmas" title="Christmas">Christmas</a> present" — a potted plant and a calendar. The <a href="/wiki/Healer" title="Healer">Healer</a> in charge of the ward at the time, <a href="/wiki/Miriam_Strout" title="Miriam Strout">Miriam Strout</a>, was busy over the Christmas period, delivering other presents, looking after patients, seeing to visitations from family and friends etc. and as such overlooked the plant's dangers, in direct contradiction of <a href="/wiki/St_Mungo%27s_Hospital_for_Magical_Maladies_and_Injuries" title="St Mungo&#39;s Hospital for Magical Maladies and Injuries">St Mungo</a>'s strict guidelines on decorations permitted in wards, and left it on Bode's bedside cabinet table. Over the next few weeks during the Christmas holidays, <a href="/wiki/Miriam_Strout" title="Miriam Strout">Healer Strout</a>, noticing Bode's improving speech and mobility, encouraged Bode to look after the plant himself, unaware that that the "<i>rather ugly plant with long, swaying tentacles</i>" Strout had mistook for a <a href="/wiki/Flitterbloom" title="Flitterbloom">Flitterbloom</a>, was instead a disguised cutting of <a href="/wiki/Devil%27s_Snare" title="Devil&#39;s Snare">Devil's Snare</a>. One night, the plant, touched by the convalescent Bode, throttled him instantly, causing Bode to asphyxiate.<sup id="cite_ref-OOTP23_7-1" class="reference"><a href="#cite_note-OOTP23-7">&#91;7&#93;</a></sup><sup id="cite_ref-OOTP25_8-0" class="reference"><a href="#cite_note-OOTP25-8">&#91;8&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Legacy">Legacy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Broderick_Bode?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Legacy">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Broderick_Bode?action=edit&amp;section=5" title="Edit section: Legacy"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Broderick Bode was discovered dead in his bed the next morning, and <a href="/wiki/Healer" title="Healer">Healers</a> were immediately called to the scene, though were unable to revive Bode. St Mungo's, as a result, promised a full inquiry, though they were unable to account for the presence of the plant on the ward, and Healer Strout herself was suspended on full pay.<sup id="cite_ref-OOTP25_8-1" class="reference"><a href="#cite_note-OOTP25-8">&#91;8&#93;</a></sup>
+</p><p>Voldemort also severely punished Avery for his bad advice, especially after hearing a true account of what would have happened from former <a href="/wiki/Unspeakable" title="Unspeakable">Unspeakable</a> and spy <a href="/wiki/Augustus_Rookwood" title="Augustus Rookwood">Augustus Rookwood</a>.<sup id="cite_ref-OOTP26_5-1" class="reference"><a href="#cite_note-OOTP26-5">&#91;5&#93;</a></sup>
+</p><p>The death of Bode was ruled as a "tragic accident" and the <i><a href="/wiki/Daily_Prophet" title="Daily Prophet">Daily Prophet</a></i> reported it as "Tragic Demise of Ministry of Magic Worker," though Harry realised the truth during the <a href="/wiki/Battle_of_the_Department_of_Mysteries" title="Battle of the Department of Mysteries">Battle of the Department of Mysteries</a>.<sup id="cite_ref-OOTP35_6-1" class="reference"><a href="#cite_note-OOTP35-6">&#91;6&#93;</a></sup> Aside from Harry and his friends, there seemed to be nobody in <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts</a> who knew or cared about Bode's death.<sup id="cite_ref-OOTP25_8-2" class="reference"><a href="#cite_note-OOTP25-8">&#91;8&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Broderick_Bode?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Broderick_Bode?action=edit&amp;section=6" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The meaning of the word "bode" is to be an omen. Also, a stop or delay.
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Broderick_Bode?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Broderick_Bode?action=edit&amp;section=7" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tright show-info-icon" style="width: 152px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/6/60/Broderick_Bode%3F.jpg/revision/latest?cb=20110612001400" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/6/60/Broderick_Bode%3F.jpg/revision/latest/scale-to-width-down/150?cb=20110612001400" decoding="async" width="150" height="245" class="thumbimage" data-image-name="Broderick Bode?.jpg" data-image-key="Broderick_Bode?.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Broderick_Bode%3F.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">A wizard bearing a resemblance to Broderick Bode's description</p> 		 	</figcaption> </figure>
+<ul><li>On the lift scene at the Ministry of Magic, as seen in <a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(film)" title="Harry Potter and the Order of the Phoenix (film)">film adaptation</a> of <i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">Harry Potter and the Order of the Phoenix</a></i>, there is a wizard who, given his resemblance with Bode's description in the novel, may be him. However, this is as of yet unconfirmed.</li>
+<li>Bode's attempt on the prophecy, admittance to St Mungo's and assassination were omitted from the film.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Broderick_Bode?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Broderick_Bode?action=edit&amp;section=8" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire" title="Harry Potter and the Goblet of Fire">Harry Potter and the Goblet of Fire</a></i> <small>(First mentioned)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">Harry Potter and the Order of the Phoenix</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(film)" title="Harry Potter and the Order of the Phoenix (film)">Harry Potter and the Order of the Phoenix (film)</a></i> <small>(Possible appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(video_game)" title="Harry Potter and the Order of the Phoenix (video game)">Harry Potter and the Order of the Phoenix (video game)</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Broderick_Bode?veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Broderick_Bode?action=edit&amp;section=9" title="Edit section: Notes and references

@@ -1,0 +1,85 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-pet pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/3/3f/Hermes.jpg/revision/latest?cb=20090823190008" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/3/3f/Hermes.jpg/revision/latest/scale-to-width-down/268?cb=20090823190008" srcset="https://static.wikia.nocookie.net/harrypotter/images/3/3f/Hermes.jpg/revision/latest/scale-to-width-down/268?cb=20090823190008 1x, https://static.wikia.nocookie.net/harrypotter/images/3/3f/Hermes.jpg/revision/latest/scale-to-width-down/536?cb=20090823190008 2x" class="pi-image-thumbnail" alt="" width="268" height="212"
+		     data-image-key="Hermes.jpg" data-image-name="Hermes.jpg"/>
+		
+	</a>
+	
+</figure>
+
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Hermes</h2>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">Before <a href="/wiki/1991" title="1991">1991</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Screech_owl" title="Screech owl">Screech owl</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="feathers">
+	
+		<h3 class="pi-data-label pi-secondary-font">Feathers</h3>
+	
+	<div class="pi-data-value pi-font">Grey</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Percy_Weasley" title="Percy Weasley">Percy Weasley</a> (owner)</div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Pet_individual_infobox" title="Template:Pet individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Philosopher&#39;s Stone">"<i>Percy got an owl from my dad for being made prefect, but they couldn't aff — I mean, I got <a href="/wiki/Peter_Pettigrew" title="Peter Pettigrew">Scabbers</a> instead.</i>"</span></dd>
+<dd>&#8212;Ronald Weasley tells Harry Potter about Hermes<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone" title="Harry Potter and the Philosopher&#39;s Stone">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Hermes</b> (fl. 1991-1995) was a <a href="/wiki/Screech_owl" title="Screech owl">screech owl</a> belonging to <a href="/wiki/Percy_Weasley" title="Percy Weasley">Percy Weasley</a>. Hermes was purchased for Percy by <a href="/wiki/Arthur_Weasley" title="Arthur Weasley">his father</a> as a reward for becoming a <a href="/wiki/Gryffindor" title="Gryffindor">Gryffindor</a> <a href="/wiki/Prefect" title="Prefect">prefect</a> in his fifth year at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a>.
+</p><p>In <a href="/wiki/1993" title="1993">1993</a>, Hermes was stacked along with <a href="/wiki/Hedwig" title="Hedwig">Hedwig</a> and other belongings at the <a href="/wiki/Leaky_Cauldron" title="Leaky Cauldron">Leaky Cauldron</a> before the departure to <a href="/wiki/King%27s_Cross_Station" title="King&#39;s Cross Station">King's Cross Station</a>.<sup id="cite_ref-POA5_1-0" class="reference"><a href="#cite_note-POA5-1">&#91;1&#93;</a></sup>
+</p><p>In <a href="/wiki/1995" title="1995">1995</a>, Percy used Hermes to deliver <a href="/wiki/Percy_Weasley%27s_letter_to_Ronald_Weasley_(1995)_II" title="Percy Weasley&#39;s letter to Ronald Weasley (1995) II">a letter</a> to his brother <a href="/wiki/Ronald_Weasley" title="Ronald Weasley">Ronald</a>, advising him not to trust <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> any longer and side with <a href="/wiki/Dolores_Umbridge" title="Dolores Umbridge">Dolores Umbridge</a> and the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">British Ministry of Magic</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Hermes?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Hermes?action=edit&amp;section=1" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="http://en.wikipedia.org/wiki/Hermes" class="extiw" title="wikipedia:Hermes">Hermes</a> (Ἑρμής) was the messenger of the gods in Greek mythology. Coincidentally, this is also the origin of the name "Hermione". This is very fitting for Percy, as he and Hermione always got along well at school, and given Percy's pompous nature, he would prefer to name his owl after a divine messenger.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Hermes?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Hermes?action=edit&amp;section=2" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone" title="Harry Potter and the Philosopher&#39;s Stone">Harry Potter and the Philosopher's Stone</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(film)" title="Harry Potter and the Philosopher&#39;s Stone (film)">Harry Potter and the Philosopher's Stone (film)</a></i> <small>(First identified as Hermes)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets" title="Harry Potter and the Chamber of Secrets">Harry Potter and the Chamber of Secrets</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban" title="Harry Potter and the Prisoner of Azkaban">Harry Potter and the Prisoner of Azkaban</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(film)" title="Harry Potter and the Prisoner of Azkaban (film)">Harry Potter and the Prisoner of Azkaban (film)</a></i> <span class="template-c">(Mentioned as "an owl")</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire" title="Harry Potter and the Goblet of Fire">Harry Potter and the Goblet of Fire</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">Harry Potter and the Order of the Phoenix</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(video_game)" title="Harry Potter and the Order of the Phoenix (video game)">Harry Potter and the Order of the Phoenix (video game)</a></i> <span class="template-c">(GBA/Nintendo DS version)</span></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> <small>(Mentioned only)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Hermes?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Hermes?action=edit&amp;section=3" title="Edit section: Notes and references

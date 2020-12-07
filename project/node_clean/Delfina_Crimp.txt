@@ -1,0 +1,128 @@
+<div class="mw-parser-output"><table class="notice metadata" id="spoiler" style="text-align: center; background: beige; margin: 1em 05%; padding: 0 1em; border: #a00 1px solid;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/8/8c/Hogwarts_Mystery.jpeg/revision/latest?cb=20180504083359" class="image"><img alt="Hogwarts Mystery.jpeg" src="https://static.wikia.nocookie.net/harrypotter/images/8/8c/Hogwarts_Mystery.jpeg/revision/latest/scale-to-width-down/175?cb=20180504083359" decoding="async" width="175" height="77" data-image-name="Hogwarts Mystery.jpeg" data-image-key="Hogwarts_Mystery.jpeg" /></a>
+</td>
+<td><b>Warning!</b>
+<p>At least some content in this article is derived from information featured in <i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i>. Spoilers will be present within the article.
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/c/cb/Delfina_Crimp.png/revision/latest?cb=20121119211524" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/c/cb/Delfina_Crimp.png/revision/latest/scale-to-width-down/239?cb=20121119211524" srcset="https://static.wikia.nocookie.net/harrypotter/images/c/cb/Delfina_Crimp.png/revision/latest/scale-to-width-down/239?cb=20121119211524 1x, https://static.wikia.nocookie.net/harrypotter/images/c/cb/Delfina_Crimp.png/revision/latest/scale-to-width-down/478?cb=20121119211524 2x" class="pi-image-thumbnail" alt="" width="239" height="301"
+		     data-image-key="Delfina_Crimp.png" data-image-name="Delfina Crimp.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Delfina Crimp</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Magic" title="Magic">Magical</a> to unknown extent</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="title">
+	
+		<h3 class="pi-data-label pi-secondary-font">Title(s)</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Madam" title="Madam">Madam</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Reddish-brown</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>Dressmaker</li><li><a href="/wiki/Spell_creation" title="Spell creation">Spell inventor</a></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Delfina Crimp</b> was a <a href="/wiki/Great_Britain" title="Great Britain">British</a> <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> who was one of the most popular dressmakers in <a href="/wiki/London" title="London">London</a> in the <a href="/wiki/15th_century" title="15th century">15th century</a>. She <a href="/wiki/Spell_creation" title="Spell creation">invented</a> the <a href="/wiki/Severing_Charm" title="Severing Charm">Severing Charm</a> in order to make the task of cutting cloth and thread easier.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Magical_abilities_and_skills"><span class="tocnumber">2</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Etymology"><span class="tocnumber">3</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Appearances"><span class="tocnumber">4</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Notes_and_references"><span class="tocnumber">5</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Delfina_Crimp?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Delfina_Crimp?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Crimp was one of <a href="/wiki/London" title="London">London</a>'s most popular clothiers in the <a href="/wiki/15th_century" title="15th century">15th century</a>. The beauty of her creations struck jealousy into the hearts of rival tailors and her dresses made even unattractive women appear lovely. Every day, her popularity grew, and with it so did her wealth.<sup id="cite_ref-WBoS_1-0" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup>
+</p><p>In order to simplify the task of cutting cloth and thread, Madam Crimp <a href="/wiki/Spell_creation" title="Spell creation">invented</a> the <a href="/wiki/Severing_Charm" title="Severing Charm">Severing Charm</a>, a neat, accurate <a href="/wiki/Charm" title="Charm">charm</a> that replaced older <a href="/wiki/Spell" title="Spell">spells</a> that were liable to burn or shred whatever the caster was attempting to cut. However, because <a href="/wiki/Wizardkind" title="Wizardkind">wizards and witches</a> were persecuted in the 15th century, Crimp preferred to pretend she was a <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a>. Nonetheless, due to her phenomenal success, many of her rivals began to suspect that she was privy to a secret which they were not.<sup id="cite_ref-WBoS_1-1" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup>
+</p><p>A rival Muggle tailor, <a href="/wiki/Snickerton" title="Snickerton">Snickerton</a>, donned a disguise and applied for a job in <a href="/wiki/Delfina_Crimp%27s_shop" title="Delfina Crimp&#39;s shop">Madam Crimp's shop</a>. However, after several weeks, the only evidence of <a href="/wiki/Magic" title="Magic">magic</a> he had uncovered was the lack of scissors in her workroom. Hoping to catch her using magic, he decided to hide out in her workroom at night, wrapping himself in a bolt of velvet. He saw Crimp cutting out an intricate pattern with her <a href="/wiki/Wand" title="Wand">wand</a>, and the next day, he brought a group of men to arrest her.<sup id="cite_ref-WBoS_1-2" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup>
+</p><p>Taken by surprise at her shop, Madam Crimp could offer no explanation as to why she had no scissors. Snickerton ordered her bound, fearing she might <a href="/wiki/Curse" title="Curse">curse</a> them, and began searching her shop for a wand. However, he turned up nothing suspicious after several hours of looking, and his friends began to doubt him.<sup id="cite_ref-WBoS_1-3" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup>
+</p><p>Finally, Crimp asked to be untied so that she might scratch her chin, on which she had a large <a href="/wiki/Wart" title="Wart">wart</a>. Seeing no risk in this request, the men agreed, but when she touched the wart, it popped out of her face to reveal her hidden <a href="/wiki/Wand" title="Wand">wand</a>. Quickly grabbing a bag of <a href="/wiki/Gold" title="Gold">gold</a>, she <a href="/wiki/Apparition" title="Apparition">Disapparated</a> from the scene, never to be seen in London again.<sup id="cite_ref-WBoS_1-4" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup>
+</p><p>However, from that day on, every piece of clothing Snickerton tried to make mysteriously ended up sliced to ribbons, no matter how secure it was. According to legend, he died insane, believing a giant pair of invisible scissors was following him wherever he went.<sup id="cite_ref-WBoS_1-5" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup> It is likely that Madam Crimp placed a <a href="/wiki/Curse" title="Curse">curse</a> on him as revenge for his plot against her.
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Delfina_Crimp?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Delfina_Crimp?action=edit&amp;section=2" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Spell_creation" title="Spell creation">Spell creation</a></b>: Delfina mastered the highly complex <a href="/wiki/Magic" title="Magic">magical</a> art of spell creation, having successfully invented the <a href="/wiki/Severing_Charm" title="Severing Charm">Severing Charm</a> in her lifetime. Given the immense difficulty and even danger involved in the invention of new <a href="/wiki/Spell" title="Spell">spells</a>, her success in his field shows her to have been a very gifted and powerful <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> indeed.</li>
+<li><b><a href="/wiki/Charm" title="Charm">Charms</a></b>: Delfina was highly proficient with charm-work, given how she was an expert at using her custom-made <a href="/wiki/Severing_Charm" title="Severing Charm">Severing Charm</a> to cut items of clothing, which helped her fashion exquisite dresses. Her dresses were also said to beautify the wearer even if they themselves were not particularly beautiful, implying that she enchanted her clothing items as well.</li>
+<li><b><a href="/wiki/Apparition" title="Apparition">Apparition</a></b>: Being an accomplished and skilful adult witch, she was able to Apparate at will, which allowed her to escape London in a flash.</li>
+<li><b><a href="/wiki/Dark_Arts" title="Dark Arts">Dark Arts</a> (possibly)</b>: It appears that Delfina was adept at <a href="/wiki/Curse" title="Curse">cursing</a> to the point that she was able to affect Snickerton with misfortune for the rest of his life, which ruined any garment he made.</li></ul>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Delfina_Crimp?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Delfina_Crimp?action=edit&amp;section=3" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i>Delfina</i> is a Polish name derived from the word "delfin" stemming from the same language, which means dolphin. It cans also result from the Greek word "δελφίνι" (dhelfíni).</li>
+<li><i>Crimp</i> is a name which denotes a fastener or a fastening method that secures parts by bending metal around a joint and squeezing it together. If it is an adjective, it is a synonym for "obsolete".</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Delfina_Crimp?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Delfina_Crimp?action=edit&amp;section=4" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Wonderbook:_Book_of_Spells" title="Wonderbook: Book of Spells">Wonderbook: Book of Spells</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i> <small>(Mentioned only)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Delfina_Crimp?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Delfina_Crimp?action=edit&amp;section=5" title="Edit section: Notes and references

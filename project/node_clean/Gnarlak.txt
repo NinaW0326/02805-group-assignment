@@ -1,0 +1,129 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-goblin pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/1/1a/Gnarlak_FBposter.jpg/revision/latest?cb=20161229004155" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/1/1a/Gnarlak_FBposter.jpg/revision/latest/scale-to-width-down/350?cb=20161229004155" srcset="https://static.wikia.nocookie.net/harrypotter/images/1/1a/Gnarlak_FBposter.jpg/revision/latest/scale-to-width-down/350?cb=20161229004155 1x, https://static.wikia.nocookie.net/harrypotter/images/1/1a/Gnarlak_FBposter.jpg/revision/latest/scale-to-width-down/700?cb=20161229004155 2x" class="pi-image-thumbnail" alt="" width="270" height="357"
+		     data-image-key="Gnarlak_FBposter.jpg" data-image-name="Gnarlak FBposter.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Gnarlak</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">Pre <a href="/wiki/1927" title="1927">1927</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/United_States_of_America" title="United States of America">American</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Goblin" title="Goblin">Goblin</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Black</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>Gangster</li><li>Owner of <a href="/wiki/The_Blind_Pig" title="The Blind Pig">The Blind Pig</a></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/The_Blind_Pig" title="The Blind Pig">The Blind Pig</a></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Fantastic Beasts and Where to Find Them: The Original Screenplay">"<i>So you're the guy with the case full of monsters, huh?</i>"</span></dd>
+<dd>&#8212;Gnarlak, to <a href="/wiki/Newton_Scamander" title="Newton Scamander">Newt Scamander</a><sup class="noprint"><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them:_The_Original_Screenplay" title="Fantastic Beasts and Where to Find Them: The Original Screenplay">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Gnarlak</b><sup id="cite_ref-Pottermore_1-0" class="reference"><a href="#cite_note-Pottermore-1">&#91;1&#93;</a></sup><sup id="cite_ref-Pottermore2_2-0" class="reference"><a href="#cite_note-Pottermore2-2">&#91;2&#93;</a></sup> was an <a href="/wiki/United_States_of_America" title="United States of America">American</a> <a href="/wiki/Goblin" title="Goblin">goblin</a> gangster.<sup id="cite_ref-telegram_3-0" class="reference"><a href="#cite_note-telegram-3">&#91;3&#93;</a></sup> He ran <a href="/wiki/The_Blind_Pig" title="The Blind Pig">The Blind Pig</a>, a <a href="/wiki/Magic" title="Magic">magical</a> <a href="/wiki/Speakeasy" title="Speakeasy">speakeasy</a> located at <a href="/wiki/124_Macdougal_Street" title="124 Macdougal Street">124</a> <a href="/wiki/Macdougal_Street" title="Macdougal Street">Macdougal Street</a><sup id="cite_ref-googlemaps_4-0" class="reference"><a href="#cite_note-googlemaps-4">&#91;4&#93;</a></sup> in <a href="/wiki/New_York" title="New York">New York</a> in the <a href="/wiki/1920s" title="1920s">1920s</a>, which <a href="/wiki/Newton_Scamander" title="Newton Scamander">Newt Scamander</a> visited when he was searching for information.<sup id="cite_ref-telegram_3-1" class="reference"><a href="#cite_note-telegram-3">&#91;3&#93;</a></sup><sup id="cite_ref-pottermore_5-0" class="reference"><a href="#cite_note-pottermore-5">&#91;5&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Personality_and_traits"><span class="tocnumber">2</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Magical_abilities_and_skills"><span class="tocnumber">3</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Behind_the_scenes"><span class="tocnumber">4</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Appearances"><span class="tocnumber">5</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Notes_and_references"><span class="tocnumber">6</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gnarlak?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gnarlak?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>During her time as an <a href="/wiki/Auror" title="Auror">Auror</a>, <a href="/wiki/Porpentina_Goldstein" title="Porpentina Goldstein">Porpentina Goldstein</a> used Gnarlak as an informant and was familiar with his establishment, <a href="/wiki/The_Blind_Pig" title="The Blind Pig">The Blind Pig</a>, and the business which occurred therein.<sup id="cite_ref-FBS_6-0" class="reference"><a href="#cite_note-FBS-6">&#91;6&#93;</a></sup>
+</p><p>Gnarlak carried&#160;two <a href="/wiki/Wand" title="Wand">wands</a>, although his skill in wand-based <a href="/wiki/Magic" title="Magic">magic</a> is not known. It is also unknown how he gained ownership of such wands.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p>
+<figure class="thumb tleft show-info-icon" style="width: 252px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/8/88/FB-_inside_the_blind_pig.jpg/revision/latest?cb=20180306181031" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/8/88/FB-_inside_the_blind_pig.jpg/revision/latest/scale-to-width-down/250?cb=20180306181031" decoding="async" width="250" height="109" class="thumbimage" data-image-name="FB- inside the blind pig.jpg" data-image-key="FB-_inside_the_blind_pig.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:FB-_inside_the_blind_pig.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Gnarlak inside The Blind Pig in 1926</p> 		 	</figcaption> </figure>
+<p>While looking for <a href="/wiki/Newton_Scamander" title="Newton Scamander">Newton Scamander</a>'s missing animals, Tina suggested that Gnarlak could be useful in their hunt. Tina, Newt, <a href="/wiki/Jacob_Kowalski" title="Jacob Kowalski">Jacob Kowalski</a> and <a href="/wiki/Queenie_Goldstein" title="Queenie Goldstein">Queenie Goldstein</a> met with Gnarlak, whereupon they attempted to bargain for information. Gnarlak indicated that he wasn't interested in gold or trinkets, but when Newt offered an <a href="/wiki/Ashwinder_egg" title="Ashwinder egg">ashwinder egg</a>, his interest was piqued.<sup id="cite_ref-FBS_6-1" class="reference"><a href="#cite_note-FBS-6">&#91;6&#93;</a></sup>
+</p><p>However, Gnarlak then spotted <a href="/wiki/Pickett" title="Pickett">Pickett</a>, one of Newt's <a href="/wiki/Bowtruckle" title="Bowtruckle">Bowtruckles</a>, and was greatly interested, as they were reportedly able to <a href="/wiki/Lock_picking" title="Lock picking">pick locks</a>. Newt reluctantly accepted this exchange.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>&#160;However, Gnarlak had already informed <a href="/wiki/Magical_Congress_of_the_United_States_of_America" title="Magical Congress of the United States of America">MACUSA</a> of Newt's location in an attempt to reap the bounty on his head. MACUSA agents entered the Pig and began arresting everyone in sight.<sup id="cite_ref-FBS_6-2" class="reference"><a href="#cite_note-FBS-6">&#91;6&#93;</a></sup>
+</p><p>As he laughed with perceived victory, Jacob <a href="/wiki/Muggle_duelling" title="Muggle duelling">punched</a> Gnarlak in the face, noting that he reminded him of Jacob's <a href="/wiki/Jacob_Kowlaski%27s_foreman" title="Jacob Kowlaski&#39;s foreman">foreman</a>. As Gnarlak lay unconscious on the floor, Newt retrieved Pickett and <a href="/wiki/Apparition" title="Apparition">apparated</a> away with Jacob, Tina, and Queenie, leaving Gnarlak to face the <a href="/wiki/Auror" title="Auror">Aurors</a> once regaining consciousness. They have possibly arrested him for allowing "criminals" into his establishment, along with his general illegal dealings.<sup id="cite_ref-FBS_6-3" class="reference"><a href="#cite_note-FBS-6">&#91;6&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gnarlak?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Personality and traits">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gnarlak?action=edit&amp;section=2" title="Edit section: Personality and traits"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Gnarlak was a highly cunning, duplicitous and unpleasant Goblin, having engaged in many criminal dealings throughout his life as an black market gangster, showing no respect for American wizarding law. He was incredibly avaricious and money-minded, with his sole interest being earning a profit and gaining valuable assets, no matter what the cost. He was also very ruthless in achieving his aims, often being malicious to others, even to those who he dealt with, as when he slyly reported both <a href="/wiki/Newton_Scamander" title="Newton Scamander">Newton Scamander</a> and <a href="/wiki/Porpentina_Goldstein" title="Porpentina Goldstein">Porpentina Goldstein</a> to <a href="/wiki/Magical_Congress_of_the_United_States_of_America" title="Magical Congress of the United States of America">MACUSA</a>, even laughing spitefully afterwards, showing he clearly distrusted and disliked <a href="/wiki/Wizardkind" title="Wizardkind">Wizardkind</a> in general, like many of his species.
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gnarlak?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gnarlak?action=edit&amp;section=3" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Wandless_magic" title="Wandless magic">Wandless magic</a></b>: Being a Goblin with his own <a href="/wiki/Goblin_magic" title="Goblin magic">kind of magic</a>, Gnarlak was capable of performing <a href="/wiki/Wandless_magic" title="Wandless magic">wandless magic</a>, being able to conjure a <a href="/wiki/Magic" title="Magic">magical</a> protective barrier around himself and <a href="/wiki/Levitation" title="Levitation">levitate</a> objects around him.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gnarlak?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gnarlak?action=edit&amp;section=4" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Gnarlak is portrayed by <a href="/wiki/Ron_Perlman" title="Ron Perlman">Ron Perlman</a> in <figure class="thumb tright show-info-icon" style="width: 222px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/2/2d/Gnarlack_LEGO_D.jpg/revision/latest?cb=20180615091615" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/2/2d/Gnarlack_LEGO_D.jpg/revision/latest/scale-to-width-down/220?cb=20180615091615" decoding="async" width="220" height="229" class="thumbimage" data-image-name="Gnarlack LEGO D.jpg" data-image-key="Gnarlack_LEGO_D.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Gnarlack_LEGO_D.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Gnarlak as <a href="/wiki/LEGO_Dimensions" title="LEGO Dimensions">LEGO Minifigure</a></p> 		 	</figcaption> </figure>the <a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(film)" title="Fantastic Beasts and Where to Find Them (film)">film</a> inspired by <i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(companion_book)" title="Fantastic Beasts and Where to Find Them (companion book)">Fantastic Beasts and Where to Find Them</a></i>.<sup id="cite_ref-Pottermore_1-1" class="reference"><a href="#cite_note-Pottermore-1">&#91;1&#93;</a></sup></li>
+<li><a href="/wiki/J._K._Rowling%27s_official_site" title="J. K. Rowling&#39;s official site">J. K. Rowling's official site</a>, after the <a href="/wiki/20_December" title="20 December">20 December</a> <a href="/wiki/2016" title="2016">2016</a> redesign, featured an image of a page from an early draft of <i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them:_The_Original_Screenplay" title="Fantastic Beasts and Where to Find Them: The Original Screenplay">Fantastic Beasts and Where to Find Them: The Original Screenplay</a></i> with a deleted scene in which Gnarlak mentions that he was from "the old country", <a href="/wiki/Great_Britain" title="Great Britain">Great Britain</a>, like Newton Scamander, and that his whole family is with <a href="/wiki/Gringotts_Wizarding_Bank" title="Gringotts Wizarding Bank">Gringotts</a> in the "treasure-and-curse" business.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup></li>
+<li>Although never mentioned, Gnarlak’s fingers are severely malformed, bending almost completely backwards at the second knuckle. Despite this he seems to have no difficulty using his hands.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gnarlak?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gnarlak?action=edit&amp;section=5" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them:_The_Original_Screenplay" title="Fantastic Beasts and Where to Find Them: The Original Screenplay">Fantastic Beasts and Where to Find Them: The Original Screenplay</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(film)" title="Fantastic Beasts and Where to Find Them (film)">Fantastic Beasts and Where to Find Them (film)</a></i></li>
+<li><i><a href="/wiki/LEGO_Dimensions" title="LEGO Dimensions">LEGO Dimensions</a></i></li>
+<li><a href="/wiki/J._K._Rowling%27s_official_site" title="J. K. Rowling&#39;s official site">J. K. Rowling's official site</a> <span class="template-c">(Mentioned on a draft script page)</span></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gnarlak?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gnarlak?action=edit&amp;section=6" title="Edit section: Notes and references

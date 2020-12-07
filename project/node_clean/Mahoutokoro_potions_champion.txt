@@ -1,0 +1,125 @@
+<div class="mw-parser-output"><table class="notice metadata" cellpadding="3px" style="text-align: center; background: snow; border: #a00 1px solid; margin: 1em 10% 1em 10%;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/1/11/Hermione_Granger_%28HBP_promo%29_5.jpg/revision/latest?cb=20090817203540" class="image"><img alt="Hermione Granger (HBP promo) 5.jpg" src="https://static.wikia.nocookie.net/harrypotter/images/1/11/Hermione_Granger_%28HBP_promo%29_5.jpg/revision/latest/scale-to-width-down/60?cb=20090817203540" decoding="async" width="60" height="80" data-image-name="Hermione Granger (HBP promo) 5.jpg" data-image-key="Hermione_Granger_(HBP_promo)_5.jpg" /></a>
+</td>
+<td><i><b>"Are you a wizard or not?"</b></i>
+<p>The title of this article is conjectural.  Although it is based on <a href="/wiki/Canon" title="Canon">canonical information</a>, the actual name is a conjecture and may be supplanted at any time by additional information released from canonical sources.  If this occurs, please move this page to the appropriate title.
+</p>
+</td></tr></tbody></table> 
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/a/ac/Mahoutokoropotioneer.png/revision/latest?cb=20140823183135" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/a/ac/Mahoutokoropotioneer.png/revision/latest/scale-to-width-down/57?cb=20140823183135" srcset="https://static.wikia.nocookie.net/harrypotter/images/a/ac/Mahoutokoropotioneer.png/revision/latest/scale-to-width-down/57?cb=20140823183135 1x, https://static.wikia.nocookie.net/harrypotter/images/a/ac/Mahoutokoropotioneer.png/revision/latest/scale-to-width-down/114?cb=20140823183135 2x" class="pi-image-thumbnail" alt="" width="57" height="88"
+		     data-image-key="Mahoutokoropotioneer.png" data-image-name="Mahoutokoropotioneer.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Mahoutokoro potions champion</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">year unknown, <a href="/wiki/Japan" title="Japan">Japan</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Japan" title="Japan">Japanese</a><sup id="cite_ref-WBP_1-0" class="reference"><a href="#cite_note-WBP-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-WBP_1-1" class="reference"><a href="#cite_note-WBP-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male<sup id="cite_ref-WBP_1-2" class="reference"><a href="#cite_note-WBP-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Black<sup id="cite_ref-WBP_1-3" class="reference"><a href="#cite_note-WBP-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Pale<sup id="cite_ref-WBP_1-4" class="reference"><a href="#cite_note-WBP-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Mahoutokoro_School_of_Magic" title="Mahoutokoro School of Magic">Mahoutokoro School of Magic</a><sup id="cite_ref-WBP_1-5" class="reference"><a href="#cite_note-WBP-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+ 
+This <b>individual</b> was a <a href="/wiki/Japan" title="Japan">Japanese</a> <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> who attended <a href="/wiki/Mahoutokoro_School_of_Magic" title="Mahoutokoro School of Magic">Mahoutokoro School of Magic</a>. He was a skilled <a href="/wiki/Potioneer" title="Potioneer">potioneer</a> and represented his school at the <a href="/wiki/Wizarding_Schools_Potions_Championship" title="Wizarding Schools Potions Championship">Wizarding Schools Potions Championship</a>.<sup id="cite_ref-WBP_1-6" class="reference"><a href="#cite_note-WBP-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Mahoutokoro_School_of_Magic"><span class="tocnumber">1.1</span> <span class="toctext">Mahoutokoro School of Magic</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Wizarding_Schools_Potions_Championship"><span class="tocnumber">1.2</span> <span class="toctext">Wizarding Schools Potions Championship</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Physical_appearance"><span class="tocnumber">2</span> <span class="toctext">Physical appearance</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Magical_abilities_and_skills"><span class="tocnumber">3</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Behind_the_scenes"><span class="tocnumber">4</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Appearances"><span class="tocnumber">5</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Notes_and_references"><span class="tocnumber">6</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mahoutokoro_potions_champion?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mahoutokoro_potions_champion?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Mahoutokoro_School_of_Magic">Mahoutokoro School of Magic</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mahoutokoro_potions_champion?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Mahoutokoro School of Magic">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mahoutokoro_potions_champion?action=edit&amp;section=2" title="Edit section: Mahoutokoro School of Magic"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Japanese wizard attended <a href="/wiki/Mahoutokoro_School_of_Magic" title="Mahoutokoro School of Magic">Mahoutokoro School of Magic</a> for his education.<sup id="cite_ref-WBP_1-7" class="reference"><a href="#cite_note-WBP-1">&#91;1&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Wizarding_Schools_Potions_Championship">Wizarding Schools Potions Championship</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mahoutokoro_potions_champion?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Wizarding Schools Potions Championship">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mahoutokoro_potions_champion?action=edit&amp;section=3" title="Edit section: Wizarding Schools Potions Championship"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="thumb tright show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/7/7f/River_troll_bridge.png/revision/latest?cb=20140823185734" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/7/7f/River_troll_bridge.png/revision/latest/scale-to-width-down/180?cb=20140823185734" decoding="async" width="180" height="122" class="thumbimage" data-image-name="River troll bridge.png" data-image-key="River_troll_bridge.png" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:River_troll_bridge.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">The wizard running past the <a href="/wiki/River_Troll" class="mw-redirect" title="River Troll">River Troll</a> underneath the bridge</p> 		 	</figcaption> </figure>
+<p>The wizard became a skilled <a href="/wiki/Potioneer" title="Potioneer">potioneer</a> and at age seventeen or above competed in the <a href="/wiki/Wizarding_Schools_Potions_Championship" title="Wizarding Schools Potions Championship">Wizarding Schools Potions Championship</a> for the golden cauldron, where he represented his school, Mahoutokoro. At the start of the championship in the <a href="/wiki/Enchanted_garden_(Book_of_Potions)" title="Enchanted garden (Book of Potions)">enchanted garden</a>, he headed towards the bridge, hoping to get an early lead. However, while crossing the bridge, he awakened a <a href="/wiki/River_Troll" class="mw-redirect" title="River Troll">River Troll</a>. Fortunately, the <a href="/wiki/Troll" title="Troll">Troll</a> was incapacitated by the <a href="/wiki/Hogwarts_potions_champion" title="Hogwarts potions champion">Hogwarts potions champion</a>, who used a <a href="/wiki/Shrinking_Solution" title="Shrinking Solution">Shrinking Solution</a> on it.<sup id="cite_ref-WBP_1-8" class="reference"><a href="#cite_note-WBP-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Physical_appearance">Physical appearance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mahoutokoro_potions_champion?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Physical appearance">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mahoutokoro_potions_champion?action=edit&amp;section=4" title="Edit section: Physical appearance"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The wizard wore his <a href="/wiki/Mahoutokoro_uniform" title="Mahoutokoro uniform">school uniform</a> and had black hair.<sup id="cite_ref-WBP_1-9" class="reference"><a href="#cite_note-WBP-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mahoutokoro_potions_champion?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mahoutokoro_potions_champion?action=edit&amp;section=5" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Potion" title="Potion">Potions</a></b>: This individual was highly proficient in the <a href="/wiki/Magic" title="Magic">magical</a> art and <a href="/wiki/Science" title="Science">science</a> of potion-making, being talented enough that he represented his school in the <a href="/wiki/Wizarding_Schools_Potions_Championship" title="Wizarding Schools Potions Championship">Wizarding Schools Potions Championship</a>.<sup id="cite_ref-WBP_1-10" class="reference"><a href="#cite_note-WBP-1">&#91;1&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mahoutokoro_potions_champion?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mahoutokoro_potions_champion?action=edit&amp;section=6" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>This is the first student of Mahoutokoro introduced throughout the <i>Harry Potter</i> series.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mahoutokoro_potions_champion?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mahoutokoro_potions_champion?action=edit&amp;section=7" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Wonderbook:_Book_of_Potions" title="Wonderbook: Book of Potions">Wonderbook: Book of Potions</a></i> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mahoutokoro_potions_champion?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mahoutokoro_potions_champion?action=edit&amp;section=8" title="Edit section: Notes and references

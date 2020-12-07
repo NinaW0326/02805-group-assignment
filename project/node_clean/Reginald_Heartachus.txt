@@ -1,0 +1,44 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/a/ab/ReginaldHeartachus2.jpg/revision/latest?cb=20141127215431" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/a/ab/ReginaldHeartachus2.jpg/revision/latest/scale-to-width-down/279?cb=20141127215431" srcset="https://static.wikia.nocookie.net/harrypotter/images/a/ab/ReginaldHeartachus2.jpg/revision/latest/scale-to-width-down/279?cb=20141127215431 1x, https://static.wikia.nocookie.net/harrypotter/images/a/ab/ReginaldHeartachus2.jpg/revision/latest/scale-to-width-down/558?cb=20141127215431 2x" class="pi-image-thumbnail" alt="" width="270" height="483"
+		     data-image-key="ReginaldHeartachus2.jpg" data-image-name="ReginaldHeartachus2.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Reginald Heartachus</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Reginald Heartachus</b> was a <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> and, given his portrait, a wizarding author who lived in around <a href="/wiki/19th_century" title="19th century">19th century</a>.
+</p><p>There was a portrait of Heartachus, painted by <a href="/wiki/Bimp" title="Bimp">Bimp</a>, hanging at <a href="/wiki/Hogwarts_Castle" title="Hogwarts Castle">Hogwarts Castle</a> in the <a href="/wiki/1990s" title="1990s">1990s</a>.<sup id="cite_ref-HPLE_1-0" class="reference"><a href="#cite_note-HPLE-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Reginald_Heartachus?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Reginald_Heartachus?action=edit&amp;section=1" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Harry_Potter_films" class="mw-redirect" title="Harry Potter films"><i>Harry Potter</i> films</a> <small>(Appears in portrait(s))</small></li>
+<li><i><a href="/wiki/Harry_Potter_Limited_Edition" title="Harry Potter Limited Edition">Harry Potter Limited Edition</a></i> <small>(Appears in portrait(s))</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Reginald_Heartachus?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Reginald_Heartachus?action=edit&amp;section=2" title="Edit section: Notes and references

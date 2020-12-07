@@ -1,0 +1,90 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/9/9a/Caspar_Crouch.png/revision/latest?cb=20130829004729" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/9/9a/Caspar_Crouch.png/revision/latest/scale-to-width-down/350?cb=20130829004729" srcset="https://static.wikia.nocookie.net/harrypotter/images/9/9a/Caspar_Crouch.png/revision/latest/scale-to-width-down/350?cb=20130829004729 1x, https://static.wikia.nocookie.net/harrypotter/images/9/9a/Caspar_Crouch.png/revision/latest/scale-to-width-down/700?cb=20130829004729 2x" class="pi-image-thumbnail" alt="" width="270" height="158"
+		     data-image-key="Caspar_Crouch.png" data-image-name="Caspar Crouch.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Caspar Crouch</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font">Before <a href="/wiki/1995" title="1995">1995</a><sup id="cite_ref-dead_1-0" class="reference"><a href="#cite_note-dead-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Pure-blood" title="Pure-blood">Pure-blood</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="marital">
+	
+		<h3 class="pi-data-label pi-secondary-font">Marital status</h3>
+	
+	<div class="pi-data-value pi-font">Married</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Arcturus_Black_II" title="Arcturus Black II">Arcturus Black II</a> (father-in-law)</li><li><a href="/wiki/Lysandra_Yaxley" title="Lysandra Yaxley">Lysandra Yaxley</a> (mother-in-law)</li><li><a href="/wiki/Callidora_Black" title="Callidora Black">Callidora Longbottom</a> (sister-in-law)</li><li><a href="/wiki/Cedrella_Black" title="Cedrella Black">Cedrella Weasley</a> (sister-in-law)</li><li><a href="/wiki/Charis_Black" title="Charis Black">Charis Black</a> (wife) †</li><li><a href="/wiki/Caspar_Crouch%27s_daughters" title="Caspar Crouch&#039;s daughters">2 daughters</a></li><li><a href="/wiki/Caspar_Crouch%27s_son" title="Caspar Crouch&#039;s son">Son</a></li><li><a href="/wiki/Bartemius_Crouch_Senior" title="Bartemius Crouch Senior">Bartemius Crouch Snr</a> (possible) †</li><li><a href="/wiki/Bartemius_Crouch_Junior" title="Bartemius Crouch Junior">Bartemius Crouch Jnr</a> (possible) †</li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Crouch_family" title="Crouch family">Crouch family</a></li><li><a href="/wiki/House_of_Black" title="House of Black">Black family</a></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Caspar Crouch</b>, (fl. 20th century) was a <a href="/wiki/Pure-blood" title="Pure-blood">pure-blood</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup><a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> who married pure-blood <a href="/wiki/Charis_Black" title="Charis Black">Charis Black</a> from the noble <a href="/wiki/House_of_Black" title="House of Black">House of Black</a>. The couple had three children: a <a href="/wiki/Caspar_Crouch%27s_son" title="Caspar Crouch&#39;s son">son</a> and <a href="/wiki/Caspar_Crouch%27s_daughters" title="Caspar Crouch&#39;s daughters">two daughters</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> He might be the father of <a href="/wiki/Bartemius_Crouch_Senior" title="Bartemius Crouch Senior">Bartemius Crouch Snr</a>, though this is unconfirmed.
+</p><p>His name appears on the <a href="/wiki/Black_Family_Tapestry" title="Black Family Tapestry">Black family tree tapestry</a>.
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Caspar_Crouch?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Caspar_Crouch?action=edit&amp;section=1" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(film)" title="Harry Potter and the Order of the Phoenix (film)">Harry Potter and the Order of the Phoenix (film)</a></i> <span class="template-c">(Name seen on Black family tree tapestry)</span></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Caspar_Crouch?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Caspar_Crouch?action=edit&amp;section=2" title="Edit section: Notes and references

@@ -1,0 +1,153 @@
+<div class="mw-parser-output"><table class="notice metadata" id="spoiler" style="text-align: center; background: beige; margin: 1em 05%; padding: 0 1em; border: #a00 1px solid;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/e/ea/Wizards_Unite_logo.jpg/revision/latest?cb=20181114170049" class="image"><img alt="Wizards Unite logo.jpg" src="https://static.wikia.nocookie.net/harrypotter/images/e/ea/Wizards_Unite_logo.jpg/revision/latest/scale-to-width-down/175?cb=20181114170049" decoding="async" width="175" height="98" data-image-name="Wizards Unite logo.jpg" data-image-key="Wizards_Unite_logo.jpg" /></a>
+</td>
+<td><b>Warning!</b>
+<p>At least some content in this article is derived from information featured in <i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i>. As such, spoilers will be present within the article.
+</p><p>For gameplay-specific information, please see the relevant article on <a href="https://harrypotterwizardsunite.fandom.com/wiki/Pukwudgie" class="extiw" title="w:c:harrypotterwizardsunite:Pukwudgie">the Harry Potter: Wizards Unite Wiki!</a>
+</p>
+</td></tr></tbody></table>
+<div class="notice metadata" id="spoiler" style="text-align: center; background: #DCDCDC; margin: 1em 05%; padding: 0 1em; border: #696969 1px solid;">
+<p><b>"Point me!"</b>
+</p>
+This article is about <b>the magical creature</b>. You may be looking for <b>the <a href="/wiki/Ilvermorny_School_of_Witchcraft_and_Wizardry" title="Ilvermorny School of Witchcraft and Wizardry">Ilvermorny</a> <a href="/wiki/Pukwudgie_(House)" title="Pukwudgie (House)">house</a></b>.</div>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-creature pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/4/42/PukwudgieWU.png/revision/latest?cb=20190806140326" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/4/42/PukwudgieWU.png/revision/latest/scale-to-width-down/157?cb=20190806140326" srcset="https://static.wikia.nocookie.net/harrypotter/images/4/42/PukwudgieWU.png/revision/latest/scale-to-width-down/157?cb=20190806140326 1x, https://static.wikia.nocookie.net/harrypotter/images/4/42/PukwudgieWU.png/revision/latest/scale-to-width-down/314?cb=20190806140326 2x" class="pi-image-thumbnail" alt="" width="157" height="245"
+		     data-image-key="PukwudgieWU.png" data-image-name="PukwudgieWU.png"/>
+		
+	</a>
+	
+</figure>
+
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Pukwudgie</h2>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Species information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Grey</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="related">
+	
+		<h3 class="pi-data-label pi-secondary-font">Related to</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Goblin" title="Goblin">Goblin</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="native">
+	
+		<h3 class="pi-data-label pi-secondary-font">Native to</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/United_States_of_America" title="United States of America">United States of America</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="height">
+	
+		<h3 class="pi-data-label pi-secondary-font">Height of average adult</h3>
+	
+	<div class="pi-data-value pi-font">2-3 feet</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="mortality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Mortality</h3>
+	
+	<div class="pi-data-value pi-font">Mortal</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="distinction">
+	
+		<h3 class="pi-data-label pi-secondary-font">Distinction</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>Large-eared</li><li>Both help and hinder <a href="/wiki/Human" title="Human">humans</a></li><li>Hunts with <a href="/wiki/Pukwudgie_arrow" title="Pukwudgie arrow">poisonous arrows</a></li><li>Possesses <a href="/wiki/Pukwudgie_magic" title="Pukwudgie magic">Pukwudgie magic</a></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="affiliation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Affiliation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Ilvermorny_School_of_Witchcraft_and_Wizardry" title="Ilvermorny School of Witchcraft and Wizardry">Ilvermorny School of Witchcraft and Wizardry</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="status">
+	
+		<h3 class="pi-data-label pi-secondary-font">Status</h3>
+	
+	<div class="pi-data-value pi-font">Extant</div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Creature_infobox" title="Template:Creature infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+The <b>Pukwudgie</b> is a <a href="/wiki/Magic" title="Magic">magical</a> <a href="/wiki/Creature" title="Creature">creature</a>&#160;native to the <a href="/wiki/United_States_of_America" title="United States of America">United States of America</a>.<sup id="cite_ref-PM-ilvermorny_1-0" class="reference"><a href="#cite_note-PM-ilvermorny-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Physical_appearance"><span class="tocnumber">3</span> <span class="toctext">Physical appearance</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Personality_and_traits"><span class="tocnumber">4</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Eytmology"><span class="tocnumber">5</span> <span class="toctext">Eytmology</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Known_Pukwudgies"><span class="tocnumber">6</span> <span class="toctext">Known Pukwudgies</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Behind_the_scenes"><span class="tocnumber">8</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Appearances"><span class="tocnumber">9</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Notes_and_references"><span class="tocnumber">10</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Description">Description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Pukwudgie?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Description">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Pukwudgie?action=edit&amp;section=1" title="Edit section: Description"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Pukwudgies are short, grey, large-eared creatures. They are distantly related to the European <a href="/wiki/Goblin" title="Goblin">goblin</a> and have been known to both help <a href="/wiki/Human" title="Human">humans</a>&#160;and play tricks on them. Pukwudgies hunt with their <a href="/wiki/Poison" title="Poison">poisonous</a>&#160;<a href="/wiki/Pukwudgie_arrow" title="Pukwudgie arrow">arrows</a>.<sup id="cite_ref-PM-ilvermorny_1-1" class="reference"><a href="#cite_note-PM-ilvermorny-1">&#91;1&#93;</a></sup>
+</p><p>Pukwudgies are famous for having one of the four <a href="/wiki/Ilvermorny_School_of_Witchcraft_and_Wizardry" title="Ilvermorny School of Witchcraft and Wizardry">Ilvermorny</a> houses named in honour of them. This is because of the friendship that existed between <a href="/wiki/Isolt_Sayre" title="Isolt Sayre">Isolt Sayre</a> and the Pukwudgie she named <a href="/wiki/William_(Pukwudgie)" title="William (Pukwudgie)">William</a>. Pukwudgies still work at Ilvermorny today and provide security and maintenance.<sup id="cite_ref-PM-ilvermorny_1-2" class="reference"><a href="#cite_note-PM-ilvermorny-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Pukwudgie?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: History">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Pukwudgie?action=edit&amp;section=2" title="Edit section: History"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tright show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/0/04/William_the_Pukwudgie.png/revision/latest?cb=20170927204129" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/0/04/William_the_Pukwudgie.png/revision/latest/scale-to-width-down/180?cb=20170927204129" decoding="async" width="180" height="184" class="thumbimage" data-image-name="William the Pukwudgie.png" data-image-key="William_the_Pukwudgie.png" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:William_the_Pukwudgie.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">William the Pukwudgie</p> 		 	</figcaption> </figure>
+<p>In <a href="/wiki/1620" class="mw-redirect" title="1620">1620</a>, <a href="/wiki/Isolt_Sayre" title="Isolt Sayre">Isolt Sayre</a> saved a Pukwudgie that was about to be eaten by a <a href="/wiki/Hidebehind" title="Hidebehind">Hidebehind</a>. She nursed him back to health, and he declared himself bound and indebted to her until he had repaid her help. He followed her around, grumbling and showing very little gratitude to her. However, Isolt enjoyed his company and a unique friendship developed between them.<sup id="cite_ref-PM-ilvermorny_1-3" class="reference"><a href="#cite_note-PM-ilvermorny-1">&#91;1&#93;</a></sup>
+</p><p>Isolt eventually named him <a href="/wiki/William_(Pukwudgie)" title="William (Pukwudgie)">William</a>, as he would not reveal his true name per the tradition of the Pukwudgies. He introduced her to many creatures, such as the <a href="/wiki/Hodag" title="Hodag">Hodag</a>, <a href="/wiki/Snallygaster" title="Snallygaster">Snallygaster</a> and <a href="/wiki/Wampus_cat" title="Wampus cat">Wampus</a>.<sup id="cite_ref-PM-ilvermorny_1-4" class="reference"><a href="#cite_note-PM-ilvermorny-1">&#91;1&#93;</a></sup>
+</p><p>One day, William was shocked to find that Isolt had befriended the <a href="/wiki/Horned_Serpent" title="Horned Serpent">Horned Serpent</a> at the creek, and was even more wary to discover that the Horned Serpent liked Isolt who was able to understand it. She grew to learn not to talk to William about her kinship with it and kept the things they talked about to herself.<sup id="cite_ref-PM-ilvermorny_1-5" class="reference"><a href="#cite_note-PM-ilvermorny-1">&#91;1&#93;</a></sup>
+</p><p>While foraging in the woods, a grisly sound made William tell Isolt to stay hidden while he found out what had happened. Isolt ignored him and followed him to a scene, in which the Hidebehind had killed a <a href="/wiki/Boot_brothers%27_mother" title="Boot brothers&#39; mother">witch</a> and a <a href="/wiki/Boot_brothers%27_father" title="Boot brothers&#39; father">wizard</a> and wounded two children.<sup id="cite_ref-PM-ilvermorny_1-6" class="reference"><a href="#cite_note-PM-ilvermorny-1">&#91;1&#93;</a></sup>
+</p><p>Isolt and William worked together to kill the Hidebehind but William refused to help <a href="/wiki/Chadwick_Boot" title="Chadwick Boot">Chadwick</a> and <a href="/wiki/Webster_Boot" title="Webster Boot">Webster</a>, since Pukwudgies believe they shouldn't help humankind, thus leading to an argument in which they parted ways.<sup id="cite_ref-PM-ilvermorny_1-7" class="reference"><a href="#cite_note-PM-ilvermorny-1">&#91;1&#93;</a></sup>
+</p><p>However, ten years later they reunited when Isolt called for her father as she and her family were about to be killed by <a href="/wiki/Gormlaith_Gaunt" title="Gormlaith Gaunt">Gormlaith Gaunt</a>. The Pukwudgie had thought she was calling for him, and he killed Gormlaith with one of the <a href="/wiki/Pukwudgie_arrow" title="Pukwudgie arrow">poisonous arrows</a> he owned. It was tipped in Pukwudgie venom which has a terrible reaction with her <a href="/wiki/Dark_Arts" title="Dark Arts">dark magic</a>.<sup id="cite_ref-PM-ilvermorny_1-8" class="reference"><a href="#cite_note-PM-ilvermorny-1">&#91;1&#93;</a></sup>
+</p><p>William became famous for his role in the founding of <a href="/wiki/Ilvermorny_School_of_Witchcraft_and_Wizardry" title="Ilvermorny School of Witchcraft and Wizardry">Ilvermorny School of Witchcraft and Wizardry</a>. Isolt had told her family stories about William which led to <a href="/wiki/James_Steward" title="James Steward">James Steward</a> deciding to name the <a href="/wiki/Pukwudgie_(House)" title="Pukwudgie (House)">house</a> Pukwudgie for him.<sup id="cite_ref-PM-ilvermorny_1-9" class="reference"><a href="#cite_note-PM-ilvermorny-1">&#91;1&#93;</a></sup>
+</p><p>James shook William's hand when he first met him and told him what he had done, which flattered William. He moved his family into the house the next day and they became the first Pukwudgies to live in and serve Ilvermorny. To this day, Pukwudgies are paid to provide security and maintenance services at the school.<sup id="cite_ref-PM-ilvermorny_1-10" class="reference"><a href="#cite_note-PM-ilvermorny-1">&#91;1&#93;</a></sup>
+</p><p>Like William, they complain about being there and often say they have no wish to remain, but they still appear every year to work. William may still live there, as an old Pukwudgie there by the same name refuses to let anyone polish the marble statue of Isolt at the entrance and he places <a href="/wiki/Mayflower_(flower)" title="Mayflower (flower)">mayflowers</a> at the statue every year on the anniversary of her death.<sup id="cite_ref-PM-ilvermorny_1-11" class="reference"><a href="#cite_note-PM-ilvermorny-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Physical_appearance">Physical appearance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Pukwudgie?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Physical appearance">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Pukwudgie?action=edit&amp;section=3" title="Edit section: Physical appearance"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tright show-info-icon" style="width: 202px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/a/a5/Pukwudgie_ClearBG_2.png/revision/latest?cb=20161204075023" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/a/a5/Pukwudgie_ClearBG_2.png/revision/latest/scale-to-width-down/200?cb=20161204075023" decoding="async" width="200" height="200" class="thumbimage" data-image-name="Pukwudgie ClearBG 2.png" data-image-key="Pukwudgie_ClearBG_2.png" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Pukwudgie_ClearBG_2.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">The Pukwudgie as seen on the Ilvermorny crest</p> 		 	</figcaption> </figure>
+<p>Pukwudgies are known to have grey skin and grow to be about 2 to 3 feet tall. They also have long ears, notably similar to house elves. They are distantly related to European <a href="/wiki/Goblin" title="Goblin">goblins</a>.<sup id="cite_ref-PM-ilvermorny_1-12" class="reference"><a href="#cite_note-PM-ilvermorny-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Pukwudgie?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Personality and traits">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Pukwudgie?action=edit&amp;section=4" title="Edit section: Personality and traits"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Pukwudgies are considered fiercely independent. They enjoy hunting and playing tricks on humans. They are not overly fond of humankind, magical or No-Majs. They are exceptionally dangerous and secretive creatures, who have a tradition that expects them not to reveal their true names to outsiders.<sup id="cite_ref-PM-ilvermorny_1-13" class="reference"><a href="#cite_note-PM-ilvermorny-1">&#91;1&#93;</a></sup>
+</p><p>As seen with William, they consider themselves indebted to the one who saves them, however much they dislike it. They also declare themselves bound to them until they have repaid the favour. William was particularly upset about it as it is against the beliefs of the Pukwudgie to assist humankind.<sup id="cite_ref-PM-ilvermorny_1-14" class="reference"><a href="#cite_note-PM-ilvermorny-1">&#91;1&#93;</a></sup>
+</p><p>The Pukwudgie can also be very grumpy and complain about many things they have to do, even if they actually want to do it. For example the ones that work at Ilvermorny often say they have no wish to be there, but they happily turn up every year to work there.<sup id="cite_ref-PM-ilvermorny_1-15" class="reference"><a href="#cite_note-PM-ilvermorny-1">&#91;1&#93;</a></sup>
+</p><p>They are very serious about their traditions, which led to a tantrum by William when Isolt asked him to break tradition and help humankind. He considered Isolt an exception as she saved him, but refused to help the wounded Webster and Chadwick and preferred to ignore them. Pukwudgies once hated humans but have since mellowed.<sup id="cite_ref-PM-ilvermorny_1-16" class="reference"><a href="#cite_note-PM-ilvermorny-1">&#91;1&#93;</a></sup>
+</p><p>They can think it is humiliating if the one they are indebted to appears foolish and have no problem with showing great ingratitude as they stay with them.<sup id="cite_ref-PM-ilvermorny_1-17" class="reference"><a href="#cite_note-PM-ilvermorny-1">&#91;1&#93;</a></sup>
+</p><p>They can also be very wary and distrusting of certain things such as the <a href="/wiki/Horned_Serpent" title="Horned Serpent">Horned Serpent</a>. However, they are very intelligent as William possessed great knowledge of the land and the creatures that lived there. They are also able to create their own weapons and possess their <a href="/wiki/Pukwudgie_magic" title="Pukwudgie magic">own magic</a>. The Pukwudgie can also be very loyal and protective of the things they love.<sup id="cite_ref-PM-ilvermorny_1-18" class="reference"><a href="#cite_note-PM-ilvermorny-1">&#91;1&#93;</a></sup>
+</p><p>It is not known how long Pukwudgies can live for, but some at Ilvermorny claim William still worked at Ilvermorny when he would be over three hundred years old.<sup id="cite_ref-PM-ilvermorny_1-19" class="reference"><a href="#cite_note-PM-ilvermorny-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Eytmology">Eytmology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Pukwudgie?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Eytmology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Pukwudgie?action=edit&amp;section=5" title="Edit section: Eytmology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Pukwudgie means 'person of the wilderness' in Native American languages.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Known_Pukwudgies">Known Pukwudgies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Pukwudgie?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Known Pukwudgies">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Pukwudgie?action=edit&amp;section=6" title="Edit section: Known Pukwudgies"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/William_(Pukwudgie)" title="William (Pukwudgie)">William</a> - a Pukwudgie whom <a href="/wiki/Isolt_Sayre" title="Isolt Sayre">Isolt Sayre</a> rescued from a <a href="/wiki/Hidebehind" title="Hidebehind">Hidebehind</a> and nursed back to health. The two eventually became friends.<sup id="cite_ref-PM-ilvermorny_1-20" class="reference"><a href="#cite_note-PM-ilvermorny-1">&#91;1&#93;</a></sup> He was named after Isolt's murdered father.</li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Pukwudgie?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: See also">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Pukwudgie?action=edit&amp;section=7" title="Edit section: See also"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Pukwudgie_(House)" title="Pukwudgie (House)">Pukwudgie House</a> at <a href="/wiki/Ilvermorny_School_of_Witchcraft_and_Wizardry" title="Ilvermorny School of Witchcraft and Wizardry">Ilvermorny School of Witchcraft and Wizardry</a></li></ul>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Pukwudgie?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Pukwudgie?action=edit&amp;section=8" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>The <a href="http://en.wikipedia.org/wiki/Pukwudgie" class="extiw" title="wikipedia:Pukwudgie">Pukwudgie</a> is a creature that appears in the folklore of various <a href="/wiki/Native_Americans" title="Native Americans">indigenous peoples</a> of <a href="/wiki/North_America" title="North America">North America</a>, notably the <a href="http://en.wikipedia.org/wiki/Wampanoag_people" class="extiw" title="wikipedia:Wampanoag people">Wampanoag</a>.<sup id="cite_ref-wikipedia_3-0" class="reference"><a href="#cite_note-wikipedia-3">&#91;3&#93;</a></sup><sup id="cite_ref-nativelanguages_4-0" class="reference"><a href="#cite_note-nativelanguages-4">&#91;4&#93;</a></sup> It is typically described as two-to-three-feet tall and <a href="/wiki/Human" title="Human">human</a>-shaped, but with a larger nose, ears, and fingers and smooth, grey skin that sometimes glows.<sup id="cite_ref-wikipedia_3-1" class="reference"><a href="#cite_note-wikipedia-3">&#91;3&#93;</a></sup> Its magical abilities include disappearing and reappearing, partial or complete transformation into a porcupine or cougar, and creating fire.<sup id="cite_ref-wikipedia_3-2" class="reference"><a href="#cite_note-wikipedia-3">&#91;3&#93;</a></sup></li>
+<li>The Pukwudgie taboo against revealing ones personal names could possibly derive from the belief that knowing ones name enables another to <a href="/wiki/Imperius_Curse" title="Imperius Curse">control</a> or <a href="/wiki/Curse" title="Curse">curse</a> a person, and may have been the inspiration for the fairy tale, <a href="http://en.wikipedia.org/wiki/Rumpelstiltskin" class="extiw" title="wikipedia:Rumpelstiltskin">Rumpelstiltskin</a>.</li>
+<li>It is unknown if Pukwudgies are classified as either <a href="/wiki/Being" title="Being">Beings</a> or <a href="/wiki/Beast" title="Beast">Beasts</a>.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Pukwudgie?veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Pukwudgie?action=edit&amp;section=9" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" class="lazyload" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 4 images related to <i><b><a href="/wiki/Category:Images_of_Pukwudgies" title="Category:Images of Pukwudgies">Pukwudgie</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<ul><li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Wizarding_World_(website)" title="Wizarding World (website)">Wizarding World</a></i></li>
+<li><i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Pukwudgie?veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Pukwudgie?action=edit&amp;section=10" title="Edit section: Notes and references

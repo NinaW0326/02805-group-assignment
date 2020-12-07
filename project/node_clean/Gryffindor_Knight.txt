@@ -1,0 +1,35 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-object pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/f/fe/Hp015_Gryffindor_Knight_Statue.jpg/revision/latest?cb=20100706131041" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/f/fe/Hp015_Gryffindor_Knight_Statue.jpg/revision/latest/scale-to-width-down/254?cb=20100706131041" srcset="https://static.wikia.nocookie.net/harrypotter/images/f/fe/Hp015_Gryffindor_Knight_Statue.jpg/revision/latest/scale-to-width-down/254?cb=20100706131041 1x, https://static.wikia.nocookie.net/harrypotter/images/f/fe/Hp015_Gryffindor_Knight_Statue.jpg/revision/latest/scale-to-width-down/508?cb=20100706131041 2x" class="pi-image-thumbnail" alt="" width="254" height="448"
+		     data-image-key="Hp015_Gryffindor_Knight_Statue.jpg" data-image-name="Hp015 Gryffindor Knight Statue.jpg"/>
+		
+	</a>
+	
+</figure>
+
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Gryffindor Knight</h2>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Object information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="location">
+	
+		<h3 class="pi-data-label pi-secondary-font">Location</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Hogwarts_Castle" title="Hogwarts Castle">Hogwarts Castle</a></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Object_infobox" title="Template:Object infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+The <b>Gryffindor Knight Statue</b> was a <a href="/wiki/Suit_of_armour" title="Suit of armour">suit of armour</a> associated with the House of <a href="/wiki/Gryffindor" title="Gryffindor">Gryffindor</a> at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a>.
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gryffindor_Knight?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gryffindor_Knight?action=edit&amp;section=1" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>The Gryffindor Knight Statue was included in <a href="/wiki/LEGO_Harry_Potter" title="LEGO Harry Potter">LEGO</a> set #4709.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></li>
+<li>It is possible that this knight was the suit that appeared during the <a href="/wiki/Battle_of_Hogwarts" title="Battle of Hogwarts">Battle of Hogwarts</a> with the Gryffindor Crest shield.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gryffindor_Knight?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gryffindor_Knight?action=edit&amp;section=2" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/LEGO_Harry_Potter" title="LEGO Harry Potter">LEGO Harry Potter</a></i> <small>(Appears as statue)</small></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter:_Characters_of_the_Magical_World" title="LEGO Harry Potter: Characters of the Magical World">LEGO Harry Potter: Characters of the Magical World</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gryffindor_Knight?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gryffindor_Knight?action=edit&amp;section=3" title="Edit section: Notes and references

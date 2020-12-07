@@ -1,0 +1,132 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-dark-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/7/7e/Corvus%28IV%29.png/revision/latest?cb=20181217171436" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/7/7e/Corvus%28IV%29.png/revision/latest/scale-to-width-down/350?cb=20181217171436" srcset="https://static.wikia.nocookie.net/harrypotter/images/7/7e/Corvus%28IV%29.png/revision/latest/scale-to-width-down/350?cb=20181217171436 1x, https://static.wikia.nocookie.net/harrypotter/images/7/7e/Corvus%28IV%29.png/revision/latest/scale-to-width-down/699?cb=20181217171436 2x" class="pi-image-thumbnail" alt="" width="270" height="311"
+		     data-image-key="Corvus%28IV%29.png" data-image-name="Corvus(IV).png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Corvus Lestrange</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">Pre <a href="/wiki/1879" class="mw-redirect" title="1879">1879</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font">Pre <a href="/wiki/1927" title="1927">1927</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Pure-blood" title="Pure-blood">Pure-blood</a><sup id="cite_ref-Blood_1-0" class="reference"><a href="#cite_note-Blood-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="marital">
+	
+		<h3 class="pi-data-label pi-secondary-font">Marital status</h3>
+	
+	<div class="pi-data-value pi-font">Married<sup id="cite_ref-COGS_2-0" class="reference"><a href="#cite_note-COGS-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/France" title="France">French</a><sup id="cite_ref-COGS_2-1" class="reference"><a href="#cite_note-COGS-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-COGS_2-2" class="reference"><a href="#cite_note-COGS-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male<sup id="cite_ref-COGS_2-3" class="reference"><a href="#cite_note-COGS-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Corvus_Lestrange_(III)" title="Corvus Lestrange (III)">Corvus Lestrange</a> (father)<sup id="cite_ref-tree_3-0" class="reference"><a href="#cite_note-tree-3">&#91;3&#93;</a></sup></li><li><a href="/wiki/Eglantine_Lestrange" title="Eglantine Lestrange">Eglantine Lestrange</a> (mother)<sup id="cite_ref-COGS_2-4" class="reference"><a href="#cite_note-COGS-2">&#91;2&#93;</a></sup></li><li><a href="/wiki/Laurena_Kama" title="Laurena Kama">Laurena Kama</a> (first wife) †<sup id="cite_ref-COGS_2-5" class="reference"><a href="#cite_note-COGS-2">&#91;2&#93;</a></sup></li><li><a href="/wiki/Clarisse_Lestrange" title="Clarisse Lestrange">Clarisse Lestrange</a> (second wife/first cousin) †<sup id="cite_ref-tree_3-1" class="reference"><a href="#cite_note-tree-3">&#91;3&#93;</a></sup></li><li><a href="/wiki/Leta_Lestrange" title="Leta Lestrange">Leta Lestrange</a> (daughter from first marriage) †<sup id="cite_ref-tree_3-2" class="reference"><a href="#cite_note-tree-3">&#91;3&#93;</a></sup></li><li><a href="/wiki/Corvus_Lestrange_(V)" title="Corvus Lestrange (V)">Corvus Lestrange</a> (son from second marriage/first cousin once removed) †<sup id="cite_ref-tree_3-3" class="reference"><a href="#cite_note-tree-3">&#91;3&#93;</a></sup></li><li><a href="/wiki/Corvus_Lestrange_(II)" title="Corvus Lestrange (II)">Corvus Lestrange</a> (grandfather)<sup id="cite_ref-tree_3-4" class="reference"><a href="#cite_note-tree-3">&#91;3&#93;</a></sup></li><li><a href="/wiki/Minette_Lestrange" title="Minette Lestrange">Minette Lestrange</a> (grandmother)<sup id="cite_ref-tree_3-5" class="reference"><a href="#cite_note-tree-3">&#91;3&#93;</a></sup></li><li><a href="/wiki/Corvus_Lestrange_(I)" title="Corvus Lestrange (I)">Corvus Lestrange</a> (great-grandfather)<sup id="cite_ref-tree_3-6" class="reference"><a href="#cite_note-tree-3">&#91;3&#93;</a></sup></li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Lestrange_family" title="Lestrange family">Lestrange family</a></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+<b>Corvus Lestrange</b> (b. pre <a href="/wiki/1879" class="mw-redirect" title="1879">1879</a> - d. pre <a href="/wiki/1927" title="1927">1927</a>) was a <a href="/wiki/France" title="France">French</a> <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> and a member of the <a href="/wiki/Pure-blood" title="Pure-blood">pure-blood</a><sup id="cite_ref-Blood_1-1" class="reference"><a href="#cite_note-Blood-1">&#91;1&#93;</a></sup> <a href="/wiki/Lestrange_family" title="Lestrange family">Lestrange family</a>. He was the son of <a href="/wiki/Corvus_Lestrange_(III)" title="Corvus Lestrange (III)">Corvus Lestrange</a> and <a href="/wiki/Eglantine_Lestrange" title="Eglantine Lestrange">Eglantine Lestrange</a>. He married the already married <a href="/wiki/Laurena_Kama" title="Laurena Kama">Laurena Kama</a> and had a daughter with her, <a href="/wiki/Leta_Lestrange" title="Leta Lestrange">Leta Lestrange</a>. When Laurena died, he married <a href="/wiki/Clarisse_Lestrange" title="Clarisse Lestrange">Clarisse Tremblay</a> and had a son with her, <a href="/wiki/Corvus_Lestrange_(V)" title="Corvus Lestrange (V)">Corvus</a>.<sup id="cite_ref-COGS_2-6" class="reference"><a href="#cite_note-COGS-2">&#91;2&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Personality_and_traits"><span class="tocnumber">2</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Magical_abilities_and_skills"><span class="tocnumber">3</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Etymology"><span class="tocnumber">4</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Behind_the_scenes"><span class="tocnumber">5</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Appearances"><span class="tocnumber">6</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Notes_and_references"><span class="tocnumber">7</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Corvus_Lestrange_(IV)?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Corvus_Lestrange_(IV)?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Corvus were acquainted with the Kama Family. One night, Corvus Lestrange put <a href="/wiki/Laurena_Kama" title="Laurena Kama">Laurena Kama</a> under the <a href="/wiki/Imperius_Curse" title="Imperius Curse">Imperius Curse</a> and kidnapped and married her. He had a daughter with her, <a href="/wiki/Leta_Lestrange" title="Leta Lestrange">Leta Lestrange</a>. Laurena died shortly after. Corvus never loved Leta, the same as with Laurena. Shortly after he married <a href="/wiki/Clarisse_Lestrange" title="Clarisse Lestrange">Clarisse Tremblay</a>. He did not love her either, but he had a son with her, <a href="/wiki/Corvus_Lestrange_(V)" title="Corvus Lestrange (V)">Corvus</a>. When Clarisse died, Corvus was the light in his eyes.<sup id="cite_ref-COGS_2-7" class="reference"><a href="#cite_note-COGS-2">&#91;2&#93;</a></sup>
+</p><p><a href="/wiki/Yusuf_Kama" title="Yusuf Kama">Yusuf Kama</a>, son of Laurena Kama and <a href="/wiki/Mustafa_Kama" title="Mustafa Kama">Mustafa Kama</a>, swore an <a href="/wiki/Unbreakable_Vow" title="Unbreakable Vow">Unbreakable Vow</a> to kill young Corvus and end the Lestrange lineage as revenge for the abduction of his mother. In an attempt to protect his son, Lestrange sent both him and his daughter Leta to America along with his servant Irma Dugard. Sometime afterwards he passed away, and a family tree he owed ended at the French ministry.<sup id="cite_ref-COGS_2-8" class="reference"><a href="#cite_note-COGS-2">&#91;2&#93;</a></sup>
+</p><p>Yusuf mistakenly believed <a href="/wiki/Aurelius_Dumbledore" class="mw-redirect" title="Aurelius Dumbledore">Credence Barebone</a> to be Corvus Lestrange (along with much of the rest of the wizarding world), as he was unaware that a young Leta had switched Corvus in his crib with <a href="/wiki/Aurelius_Dumbledore" class="mw-redirect" title="Aurelius Dumbledore">Aurelius Dumbledore</a>, and attempted to resolve his vow by killing Credence.<sup id="cite_ref-COGS_2-9" class="reference"><a href="#cite_note-COGS-2">&#91;2&#93;</a></sup>
+</p><p>After his death, Corvus Lestrange's remains were interred at the <a href="/wiki/Lestrange_Mausoleum" title="Lestrange Mausoleum">Lestrange Mausoleum</a>, at the <a href="/wiki/Cimeti%C3%A8re_du_P%C3%A8re-Lachaise" title="Cimetière du Père-Lachaise">Cimetière du Père-Lachaise</a>, in <a href="/wiki/Paris" title="Paris">Paris</a>, his grand marble tomb dominating the many sarcophagi there.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Corvus_Lestrange_(IV)?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Personality and traits">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Corvus_Lestrange_(IV)?action=edit&amp;section=2" title="Edit section: Personality and traits"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>From what is known of his history, Corvus (IV) seemed to be a cold-hearted man who was not above using dark magic or taking another man's wife. Furthermore, he did not care about the consequences of his actions, showing him to be rather ruthless, selfish and egotistical. He did not love his daughter Leta or his second wife, but loved his son. It is possible that his love for his son was because Corvus V's birth meant the future survival of his family line.<sup id="cite_ref-COGS_2-10" class="reference"><a href="#cite_note-COGS-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Corvus_Lestrange_(IV)?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Corvus_Lestrange_(IV)?action=edit&amp;section=3" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Dark_Arts" title="Dark Arts">Dark Arts</a></b>: Corvus was able to successfully cast the <a href="/wiki/Imperius_Curse" title="Imperius Curse">Imperius Curse</a> on <a href="/wiki/Laurena_Kama" title="Laurena Kama">Laurena Kama</a>, allowing him to marry her against her will. His proficiency in casting this <a href="/wiki/Unforgivable_Curses" title="Unforgivable Curses">Unforgivable Curse</a> implies he was a skilled <a href="/wiki/Dark_Wizard" title="Dark Wizard">Dark Wizard</a>.<sup id="cite_ref-COGS_2-11" class="reference"><a href="#cite_note-COGS-2">&#91;2&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Corvus_Lestrange_(IV)?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Corvus_Lestrange_(IV)?action=edit&amp;section=4" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>"<a href="http://en.wikipedia.org/wiki/Corvus" class="extiw" title="wikipedia:Corvus">Corvus</a>" is Latin for "<a href="/wiki/Raven" title="Raven">raven</a>", probably from the Greek κόραξ (<i>korax</i>, "<a href="http://en.wikipedia.org/wiki/raven" class="extiw" title="wikipedia:raven">raven</a>"). <i>Corvus</i> is the family name of medium to large black birds including crows, ravens, jackdaws and the like. This is thus an allusion to the Dark nature of the Lestrange family, as such birds (particularly ravens) have often been harbingers of doom in folklore.
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Corvus_Lestrange_(IV)?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Corvus_Lestrange_(IV)?action=edit&amp;section=5" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Corvus Lestrange is played by <a href="/wiki/Keith_Chanter" title="Keith Chanter">Keith Chanter</a> in <i><a href="/wiki/Fantastic_Beasts:_The_Crimes_of_Grindelwald" title="Fantastic Beasts: The Crimes of Grindelwald">Fantastic Beasts: The Crimes of Grindelwald</a></i>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup></li>
+<li>It is noteworthy that he used the <a href="/wiki/Imperius_Curse" title="Imperius Curse">Imperius Curse</a> to force Laurena in to marriage rather than a <a href="/wiki/Love_Potion" class="mw-redirect" title="Love Potion">Love Potion</a> possibly in order to prevent any side effects to his daughter</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Corvus_Lestrange_(IV)?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Corvus_Lestrange_(IV)?action=edit&amp;section=6" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Fantastic_Beasts:_The_Crimes_of_Grindelwald_-_The_Original_Screenplay" title="Fantastic Beasts: The Crimes of Grindelwald - The Original Screenplay">Fantastic Beasts: The Crimes of Grindelwald - The Original Screenplay</a></i> <small>(First appearance)</small> <small>(Appears in flashback(s))</small></li>
+<li><i><a href="/wiki/Fantastic_Beasts:_The_Crimes_of_Grindelwald" title="Fantastic Beasts: The Crimes of Grindelwald">Fantastic Beasts: The Crimes of Grindelwald</a></i> <small>(Appears in flashback(s))</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Corvus_Lestrange_(IV)?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Corvus_Lestrange_(IV)?action=edit&amp;section=7" title="Edit section: Notes and references

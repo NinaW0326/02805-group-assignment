@@ -1,0 +1,127 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-phoenix pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/9/9e/Gideon_Prewett.jpg/revision/latest?cb=20170625193344" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/9/9e/Gideon_Prewett.jpg/revision/latest/scale-to-width-down/348?cb=20170625193344" srcset="https://static.wikia.nocookie.net/harrypotter/images/9/9e/Gideon_Prewett.jpg/revision/latest/scale-to-width-down/348?cb=20170625193344 1x, https://static.wikia.nocookie.net/harrypotter/images/9/9e/Gideon_Prewett.jpg/revision/latest/scale-to-width-down/696?cb=20170625193344 2x" class="pi-image-thumbnail" alt="" width="270" height="306"
+		     data-image-key="Gideon_Prewett.jpg" data-image-name="Gideon Prewett.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Gideon Prewett</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/1981" title="1981">1981</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Pure-blood" title="Pure-blood">Pure-blood</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/England" title="England">English</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Muriel%27s_mother" title="Muriel&#039;s mother">Grandmother</a></li><li><a href="/wiki/Molly_Weasley%27s_father" title="Molly Weasley&#039;s father">Mr Prewett</a> (father)</li><li><a href="/wiki/Molly_Weasley%27s_mother" title="Molly Weasley&#039;s mother">Mrs Prewett</a> (mother)</li><li><a href="/wiki/Muriel" title="Muriel">Muriel</a> (great-aunt<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>)</li><li><a href="/wiki/Tessie" title="Tessie">Tessie</a> (possible aunt)</li><li><a href="/wiki/Ignatius_Prewett" title="Ignatius Prewett">Ignatius Prewett</a> (uncle)</li><li><a href="/wiki/Lucretia_Black" title="Lucretia Black">Lucretia Prewett</a> (aunt)</li><li><a href="/wiki/Fabian_Prewett" title="Fabian Prewett">Fabian Prewett</a> (brother) †</li><li><a href="/wiki/Molly_Weasley" title="Molly Weasley">Molly Weasley</a> (sister)</li><li><a href="/wiki/Bilius" title="Bilius">Bilius</a> (possible brother)</li><li><a href="/wiki/Molly_Weasley%27s_second_cousin" title="Molly Weasley&#039;s second cousin">Second cousin</a></li><li><a href="/wiki/Arthur_Weasley" title="Arthur Weasley">Arthur Weasley</a> (brother-in-law)</li><li><a href="/wiki/Weasley_family" title="Weasley family">Various nephews and niece</a></li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Prewett_family" title="Prewett family">Prewett family</a></li><li><a href="/wiki/Order_of_the_Phoenix" title="Order of the Phoenix">Order of the Phoenix</a></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Order of the Phoenix">"<i>Gideon Prewett, it took five Death Eaters to kill him and his brother Fabian, they fought like heroes…</i>"</span></dd>
+<dd>&#8212;<a href="/wiki/Alastor_Moody" title="Alastor Moody">Alastor Moody</a> regarding the Prewett brothers deaths<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Gideon Prewett</b> (d. <a href="/wiki/1981" title="1981">1981</a>) was an <a href="/wiki/England" title="England">English</a> <a href="/wiki/Pure-blood" title="Pure-blood">pure-blood</a> <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a>, the brother of both <a href="/wiki/Fabian_Prewett" title="Fabian Prewett">Fabian</a> and <a href="/wiki/Molly_Weasley" title="Molly Weasley">Molly</a>. Gideon was a member of the original <a href="/wiki/Order_of_the_Phoenix" title="Order of the Phoenix">Order of the Phoenix</a>. He fought in the <a href="/wiki/First_Wizarding_War" title="First Wizarding War">First Wizarding War</a> and was murdered by five <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a> before war's end, along with his brother.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Post-mortem"><span class="tocnumber">1.1</span> <span class="toctext">Post-mortem</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Magical_abilities_and_skills"><span class="tocnumber">2</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Etymology"><span class="tocnumber">3</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Behind_the_scenes"><span class="tocnumber">4</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Appearances"><span class="tocnumber">5</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Notes_and_references"><span class="tocnumber">6</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gideon_Prewett?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gideon_Prewett?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Gideon was born into the wizarding <a href="/wiki/Prewett_family" title="Prewett family">Prewett family</a>, with his two <i>known </i>siblings: <a href="/wiki/Fabian_Prewett" title="Fabian Prewett">Fabian</a> and <a href="/wiki/Molly_Weasley" title="Molly Weasley">Molly</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> During the <a href="/wiki/First_Wizarding_War" title="First Wizarding War">First Wizarding War</a>, <a href="/wiki/Molly_Weasley" title="Molly Weasley">Molly</a>, Gideon's sister, married <a href="/wiki/Arthur_Weasley" title="Arthur Weasley">Arthur Weasley</a>, and the couple eventually had seven children. He also may have had a big nose.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p><p>During the <a href="/wiki/First_Wizarding_War" title="First Wizarding War">First Wizarding War</a>, Gideon and his brother decided to join the ranks of the <a href="/wiki/Order_of_the_Phoenix" title="Order of the Phoenix">Order of the Phoenix</a> to fight against <a href="/wiki/Tom_Riddle" title="Tom Riddle">Lord Voldemort</a> and his <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a>. Their sister does not appear to have been an official member, probably because she had young children to take care of.
+</p><p>Eventually, however, Gideon and Fabian were attacked by five Death Eaters, one of whom was <a href="/wiki/Antonin_Dolohov" title="Antonin Dolohov">Antonin Dolohov</a>. They were described as having "<i>fought like heroes</i>" by fellow Order member <a href="/wiki/Alastor_Moody" title="Alastor Moody">Alastor "Mad-Eye" Moody</a>, though both were ultimately killed. Following Voldemort's fall from power, Dolohov, and perhaps others involved in the Prewetts' "brutal" murders, were imprisoned in <a href="/wiki/Azkaban" title="Azkaban">Azkaban</a> for the crime.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Post-mortem">Post-mortem</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gideon_Prewett?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Post-mortem">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gideon_Prewett?action=edit&amp;section=2" title="Edit section: Post-mortem"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>It has never been shown how Molly coped with the deaths of her brothers. She rarely mentions them, perhaps indicating that she took their loss hard, but when she does, she speaks fondly of them indicating her love for her brothers.
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gideon_Prewett?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gideon_Prewett?action=edit&amp;section=3" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Magic" title="Magic">Magical</a> mastery</b>: Along with his brother <a href="/wiki/Fabian_Prewett" title="Fabian Prewett">Fabian</a>, Gideon was a highly-respected member of the <a href="/wiki/Order_of_the_Phoenix" title="Order of the Phoenix">Order of the Phoenix</a>, implying that he was proficient in many areas of magic. <a href="/wiki/Alastor_Moody" title="Alastor Moody">Alastor Moody</a> noted that it took five <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a>, including the particularly sadistic <a href="/wiki/Antonin_Dolohov" title="Antonin Dolohov">Antonin Dolohov</a>, to kill Gideon and his brother.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gideon_Prewett?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gideon_Prewett?action=edit&amp;section=4" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="http://en.wikipedia.org/wiki/Gideon_(Bible)" class="extiw" title="wikipedia:Gideon (Bible)">Gideon</a> is a Hebrew name, possibly meaning "mighty warrior". There is a figure in the Bible known as Gideon who is a judge known for his faith and sense of justice.
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gideon_Prewett?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gideon_Prewett?action=edit&amp;section=5" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>While Fabian and Gideon are mentioned as having been members of the <a href="/wiki/Order_of_the_Phoenix" title="Order of the Phoenix">Order</a>, their sister <a href="/wiki/Molly_Weasley" title="Molly Weasley">Molly</a> was not, most likely because she was raising her children, Gideon's nephews, during the <a href="/wiki/First_Wizarding_War" title="First Wizarding War">First Wizarding War</a>.</li>
+<li>It is possible Gideon's sister honoured Fabian and Gideon with the naming of her twin sons, Fred and George, who have the same initials, 'F' and 'G'. Fabian and Gideon may also have been twins themselves, though it has yet to be confirmed or denied. Contrary to popular belief, identical twins (unlike fraternal twins) do not run in families so the fact that two of their nephews, Fred and George, are identical twins does not give any more weight to this speculation.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gideon_Prewett?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gideon_Prewett?action=edit&amp;section=6" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 2 images related to <i><b><a href="/wiki/Category:Images_of_Gideon_Prewett" title="Category:Images of Gideon Prewett">Gideon Prewett</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">Harry Potter and the Order of the Phoenix</a></i> <small>(First mentioned)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(film)" title="Harry Potter and the Order of the Phoenix (film)">Harry Potter and the Order of the Phoenix (film)</a></i> <small>(Appears in photographs)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Gideon_Prewett?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Gideon_Prewett?action=edit&amp;section=7" title="Edit section: Notes and references

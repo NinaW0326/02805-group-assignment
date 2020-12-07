@@ -1,0 +1,141 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-slytherin pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/1/10/Untitled.jpg.bmp/revision/latest?cb=20130416151820" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/1/10/Untitled.jpg.bmp/revision/latest/scale-to-width-down/202?cb=20130416151820" srcset="https://static.wikia.nocookie.net/harrypotter/images/1/10/Untitled.jpg.bmp/revision/latest/scale-to-width-down/202?cb=20130416151820 1x, https://static.wikia.nocookie.net/harrypotter/images/1/10/Untitled.jpg.bmp/revision/latest/scale-to-width-down/404?cb=20130416151820 2x" class="pi-image-thumbnail" alt="" width="202" height="233"
+		     data-image-key="Untitled.jpg.bmp" data-image-name="Untitled.jpg.bmp"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Cassius Warrington</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">Between <a href="/wiki/1_September" title="1 September">1 September</a> and <a href="/wiki/31_October" title="31 October">31 October</a> <a href="/wiki/1977" title="1977">1977</a> (most likely)<sup id="cite_ref-birth_1-0" class="reference"><a href="#cite_note-birth-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a> or <a href="/wiki/Ireland" title="Ireland">Irish</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="title">
+	
+		<h3 class="pi-data-label pi-secondary-font">Title(s)</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Chaser" title="Chaser">Chaser</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Warrington_family" title="Warrington family">Warrington family</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="house">
+	
+		<h3 class="pi-data-label pi-secondary-font">House</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Slytherin" title="Slytherin">Slytherin</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a><ul><li><a href="/wiki/Slytherin" title="Slytherin">Slytherin</a></li><li><a href="/wiki/Slytherin_Quidditch_team" title="Slytherin Quidditch team">Slytherin Quidditch team</a></li><li><a href="/wiki/Inquisitorial_Squad" title="Inquisitorial Squad">Inquisitorial Squad</a></li></ul></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Cassius</b><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> <b>Warrington</b> (likely born between <a href="/wiki/1_September" title="1 September">1 September</a> and <a href="/wiki/31_October" title="31 October">31 October</a> <a href="/wiki/1977" title="1977">1977</a><sup id="cite_ref-birth_1-1" class="reference"><a href="#cite_note-birth-1">&#91;1&#93;</a></sup>) was a <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> and <a href="/wiki/Slytherin" title="Slytherin">Slytherin</a> student at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a>. He was named as a <a href="/wiki/Chaser" title="Chaser">Chaser</a> for the <a href="/wiki/Slytherin_Quidditch_team" title="Slytherin Quidditch team">Slytherin Quidditch team</a> in the <a href="/wiki/1993%E2%80%931994_school_year" title="1993–1994 school year">1993–1994 school year</a>. He may have later attempted to participate in the <a href="/wiki/Triwizard_Tournament" title="Triwizard Tournament">Triwizard Tournament</a> in <a href="/wiki/1994" title="1994">1994</a> and became a member of the <a href="/wiki/Inquisitorial_Squad" title="Inquisitorial Squad">Inquisitorial Squad</a> in <a href="/wiki/1995" title="1995">1995</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_years"><span class="tocnumber">1.1</span> <span class="toctext">Early years</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#1993.E2.80.931994_school_year"><span class="tocnumber">1.2</span> <span class="toctext">1993–1994 school year</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#1994.E2.80.931995_school_year"><span class="tocnumber">1.3</span> <span class="toctext">1994–1995 school year</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#1995.E2.80.931996_school_year"><span class="tocnumber">1.4</span> <span class="toctext">1995–1996 school year</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Personality_and_traits"><span class="tocnumber">2</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Magical_abilities_and_skills"><span class="tocnumber">3</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Behind_the_scenes"><span class="tocnumber">4</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Appearances"><span class="tocnumber">5</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Notes_and_references"><span class="tocnumber">6</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Cassius_Warrington?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Cassius_Warrington?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_years">Early years</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Cassius_Warrington?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Early years">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Cassius_Warrington?action=edit&amp;section=2" title="Edit section: Early years"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Cassius Warrington was likely born between <a href="/wiki/1_September" title="1 September">1 September</a> and <a href="/wiki/31_October" title="31 October">31 October</a> <a href="/wiki/1977" title="1977">1977</a><sup id="cite_ref-birth_1-2" class="reference"><a href="#cite_note-birth-1">&#91;1&#93;</a></sup> and came to be educated at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> in <a href="/wiki/1989" title="1989">1989</a>. The <a href="/wiki/Sorting_Hat" title="Sorting Hat">Sorting Hat</a> placed him in <a href="/wiki/Slytherin" title="Slytherin">Slytherin House</a> during the <a href="/wiki/Sorting_ceremony" title="Sorting ceremony">Sorting ceremony</a> and his <a href="/wiki/Head_of_House" title="Head of House">Head of House</a> was <a href="/wiki/Professor" title="Professor">Professor</a> <a href="/wiki/Severus_Snape" title="Severus Snape">Severus Snape</a>, the <a href="/wiki/Potions_Master" title="Potions Master">Potions Master</a>.
+</p>
+<h3><span id="1993–1994_school_year"></span><span class="mw-headline" id="1993.E2.80.931994_school_year">1993–1994 school year</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Cassius_Warrington?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: 1993–1994 school year">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Cassius_Warrington?action=edit&amp;section=3" title="Edit section: 1993–1994 school year"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In <a href="/wiki/1993" title="1993">1993</a>, Warrington replaced <a href="/wiki/Adrian_Pucey" title="Adrian Pucey">Adrian Pucey</a> as <a href="/wiki/Chaser" title="Chaser">Chaser</a> on the <a href="/wiki/Slytherin" title="Slytherin">Slytherin</a> <a href="/wiki/Quidditch" title="Quidditch">Quidditch</a> <a href="/wiki/Slytherin_Quidditch_team" title="Slytherin Quidditch team">team</a> with <a href="/wiki/Marcus_Flint" title="Marcus Flint">Marcus Flint</a> as the <a href="/wiki/Quidditch_Captain#Hogwarts_Quidditch_Captains" title="Quidditch Captain">Quidditch Captain</a>. <a href="/wiki/Lee_Jordan" title="Lee Jordan">Lee Jordan</a>, the Commentator at the time, said that Flint was "<i>going for size rather than skill</i>" in the lineup in reference to Warrington. On the last day of the season, Slytherin lost to the <a href="/wiki/Gryffindor" title="Gryffindor">Gryffindor</a> <a href="/wiki/Quidditch" title="Quidditch">Quidditch</a> <a href="/wiki/Gryffindor_Quidditch_team" title="Gryffindor Quidditch team">team</a> during the re-scheduled match, and thus Gryffindor won the <a href="/wiki/Inter-House_Quidditch_Cup" title="Inter-House Quidditch Cup">Quidditch Cup</a>. Also that same year, Warrington presumably sat his <a href="/wiki/Ordinary_Wizarding_Level" title="Ordinary Wizarding Level">O.W.L.s</a> under the <a href="/wiki/Wizarding_Examinations_Authority" title="Wizarding Examinations Authority">Wizarding Examinations Authority</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p>
+<h3><span id="1994–1995_school_year"></span><span class="mw-headline" id="1994.E2.80.931995_school_year">1994–1995 school year</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Cassius_Warrington?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: 1994–1995 school year">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Cassius_Warrington?action=edit&amp;section=4" title="Edit section: 1994–1995 school year"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In <a href="/wiki/1994" title="1994">1994</a>, <a href="/wiki/Quidditch" title="Quidditch">Quidditch</a> was cancelled due to the <a href="/wiki/Triwizard_Tournament" title="Triwizard Tournament">Triwizard Tournament</a> being held in <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts</a>. When <a href="/wiki/Albus_Dumbledore" title="Albus Dumbledore">Albus Dumbledore</a> placed the <a href="/wiki/Goblet_of_Fire" title="Goblet of Fire">Goblet of Fire</a> in the <a href="/wiki/Great_Hall" title="Great Hall">Great Hall</a> in order for students to try to compete, it was rumoured that Warrington put his name in.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> If so, it was for naught, as <a href="/wiki/Cedric_Diggory" title="Cedric Diggory">Cedric Diggory</a> was chosen over him.
+</p><p class="mw-empty-elt"></p><figure class="thumb tright show-info-icon" style="width: 222px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/8/8e/Harry_Potter-_Ashley.jpg/revision/latest?cb=20151022154326" class="image"><img alt="Harry Potter- Ashley.jpg" src="https://static.wikia.nocookie.net/harrypotter/images/8/8e/Harry_Potter-_Ashley.jpg/revision/latest/scale-to-width-down/220?cb=20151022154326" decoding="async" width="220" height="140" class="thumbimage" data-image-name="Harry Potter- Ashley.jpg" data-image-key="Harry_Potter-_Ashley.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Harry_Potter-_Ashley.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 	</figcaption> </figure>
+<p class="mw-empty-elt"></p>
+<h3><span id="1995–1996_school_year"></span><span class="mw-headline" id="1995.E2.80.931996_school_year">1995–1996 school year</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Cassius_Warrington?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: 1995–1996 school year">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Cassius_Warrington?action=edit&amp;section=5" title="Edit section: 1995–1996 school year"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>During <a href="/wiki/1995-1996_school_year" class="mw-redirect" title="1995-1996 school year">this school year</a>, Warrington played <a href="/wiki/Quidditch" title="Quidditch">Quidditch</a> on the <a href="/wiki/Slytherin" title="Slytherin">Slytherin</a> team against <a href="/wiki/Gryffindor" title="Gryffindor">Gryffindor</a> and scored against the new Gryffindor keeper, <a href="/wiki/Ronald_Weasley" title="Ronald Weasley">Ron Weasley</a>, who was still trying to get his confidence.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+This same year, <a href="/wiki/Dolores_Umbridge" title="Dolores Umbridge">Dolores Umbridge</a> became the <a href="/wiki/Defence_Against_the_Dark_Arts" title="Defence Against the Dark Arts">Defence Against the Dark Arts</a> <a href="/wiki/Professor" title="Professor">Professor</a> and later <a href="/wiki/Hogwarts_High_Inquisitor" title="Hogwarts High Inquisitor">High Inquisitor of Hogwarts</a>. As High Inquisitor, Umbridge formed the <a href="/wiki/Inquisitorial_Squad" title="Inquisitorial Squad">Inquisitorial Squad</a>, of which Warrington was a member, who were given the power to dock <a href="/wiki/House_points" title="House points">House points</a> from all students, including <a href="/wiki/Prefect" title="Prefect">Prefects</a>. <a href="/wiki/Inquisitorial_Squad" title="Inquisitorial Squad">The squad</a> had a hard time keeping order though, as many of them came down with weird ailments. Warrington, for instance, reported to the <a href="/wiki/Hospital_Wing" title="Hospital Wing">Hospital Wing</a> with a <a href="/wiki/Cornflake_skin_spell" title="Cornflake skin spell">horrible skin complaint</a> that made him look as though he had been coated in <a href="/wiki/Cornflakes" title="Cornflakes">cornflakes</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p><p>When <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> tried to contact <a href="/wiki/Sirius_Black" title="Sirius Black">Sirius Black</a>, he had several students create diversions. Warrington and several others tried to catch students, and Warrington caught <a href="/wiki/Ginevra_Weasley" title="Ginevra Weasley">Ginny Weasley</a> and <a href="/wiki/Neville_Longbottom" title="Neville Longbottom">Neville Longbottom</a>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> However, the <a href="/wiki/Dumbledore%27s_Army" title="Dumbledore&#39;s Army">Dumbledore's Army</a> members managed to overpower the squad once Umbridge, Hermione and Harry had left, having attacked them with many well placed <a href="/wiki/Jinx" title="Jinx">jinxes</a>, <a href="/wiki/Hex" title="Hex">hexes</a> and <a href="/wiki/Curse" title="Curse">curses</a>, such as <a href="/wiki/Ginevra_Weasley" title="Ginevra Weasley">Ginevra Weasley</a>'s impressive <a href="/wiki/Bat-Bogey_Hex" title="Bat-Bogey Hex">Bat-Bogey Hex</a>; as such, he was likely injured after this event.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> At the end of the year, <a href="/wiki/Dolores_Umbridge" title="Dolores Umbridge">Umbridge</a> left and the <a href="/wiki/Inquisitorial_Squad" title="Inquisitorial Squad">Squad</a> was disbanded.
+</p>
+<h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Cassius_Warrington?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Personality and traits">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Cassius_Warrington?action=edit&amp;section=6" title="Edit section: Personality and traits"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Having been a member of the short-lived <a href="/wiki/Inquisitorial_Squad" title="Inquisitorial Squad">Inquisitorial Squad</a> during the <a href="/wiki/1995%E2%80%931996_school_year" title="1995–1996 school year">1995–1996 school year</a>, Warrington was presumably rather mean-spirited and power-hungry, given how the squad was notorious for harassing students for minor or non-existent infractions and for deducting House points from <a href="/wiki/Gryffindor" title="Gryffindor">Gryffindors</a>, <a href="/wiki/Hufflepuff" title="Hufflepuff">Hufflepuffs</a> and <a href="/wiki/Ravenclaw" title="Ravenclaw">Ravenclaws</a> for petty and spiteful reasons. He was also however rather ambitious, being a member of <a href="/wiki/Slytherin" title="Slytherin">Slytherin</a> house, as he was rumoured to have placed his name in the <a href="/wiki/Triwizard_Cup" title="Triwizard Cup">Triwizard Cup</a> in <a href="/wiki/1994" title="1994">1994</a> and also played for the <a href="/wiki/Slytherin_Quidditch_team" title="Slytherin Quidditch team">Slytherin Quidditch team</a>. 
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Cassius_Warrington?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Cassius_Warrington?action=edit&amp;section=7" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Flight" title="Flight">Flying</a></b>: Warrington was chosen as <a href="/wiki/Chaser" title="Chaser">Chaser</a> for the <a href="/wiki/Slytherin_Quidditch_team" title="Slytherin Quidditch team">Slytherin Quidditch team</a> in <a href="/wiki/1993" title="1993">1993</a>, meaning he was evidently an accomplished and talented <a href="/wiki/Broomstick" title="Broomstick">broomstick</a> flyer and <a href="/wiki/Quidditch" title="Quidditch">Quidditch</a> player, so much so that the team considered him good enough to replace <a href="/wiki/Adrian_Pucey" title="Adrian Pucey">Adrian Pucey</a>.</li></ul>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Cassius_Warrington?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Cassius_Warrington?action=edit&amp;section=8" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Warrington was portrayed by <a href="/wiki/Great_Britain" title="Great Britain">British</a> actor <a href="/wiki/Ashley_Hull" title="Ashley Hull">Ashley Hull</a> in the <a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(film)" title="Harry Potter and the Order of the Phoenix (film)">film adaptation</a> of <i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">Harry Potter and the Order of the Phoenix</a></i>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Cassius_Warrington?veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Cassius_Warrington?action=edit&amp;section=9" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban" title="Harry Potter and the Prisoner of Azkaban">Harry Potter and the Prisoner of Azkaban</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire" title="Harry Potter and the Goblet of Fire">Harry Potter and the Goblet of Fire</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">Harry Potter and the Order of the Phoenix</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(film)" title="Harry Potter and the Order of the Phoenix (film)">Harry Potter and the Order of the Phoenix (film)</a></i> <span class="template-c">(First identified as Cassius Warrington on film prop in <i>Harry Potter Wizard's Collection</i>)</span></li>
+<li><i><a href="/wiki/Quidditch_Through_the_Ages_(real)" title="Quidditch Through the Ages (real)">Quidditch Through the Ages</a></i> <small>(Mentioned only)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Cassius_Warrington?veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Cassius_Warrington?action=edit&amp;section=10" title="Edit section: Notes and references

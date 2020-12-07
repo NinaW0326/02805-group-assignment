@@ -1,0 +1,104 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/3/3f/RomildaGoshawk.png/revision/latest?cb=20130106023915" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/3/3f/RomildaGoshawk.png/revision/latest/scale-to-width-down/350?cb=20130106023915" srcset="https://static.wikia.nocookie.net/harrypotter/images/3/3f/RomildaGoshawk.png/revision/latest/scale-to-width-down/350?cb=20130106023915 1x, https://static.wikia.nocookie.net/harrypotter/images/3/3f/RomildaGoshawk.png/revision/latest/scale-to-width-down/699?cb=20130106023915 2x" class="pi-image-thumbnail" alt="" width="270" height="274"
+		     data-image-key="RomildaGoshawk.png" data-image-name="RomildaGoshawk.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Romilda Goshawk</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/1921" title="1921">1921</a> or earlier</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Miranda_Goshawk%27s_mother" title="Miranda Goshawk&#039;s mother">Mrs Goshawk</a> (mother)<sup id="cite_ref-WBoS_1-0" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/Miranda_Goshawk%27s_father" title="Miranda Goshawk&#039;s father">Mr Goshawk</a> (father)<sup id="cite_ref-WBoS_1-1" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/Miranda_Goshawk%27s_aunts_and_uncles" title="Miranda Goshawk&#039;s aunts and uncles">Several aunts and uncles</a><sup id="cite_ref-WBoS_1-2" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/Diadema_Goshawk" title="Diadema Goshawk">Diadema Goshawk</a> (sister)<sup id="cite_ref-WBoS_1-3" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/Tangwystl_Goshawk" title="Tangwystl Goshawk">Tangwystl Goshawk</a> (sister)<sup id="cite_ref-WBoS_1-4" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/Miranda_Goshawk" title="Miranda Goshawk">Miranda Goshawk</a> (sister)<sup id="cite_ref-WBoS_1-5" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/Goshawk_sisters" title="Goshawk sisters">Five more sisters</a><sup id="cite_ref-WBoS_1-6" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup></li><li><a href="/wiki/Miranda_Goshawk%27s_cousins" title="Miranda Goshawk&#039;s cousins">Several cousins</a><sup id="cite_ref-WBoS_1-7" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup></li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Goshawk_family" title="Goshawk family">Goshawk family</a></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Wonderbook: Book of Spells">"<i>I also had a few special editions printed for my dear sisters, which unfortunately contained a few misprints that led to quite a few comical mishaps! But Romilda's tail has vanished now, and we're all friends again.</i>"</span></dd>
+<dd>&#8212;<a href="/wiki/Miranda_Goshawk" title="Miranda Goshawk">Miranda Goshawk</a>, <i><a href="/wiki/Book_of_Spells" title="Book of Spells">Book of Spells</a></i> (<i>Foreword</i>)<sup class="noprint"><a href="/wiki/Wonderbook:_Book_of_Spells" title="Wonderbook: Book of Spells">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Romilda Goshawk</b> (fl. <a href="/wiki/1921" title="1921">1921</a>) was one of <a href="/wiki/Miranda_Goshawk" title="Miranda Goshawk">Miranda Goshawk</a>'s eight older sisters.<sup id="cite_ref-WBoS_1-8" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_life"><span class="tocnumber">1.1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Later_life"><span class="tocnumber">1.2</span> <span class="toctext">Later life</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Appearances"><span class="tocnumber">2</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Notes_and_references"><span class="tocnumber">3</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Romilda_Goshawk?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Romilda_Goshawk?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Romilda_Goshawk?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Early life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Romilda_Goshawk?action=edit&amp;section=2" title="Edit section: Early life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Romilda grew up in a <a href="/wiki/Goshawk_family" title="Goshawk family">wizarding family</a> with eight sisters, including <a href="/wiki/Diadema_Goshawk" title="Diadema Goshawk">Diadema</a>, <a href="/wiki/Tangwystl_Goshawk" title="Tangwystl Goshawk">Tangwystl</a>, and the youngest, <a href="/wiki/Miranda_Goshawk" title="Miranda Goshawk">Miranda</a>.<sup id="cite_ref-WBoS_1-9" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup>
+</p><p>Along with the other seven older sisters, Romilda used to try to give Miranda the wrong <a href="/wiki/Incantation" title="Incantation">incantation</a> for every <a href="/wiki/Spell" title="Spell">spell</a> she attempted to cast, thus hindering her learning of <a href="/wiki/Magic" title="Magic">magic</a>. Miranda found learning spells complex enough as it was, given that the instructions that she found in the old-fashioned textbooks she was given during her school years were needlessly complicated.<sup id="cite_ref-WBoS_1-10" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup>
+</p><p>Miranda kept Romilda out of her room when she wanted some peace by casting the <a href="/wiki/Bat-Bogey_Hex" title="Bat-Bogey Hex">Bat-Bogey Hex</a> on her.<sup id="cite_ref-WBoS_1-11" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Later_life">Later life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Romilda_Goshawk?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Later life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Romilda_Goshawk?action=edit&amp;section=3" title="Edit section: Later life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="thumb tleft show-info-icon" style="width: 252px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/8/8e/Goshtail.png/revision/latest?cb=20130106023720" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/8/8e/Goshtail.png/revision/latest/scale-to-width-down/250?cb=20130106023720" decoding="async" width="250" height="153" class="thumbimage" data-image-name="Goshtail.png" data-image-key="Goshtail.png" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Goshtail.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Romilda's tail</p> 		 	</figcaption> </figure>
+<p>As a result of the difficulty she experienced learning spells as a child, when she grew up, Miranda became quite an accomplished spellbook author, wishing to make teaching and learning about spells an easier task. When she released <i><a href="/wiki/Book_of_Spells" title="Book of Spells">Book of Spells</a></i>, Miranda had a few "special editions" (actually editions containing deliberate misprints) sent to her sisters, and as a result, Romilda was left with a <a href="/wiki/Tail-growing_hex" title="Tail-growing hex">tail</a> that eventually vanished.<sup id="cite_ref-WBoS_1-12" class="reference"><a href="#cite_note-WBoS-1">&#91;1&#93;</a></sup>
+</p>
+<div style="clear:both;"></div>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Romilda_Goshawk?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Romilda_Goshawk?action=edit&amp;section=4" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Wonderbook:_Book_of_Spells" title="Wonderbook: Book of Spells">Wonderbook: Book of Spells</a></i> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Romilda_Goshawk?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Romilda_Goshawk?action=edit&amp;section=5" title="Edit section: Notes and references

@@ -1,0 +1,220 @@
+<div class="mw-parser-output"><table class="notice metadata" id="spoiler" style="text-align: center; background: beige; margin: 1em 05%; padding: 0 1em; border: #a00 1px solid;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/0/0c/Hand_pointing_right_transparent.png/revision/latest?cb=20181112005815" class="image"><img alt="Hand pointing right transparent.png" src="https://static.wikia.nocookie.net/harrypotter/images/0/0c/Hand_pointing_right_transparent.png/revision/latest/scale-to-width-down/150?cb=20181112005815" decoding="async" width="150" height="75" data-image-name="Hand pointing right transparent.png" data-image-key="Hand_pointing_right_transparent.png" /></a>
+</td>
+<td><b>Warning!</b>
+<p>At least some content in this article is derived from information featured in <i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i>&#32; and <i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i>.<br />As such, spoilers will be present within the article.
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/4/4d/Madamrosmertiee.PNG/revision/latest?cb=20091026122124" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/4/4d/Madamrosmertiee.PNG/revision/latest/scale-to-width-down/237?cb=20091026122124" srcset="https://static.wikia.nocookie.net/harrypotter/images/4/4d/Madamrosmertiee.PNG/revision/latest/scale-to-width-down/237?cb=20091026122124 1x, https://static.wikia.nocookie.net/harrypotter/images/4/4d/Madamrosmertiee.PNG/revision/latest/scale-to-width-down/475?cb=20091026122124 2x" class="pi-image-thumbnail" alt="" width="238" height="500"
+		     data-image-key="Madamrosmertiee.PNG" data-image-name="Madamrosmertiee.PNG"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Rosmerta</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">Before <a href="/wiki/1959" title="1959">1959</a><sup id="cite_ref-age_1-0" class="reference"><a href="#cite_note-age-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a><sup id="cite_ref-POA10_2-0" class="reference"><a href="#cite_note-POA10-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="title">
+	
+		<h3 class="pi-data-label pi-secondary-font">Title(s)</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Madam" title="Madam">Madam</a><sup id="cite_ref-POA10_2-1" class="reference"><a href="#cite_note-POA10-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-POA10_2-2" class="reference"><a href="#cite_note-POA10-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female<sup id="cite_ref-POA10_2-3" class="reference"><a href="#cite_note-POA10-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Blonde<sup id="cite_ref-HM_3-0" class="reference"><a href="#cite_note-HM-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Green<sup id="cite_ref-HM_3-1" class="reference"><a href="#cite_note-HM-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White<sup id="cite_ref-HM_3-2" class="reference"><a href="#cite_note-HM-3">&#91;3&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Magical characteristics</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="boggart">
+	
+		<h3 class="pi-data-label pi-secondary-font">Boggart</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Tom_Riddle" title="Tom Riddle">Lord Voldemort</a><sup id="cite_ref-LEGOY1_4-0" class="reference"><a href="#cite_note-LEGOY1-4">&#91;4&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="patronus">
+	
+		<h3 class="pi-data-label pi-secondary-font">Patronus</h3>
+	
+	<div class="pi-data-value pi-font">Non-corporeal<sup id="cite_ref-LEGOY1_4-1" class="reference"><a href="#cite_note-LEGOY1-4">&#91;4&#93;</a></sup><sup id="cite_ref-LEGOY2_5-0" class="reference"><a href="#cite_note-LEGOY2-5">&#91;5&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Landlady of the <a href="/wiki/Three_Broomsticks_Inn" title="Three Broomsticks Inn">Three Broomsticks Inn</a><sup id="cite_ref-POA10_2-4" class="reference"><a href="#cite_note-POA10-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Three_Broomsticks_Inn" title="Three Broomsticks Inn">Three Broomsticks Inn</a><sup id="cite_ref-POA10_2-5" class="reference"><a href="#cite_note-POA10-2">&#91;2&#93;</a></sup></li><li><a href="/wiki/Draco_Malfoy" title="Draco Malfoy">Draco Malfoy</a> (while under the <a href="/wiki/Imperius_Curse" title="Imperius Curse">Imperius Curse</a>)<sup id="cite_ref-HBP12_6-0" class="reference"><a href="#cite_note-HBP12-6">&#91;6&#93;</a></sup><sup id="cite_ref-HBP27_7-0" class="reference"><a href="#cite_note-HBP27-7">&#91;7&#93;</a></sup></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Pottermore">"<i>Landlady of the <a href="/wiki/Three_Broomsticks_Inn" title="Three Broomsticks Inn">Three Broomsticks</a>, famed for her good looks and <a href="/wiki/Mulled_mead" class="mw-redirect" title="Mulled mead">mulled mead</a></i>"</span></dd>
+<dd>&#8212;Description<sup class="noprint"><a href="/wiki/Pottermore" title="Pottermore">[src]</a></sup></dd>
+<dd></dd></dl></div><p><b>Madam Rosmerta</b> (fl. 1950 -1997) was a <a href="/wiki/Great_Britain" title="Great Britain">British</a> <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> who was the landlady of <a href="/wiki/Three_Broomsticks_Inn" title="Three Broomsticks Inn">the Three Broomsticks</a> pub in the village of <a href="/wiki/Hogsmeade" title="Hogsmeade">Hogsmeade</a>.<sup id="cite_ref-POA10_2-6" class="reference"><a href="#cite_note-POA10-2">&#91;2&#93;</a></sup> Rosmerta was put under the <a href="/wiki/Imperius_Curse" title="Imperius Curse">Imperius Curse</a>, cast by <a href="/wiki/Draco_Malfoy" title="Draco Malfoy">Draco Malfoy</a> in <a href="/wiki/1997" title="1997">1997</a>. After being placed under the <a href="/wiki/Curse" title="Curse">curse</a>, she helped Malfoy against her will to smuggle cursed items into <a href="/wiki/Hogwarts_Castle" title="Hogwarts Castle">Hogwarts Castle</a>.<sup id="cite_ref-HBP12_6-1" class="reference"><a href="#cite_note-HBP12-6">&#91;6&#93;</a></sup><sup id="cite_ref-HBP27_7-1" class="reference"><a href="#cite_note-HBP27-7">&#91;7&#93;</a></sup> It is likely she later redeemed herself by fighting in the <a href="/wiki/Battle_of_Hogwarts" title="Battle of Hogwarts">Battle of Hogwarts</a>.
+</p><div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Bartender_at_The_Three_Broomsticks"><span class="tocnumber">1.1</span> <span class="toctext">Bartender at The Three Broomsticks</span></a>
+<ul>
+<li class="toclevel-3 tocsection-3"><a href="#1986.E2.80.931987_school_year"><span class="tocnumber">1.1.1</span> <span class="toctext">1986–1987 school year</span></a></li>
+<li class="toclevel-3 tocsection-4"><a href="#1987.E2.80.931988_school_year"><span class="tocnumber">1.1.2</span> <span class="toctext">1987–1988 school year</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#1993-1994"><span class="tocnumber">1.1.3</span> <span class="toctext">1993-1994</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#1996-1997"><span class="tocnumber">1.1.4</span> <span class="toctext">1996-1997</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#1998"><span class="tocnumber">1.1.5</span> <span class="toctext">1998</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="#2010s"><span class="tocnumber">1.1.6</span> <span class="toctext">2010s</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Physical_appearance"><span class="tocnumber">2</span> <span class="toctext">Physical appearance</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Etymology"><span class="tocnumber">3</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Behind_the_scenes"><span class="tocnumber">4</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Appearances"><span class="tocnumber">5</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Notes_and_references"><span class="tocnumber">6</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Rosmerta?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Rosmerta?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Bartender_at_The_Three_Broomsticks">Bartender at The Three Broomsticks</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Rosmerta?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Bartender at The Three Broomsticks">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Rosmerta?action=edit&amp;section=2" title="Edit section: Bartender at The Three Broomsticks"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Prisoner of Azkaban">"<i>Naturally. Never saw one without the other, did you? The number of times I had them in here — ooh, they used to make me laugh. Quite the double act, Sirius Black and James Potter!</i>"</span></dd>
+<dd>&#8212;Rosmerta mentions that she was a barmaid <sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban" title="Harry Potter and the Prisoner of Azkaban">[src]</a></sup></dd>
+<dd></dd></dl></div><p>Rosmerta was older than the Marauders, as she was the barmaid whilst they were all still at school. Rosmerta lived in and was the barmaid of the Three Broomsticks during the <a href="/wiki/First_Wizarding_War" title="First Wizarding War">First Wizarding War</a>; she was a listener of gossip and believed the rumours that <a href="/wiki/Sirius_Black" title="Sirius Black">Sirius Black</a> had turned his friends, the <a href="/wiki/Potter_family" title="Potter family">Potter family</a>, over to <a href="/wiki/Tom_Riddle" title="Tom Riddle">Lord Voldemort</a> to be true when news broke out they had been murdered and that the war was over.<sup id="cite_ref-POA10_2-7" class="reference"><a href="#cite_note-POA10-2">&#91;2&#93;</a></sup> It remains unknown how she reacted when the true story was told to her, (that it was <a href="/wiki/Peter_Pettigrew" title="Peter Pettigrew">Peter Pettigrew</a> who betrayed the Potters) or, indeed, if she ever found out.
+</p><p>She continued to tend bar during the <a href="/wiki/1980s" title="1980s">1980s</a>.
+</p>
+<h4><span id="1986–1987_school_year"></span><span class="mw-headline" id="1986.E2.80.931987_school_year"><a href="/wiki/1986%E2%80%931987_school_year" title="1986–1987 school year">1986–1987 school year</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Rosmerta?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: 1986–1987 school year">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Rosmerta?action=edit&amp;section=3" title="Edit section: 1986–1987 school year"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>During <a href="/wiki/1986" title="1986">1986</a>, Rosmerta was introduced to <a href="/wiki/Jacob%27s_sibling" title="Jacob&#39;s sibling">Jacob's sibling</a> by <a href="/wiki/Rubeus_Hagrid" title="Rubeus Hagrid">Rubeus Hagrid</a> in the <a href="/wiki/Three_Broomsticks_Inn" title="Three Broomsticks Inn">Three Broomsticks</a> during the student's first outing to <a href="/wiki/Hogsmeade" title="Hogsmeade">Hogsmeade</a>. They requested for information regarding <a href="/wiki/Jacob_(disambiguation)" title="Jacob (disambiguation)">their brother</a> and his search for the <a href="/wiki/Cursed_Vaults" title="Cursed Vaults">Cursed Vaults</a> from Rosmerta, in which they learnt from her recount that Jacob had <a href="/wiki/Transfiguration" title="Transfiguration">Transfigured</a> <a href="/wiki/Jacob%27s_notebook" class="mw-redirect" title="Jacob&#39;s notebook">a secret notebook of his</a> into a <a href="/wiki/Black_Quill" title="Black Quill">Black Quill</a>, the whereabouts of which were unknown then. Jacob's sibling beseeched Rosmerta to find it for them, promising to do anything for her in return, an offer she promptly accepted. While she was preoccupied in searching for the Black Quill in the pub's back room, Jacob's sibling proceeded to help her out by serving her customers their orders, an activity they found moderatly easy, with the exception of them having nearly dropped a mug of <a href="/wiki/Butterbeer" title="Butterbeer">Butterbeer</a> that was Tranfigured into a mongoose by the timely intervention of a helpful wizard. Acknowledging that her search for the desired quill would take longer, Rosmerta requested that Jacob's sibling help her concoct an extra-sweet brew of Butterbeer by fetching its various ingredients from the <a href="/wiki/Hogwarts_Castle" title="Hogwarts Castle">Hogwarts Castle</a> for her. By the time they had managed to fulfil her request and returned back to the Three Broomsticks, Rosmerta had managed to successfully retrieve the Black Quill, which she then gave to Jacob's sibling.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p>
+<h4><span id="1987–1988_school_year"></span><span class="mw-headline" id="1987.E2.80.931988_school_year"><a href="/wiki/1987%E2%80%931988_school_year" title="1987–1988 school year">1987–1988 school year</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Rosmerta?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: 1987–1988 school year">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Rosmerta?action=edit&amp;section=4" title="Edit section: 1987–1988 school year"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Rosmerta was interrogated by <a href="/wiki/Patricia_Rakepick" title="Patricia Rakepick">Patricia Rakepick</a> regarding the possible whereabouts of <a href="/wiki/Jacob_(disambiguation)" title="Jacob (disambiguation)">Jacob</a>'s notebook and map. She claimed to know nothing and threatened to inform some of her best customers from the <a href="/wiki/Department_of_Magical_Law_Enforcement" title="Department of Magical Law Enforcement">Department of Magical Law Enforcement</a> regarding Rakepick's behaviour, which made the Curse-Breaker back down quickly.<sup id="cite_ref-HM_3-3" class="reference"><a href="#cite_note-HM-3">&#91;3&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="1993-1994"><a href="/wiki/1993%E2%80%931994_school_year" title="1993–1994 school year">1993-1994</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Rosmerta?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: 1993-1994">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Rosmerta?action=edit&amp;section=5" title="Edit section: 1993-1994"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h4>
+<figure class="thumb tright show-info-icon" style="width: 242px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/8/88/Rosmerta%2C_Fudge_and_McGonagall.jpg/revision/latest?cb=20180523042842" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/8/88/Rosmerta%2C_Fudge_and_McGonagall.jpg/revision/latest/scale-to-width-down/240?cb=20180523042842" decoding="async" width="240" height="123" class="thumbimage" data-image-name="Rosmerta, Fudge and McGonagall.jpg" data-image-key="Rosmerta,_Fudge_and_McGonagall.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Rosmerta,_Fudge_and_McGonagall.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Rosmerta, Cornelius Fudge, and Minerva McGonagall meeting outside her pub</p> 		 	</figcaption> </figure>
+<figure class="thumb tright show-info-icon" style="width: 252px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/7/72/Prisoner-of-azkaban-rosmerta.jpg/revision/latest?cb=20180523043111" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/7/72/Prisoner-of-azkaban-rosmerta.jpg/revision/latest/scale-to-width-down/250?cb=20180523043111" decoding="async" width="250" height="113" class="thumbimage" data-image-name="Prisoner-of-azkaban-rosmerta.jpg" data-image-key="Prisoner-of-azkaban-rosmerta.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Prisoner-of-azkaban-rosmerta.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Rosmerta talking with Fudge and McGonagall</p> 		 	</figcaption> </figure>
+<p>In <a href="/wiki/1993" title="1993">1993</a>, Madam Rosmerta was angered when <a href="/wiki/Dementor" title="Dementor">Dementors</a> were in Hogsmeade to catch Sirius Black because their presence was scaring away many of her customers, not least when they searched her pub twice. She hosted an informal meeting between <a href="/wiki/Minerva_McGonagall" title="Minerva McGonagall">Minerva McGonagall</a>, <a href="/wiki/Cornelius_Fudge" title="Cornelius Fudge">Cornelius Fudge</a>, <a href="/wiki/Filius_Flitwick" title="Filius Flitwick">Filius Flitwick</a>, and <a href="/wiki/Rubeus_Hagrid" title="Rubeus Hagrid">Rubeus Hagrid</a> discussing Sirius Black and his friends. They discussed how Sirius Black had been named Harry Potter's godfather before the Potters' demise.<sup id="cite_ref-POA10_2-8" class="reference"><a href="#cite_note-POA10-2">&#91;2&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="1996-1997"><a href="/wiki/1996%E2%80%931997_school_year" title="1996–1997 school year">1996-1997</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Rosmerta?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: 1996-1997">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Rosmerta?action=edit&amp;section=6" title="Edit section: 1996-1997"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Half-Blood Prince">"<i>There's one thing you should know before the Ministry gets here, though. Madam Rosmerta's under the Imperius Curse, she was helping Malfoy and the Death Eaters, that's how the necklace and the poisoned mead —</i>"</span></dd>
+<dd>&#8212;Harry regarding Rosmerta being under the <a href="/wiki/Imperius_Curse" title="Imperius Curse">Imperius Curse</a><sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p>In 1997, it emerged that Rosmerta had become an unwilling agent of the <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a>. In order to fulfil his mission to assassinate Albus Dumbledore, <a href="/wiki/Draco_Malfoy" title="Draco Malfoy">Draco Malfoy</a> had managed to place Rosmerta under the <a href="/wiki/Imperius_Curse" title="Imperius Curse">Imperius Curse</a>. He used her to pass on a cursed <a href="/wiki/Opal_Necklace" title="Opal Necklace">Opal Necklace</a> to Hogwarts student <a href="/wiki/Katie_Bell" title="Katie Bell">Katie Bell</a>, who accidentally touched the necklace and was subjected to the very harmful curse intended for the Headmaster.<sup id="cite_ref-HBP12_6-2" class="reference"><a href="#cite_note-HBP12-6">&#91;6&#93;</a></sup> Rosmerta also <a href="/wiki/Poison" title="Poison">poisoned</a> <a href="/wiki/Mead" title="Mead">mead</a> that was intended to be given to Dumbledore through <a href="/wiki/Horace_Slughorn" title="Horace Slughorn">Horace Slughorn</a> in the guise as a Christmas present, but it was unintentionally drunk by <a href="/wiki/Ronald_Weasley" title="Ronald Weasley">Ron Weasley</a>, who was saved by Harry Potter; Harry had shoved a <a href="/wiki/Bezoar" title="Bezoar">Bezoar</a> down Ron's throat to save his life.<sup id="cite_ref-HBP18_9-0" class="reference"><a href="#cite_note-HBP18-9">&#91;9&#93;</a></sup> Malfoy communicated with Rosmerta through fake <a href="/wiki/Wizarding_currency" title="Wizarding currency">galleons</a>, copying the idea from 'the <a href="/wiki/Mudblood" title="Mudblood">Mudblood</a> <a href="/wiki/Hermione_Granger" title="Hermione Granger">Granger</a>' and <a href="/wiki/Dumbledore%27s_Army" title="Dumbledore&#39;s Army">Dumbledore's Army</a>.<sup id="cite_ref-HBP27_7-2" class="reference"><a href="#cite_note-HBP27-7">&#91;7&#93;</a></sup>
+</p><p><a href="/wiki/Argus_Filch" title="Argus Filch">Argus Filch</a> did not suspect anything provided by Rosmerta, hence allowing the poisoned mead to sneak past security.<sup id="cite_ref-HBP27_7-3" class="reference"><a href="#cite_note-HBP27-7">&#91;7&#93;</a></sup>
+</p><p>After Harry and Dumbledore had been to <a href="/wiki/The_Cave" title="The Cave">the cave</a> to retrieve a <a href="/wiki/Salazar_Slytherin%27s_Locket" class="mw-redirect" title="Salazar Slytherin&#39;s Locket">locket</a>, they believed to be one of <a href="/wiki/Tom_Riddle" title="Tom Riddle">Voldemort</a>'s <a href="/wiki/Horcrux" title="Horcrux">Horcruxes</a>, they <a href="/wiki/Apparition" title="Apparition">apparated</a> to <a href="/wiki/Hogsmeade" title="Hogsmeade">Hogsmeade</a>, where Madam Rosmerta alerted them to the presence of the <a href="/wiki/Dark_Mark" title="Dark Mark">Dark Mark</a> above the school and gave them <a href="/wiki/Broomstick" title="Broomstick">brooms</a> on which they could travel rapidly back to Hogwarts, where Draco's plan could be brought to completion.<sup id="cite_ref-HBP27_7-4" class="reference"><a href="#cite_note-HBP27-7">&#91;7&#93;</a></sup> Harry Potter eventually cleared her name as he felt that that investigation on Albus Dumbledore's death may link to her.<sup id="cite_ref-HBP29_10-0" class="reference"><a href="#cite_note-HBP29-10">&#91;10&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="1998">1998</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Rosmerta?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: 1998">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Rosmerta?action=edit&amp;section=7" title="Edit section: 1998"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Deathly Hallows">"<i>They heard uproar from the distant boundary of the school as what sounded like hundreds of people came swarming over the out-of-sight walls and pelted toward the castle, uttering loud war cries.</i>"</span></dd>
+<dd>&#8212;Reinforcements arriving during the <a href="/wiki/Battle_of_Hogwarts" title="Battle of Hogwarts">Battle of Hogwarts</a><sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">[src]</a></sup></dd>
+<dd></dd></dl></div><p>It is unknown if Rosmerta was part of the reinforcements from Hogsmeade during the <a href="/wiki/Battle_of_Hogwarts" title="Battle of Hogwarts">Battle of Hogwarts</a> or if she participated in the war. This battle resulted in the end of the <a href="/wiki/Second_Wizarding_War" title="Second Wizarding War">Second Wizarding War</a>.
+</p><h4><span class="mw-headline" id="2010s">2010s</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Rosmerta?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: 2010s">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Rosmerta?action=edit&amp;section=8" title="Edit section: 2010s"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>During the <a href="/wiki/Calamity" title="Calamity">Calamity</a>, Rosmerta instructed a panel of <a href="/wiki/Magizoologist" title="Magizoologist">Magizoologists</a> on a basic <a href="/wiki/Reviving_Spell" title="Reviving Spell">Revive Charm</a>. <sup id="cite_ref-WU_11-0" class="reference"><a href="#cite_note-WU-11">&#91;11&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Physical_appearance">Physical appearance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Rosmerta?veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Edit section: Physical appearance">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Rosmerta?action=edit&amp;section=9" title="Edit section: Physical appearance"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Half-Blood Prince"><b>Hermione Granger</b>: "<i>Ron, what are you looking at?</i>"</span></dd>
+<dd><b>Ron Weasley</b>: "<i>Nothing</i>"</dd>
+<dd><b>Hermione Granger</b>: "<i>I expect 'nothing's' in the back getting more <a href="/wiki/Firewhisky" title="Firewhisky">firewhiskey</a></i>"</dd>
+<dd>&#8212; Ron trying to catch Madam Rosmerta's eye<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">[src]</a></sup></dd></dl>
+</div><p>Rosmerta was an attractive woman, described as "a curvy sort of woman with a pretty face". On one occasion, she was seen wearing glittery open-toed high-heels. Several Hogwarts pupils, including <a href="/wiki/Ronald_Weasley" title="Ronald Weasley">Ron Weasley</a>, have fancied her.<sup id="cite_ref-POA10_2-9" class="reference"><a href="#cite_note-POA10-2">&#91;2&#93;</a></sup><sup id="cite_ref-HBP12_6-3" class="reference"><a href="#cite_note-HBP12-6">&#91;6&#93;</a></sup>
+</p><h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Rosmerta?veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Rosmerta?action=edit&amp;section=10" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="http://en.wikipedia.org/wiki/Rosmerta" class="extiw" title="wikipedia:Rosmerta">Rosmerta</a> was the Romano-Celtic goddess of fertility and abundance, known as the "Great Provider". In Latin, it means "good purveyor" or "great provider".
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Rosmerta?veaction=edit&amp;section=11" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Rosmerta?action=edit&amp;section=11" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Madam Rosmerta was portrayed by <a href="/wiki/Great_Britain" title="Great Britain">British</a> actress <a href="/wiki/Julie_Christie" title="Julie Christie">Julie Christie</a> in the <a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(film)" title="Harry Potter and the Prisoner of Azkaban (film)">film adaptation</a> of <i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban" title="Harry Potter and the Prisoner of Azkaban">Harry Potter and the Prisoner of Azkaban</a></i>. She only appears twice in the film; once at the Three Broomsticks and again, on close observation, when Harry and Hermione go back in time. Her role was reduced to this film alone as she did not appear in any of the subsequent film adaptations of the novels.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Rosmerta?veaction=edit&amp;section=12" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Rosmerta?action=edit&amp;section=12" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" class="lazyload" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 8 images related to <i><b><a href="/wiki/Category:Images_of_Madam_Rosmerta" title="Category:Images of Madam Rosmerta">Rosmerta</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<figure class="thumb tright show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/0/0b/Madam_Rosmerta.png/revision/latest?cb=20190506013743" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="180" height="167" class="thumbimage lazyload" data-image-name="Madam Rosmerta.png" data-image-key="Madam_Rosmerta.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/0/0b/Madam_Rosmerta.png/revision/latest/scale-to-width-down/180?cb=20190506013743" /></a> 	<noscript><a href="https://static.wikia.nocookie.net/harrypotter/images/0/0b/Madam_Rosmerta.png/revision/latest?cb=20190506013743" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/0/0b/Madam_Rosmerta.png/revision/latest/scale-to-width-down/180?cb=20190506013743" decoding="async" width="180" height="167" class="thumbimage" data-image-name="Madam Rosmerta.png" data-image-key="Madam_Rosmerta.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/0/0b/Madam_Rosmerta.png/revision/latest/scale-to-width-down/180?cb=20190506013743" /></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Madam_Rosmerta.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Madam Rosmerta in <i><a href="/wiki/LEGO_Harry_Potter:_Years_1-4" title="LEGO Harry Potter: Years 1-4">LEGO Harry Potter: Years 1-4</a></i></p> 		 	</figcaption> </figure>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban" title="Harry Potter and the Prisoner of Azkaban">Harry Potter and the Prisoner of Azkaban</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(film)" title="Harry Potter and the Prisoner of Azkaban (film)">Harry Potter and the Prisoner of Azkaban (film)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire" title="Harry Potter and the Goblet of Fire">Harry Potter and the Goblet of Fire</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">Harry Potter and the Half-Blood Prince</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince_(film)" title="Harry Potter and the Half-Blood Prince (film)">Harry Potter and the Half-Blood Prince (film)</a></i> <span class="template-c">(Flashback on Disc 2)</span></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Wizarding_World_(website)" title="Wizarding World (website)">Wizarding World</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter:_Years_1-4" title="LEGO Harry Potter: Years 1-4">LEGO Harry Potter: Years 1-4</a></i></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter:_Years_5-7" title="LEGO Harry Potter: Years 5-7">LEGO Harry Potter: Years 5-7</a></i></li>
+<li><i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i></li>
+<li><i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i> <small>(Mentioned only)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Rosmerta?veaction=edit&amp;section=13" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Rosmerta?action=edit&amp;section=13" title="Edit section: Notes and references

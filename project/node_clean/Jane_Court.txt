@@ -1,0 +1,133 @@
+<div class="mw-parser-output"><table class="notice metadata" id="spoiler" style="text-align: center; background: beige; margin: 1em 05%; padding: 0 1em; border: #a00 1px solid;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/8/8c/Hogwarts_Mystery.jpeg/revision/latest?cb=20180504083359" class="image"><img alt="Hogwarts Mystery.jpeg" src="https://static.wikia.nocookie.net/harrypotter/images/8/8c/Hogwarts_Mystery.jpeg/revision/latest/scale-to-width-down/175?cb=20180504083359" decoding="async" width="175" height="77" data-image-name="Hogwarts Mystery.jpeg" data-image-key="Hogwarts_Mystery.jpeg" /></a>
+</td>
+<td><b>Warning!</b>
+<p>At least some content in this article is derived from information featured in <i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i>. Spoilers will be present within the article.
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-hufflepuff pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/5/5a/Jane_Court.png/revision/latest?cb=20180129174656" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/5/5a/Jane_Court.png/revision/latest/scale-to-width-down/350?cb=20180129174656" srcset="https://static.wikia.nocookie.net/harrypotter/images/5/5a/Jane_Court.png/revision/latest/scale-to-width-down/350?cb=20180129174656 1x, https://static.wikia.nocookie.net/harrypotter/images/5/5a/Jane_Court.png/revision/latest/scale-to-width-down/700?cb=20180129174656 2x" class="pi-image-thumbnail" alt="" width="270" height="316"
+		     data-image-key="Jane_Court.png" data-image-name="Jane Court.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Jane Court</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">Between <a href="/wiki/1_September" title="1 September">1 September</a> <a href="/wiki/1968" title="1968">1968</a> and <a href="/wiki/31_August" title="31 August">31 August</a> <a href="/wiki/1969" title="1969">1969</a><sup id="cite_ref-age_1-0" class="reference"><a href="#cite_note-age-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a> or <a href="/wiki/Ireland" title="Ireland">Irish</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="title">
+	
+		<h3 class="pi-data-label pi-secondary-font">Title(s)</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Prefect" title="Prefect">Prefect</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font">Human</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Brown</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Light</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="house">
+	
+		<h3 class="pi-data-label pi-secondary-font">House</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Hufflepuff" title="Hufflepuff">Hufflepuff</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a><ul><li><a href="/wiki/Hufflepuff" title="Hufflepuff">Hufflepuff</a></li></ul></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Jane Court</b> was a <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> who began attending <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> in <a href="/wiki/1980" title="1980">1980</a><sup id="cite_ref-age_1-1" class="reference"><a href="#cite_note-age-1">&#91;1&#93;</a></sup><sup id="cite_ref-graduation_3-0" class="reference"><a href="#cite_note-graduation-3">&#91;3&#93;</a></sup> and was Sorted into <a href="/wiki/Hufflepuff" title="Hufflepuff">Hufflepuff</a>. In <a href="/wiki/1984" title="1984">1984</a>, she had been made a <a href="/wiki/Prefect" title="Prefect">Prefect</a>, and was responsible for watching over the <a href="/wiki/First_year" title="First year">first years</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> At some point in her life, she served time in <a href="/wiki/Azkaban" title="Azkaban">Azkaban</a> for an unknown crime, and was released by <a href="/wiki/September" title="September">September</a> <a href="/wiki/1988" title="1988">1988</a>.<sup id="cite_ref-Y5SQ_5-0" class="reference"><a href="#cite_note-Y5SQ-5">&#91;5&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Hogwarts_years_.281980-1987.29"><span class="tocnumber">1.1</span> <span class="toctext">Hogwarts years <span>(1980-1987)</span></span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Later_life_.281987-.29"><span class="tocnumber">1.2</span> <span class="toctext">Later life <span>(1987-)</span></span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Appearances"><span class="tocnumber">2</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Notes_and_references"><span class="tocnumber">3</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Jane_Court?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Jane_Court?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="Hogwarts_years_(1980-1987)"></span><span class="mw-headline" id="Hogwarts_years_.281980-1987.29">Hogwarts years <span class="template-c">(1980-1987)</span></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Jane_Court?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Hogwarts years (1980-1987)">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Jane_Court?action=edit&amp;section=2" title="Edit section: Hogwarts years (1980-1987)"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>She started going to Hogwarts in 1980, where she became a good duelist and met <a href="/wiki/Jacob%27s_sibling" title="Jacob&#39;s sibling">Jacob's sibling</a> in 1984.
+</p><p>During the <a href="/wiki/Start-of-Term_Feast" title="Start-of-Term Feast">Start-of-Term Feast</a> of the <a href="/wiki/1985%E2%80%931986_school_year" title="1985–1986 school year">1985–1986 school year</a>, Jane told <a href="/wiki/Jacob%27s_sibling" title="Jacob&#39;s sibling">Jacob's sibling</a> she thought she saw the missing <a href="/wiki/Ben_Copper" title="Ben Copper">Ben Copper</a> studying <a href="/wiki/Transfiguration" title="Transfiguration">Transfiguration</a> by the <a href="/wiki/Clock_Tower" title="Clock Tower">Clock Tower</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p><p>Jane was still at Hogwarts the following two years and graduated in <a href="/wiki/1987" title="1987">1987</a>.<sup id="cite_ref-graduation_3-1" class="reference"><a href="#cite_note-graduation-3">&#91;3&#93;</a></sup>
+</p>
+<h3><span id="Later_life_(1987-)"></span><span class="mw-headline" id="Later_life_.281987-.29">Later life <span class="template-c">(1987-)</span></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Jane_Court?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Later life (1987-)">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Jane_Court?action=edit&amp;section=3" title="Edit section: Later life (1987-)"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>After Hogwarts, Jane was sentenced to serve time in <a href="/wiki/Azkaban" title="Azkaban">Azkaban</a> for an unknown crime. She was released by September <a href="/wiki/1988" title="1988">1988</a>.<sup id="cite_ref-Y5SQ_5-1" class="reference"><a href="#cite_note-Y5SQ-5">&#91;5&#93;</a></sup>
+</p><p>In September of 1988 she joined other previous prefects to meet with new prefects in the <a href="/wiki/Three_Broomsticks_Inn" title="Three Broomsticks Inn">Three Broomsticks Inn</a>.<sup id="cite_ref-Y5SQ_5-2" class="reference"><a href="#cite_note-Y5SQ-5">&#91;5&#93;</a></sup>
+</p><p>Later this year, she met <a href="/wiki/Jacob%27s_sibling" title="Jacob&#39;s sibling">Jacob's sibling</a> in <a href="/wiki/Knockturn_Alley" title="Knockturn Alley">Knockturn Alley</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Jane_Court?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Jane_Court?action=edit&amp;section=4" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 2 images related to <i><b><a href="/wiki/Category:Images_of_Jane_Court" title="Category:Images of Jane Court">Jane Court</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<ul><li><i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Jane_Court?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Jane_Court?action=edit&amp;section=5" title="Edit section: Notes and references

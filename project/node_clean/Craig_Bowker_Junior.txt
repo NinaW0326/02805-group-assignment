@@ -1,0 +1,112 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-slytherin pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/5/53/Craig.png/revision/latest?cb=20191204162058" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/5/53/Craig.png/revision/latest/scale-to-width-down/350?cb=20191204162058" srcset="https://static.wikia.nocookie.net/harrypotter/images/5/53/Craig.png/revision/latest/scale-to-width-down/350?cb=20191204162058 1x, https://static.wikia.nocookie.net/harrypotter/images/5/53/Craig.png/revision/latest/scale-to-width-down/700?cb=20191204162058 2x" class="pi-image-thumbnail" alt="" width="270" height="289"
+		     data-image-key="Craig.png" data-image-name="Craig.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Craig Bowker Junior</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/31_August" title="31 August">31 August</a> <a href="/wiki/2006" title="2006">2006</a> or earlier</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/30_October" title="30 October">30 October</a>, <a href="/wiki/2020" title="2020">2020</a><br/><a href="/wiki/Hogwarts_Quidditch_pitch" title="Hogwarts Quidditch pitch">Quidditch pitch</a>, <a href="/wiki/Hogwarts_Castle" title="Hogwarts Castle">Hogwarts</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Pure-blood" title="Pure-blood">Pure-blood</a> or <a href="/wiki/Half-blood" title="Half-blood">Half-blood</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a> or <a href="/wiki/Ireland" title="Ireland">Irish</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="house">
+	
+		<h3 class="pi-data-label pi-secondary-font">House</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Slytherin" title="Slytherin">Slytherin</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a><ul><li><a href="/wiki/Slytherin" title="Slytherin">Slytherin</a></li></ul></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Craig Bowker Junior</b> (d. <a href="/wiki/30_October" title="30 October">30 October</a>, <a href="/wiki/2020" title="2020">2020</a>) was a <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> and student at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> in the late <a href="/wiki/2010s" title="2010s">2010s</a> and early <a href="/wiki/2020s" title="2020s">2020s</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Behind_the_scenes"><span class="tocnumber">2</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Appearances"><span class="tocnumber">3</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Notes_and_references"><span class="tocnumber">4</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Craig_Bowker_Junior?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Craig_Bowker_Junior?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Craig Bowker Junior was born somewhere in the <a href="/wiki/Great_Britain" title="Great Britain">United Kingdom</a> or <a href="/wiki/Ireland" title="Ireland">Ireland</a> in the mid-<a href="/wiki/2000s" title="2000s">2000s</a>. He attended <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> and was sorted in <a href="/wiki/Slytherin" title="Slytherin">Slytherin</a>.<sup id="cite_ref-act1scene4_3-0" class="reference"><a href="#cite_note-act1scene4-3">&#91;3&#93;</a></sup><sup id="cite_ref-act3scene15_4-0" class="reference"><a href="#cite_note-act3scene15-4">&#91;4&#93;</a></sup> On <a href="/wiki/1_September" title="1 September">1 September</a> <a href="/wiki/2017" title="2017">2017</a>, he was present for the year's <a href="/wiki/Sorting_ceremony" title="Sorting ceremony">sorting ceremony</a>, and expressed his disbelief when <a href="/wiki/Albus_Potter" title="Albus Potter">Albus Potter</a> was placed in his house.<sup id="cite_ref-act1scene4_3-1" class="reference"><a href="#cite_note-act1scene4-3">&#91;3&#93;</a></sup>
+</p><p>Upon returning to <a href="/wiki/2020" title="2020">2020</a> from altering the past, <a href="/wiki/Scorpius_Malfoy" title="Scorpius Malfoy">Scorpius Malfoy</a> found himself in an alternate reality in which <a href="/wiki/Tom_Riddle" title="Tom Riddle">Lord Voldemort</a> won, and went to the <a href="/wiki/Hogwarts_Library" title="Hogwarts Library">Hogwarts Library</a> to research how this could have happened.<sup id="cite_ref-act3scene4_5-0" class="reference"><a href="#cite_note-act3scene4-5">&#91;5&#93;</a></sup> That universe's Craig encountered Scorpius in the library and, frightened, asked him what he was doing there. He then revealed that he was still working on the homework that his universe's Scorpius had demanded he do for him.<sup id="cite_ref-act3scene4_5-1" class="reference"><a href="#cite_note-act3scene4-5">&#91;5&#93;</a></sup>
+</p><p>Meanwhile, in the main timeline, <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> arrived at Hogwarts with <a href="/wiki/Ginevra_Weasley" title="Ginevra Weasley">Ginny</a> to confront his son Albus about his continuing association with Scorpius, and upon entering the <a href="/wiki/Slytherin_Dungeon" title="Slytherin Dungeon">Slytherin dormitories</a> Craig objected, noting that it was against school rules for parents and professors to enter house dormitories, but <a href="/wiki/Minerva_McGonagall" title="Minerva McGonagall">Headmistress McGonagall</a> shushed him. They found the boys' beds empty.<sup id="cite_ref-act3scene15_4-1" class="reference"><a href="#cite_note-act3scene15-4">&#91;4&#93;</a></sup>
+</p><p>A short time later, Craig located Albus and Scorpius on the <a href="/wiki/Hogwarts_Quidditch_pitch" title="Hogwarts Quidditch pitch">Quidditch pitch</a> and informed them that the entire school was looking for them. <a href="/wiki/Delphini" title="Delphini">Delphi</a> then fired a <a href="/wiki/Killing_Curse" title="Killing Curse">Killing Curse</a> at him, killing him instantly.<sup id="cite_ref-act3scene19_6-0" class="reference"><a href="#cite_note-act3scene19-6">&#91;6&#93;</a></sup>
+</p><p><a href="/wiki/Delphini" title="Delphini">Delphini</a> was later sent to <a href="/wiki/Azkaban" title="Azkaban">Azkaban</a> for this crime.<sup id="cite_ref-act4scene11_7-0" class="reference"><a href="#cite_note-act4scene11-7">&#91;7&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Craig_Bowker_Junior?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Craig_Bowker_Junior?action=edit&amp;section=2" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tright show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/2/26/Jeremy-Ang-Jones-.jpg/revision/latest?cb=20160731071807" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/2/26/Jeremy-Ang-Jones-.jpg/revision/latest/scale-to-width-down/180?cb=20160731071807" decoding="async" width="180" height="225" class="thumbimage" data-image-name="Jeremy-Ang-Jones-.jpg" data-image-key="Jeremy-Ang-Jones-.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Jeremy-Ang-Jones-.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Jeremy Ang Jones</p> 		 	</figcaption> </figure>
+<ul><li>In the <a href="/wiki/Harry_Potter_and_the_Cursed_Child_(play)#Original_West_End_production" title="Harry Potter and the Cursed Child (play)">original West End production</a> of <i><a href="/wiki/Harry_Potter_and_the_Cursed_Child" title="Harry Potter and the Cursed Child">Harry Potter and the Cursed Child</a></i>, Craig was played by <a href="/wiki/Jeremy_Ang_Jones" title="Jeremy Ang Jones">Jeremy Ang Jones</a>.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Craig_Bowker_Junior?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Craig_Bowker_Junior?action=edit&amp;section=3" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Cursed_Child" title="Harry Potter and the Cursed Child">Harry Potter and the Cursed Child</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Cursed_Child_(play)" title="Harry Potter and the Cursed Child (play)">Harry Potter and the Cursed Child (play)</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Craig_Bowker_Junior?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Craig_Bowker_Junior?action=edit&amp;section=4" title="Edit section: Notes and references

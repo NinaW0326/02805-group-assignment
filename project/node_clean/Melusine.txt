@@ -1,0 +1,95 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-mom pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/a/a7/Melusine.png/revision/latest?cb=20190325222947" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/a/a7/Melusine.png/revision/latest/scale-to-width-down/333?cb=20190325222947" srcset="https://static.wikia.nocookie.net/harrypotter/images/a/a7/Melusine.png/revision/latest/scale-to-width-down/333?cb=20190325222947 1x, https://static.wikia.nocookie.net/harrypotter/images/a/a7/Melusine.png/revision/latest/scale-to-width-down/666?cb=20190325222947 2x" class="pi-image-thumbnail" alt="" width="270" height="405"
+		     data-image-key="Melusine.png" data-image-name="Melusine.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Melusine</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">before <a href="/wiki/1927" title="1927">1927</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/France" title="France">French</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Archivist of the <a href="/wiki/French_Ministry_of_Magic_Records_Room" title="French Ministry of Magic Records Room">French Ministry of Magic Records Room</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/French_Ministry_of_Magic" title="French Ministry of Magic">French Ministry of Magic</a></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+<b>Melusine</b> was a <a href="/wiki/France" title="France">French</a> <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> who lived in the <a href="/wiki/1920s" title="1920s">1920s</a>. She worked in the <a href="/wiki/French_Ministry_of_Magic_Records_Room" title="French Ministry of Magic Records Room">French Ministry of Magic Records Room</a>.<sup id="cite_ref-COGS_1-0" class="reference"><a href="#cite_note-COGS-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Behind_the_scenes"><span class="tocnumber">2</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Appearances"><span class="tocnumber">3</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Notes_and_references"><span class="tocnumber">4</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Melusine?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Melusine?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In <a href="/wiki/1927" title="1927">1927</a>, <a href="/wiki/Newton_Scamander" title="Newton Scamander">Newton Scamander</a> and <a href="/wiki/Porpentina_Goldstein" title="Porpentina Goldstein">Porpentina Goldstein</a> encountered Melusine when they looked to access the <a href="/wiki/French_Ministry_of_Magic_Records_Room" title="French Ministry of Magic Records Room">French Ministry of Magic Records Room</a>, and were allowed entrance. <a href="/wiki/Leta_Lestrange" title="Leta Lestrange">Leta Lestrange</a> later met her for the same reason. This caused Melusine obvious suspicion, given how Goldstein had in fact claimed to have been Lestrange beforehand.<sup id="cite_ref-COGS_1-1" class="reference"><a href="#cite_note-COGS-1">&#91;1&#93;</a></sup>
+</p>
+<figure class="thumb tleft show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/0/0e/LetaStupefy.gif/revision/latest?cb=20190224172918" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/0/0e/LetaStupefy.gif/revision/latest/scale-to-width-down/180?cb=20190224172918" decoding="async" width="180" height="75" class="thumbimage" data-image-name="LetaStupefy.gif" data-image-key="LetaStupefy.gif" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:LetaStupefy.gif" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Leta attempting to stun Melusine's Matagots</p> 		 	</figcaption> </figure>
+<p>By the time the three were to leave, they were faced with Melusine and a handful of <a href="/wiki/Matagot" title="Matagot">Matagots</a>, beastly black felines who guarded the Ministry. When Leta attempted to <a href="/wiki/Stunning_Spell" title="Stunning Spell">stun</a> one, it multiplied and began to attack them in larger numbers. Thankfully, Newt managed to have them all escape with the help of his <a href="/wiki/Zouwu" title="Zouwu">Zouwu</a> in his <a href="/wiki/Newton_Scamander%27s_suitcase" title="Newton Scamander&#39;s suitcase">suitcase</a><sup id="cite_ref-COGS_1-2" class="reference"><a href="#cite_note-COGS-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Melusine?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Melusine?action=edit&amp;section=2" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Melusine is played by <a href="/wiki/Olwen_Fou%C3%A9r%C3%A9" title="Olwen Fouéré">Olwen Fouéré</a> in <i><a href="/wiki/Fantastic_Beasts:_The_Crimes_of_Grindelwald" title="Fantastic Beasts: The Crimes of Grindelwald">Fantastic Beasts: The Crimes of Grindelwald</a></i>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Melusine?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Melusine?action=edit&amp;section=3" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Fantastic_Beasts:_The_Crimes_of_Grindelwald_-_The_Original_Screenplay" title="Fantastic Beasts: The Crimes of Grindelwald - The Original Screenplay">Fantastic Beasts: The Crimes of Grindelwald - The Original Screenplay</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Fantastic_Beasts:_The_Crimes_of_Grindelwald" title="Fantastic Beasts: The Crimes of Grindelwald">Fantastic Beasts: The Crimes of Grindelwald</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Melusine?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Melusine?action=edit&amp;section=4" title="Edit section: Notes and references

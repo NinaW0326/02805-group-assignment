@@ -1,0 +1,129 @@
+<div class="mw-parser-output"><table class="notice metadata" id="spoiler" style="text-align: center; background: beige; margin: 1em 05%; padding: 0 1em; border: #a00 1px solid;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/e/ea/Wizards_Unite_logo.jpg/revision/latest?cb=20181114170049" class="image"><img alt="Wizards Unite logo.jpg" src="https://static.wikia.nocookie.net/harrypotter/images/e/ea/Wizards_Unite_logo.jpg/revision/latest/scale-to-width-down/175?cb=20181114170049" decoding="async" width="175" height="98" data-image-name="Wizards Unite logo.jpg" data-image-key="Wizards_Unite_logo.jpg" /></a>
+</td>
+<td><b>Warning!</b>
+<p>At least some content in this article is derived from information featured in <i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i>. As such, spoilers will be present within the article.
+</p><p>For gameplay-specific information, please see the relevant article on <a href="https://harrypotterwizardsunite.fandom.com/wiki/Leprechaun" class="extiw" title="w:c:harrypotterwizardsunite:Leprechaun">the Harry Potter: Wizards Unite Wiki!</a>
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-creature pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/3/3f/Leprechaun.png/revision/latest?cb=20200722153315" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/3/3f/Leprechaun.png/revision/latest/scale-to-width-down/185?cb=20200722153315" srcset="https://static.wikia.nocookie.net/harrypotter/images/3/3f/Leprechaun.png/revision/latest/scale-to-width-down/185?cb=20200722153315 1x, https://static.wikia.nocookie.net/harrypotter/images/3/3f/Leprechaun.png/revision/latest/scale-to-width-down/371?cb=20200722153315 2x" class="pi-image-thumbnail" alt="" width="186" height="500"
+		     data-image-key="Leprechaun.png" data-image-name="Leprechaun.png"/>
+		
+	</a>
+	
+</figure>
+
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Leprechaun</h2>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Species information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Green</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="native">
+	
+		<h3 class="pi-data-label pi-secondary-font">Native to</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Ireland" title="Ireland">Ireland</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="alias">
+	
+		<h3 class="pi-data-label pi-secondary-font">Alternative names</h3>
+	
+	<div class="pi-data-value pi-font">Clauricorn</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="height">
+	
+		<h3 class="pi-data-label pi-secondary-font">Height of average adult</h3>
+	
+	<div class="pi-data-value pi-font">Six inches</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="mortality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Mortality</h3>
+	
+	<div class="pi-data-value pi-font">Mortal</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="distinction">
+	
+		<h3 class="pi-data-label pi-secondary-font">Distinction</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>Mischievous nature</li><li>Herbivorous</li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="affiliation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Affiliation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Irish_National_Quidditch_team" title="Irish National Quidditch team">Irish National Quidditch team</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="class">
+	
+		<h3 class="pi-data-label pi-secondary-font"><a href="/wiki/Department_for_the_Regulation_and_Control_of_Magical_Creatures#Ministry_Classification_of_Magical_Creatures" title="Department for the Regulation and Control of Magical Creatures">Ministry of Magic Classification</a></h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Beast" title="Beast">Beast</a><br/><a href="/wiki/XXX" class="mw-redirect" title="XXX">XXX</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="status">
+	
+		<h3 class="pi-data-label pi-secondary-font">Status</h3>
+	
+	<div class="pi-data-value pi-font">Extant</div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Creature_infobox" title="Template:Creature infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+The <b>Leprechaun</b>, sometimes known as the <b>Clauricorn</b>, is a mischievous <a href="/wiki/Magic" title="Magic">magical</a> <a href="/wiki/Beast" title="Beast">beast</a>, although it is not malicious. They have a reputation as pranksters, but have never inflicted lasting damage on a <a href="/wiki/Human" title="Human">Human</a>. Native only to <a href="/wiki/Ireland" title="Ireland">Ireland</a>, they are fully sentient and capable of speech but have never requested the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">British Ministry of Magic</a> to reclassify them as <a href="/wiki/Being" title="Being">Beings</a>.<sup id="cite_ref-FBR_1-0" class="reference"><a href="#cite_note-FBR-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Physical_appearance"><span class="tocnumber">1</span> <span class="toctext">Physical appearance</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Habitat_and_traits"><span class="tocnumber">2</span> <span class="toctext">Habitat and traits</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#History"><span class="tocnumber">3</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Behind_the_scenes"><span class="tocnumber">4</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Appearances"><span class="tocnumber">5</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Notes_and_references"><span class="tocnumber">6</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Physical_appearance">Physical appearance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Leprechaun?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Physical appearance">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Leprechaun?action=edit&amp;section=1" title="Edit section: Physical appearance"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Green in colour, the Leprechaun reaches a height of around six inches, and normally wear clothing made out of leaves. Leprechauns main diet consists of vegetation, primarily leaves.<sup id="cite_ref-FBR_1-1" class="reference"><a href="#cite_note-FBR-1">&#91;1&#93;</a></sup>
+</p><p>Although they are humanoid-like creatures, it is unlikely that they are related to <a href="/wiki/Human" title="Human">humans</a> or any other human-related <a href="/wiki/Being" title="Being">beings</a>, such as <a href="/wiki/Goblin" title="Goblin">goblins</a>.<sup id="cite_ref-FBR_1-2" class="reference"><a href="#cite_note-FBR-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Habitat_and_traits">Habitat and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Leprechaun?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Habitat and traits">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Leprechaun?action=edit&amp;section=2" title="Edit section: Habitat and traits"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Leprechauns live in forests and wooded areas, and they enjoy attracting <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> attention to themselves. This tendency has led to them being heavily integrated into Muggle children's stories and legends. Leprechauns have the ability to create a gold-like substance that disappears, much to their amusement, after a few hours. Much of this <a href="/wiki/Leprechaun_gold" title="Leprechaun gold">Leprechaun gold</a> is created in the form of <a href="/wiki/Wizarding_currency" title="Wizarding currency">Galleon</a> coins.<sup id="cite_ref-FBR_1-3" class="reference"><a href="#cite_note-FBR-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Leprechaun?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: History">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Leprechaun?action=edit&amp;section=3" title="Edit section: History"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tright show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/1/1a/GOF_Irish_mascot_Leprechaun.gif/revision/latest?cb=20190227203115" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/1/1a/GOF_Irish_mascot_Leprechaun.gif/revision/latest/scale-to-width-down/180?cb=20190227203115" decoding="async" width="180" height="80" class="thumbimage" data-image-name="GOF Irish mascot Leprechaun.gif" data-image-key="GOF_Irish_mascot_Leprechaun.gif" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:GOF_Irish_mascot_Leprechaun.gif" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">A Dancing Leprechaun mascot for the <a href="/wiki/Irish_National_Quidditch_team" title="Irish National Quidditch team">Irish National Quidditch team</a></p> 		 	</figcaption> </figure>
+<p><a href="/wiki/Ludovic_Bagman" title="Ludovic Bagman">Ludo Bagman</a> paid <a href="/wiki/Fred_and_George_Weasley" title="Fred and George Weasley">Fred and George Weasley</a> in <a href="/wiki/Leprechaun_gold" title="Leprechaun gold">Leprechaun gold</a>-galleons when he lost a bet concerning the Ireland and Bulgaria Quidditch teams during the <a href="/wiki/1994_Quidditch_World_Cup" title="1994 Quidditch World Cup">1994 Quidditch World Cup</a>. <a href="/wiki/Ronald_Weasley" title="Ronald Weasley">Ron</a> paid <a href="/wiki/Harry_Potter" title="Harry Potter">Harry</a> in it as well to cover the cost of the <a href="/wiki/Omnioculars" title="Omnioculars">Omnioculars</a> that Harry got for him to view the match. Ron was very upset when he found out the gold disappeared, and that he hadn't really paid back Harry at all, but Harry didn't mind.<sup id="cite_ref-GOF8_2-0" class="reference"><a href="#cite_note-GOF8-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Leprechaun?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Leprechaun?action=edit&amp;section=4" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>The <a href="http://en.wikipedia.org/wiki/leprechaun" class="extiw" title="wikipedia:leprechaun">leprechaun</a> is a <a href="/wiki/Fairy" title="Fairy">fairy</a>-like <a href="/wiki/Magic" title="Magic">magical</a> <a href="/wiki/Creature" title="Creature">creature</a> from <a href="/wiki/Ireland" title="Ireland">Irish</a> mythology. They are generally depicted as tiny old men with red hair and beards, clad in green, who make shoes, hide coins in pots of gold hidden at the ends of rainbows, and cause mischief. "Clauricorn" is presumably derived from <a href="http://en.wikipedia.org/wiki/clurichaun" class="extiw" title="wikipedia:clurichaun">clurichaun</a>, an evil variety of leprechaun associated with drunkards.</li>
+<li><a href="/wiki/Warwick_Davis" title="Warwick Davis">Warwick Davis</a>, the actor who portrayed Professor <a href="/wiki/Filius_Flitwick" title="Filius Flitwick">Filius Flitwick</a> and <a href="/wiki/Griphook" title="Griphook">Griphook</a> the <a href="/wiki/Goblin" title="Goblin">goblin</a>, has also starred as an evil leprechaun in the <i>Leprechaun</i> comedy horror film series.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Leprechaun?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Leprechaun?action=edit&amp;section=5" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 3 images related to <i><b><a href="/wiki/Category:Images_of_Leprechauns" title="Category:Images of Leprechauns">Leprechaun</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire" title="Harry Potter and the Goblet of Fire">Harry Potter and the Goblet of Fire</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire_(film)" title="Harry Potter and the Goblet of Fire (film)">Harry Potter and the Goblet of Fire (film)</a></i> <span class="template-c">(Seen as magical display effect)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">Harry Potter and the Deathly Hallows</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(companion_book)" title="Fantastic Beasts and Where to Find Them (companion book)">Fantastic Beasts and Where to Find Them</a></i></li>
+<li><i><a href="/wiki/Quidditch_Through_the_Ages_(real)" title="Quidditch Through the Ages (real)">Quidditch Through the Ages</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Leprechaun?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Leprechaun?action=edit&amp;section=6" title="Edit section: Notes and references

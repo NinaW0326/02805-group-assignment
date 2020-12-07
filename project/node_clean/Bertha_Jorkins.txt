@@ -1,0 +1,161 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-mom pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/5/5e/BerthaJorkins_PM.png/revision/latest?cb=20171115165250" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/5/5e/BerthaJorkins_PM.png/revision/latest/scale-to-width-down/302?cb=20171115165250" srcset="https://static.wikia.nocookie.net/harrypotter/images/5/5e/BerthaJorkins_PM.png/revision/latest/scale-to-width-down/302?cb=20171115165250 1x, https://static.wikia.nocookie.net/harrypotter/images/5/5e/BerthaJorkins_PM.png/revision/latest/scale-to-width-down/604?cb=20171115165250 2x" class="pi-image-thumbnail" alt="" width="270" height="447"
+		     data-image-key="BerthaJorkins_PM.png" data-image-name="BerthaJorkins PM.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Bertha Jorkins</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/1_September" title="1 September">1 September</a> <a href="/wiki/1953" title="1953">1953</a> - <a href="/wiki/31_August" title="31 August">31 August</a> <a href="/wiki/1958" title="1958">1958</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/1994" title="1994">1994</a> (aged around 35-40), <a href="/wiki/Albania" title="Albania">Albania</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a> or <a href="/wiki/Ireland" title="Ireland">Irish</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Bertha_Jorkins%27_aunt" class="mw-redirect" title="Bertha Jorkins&#039; aunt">Aunt</a></li><li><a href="/wiki/Bertha_Jorkins%27_second_cousin" class="mw-redirect" title="Bertha Jorkins&#039; second cousin">Second cousin</a></li><li><a href="/wiki/Primrose_Jorkins" title="Primrose Jorkins">Primrose Jorkins</a> (possibly)</li><li><a href="/wiki/Albert_Jorkins" title="Albert Jorkins">Albert Jorkins</a> (possibly)</li><li><a href="/wiki/Granville_Jorkins" title="Granville Jorkins">Granville Jorkins</a> (possibly)</li><li><a href="/wiki/Grimwold_Jorkins" title="Grimwold Jorkins">Grimwold Jorkins</a>  (possibly)</li><li><a href="/wiki/Griselda_Jorkins" title="Griselda Jorkins">Griselda Jorkins</a> (possibly)</li><li><a href="/wiki/Stamford_Jorkins" title="Stamford Jorkins">Stamford Jorkins</a> (possibly)</li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Department_of_Magical_Games_and_Sports" title="Department of Magical Games and Sports">Department of Magical Games and Sports</a> employee</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">British Ministry of Magic</a><ul><li><a href="/wiki/Department_of_Magical_Games_and_Sports" title="Department of Magical Games and Sports">Department of Magical Games and Sports</a></li></ul></li><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a></li></ul><ul><li><a href="/wiki/Jorkins_family" title="Jorkins family">Jorkins family</a></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Goblet of Fire">"<i>Listen, I knew Bertha Jorkins. She was at Hogwarts when I was, a few years above <a href="/wiki/James_Potter_I" title="James Potter I">your dad</a> and me. And she was an idiot. Very nosy, but no brains, none at all. It's not a good combination, <a href="/wiki/Harry_Potter" title="Harry Potter">Harry</a>. I'd say she'd be very easy to lure into a trap.</i>"</span></dd>
+<dd>&#8212;<a href="/wiki/Sirius_Black" title="Sirius Black">Sirius Black</a><sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire" title="Harry Potter and the Goblet of Fire">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Bertha Jorkins</b> (c. <a href="/wiki/1953" title="1953">1953</a>-<a href="/wiki/1958" title="1958">1958</a> - <a href="/wiki/1994" title="1994">1994</a>) was a <a href="/wiki/Great_Britain" title="Great Britain">British</a> <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> and <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">Ministry of Magic</a> employee who worked in the <a href="/wiki/Department_of_Magical_Games_and_Sports" title="Department of Magical Games and Sports">Department of Magical Games and Sports</a> before her death.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_life"><span class="tocnumber">1.1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Hogwarts_years"><span class="tocnumber">1.2</span> <span class="toctext">Hogwarts years</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Career_at_the_Ministry"><span class="tocnumber">1.3</span> <span class="toctext">Career at the Ministry</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Death"><span class="tocnumber">1.4</span> <span class="toctext">Death</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Postmortem"><span class="tocnumber">1.5</span> <span class="toctext">Postmortem</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Physical_Appearance"><span class="tocnumber">2</span> <span class="toctext">Physical Appearance</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Personality_and_traits"><span class="tocnumber">3</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Etymology"><span class="tocnumber">4</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Behind_the_scenes"><span class="tocnumber">5</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Appearances"><span class="tocnumber">6</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Notes_and_references"><span class="tocnumber">7</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Bertha_Jorkins?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Bertha_Jorkins?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Bertha_Jorkins?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Early life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Bertha_Jorkins?action=edit&amp;section=2" title="Edit section: Early life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Bertha Jorkins was born at some point between <a href="/wiki/1_September" title="1 September">1 September</a>, <a href="/wiki/1953" title="1953">1953</a>, and <a href="/wiki/31_August" title="31 August">31 August</a>, <a href="/wiki/1958" title="1958">1958</a>. Her parentage is unknown.
+</p>
+<h3><span class="mw-headline" id="Hogwarts_years">Hogwarts years</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Bertha_Jorkins?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Hogwarts years">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Bertha_Jorkins?action=edit&amp;section=3" title="Edit section: Hogwarts years"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Bertha Jorkins was a few years ahead of <a href="/wiki/James_Potter_I" title="James Potter I">James Potter</a>, <a href="/wiki/Sirius_Black" title="Sirius Black">Sirius Black</a>, <a href="/wiki/Remus_Lupin" title="Remus Lupin">Remus Lupin</a>, and <a href="/wiki/Peter_Pettigrew" title="Peter Pettigrew">Peter Pettigrew</a> at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a>. She was a gossipy girl and not very bright, which Sirius noted to not be a very good combination.<sup id="cite_ref-GOF19_3-0" class="reference"><a href="#cite_note-GOF19-3">&#91;3&#93;</a></sup> During her school years she would regularly complain about mistreatment from other students and spread rumours, even once ending up in front of <a href="/wiki/Albus_Dumbledore" title="Albus Dumbledore">Dumbledore</a> following an incident. Bertha was described as being a slightly plump girl with a sulky expression, though her expression could just be due to the fact she was complaining to Dumbledore. She once complained about being <a href="/wiki/Hex" title="Hex">Hexed</a> by a <a href="/wiki/Florence%27s_boyfriend" title="Florence&#39;s boyfriend">boy</a> whom she teased because she had caught him kissing <a href="/wiki/Florence" title="Florence">Florence</a> behind the <a href="/wiki/Hogwarts_greenhouses" title="Hogwarts greenhouses">Hogwarts greenhouses</a>.<sup id="cite_ref-GOF30_4-0" class="reference"><a href="#cite_note-GOF30-4">&#91;4&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Career_at_the_Ministry">Career at the Ministry</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Bertha_Jorkins?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Career at the Ministry">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Bertha_Jorkins?action=edit&amp;section=4" title="Edit section: Career at the Ministry"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>After graduating from Hogwarts, Bertha joined the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">Ministry of Magic</a> and floated between Departments. She finally ended up in the <a href="/wiki/Department_of_Magical_Games_and_Sports" title="Department of Magical Games and Sports">Department of Magical Games and Sports</a> under the head of <a href="/wiki/Ludovic_Bagman" title="Ludovic Bagman">Ludo Bagman</a>.
+</p><p>Bertha had the misfortune of making a visit to the estate of <a href="/wiki/Bartemius_Crouch_Senior" title="Bartemius Crouch Senior">Barty Crouch Snr</a> with some papers for him to sign, where she discovered the Crouch family secret that they were keeping their convicted <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eater</a> son <a href="/wiki/Bartemius_Crouch_Junior" title="Bartemius Crouch Junior">Barty Crouch Jnr</a> trapped in their house under the <a href="/wiki/Imperius_Curse" title="Imperius Curse">Imperius Curse</a> and an <a href="/wiki/Invisibility_cloak" title="Invisibility cloak">invisibility cloak</a> when their <a href="/wiki/House-elf" title="House-elf">house-elf</a> <a href="/wiki/Winky" title="Winky">Winky</a> was talking to the criminal, of which Bertha heard enough to deduce who was under the cloak. When Bertha confronted Crouch Snr, he had to place a powerful Memory Charm on her to alter her memory and make her forget what she had found out. However, the Memory Charm was so powerful, in fact, that she suffered permanent brain damage, leading to the extreme forgetfulness she had since been known for.<sup id="cite_ref-GOF35_5-0" class="reference"><a href="#cite_note-GOF35-5">&#91;5&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Death">Death</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Bertha_Jorkins?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Death">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Bertha_Jorkins?action=edit&amp;section=5" title="Edit section: Death"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Bertha Jorkins went on holiday to <a href="/wiki/Albania" title="Albania">Albania</a> in <a href="/wiki/1994" title="1994">1994</a>. One night in a wayside inn, she ran into <a href="/wiki/Peter_Pettigrew" title="Peter Pettigrew">Peter Pettigrew</a>, who the Ministry thought to be dead at the hands of <a href="/wiki/Sirius_Black" title="Sirius Black">Sirius Black</a>. Although she recognised him, he was able to persuade her to take a stroll with him into the woods, and he was able to overpower Bertha and bring her before his master, <a href="/wiki/Tom_Riddle" title="Tom Riddle">Lord Voldemort</a>, who was hiding in Albania. Lord Voldemort was able to break through the memory charm placed by Crouch Snr on her through <a href="/wiki/Cruciatus_Curse" title="Cruciatus Curse">torture</a> and learned of the imprisonment of his follower Crouch Jnr, and also learned valuable information about the <a href="/wiki/Triwizard_Tournament" title="Triwizard Tournament">Triwizard Tournament</a> which he would use to try to kill <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a>.<sup id="cite_ref-GOF1_6-0" class="reference"><a href="#cite_note-GOF1-6">&#91;6&#93;</a></sup>
+</p><p>Breaking through the memory charm had left Bertha severely "damaged," by permanently damaging her mind and body beyond repair, and Lord Voldemort murdered her with the <a href="/wiki/Killing_Curse" title="Killing Curse">Killing Curse</a>, because he had no more use for her. Voldemort used her death to turn his <a href="/wiki/Snake" title="Snake">snake</a> <a href="/wiki/Nagini" title="Nagini">Nagini</a> into a <a href="/wiki/Horcrux" title="Horcrux">Horcrux</a>. Pettigrew noted this was a poor move, believing that the Ministry would notice her disappearance and that they could have simply modified her memory to cover their tracks, which Voldemort believed would be an insult to her <i>memory</i>.<sup id="cite_ref-GOF1_6-1" class="reference"><a href="#cite_note-GOF1-6">&#91;6&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Postmortem">Postmortem</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Bertha_Jorkins?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Postmortem">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Bertha_Jorkins?action=edit&amp;section=6" title="Edit section: Postmortem"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>As a result of her demise, Bertha did not return when she was supposed to. Her reputation of being forgetful and not very bright made many believe she had lost track of time and was perhaps just lost, so the truth was not discovered for a while.<sup id="cite_ref-GOF5_7-0" class="reference"><a href="#cite_note-GOF5-7">&#91;7&#93;</a></sup>
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Goblet of Fire">"<i>Don’t let go, now! Don’t let him get you, Harry — don’t let go!</i>"</span></dd>
+<dd>&#8212;Bertha's echo to Harry Potter in the Little Hangleton graveyard<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire" title="Harry Potter and the Goblet of Fire">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<figure class="thumb tleft show-info-icon" style="width: 252px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/6/67/Priori_Incantatem_Pottermore.png/revision/latest?cb=20161206050104" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/6/67/Priori_Incantatem_Pottermore.png/revision/latest/scale-to-width-down/250?cb=20161206050104" decoding="async" width="250" height="102" class="thumbimage" data-image-name="Priori Incantatem Pottermore.png" data-image-key="Priori_Incantatem_Pottermore.png" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Priori_Incantatem_Pottermore.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Bertha Jorkins (far right) emerges from <a href="/wiki/Tom_Riddle%27s_wand" title="Tom Riddle&#39;s wand">Voldemort's wand</a> during the <a href="/wiki/Duel_in_Little_Hangleton" title="Duel in Little Hangleton">duel in Little Hangleton</a></p> 		 	</figcaption> </figure>
+<p>During the <a href="/wiki/Duel_in_Little_Hangleton" title="Duel in Little Hangleton">duel</a> between <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> and Lord Voldemort in the <a href="/wiki/Little_Hangleton_graveyard" title="Little Hangleton graveyard">Little Hangleton graveyard</a>, when the spells of the two <a href="/wiki/Duelling" title="Duelling">duellists</a> clashed into a <a href="/wiki/Reverse_Spell" title="Reverse Spell">Priori Incantatem</a>, Bertha was one of the echoes to emerge from the bond. She supported Harry while withholding Voldemort. Harry would later report Bertha's fate and temporary return to Dumbledore and Sirius, thus solving the mystery of her disappearance.<sup id="cite_ref-GOF34_8-0" class="reference"><a href="#cite_note-GOF34-8">&#91;8&#93;</a></sup>
+</p><p>Three years later, Bertha was ultimately avenged when Harry defeated Voldemort during <a href="/wiki/Voldemort%27s_Last_Stand" title="Voldemort&#39;s Last Stand">the latter's last stand</a>.<sup id="cite_ref-DH36_9-0" class="reference"><a href="#cite_note-DH36-9">&#91;9&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Physical_Appearance">Physical Appearance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Bertha_Jorkins?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Physical Appearance">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Bertha_Jorkins?action=edit&amp;section=7" title="Edit section: Physical Appearance"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Bertha was a slightly plump woman.<sup id="cite_ref-GOF30_4-1" class="reference"><a href="#cite_note-GOF30-4">&#91;4&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Bertha_Jorkins?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Personality and traits">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Bertha_Jorkins?action=edit&amp;section=8" title="Edit section: Personality and traits"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Bertha was a very gossipy and nosy woman, though she was not very bright, which in <a href="/wiki/Sirius_Black" title="Sirius Black">Sirius Black</a>'s opinion, not a very good combination.<sup id="cite_ref-GOF19_3-1" class="reference"><a href="#cite_note-GOF19-3">&#91;3&#93;</a></sup> She was displeased with the mistreatment she received from her schoolmates despite her nosiness being the cause of their motive.<sup id="cite_ref-GOF30_4-2" class="reference"><a href="#cite_note-GOF30-4">&#91;4&#93;</a></sup> Even in adulthood, her intelligence did not improve much, as upon discovering Barty Crouch Jnr still alive and hidden from the world, she confronted Crouch Snr instead of leaving to report to the Ministry, thus letting to her being struck with a Memory Charm. This ultimately became her downfall, as upon seeing the still alive Peter Pettigrew, she easily fell into his trap (which Sirius stated was a high possibility due to her poor personality combination) by accepting his proposal to take a stroll instead of reporting him, thus leading to her capture and delivery to Voldemort's clutches.<sup id="cite_ref-GOF35_5-1" class="reference"><a href="#cite_note-GOF35-5">&#91;5&#93;</a></sup>
+</p><p>After being struck by Crouch's intensive Memory Charm, Bertha's short term memory was permanently compromised, leading others to see as a new trait of forgetfulness that nobody questioned about.<sup id="cite_ref-GOF5_7-1" class="reference"><a href="#cite_note-GOF5-7">&#91;7&#93;</a></sup><sup id="cite_ref-GOF35_5-2" class="reference"><a href="#cite_note-GOF35-5">&#91;5&#93;</a></sup> When Voldemort tortured her extensively to break the Memory Charm, it left her damaged beyond repair, physically and mentally,<sup id="cite_ref-GOF34_8-1" class="reference"><a href="#cite_note-GOF34-8">&#91;8&#93;</a></sup> though Pettigrew believed she was still fit enough to have her memories modified again and sent back to the Ministry to avoid suspicions.<sup id="cite_ref-GOF1_6-2" class="reference"><a href="#cite_note-GOF1-6">&#91;6&#93;</a></sup>
+</p><p>Upon her brief return to the mortal realm, Bertha was supportive of Harry Potter, as she moved to haunt Voldemort in order to give Harry time to escape.<sup id="cite_ref-GOF34_8-2" class="reference"><a href="#cite_note-GOF34-8">&#91;8&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Bertha_Jorkins?veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Bertha_Jorkins?action=edit&amp;section=9" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Her first name, Bertha, means "intelligent" or "shining" — an ironic first name, as she was gossipy, forgetful and not always wisely cautious about danger. Jorkins may be from Mr Jorkins, a character in Charles Dickens' <i>David Copperfield</i> and <i>A Christmas Carol</i>.
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Bertha_Jorkins?veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Bertha_Jorkins?action=edit&amp;section=10" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>She was cut from the <a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire_(film)" title="Harry Potter and the Goblet of Fire (film)">film adaptation</a> of <i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire" title="Harry Potter and the Goblet of Fire">Harry Potter and the Goblet of Fire</a></i>, for time reasons.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Bertha_Jorkins?veaction=edit&amp;section=11" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Bertha_Jorkins?action=edit&amp;section=11" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire" title="Harry Potter and the Goblet of Fire">Harry Potter and the Goblet of Fire</a></i> <small>(First appearance)</small> <small>(Appears as a ghost or a spirit)</small></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> <small>(Appears as a ghost or a spirit)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Bertha_Jorkins?veaction=edit&amp;section=12" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Bertha_Jorkins?action=edit&amp;section=12" title="Edit section: Notes and references

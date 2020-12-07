@@ -1,0 +1,136 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-object pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/9/9f/HeadmasterPortraits.png/revision/latest?cb=20120818023241" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/9/9f/HeadmasterPortraits.png/revision/latest/scale-to-width-down/350?cb=20120818023241" srcset="https://static.wikia.nocookie.net/harrypotter/images/9/9f/HeadmasterPortraits.png/revision/latest/scale-to-width-down/350?cb=20120818023241 1x, https://static.wikia.nocookie.net/harrypotter/images/9/9f/HeadmasterPortraits.png/revision/latest/scale-to-width-down/700?cb=20120818023241 2x" class="pi-image-thumbnail" alt="" width="270" height="365"
+		     data-image-key="HeadmasterPortraits.png" data-image-name="HeadmasterPortraits.png"/>
+		
+	</a>
+	
+</figure>
+
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Headmaster portraits</h2>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Object information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="made">
+	
+		<h3 class="pi-data-label pi-secondary-font">Made</h3>
+	
+	<div class="pi-data-value pi-font">Various</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="usage">
+	
+		<h3 class="pi-data-label pi-secondary-font">Usage</h3>
+	
+	<div class="pi-data-value pi-font">To advise and assist the current <a href="/wiki/Headmaster" title="Headmaster">Headmaster</a> of <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts</a>.</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="owners">
+	
+		<h3 class="pi-data-label pi-secondary-font">Owners</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Object_infobox" title="Template:Object infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Order of the Phoenix"><b>Phineas Nigellus Black</b>: "<i>Visit my other portrait? Oh, no, I am too tired tonight.</i>"</span></dd>
+<dd><b> Unidentified Headmaster</b>: "<i>Insubordination, sir! Dereliction of duty!</i>"</dd>
+<dd><b>Armando Dippet</b>: "<i>We are honour-bound to give service to the present Headmaster of Hogwarts! Shame on you, Phineas!</i>"</dd>
+<dd>&#8212; Some of the other portraits scold Phineas for attempting to shirk his duty to the current Headmaster<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">[src]</a></sup></dd></dl>
+</div> 
+<p>The <b>Headmaster portraits</b> are a set of <a href="/wiki/Portrait" title="Portrait">portraits</a> mounted in the <a href="/wiki/Headmaster" title="Headmaster">Headmaster</a>'s <a href="/wiki/Headmaster%27s_office" class="mw-redirect" title="Headmaster&#39;s office">office</a> at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a>. Each portrait represents a previous Headmaster or Headmistress, though not every person to hold the office is immediately granted a portrait. They are honour-bound to serve the current Headmaster at all times. Several of these portraits have counterparts in other prestigious magical institutions, such as the <a href="/wiki/British_Ministry_of_Magic_Headquarters" title="British Ministry of Magic Headquarters">British Ministry of Magic Headquarters</a>, <a href="/wiki/St_Mungo%27s_Hospital_for_Magical_Maladies_and_Injuries" title="St Mungo&#39;s Hospital for Magical Maladies and Injuries">St Mungo's Hospital for Magical Maladies and Injuries</a>, and the <a href="/wiki/House_of_Black" title="House of Black">Black family</a> home at <a href="/wiki/12_Grimmauld_Place" title="12 Grimmauld Place">12 Grimmauld Place</a>. This is extremely useful, as the individuals within such portraits may travel freely between them, though one important limitation is that they may not bring along individuals from other portraits with them.<sup id="cite_ref-OOTP22_1-0" class="reference"><a href="#cite_note-OOTP22-1">&#91;1&#93;</a></sup>
+</p><p>A trait shared by many of the portraits is that they spend most of the time asleep or pretending to be asleep, though most of them, with the occasional exception of <a href="/wiki/Phineas_Nigellus_Black" title="Phineas Nigellus Black">Phineas Nigellus Black</a>, will immediately awaken when addressed.<sup id="cite_ref-OOTP22_1-1" class="reference"><a href="#cite_note-OOTP22-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#1995-1996_school_year"><span class="tocnumber">1.1</span> <span class="toctext">1995-1996 school year</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#1997-1998_school_year"><span class="tocnumber">1.2</span> <span class="toctext">1997-1998 school year</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Knowledge_of_portraits"><span class="tocnumber">2</span> <span class="toctext">Knowledge of portraits</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Known_Headmasters_with_portraits"><span class="tocnumber">3</span> <span class="toctext">Known Headmasters with portraits</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Behind_the_scenes"><span class="tocnumber">4</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Appearances"><span class="tocnumber">5</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Notes_and_references"><span class="tocnumber">6</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Headmaster_portraits?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: History">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Headmaster_portraits?action=edit&amp;section=1" title="Edit section: History"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="1995-1996_school_year"><a href="/wiki/1995-1996_school_year" class="mw-redirect" title="1995-1996 school year">1995-1996 school year</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Headmaster_portraits?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: 1995-1996 school year">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Headmaster_portraits?action=edit&amp;section=2" title="Edit section: 1995-1996 school year"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>When <a href="/wiki/Arthur_Weasley" title="Arthur Weasley">Arthur Weasley</a> was <a href="/wiki/Attack_on_Arthur_Weasley" title="Attack on Arthur Weasley">attacked</a> by <a href="/wiki/Nagini" title="Nagini">Nagini</a> on <a href="/wiki/18_December" title="18 December">18 December</a>, <a href="/wiki/Albus_Dumbledore" title="Albus Dumbledore">Albus Dumbledore</a> called upon several of the portraits to relay or provide information on the event. <a href="/wiki/Everard" title="Everard">Everard</a> was sent to his portrait at the Ministry of Magic to make sure Arthur was found, <a href="/wiki/Dilys_Derwent" title="Dilys Derwent">Dilys Derwent</a> was sent to St Mungo's to monitor his arrival there, and Phineas Nigellus Black was sent to 12 Grimmauld Place to inform <a href="/wiki/Sirius_Black" title="Sirius Black">Sirius Black</a> that <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> and the <a href="/wiki/Weasley_family" title="Weasley family">Weasley children</a> would be arriving there by <a href="/wiki/Portkey" title="Portkey">Portkey</a>.<sup id="cite_ref-OOTP22_1-2" class="reference"><a href="#cite_note-OOTP22-1">&#91;1&#93;</a></sup>
+</p><p>The portraits witnessed <a href="/wiki/Cornelius_Fudge" title="Cornelius Fudge">Cornelius Fudge</a>'s attempt to arrest Dumbledore later that year, and did not sham sleep that night, but instead outright supported him against the Ministry, with one or two even giving Fudge a rude hand gesture. Even Phineas could not deny that Dumbledore's defence against Fudge's brigade as impressive.<sup id="cite_ref-OOTP27_2-0" class="reference"><a href="#cite_note-OOTP27-2">&#91;2&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="1997-1998_school_year"><a href="/wiki/1997-1998_school_year" class="mw-redirect" title="1997-1998 school year">1997-1998 school year</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Headmaster_portraits?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: 1997-1998 school year">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Headmaster_portraits?action=edit&amp;section=3" title="Edit section: 1997-1998 school year"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>After the death of Albus Dumbledore, then-Head <a href="/wiki/Severus_Snape" title="Severus Snape">Severus Snape</a> continued to be advised by, and take orders from, <a href="/wiki/Albus_Dumbledore%27s_portrait" title="Albus Dumbledore&#39;s portrait">his portrait</a>. It was under these orders that Snape delivered <a href="/wiki/Godric_Gryffindor%27s_Sword" class="mw-redirect" title="Godric Gryffindor&#39;s Sword">Godric Gryffindor's Sword</a> to Harry Potter, and arranged for Harry to view several of his <a href="/wiki/Memory" title="Memory">memories</a>.<sup id="cite_ref-DH33_3-0" class="reference"><a href="#cite_note-DH33-3">&#91;3&#93;</a></sup>
+</p><p>Following the <a href="/wiki/Voldemort%27s_Last_Stand" title="Voldemort&#39;s Last Stand">defeat</a> of <a href="/wiki/Tom_Riddle" title="Tom Riddle">Lord Voldemort</a> at the <a href="/wiki/Battle_of_Hogwarts" title="Battle of Hogwarts">Battle of Hogwarts</a>, the portraits cheered on Harry when he visited the Headmaster's office. Dumbledore in particular complimented Harry, and supported his decision to discard the <a href="/wiki/Resurrection_Stone" title="Resurrection Stone">Resurrection Stone</a> and return the <a href="/wiki/Elder_Wand" title="Elder Wand">Elder Wand</a> to the <a href="/wiki/White_Tomb" title="White Tomb">White Tomb</a>.<sup id="cite_ref-DH36_4-0" class="reference"><a href="#cite_note-DH36-4">&#91;4&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Knowledge_of_portraits">Knowledge of portraits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Headmaster_portraits?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Knowledge of portraits">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Headmaster_portraits?action=edit&amp;section=4" title="Edit section: Knowledge of portraits"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Cursed Child">"<i>A headteacher's portrait is a memoir. It is supposed to be a support mechanism for the decisions I have to make. But I was advised as I took this job to not mistake the painting for the person.</i>"</span></dd>
+<dd>&#8212;<a href="/wiki/Minerva_McGonagall" title="Minerva McGonagall">Minerva McGonagall</a> to <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> in <a href="/wiki/2020" title="2020">2020</a><sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Cursed_Child" title="Harry Potter and the Cursed Child">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p>Headmaster portraits are capable of interaction with the living world. The headmaster or headmistress is painted before they die. When the portrait is completed, it is kept in <a href="/wiki/Headmaster_portraits%27_cupboard" title="Headmaster portraits&#39; cupboard">a cupboard</a> in the castle, and the headmaster or headmistress can teach their portrait to act and behave like themselves. Additionally, they can impart specific information and knowledge that can be shared down the centuries with their successors.<sup id="cite_ref-Pottermore_5-0" class="reference"><a href="#cite_note-Pottermore-5">&#91;5&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Known_Headmasters_with_portraits">Known Headmasters with portraits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Headmaster_portraits?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Known Headmasters with portraits">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Headmaster_portraits?action=edit&amp;section=5" title="Edit section: Known Headmasters with portraits"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tright show-info-icon" style="width: 242px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/a/a6/Ambone.jpg/revision/latest?cb=20090804234636" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/a/a6/Ambone.jpg/revision/latest/scale-to-width-down/240?cb=20090804234636" decoding="async" width="240" height="225" class="thumbimage" data-image-name="Ambone.jpg" data-image-key="Ambone.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Ambone.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption"><a href="/wiki/Ambrose_Swott" class="mw-redirect" title="Ambrose Swott">Professor Swott's</a> portrait in <a href="/wiki/1992" title="1992">1992</a></p> 		 	</figcaption> </figure>
+<figure class="thumb tright show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/b/be/Dumbledore_Portrait.png/revision/latest?cb=20150203194239" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/b/be/Dumbledore_Portrait.png/revision/latest/scale-to-width-down/180?cb=20150203194239" decoding="async" width="180" height="235" class="thumbimage" data-image-name="Dumbledore Portrait.png" data-image-key="Dumbledore_Portrait.png" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Dumbledore_Portrait.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Dumbledore's portrait in <a href="/wiki/1997" title="1997">1997</a></p> 		 	</figcaption> </figure>
+<ul><li><a href="/wiki/Albus_Dumbledore" title="Albus Dumbledore">Albus Dumbledore</a></li>
+<li><a href="/wiki/Amrose_Swott" title="Amrose Swott">Ambrose Swott</a><sup id="cite_ref-CoS.2Ff_6-0" class="reference"><a href="#cite_note-CoS.2Ff-6">&#91;6&#93;</a></sup></li>
+<li><a href="/wiki/Armando_Dippet" title="Armando Dippet">Armando Dippet</a></li>
+<li><a href="/wiki/Basil_Fronsac" title="Basil Fronsac">Basil Fronsac</a></li>
+<li><a href="/wiki/Brian_Gagwilde" title="Brian Gagwilde">Brian Gagwilde</a></li>
+<li><a href="/wiki/Dexter_Fortescue" title="Dexter Fortescue">Dexter Fortescue</a></li>
+<li><a href="/wiki/Dilys_Derwent" title="Dilys Derwent">Dilys Derwent</a></li>
+<li><a href="/wiki/Edessa_Skandenberg" title="Edessa Skandenberg">Edessa Sakndenberg</a><sup id="cite_ref-CoS.2Ff_6-1" class="reference"><a href="#cite_note-CoS.2Ff-6">&#91;6&#93;</a></sup></li>
+<li><a href="/wiki/Everard" title="Everard">Everard</a></li>
+<li><a href="/wiki/Heliotrope_Wilkins" title="Heliotrope Wilkins">Heliotrope Wilkins</a><sup id="cite_ref-CoS.2Ff_6-2" class="reference"><a href="#cite_note-CoS.2Ff-6">&#91;6&#93;</a></sup></li>
+<li><a href="/wiki/Phineas_Nigellus_Black" title="Phineas Nigellus Black">Phineas Nigellus Black</a></li>
+<li><a href="/wiki/Phyllida_Spore" title="Phyllida Spore">Phyllida Spore</a></li>
+<li><a href="/wiki/Portrait_of_a_bearded_man_holding_a_book" title="Portrait of a bearded man holding a book">Portrait of a bearded man holding a book</a></li>
+<li><a href="/wiki/Quentin_Trimble" title="Quentin Trimble">Quintin Trimble</a></li>
+<li><a href="/wiki/Severus_Snape" title="Severus Snape">Severus Snape</a></li>
+<li><a href="/wiki/Vindictus_Viridian" title="Vindictus Viridian">Vindictus Viridian</a></li>
+<li><a href="/wiki/Vulpus" title="Vulpus">Vulpus</a><sup id="cite_ref-CoS.2Ff_6-3" class="reference"><a href="#cite_note-CoS.2Ff-6">&#91;6&#93;</a></sup></li>
+<li><a href="/wiki/Walter_Aragon" title="Walter Aragon">Walter Aragon</a></li>
+<li><a href="/wiki/Pink-faced_Hogwarts_Headmaster" title="Pink-faced Hogwarts Headmaster">Unidentified Hogwarts Headmaster</a></li>
+<li><a href="/wiki/Gimlet-eyed_Hogwarts_Headmistress" title="Gimlet-eyed Hogwarts Headmistress">Unidentified Hogwarts Headmistress</a></li>
+<li><a href="/wiki/Unidentified_resting_headmaster" title="Unidentified resting headmaster">Unidentified resting headmaster</a></li>
+<li><a href="/wiki/Unidentified_Sleeping_Headmaster_with_Apple" title="Unidentified Sleeping Headmaster with Apple">Unidentified Sleeping Headmaster with Apple</a></li>
+<li><a href="/wiki/Unidentified_Sleeping_Headmaster_with_Book" title="Unidentified Sleeping Headmaster with Book">Unidentified Sleeping Headmaster with Book</a></li></ul>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Headmaster_portraits?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Headmaster_portraits?action=edit&amp;section=6" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/J._K._Rowling" title="J. K. Rowling">J. K. Rowling</a> has stated that all of the portraits in the <a href="/wiki/Headmaster%27s_office" class="mw-redirect" title="Headmaster&#39;s office">Headmaster's office</a> (and, in fact, all of the portraits at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a>) are of deceased individuals.<sup id="cite_ref-edinburgh2004_7-0" class="reference"><a href="#cite_note-edinburgh2004-7">&#91;7&#93;</a></sup><sup id="cite_ref-carnegie_8-0" class="reference"><a href="#cite_note-carnegie-8">&#91;8&#93;</a></sup> Thus, though it has never been directly stated, it can be assumed that a Headmaster who left the position for other reasons (retirement or sacking, for example) will not have their portrait installed at all as Headmasters <i>must</i> die in office to get a portrait on the wall<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>.</li>
+<li>Rowling has explained that <a href="/wiki/Severus_Snape" title="Severus Snape">Severus Snape</a>'s portrait did not appear in the Headmaster's office immediately after his death in <i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">Harry Potter and the Deathly Hallows</a></i> because he effectively "abandoned" his post shortly before his death.<sup id="cite_ref-carnegie_8-1" class="reference"><a href="#cite_note-carnegie-8">&#91;8&#93;</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup></li>
+<li>The virtual tour of the Headmaster's office on Disc 2 of the DVD release of the <a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(film)" title="Harry Potter and the Chamber of Secrets (film)">film adaptation</a> of <i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets" title="Harry Potter and the Chamber of Secrets">Harry Potter and the Chamber of Secrets</a></i> reveals two portraits of <a href="/wiki/Albus_Dumbledore" title="Albus Dumbledore">Albus Dumbledore</a> (as portrayed by <a href="/wiki/Richard_Harris" title="Richard Harris">Richard Harris</a>) on display in the office, one on the wall amongst the other portraits, and the other in the sitting room behind the desk. As Dumbledore was alive at the time, this contradicts J.K. Rowling's above-mentioned statement that all Headmaster portraits depict deceased individuals. However, it can be assumed that neither of these portraits of Dumbledore were the "official" portrait, and that they were only in the office for decoration, or were draft versions of the final portrait which Dumbledore sat for while still alive.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Headmaster_portraits?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Headmaster_portraits?action=edit&amp;section=7" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets" title="Harry Potter and the Chamber of Secrets">Harry Potter and the Chamber of Secrets</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(film)" title="Harry Potter and the Chamber of Secrets (film)">Harry Potter and the Chamber of Secrets (film)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(video_game)" title="Harry Potter and the Chamber of Secrets (video game)">Harry Potter and the Chamber of Secrets (video game)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire" title="Harry Potter and the Goblet of Fire">Harry Potter and the Goblet of Fire</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire_(film)" title="Harry Potter and the Goblet of Fire (film)">Harry Potter and the Goblet of Fire (film)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">Harry Potter and the Order of the Phoenix</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(film)" title="Harry Potter and the Order of the Phoenix (film)">Harry Potter and the Order of the Phoenix (film)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(video_game)" title="Harry Potter and the Order of the Phoenix (video game)">Harry Potter and the Order of the Phoenix (video game)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">Harry Potter and the Half-Blood Prince</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince_(film)" title="Harry Potter and the Half-Blood Prince (film)">Harry Potter and the Half-Blood Prince (film)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">Harry Potter and the Deathly Hallows</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_2" title="Harry Potter and the Deathly Hallows: Part 2">Harry Potter and the Deathly Hallows: Part 2</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_2_(video_game)" title="Harry Potter and the Deathly Hallows: Part 2 (video game)">Harry Potter and the Deathly Hallows: Part 2 (video game)</a></i> <span class="template-c">(Memory)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Cursed_Child" title="Harry Potter and the Cursed Child">Harry Potter and the Cursed Child</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Cursed_Child_(play)" title="Harry Potter and the Cursed Child (play)">Harry Potter and the Cursed Child (play)</a></i></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter:_Years_1-4" title="LEGO Harry Potter: Years 1-4">LEGO Harry Potter: Years 1-4</a></i></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter:_Years_5-7" title="LEGO Harry Potter: Years 5-7">LEGO Harry Potter: Years 5-7</a></i></li>
+<li><i><a href="/wiki/Harry_Potter:_A_Pop-Up_Book" title="Harry Potter: A Pop-Up Book">Harry Potter: A Pop-Up Book</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_Trading_Card_Game" title="Harry Potter Trading Card Game">Harry Potter Trading Card Game</a></i></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i></li>
+<li><i><a href="/wiki/Wizarding_World_(website)" title="Wizarding World (website)">Wizarding World</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Headmaster_portraits?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Headmaster_portraits?action=edit&amp;section=8" title="Edit section: Notes and references

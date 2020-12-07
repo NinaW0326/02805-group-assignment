@@ -1,0 +1,161 @@
+<div class="mw-parser-output"><table class="notice metadata" id="spoiler" style="text-align: center; background: beige; margin: 1em 05%; padding: 0 1em; border: #a00 1px solid;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/e/ea/Wizards_Unite_logo.jpg/revision/latest?cb=20181114170049" class="image"><img alt="Wizards Unite logo.jpg" src="https://static.wikia.nocookie.net/harrypotter/images/e/ea/Wizards_Unite_logo.jpg/revision/latest/scale-to-width-down/175?cb=20181114170049" decoding="async" width="175" height="98" data-image-name="Wizards Unite logo.jpg" data-image-key="Wizards_Unite_logo.jpg" /></a>
+</td>
+<td><b>Warning!</b>
+<p>At least some content in this article is derived from information featured in <i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i>. As such, spoilers will be present within the article.
+</p><p>For gameplay-specific information, please see the relevant article on <a href="https://harrypotterwizardsunite.fandom.com/wiki/Thunderbird" class="extiw" title="w:c:harrypotterwizardsunite:Thunderbird">the Harry Potter: Wizards Unite Wiki!</a>
+</p>
+</td></tr></tbody></table>
+<div class="notice metadata" id="spoiler" style="text-align: center; background: #DCDCDC; margin: 1em 05%; padding: 0 1em; border: #696969 1px solid;">
+<p><b>"Point me!"</b>
+</p>
+This article is about <b>the magical creature</b>. You may be looking for <b>the <a href="/wiki/Ilvermorny_School_of_Witchcraft_and_Wizardry" title="Ilvermorny School of Witchcraft and Wizardry">Ilvermorny</a> <a href="/wiki/Thunderbird_(House)" title="Thunderbird (House)">house</a></b>.</div>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-creature pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/d/d7/Thunderbird_concept_art.jpg/revision/latest?cb=20180813231220" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/d/d7/Thunderbird_concept_art.jpg/revision/latest/scale-to-width-down/350?cb=20180813231220" srcset="https://static.wikia.nocookie.net/harrypotter/images/d/d7/Thunderbird_concept_art.jpg/revision/latest/scale-to-width-down/350?cb=20180813231220 1x, https://static.wikia.nocookie.net/harrypotter/images/d/d7/Thunderbird_concept_art.jpg/revision/latest/scale-to-width-down/700?cb=20180813231220 2x" class="pi-image-thumbnail" alt="" width="270" height="132"
+		     data-image-key="Thunderbird_concept_art.jpg" data-image-name="Thunderbird concept art.jpg"/>
+		
+	</a>
+	
+</figure>
+
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Thunderbird</h2>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Species information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="feathers">
+	
+		<h3 class="pi-data-label pi-secondary-font">Feather colour</h3>
+	
+	<div class="pi-data-value pi-font">Gold/White</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="related">
+	
+		<h3 class="pi-data-label pi-secondary-font">Related to</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Phoenix" title="Phoenix">Phoenix</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="native">
+	
+		<h3 class="pi-data-label pi-secondary-font">Native to</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Arizona" title="Arizona">Arizona</a>, <a href="/wiki/United_States_of_America" title="United States of America">United States of America</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="mortality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Mortality</h3>
+	
+	<div class="pi-data-value pi-font">Mortal</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="distinction">
+	
+		<h3 class="pi-data-label pi-secondary-font">Distinction</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>Can <a href="/wiki/Magic" title="Magic">magically</a> create storms</li><li>Highly sensitive to danger</li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="class">
+	
+		<h3 class="pi-data-label pi-secondary-font"><a href="/wiki/Department_for_the_Regulation_and_Control_of_Magical_Creatures#Ministry_Classification_of_Magical_Creatures" title="Department for the Regulation and Control of Magical Creatures">Ministry of Magic Classification</a></h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Beast" title="Beast">Beast</a><br/><a href="/wiki/XXXX" class="mw-redirect" title="XXXX">XXXX</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="status">
+	
+		<h3 class="pi-data-label pi-secondary-font">Status</h3>
+	
+	<div class="pi-data-value pi-font">Extant</div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Creature_infobox" title="Template:Creature infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Pottermore">"<i>Flying beast that can sense danger, and create storms as it flies</i>"</span></dd>
+<dd>&#8212;Description of the Thunderbird<sup class="noprint"><a href="/wiki/Pottermore" title="Pottermore">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p>The <b>Thunderbird</b> is a large, <a href="/wiki/Magic" title="Magic">magical</a> <a href="/wiki/Bird" title="Bird">avian</a> <a href="/wiki/Beast" title="Beast">beast</a> native to <a href="/wiki/North_America" title="North America">North America</a>, and most commonly found in <a href="/wiki/Arizona" title="Arizona">Arizona</a> in the southwestern <a href="/wiki/United_States_of_America" title="United States of America">United States</a>.<sup id="cite_ref-EW-thunderbird_1-0" class="reference"><a href="#cite_note-EW-thunderbird-1">&#91;1&#93;</a></sup><sup id="cite_ref-pottermore-1920s_2-0" class="reference"><a href="#cite_note-pottermore-1920s-2">&#91;2&#93;</a></sup> A close relative of the <a href="/wiki/Phoenix" title="Phoenix">Phoenix</a>,<sup id="cite_ref-pottermore-1920s_2-1" class="reference"><a href="#cite_note-pottermore-1920s-2">&#91;2&#93;</a></sup> the Thunderbird can create storms as it flies and is highly sensitive to danger. A <a href="/wiki/Thunderbird_(House)" title="Thunderbird (House)">house</a> at <a href="/wiki/Ilvermorny_School_of_Witchcraft_and_Wizardry" title="Ilvermorny School of Witchcraft and Wizardry">Ilvermorny School of Witchcraft and Wizardry</a> is named after this creature.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Uses"><span class="tocnumber">2</span> <span class="toctext">Uses</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#History"><span class="tocnumber">3</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Media"><span class="tocnumber">5</span> <span class="toctext">Media</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Behind_the_scenes"><span class="tocnumber">6</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Appearances"><span class="tocnumber">7</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Notes_and_references"><span class="tocnumber">8</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Description">Description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Thunderbird?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Description">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Thunderbird?action=edit&amp;section=1" title="Edit section: Description"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tright show-info-icon" style="width: 242px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/8/89/Thunderbird_concept_art2.jpg/revision/latest?cb=20180813231451" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/8/89/Thunderbird_concept_art2.jpg/revision/latest/scale-to-width-down/240?cb=20180813231451" decoding="async" width="240" height="110" class="thumbimage" data-image-name="Thunderbird concept art2.jpg" data-image-key="Thunderbird_concept_art2.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Thunderbird_concept_art2.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">A Thunderbird creating a storm</p> 		 	</figcaption> </figure>
+<figure class="thumb tright show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/3/38/Thunderbird_FB-2017.jpeg/revision/latest?cb=20170328234554" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/3/38/Thunderbird_FB-2017.jpeg/revision/latest/scale-to-width-down/180?cb=20170328234554" decoding="async" width="180" height="140" class="thumbimage" data-image-name="Thunderbird FB-2017.jpeg" data-image-key="Thunderbird_FB-2017.jpeg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Thunderbird_FB-2017.jpeg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">A wild Thunderbird</p> 		 	</figcaption> </figure>
+<p>The Thunderbird is described as having a head that is "similar to that of an <a href="/wiki/Eagle" title="Eagle">eagle</a>"; or, in the wizarding world, "similar to that of a <a href="/wiki/Hippogriff" title="Hippogriff">Hippogriff</a>". They possess three pairs of powerful wings, and have feathers that shimmer with cloud-like patterns.<sup id="cite_ref-EW-thunderbird_1-1" class="reference"><a href="#cite_note-EW-thunderbird-1">&#91;1&#93;</a></sup> 
+</p><p>The Thunderbird is known to change colours as it summons storms, its iridescent feathers shifting from various shades of gold to electrifying blue, to grey and silver, to white, and even to deep navy.
+</p><p>The Thunderbird can also sense danger and creates storms as it flies.
+</p>
+<h2><span class="mw-headline" id="Uses">Uses</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Thunderbird?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Uses">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Thunderbird?action=edit&amp;section=2" title="Edit section: Uses"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Thunderbird_tail_feather" title="Thunderbird tail feather">Thunderbirds' tail feather</a> can be used as a <a href="/wiki/Wand_core" title="Wand core">core</a> in a magic <a href="/wiki/Wand" title="Wand">wand</a>, with this type of wand being difficult to master, but powerful and skilled in <a href="/wiki/Transfiguration" title="Transfiguration">transfiguration</a> work. They too are also able to sense danger, much like their donors, also being able to cast <a href="/wiki/Curse" title="Curse">curses</a> on their own.
+</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Thunderbird?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: History">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Thunderbird?action=edit&amp;section=3" title="Edit section: History"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Shikoba_Wolfe" title="Shikoba Wolfe">Shikoba Wolfe</a>, who was of Choctaw descent, was primarily famous for intricately carved wands containing Thunderbird tail feathers. Wolfe wands were generally held to be extremely powerful, though difficult to master. They were particularly prized by <a href="/wiki/Transfiguration" title="Transfiguration">Transfigurers</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p><p>After rescuing a Thunderbird from traffickers in <a href="/wiki/Egypt" title="Egypt">Egypt</a> around <a href="/wiki/1926" title="1926">1926</a>, <a href="/wiki/Newton_Scamander" title="Newton Scamander">Newt Scamander</a> named him <a href="/wiki/Frank" title="Frank">Frank</a> and worked to return him to his natural habitat in <a href="/wiki/Arizona" title="Arizona">Arizona</a>.<sup id="cite_ref-EW-thunderbird_1-2" class="reference"><a href="#cite_note-EW-thunderbird-1">&#91;1&#93;</a></sup> Frank was actually released in <a href="/wiki/New_York" title="New York">New York</a> to help <a href="/wiki/Memory_Charm" title="Memory Charm">obliviate</a> the population to a series of recent <a href="/wiki/Magic" title="Magic">magical</a> occurrences but ultimately made it to Arizona.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p><p>In late 1927, Madam <a href="/wiki/Seraphina_Picquery" title="Seraphina Picquery">Seraphina Picquery</a>, then-President of <a href="/wiki/Magical_Congress_of_the_United_States_of_America" title="Magical Congress of the United States of America">MACUSA</a>, declared the Thunderbird a protected species, a protection that was later extended to all North American magical creatures.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Thunderbird?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: See also">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Thunderbird?action=edit&amp;section=4" title="Edit section: See also"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Thunderbird_(House)" title="Thunderbird (House)">Thunderbird House</a> at <a href="/wiki/Ilvermorny_School_of_Witchcraft_and_Wizardry" title="Ilvermorny School of Witchcraft and Wizardry">Ilvermorny School of Witchcraft and Wizardry</a></li>
+<li><a href="/wiki/Phoenix" title="Phoenix">Phoenix</a></li>
+<li><a href="/wiki/Augurey" title="Augurey">Augurey</a></li>
+<li><a href="/wiki/Fwooper" title="Fwooper">Fwooper</a></li>
+<li><a href="/wiki/Weather-Modifying_Charms" title="Weather-Modifying Charms">Weather-Modifying Charms</a></li></ul>
+<h2><span class="mw-headline" id="Media">Media</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Thunderbird?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Media">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Thunderbird?action=edit&amp;section=5" title="Edit section: Media"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="center"><div class="floatnone"><a href="https://harrypotter.fandom.com/wiki/File:What_Is_a_Thunderbird%3F" class="video video-thumbnail large "> 	<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" alt="What_Is_a_Thunderbird?" height="336" width="600" data-video-key="What_Is_a_Thunderbird?" data-video-name="What Is a Thunderbird?" data-src="https://static.wikia.nocookie.net/harrypotter/images/8/8f/What_Is_a_Thunderbird%3F/revision/latest/scale-to-width-down/600?cb=20161116220317" class="lazyload" /> 	<span class="thumbnail-play-icon-container"> 		<svg class="thumbnail-play-icon wds-icon"><use xlink:href="#wds-player-icon-play"></use></svg>	</span> </a> </div></div>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Thunderbird?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Thunderbird?action=edit&amp;section=6" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="quote">
+<dl><dd><span>"<i>I wanted to have one thing that was quintessentially American, and the Thunderbird is. I feel a special kinship for birds. I loved Dumbledore's phoenix, and I wanted a bird in this film with its own mythology. When the thunder bird flaps its multiple wings, it creates storms, so it's a powerful, mythical creature</i>"</span></dd>
+<dd>&#8212;J.K. Rowling on the Thunderbird<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup></dd>
+<dd></dd></dl></div>
+<figure class="thumb tright show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/6/6f/ThunderbirdPottermore.jpg/revision/latest?cb=20170314235710" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="180" height="270" class="thumbimage lazyload" data-image-name="ThunderbirdPottermore.jpg" data-image-key="ThunderbirdPottermore.jpg" data-src="https://static.wikia.nocookie.net/harrypotter/images/6/6f/ThunderbirdPottermore.jpg/revision/latest/scale-to-width-down/180?cb=20170314235710" /></a> 	<noscript><a href="https://static.wikia.nocookie.net/harrypotter/images/6/6f/ThunderbirdPottermore.jpg/revision/latest?cb=20170314235710" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/6/6f/ThunderbirdPottermore.jpg/revision/latest/scale-to-width-down/180?cb=20170314235710" decoding="async" width="180" height="270" class="thumbimage" data-image-name="ThunderbirdPottermore.jpg" data-image-key="ThunderbirdPottermore.jpg" data-src="https://static.wikia.nocookie.net/harrypotter/images/6/6f/ThunderbirdPottermore.jpg/revision/latest/scale-to-width-down/180?cb=20170314235710" /></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:ThunderbirdPottermore.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">The Thunderbird as depicted on <i><a href="/wiki/Wizarding_World_(website)" title="Wizarding World (website)">Pottermore</a></i></p> 		 	</figcaption> </figure>
+<figure class="thumb tright show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/0/0d/ThunderbirdWU.png/revision/latest?cb=20190630183413" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="180" height="222" class="thumbimage lazyload" data-image-name="ThunderbirdWU.png" data-image-key="ThunderbirdWU.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/0/0d/ThunderbirdWU.png/revision/latest/scale-to-width-down/180?cb=20190630183413" /></a> 	<noscript><a href="https://static.wikia.nocookie.net/harrypotter/images/0/0d/ThunderbirdWU.png/revision/latest?cb=20190630183413" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/0/0d/ThunderbirdWU.png/revision/latest/scale-to-width-down/180?cb=20190630183413" decoding="async" width="180" height="222" class="thumbimage" data-image-name="ThunderbirdWU.png" data-image-key="ThunderbirdWU.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/0/0d/ThunderbirdWU.png/revision/latest/scale-to-width-down/180?cb=20190630183413" /></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:ThunderbirdWU.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">A Thunderbird as depicted in <i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i></p> 		 	</figcaption> </figure>
+<ul><li>The Thunderbird is a legendary creature which appears in the mythology of certain <a href="/wiki/Native_Americans" title="Native Americans">indigenous peoples</a> of <a href="/wiki/North_America" title="North America">North America</a>.<sup id="cite_ref-wikipedia_7-0" class="reference"><a href="#cite_note-wikipedia-7">&#91;7&#93;</a></sup> It is especially prominent within the cultures of the <a href="http://en.wikipedia.org/wiki/Pacific_Northwest" class="extiw" title="wikipedia:Pacific Northwest">Pacific Northwest</a> and is frequently featured in their art, songs, and stories.<sup id="cite_ref-wikipedia_7-1" class="reference"><a href="#cite_note-wikipedia-7">&#91;7&#93;</a></sup> Versions of the Thunderbird are also found in the traditions of peoples of the <a href="http://en.wikipedia.org/wiki/American_Southwest" class="extiw" title="wikipedia:American Southwest">American Southwest</a>, <a href="http://en.wikipedia.org/wiki/Great_Lakes" class="extiw" title="wikipedia:Great Lakes">Great Lakes</a>, and <a href="http://en.wikipedia.org/wiki/Great_Plains" class="extiw" title="wikipedia:Great Plains">Great Plains</a> regions of the continent.<sup id="cite_ref-wikipedia_7-2" class="reference"><a href="#cite_note-wikipedia-7">&#91;7&#93;</a></sup> Accounts of the Thunderbird and its characteristics vary, but it is often described as a very large bird, capable of generating storms and thunder as it flies.<sup id="cite_ref-wikipedia_7-3" class="reference"><a href="#cite_note-wikipedia-7">&#91;7&#93;</a></sup></li>
+<li>Based on concept art in <i><a href="/wiki/The_Case_of_Beasts:_Explore_the_Film_Wizardry_of_Fantastic_Beasts_and_Where_to_Find_Them" title="The Case of Beasts: Explore the Film Wizardry of Fantastic Beasts and Where to Find Them">The Case of Beasts: Explore the Film Wizardry of Fantastic Beasts and Where to Find Them</a></i>, and pop art commissioned from artist Andy Singleton for <i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i>, the Thunderbird may have different colour variations within the species. Based on similar birds of prey, such as the Bald Eagle, the Thunderbird may also have sexual dimorphism between males and females. The standard sexual dimorphism noted in Bald Eagles is that females tend to be about 25% larger than males.</li>
+<li>Based on historical accounts, and the widespread tales of large birds/"Thunderbirds" in Native American lore and mythology, the range of the Thunderbird once may have extended across the continental United States. In the folklore of the Penobscot and Abenaki tribes of Maine, there exists a legendary bird named "Pamola" (meaning "he curses on the mountain"), who was likely a Thunderbird. He was said to be a spirit that lived on the summit of Mount Katahdin, the highest mountain in Maine, and "resented mortals intruding from below". Pamola was said to be "the god of thunder", and "the protector of the mountain". He was both feared and respected by the Penobscots and Abenakis, and his presence was one of the main reasons that climbing the mountain was considered taboo. Pamola was associated with causing "wind, snow, and storms"; caused "a noise like the whistling of a powerful wind" when flying; and was "large enough to carry off a moose".<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> The legend of Pamola may have also been the inspiration for <a href="/wiki/Chadwick_Boot" title="Chadwick Boot">Chadwick Boot</a> in naming <a href="/wiki/Thunderbird_(House)" title="Thunderbird (House)">House Thunderbird</a> of <a href="/wiki/Ilvermorny_School_of_Witchcraft_and_Wizardry" title="Ilvermorny School of Witchcraft and Wizardry">Ilvermorny</a>. <a href="/wiki/Martha_Steward_II" title="Martha Steward II">Martha Steward II</a>, the <a href="/wiki/Squib" title="Squib">Squib</a> daughter of Ilvermorny founders <a href="/wiki/Isolt_Sayre" title="Isolt Sayre">Isolt Sayre</a> and <a href="/wiki/James_Steward" title="James Steward">James Steward</a>, married a <a href="/wiki/Muggle" class="mw-redirect" title="Muggle">no-Maj</a> of the <a href="/wiki/Pocomtuc" title="Pocomtuc">Pocomtuc</a> tribe, and may have been familiar with this story, or the mythical bird itself. Around 1754, the Pocomtuc tribe, due to the Seven Years' War, joined and merged with the Abenaki tribe. Many of the present-day Abenaki of New Hampshire, Vermont, and Canada are of part-Pocumtuc ancestry.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup></li>
+<li>Many schools and colleges in the United States and Canada use a Thunderbird as their mascot and symbol. Notable schools include Mesa Community College, located in the Thunderbird's native habitat of the Arizona desert, and the University of British Columbia.</li>
+<li>It is interesting to note that the Phoenix is the closest relative of the Thunderbird, as both birds are affiliated with the elements of fire and lightning respectively, both of which are forms of the fourth state of matter, plasma.</li>
+<li>The Thunderbird is also connected to the Phoenix in that they both have life renewing properties: while the Phoenix rejuvenates itself by burning and rising from its ashes in addition to the healing properties of its tears, the Thunderbird summons storms that bring life-giving rains to the deserts.</li>
+<li>Funnily enough, the Phoenix is the namesake of the State Capital of Arizona, Phoenix Arizona, which is part of the Thunderbird's native range and habitat.</li>
+<li>In Sioux, the Thunderbird is known by the name, Wakinyan, which translates to "thunder being" or "thunder spirits" in English. It is typically in reference to this legendary creature. Interestingly, the Sioux believed the Wakinyan to be the mortal enemy of the Unktehi, the Horned Serpent, which is the mascot of another house of Ilvermorny.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Thunderbird?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Thunderbird?action=edit&amp;section=7" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" class="lazyload" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 22 images related to <i><b><a href="/wiki/Category:Images_of_Thunderbirds" title="Category:Images of Thunderbirds">Thunderbird</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<ul><li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Wizarding_World_(website)" title="Wizarding World (website)">Wizarding World</a></i></li>
+<li><i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them:_The_Original_Screenplay" title="Fantastic Beasts and Where to Find Them: The Original Screenplay">Fantastic Beasts and Where to Find Them: The Original Screenplay</a></i></li>
+<li><i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(film)" title="Fantastic Beasts and Where to Find Them (film)">Fantastic Beasts and Where to Find Them (film)</a></i></li>
+<li><i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(companion_book)" title="Fantastic Beasts and Where to Find Them (companion book)">Fantastic Beasts and Where to Find Them</a></i> <span class="template-c">(2017 edition)</span></li>
+<li><i><a href="/wiki/Fantastic_Beasts:_The_Crimes_of_Grindelwald_-_The_Original_Screenplay" title="Fantastic Beasts: The Crimes of Grindelwald - The Original Screenplay">Fantastic Beasts: The Crimes of Grindelwald - The Original Screenplay</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Fantastic_Beasts:_The_Crimes_of_Grindelwald" title="Fantastic Beasts: The Crimes of Grindelwald">Fantastic Beasts: The Crimes of Grindelwald</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/LEGO_Dimensions" title="LEGO Dimensions">LEGO Dimensions</a></i></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter" title="LEGO Harry Potter">LEGO Harry Potter</a></i></li>
+<li><i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Thunderbird?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Thunderbird?action=edit&amp;section=8" title="Edit section: Notes and references

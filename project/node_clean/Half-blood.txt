@@ -1,0 +1,446 @@
+<div class="mw-parser-output"><table class="notice metadata" id="spoiler" style="text-align: center; background: beige; margin: 1em 05%; padding: 0 1em; border: #a00 1px solid;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/0/0c/Hand_pointing_right_transparent.png/revision/latest?cb=20181112005815" class="image"><img alt="Hand pointing right transparent.png" src="https://static.wikia.nocookie.net/harrypotter/images/0/0c/Hand_pointing_right_transparent.png/revision/latest/scale-to-width-down/150?cb=20181112005815" decoding="async" width="150" height="75" data-image-name="Hand pointing right transparent.png" data-image-key="Hand_pointing_right_transparent.png" /></a>
+</td>
+<td><b>Warning!</b>
+<p>At least some content in this article is derived from information featured in <i><a href="/wiki/Harry_Potter:_Puzzles_%26_Spells" title="Harry Potter: Puzzles &amp; Spells">Harry Potter: Puzzles &amp; Spells</a></i>, <i><a href="/wiki/Harry_Potter:_Magic_Awakened" title="Harry Potter: Magic Awakened">Harry Potter: Magic Awakened</a></i>, <i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i>, <i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i>.<br />As such, spoilers will be present within the article.
+</p>
+</td></tr></tbody></table>
+<figure class="thumb tright show-info-icon" style="width: 250px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/4/4b/Potter_family_2_-_Harry_as_baby.gif/revision/latest?cb=20180607051603" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/4/4b/Potter_family_2_-_Harry_as_baby.gif/revision/latest/scale-to-width-down/248?cb=20180607051603" decoding="async" width="248" height="151" class="thumbimage" data-image-name="Potter family 2 - Harry as baby.gif" data-image-key="Potter_family_2_-_Harry_as_baby.gif" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Potter_family_2_-_Harry_as_baby.gif" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Half-blood <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> is the son of a pure-blood wizard and a Muggle-born witch</p> 		 	</figcaption> </figure>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Chamber of Secrets">"<i>Most wizards these days are half-blood anyway. If we hadn’t married Muggles we’d’ve died out.</i>"</span></dd>
+<dd>&#8212;Half-blood statistic and <a href="/wiki/Blood_status" title="Blood status">blood purity</a><sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets" title="Harry Potter and the Chamber of Secrets">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Half-blood</b> is the term commonly given to <a href="/wiki/Wizardkind" title="Wizardkind">wizards and witches</a> who had known <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> or <a href="/wiki/Muggle-born" title="Muggle-born">Muggle-born</a> parents or grandparents. By the <a href="/wiki/1990s" title="1990s">1990s</a>, half-bloods were the most common type of <a href="/wiki/Wizardkind" title="Wizardkind">wizard or witch</a>, as the <a href="/wiki/Pure-blood" title="Pure-blood">pure-blood</a> wizarding population would have become extinct had they not inter-married with Muggles and Muggle-borns.<sup id="cite_ref-harry_1-0" class="reference"><a href="#cite_note-harry-1">&#91;1&#93;</a></sup><sup id="cite_ref-CS_2-0" class="reference"><a href="#cite_note-CS-2">&#91;2&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Treatment"><span class="tocnumber">2</span> <span class="toctext">Treatment</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Parentage"><span class="tocnumber">3</span> <span class="toctext">Parentage</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Magical.2FSquib_.26_Muggle"><span class="tocnumber">3.1</span> <span class="toctext">Magical/Squib &amp; Muggle</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Pure.2Fhalf-blood_.26_Muggle-born"><span class="tocnumber">3.2</span> <span class="toctext">Pure/half-blood &amp; Muggle-born</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Both_half-bloods"><span class="tocnumber">3.3</span> <span class="toctext">Both half-bloods</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Muggle_or_Muggle-born_grandparent"><span class="tocnumber">3.4</span> <span class="toctext">Muggle or Muggle-born grandparent</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Unknown_status"><span class="tocnumber">3.5</span> <span class="toctext">Unknown status</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Behind_the_scenes"><span class="tocnumber">5</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Appearances"><span class="tocnumber">6</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Notes_and_references"><span class="tocnumber">7</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Half-blood?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Overview">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Half-blood?action=edit&amp;section=1" title="Edit section: Overview"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>It should be noted that any wizard or witch who is neither <a href="/wiki/Pure-blood" title="Pure-blood">pure-blood</a> nor <a href="/wiki/Muggle-born" title="Muggle-born">Muggle-born</a> is considered half-blood, even if they have two magical parents; they need not have <i>exactly</i> half-Muggle/half-wizard heritage.
+</p><p>Non-magical children born with at least one magical parent are considered <a href="/wiki/Squib" title="Squib">Squibs</a> by the wizarding community rather than Half-bloods or Muggles.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> Examples include <a href="/wiki/Martha_Steward_II" title="Martha Steward II">Martha Steward II</a>, <a href="/wiki/Dolores_Umbridge%27s_brother" title="Dolores Umbridge&#39;s brother">Dolores Umbridge's brother</a>, and <a href="/wiki/Gilderoy_Lockhart%27s_sisters" title="Gilderoy Lockhart&#39;s sisters">Gilderoy Lockhart's two sisters</a>. Because of their Muggle parentage, many end up assimilating into the Muggle population as they would have more trouble thriving within the magical community.
+</p><p>Magical children born to a Muggle-born and a Muggle are considered half-bloods, such as <a href="/wiki/Penny_Haywood" title="Penny Haywood">Penny</a> and <a href="/wiki/Beatrice_Haywood" title="Beatrice Haywood">Beatrice Haywood</a>.
+</p>
+<h2><span class="mw-headline" id="Treatment">Treatment</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Half-blood?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Treatment">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Half-blood?action=edit&amp;section=2" title="Edit section: Treatment"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Order of the Phoenix">"<i>You dare speak his name with your unworthy lips, you dare besmirch it with your half-blood's tongue, you dare... He dared — he dares — he stands there — filthy half-blood — </i>"</span></dd>
+<dd>&#8212;Prejudice against Harry Potter's half-blood status from Bellatrix Lestrange<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">[src]</a></sup></dd>
+<dd></dd></dl></div><figure class="thumb tleft show-info-icon" style="width: 242px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/8/8b/Potter_family2.png/revision/latest?cb=20160601011434" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/8/8b/Potter_family2.png/revision/latest/scale-to-width-down/240?cb=20160601011434" decoding="async" width="240" height="154" class="thumbimage" data-image-name="Potter family2.png" data-image-key="Potter_family2.png" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Potter_family2.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption"><a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> and his children are half-bloods with known Muggle ancestry</p> 		 	</figcaption> </figure>
+<p>Those who believe in the importance of <a href="/wiki/Blood_status" title="Blood status">blood purity</a> consider half-bloods to be inferior because of their <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> heritage, though superior to <a href="/wiki/Muggle-born" title="Muggle-born">Muggle-borns</a>. As such, some families such as the <a href="/wiki/Malfoy_family" title="Malfoy family">Malfoys</a> allowed them to marry into their pure-blood family and could do so without affecting their family's pure-blood status.<sup id="cite_ref-malfoy_4-0" class="reference"><a href="#cite_note-malfoy-4">&#91;4&#93;</a></sup>
+</p><p>Other more fanatical families such as the <a href="/wiki/House_of_Gaunt" title="House of Gaunt">Gaunts</a>, <a href="/wiki/Lestrange_family" title="Lestrange family">Lestranges</a>, and <a href="/wiki/House_of_Black" title="House of Black">Blacks</a> require all marriages to be those of <a href="/wiki/Pure-blood" title="Pure-blood">pure-blood</a>.<sup id="cite_ref-malfoy_4-1" class="reference"><a href="#cite_note-malfoy-4">&#91;4&#93;</a></sup><sup id="cite_ref-gaunt_5-0" class="reference"><a href="#cite_note-gaunt-5">&#91;5&#93;</a></sup> Members of these families are more likely to use "half-blood" in a derogatory manner, similar to the epithet "<a href="/wiki/Mudblood" title="Mudblood">Mudblood</a>"; <a href="/wiki/Bellatrix_Lestrange" title="Bellatrix Lestrange">Bellatrix Lestrange</a> did so on multiple occasions,<sup id="cite_ref-OTP35_6-0" class="reference"><a href="#cite_note-OTP35-6">&#91;6&#93;</a></sup> and the <a href="/wiki/Walburga_Black%27s_portrait" title="Walburga Black&#39;s portrait">portrait of Walburga Black</a> often equated half-bloods with <a href="/wiki/Half-breed" title="Half-breed">Half-breeds</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p><p>Some half-bloods expressed prejudice towards those with Muggle heritage, despite having some themselves, and clung to what wizarding heritage they had. Notably <a href="/wiki/Tom_Riddle" title="Tom Riddle">Lord Voldemort</a> persecuted Muggles and Muggle-borns, despite the fact that his mother (<a href="/wiki/Merope_Riddle" title="Merope Riddle">Merope Gaunt</a>) was a pure-blood witch and his father (<a href="/wiki/Tom_Riddle_Senior" title="Tom Riddle Senior">Tom Riddle Snr</a>) was a Muggle. He denied his Muggle heritage, instead emphasising his wizard ancestors; his legend-entitled nickname was "<a href="/wiki/Tom_Riddle" title="Tom Riddle"><i>Heir of Slytherin</i></a>" because his most notable wizard ancestor (<a href="/wiki/Salazar_Slytherin" title="Salazar Slytherin">Salazar Slytherin</a>) was a famous pure-blood champion, which made himself more believable.<sup id="cite_ref-CS_2-1" class="reference"><a href="#cite_note-CS-2">&#91;2&#93;</a></sup> <a href="/wiki/Severus_Snape" title="Severus Snape">Severus Snape</a> may be another example; his self-entitled nickname was "<i><a href="/wiki/Severus_Snape" title="Severus Snape">Half-Blood Prince</a></i>" because his mother (<a href="/wiki/Eileen_Prince" title="Eileen Prince">Eileen Prince</a>) was a pure-blood witch and his father (<a href="/wiki/Tobias_Snape" title="Tobias Snape">Tobias Snape</a>) was a Muggle. However, <a href="/wiki/Remus_Lupin" title="Remus Lupin">Remus Lupin</a> reported that he never used the nickname openly. This, as well as Snape's membership in the <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a>, suggests he may have been ashamed of his Muggle heritage, at least in his early life.<sup id="cite_ref-HBP_8-0" class="reference"><a href="#cite_note-HBP-8">&#91;8&#93;</a></sup> In fact, these people, along with some other Death Eaters, pretend to be pure-bloods, hiding their Muggle heritage from anyone else.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> Ironically (or perhaps because of), regarding the <a href="/wiki/Sybill_Trelawney%27s_first_prophecy" title="Sybill Trelawney&#39;s first prophecy">prophecy concerning his defeat</a>, Voldemort chose to go after the half-blood <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> instead of the pure-blood <a href="/wiki/Neville_Longbottom" title="Neville Longbottom">Neville Longbottom</a>.
+</p><p>When the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">Ministry of Magic</a> fell under Voldemort's control in <a href="/wiki/1997" title="1997">1997</a>, Muggle-borns were openly persecuted and pure-bloods were favoured above all else. Half-bloods were still accepted at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> and in the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">British Ministry of Magic</a>, but were not treated as well as the pure-blood members.<sup id="cite_ref-DH_10-0" class="reference"><a href="#cite_note-DH-10">&#91;10&#93;</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Parentage">Parentage</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Half-blood?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Parentage">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Half-blood?action=edit&amp;section=3" title="Edit section: Parentage"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="Magical/Squib_&amp;_Muggle"></span><span class="mw-headline" id="Magical.2FSquib_.26_Muggle">Magical/Squib &amp; Muggle</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Half-blood?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Magical/Squib &amp; Muggle">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Half-blood?action=edit&amp;section=4" title="Edit section: Magical/Squib &amp; Muggle"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable" border="1" width="100%">
+
+<tbody><tr>
+<th scope="col">Wizard(s)
+</th>
+<th scope="col">Magical/Squib parent
+</th>
+<th scope="col">Muggle parent
+</th></tr>
+<tr>
+<td><a href="/wiki/Seamus_Finnigan" title="Seamus Finnigan">Seamus Finnigan</a>
+</td>
+<td><a href="/wiki/Seamus_Finnigan%27s_mother" title="Seamus Finnigan&#39;s mother">Mrs Finnigan</a>
+</td>
+<td><a href="/wiki/Seamus_Finnigan%27s_father" title="Seamus Finnigan&#39;s father">Mr Finnigan</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Beatrice_Haywood" title="Beatrice Haywood">Beatrice Haywood</a>
+<p><sup id="cite_ref-Haywood_12-0" class="reference"><a href="#cite_note-Haywood-12">&#91;12&#93;</a></sup>
+</p>
+</td>
+<td rowspan="2"><a href="/wiki/Penny_Haywood%27s_mother" title="Penny Haywood&#39;s mother">Mother</a> (<a href="/wiki/Muggle-born" title="Muggle-born">Muggle-born</a>)<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup>
+</td>
+<td rowspan="2"><a href="/wiki/Penny_Haywood%27s_father" title="Penny Haywood&#39;s father">Father</a>
+<p><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>
+</p>
+</td></tr>
+<tr>
+<td><a href="/wiki/Penny_Haywood" title="Penny Haywood">Penny Haywood</a>
+<p><sup id="cite_ref-Haywood_12-1" class="reference"><a href="#cite_note-Haywood-12">&#91;12&#93;</a></sup>
+</p>
+</td></tr>
+<tr>
+<td><a href="/wiki/Gilderoy_Lockhart" title="Gilderoy Lockhart">Gilderoy Lockhart</a>
+<p><sup id="cite_ref-lockhart_15-0" class="reference"><a href="#cite_note-lockhart-15">&#91;15&#93;</a></sup>
+</p>
+</td>
+<td><a href="/wiki/Gilderoy_Lockhart%27s_mother" title="Gilderoy Lockhart&#39;s mother">Mrs Lockhart</a> (<a href="/wiki/Pure-blood" title="Pure-blood">pure-blood</a> or half-blood)
+</td>
+<td><a href="/wiki/Gilderoy_Lockhart%27s_father" title="Gilderoy Lockhart&#39;s father">Mr Lockhart</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Remus_Lupin" title="Remus Lupin">Remus John Lupin</a>
+<p><sup id="cite_ref-lupin1_16-0" class="reference"><a href="#cite_note-lupin1-16">&#91;16&#93;</a></sup><sup id="cite_ref-lupin2_17-0" class="reference"><a href="#cite_note-lupin2-17">&#91;17&#93;</a></sup>
+</p>
+</td>
+<td><a href="/wiki/Lyall_Lupin" title="Lyall Lupin">Lyall Lupin</a> (<a href="/wiki/Pure-blood" title="Pure-blood">pure-blood</a> or half-blood)
+</td>
+<td><a href="/wiki/Hope_Howell" title="Hope Howell">Hope Howell</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Mafalda" title="Mafalda">Mafalda</a>
+</td>
+<td><a href="/wiki/Pure-blood" title="Pure-blood">Pure-blood</a> <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a>/<a href="/wiki/Squib" title="Squib">Squib</a> <a href="/wiki/Molly_Weasley%27s_second_cousin" title="Molly Weasley&#39;s second cousin">father</a>
+</td>
+<td><a href="/wiki/Mafalda%27s_mother" title="Mafalda&#39;s mother">Mother</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Minerva_McGonagall" title="Minerva McGonagall">Minerva McGonagall</a>
+<p><sup id="cite_ref-mcgonagall_18-0" class="reference"><a href="#cite_note-mcgonagall-18">&#91;18&#93;</a></sup>
+</p>
+</td>
+<td colspan="1" rowspan="3"><a href="/wiki/Isobel_Ross" title="Isobel Ross">Isobel Ross</a> (<a href="/wiki/Pure-blood" title="Pure-blood">pure-blood</a> or half-blood)
+</td>
+<td colspan="1" rowspan="3"><a href="/wiki/Robert_McGonagall" title="Robert McGonagall">Robert McGonagall</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Malcolm_McGonagall" title="Malcolm McGonagall">Malcolm McGonagall</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Robert_McGonagall_Junior" title="Robert McGonagall Junior">Robert McGonagall Jnr</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Tom_Riddle" title="Tom Riddle">Tom Marvolo Riddle</a>
+<p><sup id="cite_ref-tomriddle_19-0" class="reference"><a href="#cite_note-tomriddle-19">&#91;19&#93;</a></sup>
+</p>
+</td>
+<td><a href="/wiki/Merope_Riddle" title="Merope Riddle">Merope Gaunt</a> (<a href="/wiki/Pure-blood" title="Pure-blood">pure-blood</a>)
+</td>
+<td><a href="/wiki/Tom_Riddle_Senior" title="Tom Riddle Senior">Tom Riddle Senior</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Severus_Snape" title="Severus Snape">Severus Snape</a>
+<p><sup id="cite_ref-severussnape_20-0" class="reference"><a href="#cite_note-severussnape-20">&#91;20&#93;</a></sup>
+</p>
+</td>
+<td><a href="/wiki/Eileen_Prince" title="Eileen Prince">Eileen Prince</a> (<a href="/wiki/Pure-blood" title="Pure-blood">pure-blood</a>)
+</td>
+<td><a href="/wiki/Tobias_Snape" title="Tobias Snape">Tobias Snape</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Rionach_Steward" title="Rionach Steward">Rionach Steward</a>
+<p><sup id="cite_ref-PottermoreIlvermorny_21-0" class="reference"><a href="#cite_note-PottermoreIlvermorny-21">&#91;21&#93;</a></sup>
+</p>
+</td>
+<td><a href="/wiki/Isolt_Sayre" title="Isolt Sayre">Isolt Sayre</a> (<a href="/wiki/Pure-blood" title="Pure-blood">pure-blood</a>)
+</td>
+<td><a href="/wiki/James_Steward" title="James Steward">James Steward</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Dean_Thomas" title="Dean Thomas">Dean Thomas</a>
+</td>
+<td><a href="/wiki/Dean_Thomas%27s_father" title="Dean Thomas&#39;s father">Father</a>
+</td>
+<td><a href="/wiki/Dean_Thomas%27s_mother" title="Dean Thomas&#39;s mother">Mrs Thomas</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Sybill_Trelawney" title="Sybill Trelawney">Sybill Patricia Trelawney</a>
+<p><sup id="cite_ref-sybilltrewlawney_22-0" class="reference"><a href="#cite_note-sybilltrewlawney-22">&#91;22&#93;</a></sup>
+</p>
+</td>
+<td><a href="/wiki/Sybill_Trelawney%27s_father" title="Sybill Trelawney&#39;s father">Mr Trelawney</a> (<a href="/wiki/Pure-blood" title="Pure-blood">pure-blood</a> or half-blood)
+</td>
+<td><a href="/wiki/Sybill_Trelawney%27s_mother" title="Sybill Trelawney&#39;s mother">Mrs Trelawney</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Celestina_Warbeck" title="Celestina Warbeck">Celestina Warbeck</a>
+<p><sup id="cite_ref-celestinawarbeck_23-0" class="reference"><a href="#cite_note-celestinawarbeck-23">&#91;23&#93;</a></sup>
+</p>
+</td>
+<td><a href="/wiki/Celestina_Warbeck%27s_father" title="Celestina Warbeck&#39;s father">Mr Warbeck</a>
+</td>
+<td><a href="/wiki/Celestina_Warbeck%27s_mother" title="Celestina Warbeck&#39;s mother">Mrs Warbeck</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Dolores_Umbridge" title="Dolores Umbridge">Dolores Jane Umbridge</a>
+<p><sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup>
+</p>
+</td>
+<td><a href="/wiki/Orford_Umbridge" title="Orford Umbridge">Orford Umbridge</a> (<a href="/wiki/Pure-blood" title="Pure-blood">pure-blood</a>)
+</td>
+<td><a href="/wiki/Ellen_Cracknell" title="Ellen Cracknell">Ellen Cracknell</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Bowman_Wright" title="Bowman Wright">Bowman Wright</a>
+</td>
+<td><a href="/wiki/Bowman_Wright%27s_mother" title="Bowman Wright&#39;s mother">Mrs Wright</a>
+</td>
+<td><a href="/wiki/Bowman_Wright%27s_father" title="Bowman Wright&#39;s father">Mr Wright</a>
+</td></tr></tbody></table>
+<h3><span id="Pure/half-blood_&amp;_Muggle-born"></span><span class="mw-headline" id="Pure.2Fhalf-blood_.26_Muggle-born">Pure/half-blood &amp; Muggle-born</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Half-blood?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Pure/half-blood &amp; Muggle-born">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Half-blood?action=edit&amp;section=5" title="Edit section: Pure/half-blood &amp; Muggle-born"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable" border="1" width="100%">
+
+<tbody><tr>
+<th scope="col">Wizard(s)
+</th>
+<th scope="col">Pure/half-blood parent
+</th>
+<th scope="col">Muggle-born parent
+</th></tr>
+<tr>
+<td><a href="/wiki/Alfred_Cattermole" title="Alfred Cattermole">Alfred Cattermole</a>
+</td>
+<td colspan="1" rowspan="3"><a href="/wiki/Reginald_Cattermole" title="Reginald Cattermole">Reginald Cattermole</a>
+</td>
+<td colspan="1" rowspan="3"><a href="/wiki/Mary_Cattermole" title="Mary Cattermole">Mary Cattermole</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Ellie_Cattermole" title="Ellie Cattermole">Ellie Cattermole</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Maisie_Cattermole" title="Maisie Cattermole">Maisie Cattermole</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Cresswell_brothers" title="Cresswell brothers">Cresswell brothers</a>
+</td>
+<td><a href="/wiki/Dirk_Cresswell%27s_wife" title="Dirk Cresswell&#39;s wife">Mrs Cresswell</a>
+</td>
+<td><a href="/wiki/Dirk_Cresswell" title="Dirk Cresswell">Dirk Cresswell</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Albus_Dumbledore" title="Albus Dumbledore">Albus Percival Wulfric Brian Dumbledore</a>
+</td>
+<td colspan="1" rowspan="3"><a href="/wiki/Percival_Dumbledore" title="Percival Dumbledore">Percival Dumbledore</a>
+</td>
+<td colspan="1" rowspan="3"><a href="/wiki/Kendra_Dumbledore" title="Kendra Dumbledore">Kendra Dumbledore</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Aberforth_Dumbledore" title="Aberforth Dumbledore">Aberforth Dumbledore</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Ariana_Dumbledore" title="Ariana Dumbledore">Ariana Dumbledore</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Garrick_Ollivander" title="Garrick Ollivander">Garrick Ollivander</a><sup id="cite_ref-ollivander_25-0" class="reference"><a href="#cite_note-ollivander-25">&#91;25&#93;</a></sup><sup id="cite_ref-ollivander2_26-0" class="reference"><a href="#cite_note-ollivander2-26">&#91;26&#93;</a></sup>
+</td>
+<td><a href="/wiki/Gervaise_Ollivander" title="Gervaise Ollivander">Gervaise Ollivander</a> (<a href="/wiki/Pure-blood" title="Pure-blood">pure-blood</a>)<sup id="cite_ref-ollivander2_26-1" class="reference"><a href="#cite_note-ollivander2-26">&#91;26&#93;</a></sup>
+</td>
+<td><a href="/wiki/Garrick_Ollivander%27s_mother" title="Garrick Ollivander&#39;s mother">Mrs Ollivander</a><sup id="cite_ref-ollivander2_26-2" class="reference"><a href="#cite_note-ollivander2-26">&#91;26&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Harry_Potter" title="Harry Potter">Harry James Potter</a>
+</td>
+<td><a href="/wiki/James_Potter_I" title="James Potter I">James Potter</a> (<a href="/wiki/Pure-blood" title="Pure-blood">pure-blood</a>)
+</td>
+<td><a href="/wiki/Lily_J._Potter" title="Lily J. Potter">Lily Evans</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Nymphadora_Tonks" title="Nymphadora Tonks">Nymphadora Tonks</a>
+</td>
+<td><a href="/wiki/Andromeda_Tonks" title="Andromeda Tonks">Andromeda Black</a> (<a href="/wiki/Pure-blood" title="Pure-blood">pure-blood</a>)
+</td>
+<td><a href="/wiki/Edward_Tonks" title="Edward Tonks">Edward Tonks</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Hugo_Granger-Weasley" title="Hugo Granger-Weasley">Hugo Granger-Weasley</a>
+</td>
+<td colspan="1" rowspan="2"><a href="/wiki/Ronald_Weasley" title="Ronald Weasley">Ronald Weasley</a> (<a href="/wiki/Pure-blood" title="Pure-blood">pure-blood</a>)
+</td>
+<td colspan="1" rowspan="2"><a href="/wiki/Hermione_Granger" title="Hermione Granger">Hermione Granger</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Rose_Granger-Weasley" title="Rose Granger-Weasley">Rose Granger-Weasley</a>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Both_half-bloods">Both half-bloods</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Half-blood?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Both half-bloods">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Half-blood?action=edit&amp;section=6" title="Edit section: Both half-bloods"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable" border="1" width="100%">
+
+<tbody><tr>
+<th scope="col">Wizard(s)
+</th>
+<th scope="col">Parents
+</th></tr>
+<tr>
+<td colspan="1" rowspan="2"><a href="/wiki/Edward_Lupin" title="Edward Lupin">Edward Remus Lupin</a>
+</td>
+<td><a href="/wiki/Remus_Lupin" title="Remus Lupin">Remus Lupin</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Nymphadora_Tonks" title="Nymphadora Tonks">Nymphadora Tonks</a>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Muggle_or_Muggle-born_grandparent">Muggle or Muggle-born grandparent</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Half-blood?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Muggle or Muggle-born grandparent">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Half-blood?action=edit&amp;section=7" title="Edit section: Muggle or Muggle-born grandparent"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable" border="1" width="100%">
+
+<tbody><tr>
+<th scope="col">Wizard(s)
+</th>
+<th scope="col">Pure-blood parent
+</th>
+<th scope="col">Parent with Muggle or Muggle-born parent
+</th></tr>
+<tr>
+<td><a href="/wiki/Albus_Potter" title="Albus Potter">Albus Severus Potter</a>
+</td>
+<td colspan="1" rowspan="3"><a href="/wiki/Ginevra_Weasley" title="Ginevra Weasley">Ginny Weasley</a>
+</td>
+<td colspan="1" rowspan="3"><a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> (Muggle-born mother)
+</td></tr>
+<tr>
+<td><a href="/wiki/James_Potter_II" title="James Potter II">James Sirius Potter</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Lily_L._Potter" title="Lily L. Potter">Lily Luna Potter</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Delphini" title="Delphini">Delphini</a>
+</td>
+<td><a href="/wiki/Bellatrix_Lestrange" title="Bellatrix Lestrange">Bellatrix Lestrange</a>
+</td>
+<td><a href="/wiki/Tom_Riddle" title="Tom Riddle">Tom Riddle</a> (Muggle father)
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Unknown_status">Unknown status</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Half-blood?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Unknown status">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Half-blood?action=edit&amp;section=8" title="Edit section: Unknown status"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable" border="1" width="100%">
+
+<tbody><tr>
+<th scope="col">Wizard(s)
+</th>
+<th scope="col">Ancestor
+</th></tr>
+<tr>
+<td><a href="/wiki/Hannah_Abbott" title="Hannah Abbott">Hannah Abbott</a>
+</td>
+<td colspan="1" rowspan="11">At least one known Muggle parent or grandparent
+</td></tr>
+<tr>
+<td><a href="/wiki/Susan_Bones" title="Susan Bones">Susan Bones</a><sup id="cite_ref-HPM_27-0" class="reference"><a href="#cite_note-HPM-27">&#91;27&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Millicent_Bulstrode" title="Millicent Bulstrode">Millicent Bulstrode</a><sup id="cite_ref-HPM_27-1" class="reference"><a href="#cite_note-HPM-27">&#91;27&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Mandy_Brocklehurst" title="Mandy Brocklehurst">Mandy Brocklehurst</a><sup id="cite_ref-HPM_27-2" class="reference"><a href="#cite_note-HPM-27">&#91;27&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Michael_Corner" title="Michael Corner">Michael Corner</a><sup id="cite_ref-HPM_27-3" class="reference"><a href="#cite_note-HPM-27">&#91;27&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Tracey_Davis" title="Tracey Davis">Tracey Davis</a><sup id="cite_ref-HPM_27-4" class="reference"><a href="#cite_note-HPM-27">&#91;27&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Anthony_Goldstein" title="Anthony Goldstein">Anthony Goldstein</a><sup id="cite_ref-HPM_27-5" class="reference"><a href="#cite_note-HPM-27">&#91;27&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Wayne_Hopkins" title="Wayne Hopkins">Wayne Hopkins</a><sup id="cite_ref-HPM_27-6" class="reference"><a href="#cite_note-HPM-27">&#91;27&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Megan_Jones" title="Megan Jones">Megan Jones</a><sup id="cite_ref-HPM_27-7" class="reference"><a href="#cite_note-HPM-27">&#91;27&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Sue_Li" title="Sue Li">Sue Li</a><sup id="cite_ref-HPM_27-8" class="reference"><a href="#cite_note-HPM-27">&#91;27&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Mundungus_Fletcher" title="Mundungus Fletcher">Mundungus Fletcher</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Porpentina_Goldstein" title="Porpentina Goldstein">Porpentina Esther Goldstein</a>
+</td>
+<td colspan="1" rowspan="2">At least one known No-Maj/Muggle or No-Maj-born/Muggle-born grandparent<sup id="cite_ref-macusaid_28-0" class="reference"><a href="#cite_note-macusaid-28">&#91;28&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Queenie_Goldstein" title="Queenie Goldstein">Queenie Goldstein</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Constance_Pickering" title="Constance Pickering">Constance Pickering</a>
+</td>
+<td colspan="1" rowspan="3">Witch mother<sup id="cite_ref-WU_29-0" class="reference"><a href="#cite_note-WU-29">&#91;29&#93;</a></sup>, at least one Muggle grandfather.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;30&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Constance_Pickering%27s_sister" title="Constance Pickering&#39;s sister">Constance Pickering's sister</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Constance_Pickering%27s_brother_(II)" title="Constance Pickering&#39;s brother (II)">Constance Pickering's brother (II)</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Quirinus_Quirrell" title="Quirinus Quirrell">Quirinus Quirrell</a>
+</td>
+<td>At least one known Muggle ancestor<sup id="cite_ref-quirrell_31-0" class="reference"><a href="#cite_note-quirrell-31">&#91;31&#93;</a></sup>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Half-blood?veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Edit section: See also">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Half-blood?action=edit&amp;section=9" title="Edit section: See also"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Blood_status" title="Blood status">Blood purity</a></li>
+<li><a href="/wiki/Blood_traitor" title="Blood traitor">Blood traitor</a></li>
+<li><a href="/wiki/Mudblood" title="Mudblood">Mudblood</a></li>
+<li><a href="/wiki/Muggle-born" title="Muggle-born">Muggle-born</a></li>
+<li><a href="/wiki/Pure-blood" title="Pure-blood">Pure-blood</a></li></ul>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Half-blood?veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Half-blood?action=edit&amp;section=10" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>In the GBC version of <i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(video_game)" title="Harry Potter and the Philosopher&#39;s Stone (video game)">Harry Potter and the Philosopher's Stone (video game)</a></i>, there is a <a href="/wiki/Unidentified_boy_who_attended_Charm_School" title="Unidentified boy who attended Charm School">boy</a> in Slytherin who went to Charm school and is listed as being likely half-blood.<sup id="cite_ref-bloodstatus_32-0" class="reference"><a href="#cite_note-bloodstatus-32">&#91;32&#93;</a></sup></li>
+<li>On the draft class list, <a href="/wiki/Hannah_Abbott" title="Hannah Abbott">Hannah Abbott</a> was listed as a <a href="/wiki/Muggle-born" title="Muggle-born">Muggle-born</a>,<sup id="cite_ref-HPM_27-9" class="reference"><a href="#cite_note-HPM-27">&#91;27&#93;</a></sup> but in a later interview, Rowling stated that she had always thought of Hannah as a <a href="/wiki/Pure-blood" title="Pure-blood">pure-blood</a>. To compromise, she was made a half-blood.<sup id="cite_ref-pottercast_33-0" class="reference"><a href="#cite_note-pottercast-33">&#91;33&#93;</a></sup></li>
+<li>An interesting fact of note is that despite the ideals that pure-bloods are inherently more powerful wizards, several of the most powerful or particularly adept wizards and witches in the series are in fact half-blood, such as <a href="/wiki/Albus_Dumbledore" title="Albus Dumbledore">Albus Dumbledore</a>, <a href="/wiki/Tom_Riddle" title="Tom Riddle">Tom Riddle</a>, <a href="/wiki/Severus_Snape" title="Severus Snape">Severus Snape</a>, <a href="/wiki/Minerva_McGonagall" title="Minerva McGonagall">Minerva McGonagall</a>,and <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a>.</li>
+<li>Due to <a href="/wiki/Dean_Thomas%27s_father" title="Dean Thomas&#39;s father">Dean Thomas's father</a> being dead, Dean himself was unable to prove his half-blood heritage during Voldemort's reign. As such, he was regarded as a Muggle-born.</li>
+<li>The trio of <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a>, <a href="/wiki/Ronald_Weasley" title="Ronald Weasley">Ron Weasley</a> and <a href="/wiki/Hermione_Granger" title="Hermione Granger">Hermione Granger</a> consists of all three types of <a href="/wiki/Wizardkind" title="Wizardkind">Wizards</a>. Harry being half-blood, Ron being <a href="/wiki/Pure-blood" title="Pure-blood">Pure-blood</a>, and Hermione being <a href="/wiki/Muggle-born" title="Muggle-born">Muggle-born</a>.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Half-blood?veaction=edit&amp;section=11" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Half-blood?action=edit&amp;section=11" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone" title="Harry Potter and the Philosopher&#39;s Stone">Harry Potter and the Philosopher's Stone</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(film)" title="Harry Potter and the Philosopher&#39;s Stone (film)">Harry Potter and the Philosopher's Stone (film)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(video_game)" title="Harry Potter and the Philosopher&#39;s Stone (video game)">Harry Potter and the Philosopher's Stone (video game)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets" title="Harry Potter and the Chamber of Secrets">Harry Potter and the Chamber of Secrets</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(film)" title="Harry Potter and the Chamber of Secrets (film)">Harry Potter and the Chamber of Secrets (film)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(video_game)" title="Harry Potter and the Chamber of Secrets (video game)">Harry Potter and the Chamber of Secrets (video game)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban" title="Harry Potter and the Prisoner of Azkaban">Harry Potter and the Prisoner of Azkaban</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(film)" title="Harry Potter and the Prisoner of Azkaban (film)">Harry Potter and the Prisoner of Azkaban (film)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(video_game)" title="Harry Potter and the Prisoner of Azkaban (video game)">Harry Potter and the Prisoner of Azkaban (video game)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire" title="Harry Potter and the Goblet of Fire">Harry Potter and the Goblet of Fire</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire_(film)" title="Harry Potter and the Goblet of Fire (film)">Harry Potter and the Goblet of Fire (film)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire_(video_game)" title="Harry Potter and the Goblet of Fire (video game)">Harry Potter and the Goblet of Fire (video game)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">Harry Potter and the Order of the Phoenix</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(film)" title="Harry Potter and the Order of the Phoenix (film)">Harry Potter and the Order of the Phoenix (film)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(video_game)" title="Harry Potter and the Order of the Phoenix (video game)">Harry Potter and the Order of the Phoenix (video game)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">Harry Potter and the Half-Blood Prince</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince_(film)" title="Harry Potter and the Half-Blood Prince (film)">Harry Potter and the Half-Blood Prince (film)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince_(video_game)" title="Harry Potter and the Half-Blood Prince (video game)">Harry Potter and the Half-Blood Prince (video game)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">Harry Potter and the Deathly Hallows</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1" title="Harry Potter and the Deathly Hallows: Part 1">Harry Potter and the Deathly Hallows: Part 1</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1_(video_game)" title="Harry Potter and the Deathly Hallows: Part 1 (video game)">Harry Potter and the Deathly Hallows: Part 1 (video game)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_2" title="Harry Potter and the Deathly Hallows: Part 2">Harry Potter and the Deathly Hallows: Part 2</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_2_(video_game)" title="Harry Potter and the Deathly Hallows: Part 2 (video game)">Harry Potter and the Deathly Hallows: Part 2 (video game)</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Cursed_Child" title="Harry Potter and the Cursed Child">Harry Potter and the Cursed Child</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Cursed_Child_(play)" title="Harry Potter and the Cursed Child (play)">Harry Potter and the Cursed Child (play)</a></i></li>
+<li><i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them:_The_Original_Screenplay" title="Fantastic Beasts and Where to Find Them: The Original Screenplay">Fantastic Beasts and Where to Find Them: The Original Screenplay</a></i></li>
+<li><i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(film)" title="Fantastic Beasts and Where to Find Them (film)">Fantastic Beasts and Where to Find Them (film)</a></i></li>
+<li><i><a href="/wiki/Fantastic_Beasts:_The_Crimes_of_Grindelwald_-_The_Original_Screenplay" title="Fantastic Beasts: The Crimes of Grindelwald - The Original Screenplay">Fantastic Beasts: The Crimes of Grindelwald - The Original Screenplay</a></i></li>
+<li><i><a href="/wiki/Fantastic_Beasts:_The_Crimes_of_Grindelwald" title="Fantastic Beasts: The Crimes of Grindelwald">Fantastic Beasts: The Crimes of Grindelwald</a></i></li>
+<li><i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them" title="Fantastic Beasts and Where to Find Them">Fantastic Beasts and Where to Find Them</a></i></li>
+<li><i><a href="/wiki/Harry_Potter:_A_Pop-Up_Book" title="Harry Potter: A Pop-Up Book">Harry Potter: A Pop-Up Book</a></i></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter:_Building_the_Magical_World" title="LEGO Harry Potter: Building the Magical World">LEGO Harry Potter: Building the Magical World</a></i></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter:_Characters_of_the_Magical_World" title="LEGO Harry Potter: Characters of the Magical World">LEGO Harry Potter: Characters of the Magical World</a></i></li>
+<li><i><a href="/wiki/LEGO_Dimensions" title="LEGO Dimensions">LEGO Dimensions</a></i></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter:_Years_1-4" title="LEGO Harry Potter: Years 1-4">LEGO Harry Potter: Years 1-4</a></i></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter:_Years_5-7" title="LEGO Harry Potter: Years 5-7">LEGO Harry Potter: Years 5-7</a></i></li>
+<li><i><a href="/wiki/LEGO_Creator:_Harry_Potter" title="LEGO Creator: Harry Potter">LEGO Creator: Harry Potter</a></i></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter" title="LEGO Harry Potter">LEGO Harry Potter</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Forbidden_Journey" title="Harry Potter and the Forbidden Journey">Harry Potter and the Forbidden Journey</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Motorbike_Escape" title="Harry Potter and the Deathly Hallows: Motorbike Escape">Harry Potter and the Deathly Hallows: Motorbike Escape</a></i></li>
+<li><i><a href="/wiki/J.K._Rowling:_A_Year_in_the_Life" title="J.K. Rowling: A Year in the Life">J.K. Rowling: A Year in the Life</a></i></li>
+<li><a href="/wiki/J._K._Rowling%27s_official_site" title="J. K. Rowling&#39;s official site">J. K. Rowling's official site</a></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i></li>
+<li><i><a href="/wiki/Wizarding_World_(website)" title="Wizarding World (website)">Wizarding World</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_Trading_Card_Game" title="Harry Potter Trading Card Game">Harry Potter Trading Card Game</a></i></li>
+<li><i><a href="/wiki/Harry_Potter:_The_Character_Vault" title="Harry Potter: The Character Vault">Harry Potter: The Character Vault</a></i></li>
+<li><i><a href="/wiki/Harry_Potter:_The_Creature_Vault" title="Harry Potter: The Creature Vault">Harry Potter: The Creature Vault</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i><sup id="cite_ref-34" class="reference"><a href="#cite_note-34">&#91;34&#93;</a></sup></li>
+<li><i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i></li>
+<li><i><a href="/wiki/Harry_Potter:_Magic_Awakened" title="Harry Potter: Magic Awakened">Harry Potter: Magic Awakened</a></i></li>
+<li><i><a href="/wiki/Harry_Potter:_Puzzles_%26_Spells" title="Harry Potter: Puzzles &amp; Spells">Harry Potter: Puzzles &amp; Spells</a></i></li>
+<li><a href="/wiki/Harry_Potter:_The_Wand_Collection" title="Harry Potter: The Wand Collection">Harry Potter: The Wand Collection</a></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Half-blood?veaction=edit&amp;section=12" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Half-blood?action=edit&amp;section=12" title="Edit section: Notes and references

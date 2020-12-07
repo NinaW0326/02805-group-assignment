@@ -1,0 +1,121 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/8/8b/Thaddeus_Thurkell.jpg/revision/latest?cb=20120104183742" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/8/8b/Thaddeus_Thurkell.jpg/revision/latest/scale-to-width-down/344?cb=20120104183742" srcset="https://static.wikia.nocookie.net/harrypotter/images/8/8b/Thaddeus_Thurkell.jpg/revision/latest/scale-to-width-down/344?cb=20120104183742 1x, https://static.wikia.nocookie.net/harrypotter/images/8/8b/Thaddeus_Thurkell.jpg/revision/latest/scale-to-width-down/687?cb=20120104183742 2x" class="pi-image-thumbnail" alt="" width="270" height="393"
+		     data-image-key="Thaddeus_Thurkell.jpg" data-image-name="Thaddeus Thurkell.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Thaddeus Thurkell</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/1632" class="mw-redirect" title="1632">1632</a><sup id="cite_ref-PSG_1-0" class="reference"><a href="#cite_note-PSG-1">&#91;1&#93;</a></sup><sup id="cite_ref-COSG_2-0" class="reference"><a href="#cite_note-COSG-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/1692" class="mw-redirect" title="1692">1692</a> (aged 59 - 60)<sup id="cite_ref-PSG_1-1" class="reference"><a href="#cite_note-PSG-1">&#91;1&#93;</a></sup><sup id="cite_ref-COSG_2-1" class="reference"><a href="#cite_note-COSG-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-PSG_1-2" class="reference"><a href="#cite_note-PSG-1">&#91;1&#93;</a></sup><sup id="cite_ref-COSG_2-2" class="reference"><a href="#cite_note-COSG-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male<sup id="cite_ref-PSG_1-3" class="reference"><a href="#cite_note-PSG-1">&#91;1&#93;</a></sup><sup id="cite_ref-COSG_2-3" class="reference"><a href="#cite_note-COSG-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">White<sup id="cite_ref-PSG_1-4" class="reference"><a href="#cite_note-PSG-1">&#91;1&#93;</a></sup><sup id="cite_ref-COSG_2-4" class="reference"><a href="#cite_note-COSG-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Brown<sup id="cite_ref-PSG_1-5" class="reference"><a href="#cite_note-PSG-1">&#91;1&#93;</a></sup><sup id="cite_ref-COSG_2-5" class="reference"><a href="#cite_note-COSG-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Light<sup id="cite_ref-PSG_1-6" class="reference"><a href="#cite_note-PSG-1">&#91;1&#93;</a></sup><sup id="cite_ref-COSG_2-6" class="reference"><a href="#cite_note-COSG-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Thurkell_brothers" title="Thurkell brothers">Seven sons</a><sup id="cite_ref-PSG_1-7" class="reference"><a href="#cite_note-PSG-1">&#91;1&#93;</a></sup><sup id="cite_ref-COSG_2-7" class="reference"><a href="#cite_note-COSG-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Thurkell_family" title="Thurkell family">Thurkell family</a><sup id="cite_ref-PSG_1-8" class="reference"><a href="#cite_note-PSG-1">&#91;1&#93;</a></sup><sup id="cite_ref-COSG_2-8" class="reference"><a href="#cite_note-COSG-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Thaddeus Thurkell</b> (<a href="/wiki/1632" class="mw-redirect" title="1632">1632</a>—<a href="/wiki/1692" class="mw-redirect" title="1692">1692</a>) was a <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> who fathered <a href="/wiki/Thurkell_brothers" title="Thurkell brothers">seven sons</a> who were all <a href="/wiki/Squib" title="Squib">Squibs</a>. He <a href="/wiki/Human_to_hedgehog_spell" title="Human to hedgehog spell">transfigured</a> them into <a href="/wiki/Hedgehog" title="Hedgehog">hedgehogs</a> out of disgust.<sup id="cite_ref-PSG_1-9" class="reference"><a href="#cite_note-PSG-1">&#91;1&#93;</a></sup><sup id="cite_ref-COSG_2-9" class="reference"><a href="#cite_note-COSG-2">&#91;2&#93;</a></sup>
+</p><p>The birth of a single Squib to a <a href="/wiki/Magic" title="Magic">magical</a> parent was known to be a rare event.<sup id="cite_ref-squib_3-0" class="reference"><a href="#cite_note-squib-3">&#91;3&#93;</a></sup> This would seem to indicate that the case of the <a href="/wiki/Thurkell_family" title="Thurkell family">Thurkell family</a> was quite exceptional, especially as it merited mention on a <a href="/wiki/Chocolate_Frog_Card" title="Chocolate Frog Card">Chocolate Frog Card</a>.<sup id="cite_ref-PSG_1-10" class="reference"><a href="#cite_note-PSG-1">&#91;1&#93;</a></sup><sup id="cite_ref-COSG_2-10" class="reference"><a href="#cite_note-COSG-2">&#91;2&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Magical_abilities_and_skills"><span class="tocnumber">1</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Etymology"><span class="tocnumber">2</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Appearances"><span class="tocnumber">3</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Notes_and_references"><span class="tocnumber">4</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Thaddeus_Thurkell?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Thaddeus_Thurkell?action=edit&amp;section=1" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Transfiguration" title="Transfiguration">Transfiguration</a></b>: Thaddeus successfully <a href="/wiki/Human_to_hedgehog_spell" title="Human to hedgehog spell">transformed</a> his <a href="/wiki/Thurkell_brothers" title="Thurkell brothers">sons</a> into <a href="/wiki/Hedgehog" title="Hedgehog">Hedgehogs</a> out of disgust for their <a href="/wiki/Squib" title="Squib">Squib</a> statuses.<sup id="cite_ref-PSG_1-11" class="reference"><a href="#cite_note-PSG-1">&#91;1&#93;</a></sup><sup id="cite_ref-COSG_2-11" class="reference"><a href="#cite_note-COSG-2">&#91;2&#93;</a></sup> Given how both <a href="/wiki/Human_Transfiguration" title="Human Transfiguration">Human Transfiguration</a> and <a href="/wiki/Trans-Species_Transformation" title="Trans-Species Transformation">Trans-Species Transformation</a> are both highly advanced and complex forms of transfiguration, this is proof of skill in this field.</li></ul>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Thaddeus_Thurkell?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Thaddeus_Thurkell?action=edit&amp;section=2" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The name "Thaddeus" comes from Θαδδαιος (Thaddaios), the Greek form of the Aramaic name Thaddai. It is possibly derived from a word, meaning "heart", but it may in fact be an Aramaic form of a Greek name such as Theodoros.
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Thaddeus_Thurkell?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Thaddeus_Thurkell?action=edit&amp;section=3" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 3 images related to <i><b><a href="/wiki/Category:Images_of_Thaddeus_Thurkell" title="Category:Images of Thaddeus Thurkell">Thaddeus Thurkell</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(video_game)" title="Harry Potter and the Philosopher&#39;s Stone (video game)">Harry Potter and the Philosopher's Stone (video game)</a></i> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(video_game)" title="Harry Potter and the Chamber of Secrets (video game)">Harry Potter and the Chamber of Secrets (video game)</a></i> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(video_game)" title="Harry Potter and the Prisoner of Azkaban (video game)">Harry Potter and the Prisoner of Azkaban (video game)</a></i> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Thaddeus_Thurkell?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Thaddeus_Thurkell?action=edit&amp;section=4" title="Edit section: Notes and references

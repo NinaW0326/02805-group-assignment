@@ -1,0 +1,178 @@
+<div class="mw-parser-output"><table class="notice metadata" id="spoiler" style="text-align: center; background: beige; margin: 1em 05%; padding: 0 1em; border: #a00 1px solid;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/e/ea/Wizards_Unite_logo.jpg/revision/latest?cb=20181114170049" class="image"><img alt="Wizards Unite logo.jpg" src="https://static.wikia.nocookie.net/harrypotter/images/e/ea/Wizards_Unite_logo.jpg/revision/latest/scale-to-width-down/175?cb=20181114170049" decoding="async" width="175" height="98" data-image-name="Wizards Unite logo.jpg" data-image-key="Wizards_Unite_logo.jpg" /></a>
+</td>
+<td><b>Warning!</b>
+<p>At least some content in this article is derived from information featured in <i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i>. As such, spoilers will be present within the article.
+</p><p>For gameplay-specific information, please see the relevant article on <a href="https://harrypotterwizardsunite.fandom.com/wiki/Mathilda_Grimblehawk" class="extiw" title="w:c:harrypotterwizardsunite:Mathilda Grimblehawk">the Harry Potter: Wizards Unite Wiki!</a>
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-mom pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/0/09/Mathilda_Grimblehawk.png/revision/latest?cb=20161027050049" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/0/09/Mathilda_Grimblehawk.png/revision/latest/scale-to-width-down/350?cb=20161027050049" srcset="https://static.wikia.nocookie.net/harrypotter/images/0/09/Mathilda_Grimblehawk.png/revision/latest/scale-to-width-down/350?cb=20161027050049 1x, https://static.wikia.nocookie.net/harrypotter/images/0/09/Mathilda_Grimblehawk.png/revision/latest/scale-to-width-down/700?cb=20161027050049 2x" class="pi-image-thumbnail" alt="" width="270" height="301"
+		     data-image-key="Mathilda_Grimblehawk.png" data-image-name="Mathilda Grimblehawk.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Mathilda Grimblehawk</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="marital">
+	
+		<h3 class="pi-data-label pi-secondary-font">Marital status</h3>
+	
+	<div class="pi-data-value pi-font">Unmarried<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a> or <a href="/wiki/Ireland" title="Ireland">Irish</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="title">
+	
+		<h3 class="pi-data-label pi-secondary-font">Title(s)</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Magizoologist" title="Magizoologist">Magizoologist</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="signature">
+	
+		<h3 class="pi-data-label pi-secondary-font">Signature</h3>
+	
+	<div class="pi-data-value pi-font"><a href="https://static.wikia.nocookie.net/harrypotter/images/3/33/Mathilda_Grimblehawk_sig.svg/revision/latest?cb=20181221214526" class="image"><img alt="Mathilda Grimblehawk sig.svg" src="https://static.wikia.nocookie.net/harrypotter/images/3/33/Mathilda_Grimblehawk_sig.svg/revision/latest/scale-to-width-down/135?cb=20181221214526" decoding="async" width="135" height="59" data-image-name="Mathilda Grimblehawk sig.svg" data-image-key="Mathilda_Grimblehawk_sig.svg" /></a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Brown</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Brown</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Light</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Abraham_Grimblehawk" title="Abraham Grimblehawk">Abraham Grimblehawk</a> (uncle)</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>Investigator for the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">British Ministry of Magic</a> <a href="/wiki/Beast_Division" title="Beast Division">Beast Division</a></li><li><a href="/wiki/Magizoologist" title="Magizoologist">Magizoologist</a></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">British Ministry of Magic</a><ul><li><a href="/wiki/Department_for_the_Regulation_and_Control_of_Magical_Creatures" title="Department for the Regulation and Control of Magical Creatures">Department for the Regulation and Control of Magical Creatures</a><ul><li><a href="/wiki/Beast_Division" title="Beast Division">Beast Division</a></li></ul></li></ul></li><li><a href="/wiki/International_Confederation_of_Wizards" title="International Confederation of Wizards">International Confederation of Wizards</a><ul><li><a href="/wiki/Statute_of_Secrecy_Task_Force" title="Statute of Secrecy Task Force">Statute of Secrecy Task Force</a></li></ul></li><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Fantastic Beasts: Cases from the Wizarding World">"<i>Bite marks! Venom! There's no doubt now that we're dealing with a dangerous beast! This is… This is </i>EXCITING!<i> And serious, of course. This is my serious face.</i>"</span></dd>
+<dd>&#8212;Mathilda Grimblehawk<sup class="noprint"><a href="/wiki/Fantastic_Beasts:_Cases_from_the_Wizarding_World" title="Fantastic Beasts: Cases from the Wizarding World">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Mathilda Grimblehawk</b> (fl. <a href="/wiki/1999" title="1999">1999</a>) was a <a href="/wiki/Great_Britain" title="Great Britain">British</a> <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> employed at the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">British Ministry of Magic</a> as an investigator of <a href="/wiki/Creature" title="Creature">creature</a>-related incidents. During her years at the Ministry, she dealt competently with <a href="/wiki/Wizardkind" title="Wizardkind">wizards</a>, <a href="/wiki/Non-magic_people" title="Non-magic people">Muggles</a> and even <a href="/wiki/Centaur" title="Centaur">Centaurs</a> alike.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_life"><span class="tocnumber">1.1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Career"><span class="tocnumber">1.2</span> <span class="toctext">Career</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Personality_and_traits"><span class="tocnumber">2</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Magical_abilities_and_skills"><span class="tocnumber">3</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Appearances"><span class="tocnumber">4</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Notes_and_references"><span class="tocnumber">5</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mathilda_Grimblehawk?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mathilda_Grimblehawk?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mathilda_Grimblehawk?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Early life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mathilda_Grimblehawk?action=edit&amp;section=2" title="Edit section: Early life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Mathilda Grimblehawk was born somewhere in the <a href="/wiki/Great_Britain" title="Great Britain">British Isles</a>, into the wizarding <a href="/wiki/Grimblehawk_family" title="Grimblehawk family">Grimblehawk family</a>. During her formative years, she attended <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a>, where she was known to have taken <a href="/wiki/Potions_(class)" title="Potions (class)">Potions</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> She presumably also took and excelled in <a href="/wiki/Care_of_Magical_Creatures" title="Care of Magical Creatures">Care of Magical Creatures</a>, given her future career as a <a href="/wiki/Magizoologist" title="Magizoologist">Magizoologist</a>.<sup id="cite_ref-WU_4-0" class="reference"><a href="#cite_note-WU-4">&#91;4&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Career">Career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mathilda_Grimblehawk?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Career">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mathilda_Grimblehawk?action=edit&amp;section=3" title="Edit section: Career"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>After she left school, she eventually joined the Ministry of Magic, where she became an investigator for the <a href="/wiki/Beast_Division" title="Beast Division">Beast Division</a>.
+</p><p>Along with <a href="/wiki/Mathilda_Grimblehawk%27s_partner" title="Mathilda Grimblehawk&#39;s partner">her partner</a> (the new intern) she helped investigate several cases involving <a href="/wiki/Magic" title="Magic">magical</a> <a href="/wiki/Beast" title="Beast">beasts</a>. Their first case together involved an attack on <a href="/wiki/Gordon_Horton" title="Gordon Horton">Gordon Horton</a>, <a href="/wiki/Quidditch" title="Quidditch">Quidditch</a> <a href="/wiki/Keeper" title="Keeper">keeper</a> for the <a href="/wiki/Chudley_Cannons" title="Chudley Cannons">Chudley Cannons</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> She believed the Cannons to be the best <a href="/wiki/Quidditch_team" title="Quidditch team">Quidditch team</a> in the league, despite their performance last season.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p><p>Other cases on which she worked included the disruption at the <a href="/wiki/Leaky_Cauldron" title="Leaky Cauldron">Leaky Cauldron</a>,<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> the attack on <a href="/wiki/Don_Harrison" title="Don Harrison">Don Harrison</a>'s construction crew,<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> the story from the <a href="/wiki/Siren%27s_Rest%27s_landlord" class="mw-redirect" title="Siren&#39;s Rest&#39;s landlord">Siren's Rest's landlord</a> of a <a href="/wiki/Wales" title="Wales">Welsh</a> lake monster,<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> the disappearance of <a href="/wiki/Bilius_Finbok" title="Bilius Finbok">Bilius Finbok</a>,<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> the investigation in the sewers of <a href="/wiki/London" title="London">London</a>,<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> and the fire at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a>.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+</p><p>According to <a href="/wiki/Gethsemane_Prickle" title="Gethsemane Prickle">Gethsemane Prickle</a>, she once, during the course of her duties, decided she would taste a <a href="/wiki/Draught_of_Living_Death" title="Draught of Living Death">Draught of Living Death</a> before administering it to a magical creature. Mathilda begrudgingly admitted to it, saying that it had "<i>only happened</i> once".<sup id="cite_ref-FBC2.4_13-0" class="reference"><a href="#cite_note-FBC2.4-13">&#91;13&#93;</a></sup>
+</p><p>By <a href="/wiki/2018" title="2018">2018</a>, Mathilda was working with the newly-created <a href="/wiki/Statute_of_Secrecy_Task_Force" title="Statute of Secrecy Task Force">Statute of Secrecy Task Force</a> to aid them in dealing with the results of the <a href="/wiki/Calamity" title="Calamity">Calamity</a>. As a <a href="/wiki/Magizoologist" title="Magizoologist">Magizoologist</a>, she ministered the <a href="/wiki/Ministry_Magizoology_Orientation" title="Ministry Magizoology Orientation">several</a> <a href="/wiki/Safety_Orientation" title="Safety Orientation">courses</a> for its members interested in pursuing a career as Magizoologists, including an intensive, week-long one centred on how to ride on a <a href="/wiki/Kelpie" title="Kelpie">Kelpie</a>.<sup id="cite_ref-WU_4-1" class="reference"><a href="#cite_note-WU-4">&#91;4&#93;</a></sup> As a bat-expert, she also helped to improve members' insight into the <a href="/wiki/Bat-Bogey_Hex" title="Bat-Bogey Hex">Bat-Bogey Hex</a>.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mathilda_Grimblehawk?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Personality and traits">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mathilda_Grimblehawk?action=edit&amp;section=4" title="Edit section: Personality and traits"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Mathilda Grimblehawk possessed a great enthusiasm for the subject of&#160;<a href="/wiki/Magizoology" title="Magizoology">Magizoology</a>&#160;and great fondness for <a href="/wiki/Magic" title="Magic">magical</a> <a href="/wiki/Creature" title="Creature">creatures</a> of all kinds. She was also very friendly and sociable, as she delighted in the chance to travel and meet new people as part of her work, and apparently greatly enjoyed <a href="/wiki/Mathilda_Grimblehawk%27s_partner" title="Mathilda Grimblehawk&#39;s partner">her partner's</a> company.
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mathilda_Grimblehawk?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mathilda_Grimblehawk?action=edit&amp;section=5" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Magizoology" title="Magizoology">Magizoology</a></b>: As a member of the&#160;<a href="/wiki/Department_for_the_Regulation_and_Control_of_Magical_Creatures" title="Department for the Regulation and Control of Magical Creatures">Department for the Regulation and Control of Magical Creatures</a>, Mathidla Grimblehawk was very familiar with a wide variety of <a href="/wiki/Magic" title="Magic">magical</a> <a href="/wiki/Creature" title="Creature">creatures</a>, and knew how to&#160;<a href="/wiki/Ministry_of_Magic_Classification" title="Ministry of Magic Classification">classify</a>&#160;them and the various laws regulating said creatures, as well as how to adeptly handle and understand them.</li>
+<li><b><a href="/wiki/Martial_magic" title="Martial magic">Martial magic</a></b>: As a field member of the <a href="/wiki/Department_for_the_Regulation_and_Control_of_Magical_Creatures" title="Department for the Regulation and Control of Magical Creatures">Department for the Regulation and Control of Magical Creatures</a>, Mathilda would have become a fairly accomplished <a href="/wiki/Duelling" title="Duelling">duellist</a>, at least by the <a href="/wiki/2010s" title="2010s">2010s</a>, as she would have received formal training in combative magic under the tutelage of <a href="/wiki/Mordecai_Berrycloth" title="Mordecai Berrycloth">Mordecai Berrycloth</a> from the <a href="/wiki/Auror_Office" title="Auror Office">Auror Office</a> as part of her preparations before joining the Statute of Secrecy Task Force.<sup id="cite_ref-WU_4-2" class="reference"><a href="#cite_note-WU-4">&#91;4&#93;</a></sup></li>
+<li><b><a href="/wiki/Potion" title="Potion">Potions</a></b>: As a Hogwarts student, Mathilda was known to have taken <a href="/wiki/Potions_(class)" title="Potions (class)">Potions</a>, a subject which she succeeded in, showing her to have been skilled in the art of potion-making.</li>
+<li><b><a href="/wiki/Charm" title="Charm">Charms</a></b>: Mathilda was capable with charm-work, given how she often performed various charms successfully during her career investigations.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mathilda_Grimblehawk?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mathilda_Grimblehawk?action=edit&amp;section=6" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" class="lazyload" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 6 images related to <i><b><a href="/wiki/Category:Images_of_Mathilda_Grimblehawk" title="Category:Images of Mathilda Grimblehawk">Mathilda Grimblehawk</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<ul><li><i><a href="/wiki/Fantastic_Beasts:_Cases_from_the_Wizarding_World" title="Fantastic Beasts: Cases from the Wizarding World">Fantastic Beasts: Cases from the Wizarding World</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mathilda_Grimblehawk?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mathilda_Grimblehawk?action=edit&amp;section=7" title="Edit section: Notes and references

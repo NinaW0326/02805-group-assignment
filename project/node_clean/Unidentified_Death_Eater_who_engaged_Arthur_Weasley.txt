@@ -1,0 +1,127 @@
+<div class="mw-parser-output"><table class="notice metadata" cellpadding="3px" style="text-align: center; background: snow; border: #a00 1px solid; margin: 1em 10% 1em 10%;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/1/11/Hermione_Granger_%28HBP_promo%29_5.jpg/revision/latest?cb=20090817203540" class="image"><img alt="Hermione Granger (HBP promo) 5.jpg" src="https://static.wikia.nocookie.net/harrypotter/images/1/11/Hermione_Granger_%28HBP_promo%29_5.jpg/revision/latest/scale-to-width-down/60?cb=20090817203540" decoding="async" width="60" height="80" data-image-name="Hermione Granger (HBP promo) 5.jpg" data-image-key="Hermione_Granger_(HBP_promo)_5.jpg" /></a>
+</td>
+<td><i><b>"Are you a wizard or not?"</b></i>
+<p>The title of this article is conjectural.  Although it is based on <a href="/wiki/Canon" title="Canon">canonical information</a>, the actual name is a conjecture and may be supplanted at any time by additional information released from canonical sources.  If this occurs, please move this page to the appropriate title.
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-death-eater pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/1/1f/Arthur_weasley_duel.gif/revision/latest?cb=20110722015009" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/1/1f/Arthur_weasley_duel.gif/revision/latest/scale-to-width-down/315?cb=20110722015009" srcset="https://static.wikia.nocookie.net/harrypotter/images/1/1f/Arthur_weasley_duel.gif/revision/latest/scale-to-width-down/315?cb=20110722015009 1x, https://static.wikia.nocookie.net/harrypotter/images/1/1f/Arthur_weasley_duel.gif/revision/latest/scale-to-width-down/630?cb=20110722015009 2x" class="pi-image-thumbnail" alt="" width="270" height="120"
+		     data-image-key="Arthur_weasley_duel.gif" data-image-name="Arthur weasley duel.gif"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Unidentified Death Eater</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/1980s" title="1980s">1980s</a> or earlier (most likely)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Pure-blood" title="Pure-blood">Pure-blood</a> or <a href="/wiki/Half-blood" title="Half-blood">Half-blood</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Black</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Light</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Magical characteristics</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="patronus">
+	
+		<h3 class="pi-data-label pi-secondary-font">Patronus</h3>
+	
+	<div class="pi-data-value pi-font">None<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a></li><li><a href="/wiki/Tom_Riddle" title="Tom Riddle">Lord Voldemort</a></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+This <b>individual</b> was a <a href="/wiki/Dark_Wizard" title="Dark Wizard">Dark wizard</a> and one of <a href="/wiki/Tom_Riddle" title="Tom Riddle">Lord Voldemort</a>'s <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a> in the <a href="/wiki/Second_Wizarding_War" title="Second Wizarding War">Second Wizarding War</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Magical_abilities_and_skills"><span class="tocnumber">2</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Behind_the_scenes"><span class="tocnumber">3</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Appearances"><span class="tocnumber">4</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Notes_and_references"><span class="tocnumber">5</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Unidentified_Death_Eater_who_engaged_Arthur_Weasley?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Unidentified_Death_Eater_who_engaged_Arthur_Weasley?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl><dd><div class="noprint"><i>Main article&#58; <a href="/wiki/Skirmish_at_the_Quad_battlements" title="Skirmish at the Quad battlements">Skirmish at the Quad battlements</a></i></div></dd></dl>
+<figure class="thumb tleft show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/6/65/Death_Eater.jpg/revision/latest?cb=20160312051045" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/6/65/Death_Eater.jpg/revision/latest/scale-to-width-down/180?cb=20160312051045" decoding="async" width="180" height="77" class="thumbimage" data-image-name="Death Eater.jpg" data-image-key="Death_Eater.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Death_Eater.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">The Death Eater killing another wizard by casting the Killing Curse on him, moments before his duel with Arthur Weasley</p> 		 	</figcaption> </figure>
+<p>In <a href="/wiki/1998" title="1998">1998</a>, he was present during the <a href="/wiki/Battle_of_Hogwarts" title="Battle of Hogwarts">Battle of Hogwarts</a>. After the <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a> managed to <a href="/wiki/Shield_penetration_spell" title="Shield penetration spell">break</a> the protective enchantments protecting <a href="/wiki/Hogwarts_Castle" title="Hogwarts Castle">the castle</a>, he blew up part of <a href="/wiki/The_Quad_battlements" title="The Quad battlements">the battlements</a> around <a href="/wiki/The_Quad" title="The Quad">The Quad</a>, and <a href="/wiki/Apparition" title="Apparition">Apparated</a> into the <a href="/wiki/Catwalks_by_the_Quad_battlements" title="Catwalks by the Quad battlements">catwalks by the Quad battlements</a>. There, he killed <a href="/wiki/Unidentified_wizard_killed_at_the_Quad_battlements" title="Unidentified wizard killed at the Quad battlements">a wizard</a> and <a href="/wiki/Duelling" title="Duelling">duelled</a> with <a href="/wiki/Arthur_Weasley" title="Arthur Weasley">Arthur Weasley</a>; he with a <a href="/wiki/Killing_Curse" title="Killing Curse">Killing Curse</a> and Arthur with either a <a href="/wiki/Stunning_Spell" title="Stunning Spell">Stunning Spell</a> or <a href="/wiki/Disarming_Charm" title="Disarming Charm">Disarming Charm</a>. The outcome of the duel was unknown, same as the fate of this individual; though given that Arthur survived the Battle of Hogwarts, it was likely that the individual was either killed, disarmed, defeated or had abandoned the Battle and Voldemort along with many other Death Eaters.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Unidentified_Death_Eater_who_engaged_Arthur_Weasley?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Unidentified_Death_Eater_who_engaged_Arthur_Weasley?action=edit&amp;section=2" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Dark_Arts" title="Dark Arts">Dark Arts</a></b>: Being a Death Eater, this <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> would have been very proficient in the dark arts, and was able to kill another wizard effortlessly with the <a href="/wiki/Killing_Curse" title="Killing Curse">Killing Curse</a>. He was highly likely to have been skilled in casting the other <a href="/wiki/Unforgivable_Curses" title="Unforgivable Curses">Unforgivable Curses</a> along with other <a href="/wiki/Dark_charm" title="Dark charm">dark charms</a> and spells.</li>
+<li><b><a href="/wiki/Duelling" title="Duelling">Duelling</a></b>: This wizard was clearly a very skilled and accomplished duellist, as he fought against numerous other wizards and even Arthur Weasley in the Battle of Hogwarts.</li>
+<li><b><a href="/wiki/Nonverbal_spell" title="Nonverbal spell">Nonverbal magic</a></b>: This wizard could cast a nonverbal killing curse, a mark of superior <a href="/wiki/Magic" title="Magic">magical</a> skill given the difficulty of casting non-verbal spells and the Killing Curse itself.</li>
+<li><b><a href="/wiki/Apparition" title="Apparition">Apparition</a></b>: This wizard was capable of apparating.</li></ul>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Unidentified_Death_Eater_who_engaged_Arthur_Weasley?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Unidentified_Death_Eater_who_engaged_Arthur_Weasley?action=edit&amp;section=3" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>This individual may be the <a href="/wiki/Unidentified_Male_Death_Eater_(I)" title="Unidentified Male Death Eater (I)">man that sat next to</a> <a href="/wiki/Tom_Riddle" title="Tom Riddle">Lord Voldemort</a> in <a href="/wiki/Malfoy_Manor" title="Malfoy Manor">Malfoy Manor</a>.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Unidentified_Death_Eater_who_engaged_Arthur_Weasley?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Unidentified_Death_Eater_who_engaged_Arthur_Weasley?action=edit&amp;section=4" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_2" title="Harry Potter and the Deathly Hallows: Part 2">Harry Potter and the Deathly Hallows: Part 2</a></i> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Unidentified_Death_Eater_who_engaged_Arthur_Weasley?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Unidentified_Death_Eater_who_engaged_Arthur_Weasley?action=edit&amp;section=5" title="Edit section: Notes and references

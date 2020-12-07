@@ -1,0 +1,145 @@
+<div class="mw-parser-output"><table class="notice metadata" id="spoiler" style="text-align: center; background: beige; margin: 1em 05%; padding: 0 1em; border: #a00 1px solid;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/e/ea/Wizards_Unite_logo.jpg/revision/latest?cb=20181114170049" class="image"><img alt="Wizards Unite logo.jpg" src="https://static.wikia.nocookie.net/harrypotter/images/e/ea/Wizards_Unite_logo.jpg/revision/latest/scale-to-width-down/175?cb=20181114170049" decoding="async" width="175" height="98" data-image-name="Wizards Unite logo.jpg" data-image-key="Wizards_Unite_logo.jpg" /></a>
+</td>
+<td><b>Warning!</b>
+<p>At least some content in this article is derived from information featured in <i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i>. As such, spoilers will be present within the article.
+</p><p>For gameplay-specific information, please see the relevant article on <a href="https://harrypotterwizardsunite.fandom.com/wiki/Myra_Curio" class="extiw" title="w:c:harrypotterwizardsunite:Myra Curio">the Harry Potter: Wizards Unite Wiki!</a>
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-mom pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/3/39/Myra_Curio_-_large.png/revision/latest?cb=20161028170859" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/3/39/Myra_Curio_-_large.png/revision/latest/scale-to-width-down/297?cb=20161028170859" srcset="https://static.wikia.nocookie.net/harrypotter/images/3/39/Myra_Curio_-_large.png/revision/latest/scale-to-width-down/297?cb=20161028170859 1x, https://static.wikia.nocookie.net/harrypotter/images/3/39/Myra_Curio_-_large.png/revision/latest/scale-to-width-down/594?cb=20161028170859 2x" class="pi-image-thumbnail" alt="" width="270" height="421"
+		     data-image-key="Myra_Curio_-_large.png" data-image-name="Myra Curio - large.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Myra Curio</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Pure-blood" title="Pure-blood">Pure-blood</a> or <a href="/wiki/Half-blood" title="Half-blood">Half-blood</a> <span class="template-c">(most likely)</span><sup id="cite_ref-FBC3_1-0" class="reference"><a href="#cite_note-FBC3-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="title">
+	
+		<h3 class="pi-data-label pi-secondary-font">Title(s)</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Officer" class="mw-redirect" title="Officer">Officer</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Black</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Brown</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Dark</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">British Ministry of Magic</a> official</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">British Ministry of Magic</a><ul><li><a href="/wiki/Muggle_Liaison_Office" title="Muggle Liaison Office">Muggle Liaison Office</a> (formerly)</li><li><a href="/wiki/Department_for_the_Regulation_and_Control_of_Magical_Creatures" title="Department for the Regulation and Control of Magical Creatures">Department for the Regulation and Control of Magical Creatures</a> (formerly)</li><li><a href="/wiki/Department_of_Magical_Law_Enforcement" title="Department of Magical Law Enforcement">Department of Magical Law Enforcement</a><ul><li><a href="/wiki/Misuse_of_Muggle_Artefacts_Office" title="Misuse of Muggle Artefacts Office">Misuse of Muggle Artefacts Office</a></li></ul></li><li><a href="/wiki/Statute_of_Secrecy_Task_Force" title="Statute of Secrecy Task Force">Statute of Secrecy Task Force</a></li></ul></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Officer Myra Curio</b> was a <a href="/wiki/Great_Britain" title="Great Britain">British</a> <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> who worked for the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">British Ministry of Magic</a> in <a href="/wiki/London" title="London">London</a> as an expert on examining and dealing with <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> artefacts. In this capacity, she assisted the <a href="/wiki/Ministry_of_Magic" title="Ministry of Magic">Ministry of Magic</a>'s <a href="/wiki/Department_for_the_Regulation_and_Control_of_Magical_Creatures" title="Department for the Regulation and Control of Magical Creatures">Department for the Regulation and Control of Magical Creatures</a> in solving cases related to <a href="/wiki/Magic" title="Magic">magical</a> <a href="/wiki/Beast" title="Beast">beasts</a>,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> and later transferred to the <a href="/wiki/Department_of_Magical_Law_Enforcement" title="Department of Magical Law Enforcement">Department of Magical Law Enforcement</a>, where she became an <a href="/wiki/Officer" class="mw-redirect" title="Officer">Officer</a> in the <a href="/wiki/Misuse_of_Muggle_Artefacts_Office" title="Misuse of Muggle Artefacts Office">Misuse of Muggle Artefacts Office</a>. In this capacity, she also assisted members the <a href="/wiki/Statute_of_Secrecy_Task_Force" title="Statute of Secrecy Task Force">Statute of Secrecy Task Force</a> tackling <a href="/wiki/Calamity" title="Calamity">The Calamity</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Personality_and_traits"><span class="tocnumber">2</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Magical_abilities_and_skills"><span class="tocnumber">3</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Appearances"><span class="tocnumber">4</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Notes_and_references"><span class="tocnumber">5</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Myra_Curio?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Myra_Curio?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Born into a <a href="/wiki/Wizardkind" title="Wizardkind">wizarding</a> family that resided somewhere in the <a href="/wiki/Great_Britain" title="Great Britain">British Isles</a>, she grew up in a magical household.<sup id="cite_ref-FBC3_1-1" class="reference"><a href="#cite_note-FBC3-1">&#91;1&#93;</a></sup> During her formative years, she received her magical education, presumably by attending <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a>,&#160;like most magical children in their wizarding community.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> She excelled in <a href="/wiki/Muggle_Studies" title="Muggle Studies">Muggle Studies</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p><p>Sometime after her seventeenth birthday, Myra joined the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">Ministry of Magic</a> in <a href="/wiki/London" title="London">London</a>, and eventually began working for the <a href="/wiki/Muggle_Liaison_Office" title="Muggle Liaison Office">Muggle Liaison Office</a> in the <a href="/wiki/Department_of_Magical_Accidents_and_Catastrophes" title="Department of Magical Accidents and Catastrophes">Department of Magical Accidents and Catastrophes</a>. A respected authority on the subject of <a href="/wiki/Muggle_Relations" title="Muggle Relations">Muggle Relations</a> and the <a href="/wiki/Muggle_world" title="Muggle world">Muggle world</a> in general, Myra was known to have been called upon to lend her expertise to other Ministry authorities, such as the <a href="/wiki/Department_for_the_Regulation_and_Control_of_Magical_Creatures" title="Department for the Regulation and Control of Magical Creatures">Department for the Regulation and Control of Magical Creatures</a>, where she alongside <a href="/wiki/Sage_Bragnam" title="Sage Bragnam">Sage Bragnam</a>, <a href="/wiki/Gethsemane_Prickle" title="Gethsemane Prickle">Gethsemane Prickle</a> and <a href="/wiki/Omar_Abasi" title="Omar Abasi">Omar Abasi</a> during investigations relating to creature-related incidents. As such, Myra would sometimes help examine Muggle objects found by the <a href="/wiki/Beast_Division" title="Beast Division">Beast Division</a>.<sup id="cite_ref-FBC_6-0" class="reference"><a href="#cite_note-FBC-6">&#91;6&#93;</a></sup>
+</p><p>Presumably inspired to pursue a career that was more "hands-on" after having assisted of <a href="/wiki/Mathilda_Grimblehawk" title="Mathilda Grimblehawk">Mathilda Grimblehawk</a> and her <a href="/wiki/Mathilda_Grimblehawk%27s_partner" title="Mathilda Grimblehawk&#39;s partner">partner</a> with their field work, she eventually transferred to the <a href="/wiki/Department_of_Magical_Law_Enforcement" title="Department of Magical Law Enforcement">Department of Magical Law Enforcement</a> and became a <a href="/wiki/Officer" class="mw-redirect" title="Officer">Magical Law Enforcement Officer</a>, working for the <a href="/wiki/Misuse_of_Muggle_Artefacts_Office" title="Misuse of Muggle Artefacts Office">Misuse of Muggle Artefacts Office</a>.
+</p><p>Following the outbreak of the <a href="/wiki/Calamity" title="Calamity">Calamity</a>, she became part of the Ministry <a href="/wiki/Calamity_Management_Team" title="Calamity Management Team">committee</a> dedicated to gaining further insight into the origin and nature of the phenomenon. In due time, she began working with members of the then recently established <a href="/wiki/Statute_of_Secrecy_Task_Force" title="Statute of Secrecy Task Force">Statute of Secrecy Task Force</a> pursuing a career as an <a href="/wiki/Auror" title="Auror">Auror</a> to improve their spell casting.<sup id="cite_ref-WU_7-0" class="reference"><a href="#cite_note-WU-7">&#91;7&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Myra_Curio?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Personality and traits">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Myra_Curio?action=edit&amp;section=2" title="Edit section: Personality and traits"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>An avid <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> enthusiast who thoroughly enjoyed her job and the opportunity to work with other people, Myra was a friendly, well-meaning individual who were always happy to help out her colleagues, being friendly with people like <a href="/wiki/Mathilda_Grimblehawk" title="Mathilda Grimblehawk">Mathilda Grimblehawk</a>, and <a href="/wiki/Mathilda_Grimblehawk%27s_partner" title="Mathilda Grimblehawk&#39;s partner">her partner</a>. While mild-mannered, she was not timid, being sufficiently confident in her own abilities to want to pursue a job within magical law enforcement later on in her career, proving her resolve.
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Myra_Curio?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Myra_Curio?action=edit&amp;section=3" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A witch capable of using an array of sophisticated <a href="/wiki/Spell" title="Spell">spell</a>-work when she was required to do so, Myra had to deal with a wide variety of <a href="/wiki/Jinx" title="Jinx">jinxes</a>, <a href="/wiki/Hex" title="Hex">hexes</a> and <a href="/wiki/Curse" title="Curse">curses</a> placed on Muggle artefacts after she switched positions.
+</p>
+<ul><li><b><a href="/wiki/Muggle_Studies" title="Muggle Studies">Muggle Studies</a></b>: A well-respected <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> expert at the Ministry, she was knowledgeable on the subject of Muggle Studies and often called upon to advice co-workers who came across Muggle objects at work.</li>
+<li><b><a href="/wiki/Potions" class="mw-redirect" title="Potions">Potions</a></b>: Myra was very good at potion-making; occasionally hosting potion-making workshops. On one such event, she combined her skills as a <a href="/wiki/Potioneer" title="Potioneer">potioneer</a> with her speciality by successfully adapting Muggle cooking techniques to the potion-making process. Notably, she was able to make good use of sous vide, a method wherein food was cooked in a water bath for longer than usual cooking times at a precisely regulated temperature, by bottling potion-ingredients and immersing them in boiling water to increase their effect, much to the benefit of the <a href="/wiki/Statute_of_Secrecy_Task_Force" title="Statute of Secrecy Task Force">SOS Task Force</a> members attending one such event.</li>
+<li><b><a href="/wiki/Charm" title="Charm">Charms</a></b>: She was proficient with the casting of charms, to the point where she was able to assist candidates for the <a href="/wiki/Auror_Office" title="Auror Office">Auror Office</a> working for the <a href="/wiki/Statute_of_Secrecy_Task_Force" title="Statute of Secrecy Task Force">SOS Task Force</a> with their charms-work in preparation for tackling the <a href="/wiki/Calamity" title="Calamity">Calamity</a>.</li>
+<li><b><a href="/wiki/Magical_Law" title="Magical Law">Magical Law</a> knowledge</b>: As an <a href="/wiki/Officer" class="mw-redirect" title="Officer">Officer</a> in the <a href="/wiki/Department_of_Magical_Law_Enforcement" title="Department of Magical Law Enforcement">Department of Magical Law Enforcement</a>, Myra was knowledgeable on the subject of magical laws and regulations, such as the <a href="/wiki/Registry_of_Proscribed_Charmable_Objects" title="Registry of Proscribed Charmable Objects">Registry of Proscribed Charmable Objects</a> and the <a href="/wiki/Muggle_Protection_Act" title="Muggle Protection Act">Muggle Protection Act</a> drafted by <a href="/wiki/Arthur_Weasley" title="Arthur Weasley">Arthur Weasley</a> and which artefacts were listed on the <a href="/wiki/Registry_of_Proscribed_Charmable_Objects" title="Registry of Proscribed Charmable Objects">Registry of Proscribed Charmable Objects</a>.</li>
+<li><b><a href="/wiki/Fencing" title="Fencing">Fencing</a></b>: Myra Curio had an interest in the Muggle sport of fencing and was capable of using the diagrams and practical exercises associated with the sport to make her movements more focused and purposeful while casting spells, which she would eventually go on and share with a <a href="/wiki/Calamity_Investigator" title="Calamity Investigator">Calamity Investigator</a> working for the <a href="/wiki/Statute_of_Secrecy_Task_Force" title="Statute of Secrecy Task Force">Statute of Secrecy Task Force</a> by advicing them to read it too.</li>
+<li><b>Cooking</b>: Myra was apparently a very capable cook, who could cook a wide variety of different dishes.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Myra_Curio?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Myra_Curio?action=edit&amp;section=4" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Fantastic_Beasts:_Cases_from_the_Wizarding_World" title="Fantastic Beasts: Cases from the Wizarding World">Fantastic Beasts: Cases from the Wizarding World</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter:_Wizards_Unite" title="Harry Potter: Wizards Unite">Harry Potter: Wizards Unite</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Myra_Curio?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Myra_Curio?action=edit&amp;section=5" title="Edit section: Notes and references

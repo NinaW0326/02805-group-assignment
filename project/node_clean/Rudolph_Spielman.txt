@@ -1,0 +1,130 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/a/a1/Spielman.png/revision/latest?cb=20181107211327" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/a/a1/Spielman.png/revision/latest/scale-to-width-down/308?cb=20181107211327" srcset="https://static.wikia.nocookie.net/harrypotter/images/a/a1/Spielman.png/revision/latest/scale-to-width-down/308?cb=20181107211327 1x, https://static.wikia.nocookie.net/harrypotter/images/a/a1/Spielman.png/revision/latest/scale-to-width-down/616?cb=20181107211327 2x" class="pi-image-thumbnail" alt="" width="270" height="438"
+		     data-image-key="Spielman.png" data-image-name="Spielman.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Rudolph Spielman</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">Before <a href="/wiki/1910" title="1910">1910</a> (likely),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> <a href="/wiki/Germany" title="Germany">Germany</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Germany" title="Germany">German</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Grey</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Light</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Magical characteristics</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="wand">
+	
+		<h3 class="pi-data-label pi-secondary-font">Wand</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Rudolph_Spielman%27s_wand" title="Rudolph Spielman&#039;s wand">Unknown wood, core material and length</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Head_of_Incarceration" title="Head of Incarceration">Head of Incarceration</a> at the <a href="/wiki/International_Confederation_of_Wizards" title="International Confederation of Wizards">International Confederation of Wizards</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/International_Confederation_of_Wizards" title="International Confederation of Wizards">International Confederation of Wizards</a></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Rudolph Spielman</b> (fl. <a href="/wiki/1920s" title="1920s">1920s</a>) was a <a href="/wiki/Germany" title="Germany">German</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> who worked as the <a href="/wiki/Head_of_Incarceration" title="Head of Incarceration">Head of Incarceration</a> at the <a href="/wiki/International_Confederation_of_Wizards" title="International Confederation of Wizards">International Confederation of Wizards</a>. He participated in <a href="/wiki/Gellert_Grindelwald%27s_extradition" class="mw-redirect" title="Gellert Grindelwald&#39;s extradition">Gellert Grindelwald's extradition</a> from <a href="/wiki/Magical_Congress_of_the_United_States_of_America" title="Magical Congress of the United States of America">MACUSA</a> to <a href="/wiki/Europe" title="Europe">Europe</a> to answer for his crimes, and was the only survivor of Grindelwald's escape.<sup id="cite_ref-COGS3_3-0" class="reference"><a href="#cite_note-COGS3-3">&#91;3&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Magical_abilities_and_skills"><span class="tocnumber">2</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Etymology"><span class="tocnumber">3</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Behind_the_scenes"><span class="tocnumber">4</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Appearances"><span class="tocnumber">5</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Notes_and_references"><span class="tocnumber">6</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Rudolph_Spielman?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Rudolph_Spielman?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>As Head of Incarceration in <a href="/wiki/1927" title="1927">1927</a>, Spielman was in charge of overseeing the transfer of Grindelwald to Europe. Prior to boarding the Incarceration Carriage that contained the prisoner and two Aurors, Spielman spoke with MACUSA President Seraphina Picquery, who warned him not to underestimate Grindelwald. He told the President that the wizarding community owed her a great debt for capturing the Dark Wizard before being approached by Abernathy, a MACUSA employee, who presented Spielman with a case that apparently contained Grindelwald's recently discovered wand and also a strange jewelled vial on a chain.<sup id="cite_ref-COGS3_3-1" class="reference"><a href="#cite_note-COGS3-3">&#91;3&#93;</a></sup>
+</p><p>As the carriage set off for the journey to Europe, Spielman examined the vial with interest before noting that Grindelwald no longer had his "silver tongue", MACUSA having cut it out to prevent him from coaxing his guards to side with him. To Spielman's shock and horror, however, "Grindelwald" was subsequently revealed to be a disguised Abernathy, who had swapped places with the real Grindelwald who was at that moment attacking the carriage. Spielman's white-handled wand, as well as those of the two Aurors with him, suddenly pointed themselves at their owner's necks before disintegrating, after which Spielman caught sight of Grindelwald's face peering in. Panicking, Spielman opened the case he held, only to find an infant chupacabra within that proceeded to maul the German wizard's neck, all whilst Abernathy retrieved the vial even as Spielman and the Aurors fought to restrain him.<sup id="cite_ref-COGS3_3-2" class="reference"><a href="#cite_note-COGS3-3">&#91;3&#93;</a></sup>
+</p><p>Eventually, however, Spielman was left as the sole survivor on the carriage as Grindelwald dispatched the remaining Aurors. Taking Spielman by the throat, Grindelwald held him out of the open door of the carriage before letting him go, sending the older wizard plummeting hundreds of feet. Seeing Abernathy's wand, which Grindelwald had dropped after him, Spielman was able to grab it and cast a Slowing Charm mere seconds before he impacted the water. Soaking wet and traumatised, but alive, Spielman could only watch as Grindelwald escaped to wreak havoc once more.<sup id="cite_ref-COGS3_3-3" class="reference"><a href="#cite_note-COGS3-3">&#91;3&#93;</a></sup>
+</p><p>Some time afterwards, Spielman was present at the British Ministry of Magic as part of a committee to discuss the revocation of Newt Scamander's travel ban. He and Torquil Travers were later part of a group that travelled to Hogwarts after Grindelwald's rally in Paris in order to speak with Albus Dumbledore.<sup id="cite_ref-COGS3_3-4" class="reference"><a href="#cite_note-COGS3-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Rudolph_Spielman?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Rudolph_Spielman?action=edit&amp;section=2" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Magic" title="Magic">Magical</a> mastery</b>: As <a href="/wiki/Head_of_Incarceration" title="Head of Incarceration">Head of Incarceration</a> for the <a href="/wiki/International_Confederation_of_Wizards" title="International Confederation of Wizards">International Confederation of Wizards</a>, Spielman was a highly capable wizard who was entrusted with overseeing the transfer of <a href="/wiki/Gellert_Grindelwald" title="Gellert Grindelwald">Gellert Grindelwald</a>. Though Spielman was unable to put up any magical resistance as his wand was destroyed, he was able to swiftly cast a <a href="/wiki/Slowing_Charm" title="Slowing Charm">Slowing Charm</a> to save his life without any apparent difficulty whilst using the wand of an enemy wizard, an impressive feat as he presumably had not earned that wand's allegiance.</li>
+<li><b><a href="/wiki/Charm" title="Charm">Charms</a></b>: Spielman was proficient with charms, with him being able to swiftly cast a successful <a href="/wiki/Slowing_Charm" title="Slowing Charm">Slowing Charm</a> mid-fall as soon as he got a hold of a <a href="/wiki/Abernathy%27s_wand" title="Abernathy&#39;s wand">falling wand</a>, doing so effectively enough to survive an extremely high fall without injury.</li>
+<li><b><a href="/wiki/Non-verbal_spell" class="mw-redirect" title="Non-verbal spell">Nonverbal magic</a></b>: Spielman was skilful with casting nonverbal spells, notably silently casting a Slowing Charm.</li>
+<li><b><a href="/wiki/Apparition" title="Apparition">Apparition</a></b>: Being an accomplished adult wizard, Spielman was fully capable of Apparating at will.</li></ul>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Rudolph_Spielman?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Rudolph_Spielman?action=edit&amp;section=3" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Spielman is a German occupational surname meaning "minstrel". The name is composed of the words <i>Spiel</i> "play" and <i>Mann</i> "man". It originally referred to entertainers and later to medieval travelling musicians.</li></ul>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Rudolph_Spielman?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Rudolph_Spielman?action=edit&amp;section=4" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Spielman is played by <a href="/wiki/Wolf_Roth" title="Wolf Roth">Wolf Roth</a> in the <a href="/wiki/Fantastic_Beasts:_The_Crimes_of_Grindelwald" title="Fantastic Beasts: The Crimes of Grindelwald">second instalment</a> of the <i><a href="/wiki/Fantastic_Beasts_(film_series)" title="Fantastic Beasts (film series)">Fantastic Beasts</a></i> film series.<sup id="cite_ref-pm_4-0" class="reference"><a href="#cite_note-pm-4">&#91;4&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Rudolph_Spielman?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Rudolph_Spielman?action=edit&amp;section=5" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Fantastic_Beasts:_The_Crimes_of_Grindelwald_-_The_Original_Screenplay" title="Fantastic Beasts: The Crimes of Grindelwald - The Original Screenplay">Fantastic Beasts: The Crimes of Grindelwald - The Original Screenplay</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Fantastic_Beasts:_The_Crimes_of_Grindelwald" title="Fantastic Beasts: The Crimes of Grindelwald">Fantastic Beasts: The Crimes of Grindelwald</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Rudolph_Spielman?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Rudolph_Spielman?action=edit&amp;section=6" title="Edit section: Notes and references

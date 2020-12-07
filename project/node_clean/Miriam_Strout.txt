@@ -1,0 +1,119 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-st-mungo-employee pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/e/e6/Miriam_Strout.png/revision/latest?cb=20181105022153" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/e/e6/Miriam_Strout.png/revision/latest/scale-to-width-down/225?cb=20181105022153" srcset="https://static.wikia.nocookie.net/harrypotter/images/e/e6/Miriam_Strout.png/revision/latest/scale-to-width-down/225?cb=20181105022153 1x, https://static.wikia.nocookie.net/harrypotter/images/e/e6/Miriam_Strout.png/revision/latest/scale-to-width-down/450?cb=20181105022153 2x" class="pi-image-thumbnail" alt="" width="225" height="500"
+		     data-image-key="Miriam_Strout.png" data-image-name="Miriam Strout.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Miriam Strout</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">Before <a href="/wiki/1977" title="1977">1977</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a><sup id="cite_ref-OOTP23_1-0" class="reference"><a href="#cite_note-OOTP23-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="title">
+	
+		<h3 class="pi-data-label pi-secondary-font">Title(s)</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Healer" title="Healer">Healer</a><sup id="cite_ref-OOTP23_1-1" class="reference"><a href="#cite_note-OOTP23-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-OOTP23_1-2" class="reference"><a href="#cite_note-OOTP23-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female<sup id="cite_ref-OOTP23_1-3" class="reference"><a href="#cite_note-OOTP23-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Healer" title="Healer">Healer</a><sup id="cite_ref-OOTP23_1-4" class="reference"><a href="#cite_note-OOTP23-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/St_Mungo%27s_Hospital_for_Magical_Maladies_and_Injuries" title="St Mungo&#039;s Hospital for Magical Maladies and Injuries">St Mungo's Hospital for Magical Maladies and Injuries</a><sup id="cite_ref-OOTP23_1-5" class="reference"><a href="#cite_note-OOTP23-1">&#91;1&#93;</a></sup><ul><li><a href="/wiki/Janus_Thickey_Ward" title="Janus Thickey Ward">Janus Thickey Ward</a><sup id="cite_ref-OOTP23_1-6" class="reference"><a href="#cite_note-OOTP23-1">&#91;1&#93;</a></sup></li></ul></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Order of the Phoenix">"<i>A motherly-looking Healer wearing a tinsel wreath in her hair came bustling up the corridor, smiling warmly at <a href="/wiki/Harry_Potter" title="Harry Potter">Harry</a> and the others.</i>"</span></dd>
+<dd>&#8212;Description<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Miriam Strout</b> was a <a href="/wiki/Great_Britain" title="Great Britain">British</a> <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> and <a href="/wiki/Healer" title="Healer">Healer</a> on the <a href="/wiki/Janus_Thickey_Ward" title="Janus Thickey Ward">Janus Thickey Ward</a> at <a href="/wiki/St_Mungo%27s_Hospital_for_Magical_Maladies_and_Injuries" title="St Mungo&#39;s Hospital for Magical Maladies and Injuries">St Mungo's Hospital for Magical Maladies and Injuries</a>. She was described to be a motherly-looking healer.<sup id="cite_ref-OOTP23_1-7" class="reference"><a href="#cite_note-OOTP23-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#1995"><span class="tocnumber">1.1</span> <span class="toctext">1995</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Personality_and_traits"><span class="tocnumber">2</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Magical_abilities_and_skills"><span class="tocnumber">3</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Appearances"><span class="tocnumber">4</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Notes_and_references"><span class="tocnumber">5</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Miriam_Strout?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Miriam_Strout?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="1995">1995</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Miriam_Strout?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: 1995">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Miriam_Strout?action=edit&amp;section=2" title="Edit section: 1995"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Order of the Phoenix">"<i>Look, <a href="/wiki/Broderick_Bode" title="Broderick Bode">Broderick</a>, you've been sent a <a href="/wiki/Devil%27s_Snare" title="Devil&#39;s Snare">potted plant</a> and a <a href="/wiki/Fancy_hippogriff_calendar" title="Fancy hippogriff calendar">lovely calendar</a> with a different fancy <a href="/wiki/Hippogriff" title="Hippogriff">Hippogriff</a> for each month.</i>"</span></dd>
+<dd>&#8212;Miriam Strout's mistake<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">[src]</a></sup></dd>
+<dd></dd></dl></div><p>Strout was responsible for looking after long-term patients such as <a href="/wiki/Agnes" title="Agnes">Agnes</a>, <a href="/wiki/Gilderoy_Lockhart" title="Gilderoy Lockhart">Gilderoy Lockhart</a>, and <a href="/wiki/Alice_Longbottom" title="Alice Longbottom">Alice</a> and <a href="/wiki/Frank_Longbottom" title="Frank Longbottom">Frank Longbottom</a>. When <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a>, <a href="/wiki/Hermione_Granger" title="Hermione Granger">Hermione Granger</a>, <a href="/wiki/Ronald_Weasley" title="Ronald Weasley">Ron</a> and <a href="/wiki/Ginevra_Weasley" title="Ginevra Weasley">Ginny Weasley</a> came up to the <a href="/wiki/Janus_Thickey_Ward" title="Janus Thickey Ward">Janus Thickey Ward</a> by accident, she led them in, mistaking them wanting to visit Lockhart, who had managed to sneak out of his room for a while.<sup id="cite_ref-OOTP23_1-8" class="reference"><a href="#cite_note-OOTP23-1">&#91;1&#93;</a></sup>
+</p><p>She was also looking after <a href="/wiki/Broderick_Bode" title="Broderick Bode">Broderick Bode</a> when he was killed by a <a href="/wiki/Devil%27s_Snare" title="Devil&#39;s Snare">Devil's Snare</a> plant sent to him by the <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eater</a> <a href="/wiki/Walden_Macnair" title="Walden Macnair">Walden Macnair</a>, disguised at the time as an elderly wizard. Although <a href="/wiki/St_Mungo%27s_Hospital_for_Magical_Maladies_and_Injuries" title="St Mungo&#39;s Hospital for Magical Maladies and Injuries">St Mungo's</a> has very strict regulations of the gifts allowed into the hospital, Strout mistook the Devil Snare to be a harmless <a href="/wiki/Flitterbloom" title="Flitterbloom">Flitterbloom</a> and thought the improving Bode could take care of it, a dreadful mistake which cost him his life. She was suspended on full pay whilst the matter was investigated and was unavailable for comments for the <i><a href="/wiki/Daily_Prophet" title="Daily Prophet">Daily Prophet</a></i>. It is unknown if Strout was eventually fired or reinstated in her position.<sup id="cite_ref-OOTP25_2-0" class="reference"><a href="#cite_note-OOTP25-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Miriam_Strout?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Personality and traits">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Miriam_Strout?action=edit&amp;section=3" title="Edit section: Personality and traits"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Strout was evidently a very caring and kind-hearted witch, given her job as a <a href="/wiki/Healer" title="Healer">Healer</a>, meaning she specialised in tending to the both the physically and mentally unwell, in the <a href="/wiki/Janus_Thickey_Ward" title="Janus Thickey Ward">Janus Thickey Ward</a>. She was very mothering and protective of her vulnerable patients, such as <a href="/wiki/Gilderoy_Lockhart" title="Gilderoy Lockhart">Gilderoy Lockhart</a>, who she even seemed to feel much compassion for, since he received no visitors.<sup id="cite_ref-OOTP23_1-9" class="reference"><a href="#cite_note-OOTP23-1">&#91;1&#93;</a></sup> However, she was somewhat naive and inattentive in her professional duties, as she foolishly failed to identify a lethal <a href="/wiki/Devil%27s_Snare" title="Devil&#39;s Snare">Devil's Snare</a> plant that had been brought into her hospital ward (mistaking it for a harmless <a href="/wiki/Flitterbloom" title="Flitterbloom">Flitterbloom</a>), a thoughtless mistake which resulted in her patient <a href="/wiki/Broderick_Bode" title="Broderick Bode">Broderick Bode</a> being killed by the plant, and her being suspended from her position.<sup id="cite_ref-OOTP25_2-1" class="reference"><a href="#cite_note-OOTP25-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Miriam_Strout?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Miriam_Strout?action=edit&amp;section=4" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Healing_magic" title="Healing magic">Healing magic</a></b>: As a professional <a href="/wiki/Healer" title="Healer">Healer</a> working at <a href="/wiki/St_Mungo%27s_Hospital_for_Magical_Maladies_and_Injuries" title="St Mungo&#39;s Hospital for Magical Maladies and Injuries">St Mungo's Hospital for Magical Maladies and Injuries</a>, Strout was highly proficient in the art of medical <a href="/wiki/Magic" title="Magic">magic</a>. She worked in the <a href="/wiki/Janus_Thickey_Ward" title="Janus Thickey Ward">Janus Thickey Ward</a>, meaning she was very able in looking after people who had suffered permanent <a href="/wiki/Spell" title="Spell">spell</a> damage.<sup id="cite_ref-OOTP23_1-10" class="reference"><a href="#cite_note-OOTP23-1">&#91;1&#93;</a></sup> For her healing duties, she would have been highly accomplished with <a href="/wiki/Healing_spell" title="Healing spell">healing spells</a>, healing <a href="/wiki/Potion" title="Potion">potions</a>, and other magical remedies to help cure or medicate her patients. In addition, in order to have trained as a Healer, she would have needed <a href="/wiki/Nastily_Exhausting_Wizarding_Test" title="Nastily Exhausting Wizarding Test">N.E.W.T.s</a> in <a href="/wiki/Charms_(class)" title="Charms (class)">Charms</a>, <a href="/wiki/Potions_(class)" title="Potions (class)">Potions</a>, <a href="/wiki/Herbology" title="Herbology">Herbology</a>, <a href="/wiki/Transfiguration_(class)" title="Transfiguration (class)">Transfiguration</a> and <a href="/wiki/Defence_Against_the_Dark_Arts" title="Defence Against the Dark Arts">Defence Against the Dark Arts</a>, all at least "<a href="/wiki/Exceeds_Expectations" title="Exceeds Expectations">Exceeds Expectations</a>" or "<a href="/wiki/Outstanding" title="Outstanding">Outstanding</a>" level.<sup id="cite_ref-OOTP29_3-0" class="reference"><a href="#cite_note-OOTP29-3">&#91;3&#93;</a></sup> Despite Herbology being a requirement, she failed to identify a cutting of Devil's Snare, mistaking it for a harmless Flitterbloom, costing Bode his life.<sup id="cite_ref-OOTP25_2-2" class="reference"><a href="#cite_note-OOTP25-2">&#91;2&#93;</a></sup></li>
+<li><b><a href="/wiki/Charm" title="Charm">Charms</a></b>: Strout was highly capable in charm-work, given how a N.E.W.T. is required in <a href="/wiki/Charms_(class)" title="Charms (class)">Charms</a> for all Healers;<sup id="cite_ref-OOTP29_3-1" class="reference"><a href="#cite_note-OOTP29-3">&#91;3&#93;</a></sup> furthermore, she was capable of unlocking the locked door to the <a href="/wiki/Janus_Thickey_Ward" title="Janus Thickey Ward">Janus Thickey Ward</a> with the <a href="/wiki/Unlocking_Charm" title="Unlocking Charm">Unlocking Charm</a>, as well as fixing a <a href="/wiki/Fancy_hippogriff_calendar" title="Fancy hippogriff calendar">Fancy hippogriff calendar</a> to the wall with her <a href="/wiki/Wand" title="Wand">wand</a> for <a href="/wiki/Broderick_Bode" title="Broderick Bode">Broderick Bode</a>, most likely using the <a href="/wiki/Sticking_Charm" title="Sticking Charm">Sticking Charm</a>.<sup id="cite_ref-OOTP23_1-11" class="reference"><a href="#cite_note-OOTP23-1">&#91;1&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Miriam_Strout?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Miriam_Strout?action=edit&amp;section=5" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">Harry Potter and the Order of the Phoenix</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Miriam_Strout?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Miriam_Strout?action=edit&amp;section=6" title="Edit section: Notes and references

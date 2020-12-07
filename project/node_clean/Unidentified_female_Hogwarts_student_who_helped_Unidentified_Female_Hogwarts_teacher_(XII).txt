@@ -1,0 +1,81 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/0/07/HPDH2-1282_%281%29.jpg/revision/latest?cb=20111215201112" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/0/07/HPDH2-1282_%281%29.jpg/revision/latest/scale-to-width-down/68?cb=20111215201112" srcset="https://static.wikia.nocookie.net/harrypotter/images/0/07/HPDH2-1282_%281%29.jpg/revision/latest/scale-to-width-down/68?cb=20111215201112 1x, https://static.wikia.nocookie.net/harrypotter/images/0/07/HPDH2-1282_%281%29.jpg/revision/latest/scale-to-width-down/136?cb=20111215201112 2x" class="pi-image-thumbnail" alt="" width="68" height="354"
+		     data-image-key="HPDH2-1282_%281%29.jpg" data-image-name="HPDH2-1282 (1).jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Unidentified student</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">on or before <a href="/wiki/31_August" title="31 August">31 August</a> <a href="/wiki/1986" title="1986">1986</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a> or <a href="/wiki/Ireland" title="Ireland">Irish</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female<sup id="cite_ref-DHF2_2-0" class="reference"><a href="#cite_note-DHF2-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Dark<sup id="cite_ref-DHF2_2-1" class="reference"><a href="#cite_note-DHF2-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Light Brown<sup id="cite_ref-DHF2_2-2" class="reference"><a href="#cite_note-DHF2-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a><sup id="cite_ref-DHF2_2-3" class="reference"><a href="#cite_note-DHF2-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+This <b><a href="/wiki/Wizardkind" title="Wizardkind">witch</a></b> was a student at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> at least during the <a href="/wiki/1997-1998_school_year" class="mw-redirect" title="1997-1998 school year">1997-1998 school year</a>. She participated in the <a href="/wiki/Battle_of_Hogwarts" title="Battle of Hogwarts">Battle of Hogwarts</a> and helped a <a href="/wiki/Unidentified_Hogwarts_employees#Black_Hogwarts_witch_at_the_Viaduct_Courtyard_before_the_Battle_of_Hogwarts" title="Unidentified Hogwarts employees">teacher</a> to go to the <a href="/wiki/Viaduct_Courtyard" title="Viaduct Courtyard">Viaduct Courtyard</a>. It is unknown if she survived.<sup id="cite_ref-DHF2_2-4" class="reference"><a href="#cite_note-DHF2-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Unidentified_female_Hogwarts_student_who_helped_Unidentified_Female_Hogwarts_teacher_(XII)?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Unidentified_female_Hogwarts_student_who_helped_Unidentified_Female_Hogwarts_teacher_(XII)?action=edit&amp;section=1" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>She could be <a href="/wiki/Parvati_Patil" title="Parvati Patil">Parvati Patil</a> by her light brown colour of the skin.</li>
+<li>The teacher who helped was possibly <a href="/wiki/Aurora_Sinistra" title="Aurora Sinistra">Aurora Sinistra</a>.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Unidentified_female_Hogwarts_student_who_helped_Unidentified_Female_Hogwarts_teacher_(XII)?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Unidentified_female_Hogwarts_student_who_helped_Unidentified_Female_Hogwarts_teacher_(XII)?action=edit&amp;section=2" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_2" title="Harry Potter and the Deathly Hallows: Part 2">Harry Potter and the Deathly Hallows: Part 2</a></i> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Unidentified_female_Hogwarts_student_who_helped_Unidentified_Female_Hogwarts_teacher_(XII)?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Unidentified_female_Hogwarts_student_who_helped_Unidentified_Female_Hogwarts_teacher_(XII)?action=edit&amp;section=3" title="Edit section: Notes and references

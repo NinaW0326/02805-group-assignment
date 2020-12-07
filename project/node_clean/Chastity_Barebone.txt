@@ -1,0 +1,182 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-muggle pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/7/79/Chastity01.jpg/revision/latest?cb=20171229151517" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/7/79/Chastity01.jpg/revision/latest/scale-to-width-down/350?cb=20171229151517" srcset="https://static.wikia.nocookie.net/harrypotter/images/7/79/Chastity01.jpg/revision/latest/scale-to-width-down/350?cb=20171229151517 1x, https://static.wikia.nocookie.net/harrypotter/images/7/79/Chastity01.jpg/revision/latest/scale-to-width-down/700?cb=20171229151517 2x" class="pi-image-thumbnail" alt="" width="270" height="328"
+		     data-image-key="Chastity01.jpg" data-image-name="Chastity01.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Chastity Barebone</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">between c. <a href="/wiki/1901" title="1901">1901</a> and <a href="/wiki/7_December" title="7 December">7 December</a>, <a href="/wiki/1905" title="1905">1905</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/7_December" title="7 December">7 December</a>, <a href="/wiki/1926" title="1926">1926</a><sup id="cite_ref-deathdate_3-0" class="reference"><a href="#cite_note-deathdate-3">&#91;3&#93;</a></sup> <br/><p><a href="/wiki/Pike_Street" title="Pike Street">Pike Street</a>, <a href="/wiki/New_York" title="New York">New York City</a>, <a href="/wiki/New_York" title="New York">New York</a>, <a href="/wiki/United_States_of_America" title="United States of America">United States of America</a>, <a href="/wiki/North_America" title="North America">North America</a></p></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Non-magic_people" title="Non-magic people">No-Maj</a></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Strawberry blonde</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Blue</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Light</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Mary_Lou_Barebone" title="Mary Lou Barebone">Mary Lou Barebone</a> (adoptive mother) †</li><li><a href="/wiki/Credence_Barebone" title="Credence Barebone">Credence Barebone</a> (adopted brother)</li><li><a href="/wiki/Modesty_Barebone" title="Modesty Barebone">Modesty Barebone</a> (adopted sister)</li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/New_Salem_Philanthropic_Society" title="New Salem Philanthropic Society">New Salem Philanthropic Society</a><ul><li><a href="/wiki/Second_Salem_Church" title="Second Salem Church">Second Salem Church</a></li></ul></li><li><a href="/wiki/Barebone_family" title="Barebone family">Barebone family</a></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Fantastic Beasts and Where to Find Them: The Original Screenplay">"<i>Hand out your leaflets! I’ll know if you dump ’em. Tell me if you see anything suspicious.</i>"</span></dd>
+<dd>&#8212;Chastity's zeal regarding anti-witchcraft<sup class="noprint"><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them:_The_Original_Screenplay" title="Fantastic Beasts and Where to Find Them: The Original Screenplay">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Chastity Barebone</b> (d. <a href="/wiki/7_December" title="7 December">7 December</a>, <a href="/wiki/1926" title="1926">1926</a><sup id="cite_ref-deathdate_3-1" class="reference"><a href="#cite_note-deathdate-3">&#91;3&#93;</a></sup>) was an <a href="/wiki/United_States_of_America" title="United States of America">American</a> <a href="/wiki/Non-magic_people" title="Non-magic people">No-Maj</a> who lived during the&#160;20th century. She was the adopted daughter of&#160;<a href="/wiki/Mary_Lou_Barebone" title="Mary Lou Barebone">Mary Lou Barebone</a>. Mary Lou was the leader of the&#160;<a href="/wiki/New_Salem_Philanthropic_Society" title="New Salem Philanthropic Society">New Salem Philanthropic Society</a>, a&#160;<a href="/wiki/No-Maj" class="mw-redirect" title="No-Maj">No-Maj</a> anti-witchcraft group. 
+</p><p>Chastity was the middle child of three adopted siblings. Her other siblings were&#160;<a href="/wiki/Credence_Barebone" title="Credence Barebone">Credence Barebone</a> and <a href="/wiki/Modesty_Barebone" title="Modesty Barebone">Modesty Barebone</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> And she lived with them and her adoptive mother in the <a href="/wiki/United_States_of_America" title="United States of America">United States of America</a> in <a href="/wiki/1926" title="1926">1926</a> at the <a href="/wiki/Second_Salem_Church" title="Second Salem Church">Second Salem Church</a> in <a href="/wiki/Pike_Street" title="Pike Street">Pike Street</a> <a href="/wiki/Manhattan" title="Manhattan">Manhattan</a>. 
+</p><p>Chastity dutifully abided by her mother's strict rules, unlike her two siblings, <a href="/wiki/Credence_Barebone" title="Credence Barebone">Credence</a> and <a href="/wiki/Modesty_Barebone" title="Modesty Barebone">Modesty</a>. She was an active member of the <a href="/wiki/New_Salem_Philanthropic_Society" title="New Salem Philanthropic Society">New Salem Philanthropic Society</a>, sharing her mother's zeal for the cause of eradicating <a href="/wiki/Magic" title="Magic">magic</a> and its <a href="/wiki/Wizardkind" title="Wizardkind">practitioners</a>.<sup id="cite_ref-description_5-0" class="reference"><a href="#cite_note-description-5">&#91;5&#93;</a></sup>
+</p><p>Chastity died on the night of <a href="/wiki/7_December" title="7 December">7 December</a> 1926, having sustained fatal injuries when the Second Salem Church was destroyed by the <a href="/wiki/Obscurus" title="Obscurus">Obscurus</a> of Credence Barebone.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_life"><span class="tocnumber">1.1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#December_1926"><span class="tocnumber">1.2</span> <span class="toctext">December 1926</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Death"><span class="tocnumber">1.3</span> <span class="toctext">Death</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Physical_appearance"><span class="tocnumber">2</span> <span class="toctext">Physical appearance</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Personality_and_traits"><span class="tocnumber">3</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Etymology"><span class="tocnumber">4</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Behind_the_scenes"><span class="tocnumber">5</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Appearances"><span class="tocnumber">6</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Notes_and_references"><span class="tocnumber">7</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Chastity_Barebone?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Chastity_Barebone?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Chastity_Barebone?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Early life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Chastity_Barebone?action=edit&amp;section=2" title="Edit section: Early life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>At some point in time, Chastity was adopted by <a href="/wiki/Mary_Lou_Barebone" title="Mary Lou Barebone">Mary Lou Barebone</a>. Mary Lou was the leader of the&#160;<a href="/wiki/New_Salem_Philanthropic_Society" title="New Salem Philanthropic Society">New Salem Philanthropic Society</a>, a&#160;<a href="/wiki/No-Maj" class="mw-redirect" title="No-Maj">No-Maj</a>&#160;anti-witchcraft group. It is not known how long she was with the Barebone family. Chastity was the favourite adopted child of Mary Lou Barebone, as she had the same Anti-Witchcraft mindset as her adoptive mother and was severely loyal to her organisation the Second Salemers. Like her adopted <a href="/wiki/Credence_Barebone" title="Credence Barebone">brother</a> and <a href="/wiki/Modesty_Barebone" title="Modesty Barebone">sister</a>, Chastity was taught by her adoptive mother Mary Lou to hate <a href="/wiki/Magic" title="Magic">magic</a> and <a href="/wiki/Wizardkind" title="Wizardkind">wizardkind</a> at a young age.
+</p>
+<h3><span class="mw-headline" id="December_1926">December 1926</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Chastity_Barebone?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: December 1926">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Chastity_Barebone?action=edit&amp;section=3" title="Edit section: December 1926"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Fantastic Beasts and Where to Find Them (film)">"<i>Chastity sits primly at the long table in the middle of the church. She formulaically arranges leaflets and places them in little bags.</i>"</span></dd>
+<dd>&#8212;Chastity's loyalty to the New Salem Philanthropic Society<sup class="noprint"><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(film)" title="Fantastic Beasts and Where to Find Them (film)">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<figure class="thumb tleft show-info-icon" style="width: 252px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/2/20/Chastity_leafleats.jpg/revision/latest?cb=20170508054403" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/2/20/Chastity_leafleats.jpg/revision/latest/scale-to-width-down/250?cb=20170508054403" decoding="async" width="250" height="104" class="thumbimage" data-image-name="Chastity leafleats.jpg" data-image-key="Chastity_leafleats.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Chastity_leafleats.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Chastity handing out <a href="/wiki/Witches_Live_Among_Us!" title="Witches Live Among Us!">lealets</a> to children for distribution</p> 		 	</figcaption> </figure>
+<p>On <a href="/wiki/6_December" title="6 December">6 December</a>, <a href="/wiki/1926" title="1926">1926</a>&#160;while on the steps of the Steen National Bank, Chastity's adoptive mother Mary Lou held a rally to support their religious&#160;organization,&#160;<a href="/wiki/New_Salem_Philanthropic_Society" title="New Salem Philanthropic Society">New Salem Philanthropic Society</a>. She confirmed to the public who was listening to her speech, that there are bizarre things happening through out <a href="/wiki/New_York" title="New York">New York</a>, that "<a href="/wiki/Obscurus" title="Obscurus">something stalk</a> our city" and "wreaking destruction." She claims to the people in public that this was the work of <a href="/wiki/Magic" title="Magic">witchcraft</a>, while Chastity and her adopted <a href="/wiki/Credence_Barebone" title="Credence Barebone">brother</a> and <a href="/wiki/Modesty_Barebone" title="Modesty Barebone">sister</a> handed out <a href="/wiki/Witches_Live_Among_Us!" title="Witches Live Among Us!">Anti-magic leaflets</a> to the people in public.
+</p><p>On the afternoon of 6 December 1926, <a href="/wiki/Langdon_Shaw" title="Langdon Shaw">Langdon Shaw</a>, a believer in magic, brought Chastity and his family into her father <a href="/wiki/Henry_Shaw_Senior" title="Henry Shaw Senior">Henry Shaw Senior</a>'s office. Mary Lou was interested in garnering the support and influence of his newspaper company and his elder son's re-election platform. But Henry Shaw refused and asked them to leave. When returning a dropped leaflet, <a href="/wiki/Henry_Shaw_Junior" title="Henry Shaw Junior">Henry Shaw Junior</a>, the senator, called her older brother Credence a freak. Chastity left the office with her family, understanding that the Shaw family was not going to support the Second Salemers.
+</p>
+<h3><span class="mw-headline" id="Death">Death</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Chastity_Barebone?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Death">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Chastity_Barebone?action=edit&amp;section=4" title="Edit section: Death"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Fantastic Beasts and Where to Find Them: The Original Screenplay">"<i>The Dark force flies through the church, upending the table and destroying everything in sight...The place is destroyed — moonlight filters through gaps in the roof, and Chastity lies dead amid debris from the attack.</i>"</span></dd>
+<dd>&#8212;Chastity's lifeless body after Credence's Obscurus attacks<sup class="noprint"><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them:_The_Original_Screenplay" title="Fantastic Beasts and Where to Find Them: The Original Screenplay">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<figure class="thumb tleft show-info-icon" style="width: 252px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/3/39/Fantastic-beasts-chastity.jpg/revision/latest?cb=20170426164425" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/3/39/Fantastic-beasts-chastity.jpg/revision/latest/scale-to-width-down/250?cb=20170426164425" decoding="async" width="250" height="104" class="thumbimage" data-image-name="Fantastic-beasts-chastity.jpg" data-image-key="Fantastic-beasts-chastity.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Fantastic-beasts-chastity.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Chastity Barebone in the <a href="/wiki/Second_Salem_Church" title="Second Salem Church">Second Salem Church</a>, just before her death</p> 		 	</figcaption> </figure>
+<p>Chastity died on the night of <a href="/wiki/7_December" title="7 December">7 December</a>, <a href="/wiki/1926" title="1926">1926</a> as a result of fatal injuries sustained when the Second Salem Church was destroyed by Credence's <a href="/wiki/Obscurial" title="Obscurial">Obscurus</a>. The Obscurus  attacked their mother after she had tried to punish Credence after catching him with a <a href="/wiki/Modesty_Barebone%27s_wand" title="Modesty Barebone&#39;s wand">toy wand</a> that he had found under Modesty's bed before going out of control and tearing the church apart, accidentally killing Chastity in the process.<sup id="cite_ref-deathdate_3-2" class="reference"><a href="#cite_note-deathdate-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Physical_appearance">Physical appearance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Chastity_Barebone?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Physical appearance">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Chastity_Barebone?action=edit&amp;section=5" title="Edit section: Physical appearance"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Chastity Barebone often appeared to be shy. She tended to blush sometimes, and to be curious. She was also often quiet and inconspicuous in public. Chastity had strawberry blonde hair and blue eyes, with light skin. 
+</p>
+<h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Chastity_Barebone?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Personality and traits">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Chastity_Barebone?action=edit&amp;section=6" title="Edit section: Personality and traits"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Fantastic Beasts and Where to Find Them (film)">"<i>Chastity is more like a Mini-me version of Mary Lou, like when Mary Lou is beating Credence, she thinks "He deserves it". But another part of her is blocking it out.</i>"</span></dd>
+<dd>&#8212;Chastity Barebone's personality<sup class="noprint"><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(film)" title="Fantastic Beasts and Where to Find Them (film)">[src]</a></sup></dd>
+<dd></dd></dl></div><p>Chastity usually followed the example of her adoptive mother, Mary Lou. She possessed a zealous anti-witchcraft mindset, much as her mother did and unlike Credence and Modesty. Chastity took her role within the <a href="/wiki/New_Salem_Philanthropic_Society" title="New Salem Philanthropic Society">New Salem Philanthropic Society</a> very seriously and would remind the children that handed out the church's leaflets to report to her if they saw any suspicious activity that could possibly register as witchcraft. She did not appear to like the punishments her mother inflicted on Credence and Modesty on occasion but also did not protest or try to stop them.
+</p><h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Chastity_Barebone?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Chastity_Barebone?action=edit&amp;section=7" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Chastity is derived from the Old French <i>chastete</i> or the Latin <i>castitatem</i> (the latter the nominative of <i>castitas</i>). First coined c. 1200, the word Chastity refers, as defined by the Church, to "sexual purity", including but not limited to celibacy or virginity.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Chastity_Barebone?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Chastity_Barebone?action=edit&amp;section=8" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="quote">
+<dl><dd><span title="Source:&#160;The Case of Beasts: Explore the Film Wizardry of Fantastic Beasts and Where to Find Them">"<i>I thought Chastity was very suppressed and lonely. [But] there were little things in the script, like 'She blushed' or 'She looked curiously', so I was like, 'Oh she's a bit rebellious.' But it's all battened down.</i>"</span></dd>
+<dd>&#8212;Jenn Murray on playing Chastity<sup class="noprint"><a href="/wiki/The_Case_of_Beasts:_Explore_the_Film_Wizardry_of_Fantastic_Beasts_and_Where_to_Find_Them" title="The Case of Beasts: Explore the Film Wizardry of Fantastic Beasts and Where to Find Them">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<figure class="thumb tright show-info-icon" style="width: 170px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/7/7f/Chastity_Barebone_LEGO_D.png/revision/latest?cb=20170709202533" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/7/7f/Chastity_Barebone_LEGO_D.png/revision/latest/scale-to-width-down/168?cb=20170709202533" decoding="async" width="168" height="282" class="thumbimage" data-image-name="Chastity Barebone LEGO D.png" data-image-key="Chastity_Barebone_LEGO_D.png" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Chastity_Barebone_LEGO_D.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Chastity Barebone as a <a href="/wiki/LEGO" title="LEGO">LEGO</a> character in <i><a href="/wiki/LEGO_Dimensions" title="LEGO Dimensions">LEGO Dimensions</a></i></p> 		 	</figcaption> </figure>
+<ul><li>Chastity is portrayed by <a href="/wiki/Jenn_Murray" title="Jenn Murray">Jenn Murray</a> in the <a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(film)" title="Fantastic Beasts and Where to Find Them (film)">film</a> inspired by <i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(companion_book)" title="Fantastic Beasts and Where to Find Them (companion book)">Fantastic Beasts and Where to Find Them</a></i>.<sup id="cite_ref-businesswire_7-0" class="reference"><a href="#cite_note-businesswire-7">&#91;7&#93;</a></sup></li>
+<li>In the film, Chastity's fate is left unclear as she is not seen after the Obscurus destroyed the church, alive or otherwise. The screenplay, however, confirms her as having been killed.</li>
+<li>On <i><a href="/wiki/Wizarding_World_(website)" title="Wizarding World (website)">Pottermore</a></i>, Chastity's character page has a red background that is usually used to represent [Gryffindor] characters.</li>
+<li>It is unknown if Chastity was her birth name, as she was adopted.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Chastity_Barebone?veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Chastity_Barebone?action=edit&amp;section=9" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" class="lazyload" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 15 images related to <i><b><a href="/wiki/Category:Images_of_Chastity_Barebone" title="Category:Images of Chastity Barebone">Chastity Barebone</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<ul><li><i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them:_The_Original_Screenplay" title="Fantastic Beasts and Where to Find Them: The Original Screenplay">Fantastic Beasts and Where to Find Them: The Original Screenplay</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(film)" title="Fantastic Beasts and Where to Find Them (film)">Fantastic Beasts and Where to Find Them (film)</a></i></li>
+<li><i><a href="/wiki/LEGO_Dimensions" title="LEGO Dimensions">LEGO Dimensions</a></i></li>
+<li><i><a href="/wiki/The_Case_of_Beasts:_Explore_the_Film_Wizardry_of_Fantastic_Beasts_and_Where_to_Find_Them" title="The Case of Beasts: Explore the Film Wizardry of Fantastic Beasts and Where to Find Them">The Case of Beasts: Explore the Film Wizardry of Fantastic Beasts and Where to Find Them</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Chastity_Barebone?veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Chastity_Barebone?action=edit&amp;section=10" title="Edit section: Notes and references

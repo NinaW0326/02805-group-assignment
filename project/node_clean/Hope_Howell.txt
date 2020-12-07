@@ -1,0 +1,148 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-muggle pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/1/15/HopeLupin.png/revision/latest?cb=20170730194905" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/1/15/HopeLupin.png/revision/latest/scale-to-width-down/350?cb=20170730194905" srcset="https://static.wikia.nocookie.net/harrypotter/images/1/15/HopeLupin.png/revision/latest/scale-to-width-down/350?cb=20170730194905 1x, https://static.wikia.nocookie.net/harrypotter/images/1/15/HopeLupin.png/revision/latest/scale-to-width-down/700?cb=20170730194905 2x" class="pi-image-thumbnail" alt="" width="270" height="359"
+		     data-image-key="HopeLupin.png" data-image-name="HopeLupin.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Hope Lupin (née Howell)</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/1943" title="1943">1943</a> or earlier<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font">Pre <a href="/wiki/1981" title="1981">1981</a><sup id="cite_ref-PM_2-0" class="reference"><a href="#cite_note-PM-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a><sup id="cite_ref-PM_2-1" class="reference"><a href="#cite_note-PM-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="marital">
+	
+		<h3 class="pi-data-label pi-secondary-font">Marital status</h3>
+	
+	<div class="pi-data-value pi-font">Married<sup id="cite_ref-PM_2-2" class="reference"><a href="#cite_note-PM-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Wales" title="Wales">Welsh</a><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> <span class="template-c">(possibly)</span></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-PM_2-3" class="reference"><a href="#cite_note-PM-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female<sup id="cite_ref-PM_2-4" class="reference"><a href="#cite_note-PM-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Lyall_Lupin" title="Lyall Lupin">Lyall Lupin</a> (husband)</li><li><a href="/wiki/Remus_Lupin" title="Remus Lupin">Remus Lupin</a> (son) †</li><li><a href="/wiki/Nymphadora_Tonks" title="Nymphadora Tonks">Nymphadora Tonks</a> (daughter-in-law) †</li><li><a href="/wiki/Edward_Lupin" title="Edward Lupin">Edward Lupin</a> (grandson)</li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Magical characteristics</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="boggart">
+	
+		<h3 class="pi-data-label pi-secondary-font">Boggart</h3>
+	
+	<div class="pi-data-value pi-font">A large, evil looking man<sup id="cite_ref-PM_2-5" class="reference"><a href="#cite_note-PM-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Insurance office worker<sup id="cite_ref-PM_2-6" class="reference"><a href="#cite_note-PM-2">&#91;2&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Lupin_family" title="Lupin family">Lupin family</a><sup id="cite_ref-PM_2-7" class="reference"><a href="#cite_note-PM-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Hope Lupin</b> (née<b> Howell</b>) (d. pre <a href="/wiki/1982" title="1982">1982</a>) was a beautiful <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> woman, the wife of <a href="/wiki/Lyall_Lupin" title="Lyall Lupin">Lyall Lupin</a>, mother of <a href="/wiki/Remus_Lupin" title="Remus Lupin">Remus John Lupin</a> and the grandmother of <a href="/wiki/Edward_Lupin" title="Edward Lupin">Edward Lupin</a>. She worked in an insurance office in <a href="/wiki/Cardiff" title="Cardiff">Cardiff</a> before meeting Lyall.<sup id="cite_ref-PM_2-8" class="reference"><a href="#cite_note-PM-2">&#91;2&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Personality_and_traits"><span class="tocnumber">2</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Physical_appearance"><span class="tocnumber">3</span> <span class="toctext">Physical appearance</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Appearances"><span class="tocnumber">4</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Notes_and_references"><span class="tocnumber">5</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Hope_Howell?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Hope_Howell?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Hope had a job in an insurance office in <a href="/wiki/Cardiff" title="Cardiff">Cardiff</a> by the late <a href="/wiki/1950s" title="1950s">1950s</a>.<sup id="cite_ref-PM_2-9" class="reference"><a href="#cite_note-PM-2">&#91;2&#93;</a></sup>
+</p><p>One day, she decided to take a walk through a dense forest, and stumbled upon a <a href="/wiki/Boggart" title="Boggart">Boggart</a>, which took the form of a very large and vicious-looking man. <a href="/wiki/Lyall_Lupin" title="Lyall Lupin">Lyall Lupin</a>, a wizard, heard her frightened scream and rushed to her aid, turning the Boggart into a field mushroom with a wave of his wand. He escorted her home afterward to ensure her safety.<sup id="cite_ref-PM_2-10" class="reference"><a href="#cite_note-PM-2">&#91;2&#93;</a></sup>
+</p><p>A few months later, Lyall confessed to Hope that the Boggart had never posed any real danger to her, but this did not diminish her fondness of him — the pair had fallen in love with each other by this point. When Lyall proposed marriage, Hope accepted, and eagerly dedicated herself to planning their nuptials. The wedding took place in early 1959, the cake featuring a <a href="/wiki/Boggart" title="Boggart">Boggart</a>-shaped topper, a whimsical touch on Hope's part. A year later, on <a href="/wiki/10_March" title="10 March">10 March</a>, <a href="/wiki/1960" title="1960">1960</a>, Hope and Lyall's first and only child, <a href="/wiki/Remus_Lupin" title="Remus Lupin">Remus John Lupin</a>, was born.<sup id="cite_ref-PM_2-11" class="reference"><a href="#cite_note-PM-2">&#91;2&#93;</a></sup>
+</p><p>In early 1965, <a href="/wiki/Fenrir_Greyback" title="Fenrir Greyback">Fenrir Greyback</a> attacked the Lupins' house, having been insulted by Lyall at the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">Ministry of Magic</a> sometime prior. Her son was bitten and turned into a <a href="/wiki/Werewolf" title="Werewolf">werewolf</a>, and despite her husband's many attempts to revert the transformation, there was no cure. Thus, they moved from village to village, moving when their neighbours began to take notice of their son's strange behaviour.<sup id="cite_ref-PM_2-12" class="reference"><a href="#cite_note-PM-2">&#91;2&#93;</a></sup>
+</p><p>Along with her husband, Hope worried that her son would not be able to attend <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a>, due to his <a href="/wiki/Werewolf" title="Werewolf">lycanthropy</a>, but <a href="/wiki/Albus_Dumbledore" title="Albus Dumbledore">Albus Dumbledore</a> made a special provision for him.<sup id="cite_ref-poa18_4-0" class="reference"><a href="#cite_note-poa18-4">&#91;4&#93;</a></sup>
+</p><p>During his years at Hogwarts, her son would say Hope was ill and he had to go and visit her, as an excuse for his monthly disappearances which were actually caused by lycanthropy.<sup id="cite_ref-poa18_4-1" class="reference"><a href="#cite_note-poa18-4">&#91;4&#93;</a></sup> In spite of Remus's elaborate lies, his friends, <a href="/wiki/James_Potter_I" title="James Potter I">James Potter</a>, <a href="/wiki/Sirius_Black" title="Sirius Black">Sirius Black</a>, and <a href="/wiki/Peter_Pettigrew" title="Peter Pettigrew">Peter Pettigrew</a> guessed the truth in their second year.<sup id="cite_ref-PM_2-13" class="reference"><a href="#cite_note-PM-2">&#91;2&#93;</a></sup> However, as Hope had already died by the defeat of <a href="/wiki/Tom_Riddle" title="Tom Riddle">Lord Voldemort</a> in <a href="/wiki/1981" title="1981">1981</a>,<sup id="cite_ref-PM_2-14" class="reference"><a href="#cite_note-PM-2">&#91;2&#93;</a></sup> there may have been some truth to Remus's words of her being "ill".
+</p>
+<h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Hope_Howell?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Personality and traits">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Hope_Howell?action=edit&amp;section=2" title="Edit section: Personality and traits"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>She was noted to be a particularly imaginative and sensitive person. Her decision to crown her wedding cake with a <a href="/wiki/Boggart" title="Boggart">Boggart</a>-shaped <a href="http://en.wikipedia.org/wiki/wedding_cake_topper" class="extiw" title="wikipedia:wedding cake topper">topper</a> would seem to indicate that she had a whimsical, offbeat sense of humour, and her steadfast support of her son after he was bitten by a <a href="/wiki/Werewolf" title="Werewolf">werewolf</a> demonstrated resilience and tolerance.<sup id="cite_ref-PM_2-15" class="reference"><a href="#cite_note-PM-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Physical_appearance">Physical appearance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Hope_Howell?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Physical appearance">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Hope_Howell?action=edit&amp;section=3" title="Edit section: Physical appearance"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Hope was described as very beautiful in her youth. In her middle age, she grew thin with worry and fear as her son's lycanthropy negatively affected his health and future as well as her and her husband's safety.<sup id="cite_ref-PM_2-16" class="reference"><a href="#cite_note-PM-2">&#91;2&#93;</a></sup> She might have had light brown hair like her son.
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Hope_Howell?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Hope_Howell?action=edit&amp;section=4" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban" title="Harry Potter and the Prisoner of Azkaban">Harry Potter and the Prisoner of Azkaban</a></i> <small>(First mentioned)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">Harry Potter and the Deathly Hallows</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> <small>(First identified as Hope Howell)</small></li>
+<li><i><a href="/wiki/Wizarding_World_(website)" title="Wizarding World (website)">Wizarding World</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Hope_Howell?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Hope_Howell?action=edit&amp;section=5" title="Edit section: Notes and references

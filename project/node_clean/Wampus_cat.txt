@@ -1,0 +1,129 @@
+<div class="mw-parser-output"><table class="notice metadata" id="spoiler" style="text-align: center; background: beige; margin: 1em 05%; padding: 0 1em; border: #a00 1px solid;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/8/8c/Hogwarts_Mystery.jpeg/revision/latest?cb=20180504083359" class="image"><img alt="Hogwarts Mystery.jpeg" src="https://static.wikia.nocookie.net/harrypotter/images/8/8c/Hogwarts_Mystery.jpeg/revision/latest/scale-to-width-down/175?cb=20180504083359" decoding="async" width="175" height="77" data-image-name="Hogwarts Mystery.jpeg" data-image-key="Hogwarts_Mystery.jpeg" /></a>
+</td>
+<td><b>Warning!</b>
+<p>At least some content in this article is derived from information featured in <i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i>. Spoilers will be present within the article.
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-creature pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/4/46/Wampus_Cat_FB-2017.jpeg/revision/latest?cb=20170322024813" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/4/46/Wampus_Cat_FB-2017.jpeg/revision/latest/scale-to-width-down/316?cb=20170322024813" srcset="https://static.wikia.nocookie.net/harrypotter/images/4/46/Wampus_Cat_FB-2017.jpeg/revision/latest/scale-to-width-down/316?cb=20170322024813 1x, https://static.wikia.nocookie.net/harrypotter/images/4/46/Wampus_Cat_FB-2017.jpeg/revision/latest/scale-to-width-down/631?cb=20170322024813 2x" class="pi-image-thumbnail" alt="" width="270" height="428"
+		     data-image-key="Wampus_Cat_FB-2017.jpeg" data-image-name="Wampus Cat FB-2017.jpeg"/>
+		
+	</a>
+	
+</figure>
+
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Wampus cat</h2>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Species information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Yellow</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Light brown and white</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="related">
+	
+		<h3 class="pi-data-label pi-secondary-font">Related to</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Cat" title="Cat">Cat</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="native">
+	
+		<h3 class="pi-data-label pi-secondary-font">Native to</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Appalachian_Mountains" title="Appalachian Mountains">Appalachian Mountains</a>, <a href="/wiki/North_America" title="North America">North America</a><sup id="cite_ref-FB2017_1-0" class="reference"><a href="#cite_note-FB2017-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="mortality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Mortality</h3>
+	
+	<div class="pi-data-value pi-font">Mortal</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="distinction">
+	
+		<h3 class="pi-data-label pi-secondary-font">Distinction</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li>Eyes capable of <a href="/wiki/Hypnosis" title="Hypnosis">hypnosis</a> and <a href="/wiki/Legilimency" title="Legilimency">legilimency</a></li><li>Incredibly fast and strong</li><li>Almost impossible to kill</li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="class">
+	
+		<h3 class="pi-data-label pi-secondary-font"><a href="/wiki/Department_for_the_Regulation_and_Control_of_Magical_Creatures#Ministry_Classification_of_Magical_Creatures" title="Department for the Regulation and Control of Magical Creatures">Ministry of Magic Classification</a></h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Beast" title="Beast">Beast</a> <br/> <a href="/wiki/XXXXX" class="mw-redirect" title="XXXXX">XXXXX</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="status">
+	
+		<h3 class="pi-data-label pi-secondary-font">Status</h3>
+	
+	<div class="pi-data-value pi-font">Extant</div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Creature_infobox" title="Template:Creature infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Pottermore">"<i>A fast and powerful cat native to Appalachia</i>"</span></dd>
+<dd>&#8212;Description<sup class="noprint"><a href="/wiki/Pottermore" title="Pottermore">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p>The <b>Wampus cat</b> is a <a href="/wiki/Magic" title="Magic">magical</a> <a href="/wiki/Cat" title="Cat">cat</a> native to the <a href="/wiki/United_States_of_America" title="United States of America">United States</a>.<sup id="cite_ref-pottermore-1920s_2-0" class="reference"><a href="#cite_note-pottermore-1920s-2">&#91;2&#93;</a></sup> It is one of the four house symbols of <a href="/wiki/Ilvermorny_School_of_Witchcraft_and_Wizardry" title="Ilvermorny School of Witchcraft and Wizardry">Ilvermorny School of Witchcraft and Wizardry</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Behind_the_scenes"><span class="tocnumber">4</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Appearances"><span class="tocnumber">5</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Notes_and_references"><span class="tocnumber">6</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Description">Description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Wampus_cat?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Description">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Wampus_cat?action=edit&amp;section=1" title="Edit section: Description"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Somewhat resembling the mundane mountain <a href="/wiki/Lion" title="Lion">lion</a> or <a href="http://en.wikipedia.org/wiki/cougar" class="extiw" title="wikipedia:cougar">cougar</a> in size and appearance, the Wampus Cat is native to the Appalachian Mountains. It can walk on its hind legs, outrun arrows, and its yellow eyes are reputed to have the power of both <a href="/wiki/Hypnosis" title="Hypnosis">hypnosis</a> and <a href="/wiki/Legilimency" title="Legilimency">Legilimency</a>.<sup id="cite_ref-FB2017_1-1" class="reference"><a href="#cite_note-FB2017-1">&#91;1&#93;</a></sup> The Wampus cat is fast, strong, and almost impossible to kill.<sup id="cite_ref-PM_3-0" class="reference"><a href="#cite_note-PM-3">&#91;3&#93;</a></sup>
+</p><p>The <a href="/wiki/Cherokee" title="Cherokee">Cherokee</a> have most extensively studied the Wampus Cat, with whom they share their native region, and only they have ever succeeded in procuring Wampus Cat hair for use as a <a href="/wiki/Wand" title="Wand">wand</a> core.<sup id="cite_ref-FB2017_1-2" class="reference"><a href="#cite_note-FB2017-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Wampus_cat?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: History">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Wampus_cat?action=edit&amp;section=2" title="Edit section: History"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="floatright"><a href="https://static.wikia.nocookie.net/harrypotter/images/1/14/Wampus_Cat_PM.JPG/revision/latest?cb=20170314224730" class="image" title="A Wampus Cat living in the wilderness"><img alt="A Wampus Cat living in the wilderness" src="https://static.wikia.nocookie.net/harrypotter/images/1/14/Wampus_Cat_PM.JPG/revision/latest/scale-to-width-down/150?cb=20170314224730" decoding="async" width="150" height="225" data-image-name="Wampus Cat PM.JPG" data-image-key="Wampus_Cat_PM.JPG" /></a></div>
+<p>Isolt and the <a href="/wiki/Pukwudgie" title="Pukwudgie">Pukwudgie</a> <a href="/wiki/William_(disambiguation)" title="William (disambiguation)">William</a> took trips to observe these creatures and watched newborn Wampus kittens playing. One of the four houses of Ilvermorny School of Witchcraft and Wizardry, founded in the 17th century, was named after the Wampus cat.<sup id="cite_ref-PM-ilvermorny_4-0" class="reference"><a href="#cite_note-PM-ilvermorny-4">&#91;4&#93;</a></sup> This name of the house was decided by <a href="/wiki/Webster_Boot" title="Webster Boot">Webster Boot</a>. <a href="/wiki/Isolt_Sayre" title="Isolt Sayre">Isolt Sayre</a> and <a href="/wiki/James_Steward" title="James Steward">James Steward</a> also used the hair for some of their wands.
+</p><p>In <a href="/wiki/1832" class="mw-redirect" title="1832">1832</a>, wizard <a href="/wiki/Abel_Treetops" title="Abel Treetops">Abel Treetops</a> of <a href="/wiki/Cincinnati" title="Cincinnati">Cincinnati</a> claimed to have patented a method of taming Wampus Cats for use as guards over wizarding houses. Treetops was exposed as a fraud when <a href="/wiki/Magical_Congress_of_the_United_States_of_America" title="Magical Congress of the United States of America">MACUSA</a> raided his home and found him putting <a href="/wiki/Engorgement_Charm" title="Engorgement Charm">Engorgement Charms</a> on <a href="/wiki/Kneazle" title="Kneazle">Kneazles</a>.<sup id="cite_ref-FB2017_1-3" class="reference"><a href="#cite_note-FB2017-1">&#91;1&#93;</a></sup>
+</p><p>The famous <a href="/wiki/Wandmaker" title="Wandmaker">wandmaker</a> <a href="/wiki/Johannes_Jonker" title="Johannes Jonker">Johannes Jonker</a> used the <a href="/wiki/Wampus_cat_hair" title="Wampus cat hair">hair</a> of this species as a <a href="/wiki/Wand" title="Wand">wand</a> <a href="/wiki/Wand_core" title="Wand core">core</a> in the early <a href="/wiki/20th_century" title="20th century">20th century</a>.<sup id="cite_ref-pottermore-1920s_2-1" class="reference"><a href="#cite_note-pottermore-1920s-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Wampus_cat?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: See also">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Wampus_cat?action=edit&amp;section=3" title="Edit section: See also"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Wampus_(House)" title="Wampus (House)">Wampus House</a> at <a href="/wiki/Ilvermorny_School_of_Witchcraft_and_Wizardry" title="Ilvermorny School of Witchcraft and Wizardry">Ilvermorny School of Witchcraft and Wizardry</a></li>
+<li><a href="/wiki/Legilimency" title="Legilimency">Legilimency</a></li>
+<li><a href="/wiki/Kneazle" title="Kneazle">Kneazle</a></li></ul>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Wampus_cat?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Wampus_cat?action=edit&amp;section=4" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>The Wampus cat is a creature that features in the folklore of various <a href="/wiki/Native_Americans" title="Native Americans">indigenous peoples</a> of the southeastern <a href="/wiki/United_States_of_America" title="United States of America">United States</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Wampus_cat?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Wampus_cat?action=edit&amp;section=5" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 3 images related to <i><b><a href="/wiki/Category:Images_of_Wampus_cats" title="Category:Images of Wampus cats">Wampus cat</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<ul><li><i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them:_The_Original_Screenplay" title="Fantastic Beasts and Where to Find Them: The Original Screenplay">Fantastic Beasts and Where to Find Them: The Original Screenplay</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(film)" title="Fantastic Beasts and Where to Find Them (film)">Fantastic Beasts and Where to Find Them (film)</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(companion_book)" title="Fantastic Beasts and Where to Find Them (companion book)">Fantastic Beasts and Where to Find Them</a></i> <span class="template-c">(2017 edition)</span></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Wizarding_World_(website)" title="Wizarding World (website)">Wizarding World</a></i></li>
+<li><i><a href="/wiki/The_Case_of_Beasts:_Explore_the_Film_Wizardry_of_Fantastic_Beasts_and_Where_to_Find_Them" title="The Case of Beasts: Explore the Film Wizardry of Fantastic Beasts and Where to Find Them">The Case of Beasts: Explore the Film Wizardry of Fantastic Beasts and Where to Find Them</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i> <small>(Mentioned only)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Wampus_cat?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Wampus_cat?action=edit&amp;section=6" title="Edit section: Notes and references

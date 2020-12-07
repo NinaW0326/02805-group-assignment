@@ -1,0 +1,88 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/e/ea/Manager_at_Eeylops_Owl_Emporium.png/revision/latest?cb=20130728121453" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/e/ea/Manager_at_Eeylops_Owl_Emporium.png/revision/latest/scale-to-width-down/238?cb=20130728121453" srcset="https://static.wikia.nocookie.net/harrypotter/images/e/ea/Manager_at_Eeylops_Owl_Emporium.png/revision/latest/scale-to-width-down/238?cb=20130728121453 1x, https://static.wikia.nocookie.net/harrypotter/images/e/ea/Manager_at_Eeylops_Owl_Emporium.png/revision/latest/scale-to-width-down/476?cb=20130728121453 2x" class="pi-image-thumbnail" alt="" width="238" height="328"
+		     data-image-key="Manager_at_Eeylops_Owl_Emporium.png" data-image-name="Manager at Eeylops Owl Emporium.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Manager at Eeylops Owl Emporium</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Bald</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Light</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Manager at <a href="/wiki/Eeylops_Owl_Emporium" title="Eeylops Owl Emporium">Eeylops Owl Emporium</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Eeylops_Owl_Emporium" title="Eeylops Owl Emporium">Eeylops Owl Emporium</a></li><li><a href="/wiki/Diagon_Alley" title="Diagon Alley">Diagon Alley</a></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Philosopher&#39;s Stone (video game)">"<i>Harry Potter, yes? I understand you seek an <a href="/wiki/Eagle_Owl_feather" class="mw-redirect" title="Eagle Owl feather">Eagle Owl feather</a>. For three <a href="/wiki/Sickle" title="Sickle">Sickles</a>, I will allows you to go out to the back and fetch one for yourself.</i>"</span></dd>
+<dd>&#8212;The manager<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(video_game)" title="Harry Potter and the Philosopher&#39;s Stone (video game)">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p>This <b>individual</b> was the manager of <a href="/wiki/Eeylops_Owl_Emporium" title="Eeylops Owl Emporium">Eeylops Owl Emporium</a> in <a href="/wiki/Diagon_Alley" title="Diagon Alley">Diagon Alley</a>. In <a href="/wiki/1991" title="1991">1991</a>-<a href="/wiki/1992" title="1992">1992</a> he sold <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> the <a href="/wiki/Eagle_owl_feather" title="Eagle owl feather">feather</a> of his own <a href="/wiki/Eagle_owl" title="Eagle owl">Eagle owl</a> which were sleeping in the owlery-department of the shop.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> The feather was worth three <a href="/wiki/Sickle" title="Sickle">Sickles</a>. During the <a href="/wiki/Christmas_holidays" title="Christmas holidays">Christmas holidays</a> in <a href="/wiki/1992" title="1992">1992</a>, he went <a href="/wiki/Bird-watching" title="Bird-watching">bird-watching</a> in <a href="/wiki/Wales" title="Wales">Wales</a>, leaving his <a href="/wiki/Eeylops_Owl_Emporium" title="Eeylops Owl Emporium">shop</a> closed.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> He eventually returned some time later however.
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Manager_at_Eeylops_Owl_Emporium?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Manager_at_Eeylops_Owl_Emporium?action=edit&amp;section=1" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Philosopher&#39;s Stone (video game)">"<i>You've got your feather, I see. Well done, and thank you very much. Do call again soon, Harry, and give my regards to <a href="/wiki/Hedwig" title="Hedwig">Hedwig</a>. Cheerio.</i>"</span></dd>
+<dd>&#8212;The manager<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(video_game)" title="Harry Potter and the Philosopher&#39;s Stone (video game)">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<ul><li>It is unknown if this individual owned the shop or simply worked as manager there. If the former is correct, his name may be Eeylops.</li>
+<li>The fact that he asks Harry to give his regards to Hedwig may imply that either they were good friends, or he was the one who sold Hedwig. It is unknown how he learned of Hedwig's name, given that Harry gave her that name after Hagrid bought her him.</li>
+<li>In the Game Boy Color version of the <a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(video_game)" title="Harry Potter and the Philosopher&#39;s Stone (video game)">video game adaptation</a> of <i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone" title="Harry Potter and the Philosopher&#39;s Stone">Harry Potter and the Philosopher's Stone</a></i>, this man claims that children not yet in <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts</a> cannot purchase <a href="/wiki/Owl" title="Owl">owls</a> at the shop. This cannot be considered <a href="/wiki/Canon" title="Canon">canon</a>, however, as it is contradicted by the ability to do so in  <i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i>.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Manager_at_Eeylops_Owl_Emporium?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Manager_at_Eeylops_Owl_Emporium?action=edit&amp;section=2" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(video_game)" title="Harry Potter and the Philosopher&#39;s Stone (video game)">Harry Potter and the Philosopher's Stone (video game)</a></i> <span class="template-c">(PS1 version, GBC version)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(video_game)" title="Harry Potter and the Chamber of Secrets (video game)">Harry Potter and the Chamber of Secrets (video game)</a></i> <span class="template-c">(Indirect mention)</span></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Manager_at_Eeylops_Owl_Emporium?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Manager_at_Eeylops_Owl_Emporium?action=edit&amp;section=3" title="Edit section: Notes and references

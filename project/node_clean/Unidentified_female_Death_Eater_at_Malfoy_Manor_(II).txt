@@ -1,0 +1,135 @@
+<div class="mw-parser-output"><table class="notice metadata" cellpadding="3px" style="text-align: center; background: snow; border: #a00 1px solid; margin: 1em 10% 1em 10%;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/1/11/Hermione_Granger_%28HBP_promo%29_5.jpg/revision/latest?cb=20090817203540" class="image"><img alt="Hermione Granger (HBP promo) 5.jpg" src="https://static.wikia.nocookie.net/harrypotter/images/1/11/Hermione_Granger_%28HBP_promo%29_5.jpg/revision/latest/scale-to-width-down/60?cb=20090817203540" decoding="async" width="60" height="80" data-image-name="Hermione Granger (HBP promo) 5.jpg" data-image-key="Hermione_Granger_(HBP_promo)_5.jpg" /></a>
+</td>
+<td><i><b>"Are you a wizard or not?"</b></i>
+<p>The title of this article is conjectural.  Although it is based on <a href="/wiki/Canon" title="Canon">canonical information</a>, the actual name is a conjecture and may be supplanted at any time by additional information released from canonical sources.  If this occurs, please move this page to the appropriate title.
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-death-eater pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/d/d3/Female_deatheater.png/revision/latest?cb=20101125170415" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/d/d3/Female_deatheater.png/revision/latest/scale-to-width-down/162?cb=20101125170415" srcset="https://static.wikia.nocookie.net/harrypotter/images/d/d3/Female_deatheater.png/revision/latest/scale-to-width-down/162?cb=20101125170415 1x, https://static.wikia.nocookie.net/harrypotter/images/d/d3/Female_deatheater.png/revision/latest/scale-to-width-down/324?cb=20101125170415 2x" class="pi-image-thumbnail" alt="" width="162" height="205"
+		     data-image-key="Female_deatheater.png" data-image-name="Female deatheater.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Unidentified female Death Eater</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Pure-blood" title="Pure-blood">Pure-blood</a> or <a href="/wiki/Half-blood" title="Half-blood">Half-blood</a><sup id="cite_ref-Blood_1-0" class="reference"><a href="#cite_note-Blood-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-DHF1_2-0" class="reference"><a href="#cite_note-DHF1-2">&#91;2&#93;</a></sup><sup id="cite_ref-DHF2_3-0" class="reference"><a href="#cite_note-DHF2-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female<sup id="cite_ref-DHF1_2-1" class="reference"><a href="#cite_note-DHF1-2">&#91;2&#93;</a></sup><sup id="cite_ref-DHF2_3-1" class="reference"><a href="#cite_note-DHF2-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">White<sup id="cite_ref-DHF1_2-2" class="reference"><a href="#cite_note-DHF1-2">&#91;2&#93;</a></sup><sup id="cite_ref-DHF2_3-2" class="reference"><a href="#cite_note-DHF2-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Pale<sup id="cite_ref-DHF1_2-3" class="reference"><a href="#cite_note-DHF1-2">&#91;2&#93;</a></sup><sup id="cite_ref-DHF2_3-3" class="reference"><a href="#cite_note-DHF2-3">&#91;3&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Magical characteristics</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="patronus">
+	
+		<h3 class="pi-data-label pi-secondary-font">Patronus</h3>
+	
+	<div class="pi-data-value pi-font">None<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="house">
+	
+		<h3 class="pi-data-label pi-secondary-font">House</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Slytherin" title="Slytherin">Slytherin</a> (possibly)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Tom_Riddle" title="Tom Riddle">Lord Voldemort</a>&lt;ref name="DHF1"/&gt;<sup id="cite_ref-DHF2_3-4" class="reference"><a href="#cite_note-DHF2-3">&#91;3&#93;</a></sup><ul><li><a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a>&lt;ref name="DHF1"/&gt;<sup id="cite_ref-DHF2_3-5" class="reference"><a href="#cite_note-DHF2-3">&#91;3&#93;</a></sup></li></ul></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+This <b><a href="/wiki/Dark_Wizard" title="Dark Wizard">Dark witch</a></b>&#160;was a <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eater</a>&#160;and a servant of <a href="/wiki/Tom_Riddle" title="Tom Riddle">Lord Voldemort</a>.<sup id="cite_ref-DHF1_2-4" class="reference"><a href="#cite_note-DHF1-2">&#91;2&#93;</a></sup><sup id="cite_ref-DHF2_3-6" class="reference"><a href="#cite_note-DHF2-3">&#91;3&#93;</a></sup> She was present at a <a href="/wiki/Meeting_at_Malfoy_Manor" title="Meeting at Malfoy Manor">meeting</a> in <a href="/wiki/Malfoy_Manor" title="Malfoy Manor">Malfoy Manor</a> in <a href="/wiki/1997" title="1997">1997</a>,<sup id="cite_ref-DHF1_2-5" class="reference"><a href="#cite_note-DHF1-2">&#91;2&#93;</a></sup> and also at the <a href="/wiki/Battle_of_Hogwarts" title="Battle of Hogwarts">Battle of Hogwarts</a> in <a href="/wiki/1998" title="1998">1998</a> where she fought along with her fellow Death Eaters.<sup id="cite_ref-DHF2_3-7" class="reference"><a href="#cite_note-DHF2-3">&#91;3&#93;</a></sup> This Death Eater appeared to be one of the older members of the ranks, given her physical appearance.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Meeting_at_Malfoy_Manor"><span class="tocnumber">1.1</span> <span class="toctext">Meeting at Malfoy Manor</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Battle_of_Hogwarts"><span class="tocnumber">1.2</span> <span class="toctext">Battle of Hogwarts</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Personality_and_traits"><span class="tocnumber">2</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Behind_the_scenes"><span class="tocnumber">3</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Appearances"><span class="tocnumber">4</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Notes_and_references"><span class="tocnumber">5</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Unidentified_female_Death_Eater_at_Malfoy_Manor_(II)?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Unidentified_female_Death_Eater_at_Malfoy_Manor_(II)?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Meeting_at_Malfoy_Manor"><a href="/wiki/Meeting_at_Malfoy_Manor" title="Meeting at Malfoy Manor">Meeting at Malfoy Manor</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Unidentified_female_Death_Eater_at_Malfoy_Manor_(II)?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Meeting at Malfoy Manor">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Unidentified_female_Death_Eater_at_Malfoy_Manor_(II)?action=edit&amp;section=2" title="Edit section: Meeting at Malfoy Manor"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>This Death Eater was present at the meeting at <a href="/wiki/Malfoy_Manor" title="Malfoy Manor">Malfoy Manor</a> in <a href="/wiki/July" title="July">July</a> <a href="/wiki/1997" title="1997">1997</a>, where she, along with all the other Death Eaters and Lord Voldemort himself, plotted and discussed important matters. She also witnessed the murder of the kidnapped <a href="/wiki/Charity_Burbage" title="Charity Burbage">Charity Burbage</a> by Lord Voldemort, where she appeared to be disturbed by <a href="/wiki/Nagini" title="Nagini">Nagini</a>'s slivering across the dining table to devour her corpse.<sup id="cite_ref-DHF1_2-6" class="reference"><a href="#cite_note-DHF1-2">&#91;2&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Battle_of_Hogwarts">Battle of Hogwarts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Unidentified_female_Death_Eater_at_Malfoy_Manor_(II)?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Battle of Hogwarts">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Unidentified_female_Death_Eater_at_Malfoy_Manor_(II)?action=edit&amp;section=3" title="Edit section: Battle of Hogwarts"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="thumb tright " style="width: 95px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/2/26/Female_Death_Eater_with_white_hair_DHF2.jpg/revision/latest?cb=20110707103809" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/2/26/Female_Death_Eater_with_white_hair_DHF2.jpg/revision/latest/scale-to-width-down/93?cb=20110707103809" decoding="async" width="93" height="282" class="thumbimage" data-image-name="Female Death Eater with white hair DHF2.jpg" data-image-key="Female_Death_Eater_with_white_hair_DHF2.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 		 		 			<p class="caption">The female Death Eater at the Battle of Hogwarts</p> 		 	</figcaption> </figure>
+<figure class="thumb tleft show-info-icon" style="width: 202px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/8/84/Whitehairandlucius.png/revision/latest?cb=20111116181808" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/8/84/Whitehairandlucius.png/revision/latest/scale-to-width-down/200?cb=20111116181808" decoding="async" width="200" height="83" class="thumbimage" data-image-name="Whitehairandlucius.png" data-image-key="Whitehairandlucius.png" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Whitehairandlucius.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">She is behind <a href="/wiki/Lucius_Malfoy" title="Lucius Malfoy">Lucius Malfoy</a>, about to Disapparate</p> 		 	</figcaption> </figure>
+<p>This Death Eater later participated in the <a href="/wiki/Battle_of_Hogwarts" title="Battle of Hogwarts">Battle of Hogwarts</a>. While in the <a href="/wiki/Forbidden_Forest" title="Forbidden Forest">Forbidden Forest</a>, she was seen holding <a href="/wiki/Rubeus_Hagrid" title="Rubeus Hagrid">Hagrid</a> down with ropes alongside several other <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a>. She witnessed the believed death of Harry Potter by the hand of Voldemort. When <a href="/wiki/Tom_Riddle" title="Tom Riddle">Voldemort</a> and the Death Eater have returned to <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts</a> via the viaduct, she was standing near the <a href="/wiki/Malfoy_family" title="Malfoy family">Malfoys</a>. Like some other Death Eaters she is seen <a href="/wiki/Apparition" title="Apparition">Disapparating</a> and fled the castle as <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> proved he was not in fact dead and the battle continued. It is unknown if she later survived after Voldemort's final defeat. But if she did, she was later imprisoned in <a href="/wiki/Azkaban" title="Azkaban">Azkaban</a> afterwards.<sup id="cite_ref-DHF2_3-8" class="reference"><a href="#cite_note-DHF2-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Unidentified_female_Death_Eater_at_Malfoy_Manor_(II)?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Personality and traits">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Unidentified_female_Death_Eater_at_Malfoy_Manor_(II)?action=edit&amp;section=4" title="Edit section: Personality and traits"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Judging by her decision to flee once she saw that <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> was alive, she seemed to be one of the less loyal and cowardly of the <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a>.<sup id="cite_ref-DHF2_3-9" class="reference"><a href="#cite_note-DHF2-3">&#91;3&#93;</a></sup> She was also shown to be rather frightened and unnerved when <a href="/wiki/Nagini" title="Nagini">Nagini</a> slithered across the table to devour the corpse of <a href="/wiki/Charity_Burbage" title="Charity Burbage">Charity Burbage</a>,<sup id="cite_ref-DHF1_2-7" class="reference"><a href="#cite_note-DHF1-2">&#91;2&#93;</a></sup> further showing her cowardice.
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Unidentified_female_Death_Eater_at_Malfoy_Manor_(II)?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Unidentified_female_Death_Eater_at_Malfoy_Manor_(II)?action=edit&amp;section=5" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>This Death Eater is portrayed by <a href="/wiki/Judith_Sharp" title="Judith Sharp">Judith Sharp</a>.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Unidentified_female_Death_Eater_at_Malfoy_Manor_(II)?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Unidentified_female_Death_Eater_at_Malfoy_Manor_(II)?action=edit&amp;section=6" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1" title="Harry Potter and the Deathly Hallows: Part 1">Harry Potter and the Deathly Hallows: Part 1</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_2" title="Harry Potter and the Deathly Hallows: Part 2">Harry Potter and the Deathly Hallows: Part 2</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Unidentified_female_Death_Eater_at_Malfoy_Manor_(II)?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Unidentified_female_Death_Eater_at_Malfoy_Manor_(II)?action=edit&amp;section=7" title="Edit section: Notes and references

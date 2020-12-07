@@ -1,0 +1,220 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-mom pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/d/d5/Harry-potter-deathly-hallows_dirk.jpg/revision/latest?cb=20180208040649" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/d/d5/Harry-potter-deathly-hallows_dirk.jpg/revision/latest/scale-to-width-down/326?cb=20180208040649" srcset="https://static.wikia.nocookie.net/harrypotter/images/d/d5/Harry-potter-deathly-hallows_dirk.jpg/revision/latest/scale-to-width-down/326?cb=20180208040649 1x, https://static.wikia.nocookie.net/harrypotter/images/d/d5/Harry-potter-deathly-hallows_dirk.jpg/revision/latest/scale-to-width-down/652?cb=20180208040649 2x" class="pi-image-thumbnail" alt="" width="270" height="397"
+		     data-image-key="Harry-potter-deathly-hallows_dirk.jpg" data-image-name="Harry-potter-deathly-hallows dirk.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Dirk Cresswell</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">between <a href="/wiki/1_September" title="1 September">1 September</a> <a href="/wiki/1960" title="1960">1960</a> and <a href="/wiki/31_August" title="31 August">31 August</a> <a href="/wiki/1961" title="1961">1961</a><sup id="cite_ref-birthyear_1-0" class="reference"><a href="#cite_note-birthyear-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/March" title="March">March</a>, <a href="/wiki/1998" title="1998">1998</a><sup id="cite_ref-DH22_2-0" class="reference"><a href="#cite_note-DH22-2">&#91;2&#93;</a></sup><br/><a href="/wiki/Great_Britain" title="Great Britain">Great Britain</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Muggle-born" title="Muggle-born">Muggle-born</a><sup id="cite_ref-HBP4_3-0" class="reference"><a href="#cite_note-HBP4-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="marital">
+	
+		<h3 class="pi-data-label pi-secondary-font">Marital status</h3>
+	
+	<div class="pi-data-value pi-font">Married<sup id="cite_ref-DH13_4-0" class="reference"><a href="#cite_note-DH13-4">&#91;4&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="nationality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Nationality</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Great_Britain" title="Great Britain">British</a> or <a href="/wiki/Ireland" title="Ireland">Irish</a><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-HBP4_3-1" class="reference"><a href="#cite_note-HBP4-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male<sup id="cite_ref-HBP4_3-2" class="reference"><a href="#cite_note-HBP4-3">&#91;3&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Dirk_Cresswell%27s_wife" title="Dirk Cresswell&#039;s wife">Mrs Cresswell</a> (wife)<sup id="cite_ref-DH13_4-1" class="reference"><a href="#cite_note-DH13-4">&#91;4&#93;</a></sup></li><li><a href="/wiki/Cresswell_brothers" title="Cresswell brothers">More than one son</a><sup id="cite_ref-DH13_4-2" class="reference"><a href="#cite_note-DH13-4">&#91;4&#93;</a></sup></li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Magical characteristics</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="patronus">
+	
+		<h3 class="pi-data-label pi-secondary-font">Patronus</h3>
+	
+	<div class="pi-data-value pi-font">Non-corporeal<sup id="cite_ref-LEGOY2_6-0" class="reference"><a href="#cite_note-LEGOY2-6">&#91;6&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font">Head of the <a href="/wiki/Goblin_Liaison_Office" title="Goblin Liaison Office">Goblin Liaison Office</a><sup id="cite_ref-HBP4_3-3" class="reference"><a href="#cite_note-HBP4-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">Ministry of Magic</a><sup id="cite_ref-HBP4_3-4" class="reference"><a href="#cite_note-HBP4-3">&#91;3&#93;</a></sup><ul><li><a href="/wiki/Goblin_Liaison_Office" title="Goblin Liaison Office">Goblin Liaison Office</a></li></ul></li><li><a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a><sup id="cite_ref-HBP4_3-5" class="reference"><a href="#cite_note-HBP4-3">&#91;3&#93;</a></sup><ul><li><a href="/wiki/Slug_Club" title="Slug Club">Slug Club</a><sup id="cite_ref-HBP4_3-6" class="reference"><a href="#cite_note-HBP4-3">&#91;3&#93;</a></sup></li></ul></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Deathly Hallows">"<i>Dirk Cresswell is ten times the wizard you are. And if he survives Azkaban, you'll have to answer to him, not to mention his wife, his sons, and his friends —</i>"</span></dd>
+<dd>&#8212;<a href="/wiki/Arthur_Weasley" title="Arthur Weasley">Arthur Weasley</a>'s high opinion of Dirk<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Dirk Cresswell</b> (c. <a href="/wiki/1961" title="1961">1961</a> – <a href="/wiki/March" title="March">March</a>, <a href="/wiki/1998" title="1998">1998</a>) was a <a href="/wiki/Muggle-born" title="Muggle-born">Muggle-born</a> <a href="/wiki/Wizardkind" title="Wizardkind">wizard.</a> In the mid-<a href="/wiki/1990s" title="1990s">1990s</a> he became Head of the <a href="/wiki/Goblin_Liaison_Office" title="Goblin Liaison Office">Goblin Liaison Office</a>, in the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">Ministry of Magic</a>.
+</p><p>Dirk attended <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a> in the <a href="/wiki/1970s" title="1970s">1970s</a>, becoming a favourite student of <a href="/wiki/Potions_Master" title="Potions Master">Potions Master</a> <a href="/wiki/Horace_Slughorn" title="Horace Slughorn">Horace Slughorn</a>. One of Dirk's most notable traits was his fluency in <a href="/wiki/Gobbledegook" title="Gobbledegook">Gobbledegook</a>. After graduating, he went to work at the Ministry and eventually became Head of the Goblin Liaison Office. Many of his colleagues considered him a great wizard. 
+</p><p>When the Ministry was taken over by <a href="/wiki/Tom_Riddle" title="Tom Riddle">Lord Voldemort</a>, Dirk attempted to use a forged family tree in order to claim wizarding heritage, but was discovered by <a href="/wiki/Albert_Runcorn" title="Albert Runcorn">Albert Runcorn</a>. He went on the run to avoid the <a href="/wiki/Muggle-Born_Registration_Commission" title="Muggle-Born Registration Commission">Muggle-Born Registration Commission</a>, but was eventually caught and murdered by <a href="/wiki/Snatchers" title="Snatchers">Snatchers</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_life_.281960s-1979.29"><span class="tocnumber">1.1</span> <span class="toctext">Early life <span>(1960s-1979)</span></span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Career_at_the_Ministry_of_Magic_.281979-1997.29"><span class="tocnumber">1.2</span> <span class="toctext">Career at the Ministry of Magic <span>(1979-1997)</span></span></a>
+<ul>
+<li class="toclevel-3 tocsection-4"><a href="#Muggle-Born_Registration_Commission"><span class="tocnumber">1.2.1</span> <span class="toctext">Muggle-Born Registration Commission</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-5"><a href="#On_the_run_.281997-1998.29"><span class="tocnumber">1.3</span> <span class="toctext">On the run <span>(1997-1998)</span></span></a>
+<ul>
+<li class="toclevel-3 tocsection-6"><a href="#Death"><span class="tocnumber">1.3.1</span> <span class="toctext">Death</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-7"><a href="#Post-mortem"><span class="tocnumber">1.4</span> <span class="toctext">Post-mortem</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Magical_abilities_and_skills"><span class="tocnumber">2</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Etymology"><span class="tocnumber">3</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Behind_the_scenes"><span class="tocnumber">4</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Appearances"><span class="tocnumber">5</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Notes_and_references"><span class="tocnumber">6</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Dirk_Cresswell?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Dirk_Cresswell?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="Early_life_(1960s-1979)"></span><span class="mw-headline" id="Early_life_.281960s-1979.29">Early life <span class="template-c">(1960s-1979)</span></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Dirk_Cresswell?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Early life (1960s-1979)">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Dirk_Cresswell?action=edit&amp;section=2" title="Edit section: Early life (1960s-1979)"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Half-Blood Prince">"<i>And there was Dirk Cresswell in the year after <a href="/wiki/Lily_J._Potter" title="Lily J. Potter">Lily Evans</a>, too — now Head of the Goblin Liaison Office, of course — another Muggle-born, a very gifted student, and still gives me excellent inside information on the goings-on at Gringotts!</i>"</span></dd>
+<dd>&#8212;<a href="/wiki/Horace_Slughorn" title="Horace Slughorn">Horace Slughorn</a> tells Harry Potter about Cresswell's student years<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p>Dirk Cresswell was born sometime between September, 1960 and September, 1961, somewhere in the British Isles, into the <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> <a href="/wiki/Cresswell_family" title="Cresswell family">Cresswell family</a>. He showed <a href="/wiki/Wizardkind" title="Wizardkind">magical abilities</a> and, at the age of eleven, was invited to enrol at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts School of Witchcraft and Wizardry</a>, which he did, having been Sorted on 1 September, 1972.<sup id="cite_ref-birthyear_1-1" class="reference"><a href="#cite_note-birthyear-1">&#91;1&#93;</a></sup>
+</p><p>Professor Horace Slughorn was his <a href="/wiki/Potions_(class)" title="Potions (class)">Potions</a> Professor, and he considered Cresswell to be an exceptional student, inviting him to join the <a href="/wiki/Slug_Club" title="Slug Club">Slug Club</a>.<sup id="cite_ref-HBP4_3-7" class="reference"><a href="#cite_note-HBP4-3">&#91;3&#93;</a></sup>
+</p>
+<h3><span id="Career_at_the_Ministry_of_Magic_(1979-1997)"></span><span class="mw-headline" id="Career_at_the_Ministry_of_Magic_.281979-1997.29">Career at the Ministry of Magic <span class="template-c">(1979-1997)</span></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Dirk_Cresswell?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Career at the Ministry of Magic (1979-1997)">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Dirk_Cresswell?action=edit&amp;section=3" title="Edit section: Career at the Ministry of Magic (1979-1997)"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Sometime after graduating from Hogwarts School of Witchcraft and Wizardry in 1979, Cresswell joined the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">Ministry of Magic</a>. He eventually rose to the post of Head of the <a href="/wiki/Goblin_Liaison_Office" title="Goblin Liaison Office">Goblin Liaison Office</a>, succeeding <a href="/wiki/Cuthbert_Mockridge" title="Cuthbert Mockridge">Cuthbert Mockridge</a><sup id="cite_ref-GF7_7-0" class="reference"><a href="#cite_note-GF7-7">&#91;7&#93;</a></sup> in either 1994, 1995, or 1996.
+</p><p>He remained in contact with <a href="/wiki/Horace_Slughorn" title="Horace Slughorn">Professor Slughorn</a> and passed on news about internal affairs at <a href="/wiki/Gringotts_Wizarding_Bank" title="Gringotts Wizarding Bank">Gringotts Wizarding Bank</a> to him, something of which Slughorn was glad of. <a href="/wiki/Albus_Dumbledore" title="Albus Dumbledore">Albus Dumbledore</a> also suggested that Slughorn's friendliness with Cresswell resulted in Cresswell requesting him to make suggestions for possible junior members within the Goblin Liaison Office.<sup id="cite_ref-HBP4_3-8" class="reference"><a href="#cite_note-HBP4-3">&#91;3&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="Muggle-Born_Registration_Commission">Muggle-Born Registration Commission</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Dirk_Cresswell?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Muggle-Born Registration Commission">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Dirk_Cresswell?action=edit&amp;section=4" title="Edit section: Muggle-Born Registration Commission"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Deathly Hallows: Part 1">"<i>As your new Minister for Magic, I promise to restore this temple of tolerance to its former glory. Therefore, beginning today, each employee will submit themselves… for evaluation. But know this: you have nothing to fear if you have nothing to hide.</i>"</span></dd>
+<dd>&#8212;<a href="/wiki/Pius_Thicknesse" title="Pius Thicknesse">Pius Thicknesse</a> delivers his speech to Ministry employees<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1" title="Harry Potter and the Deathly Hallows: Part 1">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p>During the height of the Second Wizarding War, on 1 August, 1997, the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">Ministry of Magic</a> was taken over by <a href="/wiki/Tom_Riddle" title="Tom Riddle">Lord Voldemort</a>. Shortly after, it began persecuting <a href="/wiki/Muggle-born" title="Muggle-born">Muggle-born</a> wizards and witches, beginning with the formation of the <a href="/wiki/Muggle-Born_Registration_Commission" title="Muggle-Born Registration Commission">Muggle-Born Registration Commission</a> and the Snatchers organisations, in accordance with the <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eater</a> ideology. Muggle-borns were accused of having stolen <a href="/wiki/Magic" title="Magic">magic</a> and sentenced to <a href="/wiki/Azkaban" title="Azkaban">Azkaban</a> for it.<sup id="cite_ref-DH11_8-0" class="reference"><a href="#cite_note-DH11-8">&#91;8&#93;</a></sup><sup id="cite_ref-DH13_4-3" class="reference"><a href="#cite_note-DH13-4">&#91;4&#93;</a></sup>
+</p>
+<figure class="thumb tleft show-info-icon" style="width: 242px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/c/c9/SnatchersMinistry.jpg/revision/latest?cb=20100922192726" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/c/c9/SnatchersMinistry.jpg/revision/latest/scale-to-width-down/240?cb=20100922192726" decoding="async" width="240" height="143" class="thumbimage" data-image-name="SnatchersMinistry.jpg" data-image-key="SnatchersMinistry.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:SnatchersMinistry.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption"><a href="/wiki/Snatchers" title="Snatchers">Snatchers</a> drag a battered Dirk Cresswell across the Ministry Atrium</p> 		 	</figcaption> </figure>
+<p>Cresswell arranged with a wizard to forge a false family tree so that the Ministry would believe that he was of a different <a href="/wiki/Blood_status" title="Blood status">blood status</a>. However, <a href="/wiki/Albert_Runcorn" title="Albert Runcorn">Albert Runcorn</a>, a powerful Ministry official and supporter of the Death Eater regime, tracked the wizard who faked his family tree and Cresswell was arrested.<sup id="cite_ref-DH12_9-0" class="reference"><a href="#cite_note-DH12-9">&#91;9&#93;</a></sup><sup id="cite_ref-DH13_4-4" class="reference"><a href="#cite_note-DH13-4">&#91;4&#93;</a></sup> While Death Eater-controlled and newly instated <a href="/wiki/Minister_for_Magic" title="Minister for Magic">Minister</a> Pius Thicknesse, alongside <a href="/wiki/Dolores_Umbridge" title="Dolores Umbridge">Dolores Umbridge</a>, <a href="/wiki/Corban_Yaxley" title="Corban Yaxley">Yaxley</a>, and Albert Runcorn, delivered a speech to the Ministry employees about the changes in Ministry policy, Snatchers arrived and dragged a battered and bruised Dirk Cresswell across the Atrium.<sup id="cite_ref-DHpt1_10-0" class="reference"><a href="#cite_note-DHpt1-10">&#91;10&#93;</a></sup>
+</p><p>Auror John Dawlish was charged with transporting Cresswell to Azkaban fortress in the North Sea, via <a href="/wiki/Broomstick" title="Broomstick">broomstick</a>. Halfway to the prison, Dirk managed to <a href="/wiki/Stunning_Spell" title="Stunning Spell">stun</a> Dawlish, whom he believed to be under the effects of the <a href="/wiki/Confundus_Charm" title="Confundus Charm">Confundus Charm</a>, and stole the <a href="/wiki/Auror" title="Auror">Auror</a>'s <a href="/wiki/John_Dawlish%27s_broomstick" title="John Dawlish&#39;s broomstick">broomstick</a>, using it to escape.<sup id="cite_ref-DH15_11-0" class="reference"><a href="#cite_note-DH15-11">&#91;11&#93;</a></sup>
+</p>
+<h3><span id="On_the_run_(1997-1998)"></span><span class="mw-headline" id="On_the_run_.281997-1998.29">On the run <span class="template-c">(1997-1998)</span></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Dirk_Cresswell?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: On the run (1997-1998)">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Dirk_Cresswell?action=edit&amp;section=5" title="Edit section: On the run (1997-1998)"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Deathly Hallows"><b>Dean Thomas</b>: "<i>I know Harry Potter. And I reckon he's the real thing — the Chosen One, or whatever you want to call it.</i>"</span></dd>
+<dd><b>Dirk</b>: "<i>Yeah, there's a lot would like to believe he's that, son, me included. But where is he? Run for it, by the looks of things. You'd think if he knew anything we don't, or had anything special going for him, he'd be out there now fighting, rallying resistance, instead of hiding. And you know, the </i>Prophet<i> made a pretty good case against him —</i>"</dd>
+<dd>&#8212; A conversation while on the run from Snatchers<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">[src]</a></sup></dd></dl>
+</div> 
+<figure class="thumb tright show-info-icon" style="width: 243px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/5/51/Dean_griphook_3.jpg/revision/latest?cb=20170914212633" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/5/51/Dean_griphook_3.jpg/revision/latest/scale-to-width-down/241?cb=20170914212633" decoding="async" width="241" height="136" class="thumbimage" data-image-name="Dean griphook 3.jpg" data-image-key="Dean_griphook_3.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Dean_griphook_3.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Dirk's fugitive mates, Dean Thomas and Griphook</p> 		 	</figcaption> </figure>
+<p>Dirk then went on the run, eventually meeting up with fellow fugitives <a href="/wiki/Edward_Tonks" title="Edward Tonks">Ted Tonks</a> and <a href="/wiki/Dean_Thomas" title="Dean Thomas">Dean Thomas</a>, as well as goblins <a href="/wiki/Griphook" title="Griphook">Griphook</a> and <a href="/wiki/Gornuk" title="Gornuk">Gornuk</a>. The group proceeded to stay on the move along the countryside.<sup id="cite_ref-DH15_11-1" class="reference"><a href="#cite_note-DH15-11">&#91;11&#93;</a></sup>
+</p><p>One night, in the autumn of 1997, they set camp on a riverbank in <a href="/wiki/Wales" title="Wales">Wales</a>, where they could summon some salmon to eat. Unbeknownst to any of them, <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a>, <a href="/wiki/Ronald_Weasley" title="Ronald Weasley">Ronald Weasley</a>, and <a href="/wiki/Hermione_Granger" title="Hermione Granger">Hermione Granger</a> were sitting in a tent concealed from sight by a number of protective enchantments. The group started talking. Dirk told them of his escape. The subject of conversation turned into war and <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a>. Dirk told the group he had doubts <a href="/wiki/Severus_Snape" title="Severus Snape">Severus Snape</a> had really killed <a href="/wiki/Albus_Dumbledore" title="Albus Dumbledore">Albus Dumbledore</a>, as the <i><a href="/wiki/Daily_Prophet" title="Daily Prophet">Daily Prophet</a></i>, which he had been reading, made such a strong case against Harry. Tonks told Cresswell to start reading <i><a href="/wiki/The_Quibbler" title="The Quibbler">The Quibbler</a></i>, an independent publication not under the control of the Ministry, to know the facts. Cresswell exploded into laughter, swallowing a fish bone and expressing scorn at what he called "<i>that lunatic rag of <a href="/wiki/Xenophilius_Lovegood" title="Xenophilius Lovegood">Xeno Lovegood</a>'s</i>". They told Cresswell <i>The Quibbler</i> was not so lunatic any more, and Dean voiced his trust in Harry.<sup id="cite_ref-DH15_11-2" class="reference"><a href="#cite_note-DH15-11">&#91;11&#93;</a></sup>
+</p><p>The conversation soon enough turned into a discussion of whether they should sleep there or back up a wooded slope whence they came. Deciding the trees would give better cover, they extinguished their fire and clambered back up the incline.<sup id="cite_ref-DH15_11-3" class="reference"><a href="#cite_note-DH15-11">&#91;11&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="Death">Death</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Dirk_Cresswell?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Death">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Dirk_Cresswell?action=edit&amp;section=6" title="Edit section: Death"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Deathly Hallows">"<i>But before we hear from <a href="/wiki/Kingsley_Shacklebolt" title="Kingsley Shacklebolt">Royal</a> and <a href="/wiki/Remus_Lupin" title="Remus Lupin">Romulus</a> let's take a moment to report those deaths that the </i>Wizarding Wireless Network News<i> and </i>Daily Prophet<i> don't think important enough to mention. It is with great regret that we inform our listeners of the murders of Ted Tonks and Dirk Cresswell.</i>"</span></dd>
+<dd>&#8212;<a href="/wiki/Lee_Jordan" title="Lee Jordan">Lee Jordan</a> announces Cresswell's murder in <i>Potterwatch</i><sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p>Eventually, the group was caught by a gang of Snatchers and Cresswell, Ted Tonks, and Gornuk were murdered while resisting capture. Griphook and Dean Thomas managed to escape relatively unscathed.<sup id="cite_ref-DH22_2-1" class="reference"><a href="#cite_note-DH22-2">&#91;2&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Post-mortem">Post-mortem</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Dirk_Cresswell?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Post-mortem">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Dirk_Cresswell?action=edit&amp;section=7" title="Edit section: Post-mortem"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The death of Dirk Cresswell and his comrades was omitted from the <i>Daily Prophet</i> and the <i><a href="/wiki/Wizarding_Wireless_Network_News" title="Wizarding Wireless Network News">Wizarding Wireless Network News</a></i>, which were under the control of the Death Eater regime and ceased reporting deaths caused by Voldemort's regime. It was, however, announced in a <a href="/wiki/March" title="March">March</a>, <a href="/wiki/1998" title="1998">1998</a>, broadcast of <i><a href="/wiki/Potterwatch" title="Potterwatch">Potterwatch</a></i>.<sup id="cite_ref-DH22_2-2" class="reference"><a href="#cite_note-DH22-2">&#91;2&#93;</a></sup> Dirk left behind a <a href="/wiki/Dirk_Cresswell%27s_wife" title="Dirk Cresswell&#39;s wife">wife</a> and at least <a href="/wiki/Cresswell_brothers" title="Cresswell brothers">two sons</a>.<sup id="cite_ref-DH13_4-5" class="reference"><a href="#cite_note-DH13-4">&#91;4&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Dirk_Cresswell?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Dirk_Cresswell?action=edit&amp;section=8" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Many considered Dirk a great <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> (such as <a href="/wiki/Arthur_Weasley" title="Arthur Weasley">Arthur Weasley</a> and <a href="/wiki/Horace_Slughorn" title="Horace Slughorn">Horace Slughorn</a>),<sup id="cite_ref-HBP4_3-9" class="reference"><a href="#cite_note-HBP4-3">&#91;3&#93;</a></sup><sup id="cite_ref-DH13_4-6" class="reference"><a href="#cite_note-DH13-4">&#91;4&#93;</a></sup> which suggests that he was very gifted in <a href="/wiki/Magic" title="Magic">magic</a>.
+</p>
+<ul><li><b><a href="/wiki/Potion" title="Potion">Potions</a></b>: The <a href="/wiki/Potions_Master" title="Potions Master">Potions Master</a> <a href="/wiki/Horace_Slughorn" title="Horace Slughorn">Horace Slughorn</a> considered Dirk to be one of his "all-time favourite students" whilst he was a student at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts</a>, meaning he must have been proficient in the <a href="/wiki/Potions_(class)" title="Potions (class)">subject</a> of potion making.<sup id="cite_ref-HBP4_3-10" class="reference"><a href="#cite_note-HBP4-3">&#91;3&#93;</a></sup></li>
+<li><b><a href="/wiki/Flight" title="Flight">Flying</a></b>: Dirk was a competent <a href="/wiki/Broomstick" title="Broomstick">broomstick</a> flyer, as he was successfully able to use <a href="/wiki/John_Dawlish" title="John Dawlish">John Dawlish</a>'s <a href="/wiki/John_Dawlish%27s_broomstick" title="John Dawlish&#39;s broomstick">broomstick</a> to escape from capture via flight.<sup id="cite_ref-DH15_11-4" class="reference"><a href="#cite_note-DH15-11">&#91;11&#93;</a></sup></li>
+<li><b><a href="/wiki/Charm" title="Charm">Charms</a></b>: Dirk was capable of conjuring a non-corporeal <a href="/wiki/Patronus_Charm" title="Patronus Charm">Patronus</a>,<sup id="cite_ref-LEGOY2_6-1" class="reference"><a href="#cite_note-LEGOY2-6">&#91;6&#93;</a></sup> an incredibly advanced and impressive piece of <a href="/wiki/Magic" title="Magic">magic</a> and evidence of superior magical skill. He was able to successfully subdue <a href="/wiki/John_Dawlish" title="John Dawlish">John Dawlish</a> with the <a href="/wiki/Stunning_Spell" title="Stunning Spell">Stunning Spell</a>, allowing him to escape capture.<sup id="cite_ref-DH15_11-5" class="reference"><a href="#cite_note-DH15-11">&#91;11&#93;</a></sup></li>
+<li><b>Multilingualism</b>: Dirk was fluent in <a href="/wiki/Gobbledegook" title="Gobbledegook">Gobbledegook</a>, the language of <a href="/wiki/Goblin" title="Goblin">Goblins</a>, a notable talent which allowed him to become head of the <a href="/wiki/Goblin_Liaison_Office" title="Goblin Liaison Office">Goblin Liaison Office</a> at the <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">British Ministry of Magic</a>. He was able to instantly understand <a href="/wiki/Griphook" title="Griphook">Griphooks</a> use of the language whilst in hiding with him.<sup id="cite_ref-DH15_11-6" class="reference"><a href="#cite_note-DH15-11">&#91;11&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Dirk_Cresswell?veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Dirk_Cresswell?action=edit&amp;section=9" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The name "Dirk" is the short form of <i>Diederik</i>. The name was popularised in the English-speaking world by actor Dirk Bogarde (1921-1999), who had some Dutch ancestry. This is also the Scots word for a type of dagger.
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Dirk_Cresswell?veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Dirk_Cresswell?action=edit&amp;section=10" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Dirk Cresswell was played by <a href="/wiki/Ricky_Wilson" title="Ricky Wilson">Ricky Wilson</a>, lead singer of the <a href="http://en.wikipedia.org/wiki/Kaiser_Chiefs" class="extiw" title="wikipedia:Kaiser Chiefs">Kaiser Chiefs</a>. His role was uncredited, and he was never identified in the film, but the character of Dirk Cresswell took on his appearance in <i><a href="/wiki/LEGO_Harry_Potter:_Years_5-7" title="LEGO Harry Potter: Years 5-7">LEGO Harry Potter: Years 5-7</a></i>.</li>
+<li>Like <a href="/wiki/Edward_Tonks" title="Edward Tonks">Ted Tonks</a> and <a href="/wiki/Gornuk" title="Gornuk">Gornuk</a>, Dirk Cresswell's on the run part was cut from the film adaptation of <i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1" title="Harry Potter and the Deathly Hallows: Part 1">Harry Potter and the Deathly Hallows</a></i>, although all three are briefly mentioned on radio to have been killed.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Dirk_Cresswell?veaction=edit&amp;section=11" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Dirk_Cresswell?action=edit&amp;section=11" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 5 images related to <i><b><a href="/wiki/Category:Images_of_Dirk_Cresswell" title="Category:Images of Dirk Cresswell">Dirk Cresswell</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<figure class="thumb tright show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/2/20/Dirk_Cresswell.png/revision/latest?cb=20190430181403" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="180" height="276" class="thumbimage lazyload" data-image-name="Dirk Cresswell.png" data-image-key="Dirk_Cresswell.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/2/20/Dirk_Cresswell.png/revision/latest/scale-to-width-down/180?cb=20190430181403" /></a> 	<noscript><a href="https://static.wikia.nocookie.net/harrypotter/images/2/20/Dirk_Cresswell.png/revision/latest?cb=20190430181403" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/2/20/Dirk_Cresswell.png/revision/latest/scale-to-width-down/180?cb=20190430181403" decoding="async" width="180" height="276" class="thumbimage" data-image-name="Dirk Cresswell.png" data-image-key="Dirk_Cresswell.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/2/20/Dirk_Cresswell.png/revision/latest/scale-to-width-down/180?cb=20190430181403" /></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Dirk_Cresswell.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Dirk Cresswell in <i><a href="/wiki/LEGO_Harry_Potter:_Years_5-7" title="LEGO Harry Potter: Years 5-7">LEGO Harry Potter: Years 5-7</a></i></p> 		 	</figcaption> </figure>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">Harry Potter and the Half-Blood Prince</a></i> <small>(First mentioned)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">Harry Potter and the Deathly Hallows</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1" title="Harry Potter and the Deathly Hallows: Part 1">Harry Potter and the Deathly Hallows: Part 1</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1_(video_game)" title="Harry Potter and the Deathly Hallows: Part 1 (video game)">Harry Potter and the Deathly Hallows: Part 1 (video game)</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Wizarding_World_(website)" title="Wizarding World (website)">Wizarding World</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter:_Years_5-7" title="LEGO Harry Potter: Years 5-7">LEGO Harry Potter: Years 5-7</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Dirk_Cresswell?veaction=edit&amp;section=12" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Dirk_Cresswell?action=edit&amp;section=12" title="Edit section: Notes and references

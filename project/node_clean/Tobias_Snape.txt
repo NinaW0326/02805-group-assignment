@@ -1,0 +1,134 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-muggle pi-layout-default"><section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Tobias Snape</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+	
+		<h3 class="pi-data-label pi-secondary-font">Blood status</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a><sup id="cite_ref-blood_1-0" class="reference"><a href="#cite_note-blood-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="marital">
+	
+		<h3 class="pi-data-label pi-secondary-font">Marital status</h3>
+	
+	<div class="pi-data-value pi-font">Married<sup id="cite_ref-HP30_2-0" class="reference"><a href="#cite_note-HP30-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font">Human<sup id="cite_ref-DH33_3-0" class="reference"><a href="#cite_note-DH33-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male<sup id="cite_ref-DH33_3-1" class="reference"><a href="#cite_note-DH33-3">&#91;3&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White<sup id="cite_ref-OP26_4-0" class="reference"><a href="#cite_note-OP26-4">&#91;4&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Relationship information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="family">
+	
+		<h3 class="pi-data-label pi-secondary-font">Family members</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Eileen_Prince" title="Eileen Prince">Eileen Prince</a> (wife)</li><li><a href="/wiki/Severus_Snape" title="Severus Snape">Severus Snape</a> (son) †</li></ul></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Snape_family" title="Snape family">Snape family</a></li><li><a href="/wiki/Prince_family" title="Prince family">Prince family</a></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Deathly Hallows"><b>Lily Evans</b>: "<i>Doesn’t your dad like magic?</i>"</span></dd>
+<dd><b>Severus Snape</b>: "<i>He doesn’t like anything, much.</i>"</dd>
+<dd>&#8212; <a href="/wiki/Severus_Snape" title="Severus Snape">Severus</a> discusses his father with <a href="/wiki/Lily_J._Potter" title="Lily J. Potter">Lily Evans</a>.<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">[src]</a></sup></dd></dl>
+</div>
+<p><b>Tobias Snape</b> was a <a href="/wiki/Great_Britain" title="Great Britain">British</a> <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a><sup id="cite_ref-blood_1-1" class="reference"><a href="#cite_note-blood-1">&#91;1&#93;</a></sup> and the patriarch of the <a href="/wiki/Snape_family" title="Snape family">Snape family</a> in the late twentieth century.<sup id="cite_ref-DH33_3-2" class="reference"><a href="#cite_note-DH33-3">&#91;3&#93;</a></sup> He was the husband of the <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> <a href="/wiki/Eileen_Prince" title="Eileen Prince">Eileen Snape</a> (nèe <a href="/wiki/Prince_family" title="Prince family">Prince</a>) and the father of <a href="/wiki/Severus_Snape" title="Severus Snape">Severus Snape</a><sup id="cite_ref-DH33_3-3" class="reference"><a href="#cite_note-DH33-3">&#91;3&#93;</a></sup>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_life"><span class="tocnumber">1.1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Marriage"><span class="tocnumber">1.2</span> <span class="toctext">Marriage</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Personality_and_traits"><span class="tocnumber">2</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Relationships"><span class="tocnumber">3</span> <span class="toctext">Relationships</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Family"><span class="tocnumber">3.1</span> <span class="toctext">Family</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Etymology"><span class="tocnumber">4</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Behind_the_scenes"><span class="tocnumber">5</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Appearances"><span class="tocnumber">6</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Notes_and_references"><span class="tocnumber">7</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Tobias_Snape?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Tobias_Snape?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Tobias_Snape?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Early life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Tobias_Snape?action=edit&amp;section=2" title="Edit section: Early life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Tobias was born sometime in the early <a href="/wiki/20th_century" title="20th century">twentieth century</a>, into the <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> <a href="/wiki/Snape_family" title="Snape family">Snape family</a>.<sup id="cite_ref-HP30_2-1" class="reference"><a href="#cite_note-HP30-2">&#91;2&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Marriage">Marriage</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Tobias_Snape?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Marriage">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Tobias_Snape?action=edit&amp;section=3" title="Edit section: Marriage"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>He married the <a href="/wiki/Pure-blood" title="Pure-blood">pure-blood</a> <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> <a href="/wiki/Eileen_Prince" title="Eileen Prince">Eileen Prince</a><sup id="cite_ref-HP30_2-2" class="reference"><a href="#cite_note-HP30-2">&#91;2&#93;</a></sup>. He abused her mentally and emotionally, as <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> saw in Severus Snape's memories during an Occlumency lesson.<sup id="cite_ref-OP26_4-1" class="reference"><a href="#cite_note-OP26-4">&#91;4&#93;</a></sup> It could be surmised that he was physically abusive as well. Why they began a relationship and got married is currently unknown. Eileen may not have told him about the wizard world before their wedding.
+</p><p>It is possible that the marriage caused Eileen to be disowned by the Prince family, similar to <a href="/wiki/Andromeda_Tonks" title="Andromeda Tonks">Andromeda Tonks née Black</a>, who was disowned by her parents and sisters after she married <a href="/wiki/Ted_Tonks" class="mw-redirect" title="Ted Tonks">a Muggle-born man</a>, and <a href="/wiki/Merope_Riddle" title="Merope Riddle">Merope Riddle née Gaunt</a>, who was disowned by her <a href="/wiki/Marvolo_Gaunt" title="Marvolo Gaunt">father</a> and <a href="/wiki/Morfin_Gaunt" title="Morfin Gaunt">brother</a> after she mentally enslaved <a href="/wiki/Tom_Riddle_Senior" title="Tom Riddle Senior">a Muggle squire</a> into marrying her.
+</p><p>The couple lived at <a href="/wiki/Spinner%27s_End" title="Spinner&#39;s End">Spinner's End</a>, a working-class neighbourhood in <a href="/wiki/Cokeworth" title="Cokeworth">Cokeworth</a>, <a href="/wiki/England" title="England">England</a>.<sup id="cite_ref-DH33_3-4" class="reference"><a href="#cite_note-DH33-3">&#91;3&#93;</a></sup>
+</p>
+<figure class="thumb tleft show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/3/37/Young_Snape_DH2.jpg/revision/latest?cb=20111108155845" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/3/37/Young_Snape_DH2.jpg/revision/latest/scale-to-width-down/180?cb=20111108155845" decoding="async" width="180" height="213" class="thumbimage" data-image-name="Young Snape DH2.jpg" data-image-key="Young_Snape_DH2.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Young_Snape_DH2.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Tobias' son, Severus</p> 		 	</figcaption> </figure>
+<p>On <a href="/wiki/9_January" title="9 January">9 January</a>, <a href="/wiki/1960" title="1960">1960</a>, Eileen gave birth to their son.<sup id="cite_ref-DH33_3-5" class="reference"><a href="#cite_note-DH33-3">&#91;3&#93;</a></sup> <a href="/wiki/Severus_Snape" title="Severus Snape">Severus</a> noted during a conversation with his friend, <a href="/wiki/Lily_J._Potter" title="Lily J. Potter">Lily Evans</a>, that his parents fought often.<sup id="cite_ref-DH33_3-6" class="reference"><a href="#cite_note-DH33-3">&#91;3&#93;</a></sup> They apparently neglected him during his childhood, or were poor, or both. His clothes were mismatched and did not fit properly. When he began his first year of school at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts</a>, he changed into his uniform quickly after getting onto the <a href="/wiki/Hogwarts_Express" title="Hogwarts Express">Hogwarts Express</a>, apparently glad to be rid of his Muggle clothes.
+</p><p>By <a href="/wiki/September" title="September">September</a> <a href="/wiki/1981" title="1981">1981</a>, when Severus became the <a href="/wiki/Potions_(class)" title="Potions (class)">Potions master</a> and a <a href="/wiki/Head_of_House" title="Head of House">Head of House</a> at the school, Tobias and Eileen no longer resided in the house. As Severus was only twenty-one years old, it is likely that they were still alive but moved away, either together or separately.
+</p>
+<h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Tobias_Snape?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Personality and traits">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Tobias_Snape?action=edit&amp;section=4" title="Edit section: Personality and traits"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>According to young Severus, Tobias was not fond of very much of anything, including magic.<sup id="cite_ref-DH33_3-7" class="reference"><a href="#cite_note-DH33-3">&#91;3&#93;</a></sup> Even so, his son was a talented young wizard before even receiving <a href="/wiki/Hogwarts_acceptance_letter" title="Hogwarts acceptance letter">the Hogwarts letter</a>. In 1995, <a href="/wiki/Sirius_Black" title="Sirius Black">Sirius Black</a> mentioned that Severus knew more <a href="/wiki/Curses" class="mw-redirect" title="Curses">curses</a> when he arrived at school than many of the seventh-year students did. Tobias might not have tried to ban magic from the home, or Eileen and Severus might have used it whenever he was not around.
+</p>
+<h2><span class="mw-headline" id="Relationships">Relationships</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Tobias_Snape?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Relationships">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Tobias_Snape?action=edit&amp;section=5" title="Edit section: Relationships"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Family">Family</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Tobias_Snape?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Family">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Tobias_Snape?action=edit&amp;section=6" title="Edit section: Family"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Tobias had a very poor relationship with both his wife and his son. When Severus was younger, Tobias frequently shouted at Eileen, and possibly hit her, whilst their son crouched in a corner, crying.<sup id="cite_ref-OP26_4-2" class="reference"><a href="#cite_note-OP26-4">&#91;4&#93;</a></sup> The unhappy memories of the Snape home would haunt Severus into adulthood.
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Tobias_Snape?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Tobias_Snape?action=edit&amp;section=7" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i><a href="http://en.wikipedia.org/wiki/Tobias" class="extiw" title="wikipedia:Tobias">Tobias</a></i> is the Greek form of the Hebrew name <i>Tobiah</i> from the biblical books of <i>Ezra</i> and <i>Nehemiah</i>, meaning "God is good" - which is a big irony, given Tobias's nasty demeanour towards everything in life. In the apocryphal Book of Tobit in the Old Testament, Tobias is assisted by the archangel in driving a demon away from Sarah, who subsequently became his wife.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p><p><a href="/wiki/J._K._Rowling" title="J. K. Rowling">J. K. Rowling</a> has stated that "Snape" is the name of a place in <a href="/wiki/England" title="England">England</a><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>. It also is an English verb meaning "<i>to be hard upon, rebuke or snub</i>", derived from the Old Norse "<i>sneypa</i>", meaning "<i>to outrage, dishonour, disgrace</i>".<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Tobias_Snape?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Tobias_Snape?action=edit&amp;section=8" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>His treatment towards his son and wife caused the former to despise Muggles in general, given his contempt towards Petunia. He also may not have had stable employment.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Tobias_Snape?veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Tobias_Snape?action=edit&amp;section=9" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">Harry Potter and the Order of the Phoenix</a></i> <small>(First appearance)</small> <small>(Appears in flashback(s))</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Half-Blood_Prince" title="Harry Potter and the Half-Blood Prince">Harry Potter and the Half-Blood Prince</a></i> <small>(First identified as Tobias Snape)</small> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">Harry Potter and the Deathly Hallows</a></i> <small>(Mentioned only)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Tobias_Snape?veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Tobias_Snape?action=edit&amp;section=10" title="Edit section: Notes and references

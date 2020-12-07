@@ -1,0 +1,65 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-object pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/2/23/Sweeper.png/revision/latest?cb=20190209232605" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/2/23/Sweeper.png/revision/latest/scale-to-width-down/350?cb=20190209232605" srcset="https://static.wikia.nocookie.net/harrypotter/images/2/23/Sweeper.png/revision/latest/scale-to-width-down/350?cb=20190209232605 1x, https://static.wikia.nocookie.net/harrypotter/images/2/23/Sweeper.png/revision/latest/scale-to-width-down/700?cb=20190209232605 2x" class="pi-image-thumbnail" alt="" width="270" height="353"
+		     data-image-key="Sweeper.png" data-image-name="Sweeper.png"/>
+		
+	</a>
+	
+</figure>
+
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Sweeper</h2>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Object information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="location">
+	
+		<h3 class="pi-data-label pi-secondary-font">Location</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/London" title="London">London</a><sup id="cite_ref-COG_1-0" class="reference"><a href="#cite_note-COG-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="usage">
+	
+		<h3 class="pi-data-label pi-secondary-font">Usage</h3>
+	
+	<div class="pi-data-value pi-font">Cleaning<sup id="cite_ref-COG_1-1" class="reference"><a href="#cite_note-COG-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="owners">
+	
+		<h3 class="pi-data-label pi-secondary-font">Owners</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">British Ministry of Magic</a><sup id="cite_ref-COG_1-2" class="reference"><a href="#cite_note-COG-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Object_infobox" title="Template:Object infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p><p><b>Sweepers</b> consisted&#160;of a metal body with a large bag attached to the back and a hoover head at the front, as well as several limbs ending in a variety of brushes and dusters. Sweepers moved&#160;autonomously on two wheels and could&#160;lift their arms from the ground to clean raised surfaces or people. They bore a heavy resemblance to non-magical <a href="/wiki/Vacuum_cleaner" title="Vacuum cleaner">vacuum cleaners</a>.
+</p><p>The <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">British Ministry of Magic</a> used at least one sweeper to keep the floors of their <a href="/wiki/British_Ministry_of_Magic_Headquarters" title="British Ministry of Magic Headquarters">headquarters</a> in <a href="/wiki/London" title="London">London</a> clean.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Behind_the_scenes"><span class="tocnumber">2</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Appearances"><span class="tocnumber">3</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Notes_and_references"><span class="tocnumber">4</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Sweeper?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: History">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Sweeper?action=edit&amp;section=1" title="Edit section: History"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In <a href="/wiki/1927" title="1927">1927</a>, a sweeper interrupted a conversation between <a href="/wiki/Newton_Scamander" title="Newton Scamander">Newton Scamander</a> and <a href="/wiki/Leta_Lestrange" title="Leta Lestrange">Leta Lestrange</a> in one of the ministry's corridors, and the pair had to move apart to allow the sweeper to trundle between them, brushing Scamander's lower coat with one of its arms as it passed.<sup id="cite_ref-COG_1-3" class="reference"><a href="#cite_note-COG-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Sweeper?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Sweeper?action=edit&amp;section=2" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>The sweeper was originally designed by <a class="new" title="Adam Brockbank (page does not exist)" rel="nofollow" data-uncrawlable-url="L3dpa2kvQWRhbV9Ccm9ja2Jhbms/YWN0aW9uPWVkaXQmcmVkbGluaz0x">Adam Brockbank</a> for use in one of the <a href="/wiki/Harry_Potter_(film_series)" title="Harry Potter (film series)"><i>Harry Potter</i> films</a>, but was never built or used on screen.<sup id="cite_ref-Archive_2-0" class="reference"><a href="#cite_note-Archive-2">&#91;2&#93;</a></sup></li>
+<li>The design team for <i><a href="/wiki/Fantastic_Beasts:_The_Crimes_of_Grindelwald" title="Fantastic Beasts: The Crimes of Grindelwald">Fantastic Beasts: The Crimes of Grindelwald</a></i> took Brockbank's initial idea and incorporated ideas and salvaged parts from <a href="/wiki/1950s" title="1950s">1950s</a> <a href="http://en.wikipedia.org/wiki/The_Hoover_Company" class="extiw" title="wikipedia:The Hoover Company">Hoover</a> <a href="/wiki/Vacuum_cleaner" title="Vacuum cleaner">vacuums</a>.<sup id="cite_ref-Archive_2-1" class="reference"><a href="#cite_note-Archive-2">&#91;2&#93;</a></sup></li>
+<li>During the design process a feather duster arm was added based on an idea from <a href="/wiki/Pierre_Bohanna" title="Pierre Bohanna">Pierre Bohanna</a>, which set decorator <a class="new" title="Anna Pinnock (page does not exist)" rel="nofollow" data-uncrawlable-url="L3dpa2kvQW5uYV9QaW5ub2NrP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">Anna Pinnock</a> suggested should create as much dust as the sweeper actually cleans.<sup id="cite_ref-Archive_2-2" class="reference"><a href="#cite_note-Archive-2">&#91;2&#93;</a></sup></li>
+<li>These objects may be enchanted with a <a href="/wiki/Vacuum_cleaner_spell" title="Vacuum cleaner spell">Vacuum cleaner spell</a>.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Sweeper?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Sweeper?action=edit&amp;section=3" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Fantastic_Beasts:_The_Crimes_of_Grindelwald" title="Fantastic Beasts: The Crimes of Grindelwald">Fantastic Beasts: The Crimes of Grindelwald</a></i> <small>(First appearance)</small></li>
+<li><i><a href="/wiki/The_Archive_of_Magic:_The_Film_Wizardry_of_Fantastic_Beasts:_The_Crimes_of_Grindelwald" title="The Archive of Magic: The Film Wizardry of Fantastic Beasts: The Crimes of Grindelwald">The Archive of Magic: The Film Wizardry of Fantastic Beasts: The Crimes of Grindelwald</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Sweeper?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Sweeper?action=edit&amp;section=4" title="Edit section: Notes and references

@@ -1,0 +1,207 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/e/ee/Mykew_Gregorovitch.jpg/revision/latest?cb=20161119161206" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/e/ee/Mykew_Gregorovitch.jpg/revision/latest/scale-to-width-down/350?cb=20161119161206" srcset="https://static.wikia.nocookie.net/harrypotter/images/e/ee/Mykew_Gregorovitch.jpg/revision/latest/scale-to-width-down/350?cb=20161119161206 1x, https://static.wikia.nocookie.net/harrypotter/images/e/ee/Mykew_Gregorovitch.jpg/revision/latest/scale-to-width-down/699?cb=20161119161206 2x" class="pi-image-thumbnail" alt="" width="270" height="353"
+		     data-image-key="Mykew_Gregorovitch.jpg" data-image-name="Mykew Gregorovitch.jpg"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Mykew Gregorovitch</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font">In or before <a href="/wiki/1909" title="1909">1909</a><sup id="cite_ref-FBF_1-0" class="reference"><a href="#cite_note-FBF-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/2_September" title="2 September">2 September</a>, <a href="/wiki/1997" title="1997">1997</a>, <a href="/wiki/Gregorovitch_Zauberst%C3%A4be" title="Gregorovitch Zauberstäbe">Gregorovitch Zauberstäbe</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="title">
+	
+		<h3 class="pi-data-label pi-secondary-font">Title(s)</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Wandmaker" title="Wandmaker">Wandmaker</a> (formerly)</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">White<sup id="cite_ref-desc_2-0" class="reference"><a href="#cite_note-desc-2">&#91;2&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Magical characteristics</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="wand">
+	
+		<h3 class="pi-data-label pi-secondary-font">Wand</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Gregorovitch%27s_first_wand" class="mw-redirect" title="Gregorovitch&#039;s first wand">Unknown wood, length and core</a><sup id="cite_ref-DHF1_3-0" class="reference"><a href="#cite_note-DHF1-3">&#91;3&#93;</a></sup></li><li><a href="/wiki/Elder_Wand" title="Elder Wand">Elder, Thestral tail hair core</a></li></ul></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="patronus">
+	
+		<h3 class="pi-data-label pi-secondary-font">Patronus</h3>
+	
+	<div class="pi-data-value pi-font">Non-corporeal<sup id="cite_ref-LEGOY2_4-0" class="reference"><a href="#cite_note-LEGOY2-4">&#91;4&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Wandmaker" title="Wandmaker">Wandmaker</a> <span class="template-c">(retired)</span></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Gregorovitch_Zauberst%C3%A4be" title="Gregorovitch Zauberstäbe">Gregorovitch Zauberstäbe</a></li><li><a href="/wiki/Elder_Wand" title="Elder Wand">Elder Wand</a></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Deathly Hallows">"<i>I vos one of the last to purchase a Gregorovitch vand. They are the best — although, I know, of course, that you Britons set much store by Ollivander.</i>"</span></dd>
+<dd>&#8212;<a href="/wiki/Viktor_Krum" title="Viktor Krum">Viktor Krum</a>'s high opinion of Gregorovitch's work<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Mykew</b><sup id="cite_ref-Mykew_5-0" class="reference"><a href="#cite_note-Mykew-5">&#91;5&#93;</a></sup> <b>Gregorovitch</b>  (d. <a href="/wiki/2_September" title="2 September">2 September</a>, <a href="/wiki/1997" title="1997">1997</a>) was a <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a>, famous <a href="/wiki/Wandmaker" title="Wandmaker">wandmaker</a> and the proprietor of <a href="/wiki/Gregorovitch_Zauberst%C3%A4be" title="Gregorovitch Zauberstäbe">Gregorovitch Zauberstäbe</a> in <a href="/wiki/Europe" title="Europe">Europe</a>.<sup id="cite_ref-papers_6-0" class="reference"><a href="#cite_note-papers-6">&#91;6&#93;</a></sup> His <a href="/wiki/Wand" title="Wand">wands</a> were also sold at <a href="/wiki/Wands_by_Gregorovitch" title="Wands by Gregorovitch">Wands by Gregorovitch</a> at <a href="/wiki/Carkitt_Market" title="Carkitt Market">Carkitt Market</a> in <a href="/wiki/London" title="London">London</a>, in competition with <a href="/wiki/Ollivanders" title="Ollivanders">Ollivander's</a>.<sup id="cite_ref-WWHP_7-0" class="reference"><a href="#cite_note-WWHP-7">&#91;7&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_life"><span class="tocnumber">1.1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Elder_Wand_master"><span class="tocnumber">1.2</span> <span class="toctext">Elder Wand master</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Retirement"><span class="tocnumber">1.3</span> <span class="toctext">Retirement</span></a>
+<ul>
+<li class="toclevel-3 tocsection-5"><a href="#Death"><span class="tocnumber">1.3.1</span> <span class="toctext">Death</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-6"><a href="#Post-mortem"><span class="tocnumber">1.4</span> <span class="toctext">Post-mortem</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Physical_appearance"><span class="tocnumber">2</span> <span class="toctext">Physical appearance</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Personality_and_traits"><span class="tocnumber">3</span> <span class="toctext">Personality and traits</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Magical_abilities_and_skills"><span class="tocnumber">4</span> <span class="toctext">Magical abilities and skills</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Possessions"><span class="tocnumber">5</span> <span class="toctext">Possessions</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Etymology"><span class="tocnumber">6</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Behind_the_scenes"><span class="tocnumber">7</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Appearances"><span class="tocnumber">8</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Notes_and_references"><span class="tocnumber">9</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mykew_Gregorovitch?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mykew_Gregorovitch?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mykew_Gregorovitch?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Early life">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mykew_Gregorovitch?action=edit&amp;section=2" title="Edit section: Early life"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Pottermore">"<i> </i>[Hawthorn]<i> makes a strange, contradictory wand, as full of paradoxes as the tree that gave it birth, whose leaves and blossoms heal, and yet whose cut branches smell of death.</i>"</span></dd>
+<dd>&#8212;One of Gregorovitch's writings on <a href="/wiki/Wandlore" title="Wandlore">wandlore</a>.<sup class="noprint"><a href="/wiki/Pottermore" title="Pottermore">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<figure class="thumb tleft show-info-icon" style="width: 127px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/0/06/Greg.jpg/revision/latest?cb=20100928191619" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/0/06/Greg.jpg/revision/latest/scale-to-width-down/125?cb=20100928191619" decoding="async" width="125" height="186" class="thumbimage" data-image-name="Greg.jpg" data-image-key="Greg.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Greg.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Gregorovitch as a wandmaker</p> 		 	</figcaption> </figure>
+<p>Next to nothing is known about Gregorovitch's childhood, but given his accent it is likely he was raised in Europe. During the course of his career as a wandmaker, Gregorovitch became an expert in <a href="/wiki/Wandlore" title="Wandlore">wandlore</a> and supplied many witches and wizards in European countries with reliable wands. Ollivander, however, was not fond of Gregorovitch's work.<sup id="cite_ref-wandwoods_8-0" class="reference"><a href="#cite_note-wandwoods-8">&#91;8&#93;</a></sup>
+</p><p>While Ollivander did not agree with many of Gregorovitch's conclusions, they did concur about <a href="/wiki/Hawthorn" title="Hawthorn">hawthorn</a> wands, which were complex and intriguing in their natures.<sup id="cite_ref-wandwoods_8-1" class="reference"><a href="#cite_note-wandwoods-8">&#91;8&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Elder_Wand_master">Elder Wand master</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mykew_Gregorovitch?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Elder Wand master">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mykew_Gregorovitch?action=edit&amp;section=3" title="Edit section: Elder Wand master"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>At some point in his life, Gregorovitch came into the possession of the <a href="/wiki/Elder_Wand" title="Elder Wand">Elder Wand</a>, one of the <a href="/wiki/Deathly_Hallows" title="Deathly Hallows">Deathly Hallows</a> and the most powerful wand in existence, and upon realising its true nature, he began experimenting to try and duplicate its powers. Gregorovitch, somewhat foolish by nature and hoping it would improve business, or perhaps trying to outsource some fresh outside talent that could assist him in his grander endeavours, started a rumour about him possessing a powerful wand and his efforts to replicate its properties. The result occurred one night when Gregorovitch heard someone break into his workshop. He quickly ran inside and saw a <a href="/wiki/Gellert_Grindelwald" title="Gellert Grindelwald">blonde-haired young man</a> had taken the wand. The man shot a <a href="/wiki/Stunning_Spell" title="Stunning Spell">Stunning Spell</a> at Gregorovitch, before leaping out the window. The man was in fact Gellert Grindelwald, although Gregorovitch never lived long enough to find out who stole the wand.<sup id="cite_ref-DH14_9-0" class="reference"><a href="#cite_note-DH14-9">&#91;9&#93;</a></sup>
+</p>
+<figure class="thumb tright show-info-icon" style="width: 252px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/e/e5/Gregorovitchyoung.JPG/revision/latest?cb=20110601175424" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/e/e5/Gregorovitchyoung.JPG/revision/latest/scale-to-width-down/250?cb=20110601175424" decoding="async" width="250" height="103" class="thumbimage" data-image-name="Gregorovitchyoung.JPG" data-image-key="Gregorovitchyoung.JPG" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Gregorovitchyoung.JPG" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Gregorovitch when he was younger</p> 		 	</figcaption> </figure>
+<h3><span class="mw-headline" id="Retirement">Retirement</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mykew_Gregorovitch?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Retirement">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mykew_Gregorovitch?action=edit&amp;section=4" title="Edit section: Retirement"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Despite the loss of the Elder Wand, Gregorovitch continued his work, and many years later retired, with <a href="/wiki/Viktor_Krum%27s_wand" title="Viktor Krum&#39;s wand">one of his last wands</a> being sold to <a href="/wiki/Viktor_Krum" title="Viktor Krum">Viktor Krum</a>.<sup id="cite_ref-DH8_10-0" class="reference"><a href="#cite_note-DH8-10">&#91;10&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="Death">Death</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mykew_Gregorovitch?veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edit section: Death">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mykew_Gregorovitch?action=edit&amp;section=5" title="Edit section: Death"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Deathly Hallows"><b>Voldemort</b>: "<i>Give it to me, Gregorovitch.</i>"</span></dd>
+<dd><b>Gregorovitch</b>: "<i>I have it not, I have it no more! It was, many years ago, stolen from me!</i>"</dd>
+<dd><b>Voldemort</b>: "<i>Do not lie to Lord Voldemort, Gregorovitch. He knows. . . . He always knows.</i>"</dd>
+<dd>&#8212; Voldemort and Gregorovitch<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">[src]</a></sup></dd></dl>
+</div>
+<p><a href="/wiki/Tom_Riddle" title="Tom Riddle">Lord Voldemort</a>, who sought a way to bypass the unique nature of his and <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a>'s wands, interrogated and tortured Ollivander (who had been a prisoner of the <a href="/wiki/Death_Eaters" title="Death Eaters">Death Eaters</a> for some time) for information. Eventually, Ollivander revealed he had heard of the rumour of Gregorovitch possessing the wand. Intrigued, Voldemort resolved to track the wand down and gain possession of it, not only to use it to defeat Harry, but also to possess the most powerful wand in the world. Harry himself saw this vision through his unique bond with Voldemort, and under his best friend <a href="/wiki/Ronald_Weasley" title="Ronald Weasley">Ron Weasley's</a> suggestion, he might have been thinking about <a href="/wiki/Dragomir_Gorgovitch" title="Dragomir Gorgovitch">Dragomir Gorgovitch</a>.<sup id="cite_ref-DH7_11-0" class="reference"><a href="#cite_note-DH7-11">&#91;11&#93;</a></sup>
+</p>
+<figure class="thumb tleft show-info-icon" style="width: 252px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/d/d4/Gregorovitch_Avada_Kedavra.jpg/revision/latest?cb=20110610133512" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/d/d4/Gregorovitch_Avada_Kedavra.jpg/revision/latest/scale-to-width-down/250?cb=20110610133512" decoding="async" width="250" height="115" class="thumbimage" data-image-name="Gregorovitch Avada Kedavra.jpg" data-image-key="Gregorovitch_Avada_Kedavra.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Gregorovitch_Avada_Kedavra.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption"><a href="/wiki/Tom_Riddle" title="Tom Riddle">Voldemort</a> kills Gregorovitch</p> 		 	</figcaption> </figure>
+<p>Over the course of the next few months, Voldemort hunted Gregorovitch down, murdering a <a href="/wiki/Family_that_lived_in_Gregorovitch%27s_former_home" title="Family that lived in Gregorovitch&#39;s former home">family</a> that lived in his former residence.<sup id="cite_ref-DH12_12-0" class="reference"><a href="#cite_note-DH12-12">&#91;12&#93;</a></sup> Voldemort inevitably found Gregorovitch, keeping him from escaping by using the <i><a href="/wiki/Levicorpus" title="Levicorpus">Levicorpus</a></i> <a href="/wiki/Jinx" title="Jinx">jinx</a>. Voldemort demanded he give him the wand, but Gregorovitch said it had been stolen from him many years ago. Enraged to have exhausted months of effort to find Gregorovitch and to find out he was not any closer to the wand, Voldemort believed he was lying, and as such performed <a href="/wiki/Legilimency" title="Legilimency">Legilimency</a> to confirm it. During his search through Gregorovitch's memories, Voldemort found the memory of the incident when he lost the wand. Finishing his search of Gregorovitch's mind, Voldemort immediately demanded to know who the thief was, but when Gregorovitch admitted he never found out, Voldemort, recognising he had all the information he required, ignored Gregorovitch's pleas for mercy and cast the <a href="/wiki/Killing_Curse" title="Killing Curse">Killing Curse</a> on him. Gregorovitch's death was witnessed by <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> through his unique link to Voldemort's mind.<sup id="cite_ref-DH14_9-1" class="reference"><a href="#cite_note-DH14-9">&#91;9&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Post-mortem">Post-mortem</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mykew_Gregorovitch?veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edit section: Post-mortem">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mykew_Gregorovitch?action=edit&amp;section=6" title="Edit section: Post-mortem"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>It later turned out that the thief was, in fact, <a href="/wiki/Albus_Dumbledore" title="Albus Dumbledore">Albus Dumbledore</a>'s one-time close friend and infamous dark wizard: a young <a href="/wiki/Gellert_Grindelwald" title="Gellert Grindelwald">Gellert Grindelwald</a>. However, Gregorovitch never lived to find out about this.<sup id="cite_ref-DH17_13-0" class="reference"><a href="#cite_note-DH17-13">&#91;13&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Physical_appearance">Physical appearance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mykew_Gregorovitch?veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edit section: Physical appearance">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mykew_Gregorovitch?action=edit&amp;section=7" title="Edit section: Physical appearance"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>By the time of his death, Gregorovitch was described as having pure-white hair and a thick, bushy beard.<sup id="cite_ref-desc_2-1" class="reference"><a href="#cite_note-desc-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Personality_and_traits">Personality and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mykew_Gregorovitch?veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edit section: Personality and traits">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mykew_Gregorovitch?action=edit&amp;section=8" title="Edit section: Personality and traits"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tright show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/f/fa/Gregorovitch.jpg/revision/latest?cb=20100821182741" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="180" height="212" class="thumbimage lazyload" data-image-name="Gregorovitch.jpg" data-image-key="Gregorovitch.jpg" data-src="https://static.wikia.nocookie.net/harrypotter/images/f/fa/Gregorovitch.jpg/revision/latest/scale-to-width-down/180?cb=20100821182741" /></a> 	<noscript><a href="https://static.wikia.nocookie.net/harrypotter/images/f/fa/Gregorovitch.jpg/revision/latest?cb=20100821182741" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/f/fa/Gregorovitch.jpg/revision/latest/scale-to-width-down/180?cb=20100821182741" decoding="async" width="180" height="212" class="thumbimage" data-image-name="Gregorovitch.jpg" data-image-key="Gregorovitch.jpg" data-src="https://static.wikia.nocookie.net/harrypotter/images/f/fa/Gregorovitch.jpg/revision/latest/scale-to-width-down/180?cb=20100821182741" /></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Gregorovitch.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Gregorovitch in his shop</p> 		 	</figcaption> </figure>
+<p>Although Gregorovitch's backstory and education are not fully known, his reputation rivalling that of <a href="/wiki/Garrick_Ollivander" title="Garrick Ollivander">Ollivander</a> indicates he was very intelligent. His boasting about owning the <a href="/wiki/Elder_Wand" title="Elder Wand">Elder Wand</a> suggests naivety and/or greed while he also displayed carelessness in making it so easy for <a href="/wiki/Gellert_Grindelwald" title="Gellert Grindelwald">Grindelwald</a> to steal.<sup id="cite_ref-DH14_9-2" class="reference"><a href="#cite_note-DH14-9">&#91;9&#93;</a></sup> Since the Elder Wand is supposedly loyal only to powerful wizards who kill its previous owner, Gregorovitch may have had little to no quarrels about murder. Although, how he came to possess the wand is unknown.
+</p><p>Gregorovitch claimed to never have identified the Elder Wand's thief, meaning he may have remained in hiding during Grindelwald's reign or payed little attention to news or history. It is unknown if he was aware of <a href="/wiki/Tom_Riddle" title="Tom Riddle">Voldemort</a> before the latter attacked and killed him, but he seemed genuinely terrified upon facing the <a href="/wiki/Dark_Wizard" title="Dark Wizard">Dark Lord</a> in person.<sup id="cite_ref-DH14_9-3" class="reference"><a href="#cite_note-DH14-9">&#91;9&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Magical_abilities_and_skills">Magical abilities and skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mykew_Gregorovitch?veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Edit section: Magical abilities and skills">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mykew_Gregorovitch?action=edit&amp;section=9" title="Edit section: Magical abilities and skills"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Wandmaker" title="Wandmaker">Wandmaking</a>/<a href="/wiki/Wandlore" title="Wandlore">Wandlore</a></b>: Gregorovitch owned and operated a <a href="/wiki/Gregorovitch_Zauberst%C3%A4be" title="Gregorovitch Zauberstäbe">wand shop</a> to highly successful standards, being at least on par with the very brilliant <a href="/wiki/Garrick_Ollivander" title="Garrick Ollivander">Ollivander</a> and, according to some, was more skilful than even him.<sup id="cite_ref-GOF18_14-0" class="reference"><a href="#cite_note-GOF18-14">&#91;14&#93;</a></sup></li>
+<li><b><a href="/wiki/Dark_Arts" title="Dark Arts">Dark Arts</a> and/or <a href="/wiki/Duelling" title="Duelling">Duelling</a></b>: (possibly): It was never disclosed, but Gregorovitch might have been highly accomplished in <a href="/wiki/Martial_magic" title="Martial magic">martial magic</a> or capable of <a href="/wiki/Killing_Curse" title="Killing Curse">killing</a> as he was able to gain possession of the <a href="/wiki/Elder_Wand" title="Elder Wand">Elder Wand</a>.</li>
+<li><b><a href="/wiki/Charm" title="Charm">Charms</a></b>: Gregorovitch was capable of conjuring at least a non-corporeal <a href="/wiki/Patronus_Charm#The_Patronus" title="Patronus Charm">Patronus</a>,<sup id="cite_ref-LEGOY2_4-1" class="reference"><a href="#cite_note-LEGOY2-4">&#91;4&#93;</a></sup> a highly advanced piece of <a href="/wiki/Magic" title="Magic">magic</a> and a mark of superior magical skill, given the immense difficulty of casting the said spell.</li></ul>
+<h2><span class="mw-headline" id="Possessions">Possessions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mykew_Gregorovitch?veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Edit section: Possessions">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mykew_Gregorovitch?action=edit&amp;section=10" title="Edit section: Possessions"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tright show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/d/d7/Gregorovitchwand.jpg/revision/latest?cb=20101107165817" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="180" height="204" class="thumbimage lazyload" data-image-name="Gregorovitchwand.jpg" data-image-key="Gregorovitchwand.jpg" data-src="https://static.wikia.nocookie.net/harrypotter/images/d/d7/Gregorovitchwand.jpg/revision/latest/scale-to-width-down/180?cb=20101107165817" /></a> 	<noscript><a href="https://static.wikia.nocookie.net/harrypotter/images/d/d7/Gregorovitchwand.jpg/revision/latest?cb=20101107165817" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/d/d7/Gregorovitchwand.jpg/revision/latest/scale-to-width-down/180?cb=20101107165817" decoding="async" width="180" height="204" class="thumbimage" data-image-name="Gregorovitchwand.jpg" data-image-key="Gregorovitchwand.jpg" data-src="https://static.wikia.nocookie.net/harrypotter/images/d/d7/Gregorovitchwand.jpg/revision/latest/scale-to-width-down/180?cb=20101107165817" /></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Gregorovitchwand.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Gregorovitch's wand, before his acquiring and after his loss of the Elder Wand</p> 		 	</figcaption> </figure>
+<ul><li><b><a href="/wiki/Gregorovitch_Zauberst%C3%A4be" title="Gregorovitch Zauberstäbe">Gregorovitch Zauberstäbe</a></b>: Being a proflific <a href="/wiki/Wandmaker" title="Wandmaker">Wandmaker</a>, Gregorovitch owned and operated his own wand shop,<sup id="cite_ref-DHF1_3-1" class="reference"><a href="#cite_note-DHF1-3">&#91;3&#93;</a></sup> located somewhere in <a href="/wiki/Europe" title="Europe">Europe</a>.<sup id="cite_ref-papers_6-1" class="reference"><a href="#cite_note-papers-6">&#91;6&#93;</a></sup></li>
+<li><b><a href="/wiki/Mykew_Gregorovitch%27s_first_wand" title="Mykew Gregorovitch&#39;s first wand">First wand</a></b>: Gregorovitch owned a <a href="/wiki/Wand" title="Wand">wand</a> of unknown length, <a href="/wiki/Wand_wood" title="Wand wood">wood</a> and <a href="/wiki/Wand_core" title="Wand core">core</a> before gaining ownership and mastery of the <a href="/wiki/Elder_Wand" title="Elder Wand">Elder Wand</a>.</li>
+<li><b><a href="/wiki/Elder_Wand" title="Elder Wand">Elder Wand</a></b>: Gregorovitch gained ownership and mastery of this legendary and extremely powerful <a href="/wiki/Wand" title="Wand">wand</a> and also one of the <a href="/wiki/Deathly_Hallows" title="Deathly Hallows">Deathly Hallows</a>.<sup id="cite_ref-DH14_9-4" class="reference"><a href="#cite_note-DH14-9">&#91;9&#93;</a></sup> It is unknown however under what circumstances he managed to come into ownership of the Elder Wand.</li></ul>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mykew_Gregorovitch?veaction=edit&amp;section=11" class="mw-editsection-visualeditor" title="Edit section: Etymology">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mykew_Gregorovitch?action=edit&amp;section=11" title="Edit section: Etymology"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Gregorovitch is derived from the given name Gregor (that would be <a href="http://en.wikipedia.org/wiki/Gregory_(given_name)" class="extiw" title="wikipedia:Gregory (given name)">Gregory</a> in English), originally of Greek origin meaning "to watch, be alert". Грегорович or Gregorović (that can be Anglicised as Gregorovitch) is a rather common Slavic surname: Gregorović, as most surnames in Serbia, Bosnia, Croatia etc., was originally a patronym, meaning "son of Gregor": eventually it became a surname in the same way the Scottish "McGregor" (also meaning "son of Gregor") did.
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mykew_Gregorovitch?veaction=edit&amp;section=12" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mykew_Gregorovitch?action=edit&amp;section=12" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tright show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/a/a9/Gregorovitch.png/revision/latest?cb=20190430185859" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="180" height="266" class="thumbimage lazyload" data-image-name="Gregorovitch.png" data-image-key="Gregorovitch.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/a/a9/Gregorovitch.png/revision/latest/scale-to-width-down/180?cb=20190430185859" /></a> 	<noscript><a href="https://static.wikia.nocookie.net/harrypotter/images/a/a9/Gregorovitch.png/revision/latest?cb=20190430185859" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/a/a9/Gregorovitch.png/revision/latest/scale-to-width-down/180?cb=20190430185859" decoding="async" width="180" height="266" class="thumbimage" data-image-name="Gregorovitch.png" data-image-key="Gregorovitch.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/a/a9/Gregorovitch.png/revision/latest/scale-to-width-down/180?cb=20190430185859" /></a></noscript> 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Gregorovitch.png" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Gregorovitch as seen in <i><a href="/wiki/LEGO_Harry_Potter:_Years_5-7" title="LEGO Harry Potter: Years 5-7">LEGO Harry Potter: Years 5-7</a></i></p> 		 	</figcaption> </figure>
+<ul><li>Actor <a href="/wiki/Rade_%C5%A0erbed%C5%BEija" title="Rade Šerbedžija">Rade Šerbedžija</a> portrays Gregorovitch in the <i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">Harry Potter and the Deathly Hallows</a></i> <a href="/wiki/Harry_Potter_and_the_Deathly_Hallows_(film)" title="Harry Potter and the Deathly Hallows (film)">film adaptations</a>.</li>
+<li>The book states that Gregorovitch has a big, bushy beard. However, photos of him for the film show him with a regular, short beard.</li>
+<li>The Gregorovitch wands shown in the film series all have a rugged, natural appearance and don't have separate handles but the handle is made and is part of the wand itself, as opposed to the ornately carved wands made by other Wandmakers, such as Ollivander.</li>
+<li>In <i><a href="/wiki/LEGO_Harry_Potter:_Years_5-7" title="LEGO Harry Potter: Years 5-7">LEGO Harry Potter: Years 5-7</a></i>, Harry's visions of <a href="/wiki/Tom_Riddle" title="Tom Riddle">Voldemort</a> searching for the <a href="/wiki/Elder_Wand" title="Elder Wand">Elder Wand</a> is omitted and it only shows him finding the wand in Dumbledore's tomb. However, despite this, Gregorovitch is a playable character in all the versions of the game.</li>
+<li>Gregorovitch is the only known <a href="/wiki/Elder_Wand" title="Elder Wand">Elder Wand</a> master that was not killed or disarmed by the wand's new master.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mykew_Gregorovitch?veaction=edit&amp;section=13" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mykew_Gregorovitch?action=edit&amp;section=13" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="float: right; clear: right; margin-top: 2px; margin-left: 2px; margin-bottom: 2px; background-color: #D8E9FC; text-align: left; font-size: 90%; width: 250px;"><span class="rtop" style=""><span class="r1" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r4" style="background: #D8E9FC"></span></span><div style="float:left; margin-left: 5px;"><a href="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest?cb=20091217124448" class="image"><img alt="Wiki.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="35" height="21" data-image-name="Wiki.png" data-image-key="Wiki.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/b/bc/Wiki.png/revision/latest/scale-to-width-down/35?cb=20091217124448" class="lazyload" /></a></div><div style="margin-left:50px">The Harry Potter Wiki has 9 images related to <i><b><a href="/wiki/Category:Images_of_Gregorovitch" title="Category:Images of Gregorovitch">Mykew Gregorovitch</a></b></i>.</div><span class="content-bg rbottom" style=""><span class="r4" style="background: #D8E9FC"></span><span class="r3" style="background: #D8E9FC"></span><span class="r2" style="background: #D8E9FC"></span><span class="r1" style="background: #D8E9FC"></span></span></div>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Goblet_of_Fire" title="Harry Potter and the Goblet of Fire">Harry Potter and the Goblet of Fire</a></i> <small>(First mentioned)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows" title="Harry Potter and the Deathly Hallows">Harry Potter and the Deathly Hallows</a></i> <small>(First appearance)</small> <small>(Appears in vision(s))</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1" title="Harry Potter and the Deathly Hallows: Part 1">Harry Potter and the Deathly Hallows: Part 1</a></i> <small>(Appears in vision(s))</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1_(video_game)" title="Harry Potter and the Deathly Hallows: Part 1 (video game)">Harry Potter and the Deathly Hallows: Part 1 (video game)</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/LEGO_Harry_Potter:_Years_5-7" title="LEGO Harry Potter: Years 5-7">LEGO Harry Potter: Years 5-7</a></i></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Wizarding_World_(website)" title="Wizarding World (website)">Wizarding World</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(film)" title="Fantastic Beasts and Where to Find Them (film)">Fantastic Beasts and Where to Find Them (film)</a></i> <span class="template-c">(mentioned on wand permit application)</span></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Mykew_Gregorovitch?veaction=edit&amp;section=14" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Mykew_Gregorovitch?action=edit&amp;section=14" title="Edit section: Notes and references

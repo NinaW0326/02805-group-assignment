@@ -1,0 +1,61 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-pet pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/1/1c/Brodwin.jpg/revision/latest?cb=20100401215247" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/1/1c/Brodwin.jpg/revision/latest/scale-to-width-down/350?cb=20100401215247" srcset="https://static.wikia.nocookie.net/harrypotter/images/1/1c/Brodwin.jpg/revision/latest/scale-to-width-down/350?cb=20100401215247 1x, https://static.wikia.nocookie.net/harrypotter/images/1/1c/Brodwin.jpg/revision/latest/scale-to-width-down/700?cb=20100401215247 2x" class="pi-image-thumbnail" alt="" width="270" height="194"
+		     data-image-key="Brodwin.jpg" data-image-name="Brodwin.jpg"/>
+		
+	</a>
+	
+</figure>
+
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Brodwin</h2>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Snowy_owl" title="Snowy owl">Snowy owl</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="feathers">
+	
+		<h3 class="pi-data-label pi-secondary-font">Feathers</h3>
+	
+	<div class="pi-data-value pi-font">White</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Yellow</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="loyalty">
+	
+		<h3 class="pi-data-label pi-secondary-font">Loyalty</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Prime_Minister" title="Prime Minister">Prime Minister</a> of the United Kingdom</div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Pet_individual_infobox" title="Template:Pet individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+<b>Brodwin</b> was a <a href="/wiki/Snowy_owl" title="Snowy owl">snowy owl</a> that belonged to the <a href="/wiki/Prime_Minister" title="Prime Minister">Prime Minister</a> of the United Kingdom.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Brodwin?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Brodwin?action=edit&amp;section=1" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="thumb tleft show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/e/ec/Queen2.jpg/revision/latest?cb=20091229080038" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/e/ec/Queen2.jpg/revision/latest/scale-to-width-down/180?cb=20091229080038" decoding="async" width="180" height="91" class="thumbimage" data-image-name="Queen2.jpg" data-image-key="Queen2.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Queen2.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Brodwin, when flying</p> 		 	</figcaption> </figure>
+<ul><li>In the short skit <i><a href="/wiki/The_Queen%27s_Handbag" title="The Queen&#39;s Handbag">The Queen's Handbag</a></i>, Brodwin was sent to <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a>, <a href="/wiki/Ronald_Weasley" title="Ronald Weasley">Ronald Weasley</a>, and <a href="/wiki/Hermione_Granger" title="Hermione Granger">Hermione Granger</a> at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts</a> when the Queen's Handbag went missing. The <a href="/wiki/Owl" title="Owl">owl</a> landed on a chair in the <a href="/wiki/Gryffindor_Tower" title="Gryffindor Tower">Gryffindor common room</a> with the letter about the disappearance. Ron initially believed the letter came from the <a href="/wiki/Minister_for_Magic" title="Minister for Magic">Minister for Magic</a>, however Hermione realised it actually came from the <a href="/wiki/Non-magic_people" title="Non-magic people">Muggle</a> <a href="/wiki/Prime_Minister" title="Prime Minister">Prime Minister</a>. After watching Harry and Ron attempt to use a <a href="/wiki/Summoning_Charm" title="Summoning Charm">Summoning Charm</a> to retrieve the handbag, the owl was given a letter from Hermione granting <a href="/wiki/Buckingham_Palace" title="Buckingham Palace">Buckingham Palace</a> a temporary allowance of <a href="/wiki/Magic" title="Magic">magic</a> so they could <a href="/wiki/Summoning_Charm" title="Summoning Charm">summon</a> the handbag themselves.</li>
+<li>Although this owl looks similar to Harry's owl <a href="/wiki/Hedwig" title="Hedwig">Hedwig</a>, since Harry did not recognise it, it would seem to be a different owl. In the beginning of the skit, however, the owl is referred to as "Brodwin".</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Brodwin?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Brodwin?action=edit&amp;section=2" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/The_Queen%27s_Handbag" title="The Queen&#39;s Handbag">The Queen's Handbag</a></i> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Brodwin?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Brodwin?action=edit&amp;section=3" title="Edit section: Notes and references

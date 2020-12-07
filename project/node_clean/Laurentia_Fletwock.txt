@@ -1,0 +1,84 @@
+<div class="mw-parser-output"><p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/2/2e/LaurentiaFletwock.png/revision/latest?cb=20130318122827" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/2/2e/LaurentiaFletwock.png/revision/latest/scale-to-width-down/331?cb=20130318122827" srcset="https://static.wikia.nocookie.net/harrypotter/images/2/2e/LaurentiaFletwock.png/revision/latest/scale-to-width-down/331?cb=20130318122827 1x, https://static.wikia.nocookie.net/harrypotter/images/2/2e/LaurentiaFletwock.png/revision/latest/scale-to-width-down/662?cb=20130318122827 2x" class="pi-image-thumbnail" alt="" width="270" height="337"
+		     data-image-key="LaurentiaFletwock.png" data-image-name="LaurentiaFletwock.png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Laurentia Fletwock</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/1947" title="1947">1947</a><sup id="cite_ref-TCG_1-0" class="reference"><a href="#cite_note-TCG-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a><sup id="cite_ref-TCG_1-1" class="reference"><a href="#cite_note-TCG-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Female<sup id="cite_ref-TCG_1-2" class="reference"><a href="#cite_note-TCG-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">Brown<sup id="cite_ref-TCG_1-3" class="reference"><a href="#cite_note-TCG-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Brown<sup id="cite_ref-TCG_1-4" class="reference"><a href="#cite_note-TCG-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White<sup id="cite_ref-TCG_1-5" class="reference"><a href="#cite_note-TCG-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Winged_horse" title="Winged horse">Winged horses</a> breeder and <a href="/wiki/Winged_horse_racing" title="Winged horse racing">racer</a><sup id="cite_ref-TCG_1-6" class="reference"><a href="#cite_note-TCG-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+<b>Laurentia Fletwock</b> (b. <a href="/wiki/1947" title="1947">1947</a>) was a <a href="/wiki/Wizardkind" title="Wizardkind">witch</a> who was a celebrated breeder and <a href="/wiki/Winged_horse_racing" title="Winged horse racing">racer</a> of <a href="/wiki/Winged_horse" title="Winged horse">winged horses</a>. Presumably because of her involvement in the world of winged horses, she has subsequently campaigned for <a href="/wiki/Broomstick" title="Broomstick">broomstick</a> usage to come under stricter regulations.<sup id="cite_ref-TCG_1-7" class="reference"><a href="#cite_note-TCG-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Laurentia_Fletwock?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Laurentia_Fletwock?action=edit&amp;section=1" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/J._K._Rowling%27s_official_site" title="J. K. Rowling&#39;s official site">J. K. Rowling's official site</a> <small>(First appearance)</small></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Laurentia_Fletwock?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Laurentia_Fletwock?action=edit&amp;section=2" title="Edit section: Notes and references

@@ -1,0 +1,126 @@
+<div class="mw-parser-output"><table class="notice metadata" id="spoiler" style="text-align: center; background: beige; margin: 1em 05%; padding: 0 1em; border: #a00 1px solid;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/8/8c/Hogwarts_Mystery.jpeg/revision/latest?cb=20180504083359" class="image"><img alt="Hogwarts Mystery.jpeg" src="https://static.wikia.nocookie.net/harrypotter/images/8/8c/Hogwarts_Mystery.jpeg/revision/latest/scale-to-width-down/175?cb=20180504083359" decoding="async" width="175" height="77" data-image-name="Hogwarts Mystery.jpeg" data-image-key="Hogwarts_Mystery.jpeg" /></a>
+</td>
+<td><b>Warning!</b>
+<p>At least some content in this article is derived from information featured in <i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i>. Spoilers will be present within the article.
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-creature pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/f/f1/Hebridean_Black_Fantastic_Beasts.jpg/revision/latest?cb=20171124151231" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/f/f1/Hebridean_Black_Fantastic_Beasts.jpg/revision/latest/scale-to-width-down/350?cb=20171124151231" srcset="https://static.wikia.nocookie.net/harrypotter/images/f/f1/Hebridean_Black_Fantastic_Beasts.jpg/revision/latest/scale-to-width-down/350?cb=20171124151231 1x, https://static.wikia.nocookie.net/harrypotter/images/f/f1/Hebridean_Black_Fantastic_Beasts.jpg/revision/latest/scale-to-width-down/699?cb=20171124151231 2x" class="pi-image-thumbnail" alt="" width="270" height="163"
+		     data-image-key="Hebridean_Black_Fantastic_Beasts.jpg" data-image-name="Hebridean Black Fantastic Beasts.jpg"/>
+		
+	</a>
+	
+</figure>
+
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Hebridean Black</h2>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Species information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Brilliant purple</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">Dark</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="related">
+	
+		<h3 class="pi-data-label pi-secondary-font">Related to</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Dragon" title="Dragon">Dragon</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="native">
+	
+		<h3 class="pi-data-label pi-secondary-font">Native to</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Hebrides" title="Hebrides">Hebrides</a> Islands, <a href="/wiki/Scotland" title="Scotland">Scotland</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="length">
+	
+		<h3 class="pi-data-label pi-secondary-font">Length of average adult</h3>
+	
+	<div class="pi-data-value pi-font">30ft</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="mortality">
+	
+		<h3 class="pi-data-label pi-secondary-font">Mortality</h3>
+	
+	<div class="pi-data-value pi-font">Mortal</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="affiliation">
+	
+		<h3 class="pi-data-label pi-secondary-font">Affiliation</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Banchory_Bangers" title="Banchory Bangers">Banchory Bangers</a><sup id="cite_ref-QTA5_1-0" class="reference"><a href="#cite_note-QTA5-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="class">
+	
+		<h3 class="pi-data-label pi-secondary-font"><a href="/wiki/Department_for_the_Regulation_and_Control_of_Magical_Creatures#Ministry_Classification_of_Magical_Creatures" title="Department for the Regulation and Control of Magical Creatures">Ministry of Magic Classification</a></h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Beast" title="Beast">Beast</a> <br/> <a href="/wiki/XXXXX" class="mw-redirect" title="XXXXX">XXXXX</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="status">
+	
+		<h3 class="pi-data-label pi-secondary-font">Status</h3>
+	
+	<div class="pi-data-value pi-font">Extant</div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Creature_infobox" title="Template:Creature infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Philosopher&#39;s Stone"><b>Harry Potter</b>: "<i>But there aren't wild dragons in </i><a href="/wiki/Great_Britain" title="Great Britain">Britain</a><i>?</i>"</span></dd>
+<dd><b>Ron Weasley</b>: "<i>Of course there are. <a href="/wiki/Common_Welsh_Green" title="Common Welsh Green">Common Welsh Green</a> and Hebridean Blacks. The <a href="/wiki/British_Ministry_of_Magic" title="British Ministry of Magic">Ministry of Magic</a> has a job hushing them up, I can tell you. Our lot have to keep putting spells on Muggles who’ve spotted them, to make them forget.</i>"</dd>
+<dd>&#8212; Dragons indigenous to Great Britain<sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone" title="Harry Potter and the Philosopher&#39;s Stone">[src]</a></sup></dd></dl>
+</div>
+<p>The <b>Hebridean Black</b> is a <a href="/wiki/Dragon" title="Dragon">dragon</a> species native to the <a href="/wiki/Hebrides" title="Hebrides">Hebrides</a> islands of <a href="/wiki/Scotland" title="Scotland">Scotland</a>. It has brilliant purple coloured eyes.<sup id="cite_ref-FBR_2-0" class="reference"><a href="#cite_note-FBR-2">&#91;2&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description_and_traits"><span class="tocnumber">1</span> <span class="toctext">Description and traits</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Appearances"><span class="tocnumber">2</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Gallery"><span class="tocnumber">3</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Notes_and_references"><span class="tocnumber">4</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Description_and_traits">Description and traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Hebridean_Black?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Description and traits">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Hebridean_Black?action=edit&amp;section=1" title="Edit section: Description and traits"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>It has dark rough scales, ridges along its back, and a tail tipped with an arrow-shaped spike. The Hebridean Black has brilliant purple eyes, bat-like wings and can grow to be up to thirty feet long. Its favourite food is <a href="/wiki/Deer" title="Deer">deer</a>, although it has been known to carry off cows.<sup id="cite_ref-FBR_2-1" class="reference"><a href="#cite_note-FBR-2">&#91;2&#93;</a></sup>
+</p><p>The Hebridean Black is more aggressive than the other dragon native to the British Isles, the <a href="/wiki/Common_Welsh_Green" title="Common Welsh Green">Common Welsh Green</a>, and thus requires a territory of as much as one hundred square miles each. The <a href="/wiki/MacFusty_clan" title="MacFusty clan">MacFusty clan</a> take responsibility for the dragons, and have so done for centuries.<sup id="cite_ref-FBR_2-2" class="reference"><a href="#cite_note-FBR-2">&#91;2&#93;</a></sup>
+</p><p>They are also the team mascot for the <a href="/wiki/Banchory_Bangers" title="Banchory Bangers">Banchory Bangers</a> <a href="/wiki/Quidditch" title="Quidditch">Quidditch</a> team from <a href="/wiki/Scotland" title="Scotland">Scotland</a>.<sup id="cite_ref-QTA5_1-1" class="reference"><a href="#cite_note-QTA5-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Hebridean_Black?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Hebridean_Black?action=edit&amp;section=2" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone" title="Harry Potter and the Philosopher&#39;s Stone">Harry Potter and the Philosopher's Stone</a></i> <small>(First mentioned)</small></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(video_game)" title="Harry Potter and the Prisoner of Azkaban (video game)">Harry Potter and the Prisoner of Azkaban (video game)</a></i> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(video_game)" title="Harry Potter and the Order of the Phoenix (video game)">Harry Potter and the Order of the Phoenix (video game)</a></i> <span class="template-c">(<a href="/wiki/Exploding_Snap" title="Exploding Snap">Exploding Snap</a> <a href="/wiki/Famous_Witches_and_Wizards_Cards" title="Famous Witches and Wizards Cards">Famous Wizards Card</a>)</span></li>
+<li><i><a href="/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(companion_book)" title="Fantastic Beasts and Where to Find Them (companion book)">Fantastic Beasts and Where to Find Them</a></i></li>
+<li><i><a href="/wiki/Harry_Potter_Trading_Card_Game" title="Harry Potter Trading Card Game">Harry Potter Trading Card Game</a></i></li>
+<li><i><a href="/wiki/Quidditch_Through_the_Ages_(real)" title="Quidditch Through the Ages (real)">Quidditch Through the Ages</a></i> <small>(Mentioned only)</small></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i></li>
+<li><i><a href="/wiki/Harry_Potter:_Hogwarts_Mystery" title="Harry Potter: Hogwarts Mystery">Harry Potter: Hogwarts Mystery</a></i> <span class="template-c">(Appears in a drawing)</span></li></ul>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Hebridean_Black?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Gallery">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Hebridean_Black?action=edit&amp;section=3" title="Edit section: Gallery"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div id="gallery-0" hash="be58798d3e1ce2954213db31b95def6a" class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-medium wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium"><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="Hebridean_Black-png" style="position: relative; height:185px; width:137px;"><a class="image lightbox" href="/wiki/File:Hebridean_Black.png" title="Hebridean Black.png (172 KB)" style="height:185px; width:137px;"><noscript><img style="" src="https://static.wikia.nocookie.net/harrypotter/images/a/ac/Hebridean_Black.png/revision/latest/scale-to-width-down/138?cb=20130821213828" title="Hebridean Black.png (172 KB)" class="thumbimage" alt="Hebridean Black" data-image-name="Hebridean Black.png" data-image-key="Hebridean_Black.png"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Hebridean Black.png (172 KB)" class="thumbimage lazyload" alt="Hebridean Black" data-image-name="Hebridean Black.png" data-image-key="Hebridean_Black.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/a/ac/Hebridean_Black.png/revision/latest/scale-to-width-down/138?cb=20130821213828" /></a></div></div></div><div class="wikia-gallery-item" style="width:187px; "><div class="thumb" style="height:187px;"><div class="gallery-image-wrapper accent" id="HebrideanBlackDragonTCG-png" style="position: relative; height:134px; width:185px; top:25.5px;"><a class="image lightbox" href="/wiki/File:HebrideanBlackDragonTCG.png" title="HebrideanBlackDragonTCG.png (476 KB)" style="height:134px; width:185px;"><noscript><img style="" src="https://static.wikia.nocookie.net/harrypotter/images/0/0f/HebrideanBlackDragonTCG.png/revision/latest/scale-to-width-down/185?cb=20160617021441" title="HebrideanBlackDragonTCG.png (476 KB)" class="thumbimage" alt="HebrideanBlackDragonTCG" data-image-name="HebrideanBlackDragonTCG.png" data-image-key="HebrideanBlackDragonTCG.png"></noscript><img style="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="HebrideanBlackDragonTCG.png (476 KB)" class="thumbimage lazyload" alt="HebrideanBlackDragonTCG" data-image-name="HebrideanBlackDragonTCG.png" data-image-key="HebrideanBlackDragonTCG.png" data-src="https://static.wikia.nocookie.net/harrypotter/images/0/0f/HebrideanBlackDragonTCG.png/revision/latest/scale-to-width-down/185?cb=20160617021441" /></a></div></div></div><br /><a class="wds-button wikia-photogallery-add"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-image-small"></use></svg><span>Add a photo to this gallery</span></a></div>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Hebridean_Black?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Hebridean_Black?action=edit&amp;section=4" title="Edit section: Notes and references

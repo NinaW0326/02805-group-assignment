@@ -1,0 +1,136 @@
+<div class="mw-parser-output"><table class="notice metadata" cellpadding="3px" style="text-align: center; background: snow; border: #a00 1px solid; margin: 1em 10% 1em 10%;">
+
+<tbody><tr>
+<td><a href="https://static.wikia.nocookie.net/harrypotter/images/1/16/Mirror_of_Erised.jpeg/revision/latest?cb=20090713064057" class="image"><img alt="Mirror of Erised.jpeg" src="https://static.wikia.nocookie.net/harrypotter/images/1/16/Mirror_of_Erised.jpeg/revision/latest/scale-to-width-down/80?cb=20090713064057" decoding="async" width="80" height="67" data-image-name="Mirror of Erised.jpeg" data-image-key="Mirror_of_Erised.jpeg" /></a>
+</td>
+<td><i><b>"Is this all real? Or has this been happening inside my head?"</b></i>
+<p>The topic of this article is of a real-life subject that has been mentioned "<a href="/wiki/Harry_Potter_Wiki:Policy#.22In-universe.22_point_of_view" title="Harry Potter Wiki:Policy">in-universe</a>" in a <a href="/wiki/Harry_Potter_Wiki:Canon" title="Harry Potter Wiki:Canon">canon</a> source. The <a href="/wiki/Harry_Potter_Wiki:About" title="Harry Potter Wiki:About">Harry Potter Wiki</a> is written from the perspective that all information presented in canon is true (e.g., <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts</a> really exists), and, as such, details contained in this article may differ from real world facts.
+</p>
+</td></tr></tbody></table>
+<p>
+<aside role="region" class="portable-infobox pi-background pi-theme-wizard pi-layout-default">
+<figure class="pi-item pi-image" data-source="image">
+	<a href="https://static.wikia.nocookie.net/harrypotter/images/e/ec/Paracelsus_Chocolate_Frog_Card_%28WWHP%29.png/revision/latest?cb=20200826121636" class="image image-thumbnail"
+	   title="">
+		<img src="https://static.wikia.nocookie.net/harrypotter/images/e/ec/Paracelsus_Chocolate_Frog_Card_%28WWHP%29.png/revision/latest/scale-to-width-down/350?cb=20200826121636" srcset="https://static.wikia.nocookie.net/harrypotter/images/e/ec/Paracelsus_Chocolate_Frog_Card_%28WWHP%29.png/revision/latest/scale-to-width-down/350?cb=20200826121636 1x, https://static.wikia.nocookie.net/harrypotter/images/e/ec/Paracelsus_Chocolate_Frog_Card_%28WWHP%29.png/revision/latest/scale-to-width-down/699?cb=20200826121636 2x" class="pi-image-thumbnail" alt="" width="270" height="371"
+		     data-image-key="Paracelsus_Chocolate_Frog_Card_%28WWHP%29.png" data-image-name="Paracelsus Chocolate Frog Card (WWHP).png"/>
+		
+	</a>
+	
+</figure>
+<section class="pi-item pi-group pi-border-color">
+	
+<h2 class="pi-item pi-item-spacing pi-title" data-source="name">Phillipus Aureolus Theophrastus Bombastus von Hohenheim</h2>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Biographical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="born">
+	
+		<h3 class="pi-data-label pi-secondary-font">Born</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/1493" class="mw-redirect" title="1493">1493</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="died">
+	
+		<h3 class="pi-data-label pi-secondary-font">Died</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/1541" class="mw-redirect" title="1541">1541</a> (aged 47-48)</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="alias">
+	
+		<h3 class="pi-data-label pi-secondary-font">Also known as</h3>
+	
+	<div class="pi-data-value pi-font">Paracelsus</div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Physical information</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="species">
+	
+		<h3 class="pi-data-label pi-secondary-font">Species</h3>
+	
+	<div class="pi-data-value pi-font"><a href="/wiki/Human" title="Human">Human</a></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="gender">
+	
+		<h3 class="pi-data-label pi-secondary-font">Gender</h3>
+	
+	<div class="pi-data-value pi-font">Male</div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hair">
+	
+		<h3 class="pi-data-label pi-secondary-font">Hair colour</h3>
+	
+	<div class="pi-data-value pi-font">White<sup id="cite_ref-PSGC_1-0" class="reference"><a href="#cite_note-PSGC-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="eyes">
+	
+		<h3 class="pi-data-label pi-secondary-font">Eye colour</h3>
+	
+	<div class="pi-data-value pi-font">Blue<sup id="cite_ref-PSGC_1-1" class="reference"><a href="#cite_note-PSGC-1">&#91;1&#93;</a></sup></div>
+</div>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="skin">
+	
+		<h3 class="pi-data-label pi-secondary-font">Skin colour</h3>
+	
+	<div class="pi-data-value pi-font">White<sup id="cite_ref-PSGC_1-2" class="reference"><a href="#cite_note-PSGC-1">&#91;1&#93;</a></sup></div>
+</div>
+
+</section>
+<section class="pi-item pi-group pi-border-color">
+	<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Affiliation</h2>
+
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="job">
+	
+		<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+	
+	<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Alchemy" title="Alchemy">Alchemist</a></li><li><a href="/wiki/Doctor" title="Doctor">Physician</a></li></ul></div>
+</div>
+
+</section>
+<nav class="pi-navigation pi-item-spacing pi-secondary-background pi-secondary-font"><small><a href="/wiki/Template:Individual_infobox" title="Template:Individual infobox">[Source]</a><span class="hidable-button"></span></small></nav>
+</aside>
+
+</p>
+<div class="quote">
+<dl><dd><span title="Source:&#160;Harry Potter and the Chamber of Secrets (video game)">"<i>Contemporary of <a href="/wiki/Nicolaus_Copernicus" title="Nicolaus Copernicus">Copernicus</a> and <a href="/wiki/Leonardo_Da_Vinci" title="Leonardo Da Vinci">Leonardo Da Vinci</a>. A medical genius whose bold theories challanged </i>[sic]<i> medieval thought. Credited with discovering <a href="/wiki/Parseltongue" title="Parseltongue">Parseltongue</a>.</i>"</span></dd>
+<dd>&#8212;<a href="/wiki/Chocolate_Frog_Card" title="Chocolate Frog Card">Chocolate Frog Card</a><sup class="noprint"><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(video_game)" title="Harry Potter and the Chamber of Secrets (video game)">[src]</a></sup></dd>
+<dd></dd></dl></div>
+<p><b>Phillipus Aureolus Theophrastus Bombastus von Hohenheim</b><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> (<a href="/wiki/1493" class="mw-redirect" title="1493">1493</a>—<a href="/wiki/1541" class="mw-redirect" title="1541">1541</a>), more commonly known as <b>Paracelsus</b>, was a <a href="/wiki/Wizardkind" title="Wizardkind">wizard</a> and <a href="/wiki/Alchemy" title="Alchemy">alchemist</a> about whom very little is known. In addition to his work on <a href="/wiki/Alchemy" title="Alchemy">alchemy</a>, he made significant contributions to the field of medicine, having been a notable <a href="/wiki/Doctor" title="Doctor">physician</a>.<sup id="cite_ref-PSGC_1-3" class="reference"><a href="#cite_note-PSGC-1">&#91;1&#93;</a></sup> Paracelsus's bold theories challenged medieval thought. Paracelsus was credited with the discovery of <a href="/wiki/Parseltongue" title="Parseltongue">Parseltongue</a>.<sup id="cite_ref-PSGPC_3-0" class="reference"><a href="#cite_note-PSGPC-3">&#91;3&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Behind_the_scenes"><span class="tocnumber">2</span> <span class="toctext">Behind the scenes</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Appearances"><span class="tocnumber">3</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Notes_and_references"><span class="tocnumber">4</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Phillipus_von_Hohenheim?veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Biography">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Phillipus_von_Hohenheim?action=edit&amp;section=1" title="Edit section: Biography"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In his lifetime, Paracelsus contributed heavily to the field of medicine, with his bold theories challenging <a href="/wiki/Middle_Ages" title="Middle Ages">medieval</a> thought.<sup id="cite_ref-PSGC_1-4" class="reference"><a href="#cite_note-PSGC-1">&#91;1&#93;</a></sup> Paracelsus was credited with the discovery of <a href="/wiki/Parseltongue" title="Parseltongue">Parseltongue</a>.<sup id="cite_ref-PSGPC_3-1" class="reference"><a href="#cite_note-PSGPC-3">&#91;3&#93;</a></sup>
+</p>
+<figure class="thumb tleft show-info-icon" style="width: 182px"> 	<a href="https://static.wikia.nocookie.net/harrypotter/images/4/4a/Paracelsus.jpg/revision/latest?cb=20090623162246" class="image"><img alt="" src="https://static.wikia.nocookie.net/harrypotter/images/4/4a/Paracelsus.jpg/revision/latest/scale-to-width-down/180?cb=20090623162246" decoding="async" width="180" height="225" class="thumbimage" data-image-name="Paracelsus.jpg" data-image-key="Paracelsus.jpg" /></a> 	 	<figcaption class="thumbcaption"> 		 			<a href="/wiki/File:Paracelsus.jpg" class="info-icon"><svg><use xlink:href="#wds-icons-info-small"></use></svg></a> 		 		 		 			<p class="caption">Paracelsus brewing a <a href="/wiki/Potion" title="Potion">potion</a></p> 		 	</figcaption> </figure>
+<p>For his contributions to multiple magical fields, he was featured on a <a href="/wiki/Chocolate_Frog_Card" title="Chocolate Frog Card">Chocolate Frog Card</a>. <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a> received this card from a <a href="/wiki/Chocolate_Frog" title="Chocolate Frog">Chocolate Frog</a> on his first ride aboard the <a href="/wiki/Hogwarts_Express" title="Hogwarts Express">Hogwarts Express</a> in <a href="/wiki/1991" title="1991">1991</a>.<sup id="cite_ref-PS6_4-0" class="reference"><a href="#cite_note-PS6-4">&#91;4&#93;</a></sup>
+</p><p>There was a bust of Paracelsus in a corridor at <a href="/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry" title="Hogwarts School of Witchcraft and Wizardry">Hogwarts</a>. In <a href="/wiki/1995" title="1995">1995</a>, while on his way to the <a href="/wiki/Owlery" title="Owlery">Owlery</a>, Harry Potter ran into <a href="/wiki/Nicholas_de_Mimsy-Porpington" title="Nicholas de Mimsy-Porpington">Nearly Headless Nick</a>, who warned him that <a href="/wiki/Peeves" title="Peeves">Peeves</a> was planning to drop the bust on the head of the next person who walked down the corridor. Harry thus chose to take an alternate route to the Owlery.<sup id="cite_ref-OOTP14_5-0" class="reference"><a href="#cite_note-OOTP14-5">&#91;5&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behind_the_scenes">Behind the scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Phillipus_von_Hohenheim?veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Behind the scenes">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Phillipus_von_Hohenheim?action=edit&amp;section=2" title="Edit section: Behind the scenes"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>The real life <a href="http://en.wikipedia.org/wiki/Paracelsus" class="extiw" title="wikipedia:Paracelsus">Paracelsus</a> was born Phillip Von Hohenheim, in 1493 in <a href="/wiki/Switzerland" title="Switzerland">Switzerland</a>. He later changed his name to Philippus Theophrastus Aureolus Bombastus von Hohenheim, then to Paracelsus. He has made many contributions to medicine. He believed every human needed a balance of minerals and metals in their body and he was the first to use minerals and metals as medicine. Paracelsus also studied psychotherapy, and was the first to understand the subconscious.</li>
+<li>Although he made several important contributions to the sciences of medicine and chemistry, he also wrote several treatises in <a href="/wiki/Astrology" title="Astrology">Astrology</a> and <a href="/wiki/Divination" title="Divination">Divination</a>, which has led to him being portrayed as a magician, or a "pseudo-scientist" in later popular culture, in several works besides the Harry Potter universe.</li></ul>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Phillipus_von_Hohenheim?veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Appearances">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Phillipus_von_Hohenheim?action=edit&amp;section=3" title="Edit section: Appearances"><svg class="wds-icon wds-icon-tiny section-edit-pencil-icon"><use xlink:href="#wds-icons-pencil-tiny"></use></svg>edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone" title="Harry Potter and the Philosopher&#39;s Stone">Harry Potter and the Philosopher's Stone</a></i> <small>(First mentioned)</small> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(video_game)" title="Harry Potter and the Philosopher&#39;s Stone (video game)">Harry Potter and the Philosopher's Stone (video game)</a></i> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(video_game)" title="Harry Potter and the Chamber of Secrets (video game)">Harry Potter and the Chamber of Secrets (video game)</a></i> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li>
+<li><i><a href="/wiki/Harry_Potter_and_the_Order_of_the_Phoenix" title="Harry Potter and the Order of the Phoenix">Harry Potter and the Order of the Phoenix</a></i> <small>(Appears as statue)</small></li>
+<li><i><a href="/wiki/Pottermore" title="Pottermore">Pottermore</a></i> <span class="template-c">(Appears on a <a href="/wiki/Chocolate_Frog_Cards" class="mw-redirect" title="Chocolate Frog Cards">Famous Wizard Card</a>)</span></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Phillipus_von_Hohenheim?veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Notes and references">edit</a><span class="mw-editsection-divider"> | </span><a href="/wiki/Phillipus_von_Hohenheim?action=edit&amp;section=4" title="Edit section: Notes and references
